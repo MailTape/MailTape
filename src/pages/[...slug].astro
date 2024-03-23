@@ -1,0 +1,37 @@
+---
+import { type CollectionEntry, getCollection } from 'astro:content';
+import Episode from '../layouts/Episode.astro';
+import sortByDate from "../utils/sortByDate.js";
+import slugEp from "../utils/slugEp.js";
+import similarEp from "../utils/similarEp.js";
+
+export async function getStaticPaths() {
+	const episodes = await getCollection('episodes');
+	const numberOfEpisodes = episodes.length;
+	return episodes.sort(sortByDate).map((episode,i) => ({
+		params: {
+			slug: slugEp(episode) 
+		},
+		props: {
+			episode,
+			nextEpisode:
+			i+1 === numberOfEpisodes
+			? null
+			: episodes[i+1],
+			prevEpisode:
+			i === 0
+			? null
+			: episodes[i-1],
+			similarEpisodes: similarEp(episode,episodes)
+		}
+	}));
+}
+type Props = CollectionEntry<'blog'>;
+
+const { episode, prevEpisode, nextEpisode, similarEpisodes } = Astro.props;
+const { Content } = await episode.render();
+
+---
+<Episode { ...episode.data } prevEpisode={ prevEpisode ? `/${slugEp(prevEpisode)}` : null } nextEpisode={ nextEpisode ? `/${slugEp(nextEpisode)}` : null } similarEpisodes = { similarEpisodes }>
+	<Content />
+</Episode>

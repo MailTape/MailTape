@@ -1,0 +1,60 @@
+<div class="container">
+    <div class="d-none d-md-flex" id="topbar-subscription-form">
+        <div class="col-md-6 d-md-inline topbar-subscription">
+            <div>
+                <h1>✌️Welcome on MailTape.</h1>
+                <h2>We release a playlist co-curated with a surprise guest each Sunday morning.💎 
+                </h2>
+            </div>
+        </div>
+        <div class="col-md-6 d-md-inline topbar-subscription">
+            <form action="https://iris.mailta.pe/subscribe" method="POST" accept-charset="utf-8">
+                <input type="text" name="name" id="name" placeholder="Alex" pattern="^([[A-Za-z]+[,.]?[ ]?|[A-Za-z]+['-]]?)+$" required>
+                <input type="email" name="email" id="email" placeholder="alex@mail.com" required>
+                <input type="hidden" name="list" value="LKDfeSSXhgKxYSwOPkqQ3Q"/>
+                <input type="hidden" name="subform" value="yes"/>
+                <button type="submit" name="submit" id="submit" data-toggle="tooltip" data-placement="bottom" title="We respect your privacy, we'll never share or sell your data.">Follow</button>
+                <br><p id="topbar-status"></p>
+            </form>
+        </div>
+    </div>
+</div> 
+
+
+
+<!-- Modal -->
+            <div class="modal fade" id="topLearnMoreModal" tabindex="-1" role="dialog" aria-labelledby="subModalLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title">🌟 Never miss an episode</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>    
+                        </div>
+
+                        <div class="modal-body">
+                            <p>
+                                You can follow us on Facebook, Twitter, Instagram. 
+                                <br><br>
+                                If you prefer to avoid these corporations exploiting your privacy, we are also on <a href="https://masto.mtcrew.org/@MailTape" target="_blank">Mastodon</a> and we provide <a href="/feed.xml" target="_blank">a RSS feed</a>. 🤗<br>
+                            </p><br>
+                            <p id="mobile-subscription" >
+                                Or we can also send them directly to you:<br>
+                                <form action="https://iris.mailta.pe/subscribe" method="POST" accept-charset="utf-8">
+                                    <input type="text" name="name" id="name" placeholder="Alex" pattern="^([[A-Za-z]+[,.]?[ ]?|[A-Za-z]+['-]]?)+$" required>
+                                    <input type="email" name="email" id="email" placeholder="alex@mail.com" required>
+                                    <input type="hidden" name="list" value="LKDfeSSXhgKxYSwOPkqQ3Q"/>
+                                    <input type="hidden" name="subform" value="yes"/>
+                                    <button type="submit" name="submit" id="submit">Yes, please!</button>
+                                    <p id="mobile-status"></p>
+                                </form><br>
+                                ✋ We respect your privacy and will never share or sell your data.
+                            </p>
+
+                        </div>
+
+                    </div>
+                    <!-- /.modal-content -->
+                </div>
+                <!-- /.modal-dialog -->
+            </div>
+            <!-- /.modal -->

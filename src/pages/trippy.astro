@@ -1,0 +1,232 @@
+---
+import Footer from "../components/Footer.astro";
+
+import {SITE_BASE_URL} from "../consts";
+import { getCollection } from "astro:content";
+import sortByEpisodeNumber from "../utils/sortByEpisodeNumber.js";
+import slugEp from "../utils/slugEp.js";
+import stringifyPubDate from "../utils/stringifyPubDate.js";
+import { Debug } from 'astro:components';
+
+import IntroStory from "../components/home/IntroStory.astro";
+const colorInURL = Astro.url.pathname.slice(1);
+
+const episodes = await getCollection('episodes', ({ data })=> {
+    return data.pubDate < Date.now() && data.published===true && data.guest_color==="trippy";
+})
+episodes.sort(sortByEpisodeNumber);
+---
+
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Welcome to MailTape - A place for music lovers by music lovers</title>
+        <meta property="og:title" content="Welcome to MailTape" />
+        <meta property="og:type" content="article" />
+        <meta property="og:url" content="https://www.mailta.pe/" />
+        <meta property="og:image" content="https://www.mailta.pe/img/logo_MailTape_static.png" />
+        <meta property="og:description" content="Every Sunday morning, we release a music selection curated with a guest. MailTape is an Art project started in 2011." />
+     
+        <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <!-- Favicon -->
+        <link rel="apple-touch-icon" sizes="57x57" href="/assets/favicon/apple-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="/assets/favicon/apple-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="/assets/favicon/apple-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="/assets/favicon/apple-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="/assets/favicon/apple-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="/assets/favicon/apple-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="/assets/favicon/apple-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="/assets/favicon/apple-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-icon-180x180.png">
+        <link rel="icon" type="image/png" sizes="192x192"  href="/assets/favicon/android-icon-192x192.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="96x96" href="/assets/favicon/favicon-96x96.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png">
+        <link rel="manifest" href="/assets/favicon/manifest.json">
+        <meta name="msapplication-TileColor" content="#ffffff">
+        <meta name="msapplication-TileImage" content="/assets/favicon/ms-icon-144x144.png">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="shortcut icon" href="/favicon.ico">
+
+        <!-- Chargement des polices sur Google Fonts (oui c'est mal et faudra changer ça) -->
+        <script is:inline src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js"></script>
+
+        <script is:inline>
+            WebFont.load({
+              google: {
+                families: ['Roboto:300,500','Arima+Madurai:300','Caveat:400']
+              },
+              custom: {
+                families: ['superspitze_groteskregular', 'icomoon'],
+                urls: ['/assets/stylesheets/reference.css']
+              }
+            });
+        </script>
+
+        <!-- load jquery 3.4.1 local and popperjs for bootstrap 4 -->
+        <script is:inline src="/assets/javascripts/vendor/jquery-3.4.1.min.js"></script>
+
+        <!--   <script is:inline src="/assets/javascripts/jquery.easing.1.3.js"></script> A priori plus utilisé. Désactivé pour test -->
+
+        <!-- bootstrap js stuff -->
+        <script is:inline src="/assets/javascripts/bootstrap/bootstrap.bundle.min.js"></script>
+
+        <!--   Include here all homemade scripts -->   
+        <script is:inline src="/assets/javascripts/hello.js"></script>
+        <script is:inline src="/assets/javascripts/mt-footer.js"></script>
+        <script is:inline src="/assets/javascripts/mt-index.js"></script>
+
+       <!-- Matomo Tracker here. We're keeping your private data safe on our own server and not sharing it with external trackers such as Google. We use this only to know how many people enjoy MailTape and imagine new features. If you use a blocker, it's fine with us of course. Cheers. -->
+        <script type="text/javascript">
+         var _paq = window._paq || [];
+         /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+         _paq.push(['trackPageView']);
+         _paq.push(['enableLinkTracking']);
+         (function() {
+           var u="//maty.mailta.pe/";
+           _paq.push(['setTrackerUrl', u+'matomo.php']);
+           _paq.push(['setSiteId', '1']);
+           var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+           g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+         })();
+        </script>
+        <noscript><p><img src="//maty.mailta.pe/matomo.php?idsite=1&amp;rec=1" style="border:0;" alt="" /></p></noscript>
+        <!-- End Matomo Code -->
+
+        <!-- Bootstrap -->
+        <link rel="stylesheet" type="text/css" href="/assets/stylesheets/bootstrap/bootstrap.min.css">
+        
+        <!-- CSS and styling components -->    
+        <link rel="stylesheet" type="text/css" href="/assets/stylesheets/mailtape.css">
+        <link rel="stylesheet" type="text/css" href="/assets/stylesheets/index.css">
+
+    </head>
+
+    <body>
+
+        <div id="scrollUp">
+            <svg height='2.5rem' width='2.5rem'  fill="#FFFFFF" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="-255 347 100 100" style="enable-background:new -255 347 100 100;" xml:space="preserve"><g><path class="st0" d="M-250,430c0,6.6,5.4,12,12,12h66c6.6,0,12-5.4,12-12v-55h-90V430z M-219.4,406.6l13-13c0.8-0.8,2-0.8,2.8,0   l13,13c0.8,0.8,0.8,2,0,2.8c-0.8,0.8-2,0.8-2.8,0l-11.6-11.6l-11.6,11.6c-0.8,0.8-2,0.8-2.8,0   C-220.2,408.6-220.2,407.4-219.4,406.6z"></path><path class="st0" d="M-172,352h-66c-6.6,0-12,5.4-12,12v7h90v-7C-160,357.4-165.4,352-172,352z"></path></g></svg></div>
+
+        <noscript>PLEASE <a href="http://www.enable-javascript.com/" target="blank">ENABLE JAVASCRIPT</a>We are verry sorry but MailTape isn't working  properly without javascript, so you need to activate it.</noscript>
+
+        <div class="container newTopbar">
+            <div class="d-flex justify-content-start flex-wrap">
+                <div class="ml-auto w-100 pt-2 menu pt-md-3">
+                    <a data-toggle="modal" href="#topLearnMoreModal">Follow</a>
+                    <a href="https://love.mailta.pe/" target="_blank">Support</a>
+                    <script language="Javascript" type="text/javascript">
+                    <!--
+                    document.write('<a href="mai');
+                    document.write('lto');
+                    document.write(':&#99;&#114;&#101;&#119;');
+                    document.write('@');
+                    document.write('&#109;&#97;&#105;&#108;&#116;&#97;&#46;&#112;&#101;">');
+                    document.write('Contact<\/a>');
+                    // -->
+                    </script>
+                </div>
+                <div class="pt-3">
+                    <a href="/" style="background:none"><img class="logo" src=`${SITE_BASE_URL}/img/logo_MailTape_static.png`></a>     
+                </div>
+                <div class="pt-3 align-self-center">
+                    <h1>Welcome to MailTape</h1>
+                    <h2>A place for music lovers by music lovers</h2>
+                </div>
+
+            </div>
+        </div>
+
+         <div class="container">
+
+            <div id="archivePreview" class="mb-xl-4 getRelative">
+                <IntroStory colorInURL= {colorInURL} />
+                <div class="d-none d-lg-flex">
+                    <div>
+                        <img src="" alt=""/>
+                        <!-- <img id="musiColor" src="//wsrv.nl/?url=ssl:www.mailta.pe/img/{{ episode.data.musiColor }}&w=360&il"/> -->
+                    </div>
+                    <div class="d-flex flex-column flex-nowrap">
+                        <div class="px-2">
+                            <h1>{ episodes[0].data.guest_name }</h1>
+                            <h2>EPISODE #{episodes[0].data.category } - { stringifyPubDate(episodes[0].data.pubDate) }</h2>
+                        </div>
+                        <div class="px-2 mt-auto">
+                            <ul id="previewPostTracks">
+                                <li class={ episodes[0].data.track1_color }>{ episodes[0].data.track1_title }</li>
+                                <li class={ episodes[0].data.track2_color }>{ episodes[0].data.track2_title }</li>
+                                <li class={ episodes[0].data.track3_color }>{ episodes[0].data.track3_title }</li>
+                                <li class={ episodes[0].data.track4_color }>{ episodes[0].data.track4_title }</li>
+                                <li class={ episodes[0].data.track5_color }>{ episodes[0].data.track5_title }</li>
+                                <li class={ episodes[0].data.track6_color }>{ episodes[0].data.track6_title }</li>
+                                <li class={ episodes[0].data.track7_color }>{ episodes[0].data.track7_title }</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div id="archiveLinks" class="d-flex flex-row justify-content-md-between flex-wrap"> 
+                {
+                    episodes.map((episode)=>(
+                        <div class="p-2 mb-2 mb-lg-0">
+                            <div class="ar-div">       
+                                <a data-preview-guestPic={`//wsrv.nl/?url=ssl:www.mailta.pe/img/${episode.data.guestPic}&w=390&h=260&fit=cover&il&output=webp`} data-preview-musiColor={`//wsrv.nl/?url=ssl:www.mailta.pe/img/${episode.data.musiColor }}&w=390&il&output=webp`} data-preview-h1={episode.data.guest_name} data-preview-h2={`EPISODE #${ episode.data.category } - ${ stringifyPubDate(episode.data.pubDate) }`}  data-preview-tracks1_title={ episode.data.track1_title } data-preview-tracks2_title={ episode.data.track2_title } data-preview-tracks3_title={ episode.data.track3_title } data-preview-tracks4_title={ episode.data.track4_title } data-preview-tracks5_title={ episode.data.track5_title } data-preview-tracks6_title={ episode.data.track6_title } data-preview-tracks7_title={ episode.data.track7_title } data-preview-tracks1_color={ episode.data.track1_color } data-preview-tracks2_color={ episode.data.track2_color } data-preview-tracks3_color={ episode.data.track3_color } data-preview-tracks4_color={ episode.data.track4_color } data-preview-tracks5_color={ episode.data.track5_color } data-preview-tracks6_color={ episode.data.track6_color } data-preview-tracks7_color={ episode.data.track7_color } class={`ar-link ${episode.data.guest_color}`} href={ slugEp(episode) }>{ episode.data.guest_name }</a>
+                            </div>
+                        </div>
+                    ))
+                }
+            </div>
+        </div>
+
+        <!-- Modal -->
+        <div class="modal fade" id="topLearnMoreModal" tabindex="-1" role="dialog" aria-labelledby="subModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title">🌟 Never miss an episode</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>    
+                    </div>
+
+                    <div class="modal-body">
+                        <p>
+                            You can follow us on Facebook, Twitter, Instagram. 
+                            <br><br>
+                            If you prefer to avoid these corporations exploiting your privacy, we are also on <a href="https://masto.mtcrew.org/@MailTape" target="_blank">Mastodon</a> and we provide <a href="/feed.xml" target="_blank">a RSS feed</a>. 🤗<br>
+                        </p><br>
+                        <p id="mobile-subscription" >
+                            Or we can also send them directly to you:<br>
+
+                            <script is:inline src='https://www.google.com/recaptcha/api.js'></script>
+                            <form action="https://iris.mailta.pe/subscribe" method="POST" accept-charset="utf-8">
+                                <input type="text" name="name" id="name" placeholder="Alex" pattern="^([[A-Za-z]+[,.]?[ ]?|[A-Za-z]+['-]]?)+$" required>
+                                <input type="email" name="email" id="email" placeholder="alex@mail.com" required>
+                                <p class="g-recaptcha" data-sitekey="6Lff4IceAAAAAAFTFDYGVUb_yYo-0gAuYC2cQuMA"></p><div style="display:none;">
+                                <label for="hp">HP</label><br/>
+                                <input type="text" name="hp" id="hp"/>
+                                </div>
+                                <input type="hidden" name="list" value="LKDfeSSXhgKxYSwOPkqQ3Q"/>
+                                <input type="hidden" name="subform" value="yes"/>
+                                <button type="submit" name="submit" id="submit">Yes, please!</button>
+                                <p id="mobile-status"></p>
+                            </form><br>
+                            ✋ We respect your privacy and will never share or sell your data.<br>
+                        </p>
+                        <small>
+                            🙏 Sorry for this sh** captcha thing, but without it we get spammed. If you know how to code a more elegant solution, a <a href="https://github.com/MailTape/MailTape.github.io/">pull request</a> would be greatly appreciated. 🤗
+                        </small>
+
+                    </div>
+
+                </div>
+                <!-- /.modal-content -->
+            </div>
+            <!-- /.modal-dialog -->
+        </div>
+        <!-- /.modal -->
+
+
+    <Footer />

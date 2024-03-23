@@ -1,0 +1,22 @@
+---
+const { tracksURL, tracksTitle } = Astro.props;
+const tracksURLString = JSON.stringify(tracksURL);
+
+---
+
+<episode-tracklist data-links={tracksURLString} >
+</episode-tracklist>
+
+<!-- <script>
+    class Tracklist extends HTMLElement {
+        constructor() {
+            super();
+
+            var tracksURL = JSON.parse(this.dataset.links);
+            var tracksTitle = JSON.parse(this.dataset.titles);
+            console.log(tracksURL);
+            console.log(tracksTitle);
+        }
+    }
+    customElements.define('episode-tracklist', Tracklist);
+</script> -->

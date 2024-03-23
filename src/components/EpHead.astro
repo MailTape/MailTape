@@ -1,0 +1,190 @@
+---
+import Tracklist from './Tracklist.astro';
+
+interface Props {
+	guest_name: string;
+    image: string;
+	description: string;
+    category: string;
+    track1_link: string;
+    track2_link: string;
+    track3_link: string;
+    track4_link: string;
+    track5_link: string;
+    track6_link: string;
+    track7_link: string;
+    track1_title: string;
+    track2_title: string;
+    track3_title: string;
+    track4_title: string;
+    track5_title: string;
+    track6_title: string;
+    track7_title: string;
+}
+
+const episodeURL = new URL(Astro.url.pathname, Astro.site);
+
+const { 
+    guest_name,
+    image,
+    description,
+    category,
+    track1_link,track2_link, track3_link,track4_link, track5_link,track6_link, track7_link,
+    track1_title,track2_title, track3_title,track4_title, track5_title,track6_title, track7_title,
+} = Astro.props;
+
+const tracks_link=[track1_link,track2_link,track3_link,track4_link,track5_link,track6_link,track7_link];
+const tracks_title=[track1_title,track2_title,track3_title,track4_title,track5_title,track6_title,track7_title];
+
+---
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>MailTape { category } - { guest_name }</title>
+    <meta property="og:title" content=`MailTape ${ category }  - ${guest_name}` />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content={ episodeURL } />
+    <meta property="og:image" content={ image } />
+    <meta property="og:description" content={ description } />
+ 
+    <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Favicon -->
+    <link rel="apple-touch-icon" sizes="57x57" href="/assets/favicon/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/assets/favicon/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/assets/favicon/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/assets/favicon/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/assets/favicon/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/assets/favicon/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/assets/favicon/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/assets/favicon/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="/assets/favicon/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/assets/favicon/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/assets/favicon/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/assets/favicon/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+
+    <link rel="shortcut icon" href="/favicon.ico">
+
+    <!-- Chargement des polices sur Google Fonts (oui c'est mal et faudra changer ça) -->
+    <script is:inline src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js"></script>
+
+    <script is:inline>
+        WebFont.load({
+          google: {
+            families: ['Roboto:300,500','Arima+Madurai:300']
+          },
+          custom: {
+            families: ['superspitze_groteskregular', 'icomoon'],
+            urls: ['/assets/stylesheets/reference.css']
+          }
+        });
+    </script>
+
+    <!-- load jquery 3.4.1 local and popperjs for bootstrap 4 -->
+    <script is:inline src="/assets/javascripts/vendor/jquery-3.4.1.min.js"></script>
+
+    <!--   <script is:inline src="/assets/javascripts/jquery.easing.1.3.js"></script> A priori plus utilisé. Désactivé pour test -->
+
+    <!-- migration tool (to activate if any problem with jQuery3 ) -->    
+    <!-- <script is:inline src="/assets/javascripts/vendor/jquery-migrate-3.1.0.js"></script> -->
+
+   <!-- soundManager API -->
+    <script is:inline src="/assets/javascripts/soundmanager2-jsmin.js"></script>
+
+    <!-- Include here bootstrap -->
+   <script is:inline src="/assets/javascripts/bootstrap/bootstrap.bundle.min.js"></script>
+
+    <!--   Include here all homemade scripts -->   
+    <script is:inline src="/assets/javascripts/hello.js"></script>
+    <script is:inline src="/assets/javascripts/mt-episode.js"></script>
+    <script is:inline src="/assets/javascripts/mt-footer.js"></script>
+
+    <!-- Page player main script -->
+    <script is:inline src="/assets/javascripts/page-player.js"></script>
+
+    <script is:inline>
+    soundManager.setup({
+        flashVersion: 8,                  // flash build to use (8 or 9.) Some API features require 9.
+        debugMode: true,                  // enable debugging output (console.log() with HTML fallback)
+        debugFlash: false,                // enable debugging output inside SWF, troubleshoot Flash/browser issues
+        useConsole: true,                 // use console.log() if available (otherwise, writes to #soundmanager-debug element)
+        consoleOnly: true,                // if console is being used, do not create/write to #soundmanager-debug
+        preferFlash: false, // for visualization effects
+        useHTML5Audio: true, // use HTML5 Audio() where API is supported (most Safari, Chrome versions), Firefox (MP3/MP4 support varies.) Ideally, transparent vs. Flash API where possible.
+        forceUseGlobalHTML5Audio: true,  // if true, a single Audio() object is used for all sounds - and only one can play at a time.
+        ignoreMobileRestrictions: false,  // if true, SM2 will not apply global HTML5 audio rules to mobile UAs. iOS > 7 and WebViews may allow multiple Audio() instances.
+        useHighPerformance: false, // keep flash on screen, boost performance
+        wmode: 'transparent', // transparent SWF, if possible
+        allowScriptAccess: 'always',      // for scripting the SWF (object/embed property), 'always' or 'sameDomain'
+        url: '/swf/'
+    });
+
+    // custom page player configuration
+
+    var PP_CONFIG = {
+        autoStart: false, // begin playing first sound when page loads
+        playNext: true, // stop after one sound, or play through list until end
+        useThrottling: false, // try to rate-limit potentially-expensive calls (eg. dragging position around)</span>
+        usePeakData: false, // [Flash 9 only] whether or not to show peak data (left/right channel values) - nor noticable on CPU
+        useWaveformData: false, // [Flash 9 only] show raw waveform data - WARNING: LIKELY VERY CPU-HEAVY
+        useEQData: false, // [Flash 9 only] show EQ (frequency spectrum) data
+        useFavIcon: false, // try to apply peakData to address bar (Firefox + Opera) - performance note: appears to make Firefox 3 do some temporary, heavy disk access/swapping/garbage collection at first(?) - may be too heavy on CPU
+        allowRightClick: false, // let users right-click MP3 links ("save as...", etc.) or discourage (can't prevent.)
+        updatePageTitle: false,
+    }
+    </script>
+
+
+    <!-- autres data à faire passer au js -->
+    <script define:vars={{category}}>
+
+    var episodeNumber = category;
+
+    </script>
+
+    <!-- déclaration des url des tracks de la playlist -->
+    <Tracklist tracksURL={tracks_link} tracksTitle={tracks_title}/>
+
+   <!-- Matomo Tracker here. We're keeping your private data safe on our own server and not sharing it with external trackers such as Google. We use this only to know how many people enjoy MailTape and imagine new features. If you use a blocker, it's fine with us of course. Cheers. -->
+    <script is:inline type="text/javascript">
+     var _paq = window._paq || [];
+     /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+     _paq.push(['trackPageView']);
+     _paq.push(['enableLinkTracking']);
+     (function() {
+       var u="//maty.mailta.pe/";
+       _paq.push(['setTrackerUrl', u+'matomo.php']);
+       _paq.push(['setSiteId', '1']);
+       var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+       g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+     })();
+    </script>
+    <noscript><p><img src="//maty.mailta.pe/matomo.php?idsite=1&amp;rec=1" style="border:0;" alt="" /></p></noscript>
+    <!-- End Matomo Code -->
+
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" type="text/css" href="/assets/stylesheets/bootstrap/bootstrap.min.css">
+    
+    <!-- Page player core CSS -->
+    <link rel="stylesheet" type="text/css" href="/assets/stylesheets/page-player.css" />
+
+    <!-- soundManager.useFlashBlock: related CSS -->
+    <link rel="stylesheet" type="text/css" href="/assets/stylesheets/flashblock.css" />
+    
+    <!-- CSS and styling components -->    
+    <link rel="stylesheet" type="text/css" href="/assets/stylesheets/mailtape.css">
+
+
+</head>
+
+<body>
+    
+    <noscript>PLEASE <a href="//www.enable-javascript.com/" target="blank">ENABLE JAVASCRIPT</a>We are verry sorry but MailTape isn't working  properly without javascript, so you need to activate it.</noscript>
