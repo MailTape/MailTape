@@ -34,6 +34,8 @@ episode_URL: http://mailta.pe/481/Luiza-Brina/
 musiColor: musiColor481.png
 guestPic: guestPic481.jpg
 pubDate: '2022-02-13'
+description:  The week can bring so much to challenge and test us. This Sunday, we offer a reprieve. Together, let's exhale all that the past days have brought onto our shoulders and ease into the morning with our dear guest Luiza Brina.
+
 ---
  The week can bring so much to challenge and test us. This Sunday, we offer a reprieve. Together, let's exhale all that the past days have brought onto our shoulders and ease into the morning with our dear guest [Luiza Brina](https://luizabrina.bandcamp.com/).
 <br><br>

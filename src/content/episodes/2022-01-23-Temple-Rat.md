@@ -32,6 +32,7 @@ author: Ling
 illustrator: Meriam Kharbat
 writer: Ling
 guestPic: guestPic478.jpg
+musiColor: ''
 pubDate: '2022-01-23'
 ---
  This morning, we wake up with some grooves with [Temple Rat](https://www.instagram.com/meiyuxinmay).

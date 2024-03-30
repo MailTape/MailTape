@@ -30,7 +30,7 @@ track6_title: Police des Moeurs - Heure Bleue
 track6_color: vibrant
 track7_color: dreamy
 track7_title: Chris Rubeo - Lover’s Spit
-episode_URL: mailta.pe/283/le-turc-mecanique
+episode_URL: https://mailta.pe/283/le-turc-mecanique
 image: https://mailta.pe/img/fbPic283.png
 musiColor: musiColor283.png
 description: This morning, take some time to listen to Le Turc Mécanique’s delightful selection, for a morning that gets sweeter by every minute. Post-punk label Le Turc Mécanique is one of France’s best independent labels, with artists ranging from pop to post-punk to noise to techno and more. So even though autumn and its grey skies have arrived, it doesn’t mean we have to wallow in self pity. It takes a little less than 30 minutes to go from bleakness to comfort.

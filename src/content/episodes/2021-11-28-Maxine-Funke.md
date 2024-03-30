@@ -33,6 +33,7 @@ track6_title: Howie Lee - Birdy Island
 track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/472/track6.mp3
 description: This morning, we are delighted to welcome Maxine Funk to MailTape for a peaceful selection, crafted carefully to lift you on your way this Sunday. Based in New Zealand, multi instrumentalist Maxine Funke crafts each album with meditative care. Every release in the discography lands its own distinctive emotional exploration, at once tender and consuming.
 illustrator: Meriam Kharbat
+musiColor: ''
 pubDate: '2021-11-28'
 ---
  This morning, we are delighted to welcome [Maxine Funke](https://maxinefunke1.bandcamp.com/music) to MailTape for a peaceful selection, crafted carefully to lift you on your way this Sunday. 

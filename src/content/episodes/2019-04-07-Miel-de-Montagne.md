@@ -33,6 +33,8 @@ track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/352/Track%203.mp3
 guestPic: guestPic352.jpg
 image: https://mailta.pe/img/fbPic352.png
 musiColor: musiColor352.png
+description: This morning, the atmosphere is light almost aerial, like the whipped cream that is on my boyfriend’s birthday cake. With imagination we could almost find ourselves hovering and swimming inside surrounded by love and voluptuousness. Actually, the universe of our guest this morning, Miel de Montagne, is a bit like this whipped cream, where I enjoy cake.
+
 pubDate: '2019-04-07'
 ---
  This morning, the atmosphere is light almost aerial, like the whipped cream that is on my boyfriend’s birthday cake. With imagination we could almost find ourselves hovering and swimming inside surrounded by love and voluptuousness. Actually, the universe of our guest this morning, Miel de Montagne, is a bit like this whipped cream, where I enjoy cake.

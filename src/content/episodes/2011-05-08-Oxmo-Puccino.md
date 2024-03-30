@@ -6,7 +6,7 @@ author: ImaCrea
 illustrator: Anais Caura
 writer: ImaCrea
 category: '2'
-guest_name: Oxmo Puccino
+guest_name: ''
 guest_color: vibrant
 guestPic: guestPic2.jpg
 track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/2/track1.mp3

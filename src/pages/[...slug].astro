@@ -26,7 +26,7 @@ export async function getStaticPaths() {
 		}
 	}));
 }
-type Props = CollectionEntry<'blog'>;
+interface Props {episode: any, prevEpisode?: any, nextEpisode?: any, similarEpisodes: any}
 
 const { episode, prevEpisode, nextEpisode, similarEpisodes } = Astro.props;
 const { Content } = await episode.render();

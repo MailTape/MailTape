@@ -33,10 +33,12 @@ track7_color: trippy
 musiColor: musiColor424.png
 image: https://mailta.pe/img/fbPic424.png
 illustrator: Meriam Kharbat
+description: This morning, we're serving you a comfy episode. A selection curated with great care for a chill morning at home spent alone or with your loved ones sipping a warm hot chocolate. From blues, to bossa nova, Bowie's vibes and amapiano, we're honored to share this episode with Natalie Greffel as our dear guest.
+
 pubDate: '2020-11-08'
 ---
 
-  This morning, we're serving you a comfy episode. A selection curated with great care for a chill morning at home spent alone or with your loved ones sipping a warm hot chocolate. From blues, to bossa nova, Bowie's vibes and amapiano, we're honored to share this episode with [Natalie Greffel](https://nataliegreffel.bandcamp.com/) as our dear guest.
+This morning, we're serving you a comfy episode. A selection curated with great care for a chill morning at home spent alone or with your loved ones sipping a warm hot chocolate. From blues, to bossa nova, Bowie's vibes and amapiano, we're honored to share this episode with [Natalie Greffel](https://nataliegreffel.bandcamp.com/) as our dear guest.
 
 
 # Natalie Greffel's selection

@@ -20,7 +20,7 @@ track6_color: dreamy
 track5_color: rough
 track7_title: Connan Mockasin - Momo's (feat James Blake)
 track7_color: vibrant
-episode_URL: https:// www.mailta.pe/339/cam-maclean/
+episode_URL: https://www.mailta.pe/339/cam-maclean
 track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/339/track6.mp3
 track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/339/track5.mp3
 track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/339/track4.mp3

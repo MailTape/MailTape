@@ -8,7 +8,7 @@ import Footer from '../components/Footer.astro';
 import stringifyPubDate from '../utils/stringifyPubDate.js';
 import slugEp from '../utils/slugEp.js';
 
-type Props = CollectionEntry<'episodes'>['data'];
+type Props = CollectionEntry<'episodes'>['data'] & { prevEpisode?: any, nextEpisode?: any, similarEpisodes: any[] };
 
 const {
     author,
@@ -40,10 +40,10 @@ const {
     track6_color,
     track7_color,
     guestPic,
+    pubDate,
     prevEpisode,
     nextEpisode,
     similarEpisodes,
-    pubDate
 } = Astro.props;
 
 const tracksURLString = JSON.stringify([track1_link,track2_link,track3_link,track4_link,track5_link,track6_link,track7_link]);

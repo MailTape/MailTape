@@ -11,8 +11,7 @@
  * V2.97a.20170601
  */
 
-/**
- * About this file
+/* About this file */
 
 (function SM2(window, _undefined) {
 'use strict';
