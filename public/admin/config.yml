@@ -1,0 +1,81 @@
+backend:
+  name: github
+  repo: MailTape/MailTape
+  branch: decapCMS # Branch to update (master by default)
+
+media_folder: "public/img" # Location where files will be stored in the repo
+public_folder: "img" # The src attribute for uploaded media
+
+slug:
+  encoding: "ascii"
+  clean_accents: true
+  sanitize_replacement: "_"
+
+collections:
+  - name: "episodes" # Used in routes, e.g., /admin/collections/blog
+    label: "Episodes" # Used in the UI
+    folder: "src/content/episodes" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields for each document, usually in frontmatter
+      - { label: "Published", name: "published", widget: "boolean", default: false }
+      - { label: "Publish Date", name: "pubDate", widget: "datetime", date_format: "YYYY-MM-DD" }
+      - { label: "Guest", name: "guest_name", widget: "string" }
+      - { label: "Guest Color", name: "guest_color", widget: "select", options: ["bliss","dreamy","rough", "trippy", "vibrant"]}
+      - { label: "Guest Pic", name: "guest_pic", widget: "file", media_library: {media_folder: "/public/img",config: { max_file_size: 1024000 } } }
+      - { label: "Curator", name: "author", widget: "select", options: ["Anaïs G","Anto","Jules","ImaCrea","Inès","Ling","Sarah"] }
+      - { label: "Illustrator", name: "illustrator", widget: "select", options: ["Anthony Dujardin","Camille Célestin","Camille Lemeunier","Julie Wojtczak","Lucie Fléty","Meriam Kharbat","Nella Papelita","Noémie Dijon", "Patricia Barros De Miranda","Thibault Daumain"] }
+      - { label: "Writer", name: "writer", widget: "select", options: ["PS2YK"] }
+      - label: "Track 1"
+        name: "track1"
+        widget: "object"
+        fields:
+          - { label: "Title", name: "track1_title", widget: "string" }
+          - { label: "Color", name: "track1_color", widget: "select", options: ["bliss","dreamy","rough", "trippy", "vibrant"] }
+          - { label: "Link", name: "track1_link", widget: "string", hint: "https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track1.mp3"}
+      - label: "Track 2"
+        name: "track2"
+        widget: "object"
+        fields:
+          - { label: "Title", name: "track2_title", widget: "string" }
+          - { label: "Color", name: "track2_color", widget: "select", options: ["Bliss","Dreamy","Rough", "Trippy", "Vibrant"] }
+          - { label: "Link", name: "track2_link", widget: "string", hint: "https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track2.mp3"}
+      - label: "Track 3"
+        name: "track3"
+        widget: "object"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Color", name: "color", widget: "select", options: ["Bliss","Dreamy","Rough", "Trippy", "Vibrant"] }
+          - { label: "Link", name: "link", widget: "string", hint: "https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track3.mp3"}
+      - label: "Track 4"
+        name: "track4"
+        widget: "object"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Color", name: "color", widget: "select", options: ["Bliss","Dreamy","Rough", "Trippy", "Vibrant"] }
+          - { label: "Link", name: "link", widget: "string", hint: "https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track4.mp3"}
+      - label: "Track 5"
+        name: "track5"
+        widget: "object"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Color", name: "color", widget: "select", options: ["Bliss","Dreamy","Rough", "Trippy", "Vibrant"] }
+          - { label: "Link", name: "link", widget: "string", hint: "https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track5.mp3"}
+      - label: "Track 6"
+        name: "track6"
+        widget: "object"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Color", name: "color", widget: "select", options: ["Bliss","Dreamy","Rough", "Trippy", "Vibrant"] }
+          - { label: "Link", name: "link", widget: "string", hint: "https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track6.mp3"}
+      - label: "Track 7"
+        name: "track7"
+        widget: "object"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Color", name: "color", widget: "select", options: ["Bliss","Dreamy","Rough", "Trippy", "Vibrant"] }
+          - { label: "Link", name: "link", widget: "string", hint: "https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track7.mp3"}
+      - { label: 'Episode content', name: 'body', widget: 'markdown' }
+      - { label: "Description", name: "Description", widget: "text" }
+      - { label: "Episode URL", name: "episode_URL", widget: "string", hint: "Warning : be careful with caps and don't forget '/' at end! Convention: https://mailta.pe/129/Valentin-Stip/" }
+      - { label: "FB Pic", name: "image", hint: "Once fbPic uploaded, write here its FULL PATH. Convention : https://mailta.pe/img/fbPic131.png"}
+      - { label: "MusiColor", name: "musiColor", widget: "file", media_library: {media_folder: "/public/img",config: { max_file_size: 1024000 } } }
