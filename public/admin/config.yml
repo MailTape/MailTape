@@ -95,7 +95,7 @@ collections:
           - {label: "Rough", value: "rough"}
           - {label: "Trippy", value: "trippy"}
           - {label: "Vibrant", value: "vibrant"}
-      - { label: "Track 5 - Link", name: track5_link, widget: "string", default: "https://mtsounds.s3.eu-central-1.wasabisys.com/{{category}}/track5.mp3" }
+      - { label: "Track 5 - Link", name: track5_link, widget: "string", hint: "https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track5.mp3 where XXX is episode number" }
 
       - { label: "Track 6 - Title", name: track6_title, widget: "string" }
       - label: "Track6 - Color"
