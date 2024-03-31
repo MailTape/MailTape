@@ -101,6 +101,9 @@ const { episodes, colorInURL } = Astro.props;
         <link rel="stylesheet" type="text/css" href="/assets/stylesheets/mailtape.css">
         <link rel="stylesheet" type="text/css" href="/assets/stylesheets/index.css">
 
+        <!-- Netlify identity package, needed for DecapCMS --> 
+        <script is:inline src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
     </head>
 
     <body>
@@ -202,5 +205,17 @@ const { episodes, colorInURL } = Astro.props;
         </div>
         <!-- /.modal -->
         
+
+        <script is:inline>
+            if (window.netlifyIdentity) {
+              window.netlifyIdentity.on("init", (user) => {
+                if (!user) {
+                  window.netlifyIdentity.on("login", () => {
+                    document.location.href = "/admin/";
+                  });
+                }
+              });
+            }
+        </script>
 
     <Footer />
