@@ -10,7 +10,7 @@ backend:
 # branch: decapCMS
 
 media_folder: "public/img" # Location where files will be stored in the repo
-public_folder: "img" # The src attribute for uploaded media
+public_folder: "" # The src attribute for uploaded media
 
 slug:
   encoding: "ascii"
