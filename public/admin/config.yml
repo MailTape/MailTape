@@ -1,12 +1,13 @@
 backend:
   name: github
   repo: MailTape/MailTape
-  branch: master # Branch to update (master by default)
+  branch: decapCMS # Branch to update (master by default)
 
-# local config https://decapcms.org/docs/working-with-a-local-git-repository/#gatsby-focus-wrapper
+#local config https://decapcms.org/docs/working-with-a-local-git-repository/#gatsby-focus-wrapper
 # local_backend: true
 # backend:
 #   name: git-gateway
+# branch: decapCMS
 
 media_folder: "public/img" # Location where files will be stored in the repo
 public_folder: "img" # The src attribute for uploaded media
@@ -21,6 +22,10 @@ collections:
     label: "Episodes" # Used in the UI
     folder: "src/content/episodes" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
+    identifier_field: guest_name
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    summary: "Episode {{category}} - {{guest_name}}"
+    #preview_path: "{{ category }}/{{guest_name.slug}}"
     fields: # The fields for each document, usually in frontmatter
       - { label: "Published", name: "published", widget: "boolean", default: false }
       - { label: "Publish Date", name: "pubDate", widget: "datetime", date_format: "YYYY-MM-DD" }
