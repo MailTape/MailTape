@@ -35,7 +35,7 @@ collections:
       - { label: "Guest Pic", name: "guestPic", widget: "file", media_library: {media_folder: "/public/img",config: { max_file_size: 10240000 } } }
       - { label: "Curator", name: "author", widget: "select", options: ["Anaïs G","Anto","Jules","ImaCrea","Inès","Ling","Sarah"] }
       - { label: "Illustrator", name: "illustrator", widget: "select", options: ["Anthony Dujardin","Camille Célestin","Camille Lemeunier","Julie Wojtczak","Lucie Fléty","Meriam Kharbat","Nella Papelita","Noémie Dijon", "Patricia Barros De Miranda","Thibault Daumain"] }
-      - { label: "Writer", name: "writer", widget: "select", options: ["PS2YK"] }
+      - { label: "Writer", name: "writer", widget: "select", options:  ["Anaïs G","Anto","Jules","ImaCrea","Inès","Ling","PS KY",Sarah"]  }
       
       - { label: "Track 1 - Title", name: track1_title, widget: "string" }
       - label: "Track1 - Color"
