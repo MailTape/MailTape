@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: MailTape/MailTape
-  branch: decapCMS # Branch to update (master by default)
+  branch: master # Branch to update (master by default)
 
 #local config https://decapcms.org/docs/working-with-a-local-git-repository/#gatsby-focus-wrapper
 # local_backend: true
