@@ -7,10 +7,13 @@ import type { CollectionEntry } from 'astro:content';
 import sortByEpisodeNumber from "../utils/sortByEpisodeNumber.js";
 
 const allPosts = await getCollection('episodes');
+
+// Careful: this setting is for build only. Use slice(1) for local dev
 const colorInURL = Astro.url.pathname.slice(1,-1);
+
 console.log(colorInURL);
 const posts = allPosts
-      .filter((post: CollectionEntry<'episodes'>) => (post.data.guest_color === colorInURL))
+      .filter((post: CollectionEntry<'episodes'>) => (post.data.guest_color === colorInURL && post.data.published === true))
       .sort(sortByEpisodeNumber);
 
 ---
