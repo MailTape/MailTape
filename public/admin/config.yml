@@ -1,13 +1,13 @@
-# backend:
-#   name: github
-#   repo: MailTape/MailTape
-#   branch: master # Branch to update (master by default)
+backend:
+  name: github
+  repo: MailTape/MailTape
+  branch: master # Branch to update (master by default)
 
 #local config https://decapcms.org/docs/working-with-a-local-git-repository/#gatsby-focus-wrapper
-local_backend: true
-backend:
-  name: git-gateway
-branch: decapCMSimprov
+# local_backend: true
+# backend:
+#   name: git-gateway
+# branch: decapCMSimprov
 
 media_folder: "public/img" # Location where files will be stored in the repo
 public_folder: "" # The src attribute for uploaded media
