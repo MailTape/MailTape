@@ -5,13 +5,11 @@ import { getCollection } from "astro:content";
 import sortByEpisodeNumber from "../utils/sortByEpisodeNumber.js";
 import slugEp from "../utils/slugEp.js";
 
-const colorInURL = Astro.url.pathname.slice(1);
-
 const episodes = await getCollection('episodes', ({ data })=> {
     let now: Date = new Date (Date.now());
-    return data.pubDate < now && data.published===true;
+    return data.pubDate < now && data.published === true;
 })
 episodes.sort(sortByEpisodeNumber);
 ---
 
-<Home episodes = { episodes } colorInURL = {colorInURL} />
+<Home episodes = { episodes } />
