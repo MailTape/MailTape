@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 pubDate: 2024-04-07
 category: "553"
 guest_name: Manofresca
@@ -29,22 +29,27 @@ track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/553/track6.mp3
 track7_title: The Palms - Push Off
 track7_color: bliss
 track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/553/track7.mp3
-description: isspoks
+description: This morning we invite you to explore a particular vibe. It is not
+  easy to describe it. It's a certain idea of ​​refinement, sometinghing that we
+  can call pretension but not like you’re used to hearing. Rather something
+  undeniably sustained, never haughty, something which places itself a little
+  above the fray, which shines with its talent, with impetuous virtuosity, with
+  pretension. And after all, why not? Don’t you need a bit of this pretension to
+  dare to explore certain corners of musical creativity knowing that you will
+  inevitably create wonders from them? Isn’t it necessary to then dare to take
+  the plunge and share your work with the public?
 episode_URL: https://mailta.pe/553/Manofresca
-image: " https://mailta.pe/img/fbPic131.png"
-musiColor: screenshot_2024-04-06_at_15-05-21_mailtape_551_-_machka.png
+image: " https://mailta.pe/img/fbPic553.png"
+musiColor: musicolor.png
 ---
 This morning we invite you to explore a particular vibe. It is not easy to describe it. It's a certain idea of ​​refinement, sometinghing that we can call pretension but not like you’re used to hearing. Rather something undeniably sustained, never haughty, something which places itself a little above the fray, which shines with its talent, with impetuous virtuosity, with pretension. And after all, why not? Don’t you need a bit of this pretension to dare to explore certain corners of musical creativity knowing that you will inevitably create wonders from them? Isn’t it necessary to then dare to take the plunge and share your work with the public?
 
-
-
-Definitely this is how we can perceive the work of Manofresca whose forthcoming album is a patchwork of varied feelings, a collection of personal reflections served alongside delicate melodies. Refined work. Like what we can perceive in every song of today’s selection.
-
+Definitely this is how we can perceive the work of [Manofresca](https://linktr.ee/manofresca) whose forthcoming album is a patchwork of varied feelings, a collection of personal reflections served alongside delicate melodies. Refined work. Like what we can perceive in every song of today’s selection.\
 Important information: if you find it pretentious, let your preconceptions go to better capture the vibe of the artist who takes you into his universe. It only lasts a song.
 
 # Guest's selection
 
-## Brad Behldau - After Bach: Flux
+## [Brad Behldau](https://bradmehldau.bandcamp.com/album/after-bach-ii) - After Bach: Flux
 
  Manofresca: **"** I’ve never had the privilege of meeting Brad Mehldau, but I have always followed his journey from afar. The journey of an all-round musician who refuses labels and categories, and yet ends up being involved and respected by all musical genre. This investigation on Bach, for whom I share the same passion and reverence, speaks to me: the 7/8, slanted fetish time signature, the “staccato” as a highly expressive language of the piano, and the open harmony, with expanded major tonalities complicating and creating emotional tension. **"** 
 
@@ -58,21 +63,21 @@ Important information: if you find it pretentious, let your preconceptions go to
 
 # MailTape's selection
 
-## Manofresca – Nothing of Ours (feat Piers Faccini)
+## [Manofresca](https://linktr.ee/manofresca) – Nothing of Ours (feat Piers Faccini)
 
  Anto: **"** How do you release an album when you're full of talent? Don’t you risk being fatally presented as pretentious? How can you make all these instruments sound in tune, make them hear each other without overflowing? It's a perilous exercise that Manofresca engages with here an impetuous song which ends up hurtling down a decor that scrolls at full speed. Yet, Piers Faccini's voice is calm. It accompanies us, wants to be reassuring, as if to tell us that everything will be fine.\
 So let's go ahead and follow them carefully. **"** 
 
-## Nneka - Your request (special)
+## [Nneka](https://nnekaworld.com/) - Your request (special)
 
  Anto: **"** You know Nneka. Is it pretension when she shows up like that, alone with her guitar, only armed with a voice that will make mountains shake? The girl shows up on a radio show and shoot without warning a solo that petrifies us. What audacity to dare to play with her voice in this way! The worst is that's absolutely incredible. How lucky we are that there was a microphone in the studio that day.\
 *(our apologies for the extraneous noises, this version is a one shot recorded in the premises of Générations 88.2 in 2011)* **"** 
 
-## Abstract orchestra - All Caps
+## [Abstract orchestra](https://abstractorchestra.bandcamp.com/) - All Caps
 
  Anto: **"** Tribute to MF Doom, the late masked rapper, pretentious because the best, especially during this period when he was connected with Madlib to release Madvillainy, a legendary album. In the track list, a track entitled All caps, composed of samples gleaned here and there in a raw style... This is the song that the Abstract Orchestra covers with the firm intention of remaining faithful to the original, deceptively simple vibe, particularly voluptuous. And even if nothing can match the original, here is the demonstration of what the pretension of a super villain can spit out in fine. **"** 
 
-## The Palms - Push Off
+## [The Palms](https://thepalmsmusic.bandcamp.com/) - Push Off
 
  Anto: **"** Everything is there. The Californian guitar, the lascivious piano, the tortured singer, choruses that go "oh-oh"... This is a summary of pretension characteristic of hegemonic American rock bands. Little pricks yet capable of producing this kind of nugget that we hate to love. We would like to judge them hastily, to refuse to be drawn into humming the words with them, but it is clear that they still manage to make us appreciate their proposal. It works, the guy's voice calls out to us. We listen to his story, without developing any particular compassion and we end up stunned, uncertain to have have heard what we heard.**"** 
 
@@ -80,4 +85,4 @@ So let's go ahead and follow them carefully. **"**
 
 That's all for today. What do we take away from this episode? Perhaps not to be afraid of pretension, of a calibrated, fair pretension, of those which push you to do beautiful things which will beautify the world.
 
-Thanks to Manofresca for the selection and to Meriam for the illustration.
+Thanks to [Manofresca](https://linktr.ee/manofresca) for the selection and to [Meriam](https://www.instagram.com/___meriamk___/) for the illustration.
