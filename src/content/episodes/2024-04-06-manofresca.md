@@ -42,7 +42,7 @@ episode_URL: https://mailta.pe/553/Manofresca
 image: " https://mailta.pe/img/fbPic553.png"
 musiColor: musicolor.png
 ---
-This morning we invite you to explore a particular vibe. It is not easy to describe it. It's a certain idea of ​​refinement, sometinghing that we can call pretension but not like you’re used to hearing. Rather something undeniably sustained, never haughty, something which places itself a little above the fray, which shines with its talent, with impetuous virtuosity, with pretension. And after all, why not? Don’t you need a bit of this pretension to dare to explore certain corners of musical creativity knowing that you will inevitably create wonders from them? Isn’t it necessary to then dare to take the plunge and share your work with the public?
+This morning we invite you to explore a particular vibe. It is not easy to describe it. It's a certain idea of ​​refinement, someting that we can call pretension but not like you’re used to hearing. Rather something undeniably sustained, never haughty, something which places itself a little above the fray, which shines with its talent, with impetuous virtuosity, with pretension. And after all, why not? Don’t you need a bit of this pretension to dare to explore certain corners of musical creativity knowing that you will inevitably create wonders from them? Isn’t it necessary to then dare to take the plunge and share your work with the public?
 
 Definitely this is how we can perceive the work of [Manofresca](https://linktr.ee/manofresca) whose forthcoming album is a patchwork of varied feelings, a collection of personal reflections served alongside delicate melodies. Refined work. Like what we can perceive in every song of today’s selection.\
 Important information: if you find it pretentious, let your preconceptions go to better capture the vibe of the artist who takes you into his universe. It only lasts a song.
@@ -80,8 +80,6 @@ So let's go ahead and follow them carefully. **"**
 ## [The Palms](https://thepalmsmusic.bandcamp.com/) - Push Off
 
  Anto: **"** Everything is there. The Californian guitar, the lascivious piano, the tortured singer, choruses that go "oh-oh"... This is a summary of pretension characteristic of hegemonic American rock bands. Little pricks yet capable of producing this kind of nugget that we hate to love. We would like to judge them hastily, to refuse to be drawn into humming the words with them, but it is clear that they still manage to make us appreciate their proposal. It works, the guy's voice calls out to us. We listen to his story, without developing any particular compassion and we end up stunned, uncertain to have have heard what we heard.**"** 
-
-
 
 That's all for today. What do we take away from this episode? Perhaps not to be afraid of pretension, of a calibrated, fair pretension, of those which push you to do beautiful things which will beautify the world.
 
