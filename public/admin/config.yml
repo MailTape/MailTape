@@ -65,12 +65,12 @@ collections:
       - { label: "Publish Date", name: "pubDate", widget: "datetime", date_format: "YYYY-MM-DD",hint: "Episode won't be available on homepage before this date" }
       - { label: "Episode number", name: "category", widget: "string" }
       - { label: "Guest", name: "guest_name", widget: "string" }
-      - { label: "Guest Color", name: "guest_color", widget: "select", options: ["bliss","dreamy","rough", "trippy", "vibrant"], hint: "This is the color which highlights the episode on homepage"}
-      - { label: "Guest Pic", name: "guestPic", widget: "image", media_library: {media_folder: "/public/img",config: { max_file_size: 10240000 } } }
-      - { label: "Curator", name: "author", widget: "select", options: ["Anaïs G","Anto","Jules","ImaCrea","Inès","Ling","Sarah"] }
-      - { label: "Illustrator", name: "illustrator", widget: "select", options: ["Anthony Dujardin","Camille Célestin","Camille Lemeunier","Julie Wojtczak","Lucie Fléty","Meriam Kharbat","Nella Papelita","Noémie Dijon", "Patricia Barros De Miranda","Thibault Daumain"] }
-      - { label: "Writer", name: "writer", widget: "select", options:  ["Anaïs G","Anto","Jules","ImaCrea","Inès","Ling","PS KY","Sarah"]  }
-      - { label: "Track 1 - Title", name: track1_title, widget: "string" }
+      - { label: "Guest Color", required: false, name: "guest_color", widget: "select", options: ["bliss","dreamy","rough", "trippy", "vibrant"], hint: "This is the color which highlights the episode on homepage"}
+      - { label: "Guest Pic", required: false, name: "guestPic", widget: "image", media_library: {media_folder: "/public/img",config: { max_file_size: 10240000 } } }
+      - { label: "Curator", required: false, name: "author", widget: "select", options: ["Anaïs G","Anto","Jules","ImaCrea","Inès","Ling","Sarah"] }
+      - { label: "Illustrator", required: false, name: "illustrator", widget: "select", options: ["Anthony Dujardin","Camille Célestin","Camille Lemeunier","Julie Wojtczak","Lucie Fléty","Meriam Kharbat","Nella Papelita","Noémie Dijon", "Patricia Barros De Miranda","Thibault Daumain"] }
+      - { label: "Writer", required: false, name: "writer", widget: "select", options:  ["Anaïs G","Anto","Jules","ImaCrea","Inès","Ling","PS KY","Sarah"]  }
+      - { label: "Track 1 - Title", required: false, name: track1_title, widget: "string" }
       - label: "Track1 - Color"
         name: track1_color
         widget: select
@@ -80,9 +80,9 @@ collections:
           - {label: "Rough", value: "rough"}
           - {label: "Trippy", value: "trippy"}
           - {label: "Vibrant", value: "vibrant"}
-      - { label: "Track 1 - Link", name: track1_link, widget: "string", hint: "https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track1.mp3 where XXX is episode number", default: "https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track1.mp3" }
+      - { label: "Track 1 - Link", required: false, name: track1_link, widget: "string", hint: "https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track1.mp3 where XXX is episode number", default: "https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track1.mp3" }
 
-      - { label: "Track 2 - Title", name: track2_title, widget: "string" }
+      - { label: "Track 2 - Title", required: false, name: track2_title, widget: "string" }
       - label: "Track2 - Color"
         name: track2_color
         widget: select
@@ -92,9 +92,9 @@ collections:
           - {label: "Rough", value: "rough"}
           - {label: "Trippy", value: "trippy"}
           - {label: "Vibrant", value: "vibrant"}
-      - { label: "Track 2 - Link", name: track2_link, widget: "string", hint: "https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track2.mp3 where XXX is episode number", default: "https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track2.mp3" }
+      - { label: "Track 2 - Link", required: false, name: track2_link, widget: "string", hint: "https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track2.mp3 where XXX is episode number", default: "https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track2.mp3" }
 
-      - { label: "Track 3 - Title", name: track3_title, widget: "string" }
+      - { label: "Track 3 - Title", required: false, name: track3_title, widget: "string" }
       - label: "Track3 - Color"
         name: track3_color
         widget: select
@@ -104,9 +104,9 @@ collections:
           - {label: "Rough", value: "rough"}
           - {label: "Trippy", value: "trippy"}
           - {label: "Vibrant", value: "vibrant"}
-      - { label: "Track 3 - Link", name: track3_link, widget: "string", hint: "https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track3.mp3 where XXX is episode number", default: "https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track3.mp3" }
+      - { label: "Track 3 - Link", required: false, name: track3_link, widget: "string", hint: "https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track3.mp3 where XXX is episode number", default: "https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track3.mp3" }
 
-      - { label: "Track 4 - Title", name: track4_title, widget: "string" }
+      - { label: "Track 4 - Title", required: false, name: track4_title, widget: "string" }
       - label: "Track4 - Color"
         name: track4_color
         widget: select
@@ -116,9 +116,9 @@ collections:
           - {label: "Rough", value: "rough"}
           - {label: "Trippy", value: "trippy"}
           - {label: "Vibrant", value: "vibrant"}
-      - { label: "Track 4 - Link", name: track4_link, widget: "string", hint: "https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track4.mp3 where XXX is episode number", default: "https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track4.mp3" }
+      - { label: "Track 4 - Link", required: false, name: track4_link, widget: "string", hint: "https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track4.mp3 where XXX is episode number", default: "https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track4.mp3" }
 
-      - { label: "Track 5 - Title", name: track5_title, widget: "string" }
+      - { label: "Track 5 - Title", required: false, name: track5_title, widget: "string" }
       - label: "Track5 - Color"
         name: track5_color
         widget: select
@@ -128,9 +128,9 @@ collections:
           - {label: "Rough", value: "rough"}
           - {label: "Trippy", value: "trippy"}
           - {label: "Vibrant", value: "vibrant"}
-      - { label: "Track 5 - Link", name: track5_link, widget: "string", hint: "https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track5.mp3 where XXX is episode number", default: "https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track5.mp3" }
+      - { label: "Track 5 - Link", required: false, name: track5_link, widget: "string", hint: "https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track5.mp3 where XXX is episode number", default: "https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track5.mp3" }
 
-      - { label: "Track 6 - Title", name: track6_title, widget: "string" }
+      - { label: "Track 6 - Title", required: false, name: track6_title, widget: "string" }
       - label: "Track6 - Color"
         name: track6_color
         widget: select
@@ -140,9 +140,9 @@ collections:
           - {label: "Rough", value: "rough"}
           - {label: "Trippy", value: "trippy"}
           - {label: "Vibrant", value: "vibrant"}
-      - { label: "Track 6 - Link", name: track6_link, widget: "string", hint: "https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track6.mp3 where XXX is episode number", default: "https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track6.mp3" }
+      - { label: "Track 6 - Link", required: false, name: track6_link, widget: "string", hint: "https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track6.mp3 where XXX is episode number", default: "https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track6.mp3" }
 
-      - { label: "Track 7 - Title", name: track7_title, widget: "string" }
+      - { label: "Track 7 - Title", required: false, name: track7_title, widget: "string" }
       - label: "Track7 - Color"
         name: track7_color
         widget: select
@@ -152,11 +152,11 @@ collections:
           - {label: "Rough", value: "rough"}
           - {label: "Trippy", value: "trippy"}
           - {label: "Vibrant", value: "vibrant"}
-      - { label: "Track 7 - Link", name: track7_link, widget: "string", hint: "https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track7.mp3 where XXX is episode number", default: "https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track7.mp3" }
+      - { label: "Track 7 - Link", required: false, name: track7_link, widget: "string", hint: "https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track7.mp3 where XXX is episode number", default: "https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track7.mp3" }
 
       
-      - { label: 'Episode content', name: 'body', widget: 'markdown', default: "This morning... \n # Guest's selection \n ## Artist - Track \n Guest: **\"** lorem ipsum **\"** \n ## Artist - Track \n Guest: **\"** lorem ipsum **\"** \n ## Artist - Track \n Guest: **\"** lorem ipsum **\"** \n # Curator's selection \n ## Artist - Track \n Curator: **\"** lorem ipsum **\"** \n ## Artist - Track \n Curator: **\"** lorem ipsum **\"** \n ## Artist - Track \n Curator: **\"** lorem ipsum **\"** \n ## Artist - Track \n Curator: **\"** lorem ipsum **\"** \n\n Thank you... "}
-      - { label: "Description", name: "description", widget: "text" }
-      - { label: "Episode URL", name: "episode_URL", widget: "string", hint: "Warning : be careful with caps and don't forget '/' at end! Convention: https://mailta.pe/129/Valentin-Stip/" }
-      - { label: "FB Pic", name: "image" , widget: "string", hint: "Once fbPic uploaded, write here its FULL PATH. Convention : https://mailta.pe/img/fbPic131.png"}
-      - { label: "MusiColor", name: "musiColor", widget: "image", media_library: {media_folder: "/public/img",config: { max_file_size: 1024000 } } }
+      - { label: 'Episode content', required: false, name: 'body', widget: 'markdown', default: "This morning... \n # Guest's selection \n ## Artist - Track \n Guest: **\"** lorem ipsum **\"** \n ## Artist - Track \n Guest: **\"** lorem ipsum **\"** \n ## Artist - Track \n Guest: **\"** lorem ipsum **\"** \n # Curator's selection \n ## Artist - Track \n Curator: **\"** lorem ipsum **\"** \n ## Artist - Track \n Curator: **\"** lorem ipsum **\"** \n ## Artist - Track \n Curator: **\"** lorem ipsum **\"** \n ## Artist - Track \n Curator: **\"** lorem ipsum **\"** \n\n Thank you... "}
+      - { label: "Description", required: false, name: "description", widget: "text" }
+      - { label: "Episode URL", required: false, name: "episode_URL", widget: "string", hint: "Warning : be careful with caps and don't forget '/' at end! Convention: https://mailta.pe/129/Valentin-Stip/" }
+      - { label: "FB Pic", required: false, name: "image" , widget: "string", hint: "Once fbPic uploaded, write here its FULL PATH. Convention : https://mailta.pe/img/fbPic131.png"}
+      - { label: "MusiColor", required: false, name: "musiColor", widget: "image", media_library: {media_folder: "/public/img",config: { max_file_size: 1024000 } } }

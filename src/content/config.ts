@@ -10,7 +10,7 @@ const episodes = defineCollection({
 		writer: z.string().optional(),
 		category: z.string(),
 		guest_name: z.string(),
-		guest_color: z.string(),
+		guest_color: z.string().optional(),
 		guestPic: z.string().optional(),
 		track1_title: z.string().optional(),
 		track2_title: z.string().optional(),
