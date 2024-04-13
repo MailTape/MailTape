@@ -74,6 +74,7 @@ collections:
       - label: "Track1 - Color"
         name: track1_color
         widget: select
+        required: false
         options:
           - {label: "Bliss", value: "bliss"}
           - {label: "Dreamy", value: "dreamy"}
@@ -86,6 +87,7 @@ collections:
       - label: "Track2 - Color"
         name: track2_color
         widget: select
+        required: false
         options:
           - {label: "Bliss", value: "bliss"}
           - {label: "Dreamy", value: "dreamy"}
@@ -98,6 +100,7 @@ collections:
       - label: "Track3 - Color"
         name: track3_color
         widget: select
+        required: false
         options:
           - {label: "Bliss", value: "bliss"}
           - {label: "Dreamy", value: "dreamy"}
@@ -110,6 +113,7 @@ collections:
       - label: "Track4 - Color"
         name: track4_color
         widget: select
+        required: false
         options:
           - {label: "Bliss", value: "bliss"}
           - {label: "Dreamy", value: "dreamy"}
@@ -122,6 +126,7 @@ collections:
       - label: "Track5 - Color"
         name: track5_color
         widget: select
+        required: false
         options:
           - {label: "Bliss", value: "bliss"}
           - {label: "Dreamy", value: "dreamy"}
@@ -134,6 +139,7 @@ collections:
       - label: "Track6 - Color"
         name: track6_color
         widget: select
+        required: false
         options:
           - {label: "Bliss", value: "bliss"}
           - {label: "Dreamy", value: "dreamy"}
@@ -146,6 +152,7 @@ collections:
       - label: "Track7 - Color"
         name: track7_color
         widget: select
+        required: false
         options:
           - {label: "Bliss", value: "bliss"}
           - {label: "Dreamy", value: "dreamy"}
