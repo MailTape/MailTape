@@ -66,4 +66,4 @@ Sami: **"** A love song too. Mashrou' Leila has been one of the most influent in
 
  Jules: **"** lorem ipsum **"** 
 
-That’s it for this morning, thank you for joining us! Much love to [Sami Galbi]() his lovely emotional trippy selection and to Noémie Dijon for her delightful illustration.
+That’s it for this morning, thank you for joining us! Much love to [Sami Galbi](https://samigalbi.bandcamp.com/) his lovely emotional trippy selection and to Noémie Dijon for her delightful illustration.
