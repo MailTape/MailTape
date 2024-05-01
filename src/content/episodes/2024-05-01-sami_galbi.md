@@ -37,7 +37,7 @@ This morning...
 
 ## Timber Timbre - Black Water
 
- Sami: **"** Perfect waking up song, it is to me the reconstruction of a sparkling and lightfull world after a destroying storm. I think the song can make anybody feel like flying over any negative thoughts. The song draws a space of softness and positivity, which is often advisable on a Sunday Morning! **"** 
+Sami: **"** Perfect waking up song, it is to me the reconstruction of a sparkling and lightfull world after a destroying storm. I think the song can make anybody feel like flying over any negative thoughts. The song draws a space of softness and positivity, which is often advisable on a Sunday Morning! **"** 
 
 ## Cheba Fadela & Cheb Sahraoui - Manich Mena
 
