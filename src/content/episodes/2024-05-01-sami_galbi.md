@@ -10,25 +10,25 @@ illustrator: Noémie Dijon
 writer: Jules
 track1_title: Timber Timbre - Black Water
 track1_color: dreamy
-track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track1.mp3
+track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/557/track1.mp3
 track2_title: Cheba Fadela & Cheb Sahraoui - Manich Mena
 track2_color: bliss
-track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track2.mp3
+track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/557/track2.mp3
 track3_title: Mashrou' Leila - Radio Romance
 track3_color: vibrant
-track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track3.mp3
-track4_title: Sami Galbi - Rruina
+track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/557/track3.mp3
+track4_title: Sami Galbi -  Dakchi Hani
 track4_color: trippy
-track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track4.mp3
+track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/557/track4.mp3
 track5_title: Sofiane Saidi & Mazalda - Bourkan
 track5_color: bliss
-track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track5.mp3
+track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/557/track5.mp3
 track6_title: Cheb Kader - Reggae Raï
 track6_color: trippy
-track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track6.mp3
+track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/557/track6.mp3
 track7_title: Teno Afrika - Smooth Criminal (Main Mix)
 track7_color: vibrant
-track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track7.mp3
+track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/557/track7.mp3
 episode_URL: https://mailta.pe/557/sami-galbi/
 ---
 This morning... 
@@ -49,20 +49,20 @@ Sami: **"** A love song too. Mashrou' Leila has been one of the most influent in
 
 # Curator's selection
 
-## Sami Galbi - RRuina
+## Sami Galbi - Dakchi Hani
 
- Curator: **"** lorem ipsum **"** 
+ Jules: **"** lorem ipsum **"** 
 
 ## Sofiane Saidi & Mazalda - Bourkan
 
- Curator: **"** lorem ipsum **"** 
+ Jules: **"** lorem ipsum **"** 
 
 ## Cheb Kader - Reggae Raï
 
- Curator: **"** lorem ipsum **"** 
+ Jules: **"** lorem ipsum **"** 
 
 ## Teno Afrika - Smooth Criminal (Main Mix)
 
- Curator: **"** lorem ipsum **"** 
+ Jules: **"** lorem ipsum **"** 
 
- Thank you...
+That’s it for this morning, thank you for joining us! Much love to [Sami Galbi]() his lovely emotional trippy selection and to Noémie Dijon for her delightful illustration.
