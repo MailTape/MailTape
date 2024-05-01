@@ -30,6 +30,7 @@ track7_title: Teno Afrika - Smooth Criminal (Main Mix)
 track7_color: vibrant
 track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/557/track7.mp3
 episode_URL: https://mailta.pe/557/sami-galbi/
+musiColor: musicolor557.png
 ---
 This morning... 
 
