@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 pubDate: 2024-05-05
 category: "557"
 guest_name: Sami Galbi
