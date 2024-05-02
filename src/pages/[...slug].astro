@@ -6,7 +6,8 @@ import slugEp from "../utils/slugEp.js";
 import similarEp from "../utils/similarEp.js";
 
 export async function getStaticPaths() {
-	const episodes = await getCollection('episodes');
+	const episodes = await getCollection('episodes',({ data }) => {
+  	return data.published === true;});
 	const numberOfEpisodes = episodes.length;
 	return episodes.sort(sortByDate).map((episode,i) => ({
 		params: {
