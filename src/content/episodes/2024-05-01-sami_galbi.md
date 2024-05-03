@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 pubDate: 2024-05-05
 category: "557"
 guest_name: Sami Galbi
@@ -32,7 +32,9 @@ track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/557/track7.mp3
 episode_URL: https://mailta.pe/557/sami-galbi/
 musiColor: musicolor557.png
 ---
-This morning... 
+This morning we're delighted to welcome Swiss-Moroccan musician and singer [Sami Galbi](https://samigalbi.bandcamp.com/) to MailTape!
+
+
 
 # Guest's selection
 
@@ -48,11 +50,11 @@ Sami: **"** This is a dialogue between two lovers. Both Algerians, they write ra
 
 Sami: **"** A love song too. Mashrou' Leila has been one of the most influent indie rock band in the Arab world. Beirut-based, they are also representing the gay community, which hasn't been an advantage to them. Speaking of a love relation with melancholy, the singer is using metaphors between the body and the mind. The bridge's construction is simply delicious. **"** 
 
-# Curator's selection
+# MailTape's selection
 
 ## Sami Galbi - Dakchi Hani
 
- Jules: **"** lorem ipsum **"** 
+Jules: **"** Another love song, but more a post-breakup love song, this track is a sort of reconciliation with the past, a celebration of a encounter that lingers nonetheless. "Dakchi Hani," which translates to "It's not serious" in Moroccan Darija, is Sami Galbi's first single and it's already a powerful artistic gesture with an energy that can't leave you indifferent. **"** 
 
 ## Sofiane Saidi & Mazalda - Bourkan
 
