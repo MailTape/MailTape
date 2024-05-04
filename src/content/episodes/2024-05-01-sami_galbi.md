@@ -45,7 +45,7 @@ musiColor: musicolor557.png
 ---
 This morning we're delighted to welcome Swiss-Moroccan musician and singer [Sami Galbi](https://samigalbi.bandcamp.com/) who has just released his first EP <i>Dakchi Hani / Rruina</i> to MailTape!
 
-Drawing from raï and chaâbi in fluences, the music of his childhood he rediscovered in the cabarets of Casablanca, the Swiss-Moroccan musician is using analog machines, raw synthesizers, and guitar effects to give North African popular and folkloric music a pop texture and a club atmosphere. With his vocals and boundless energy on stage, which borrow from hip-hop and rap, he's an artist to keep an eye on! 
+Drawing from raï and chaâbi in fluences, the music of his childhood he rediscovered in the cabarets of Casablanca, the musician who comes from the alternative scenes in the French-speaking part of Switzerland, is using analog machines, raw synthesizers, and guitar effects to give North African popular and folkloric music a pop texture and a club atmosphere. With his vocals and boundless energy on stage, which borrow from hip-hop and rap, he's an artist to keep an eye on! 
 
 # Sami Galbi's selection
 
