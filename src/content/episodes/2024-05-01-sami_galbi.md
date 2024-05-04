@@ -45,13 +45,13 @@ musiColor: musicolor557.png
 ---
 This morning we're delighted to welcome Swiss-Moroccan musician and singer [Sami Galbi](https://samigalbi.bandcamp.com/) who has just released his first EP <i>Dakchi Hani / Rruina</i> to MailTape!
 
-Drawing from raï and chaâbi in fluences, the music of his childhood he rediscovered in the cabarets of Casablanca, the musician who comes from the alternative scenes in the French-speaking part of Switzerland, is using analog machines, raw synthesizers, and guitar effects to give North African popular and folkloric music a pop texture and a club atmosphere. With his vocals and boundless energy on stage, which borrow from hip-hop and rap, he's an artist to keep an eye on! 
+Drawing from raï and chaâbi influences, the music of his childhood he rediscovered in the cabarets of Casablanca, the musician who comes from the alternative scenes in the French-speaking part of Switzerland, is using analog machines, raw synthesizers, and guitar effects to give North African popular and folkloric music a pop texture and a club atmosphere. With his vocals and boundless energy on stage, which borrow from hip-hop and rap, he's an artist to keep an eye on! 
 
 # Sami Galbi's selection
 
 ## [Timber Timbre](https://timbertimbrefth.bandcamp.com/) - Black Water
 
-Sami: **"** Perfect waking up song, it is to me the reconstruction of a sparkling and lightfull world after a destroying storm. I think the song can make anybody feel like flying over any negative thoughts. The song draws a space of softness and positivity, which is often advisable on a Sunday Morning! **"** 
+Sami: **"** Perfect waking up song, it is to me the reconstruction of a sparkling and lightful world after a destroying storm. I think the song can make anybody feel like flying over any negative thoughts. The song draws a space of softness and positivity, which is often advisable on a Sunday Morning! **"** 
 
 ## Cheba Fadela & Cheb Sahraoui - Manich Mena
 
@@ -59,7 +59,7 @@ Sami: **"** This is a dialogue between two lovers. Both Algerians, they write ra
 
 ## Mashrou' Leila - Radio Romance
 
-Sami: **"** A love song too. [Mashrou' Leila](https://www.instagram.com/mashrouleila/?hl=fr) has been one of the most influent indie rock band in the Arab world. Beirut-based, they are also representing the gay community, which hasn't been an advantage to them. Speaking of a love relation with melancholy, the singer is using metaphors between the body and the mind. The bridge's construction is simply delicious. **"** 
+Sami: **"** A love song too. [Mashrou' Leila](https://www.instagram.com/mashrouleila/?hl=fr) has been one of the most influent indie rock bands in the Arab world. Beirut-based, they are also representing the gay community, which hasn't been an advantage to them. Speaking of a love relation with melancholy, the singer is using metaphors between the body and the mind. The bridge's construction is simply delicious. **"** 
 
 # MailTape's selection
 
@@ -69,7 +69,7 @@ Jules: **"** Another love song, but more a post-breakup love song, this track is
 
 ## [Sofiane Saidi & Mazalda](https://sofianesaidimazalda.bandcamp.com/album/el-ndjoum) - Bourkan
 
- Jules: **"** Sofiane Saidi, "the Prince of Raï 2.0" as presented by Radio Nove, needs no introduction. For several decades now, he has been a key figure in the revival of raï and Maghreb music, influenced by electronic sounds, and is equally at home in cabarets, concert halls, clubs and after-parties where he accompanies DJs or pop music festivals. On this album, released in 2018, he has joined forces with Mazalda, a group of 6 musicians with a big rhythm section and brass instruments, to continue to spread the rhythms of raï and Algerian music coupled with bedouin sounds, gasbah gallal, synths psyches, funk and everything that makes people dance. **"** 
+ Jules: **"** Sofiane Saidi, "the Prince of Raï 2.0" as often presented, needs no introduction. For several decades now, he has been a key figure in the revival of raï and Maghreb music, influenced by electronic sounds, and is equally at home in cabarets, concert halls, clubs and after-parties where he accompanies DJs or pop music festivals. On this album, released in 2018, he has joined forces with Mazalda, a group of 6 musicians with a big rhythm section and brass instruments, to continue to spread the rhythms of raï and Algerian music coupled with bedouin sounds, gasbah gallal, synths psyches, funk and everything that makes people dance. **"** 
 
 ## Cheb Kader - Reggae Raï
 
