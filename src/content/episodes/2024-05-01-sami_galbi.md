@@ -30,6 +30,7 @@ track7_title: Teno Afrika - Smooth Criminal (Main Mix)
 track7_color: vibrant
 track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/557/track7.mp3
 episode_URL: https://mailta.pe/557/sami-galbi/
+image: https://mailta.pe/img/fbPic557.jpeg
 musiColor: musicolor557.png
 ---
 This morning we're delighted to welcome Swiss-Moroccan musician and singer [Sami Galbi](https://samigalbi.bandcamp.com/) to MailTape!
@@ -54,7 +55,7 @@ Sami: **"** A love song too. Mashrou' Leila has been one of the most influent in
 
 ## Sami Galbi - Dakchi Hani
 
-Jules: **"** Another love song, but more a post-breakup love song, this track is a sort of reconciliation with the past, a celebration of a encounter that lingers nonetheless. 'Dakchi Hani', which translates to "It's not serious" in Moroccan Darija, is Sami Galbi's first single and it's already a powerful artistic gesture with an energy that can't leave you indifferent. **"** 
+Jules: **"** Another love song, but more a post-breakup love song, this track is a sort of reconciliation with the past, a celebration of a encounter that lingers nonetheless. 'Dakchi Hani', which translates to "It's not serious" in Moroccan Darija, is Sami Galbi's first single and it's already a powerful artistic gesture with an energy that can't leave you indifferent, we can't wait to hear the rest! **"** 
 
 ## Sofiane Saidi & Mazalda - Bourkan
 
@@ -68,4 +69,4 @@ Jules: **"** Another love song, but more a post-breakup love song, this track is
 
  Jules: **"** A risky crossover it is, but I'd be mad if I didn't give it a try. After all, even though I wasn't born then, the success of amapiano is in a way reminiscent of the success of raï in the 80s, popularized by the <i>Chebs</i>. In the same way that raï has absorbed styles from rock, pop, funk, reggae and disco, amapiano, a style born in the townships of the Gauteng province in South Africa whose first success tracks were concocted on cracked versions of production software and distributed on free exchange platforms, has integrated many styles, from historic South African jazz to Deep and Afro house. Taken from Teno Afrika's <i>Amapiano Selections</i>, this track is one of the gems on this album, which takes us into a new musical universe.**"** 
 
-That’s it for this morning, thank you for joining us! Much love to [Sami Galbi](https://samigalbi.bandcamp.com/) his lovely emotional trippy selection and to Noémie Dijon for her delightful illustration.
+That’s it for this morning, thank you for joining us! Much love to [Sami Galbi](https://samigalbi.bandcamp.com/) his lovely emotional and trippy selection and to Noémie Dijon for her delightful illustration.
