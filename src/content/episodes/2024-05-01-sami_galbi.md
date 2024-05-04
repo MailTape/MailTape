@@ -29,13 +29,23 @@ track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/557/track6.mp3
 track7_title: Teno Afrika - Smooth Criminal (Main Mix)
 track7_color: vibrant
 track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/557/track7.mp3
+description: >+
+  This morning we're delighted to welcome Swiss-Moroccan musician and singer
+  Sami Galbi who has just released his first EP Dakchi Hani / Rruina to
+  MailTape!
+
+
+
+  Drawing from raï and chaâbi in fluences, the music of his childhood he rediscovered in the cabarets of Casablanca, the Swiss-Moroccan musician is using analog machines, raw synthesizers, and guitar effects to give North African popular and folkloric music a pop texture and a club atmosphere. With his vocals and boundless energy on stage, which borrow from hip-hop and rap, he's an artist to keep an eye on! 
+
+
 episode_URL: https://mailta.pe/557/sami-galbi/
 image: https://mailta.pe/img/fbPic557.jpeg
 musiColor: musicolor557.png
 ---
-This morning we're delighted to welcome Swiss-Moroccan musician and singer [Sami Galbi](https://samigalbi.bandcamp.com/) to MailTape!
+This morning we're delighted to welcome Swiss-Moroccan musician and singer [Sami Galbi](https://samigalbi.bandcamp.com/) who has just released his first EP <i>Dakchi Hani / Rruina</i> to MailTape!
 
-
+Drawing from raï and chaâbi in fluences, the music of his childhood he rediscovered in the cabarets of Casablanca, the Swiss-Moroccan musician is using analog machines, raw synthesizers, and guitar effects to give North African popular and folkloric music a pop texture and a club atmosphere. With his vocals and boundless energy on stage, which borrow from hip-hop and rap, he's an artist to keep an eye on! 
 
 # Sami Galbi's selection
 
