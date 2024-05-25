@@ -29,6 +29,12 @@ track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/558/track6.mp3
 track7_title: Billie Eilish - Chihiro
 track7_color: dreamy
 track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/558/track7.mp3
+description: This morning, we will continue to dream gently with our guest
+  Audrey Carmes. Let's embark on an ambient journey to ethereal lands where
+  music takes us on an inner voyage. Let the soothing melodies guide us through
+  a realm of tranquility and introspection, as we explore the depths of our
+  imagination together.
+episode_URL: https://www.mailta.pe/558/audrey-carmes/
 ---
 This morning, we will continue to dream gently with our guest Audrey Carmes. Let's embark on an ambient journey to ethereal lands where music takes us on an inner voyage. Let the soothing melodies guide us through a realm of tranquility and introspection, as we explore the depths of our imagination together.
 
@@ -50,18 +56,18 @@ Audrey Carmes : **"** I find the music of Takako Minekawa & Dustin Wong is so to
 
 ## Audrey Carmes - Une Recherche
 
- ImaCrea : **"** lorem ipsum **"** 
+ ImaCrea : **"** I discovered Audrey Carmes in Aja's selection, whom I had the pleasure of inviting a few weeks ago. Since then, I have been continuously listening to her album. Audrey Carmes has paved a new path, a new sensitivity in ambient music, and I am very excited to listen to what comes next. I chose this track for its progression and its title, which I must say resonates with me a lot. **"** 
 
 ## Madalyn Merkey - Hairspring
 
- ImaCrea: **"** lorem ipsum **"** 
+ ImaCrea: **"** A different sensitivity, drawing from the organic and chaotic nature of small things. Madalyn Merker, or how to make synthesizers sing like blackbirds in spring. **"** 
 
 ## Árni Grétar - Höfðadalur
 
- ImaCrea: **"** lorem ipsum **"** 
+ ImaCrea: **"** An enchanted odyssey that begins with drums reminiscent of Boards of Canada, then soars to other lands, with a voice in a language that seems spiritual, grounding us back at the end. A delightful surprise, this recent discovery I made. **"** 
 
 ## Billie Eilish - Chihiro
 
- ImaCrea: **"** lorem ipsum **"** 
+ ImaCrea: **"** In this track recently revealed by Billie Eilish, I sense something so emblematic of our era. While it may be mainstream, there is a unique quality to this song and such a coherent progression at the end of this lineup that I couldn't resist. **"** 
 
- Thank you...
+That’s it for this morning, thank you for joining us! Much love to Audrey Carmes for her dreamy selection and to Patricia for her inspiring illustration.
