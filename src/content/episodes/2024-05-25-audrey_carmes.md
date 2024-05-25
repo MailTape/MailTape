@@ -26,8 +26,8 @@ track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/558/track5.mp3
 track6_title: Árni Grétar - Höfðadalur
 track6_color: dreamy
 track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/558/track6.mp3
-track7_title: Meitei - Fujin
-track7_color: dreamy
+track7_title: Billie Eilish - Chihiro
+track7_color: bliss
 track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/558/track7.mp3
 ---
 This morning... 
