@@ -9,12 +9,19 @@ author: ImaCrea
 illustrator: Patricia Barros De Miranda
 writer: ImaCrea
 track1_title: Ana Roxanne - Suite pour l'invisible
+track1_color: dreamy
 track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/558/track1.mp3
 track2_title: Ruth Goller - Often they came to visit, even just to see how she was (M1)
+track2_color: dreamy
 track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/558/track2.mp3
 track3_title: Takako Minekawa & Dustin Wong - Party on a Floating Cake
+track3_color: dreamy
 track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/558/track3.mp3
+track4_title: Audrey Carmes - Une Recherche
+track4_color: dreamy
 track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/558/track4.mp3
+track5_title: Meitei - Fujin
+track5_color: vibrant
 track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/558/track5.mp3
 track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/558/track6.mp3
 track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/558/track7.mp3
