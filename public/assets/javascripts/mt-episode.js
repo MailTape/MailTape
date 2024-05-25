@@ -110,7 +110,13 @@ $(document).ready(
 			});
 		}
 
-		getTracksDuration();
+		// avoid getTracksDuration on Firefox as it's provoking errors and doesn't let user stream full tracks
+		// temporary fix till I (or you?!) find time to fix that ^^
+		var isFirefox = typeof InstallTrigger !== 'undefined';
+		if (!isFirefox) {
+			getTracksDuration();
+		}
+		
 
 		$(".playlist").on("click",function() {
 			$("#playButton").fadeOut("slow");
