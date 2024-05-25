@@ -36,38 +36,38 @@ description: This morning, we will continue to dream gently with our guest
   imagination together.
 episode_URL: https://www.mailta.pe/558/audrey-carmes/
 ---
-This morning, we will continue to dream gently with our guest Audrey Carmes. Let's embark on an ambient journey to ethereal lands where music takes us on an inner voyage. Let the soothing melodies guide us through a realm of tranquility and introspection, as we explore the depths of our imagination together.
+This morning, we will continue to dream gently with our guest [Audrey Carmes](https://audreycarmes.bandcamp.com/album/quelque-chose-sest-dissip). Let's embark on an ambient journey to ethereal lands where music takes us on an inner voyage. Let the soothing melodies guide us through a realm of tranquility and introspection, as we explore the depths of our imagination together.
 
 # Guest's selection
 
-## Ana Roxanne - Suite pour l'invisible
+## [Ana Roxanne](https://anaroxanne.bandcamp.com/album/because-of-a-flower-2) - Suite pour l'invisible
 
 Audrey Carmes : **"** I identify a lot with ana roxanne's musical choices, she's a musician who has inspired me a lot and motivated me to go down the path I was starting to take. This track combines everything I love about her work: a gentle drone, a minimal repetitive bass pattern and a spellbinding voice that gradually emerges. All her music is a beautiful balm.**"** 
 
-## Ruth Goller - Often they came to visit, even just to see how she was (M1)
+## [Ruth Goller](https://ruthgoller.bandcamp.com/album/skylla) - Often they came to visit, even just to see how she was (M1)
 
 Audrey Carmes : **"** I've even forgotten how I came across Ruth Goller's music, and it's precisely this piece that has continued to obsess me for several months now. I really admire this use of voice and bass guitar, so spare but so rich in harmony, so free and yet so precise. **"** 
 
-## Takako Minekawa & Dustin Wong - Party on a Floating Cake
+## [Takako Minekawa & Dustin Wong](https://dustinwong.bandcamp.com/album/toropical-circle) - Party on a Floating Cake
 
 Audrey Carmes : **"** I find the music of Takako Minekawa & Dustin Wong is so touching. It makes me want to play with my 80s Casiotone again. It is minimal, experimental, very playful and sincere. This track in particular does me a lot of good, it's simple and full of joy. **"** 
 
 # MailTape's selection
 
-## Audrey Carmes - Une Recherche
+## [Audrey Carmes](https://audreycarmes.bandcamp.com/album/quelque-chose-sest-dissip) - Une Recherche
 
  ImaCrea : **"** I discovered Audrey Carmes in Aja's selection, whom I had the pleasure of inviting a few weeks ago. Since then, I have been continuously listening to her album. Audrey Carmes has paved a new path, a new sensitivity in ambient music, and I am very excited to listen to what comes next. I chose this track for its progression and its title, which I must say resonates with me a lot. **"** 
 
-## Madalyn Merkey - Hairspring
+## [Madalyn Merkey](https://madalynmerkey.bandcamp.com/album/puzzle-music) - Hairspring
 
  ImaCrea: **"** A different sensitivity, drawing from the organic and chaotic nature of small things. Madalyn Merker, or how to make synthesizers sing like blackbirds in spring. **"** 
 
-## Árni Grétar - Höfðadalur
+## [Árni Grétar](https://moatun7.bandcamp.com/track/h-f-adalur) - Höfðadalur
 
  ImaCrea: **"** An enchanted odyssey that begins with drums reminiscent of Boards of Canada, then soars to other lands, with a voice in a language that seems spiritual, grounding us back at the end. A delightful surprise, this recent discovery I made. **"** 
 
-## Billie Eilish - Chihiro
+## [Billie Eilish](https://store.billieeilish.com/) - Chihiro
 
  ImaCrea: **"** In this track recently revealed by Billie Eilish, I sense something so emblematic of our era. While it may be mainstream, there is a unique quality to this song and such a coherent progression at the end of this lineup that I couldn't resist. **"** 
 
-That’s it for this morning, thank you for joining us! Much love to Audrey Carmes for her dreamy selection and to Patricia for her inspiring illustration.
+That’s it for this morning, thank you for joining us! Much love to [Audrey Carmes](https://audreycarmes.bandcamp.com/album/quelque-chose-sest-dissip) for her dreamy selection and to Patricia for her inspiring illustration.
