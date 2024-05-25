@@ -31,21 +31,37 @@ track7_color: dreamy
 track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/558/track7.mp3
 ---
 This morning... 
- # Guest's selection 
- ## Artist - Track 
- Guest: **"** lorem ipsum **"** 
- ## Artist - Track 
- Guest: **"** lorem ipsum **"** 
- ## Artist - Track 
- Guest: **"** lorem ipsum **"** 
- # Curator's selection 
- ## Artist - Track 
- Curator: **"** lorem ipsum **"** 
- ## Artist - Track 
- Curator: **"** lorem ipsum **"** 
- ## Artist - Track 
- Curator: **"** lorem ipsum **"** 
- ## Artist - Track 
- Curator: **"** lorem ipsum **"** 
 
- Thank you... 
+# Guest's selection
+
+## Ana Roxanne - Suite pour l'invisible
+
+Audrey Carmes : **"** I identify a lot with ana roxanne's musical choices, she's a musician who has inspired me a lot and motivated me to go down the path I was starting to take. This track combines everything I love about her work: a gentle drone, a minimal repetitive bass pattern and a spellbinding voice that gradually emerges. All her music is a beautiful balm.**"** 
+
+## Ruth Goller - Often they came to visit, even just to see how she was (M1)
+
+Audrey Carmes : **"** I've even forgotten how I came across Ruth Goller's music, and it's precisely this piece that has continued to obsess me for several months now. I really admire this use of voice and bass guitar, so spare but so rich in harmony, so free and yet so precise. **"** 
+
+## Takako Minekawa & Dustin Wong - Party on a Floating Cake
+
+Audrey Carmes : **"** I find the music of Takako Minekawa & Dustin Wong is so touching. It makes me want to play with my 80s Casiotone again. It is minimal, experimental, very playful and sincere. This track in particular does me a lot of good, it's simple and full of joy. **"** 
+
+# MailTape's selection
+
+## Audrey Carmes - Une Recherche
+
+ ImaCrea : **"** lorem ipsum **"** 
+
+## Madalyn Merkey - Hairspring
+
+ ImaCrea: **"** lorem ipsum **"** 
+
+## Árni Grétar - Höfðadalur
+
+ ImaCrea: **"** lorem ipsum **"** 
+
+## Billie Eilish - Chihiro
+
+ ImaCrea: **"** lorem ipsum **"** 
+
+ Thank you...
