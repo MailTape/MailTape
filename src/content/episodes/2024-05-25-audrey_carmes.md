@@ -30,7 +30,7 @@ track7_title: Billie Eilish - Chihiro
 track7_color: dreamy
 track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/558/track7.mp3
 ---
-This morning... 
+This morning, we will continue to dream gently with our guest Audrey Carmes. Let's embark on an ambient journey to ethereal lands where music takes us on an inner voyage. Let the soothing melodies guide us through a realm of tranquility and introspection, as we explore the depths of our imagination together.
 
 # Guest's selection
 
