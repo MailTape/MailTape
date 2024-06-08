@@ -10,13 +10,22 @@ export async function GET(context) {
         // Pull in your project "site" from the endpoint context
         // https://docs.astro.build/en/reference/api-reference/#contextsite
         site: context.site,
+        xmlns: {
+            media: "http://search.yahoo.com/mrss/",
+            atom: "http://www.w3.org/2005/Atom",
+          },
         items: episodes.map((episode) => ({
             title: episode.data.guest_name,
             pubDate: episode.data.pubDate,
             description: episode.data.description,
-            link: slugEp(episode)
+            link: slugEp(episode),
+            customData: episode.data.image && `<media:content
+            type="image/${episode.data.image.slice(episode.data.image.lastIndexOf('.') + 1)}"
+            medium="image"
+            url="${episode.data.image}" />`,
         })),
         // (optional) inject custom xml
-        customData: `<language>en-us</language>`,
+        customData: `<language>en-us</language>
+        <atom:link href="${context.site}rss.xml" rel="self" type="application/rss+xml" />`,
     });
 }
