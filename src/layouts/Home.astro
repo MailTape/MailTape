@@ -10,6 +10,8 @@ import stringifyPubDate from "../utils/stringifyPubDate.js";
 import IntroStory from "../components/home/IntroStory.astro";
 import TopBar from "../components/home/TopBar.astro";
 
+import Search from "astro-pagefind/components/Search";
+
 const { episodes, colorInURL } = Astro.props;
 
 ---
@@ -117,6 +119,8 @@ const { episodes, colorInURL } = Astro.props;
         <TopBar />
 
          <div class="container">
+
+            <Search id="search" className="pagefind-ui" uiOptions={{ showImages: false }} />
 
             <div id="archivePreview" class="mb-xl-4 getRelative">
                 

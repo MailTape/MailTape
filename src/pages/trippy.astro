@@ -9,7 +9,7 @@ import sortByEpisodeNumber from "../utils/sortByEpisodeNumber.js";
 const allPosts = await getCollection('episodes');
 
 // Careful: this setting is for build only. Use slice(1) for local dev
-const colorInURL = Astro.url.pathname.slice(1,-1);
+const colorInURL = "trippy";
 
 console.log(colorInURL);
 const posts = allPosts
