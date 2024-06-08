@@ -54,6 +54,9 @@ const tracksURLString = JSON.stringify([track1_link,track2_link,track3_link,trac
 track1_link={track1_link} track2_link={track2_link} track3_link={track3_link} track4_link={track4_link} track5_link={track5_link} track6_link={track6_link} track7_link={track7_link}
 track1_title={track1_title} track2_title={track2_title} track3_title={track3_title} track4_title={track4_title} track5_title={track5_title} track6_title={track6_title} track7_title={track7_title}
 />
+
+    <body>
+        
     <TopBar />
 
     <img src=`//wsrv.nl/?url=ssl:mailta.pe/img/${guestPic}&w=2000&t=fit&il&q=90&output=webp&default=ssl:${SITE_BASE_URL.slice(8)}/img/${guestPic}` style="display:none;"/>
@@ -163,7 +166,7 @@ track1_title={track1_title} track2_title={track2_title} track3_title={track3_tit
     </div>
     
     
-    <div id="main-content" class="container main">
+    <div id="main-content" class="container main" data-pagefind-body>
     
         <div class="flex-row d-none d-lg-flex" id="creditAndSupportDesktop">        
     
@@ -253,4 +256,4 @@ track1_title={track1_title} track2_title={track2_title} track3_title={track3_tit
     
     </div>
 
-    <Footer/>
+    <Footer />

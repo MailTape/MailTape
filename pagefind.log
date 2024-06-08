@@ -1,0 +1,28 @@
+Pagefind logging initialized
+[Status]: Running Pagefind v1.1.0 (Extended)
+[Info]: Running in verbose mode
+[Info]: Running from: "/Users/pcfhstudio/CODE/MailTape"
+[Info]: Source:       "dist"
+[Info]: Output:       "dist/pagefind"
+[Status]: [Walking source directory]
+[Info]: Found 450 files matching **/*.{html}
+[Status]: [Parsing files]
+[Info]: Did not find a data-pagefind-body element on the site.
+↳ Indexing all <body> elements on the site.
+[Status]: [Reading languages]
+[Info]: Discovered 1 language: unknown
+[Info]:   * unknown: 7 pages
+[Status]: [Building search indexes]
+[Info]: Language unknown: 
+  Indexed 7 pages
+  Indexed 1113 words
+  Indexed 0 filters
+  Indexed 0 sorts
+
+[Info]: Total: 
+  Indexed 1 language
+  Indexed 7 pages
+  Indexed 1113 words
+  Indexed 0 filters
+  Indexed 0 sorts
+[Status]: Finished in 2.713 seconds
