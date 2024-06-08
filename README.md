@@ -8,3 +8,15 @@ Features are the same, all that's been done for the moment is moving from Jekyll
 
 With love,
 MT Crew
+
+# Dev
+
+`bun install`
+
+then
+
+`bunx --bun astro dev`
+
+# Build
+
+`bunx --bun astro build`
