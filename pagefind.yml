@@ -1,0 +1,4 @@
+site: dist
+output_subdir: pagefind
+glob: "**/*.{html}"
+verbose: true

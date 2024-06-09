@@ -49,15 +49,23 @@ const {
 const tracksURLString = JSON.stringify([track1_link,track2_link,track3_link,track4_link,track5_link,track6_link,track7_link]);
 
 ---
+<!DOCTYPE html>
+<html>
+
+    <head>
 
     <EpHead guest_name={guest_name} image={image} description={description} category={category} 
 track1_link={track1_link} track2_link={track2_link} track3_link={track3_link} track4_link={track4_link} track5_link={track5_link} track6_link={track6_link} track7_link={track7_link}
 track1_title={track1_title} track2_title={track2_title} track3_title={track3_title} track4_title={track4_title} track5_title={track5_title} track6_title={track6_title} track7_title={track7_title}
 />
+    </head>
+
+    <body>
+        
     <TopBar />
 
     <img src=`//wsrv.nl/?url=ssl:mailta.pe/img/${guestPic}&w=2000&t=fit&il&q=90&output=webp&default=ssl:${SITE_BASE_URL.slice(8)}/img/${guestPic}` style="display:none;"/>
-    <div id="bigHeader" class="stretchMe notPlaying" data-stretch=`//wsrv.nl/?url=ssl:mailta.pe/img/${guestPic}&w=2000&t=fit&il&q=90&output=webp&default=ssl:${SITE_BASE_URL.slice(8)}/img/${guestPic}`>
+    <div id="bigHeader" class="stretchMe notPlaying" data-stretch=`//wsrv.nl/?url=ssl:mailta.pe/img/${guestPic}&w=2000&t=fit&il&q=90&output=webp&default=ssl:${SITE_BASE_URL.slice(8)}/img/${guestPic}` data-pagefind-meta=`image:https://wsrv.nl/?url=ssl:mailta.pe/img/${guestPic}&w=500&t=fit&il&q=90&output=webp&default=ssl:${SITE_BASE_URL.slice(8)}/img/${guestPic}` data-pagefind-meta=`image_alt:Episode ${ category } - ${ guest_name }`>
     
         <div class="container">
             <!-- desktop header -->
@@ -69,9 +77,9 @@ track1_title={track1_title} track2_title={track2_title} track3_title={track3_tit
                 </div>
                 ) : null }
                
-                <div class="col-md-10 col-12 d-inline text-center">
-                        <h2>EPISODE #{ category }<br/>{ stringifyPubDate(pubDate)     }</h2>
-                        <h1>{ guest_name }</h1>
+                <div class="col-md-10 col-12 d-inline text-center" data-pagefind-body>
+                        <h2 data-pagefind-meta=`title:# ${ category } - ${ guest_name }`>EPISODE #{ category }<br/>{ stringifyPubDate(pubDate)     }</h2>
+                        <h1 >{ guest_name }</h1>
                         <svg class="d-none d-md-inline-block" height='60px' width='60px'  fill="#FFFFFF" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 24 24" version="1.1" x="0px" y="0px"><title>chevron-force-down</title><desc>Created with Sketch.</desc><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g fill="#FFFFFF" fill-rule="nonzero"><path d="M6.25753788,13.2424621 C5.84748737,12.8324116 5.84748737,12.1675884 6.25753788,11.7575379 C6.66758839,11.3474874 7.33241161,11.3474874 7.74246212,11.7575379 L12,16.0150758 L16.2575379,11.7575379 C16.6675884,11.3474874 17.3324116,11.3474874 17.7424621,11.7575379 C18.1525126,12.1675884 18.1525126,12.8324116 17.7424621,13.2424621 L12.7424621,18.2424621 C12.3324116,18.6525126 11.6675884,18.6525126 11.2575379,18.2424621 L6.25753788,13.2424621 Z M6.25753788,7.24246212 C5.84748737,6.83241161 5.84748737,6.16758839 6.25753788,5.75753788 C6.66758839,5.34748737 7.33241161,5.34748737 7.74246212,5.75753788 L12,10.0150758 L16.2575379,5.75753788 C16.6675884,5.34748737 17.3324116,5.34748737 17.7424621,5.75753788 C18.1525126,6.16758839 18.1525126,6.83241161 17.7424621,7.24246212 L12.7424621,12.2424621 C12.3324116,12.6525126 11.6675884,12.6525126 11.2575379,12.2424621 L6.25753788,7.24246212 Z"></path></g></g></svg>        
                 </div>
     
@@ -114,43 +122,43 @@ track1_title={track1_title} track2_title={track2_title} track3_title={track3_tit
                 <span id="playButtonAsidePlaylist" class="notPlaying">&#xe602;</span>
                 <ul class="playlist notPlaying" data-links={tracksURLString}>
                     <li id="firstTrack" class=`track1 ${track1_color}`>
-                        <h1 id="track1_title_player">{track1_title }</h1>
+                        <h1 id="track1_title_player"  data-pagefind-body>{track1_title }</h1>
                         <a type="audio/mp3" id="track1_button" href={track1_link }>
                             <span class="icon-control"></span><span class="musiColorHelper">{track1_color }</span>
                         </a>
                     </li>
                     <li class=`track2 ${track2_color }`>
-                        <h1 id="track2_title_player">{track2_title }</h1>
+                        <h1 id="track2_title_player"  data-pagefind-body>{track2_title }</h1>
                         <a type="audio/mp3" id="track2_button" href={track2_link }>
                             <span class="icon-control"></span><span class="musiColorHelper">{track2_color }</span>
                         </a>
                     </li>
                     <li class=`track3 ${track3_color }`>
-                        <h1 id="track3_title_player">{track3_title }</h1>
+                        <h1 id="track3_title_player"  data-pagefind-body>{track3_title }</h1>
                         <a type="audio/mp3" id="track3_button" href={track3_link }>
                             <span class="icon-control"></span><span class="musiColorHelper">{track3_color }</span>
                         </a>
                     </li>
                     <li class=`track4 ${track4_color }`>
-                        <h1 id="track4_title_player">{track4_title }</h1>
+                        <h1 id="track4_title_player"  data-pagefind-body>{track4_title }</h1>
                         <a type="audio/mp3" id="track4_button" href={track4_link }>
                             <span class="icon-control"></span><span class="musiColorHelper">{track4_color }</span>
                         </a>
                     </li>
                     <li class=`track5 ${track5_color }`>
-                        <h1 id="track5_title_player">{track5_title }</h1>
+                        <h1 id="track5_title_player"  data-pagefind-body>{track5_title }</h1>
                         <a type="audio/mp3" id="track5_button" href={track5_link }>
                             <span class="icon-control"></span><span class="musiColorHelper">{track5_color }</span>
                         </a>
                     </li>
                     <li class=`track6 ${track6_color }`>
-                        <h1 id="track6_title_player">{track6_title }</h1>
+                        <h1 id="track6_title_player"  data-pagefind-body>{track6_title }</h1>
                         <a type="audio/mp3" id="track6_button" href={track6_link }>
                             <span class="icon-control"></span><span class="musiColorHelper">{track6_color }</span>
                         </a>
                     </li>
                     <li class=`track7 ${track7_color }`>
-                        <h1 id="track7_title_player">{track7_title }</h1>
+                        <h1 id="track7_title_player"  data-pagefind-body>{track7_title }</h1>
                         <a type="audio/mp3" id="track7_button" href={track7_link }>
                             <span class="icon-control"></span><span class="musiColorHelper">{track7_color }</span>
                         </a>
@@ -240,7 +248,7 @@ track1_title={track1_title} track2_title={track2_title} track3_title={track3_tit
         </div>
     
         <br>
-        <div id="similarEpisodes" class="d-flex flex-column flex-md-row"> 
+        <div id="similarEpisodes" class="d-flex flex-column flex-md-row" data-pagefind-ignore> 
             { similarEpisodes.map((similarEpisode) =>
                 <div class="col-lg-4 similarEpisode" > 
                     <a href=`/${slugEp(similarEpisode)}` class="stretchMe" data-stretch=`//wsrv.nl/?url=ssl:mailta.pe/img/${similarEpisode.data.guestPic}&w=500&t=fit&il&q=90&output=webp&default=ssl:${SITE_BASE_URL.slice(8)}/img/${similarEpisode.data.guestPic}`>
@@ -253,4 +261,8 @@ track1_title={track1_title} track2_title={track2_title} track3_title={track3_tit
     
     </div>
 
-    <Footer/>
+    <Footer />
+    
+    </body>
+
+</html>
