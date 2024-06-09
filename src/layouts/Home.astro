@@ -120,8 +120,6 @@ const { episodes, colorInURL } = Astro.props;
 
          <div class="container">
 
-            <Search id="search" className="pagefind-ui" uiOptions={{ showImages: false }} />
-
             <div id="archivePreview" class="mb-xl-4 getRelative">
                 
                 <IntroStory colorInURL = { colorInURL ? colorInURL : null } />
@@ -150,6 +148,8 @@ const { episodes, colorInURL } = Astro.props;
                     </div>
                 </div>
             </div>
+
+            <Search id="search" className="pagefind-ui container pt-4 mb-2" uiOptions={{ showImages: true }} />
 
             <div id="archiveLinks" class="d-flex flex-row justify-content-md-between flex-wrap"> 
                 {
