@@ -6,6 +6,7 @@ guest_name: Philipp Otterbach
 guest_color: vibrant
 guestPic: guestpic559.png
 author: Jules
+illustrator: Babi Brunelio
 writer: Jules
 track1_title: Water Pistol Cowboys - I’m Sorry I Was Ignoring You
 track1_color: vibrant
@@ -97,4 +98,4 @@ Jules: **"** xxxx **"**
 
 
 
-That’s it for this morning, thank you for joining us and much love to [Philipp Otterbach](https://www.instagram.com/philippotterbach/) for his emotional and vibrant selection!
+That’s it for this morning, thank you for joining us! Much love to [Philipp Otterbach](https://www.instagram.com/philippotterbach/) for his emotional and vibrant selection and to [Babi Brunellio](https://babibrunelio.com.br) for her dazzling illustration8
