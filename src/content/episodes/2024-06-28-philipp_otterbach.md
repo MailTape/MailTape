@@ -39,7 +39,7 @@ I'm a huge fan of the Amsterdam-based label [Music From Memory](https://www.musi
 
 
 
-## Water Pistol Cowboys - I’m Sorry I Was Ignoring You
+## [Water Pistol Cowboys](https://fufurecordz.bandcamp.com/album/big-time-rush-vol-3) - I’m Sorry I Was Ignoring You
 
 
 
@@ -67,7 +67,7 @@ Philipp: **"** It's so inspiring to be guest in Kramer's musical cosmos since so
 
 
 
-## Philipp Otterbach - Small Town Nights
+## [Philipp Otterbach](https://www.musicfrommemory.com/release/8049/philipp-otterbach/the-dahlem-diaries) - Small Town Nights
 
 
 
