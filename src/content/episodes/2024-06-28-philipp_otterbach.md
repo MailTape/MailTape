@@ -8,10 +8,13 @@ guestPic: guestpic559.png
 author: Jules
 writer: Jules
 track1_title: Water Pistol Cowboys - I’m Sorry I Was Ignoring You
+track1_color: vibrant
 track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/559/track1.mp3
 track2_title: Motorpsycho - Trylleball (Sannan)
+track2_color: dreamy
 track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/559/track2.mp3
 track3_title: Mark Kramer - Ovulation Always Brings Me Down
+track3_color: bliss
 track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/559/track3.mp3
 track4_title: Philipp Otterbach - Small Town Nights
 track4_color: vibrant
