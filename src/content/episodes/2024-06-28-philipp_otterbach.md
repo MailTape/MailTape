@@ -82,11 +82,11 @@ Jules: **"** xxxx **"**
 
 
 
-## Whatever the Weather - 25°c
+## [Whatever the Weather](https://whateva.bandcamp.com/album/whatever-the-weather) - 25°c
 
 
 
-Jules: **"** xxxx **"** 
+Jules: **"** Whatever the Weather is the ambient ater ego of North London DJ and producer Loraine James, whom we'd already picked up for a [Mailtape episode](https://www.mailta.pe/323/loraine-james/) back in 2018, before she set the whole electronica world alight with her intriguing, tumultuous club and IDM universe, an expression of her inner space. As with this track which opens the eponymous album, we enter a more meditative universe, open to the outside world and focused on the contemplation of landscapes and the climate that affects them day after day. A simple, suspended setting, summed up by the track titles in degrees of temperature, which allows the artist to truly pursue his exploration of textures and sounds. **"** 
 
 
 
@@ -98,4 +98,4 @@ Jules: **"** xxxx **"**
 
 
 
-That’s it for this morning, thank you for joining us! Much love to [Philipp Otterbach](https://www.instagram.com/philippotterbach/) for his emotional and vibrant selection and to [Babi Brunellio](https://babibrunelio.com.br) for her dazzling illustration8
+That’s it for this morning, thank you for joining us! Much love to [Philipp Otterbach](https://www.instagram.com/philippotterbach/) for his emotional and vibrant selection and to [Babi Brunellio](https://babibrunelio.com.br) for her dazzling illustration!
