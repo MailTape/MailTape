@@ -33,6 +33,7 @@ episode_URL: https://mailta.pe/559/Philipp-Otterbach/
 ---
 This morning we're delighted to welcome Krefeld-born, Berlin-based DJ and producer [Philipp Otterbach](https://www.instagram.com/philippotterbach/) to MailTape!
 
+I'm a huge fan of the Amsterdam-based Music From Memory label, founded by Abel Nagengast, Tako Reyenga and Jamie Tiller (who tragically passed away last year), which historically focused on re-releasing titles and albums, forgotten gems brought back to life. It was some time after their release of his album <i>The Dahlem Diaries</i> in July 2023 that I discovered Philipp Otterbach.
 
 # Philipp Otterbach's selection
 
@@ -70,7 +71,7 @@ Philipp: **"** It's so inspiring to be guest in Kramer's musical cosmos since so
 
 
 
-Jules: **"** I'm a huge fan of the Amsterdam-based Music From Memory label, founded by Abel Nagengast, Tako Reyenga and Jamie Tiller (who tragically passed away last year), which historically focused on re-releasing titles and albums, forgotten gems brought back to life. It was some time after their release of his album <i>The Dahlem Diaries</i> in July 2023 that I discovered Philipp Otterbach. **"** 
+Jules: **"** It's hard to pick out a single track from <i>The Dahlem Diaries</i>, which feels like a journey into another universe. The different tracks, although produced at different times between 2020 and 2022, follow one another coherently, taking us from one emotion to another. I chose this track because it's one of the longest on the album (here is my personal preference), and because I love its mysterious, gripping atmosphere. **"** 
 
 
 
