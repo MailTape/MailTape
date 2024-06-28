@@ -70,7 +70,7 @@ Philipp: **"** It's so inspiring to be guest in Kramer's musical cosmos since so
 
 
 
-Jules: **"** xxxx **"** 
+Jules: **"** I'm a huge fan of the Amsterdam-based Music From Memory label, founded by Abel Nagengast, Tako Reyenga and Jamie Tiller (who tragically passed away last year), which historically focused on re-releasing titles and albums, forgotten gems brought back to life. It was some time after their release of his album <i>The Dahlem Diaries</i> in July 2023 that I discovered Philipp Otterbach. **"** 
 
 
 
