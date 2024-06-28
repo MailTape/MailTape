@@ -74,7 +74,7 @@ Jules: **"** xxxx **"**
 
 
 
-## Tim Koh & Sun An - Incense Holder
+## [Tim Koh & Sun An](https://timkohsunan.bandcamp.com/album/salt-and-sugar-look-the-same) - Incense Holder
 
 
 
@@ -90,11 +90,11 @@ Jules: **"** xxxx **"**
 
 
 
-## Duval Timothy - Mutate
+## [Duval Timothy](https://duvaltimothy.bandcamp.com/album/meeting-with-a-judas-tree) - Mutate
 
 
 
- Jules: **"** xxxx **"**  
+ Jules: **"** In this track taken from the EP <i>Meeting with a Judas Tree</i>, the multi-disciplinary artist from South London Duval Timothy incorporates nature sounds recorded while wandering around South London, walking with his mum in the hills surrounding Bath, hiking through Freetown, the hills of Spoleto, in Ghana and in Sierra Leone. This track is much longer, taking time to develop, but it's a good way to end our journey this morning. **"**  
 
 
 
