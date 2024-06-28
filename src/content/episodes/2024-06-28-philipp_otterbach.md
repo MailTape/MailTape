@@ -74,11 +74,11 @@ Jules: **"** xxxx **"**
 
 
 
-## Tim Koh / Sun An - Incense Holder
+## Tim Koh & Sun An - Incense Holder
 
 
 
- Jules: **"** xxxx **"** 
+ Jules: **"** Another gem from [Music From Memory](https://www.musicfrommemory.com/release/8765/tim-koh-sun-an/salt-and-sugar-look-the-same)! This one is taken from <i>Salt And Sugar Look The Same</i>, the collaborative album from American multi-instrumentalist and visual artist Tim Koh and Southern California-based graphic designer, art director, and sound designer Sun An, released in June 2024. I love the strange sweetness of this track, and it's also a super-short piece that Philipp is sure to enjoy. But the 18 compositions on this album, which is a real journey, are all poignant, oscillating between joy and sadness. **"** 
 
 
 
