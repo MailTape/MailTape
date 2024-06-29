@@ -30,6 +30,7 @@ track7_title: Duval Timothy - Mutate
 track7_color: vibrant
 track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/559/track7.mp3
 episode_URL: https://mailta.pe/559/Philipp-Otterbach/
+musiColor: musicolor559.png
 ---
 This morning we're delighted to welcome Krefeld-born, Berlin-based DJ and producer [Philipp Otterbach](https://www.instagram.com/philippotterbach/) to MailTape!
 
