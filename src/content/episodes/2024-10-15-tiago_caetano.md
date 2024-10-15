@@ -35,15 +35,15 @@ This morning...
 
 ## Sessa - Gostar do Mundo
 
- Guest: **"** lorem ipsum **"** 
+ Guest: **"** I really love the softness and lightness of Sessa's compositions. He is an artist who emphasizes tenderness and idleness. The orchestration work and the minimalist approach make me feel something very comforting. **"** 
 
 ## Ana Frango Elétrico - Insista em mim
 
- Guest: **"** lorem ipsum **"** 
+ Guest: **"** She is an extremely talented artist from the new generation of Brazilian artists. I find that this slightly soulful and very soft track goes perfectly with her voice and her Carioca accent. **"** 
 
 ## Clube Da esquina - Um Giassol da Cor de Seu Cabelo
 
- Guest: **"** lorem ipsum **"** 
+ Guest: **"** I rediscovered this album when I was in Brazil earlier this year. It's a great classic of Brazilian music. I deeply appreciate the soul that permeates the album, there's something almost mystical about it that I can't quite explain. **"** 
 
 # Curator's selection
 
