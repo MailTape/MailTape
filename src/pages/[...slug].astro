@@ -16,7 +16,7 @@ export async function getStaticPaths() {
 		props: {
 			episode,
 			nextEpisode:
-			i+1 === numberOfEpisodes
+			i+2 === numberOfEpisodes // quick trick while I find a solution to let editor preview next episode without it being accessible with next episode arrow
 			? null
 			: episodes[i+1],
 			prevEpisode:
