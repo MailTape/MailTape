@@ -34,6 +34,7 @@ description: This morning, we’ve crafted a soothing episode featuring our gues
   savoring a delightful brunch with friends. With Brazilian influences, pop
   elements, and a sense of lightness, it’s sure to uplift your spirits!
 episode_URL: https://www.mailta.pe/562/tiago-caetano/
+image: https://mailta.pe/img/fbPic562.jpg
 musiColor: musicolor562.png
 ---
 This morning, we’ve crafted a soothing episode featuring our guest Tiago Caetano. It’s the ideal soundtrack for cozying up under the covers or savoring a delightful brunch with friends. With Brazilian influences, pop elements, and a sense of lightness, it’s sure to uplift your spirits!
