@@ -4,6 +4,7 @@ pubDate: 2024-10-21
 category: "562"
 guest_name: Tiago Caetano
 guest_color: bliss
+guestPic: guestpic562.jpg
 author: ImaCrea
 illustrator: Camille Lemeunier
 writer: ImaCrea
@@ -28,6 +29,12 @@ track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/562/track6.mp3
 track7_title: Badsista - Sem Der Tchau
 track7_color: dreamy
 track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/562/track7.mp3
+description: This morning, we’ve crafted a soothing episode featuring our guest
+  Tiago Caetano. It’s the ideal soundtrack for cozying up under the covers or
+  savoring a delightful brunch with friends. With Brazilian influences, pop
+  elements, and a sense of lightness, it’s sure to uplift your spirits!
+episode_URL: https://www.mailta.pe/562/tiago-caetano/
+musiColor: musicolor562.png
 ---
 This morning, we’ve crafted a soothing episode featuring our guest Tiago Caetano. It’s the ideal soundtrack for cozying up under the covers or savoring a delightful brunch with friends. With Brazilian influences, pop elements, and a sense of lightness, it’s sure to uplift your spirits!
 
