@@ -1,6 +1,6 @@
 ---
 published: true
-pubDate: 2024-10-20
+pubDate: 2024-10-21
 category: "562"
 guest_name: Tiago Caetano
 guest_color: bliss
