@@ -34,7 +34,7 @@ musiColor: musicolor563.png
 ---
 This morning we're delighted to welcome Paris-based music producer [Yassin Keetan](https://www.instagram.com/yassinkeetan/) to MailTape!
 
-Yassin is an emerging artist on the French electronica scene who launched himself in 2023, after several years of experimenting with his instrumental compositions as an amateur. Following the successful releases of a series of singles with sonorities drawing on his French touch, ambient and even rock influences, he is now stepping out with his first EP, <i> [The Warm Presence of the Absent](https://www.diggersfactory.com/fr/vinyl/321728/yassin-keetan-the-warm-presence-of-the-absent) </i>, under the label he co-founded, Waïkey Music. 
+Yassin is an emerging artist on the French electronica scene who launched himself in 2023, after several years of experimenting with his instrumental compositions as an amateur. Following the successful releases of a series of singles with sonorities drawing on his French touch, ambient and even rock influences, he is now stepping out with his first EP, <i>[The Warm Presence of the Absent](https://www.diggersfactory.com/fr/vinyl/321728/yassin-keetan-the-warm-presence-of-the-absent)</i>, under the label he co-founded, Waïkey Music. 
 
 # Yassin Keetan's selection
 
