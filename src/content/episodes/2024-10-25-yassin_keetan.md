@@ -6,10 +6,15 @@ guest_name: Yassin Keetan
 guest_color: vibrant
 guestPic: guestpic563.png
 author: Jules
+illustrator: Marie Alléguède
 writer: Jules
+track1_title: Beach House - Space Song
 track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track1.mp3
+track2_title: Ratatat - I Will Return
 track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track2.mp3
+track3_title: Glass Beams - Orb
 track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track3.mp3
+track4_title: Yassin Keetan - Encounter
 track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track4.mp3
 track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track5.mp3
 track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track6.mp3
@@ -19,32 +24,32 @@ episode_URL: https://mailta.pe/563/Yassin-Keetan/
 This morning we're delighted to welcome Berlin-based DJ, producer and label boss of [Sea~rène Records](https://www.instagram.com/sea.rene_records/), [GiGi FM](https://gigifm.bandcamp.com/) to MailTape!
 
 
-# GiGi FM's selection
+# Yassin Keetan's selection
 
 
 
 
-## Ornella Vanoni - Dettagli (Detalhes)
+## Beach House - Space Song
 
 
 
-GiGi FM: **"** I love waking up with this song, it reminds me of my parents and Sunday mornings at home. When I was little my parents used to wake me up on Sunday mornings by opening my bedroom door and playing loud music in the living room which reached my room easily! This song captures this so perfectly to me! **"** 
+Yassin Keetan: **"** This is probably my favorite song ever. I've never been so moved by a song before.  The first time I heard it, I was working on my computer, listening to a random Indie  playlist on YouTube. I was going through a hard time, and the song just hit me. I  stopped, closed my eyes, and really listened. It felt like it was made for me at that  moment. That's how you know a song is special — when it connects with you  emotionally. I can listen to it over and over and never get bored.  **"** 
 
 
 
-## Full Bloom - Giesing Underwater
+## Ratatat - I Will Return
 
 
 
-GiGi FM: **"** Seriously, the whole album is just so good and I listen to the record on weekly basics ! One of my favorite and most prolific labels [Illian Tape](https://iliantape.bandcamp.com/). Slow, hazy and flavorful, perfect for a morning cafe and a smoke haha. **"**
+Yassin Keetan: **"** Ratatat is my dream band. They’re the reason I wanted to start composing music.  What's funny is that it took me a while to realize their tracks are purely  instrumental. Sometimes there's a chorus, but the melodies are always carried by  instruments, especially guitars. That’s when I understood how powerful  instrumental music can be, and when I knew I wanted to include it in my own work.  'I Will Return' is my favorite track from their album Magnifique — I love the slow  tempo and melancholic feel. It’s perfect for a cloudy Sunday morning. I also really  enjoy 'Montanita' from Classics, which is more upbeat but still has those beautiful  melodies.  **"**
 
 
 
-## Pepe Bradock - Deep Burnt
+## Glass Beams - Orb
 
 
 
-GiGi FM: **"** A house music classic that will literally always set you on the right vibe by the French DJ and producer Julien Auger. I love getting started on my Sunday or going from a to b on this track rather I am in transit, walking or cycling.  **"** 
+Yassin Keetan: **"** I came across Glass Beams not too long ago. I’m really into their psychedelic vibe,  blending classical instruments with electronic elements and a groovy bassline. I  also love their aesthetic and the direction they take artistically. I can’t wait to catch  them live. Their whole EP is perfect for a laid-back Sunday afternoon — I could  easily sit back and listen to it on repeat while just chilling. **"** 
 
 
 
@@ -52,11 +57,11 @@ GiGi FM: **"** A house music classic that will literally always set you on the r
 
 
 
-## [GiGi FM](https://gigifm.bandcamp.com/) - Raspberry Pie
+## Yassin Keetan - Encounter
 
 
 
-Jules: **"** This track is the sweat treat that ends GiGi FM's last EP <i>Movimiento</i>, released in June 2024 on her label [Sea~rène Records](https://www.instagram.com/sea.rene_records/). A simple but catchy melody, full of joy and perfect for a morning after-party in the sun, or to kick-start the day and prepare for new adventures!**"** 
+Jules: **"** **"** 
 
 
 
@@ -64,7 +69,7 @@ Jules: **"** This track is the sweat treat that ends GiGi FM's last EP <i>Movimi
 
 
 
- Jules: **"** We're slowly making our way back to the club with this track taken from a two-track release by the Glasgow-born, Copenhagen-based artist [Perko](https://perko.bandcamp.com/music). This long-simmering dancefloor cut was torn down and rebuilt alongside Huerco S. during a joint residency at HeimA in East Iceland in late 2022, capturing the immense scale of those surroundings and the accompanying isolation. **"** 
+ Jules: **"**  **"** 
 
 
 
@@ -72,7 +77,7 @@ Jules: **"** This track is the sweat treat that ends GiGi FM's last EP <i>Movimi
 
 
 
-Jules: **"** The Pressure Dome label-head [Yushh](https://yushh.bandcamp.com/music) (aka Jen Hartley) is already a certified stalwart of the Bristol scene. With the release of her long-anticipated debut EP <i>Look Mum No Hands</i> in February 2023, she finally gives us the pleasure of enjoying her production skills with this four tracker that draws on Bristol bass, footwork, jungle and broken techno influences. This track is slightly dropping the tempo down with a cavernous low-end that creates a mysterious atmosphere. **"** 
+Jules: **"**  **"** 
 
 
 
@@ -80,7 +85,7 @@ Jules: **"** The Pressure Dome label-head [Yushh](https://yushh.bandcamp.com/mus
 
 
 
- Jules: **"** Taken from the EP <i>Plush III</i> on the Berlin-based label [Plush Records Inc.](https://plushrecordsinc.bandcamp.com/), a collaboration between D. Tiffany and Regularfantasy, this is a slightly cheeky track that flirts with the cheesy pop of Aqua but doesn't fall for it. **"**  
+ Jules: **"**  **"**  
 
 
 
