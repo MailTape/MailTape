@@ -52,7 +52,7 @@ Yassin Keetan: **"** This is probably my favorite song ever. I've never been so 
 
 
 
-Yassin Keetan: **"** Ratatat is my dream band. They’re the reason I wanted to start composing music.  What's funny is that it took me a while to realize their tracks are purely  instrumental. Sometimes there's a chorus, but the melodies are always carried by  instruments, especially guitars. That’s when I understood how powerful  instrumental music can be, and when I knew I wanted to include it in my own work.  'I Will Return' is my favorite track from their album Magnifique — I love the slow  tempo and melancholic feel. It’s perfect for a cloudy Sunday morning. I also really  enjoy 'Montanita' from Classics, which is more upbeat but still has those beautiful  melodies.  **"**
+Yassin Keetan: **"** Ratatat is my dream band. They’re the reason I wanted to start composing music.  What's funny is that it took me a while to realize their tracks are purely  instrumental. Sometimes there's a chorus, but the melodies are always carried by  instruments, especially guitars. That’s when I understood how powerful  instrumental music can be, and when I knew I wanted to include it in my own work.  'I Will Return' is my favorite track from their album <i>Magnifique</i> — I love the slow  tempo and melancholic feel. It’s perfect for a cloudy Sunday morning. I also really  enjoy 'Montanita' from <i>Classics</i>, which is more upbeat but still has those beautiful  melodies.  **"**
 
 
 
@@ -76,11 +76,11 @@ Jules: **"** **"**
 
 
 
-## ddwy - Pendorlan
+## [ddwy](https://ddwy.bandcamp.com/) - Pendorlan
 
 
 
- Jules: **"**  **"** 
+ Jules: **"** This track is taken from the 6th edition of the <i>Chill Pill</i> compilation, released by the Munich-based label [Public Possession](https://publicpossession.bandcamp.com/album/chill-pill-vi), and featuring songs from various artists and friends of the label. Off the beaten path of electronic music, sometimes flirting with pop, rock or hip-hop, this compilation always delivers a relaxing experience - just what you're looking for on a Sunday morning. With this sentimental track, ddwy, the duo made up of [nangi](https://www.instagram.com/nangiiiiiiiii/) and [Inner Totality](https://www.instagram.com/innertotality/), does not disappoint. **"** 
 
 
 
