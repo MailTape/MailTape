@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 pubDate: 2024-10-27
 category: "563"
 guest_name: Yassin Keetan
@@ -9,19 +9,29 @@ author: Jules
 illustrator: Marie Alléguède
 writer: Jules
 track1_title: Beach House - Space Song
-track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track1.mp3
+track1_color: dreamy
+track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/563/track1.mp3
 track2_title: Ratatat - I Will Return
-track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track2.mp3
+track2_color: bliss
+track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/563/track2.mp3
 track3_title: Glass Beams - Orb
-track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track3.mp3
+track3_color: trippy
+track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/563/track3.mp3
 track4_title: Yassin Keetan - Encounter
-track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track4.mp3
-track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track5.mp3
-track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track6.mp3
-track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track7.mp3
+track4_color: vibrant
+track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/563/track4.mp3
+track5_title: ddwy - Pendorlan
+track5_color: dreamy
+track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/563/track5.mp3
+track6_title: Total Blue - Jaguarundi
+track6_color: trippy
+track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/563/track6.mp3
+track7_title: Ellinor Jackson - De Se Trouver
+track7_color: bliss
+track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/563/track7.mp3
 episode_URL: https://mailta.pe/563/Yassin-Keetan/
 ---
-This morning we're delighted to welcome Berlin-based DJ, producer and label boss of [Sea~rène Records](https://www.instagram.com/sea.rene_records/), [GiGi FM](https://gigifm.bandcamp.com/) to MailTape!
+This morning we're delighted to welcome Paris-based music producer [Yassin Keetan](https://www.instagram.com/yassinkeetan/) to MailTape!
 
 
 # Yassin Keetan's selection
@@ -65,7 +75,7 @@ Jules: **"** **"**
 
 
 
-## Perko - Prang (feat. Huerco S.)
+## ddwy - Pendorlan
 
 
 
@@ -73,7 +83,7 @@ Jules: **"** **"**
 
 
 
-## Yushh - Same Same
+## Total Blue - Jaguarundi
 
 
 
@@ -81,7 +91,7 @@ Jules: **"**  **"**
 
 
 
-## DJ Chrysalis & Regularfantasy - Life In Plastic (Version 7 Mix)
+## Ellinor Jackson - De Se Trouver
 
 
 
@@ -89,4 +99,4 @@ Jules: **"**  **"**
 
 
 
-That’s it for this morning, thank you for joining us! Much love to [GiGi FM](https://gigifm.bandcamp.com/) for her trippy and bliss selection and to Noémie Dijon for her sweet illustration, inspired by a photography by Emotional Riots!
+That’s it for this morning, thank you for joining us! Much love to [Yassin Keetan](https://www.instagram.com/yassinkeetan/) for his bliss and moving selection and to [Marie Alléguède](https://mariealleguede.com/) for her sweet illustration, inspired by a photography by [Lisa Miliani](https://lisamiliani.com/)!
