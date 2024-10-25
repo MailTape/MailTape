@@ -69,7 +69,7 @@ Yassin: **"** I came across Glass Beams not too long ago. I’m really into thei
 
 
 
-## Yassin Keetan - Encounter
+## [Yassin Keetan](https://open.spotify.com/intl-fr/artist/4dXO04GueTAdrrRvR5q6NK) - Encounter
 
 
 
