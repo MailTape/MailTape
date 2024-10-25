@@ -88,7 +88,7 @@ Jules: **"** **"**
 
 
 
-Jules: **"**  **"** 
+Jules: **"** Another stunning release from my definitely favourite music label, [Music From Memory](https://music-from-memory.bandcamp.com/). Total Blue is the Los Angeles based trio of Nicky Benedek, Alex Talan and Anthony Calonico. Their eponymous debut album was released in July 2024 but draws influences from 80s New Age and ambient jazz. I particularly love this track, with its rainforest rhythms and vaporwave synths. **"** 
 
 
 
