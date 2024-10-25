@@ -96,7 +96,7 @@ Jules: **"**  **"**
 
 
 
- Jules: **"** An emotional gem of a song from Swedish music producer Ellinor Jackson. It's the kind of sound that you stumble upon while digging for hours, that you listen to with one ear, then immediately play over and over again, that you share with your music buddies, and that stays in your head for weeks. **"**  
+ Jules: **"** An emotional gem of a song from Swedish music producer Ellinor Jackson. It's the kind of sound that you stumble upon while digging for hours, that you listen to with one ear, then immediately play over and over again, that you're excited to share with your music buddies, and that stays in your head for weeks. **"**  
 
 
 
