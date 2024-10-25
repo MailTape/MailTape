@@ -40,7 +40,7 @@ This morning we're delighted to welcome Paris-based music producer [Yassin Keeta
 
 
 
-## Beach House - Space Song
+## [Beach House](https://beachhouse.bandcamp.com/) - Space Song
 
 
 
@@ -56,7 +56,7 @@ Yassin Keetan: **"** Ratatat is my dream band. They’re the reason I wanted to 
 
 
 
-## Glass Beams - Orb
+## [Glass Beams](https://glassbeams.bandcamp.com/album/mahal) - Orb
 
 
 
