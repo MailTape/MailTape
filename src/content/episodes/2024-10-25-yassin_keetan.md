@@ -34,6 +34,7 @@ musiColor: musicolor563.png
 ---
 This morning we're delighted to welcome Paris-based music producer [Yassin Keetan](https://www.instagram.com/yassinkeetan/) to MailTape!
 
+- actor, mode, few songs and forst EP released on its own label, an emerging artist to follow
 
 # Yassin Keetan's selection
 
@@ -72,7 +73,7 @@ Yassin Keetan: **"** I came across Glass Beams not too long ago. I’m really in
 
 
 
-Jules: **"** **"** 
+Jules: **"** about his late mother etc.   **"** 
 
 
 
