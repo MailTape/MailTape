@@ -4,7 +4,9 @@ pubDate: 2024-10-27
 category: "563"
 guest_name: Yassin Keetan
 guest_color: vibrant
+guestPic: guestpic563.png
 author: Jules
+writer: Jules
 track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track1.mp3
 track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track2.mp3
 track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track3.mp3
@@ -12,23 +14,74 @@ track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track4.mp3
 track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track5.mp3
 track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track6.mp3
 track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track7.mp3
+episode_URL: https://mailta.pe/563/Yassin-Keetan/
 ---
-This morning... 
- # Guest's selection 
- ## Artist - Track 
- Guest: **"** lorem ipsum **"** 
- ## Artist - Track 
- Guest: **"** lorem ipsum **"** 
- ## Artist - Track 
- Guest: **"** lorem ipsum **"** 
- # Curator's selection 
- ## Artist - Track 
- Curator: **"** lorem ipsum **"** 
- ## Artist - Track 
- Curator: **"** lorem ipsum **"** 
- ## Artist - Track 
- Curator: **"** lorem ipsum **"** 
- ## Artist - Track 
- Curator: **"** lorem ipsum **"** 
+This morning we're delighted to welcome Berlin-based DJ, producer and label boss of [Sea~rène Records](https://www.instagram.com/sea.rene_records/), [GiGi FM](https://gigifm.bandcamp.com/) to MailTape!
 
- Thank you... 
+
+# GiGi FM's selection
+
+
+
+
+## Ornella Vanoni - Dettagli (Detalhes)
+
+
+
+GiGi FM: **"** I love waking up with this song, it reminds me of my parents and Sunday mornings at home. When I was little my parents used to wake me up on Sunday mornings by opening my bedroom door and playing loud music in the living room which reached my room easily! This song captures this so perfectly to me! **"** 
+
+
+
+## Full Bloom - Giesing Underwater
+
+
+
+GiGi FM: **"** Seriously, the whole album is just so good and I listen to the record on weekly basics ! One of my favorite and most prolific labels [Illian Tape](https://iliantape.bandcamp.com/). Slow, hazy and flavorful, perfect for a morning cafe and a smoke haha. **"**
+
+
+
+## Pepe Bradock - Deep Burnt
+
+
+
+GiGi FM: **"** A house music classic that will literally always set you on the right vibe by the French DJ and producer Julien Auger. I love getting started on my Sunday or going from a to b on this track rather I am in transit, walking or cycling.  **"** 
+
+
+
+# MailTape's selection
+
+
+
+## [GiGi FM](https://gigifm.bandcamp.com/) - Raspberry Pie
+
+
+
+Jules: **"** This track is the sweat treat that ends GiGi FM's last EP <i>Movimiento</i>, released in June 2024 on her label [Sea~rène Records](https://www.instagram.com/sea.rene_records/). A simple but catchy melody, full of joy and perfect for a morning after-party in the sun, or to kick-start the day and prepare for new adventures!**"** 
+
+
+
+## Perko - Prang (feat. Huerco S.)
+
+
+
+ Jules: **"** We're slowly making our way back to the club with this track taken from a two-track release by the Glasgow-born, Copenhagen-based artist [Perko](https://perko.bandcamp.com/music). This long-simmering dancefloor cut was torn down and rebuilt alongside Huerco S. during a joint residency at HeimA in East Iceland in late 2022, capturing the immense scale of those surroundings and the accompanying isolation. **"** 
+
+
+
+## Yushh - Same Same
+
+
+
+Jules: **"** The Pressure Dome label-head [Yushh](https://yushh.bandcamp.com/music) (aka Jen Hartley) is already a certified stalwart of the Bristol scene. With the release of her long-anticipated debut EP <i>Look Mum No Hands</i> in February 2023, she finally gives us the pleasure of enjoying her production skills with this four tracker that draws on Bristol bass, footwork, jungle and broken techno influences. This track is slightly dropping the tempo down with a cavernous low-end that creates a mysterious atmosphere. **"** 
+
+
+
+## DJ Chrysalis & Regularfantasy - Life In Plastic (Version 7 Mix)
+
+
+
+ Jules: **"** Taken from the EP <i>Plush III</i> on the Berlin-based label [Plush Records Inc.](https://plushrecordsinc.bandcamp.com/), a collaboration between D. Tiffany and Regularfantasy, this is a slightly cheeky track that flirts with the cheesy pop of Aqua but doesn't fall for it. **"**  
+
+
+
+That’s it for this morning, thank you for joining us! Much love to [GiGi FM](https://gigifm.bandcamp.com/) for her trippy and bliss selection and to Noémie Dijon for her sweet illustration, inspired by a photography by Emotional Riots!
