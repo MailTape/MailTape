@@ -30,6 +30,7 @@ track7_title: Ellinor Jackson - De Se Trouver
 track7_color: bliss
 track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/563/track7.mp3
 episode_URL: https://mailta.pe/563/Yassin-Keetan/
+image: https://mailta.pe/img/fbPic563.png
 musiColor: musicolor563.png
 ---
 This morning we're delighted to welcome Paris-based music producer [Yassin Keetan](https://www.instagram.com/yassinkeetan/) to MailTape!
