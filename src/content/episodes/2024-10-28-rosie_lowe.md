@@ -34,9 +34,9 @@ This morning...
 
  Rosie Lowe: **"**This whole record is so calming, meditative & thought provoking. I love listening to this whilst I cook or potter around my flat and before I know it I’m in a far corner of my mind. It’s music to daydream to.**"** 
 
-# Curator's selection
+# MailTape's selection
 
-## Artist - Track
+## Rosie Lowe - Track
 
  Curator: **"** lorem ipsum **"** 
 
