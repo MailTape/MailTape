@@ -15,14 +15,17 @@ track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track2.mp3
 track3_title: Floating Points, Pharaoh Saunders, London Symphony Orchestra - Movement 6
 track3_color: dreamy
 track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track3.mp3
-track4_title: Rosie Lowe - XX
-track4_color: trippy
+track4_title: Rosie Lowe - Lay Me
+track4_color: bliss
 track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track4.mp3
+track5_color: dreamy
 track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track5.mp3
+track6_color: vibrant
 track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track6.mp3
+track7_color: bliss
 track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track7.mp3
 ---
-Your Sunday in all its softness :) This morning, MailTape is delighted to welcome singer Rosie Lowe for soulful, sweeping, deep listening. The English singer joins us following the release of her album Lover, Other. With releases marked by choral patchworks and swelling harmonies, every listen is a mosaic to discover. Best served with headphones :) Her selections for us are just as 
+Your Sunday in all its softness :) This morning, MailTape is delighted to welcome singer Rosie Lowe for a selection of soulful, sweeping, deep listening. The London-based singer joins us following the release of her album Lover, Other. With releases marked by swells of choral patchworks, acapellic avant-garde, and jazz-funk harmonies, every listen from Rosie Lowe is a mosaic to discover. Our gift to you this Sunday :) 
 
 # Rosie Lowe's selection
 
@@ -40,13 +43,13 @@ Rosie Lowe: **"**This whole record is so calming, meditative & thought provoking
 
 # MailTape's selection
 
-## Rosie Lowe - Track
+## Rosie Lowe - Lay Me
 
-Sarah: **"** lorem ipsum **"** 
+Sarah: **"**Soulful and silky, your Sunday in all its softness. Rosie Lowe threads swift and delicate piano melodies alongside spiking jazz percussives, and as always, her special attention to choral movements cradles each release in woven webs of voices. A gorgeous listen to melt into, this track arrives from Rosie Lowe's latest album [Lover, Other](https://rosielowe.bandcamp.com/album/lover-other) :) **"**
 
-## Artist - Track
+## Rosie Lowe - In the
 
-Sarah: **"** lorem ipsum **"** 
+Sarah: **"** Couldn't resist selecting another track from Lowe's most recent album, there's too much to adore in this release. Love the   **"** 
 
 ## Artist - Track
 
@@ -54,6 +57,6 @@ Sarah: **"** lorem ipsum **"**
 
 ## Rosie Lowe, Duval Timothy - Son
 
-Sarah: **"**The namesake of Lowe's beautiful 2021 album collaboration with Duval Timothy, Son. Each track on the release falls on our ears like a gift to discover, be sure to listen for He Hu and Play Along :) All through, the release balances swelling and soulful choir sections with inventive and eccentric experimental accents. This music is healing :) **"** 
+Sarah: **"**The namesake of Lowe's 2021 album, [Son](https://rosielowe.bandcamp.com/album/son), a collaboration with Duval Timothy. Each of these tracks fall on our ears like gifts to discover, but He Hu and Play Along are other particular favorites :) Incorporating a series of carefully curated ambient sounds, this track balances the swelling and soulful choir sections with punctures of inventive and eccentric vocal accents.**"** 
 
  Thank you...
