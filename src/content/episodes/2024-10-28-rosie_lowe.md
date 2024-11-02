@@ -70,4 +70,4 @@ Sarah: **"** Jason Baldock's Grandbaby project is completely produced and perfor
 
 Sarah: **"** The namesake of Lowe's 2021 album, [Son](https://rosielowe.bandcamp.com/album/son), a collaboration with Duval Timothy. Each of these tracks fall on our ears like gifts to discover, but He Hu and Play Along are other particular favorites :) Incorporating ambient sounds in its sweep, this track balances the swelling and soulful choir sections with punctures of inventive and eccentric vocal accents.**"** 
 
-That's all for this morning ! Many thanks to Rosie Lowe for joining us and to Thibault Daumain for this episode's brilliant illustration :)
+That's all for this morning ! As always, thank you for listening. Many thanks to Rosie Lowe for joining us and to Thibault Daumain for this episode's brilliant illustration :)
