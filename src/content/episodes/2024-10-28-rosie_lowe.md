@@ -49,9 +49,9 @@ Rosie Lowe: **"**This whole record is so calming, meditative & thought provoking
 
 Sarah: **"**Soulful and silky, your Sunday in all its softness. Rosie Lowe threads swift and delicate piano melodies alongside spiking jazz percussives, and as always, her special attention to choral movements cradles each release in woven webs of voices. A gorgeous listen to melt into, this track arrives from Rosie Lowe's latest album [Lover, Other](https://rosielowe.bandcamp.com/album/lover-other) :) **"**
 
-## Feed LA - Früh
+## Feed LA - Cihangir
 
-Sarah: **"** boom boom pow   **"** 
+Sarah: **"** Berlin-based Feed LA   **"** 
 
 ## Equatoriale, Kingo - Hotel
 
