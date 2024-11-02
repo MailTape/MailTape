@@ -36,7 +36,7 @@ description: Your Sunday in all its softness :) This morning, MailTape is
   a mosaic to discover. A gift for you this morning !
 episode_URL: https://mailta.pe/564/Rosie-Lowe/
 ---
-Your Sunday in all its softness :) This morning, MailTape is delighted to welcome singer Rosie Lowe for a selection of soulful, sweeping, deep listening. The London-based singer joins us following the release of her album Lover, Other. With releases marked by swells of choral patchworks, a capella avant-garde, and jazz-funk harmonies, every listen from Rosie Lowe is a mosaic to discover. A gift for you this morning !
+Your Sunday in all its softness :) This morning, MailTape is delighted to welcome singer Rosie Lowe for a selection of soulful and funky, sweeping and deep listening. The London-based singer joins us following the release of her album Lover, Other. With releases marked by swells of choral patchworks, a capella avant-garde, and jazz-funk harmonies, every listen from Rosie Lowe is a mosaic to discover. A gift for you this morning !
 
 # Rosie Lowe's selection
 
@@ -68,6 +68,6 @@ Sarah: **"**Jason Baldock's Grandbaby project is completely produced and perform
 
 ## Rosie Lowe, Duval Timothy - Son
 
-Sarah: **"** The namesake of Lowe's 2021 album, [Son](https://rosielowe.bandcamp.com/album/son), a collaboration with Duval Timothy. Each of these tracks fall on our ears like gifts to discover, but He Hu and Play Along are other particular favorites :) Incorporating a series of carefully curated ambient sounds, this track balances the swelling and soulful choir sections with punctures of inventive and eccentric vocal accents. **"** 
+Sarah: **"**The namesake of Lowe's 2021 album, [Son](https://rosielowe.bandcamp.com/album/son), a collaboration with Duval Timothy. Each of these tracks fall on our ears like gifts to discover, but He Hu and Play Along are other particular favorites :) Incorporating a series of carefully curated ambient sounds, this track balances the swelling and soulful choir sections with punctures of inventive and eccentric vocal accents.**"** 
 
 That's all for this morning ! Many thanks to Rosie Lowe for joining us and to Thibault Daumain for this episode's brilliant illustration :)
