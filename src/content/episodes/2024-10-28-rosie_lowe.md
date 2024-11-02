@@ -22,7 +22,7 @@ track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track5.mp3
 track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track6.mp3
 track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track7.mp3
 ---
-Your Sunday in all its softness. 
+Your Sunday in all its softness :) This morning, MailTape is delighted to welcome singer Rosie Lowe for soulful, sweeping, deep listening. The English singer joins us following the release of her album Lover, Other. With releases marked by choral patchworks and swelling harmonies, every listen is a mosaic to discover. Best served with headphones :) Her selections for us are just as 
 
 # Rosie Lowe's selection
 
@@ -36,24 +36,24 @@ Rosie Lowe: **"**This song has been on heavy rotation in our household since my 
 
 ## Floating Points, Pharaoh Saunders, London Symphony Orchestra - Movement 6
 
- Rosie Lowe: **"**This whole record is so calming, meditative & thought provoking. I love listening to this whilst I cook or potter around my flat and before I know it I’m in a far corner of my mind. It’s music to daydream to.**"** 
+Rosie Lowe: **"**This whole record is so calming, meditative & thought provoking. I love listening to this whilst I cook or potter around my flat and before I know it I’m in a far corner of my mind. It’s music to daydream to.**"** 
 
 # MailTape's selection
 
 ## Rosie Lowe - Track
 
- Curator: **"** lorem ipsum **"** 
+Sarah: **"** lorem ipsum **"** 
 
 ## Artist - Track
 
- Curator: **"** lorem ipsum **"** 
+Sarah: **"** lorem ipsum **"** 
 
 ## Artist - Track
 
- Curator: **"** lorem ipsum **"** 
+Sarah: **"** lorem ipsum **"** 
 
-## Artist - Track
+## Rosie Lowe, Duval Timothy - Son
 
- Curator: **"** lorem ipsum **"** 
+Sarah: **"**The namesake of Lowe's beautiful 2021 album collaboration with Duval Timothy, Son. Each track on the release falls on our ears like a gift to discover, be sure to listen for He Hu and Play Along :) All through, the release balances swelling and soulful choir sections with inventive and eccentric experimental accents. This music is healing :) **"** 
 
  Thank you...
