@@ -26,7 +26,7 @@ track7_title: Rosie Lowe, Duval Timothy - Son
 track7_color: bliss
 track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/564/track7.mp3
 ---
-Your Sunday in all its softness :) This morning, MailTape is delighted to welcome singer Rosie Lowe for a selection of soulful, sweeping, deep listening. The London-based singer joins us following the release of her album Lover, Other. With releases marked by swells of choral patchworks, acapellic avant-garde, and jazz-funk harmonies, every listen from Rosie Lowe is a mosaic to discover. Our gift to you this Sunday :) 
+Your Sunday in all its softness :) This morning, MailTape is delighted to welcome singer Rosie Lowe for a selection of soulful, sweeping, deep listening. The London-based singer joins us following the release of her album Lover, Other. With releases marked by swells of choral patchworks, a capella avant-garde, and jazz-funk harmonies, every listen from Rosie Lowe is a mosaic to discover. Our gift to you this Sunday :) 
 
 # Rosie Lowe's selection
 
