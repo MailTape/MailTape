@@ -57,7 +57,7 @@ Sarah: **"** Berlin-based experimental jazz band Feed LA   **"**
 
 ## Grandbaby - The Melody of Talk
 
-Sarah: **"** lemon squeezey (didn't know how to spell easy peasy) **"** 
+Sarah: **"** Grandbaby **"** 
 
 ## Rosie Lowe, Duval Timothy - Son
 
