@@ -51,11 +51,11 @@ Sarah: **"**Soulful and silky, your Sunday in all its softness. Rosie Lowe threa
 
 ## Feed LA - Früh
 
-Sarah: **"** Couldn't resist selecting another track from Lowe's most recent album, there's too much to adore in this release. Love the   **"** 
+Sarah: **"** boom boom pow   **"** 
 
 ## Equatoriale, Kingo - Hotel
 
-Sarah: **"** lorem ipsum **"** 
+Sarah: **"** lemon squeezey (didn't know how to spell easy peasy) **"** 
 
 ## Rosie Lowe, Duval Timothy - Son
 
