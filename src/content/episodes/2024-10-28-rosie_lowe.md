@@ -54,7 +54,7 @@ Sarah: **"**Soulful and silky, your Sunday in all its softness. Rosie Lowe threa
 
 ## Feed LA - Früh
 
-Sarah: **"** Berlin-based experimental jazz band Feed LA   **"** 
+Sarah: **"** Berlin-based experimental jazz band Feed LA's latest album is a treat to listen through (especially with headphones). The release is brimming with innovative percussives and creative trumpet breaks, the bassline on this track is also hard to beat ;) **"** 
 
 ## Grandbaby - The Melody of Talk
 
