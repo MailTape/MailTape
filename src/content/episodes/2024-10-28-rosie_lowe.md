@@ -58,7 +58,7 @@ Sarah: **"** Berlin-based experimental jazz band Feed LA's latest album is a tre
 
 ## Grandbaby - The Melody of Talk
 
-Sarah: **"** Grandbaby **"** 
+Sarah: **"**Jason Baldock's Grandbaby project is completely produced and performed from within the walls of a WWII bunker in England. The synthwork here is dark and funky, at once driving the track's energy and grounding the evolving rhythm section. Love how the cowbells punch and twist new textures. **"** 
 
 ## Rosie Lowe, Duval Timothy - Son
 
