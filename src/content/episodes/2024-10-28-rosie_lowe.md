@@ -19,10 +19,12 @@ track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/564/track3.mp3
 track4_title: Rosie Lowe - Lay Me
 track4_color: bliss
 track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/564/track4.mp3
+track5_title: Feed LA - Früh
 track5_color: dreamy
-track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track5.mp3
+track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/564/track5.mp3
+track6_title: Grandbaby - The Melody of Talk
 track6_color: vibrant
-track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track6.mp3
+track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/564/track6.mp3
 track7_title: Rosie Lowe, Duval Timothy - Son
 track7_color: bliss
 track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/564/track7.mp3
@@ -49,11 +51,11 @@ Rosie Lowe: **"**This whole record is so calming, meditative & thought provoking
 
 Sarah: **"**Soulful and silky, your Sunday in all its softness. Rosie Lowe threads swift and delicate piano melodies alongside spiking jazz percussives, and as always, her special attention to choral movements cradles each release in woven webs of voices. A gorgeous listen to melt into, this track arrives from Rosie Lowe's latest album [Lover, Other](https://rosielowe.bandcamp.com/album/lover-other) :) **"**
 
-## Feed LA - Cihangir
+## Feed LA - Früh
 
-Sarah: **"** Berlin-based Feed LA   **"** 
+Sarah: **"** Berlin-based experimental jazz band Feed LA   **"** 
 
-## Equatoriale, Kingo - Hotel
+## Grandbaby - The Melody of Talk
 
 Sarah: **"** lemon squeezey (didn't know how to spell easy peasy) **"** 
 
