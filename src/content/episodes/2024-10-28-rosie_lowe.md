@@ -4,6 +4,7 @@ pubDate: 2024-11-03
 category: "564"
 guest_name: Rosie Lowe
 guest_color: dreamy
+guestPic: guestpic564.jpg
 author: Sarah
 illustrator: Thibault Daumain
 track1_title: Pete Josef - Sunny Side Up
