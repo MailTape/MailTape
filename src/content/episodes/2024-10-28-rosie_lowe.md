@@ -22,7 +22,7 @@ track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track5.mp3
 track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track6.mp3
 track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track7.mp3
 ---
-This morning... 
+Your Sunday in all its softness, brought to you by dear guest Rosie Lowe. 
 
 # Rosie Lowe's selection
 
