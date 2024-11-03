@@ -48,7 +48,7 @@ Rosie Lowe: **"** This song is the ultimate ear worm, it gets into every cell an
 
 Rosie Lowe: **"** This song has been on heavy rotation in our household since my friend, cellist & musician Lucy Railton shared it with me. It’s by Swedish pop band ‘Dina Ögon’ with vocals by Anna Ahnlund. I have no idea what the lyrics are saying but it exemplifies how it doesn’t matter; how so much of the feeling comes through the music, phrasing and vocal performance. I challenge you to put this on and try not to move your body. Not possible. **"** 
 
-## Floating Points, Pharaoh Saunders, London Symphony Orchestra - Movement 6
+## [Floating Points](https://floatingpoints.bandcamp.com/music), [Pharaoh Saunders](https://pharoahsanders.bandcamp.com/album/harvest-time-radio-edit-love-will-find-a-way-radio-edit), [London Symphony Orchestra](https://londonsymphonyorchestra.bandcamp.com/album/london-symphony-orchestra-claude-debussy-nocturnes-l-91-cd-98) - Movement 6
 
 Rosie Lowe: **"** This whole record is so calming, meditative & thought provoking. I love listening to this whilst I cook or potter around my flat and before I know it I’m in a far corner of my mind. It’s music to daydream to. **"** 
 
@@ -58,16 +58,16 @@ Rosie Lowe: **"** This whole record is so calming, meditative & thought provokin
 
 Sarah: **"** Soulful and silky, your Sunday in all its softness. Rosie Lowe threads swift and delicate piano melodies alongside spiking jazz percussives, and as always, her special attention to choral movements cradles each release in woven webs of voices. A gorgeous listen to melt into, this track arrives from Rosie Lowe's latest album [Lover, Other](https://rosielowe.bandcamp.com/album/lover-other) :) **"**
 
-## Feed LA - Früh
+## [Feed LA](https://waxthematique.bandcamp.com/album/feed-la-2) - Früh
 
-Sarah: **"** Berlin-based experimental jazz band Feed LA's latest album is a treat to listen through (especially with headphones). The release is brimming with innovative percussives and creative trumpet breaks, the bassline on this track is also hard to beat ;) **"** 
+Sarah: **"** Berlin-based experimental jazz band [Feed LA's latest album](https://waxthematique.bandcamp.com/album/feed-la-2) is a treat to listen through (especially with headphones). The release is brimming with innovative percussives and creative trumpet breaks, the bassline on this track is also hard to beat ;) **"** 
 
-## Grandbaby - The Melody of Talk
+## [Grandbaby](https://grandbaby.bandcamp.com/) - The Melody of Talk
 
-Sarah: **"** Jason Baldock's Grandbaby project is completely produced and performed from within the walls of a WWII bunker in England. The synthwork here is dark and funky, at once driving the track's energy and grounding the evolving rhythm section. Love how the cowbells punch and twist new textures. **"** 
+Sarah: **"** Jason Baldock's [Grandbaby](https://grandbaby.bandcamp.com/) project is completely produced and performed from within the walls of a WWII bunker in England. The synthwork here is dark and funky, at once driving the track's energy and grounding the evolving rhythm section. Love how the cowbells punch and twist new textures. **"** 
 
-## Rosie Lowe, Duval Timothy - Son
+## [Rosie Lowe](https://rosielowe.bandcamp.com/), [Duval Timothy](https://duvaltimothy.bandcamp.com/) - Son
 
-Sarah: **"** The namesake of Lowe's 2021 album, [Son](https://rosielowe.bandcamp.com/album/son), a collaboration with Duval Timothy. Each of these tracks fall on our ears like gifts to discover, but He Hu and Play Along are other particular favorites :) Incorporating ambient sounds in its sweep, this track balances the swelling and soulful choir sections with punctures of inventive and eccentric vocal accents.**"** 
+Sarah: **"** The namesake of Lowe's 2021 album, [Son](https://rosielowe.bandcamp.com/album/son), a collaboration with [Duval Timothy](https://duvaltimothy.bandcamp.com/). Each of these tracks fall on our ears like gifts to discover, but He Hu and Play Along are other particular favorites :) Incorporating ambient sounds in its sweep, this track balances the swelling and soulful choir sections with punctures of inventive and eccentric vocal accents.**"** 
 
-That's all for this morning ! As always, thank you for listening. Many thanks to Rosie Lowe for joining us and to Thibault Daumain for this episode's brilliant illustration :)
+That's all for this morning ! As always, thank you for listening. Many thanks to [Rosie Lowe](https://rosielowe.bandcamp.com/) for joining us and to [Thibault Daumain](https://thibaultdaumain.fr/) for this episode's brilliant illustration :)
