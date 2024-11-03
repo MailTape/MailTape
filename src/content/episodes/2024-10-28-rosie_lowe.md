@@ -10,7 +10,7 @@ illustrator: Thibault Daumain
 track1_title: Pete Josef - Sunny Side Up
 track1_color: bliss
 track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/564/track1.mp3
-track2_title: Dina Ogen - Tombola 94
+track2_title: Dina Ögon - Tombola 94
 track2_color: vibrant
 track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/564/track2.mp3
 track3_title: Floating Points, Pharaoh Saunders, London Symphony Orchestra - Movement 6
