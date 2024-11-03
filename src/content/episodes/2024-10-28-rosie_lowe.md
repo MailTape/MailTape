@@ -36,17 +36,17 @@ description: Your Sunday in all its softness :) This morning, MailTape is
   a mosaic to discover. A gift for you this morning !
 episode_URL: https://mailta.pe/564/Rosie-Lowe/
 ---
-Your Sunday in all its softness :) This morning, MailTape is delighted to welcome singer Rosie Lowe for a selection of sweeping soulful deep listening. The London-based singer joins us following the release of her album Lover, Other. Rosie Lowe's releases are marked by swells of intricate choral patchworks, a capella avant-garde, and jazz-funk harmonies -- every listen hints at more to discover. A gift for you this morning !
+Your Sunday in all its softness :) This morning, MailTape is delighted to welcome singer [Rosie Lowe](https://rosielowe.bandcamp.com/) for a selection of sweeping soulful deep listening. The London-based singer joins us following the release of her album [Lover, Other](https://rosielowe.bandcamp.com/album/lover-other). Rosie Lowe's releases are marked by swells of intricate choral patchworks, a capella avant-garde, and jazz-funk harmonies -- every listen hints at more to discover. A gift for you this morning !
 
 # Rosie Lowe's selection
 
-## Peter Josef - Sunny Side Up
+## [Peter Josef](https://petejosef.bandcamp.com/) - Sunny Side Up
 
 Rosie Lowe: **"** This song is the ultimate ear worm, it gets into every cell and sticks to your limbs like honey. You can tell Pete has studied the art of songwriting and this song brings harmony, song structure & arrangement together so beautifully. I love all of Pete’s music but this one is a particular favourite of mine. **"** 
 
-## Dina Ogen - Tombola 94
+## [Dina Ögon](https://singasongfighter.bandcamp.com/album/dina-gon-3) - Tombola 94
 
-Rosie Lowe: **"** This song has been on heavy rotation in our household since my friend, cellist & musician Lucy Railton shared it with me. It’s by Swedish pop band ‘Dina Ogen’ with vocals by Anna Ahnlund. I have no idea what the lyrics are saying but it exemplifies how it doesn’t matter; how so much of the feeling comes through the music, phrasing and vocal performance. I challenge you to put this on and try not to move your body. Not possible. **"** 
+Rosie Lowe: **"** This song has been on heavy rotation in our household since my friend, cellist & musician Lucy Railton shared it with me. It’s by Swedish pop band ‘Dina Ögon’ with vocals by Anna Ahnlund. I have no idea what the lyrics are saying but it exemplifies how it doesn’t matter; how so much of the feeling comes through the music, phrasing and vocal performance. I challenge you to put this on and try not to move your body. Not possible. **"** 
 
 ## Floating Points, Pharaoh Saunders, London Symphony Orchestra - Movement 6
 
@@ -54,7 +54,7 @@ Rosie Lowe: **"** This whole record is so calming, meditative & thought provokin
 
 # MailTape's selection
 
-## Rosie Lowe - Lay Me
+## [Rosie Lowe](https://rosielowe.bandcamp.com/) - Lay Me
 
 Sarah: **"** Soulful and silky, your Sunday in all its softness. Rosie Lowe threads swift and delicate piano melodies alongside spiking jazz percussives, and as always, her special attention to choral movements cradles each release in woven webs of voices. A gorgeous listen to melt into, this track arrives from Rosie Lowe's latest album [Lover, Other](https://rosielowe.bandcamp.com/album/lover-other) :) **"**
 
