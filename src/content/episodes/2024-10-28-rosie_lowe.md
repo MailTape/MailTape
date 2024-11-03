@@ -35,6 +35,7 @@ description: Your Sunday in all its softness :) This morning, MailTape is
   capella avant-garde, and jazz-funk harmonies, every listen from Rosie Lowe is
   a mosaic to discover. A gift for you this morning !
 episode_URL: https://mailta.pe/564/Rosie-Lowe/
+musiColor: musicolor_564.png
 ---
 Your Sunday in all its softness :) This morning, MailTape is delighted to welcome singer [Rosie Lowe](https://rosielowe.bandcamp.com/) for a selection of sweeping soulful deep listening. The London-based singer joins us following the release of her album [Lover, Other](https://rosielowe.bandcamp.com/album/lover-other). Rosie Lowe's releases are marked by swells of intricate choral patchworks, a capella avant-garde, and jazz-funk harmonies -- every listen hints at more to discover. A gift for you this morning !
 
@@ -70,4 +71,4 @@ Sarah: **"** Jason Baldock's [Grandbaby](https://grandbaby.bandcamp.com/) projec
 
 Sarah: **"** The namesake of Lowe's 2021 album, [Son](https://rosielowe.bandcamp.com/album/son), a collaboration with [Duval Timothy](https://duvaltimothy.bandcamp.com/). Each of these tracks fall on our ears like gifts to discover, but He Hu and Play Along are other particular favorites :) Incorporating ambient sounds in its sweep, this track balances the swelling and soulful choir sections with punctures of inventive and eccentric vocal accents.**"** 
 
-That's all for this morning ! As always, thank you for listening. Many thanks to [Rosie Lowe](https://rosielowe.bandcamp.com/) for joining us and to [Thibault Daumain](https://thibaultdaumain.fr/) for this episode's brilliant illustration :)
+That's all for this morning ! As always, thank you for listening. Many thanks to [Rosie Lowe](https://rosielowe.bandcamp.com/) for joining us and to Thibault Daumain for this episode's brilliant illustration :)
