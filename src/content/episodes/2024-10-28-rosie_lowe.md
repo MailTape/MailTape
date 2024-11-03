@@ -36,7 +36,7 @@ description: Your Sunday in all its softness :) This morning, MailTape is
   a mosaic to discover. A gift for you this morning !
 episode_URL: https://mailta.pe/564/Rosie-Lowe/
 ---
-Your Sunday in all its softness :) This morning, MailTape is delighted to welcome singer Rosie Lowe for a selection of soulful and funky, sweeping and deep listening. The London-based singer joins us following the release of her album Lover, Other. Rosie Lowe's releases are marked by swells of intricate choral patchworks, a capella avant-garde, and jazz-funk harmonies -- every listen hints at more to discover. A gift for you this morning !
+Your Sunday in all its softness :) This morning, MailTape is delighted to welcome singer Rosie Lowe for a selection of sweeping soulful deep listening. The London-based singer joins us following the release of her album Lover, Other. Rosie Lowe's releases are marked by swells of intricate choral patchworks, a capella avant-garde, and jazz-funk harmonies -- every listen hints at more to discover. A gift for you this morning !
 
 # Rosie Lowe's selection
 
