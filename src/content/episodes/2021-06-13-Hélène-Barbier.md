@@ -26,7 +26,7 @@ track7_color: trippy
 episode_URL: 'http://mailta.pe/455/hélène-barbier/'
 image: 'https://mailta.pe/img/fbPic455.png'
 musiColor: musiColor455.png
-track7_link: 'https://soundcloud.com/fixturerecords/phern-i-sold-the-house'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/missingTrack.mp3'
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/455/track1.mp3'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/455/track2.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/455/track3.mp3'

@@ -2,10 +2,10 @@
 pubDate: '2019-10-27'
 bigTitle_font_ratio: '6'
 published: true
-track5_link: 'https://soundcloud.com/ada_ada/chassol-birds-pt-i'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/missingTrack.mp3'
 guest_color: dreamy
-track6_link: 'https://soundcloud.com/heladonegro/2-dia'
-track7_link: 'https://soundcloud.com/memphisindustries/rozi-plain-symmetrical'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/missingTrack.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/missingTrack.mp3'
 track7_title: Rozi Plain - Symmetrical
 track7_color: dreamy
 track6_color: dreamy
@@ -14,7 +14,7 @@ track5_color: bliss
 track6_title: Helado Negro - 2° Dia
 track4_title: River Into Lake - Dig Your Own Way
 track4_color: trippy
-track3_link: 'https://soundcloud.com/thundercatofficial/them-changes'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/missingTrack.mp3'
 track3_title: Thundercat - Them Changes
 track3_color: vibrant
 track2_title: Selda Bağcan - Dostum Dostum

@@ -2,7 +2,7 @@
 pubDate: '2021-05-30'
 bigTitle_font_ratio: '6'
 published: true
-track3_link: 'https://soundcloud.com/lukeslott/the-keeper-of-secrets'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/missingTrack.mp3'
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/453/track1.mp3'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/453/track2.mp3'
 category: '453'
@@ -11,7 +11,7 @@ illustrator: Thibault Daumain
 writer: ImaCrea
 guest_name: Mike Slott
 guest_color: dreamy
-track4_link: 'https://soundcloud.com/mikeslott/4-mike-slott-keep-me-here-precise-master-v2'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/missingTrack.mp3'
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/453/track5.mp3'
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/453/track6.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/453/track7.mp3'

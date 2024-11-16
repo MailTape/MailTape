@@ -5,14 +5,14 @@ category: '447'
 guest_name: Curved Light
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/447/track1.mp3'
 track1_title: Alice Coltrane - Hare Krishna
-track2_link: 'https://soundcloud.com/vhphan/ride-on-time-single-version'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/missingTrack.mp3'
 track2_title: Tatsuro Yamashita - Ride On Time
-track3_link: 'https://soundcloud.com/user5684243/robin-guthrie-and-harold-budd-snowfall'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/missingTrack.mp3'
 track3_title: Robin Guthrie & Harold Budd - Snowfall
 track3_color: dreamy
 track2_color: vibrant
 track1_color: bliss
-track4_link: 'https://soundcloud.com/curvedlight/one-moment-in-the-sun'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/missingTrack.mp3'
 track4_title: Curved Light - One Moment in the Sun
 track4_color: vibrant
 track5_color: dreamy
@@ -25,7 +25,7 @@ musiColor: musiColor447.png
 image: 'https://mailta.pe/img/fbPic447.png'
 episode_URL: 'http://mailta.pe/447/Curved-Light/'
 guestPic: guestPic447.jpg
-track6_link: 'https://soundcloud.com/multiculti/mytron-ofofo-lebanese-red-bird-mc040'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/missingTrack.mp3'
 track6_title: Mytron & Ofofo - Lebanese Red Bird
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/447/track7.mp3'
 track7_title: YOM - Celebration

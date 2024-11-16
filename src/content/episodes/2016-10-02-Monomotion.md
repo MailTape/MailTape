@@ -22,7 +22,7 @@ track2_link: 'https://mtsounds.eu-central-1.wasabisys.com/228/track2.mp3'
 track2_color: bliss
 track3_color: rough
 track4_color: bliss
-track5_link: 'https://soundcloud.com/aetherworldgarage/2016a'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/missingTrack.mp3'
 track5_title: aetherworld. - Aeon of Aether
 track5_color: dreamy
 track6_link: 'https://mtsounds.eu-central-1.wasabisys.com/228/track6.mp3'

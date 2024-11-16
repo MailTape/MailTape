@@ -17,14 +17,14 @@ track1_title: Daniel Rossen - Saint Nothing
 track1_color: vibrant
 track4_title: Northwest - All Of A Sudden
 track4_color: vibrant
-track4_link: 'https://soundcloud.com/thisisnorthwest/all-of-a-sudden'
-track5_link: 'https://soundcloud.com/eileen-rico/cat-power-sea-of-love'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/missingTrack.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/missingTrack.mp3'
 track5_title: Cat Power - Sea Of Love
 track5_color: bliss
-track6_link: 'https://soundcloud.com/fleetfoxes/for-a-week-or-two'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/missingTrack.mp3'
 track6_title: Fleet Foxes - For A Week Or Two
 track6_color: vibrant
-track7_link: 'https://soundcloud.com/foxtrottfoxtrott/intuition?in=foxtrottfoxtrott/sets/foxtrott-meditations-i'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/missingTrack.mp3'
 track7_title: 'Foxtrott - Intuition '
 track7_color: vibrant
 episode_URL: 'http://mailta.pe/448/northwest/'

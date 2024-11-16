@@ -7,26 +7,26 @@ illustrator: Julie Wojtczak
 writer: Anaïs G
 guest_name: Good Morning TV
 guestPic: guestPic452.jpg
-track1_link: 'https://soundcloud.com/leavingrecords/surface-to-air-missive-time-being'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/missingTrack.mp3'
 track1_title: Surface To Air Missive - Time Being
 track1_color: bliss
-track2_link: 'https://soundcloud.com/artfeynman/im-gonna-miss-your-world'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/missingTrack.mp3'
 track2_title: Art Feynman - I'm Gonna Miss Your World
 track2_color: trippy
-track3_link: 'https://soundcloud.com/modernefusion/ryuichi-sakamoto-merry-christmas-mr-lawrence'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/missingTrack.mp3'
 track3_title: Ryuichi Sakamoto - Merry Christmas Mr. Lawrence
 track3_color: dreamy
-track4_link: 'https://soundcloud.com/geographierecs/insomniac'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/missingTrack.mp3'
 track4_color: dreamy
 track4_title: Good Morning TV - Insomniac
 track7_title: 'Poni Hoax - Tropical Suite : São Paulo '
 track7_color: vibrant
-track7_link: 'https://soundcloud.com/pan-european-recording/poni-hoax-tropical-suite-sao'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/missingTrack.mp3'
 track5_title: Melody's Echo Chamber - Shirim
 track5_color: bliss
 track6_title: Laventure - Give
 track6_color: dreamy
-track6_link: 'https://soundcloud.com/ingrid-laventure/give-mstrd'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/missingTrack.mp3'
 category: '452'
 guest_color: dreamy
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/452/track5.mp3'
