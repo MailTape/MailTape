@@ -46,6 +46,7 @@ description: >-
   Accompanied by her quartet, Muriel explores the world of spiritual jazz and offers a sixteenth album, the result of slow maturation, resolutely full of a joy that she enjoys sharing wherever she has the pleasure to play. 
 episode_URL: https://www.mailta.pe/567/muriel-grossman/
 image: https://mailta.pe/img/fbPic567.jpg
+musiColor: musicolor567.png
 ---
 This morning we're playing jazz! And to be more precise, we offer you
 a journey around the saxophone, this instrument whose vibration is
