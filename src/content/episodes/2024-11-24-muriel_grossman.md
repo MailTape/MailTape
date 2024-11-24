@@ -47,14 +47,13 @@ description: >-
 episode_URL: https://www.mailta.pe/567/muriel-grossman/
 image: https://mailta.pe/img/fbPic567.jpg
 ---
-
 This morning we're playing jazz! And to be more precise, we offer you
 a journey around the saxophone, this instrument whose vibration is
 unique, sometimes mystical and often the source of a certain
 enchantment. If you're not familiar, we found the perfect guide for
-you: Muriel Grossman. She is a specialist in the domain, and she’s
+you: [Muriel Grossman](https://murielgrossmann.bandcamp.com/). She is a specialist in the domain, and she’s
 about to release a highly anticipated new album (which is also being
-listened to collectively for the first time this evening).
+listened to collectively for the first time [this evening](https://murielgrossmann.bandcamp.com/merch/the-light-of-the-mind-listening-party-with-the-full-band)).
 
 Accompanied by her
 quartet, Muriel explores the world of spiritual jazz and offers a
@@ -68,17 +67,17 @@ each more unique than the last.
 
 # Guest's selection
 
-## Dexter Gordon - Ca'Purange
+## [Dexter Gordon](https://storyvillerecords.bandcamp.com/) - Ca'Purange
 
 Muriel Grossman: "Ca'Purage" ... incredible song and performance by Dexter and the crew, digging deep into soul jazz. It's always nice to hear Dexter, he always plays great and some really groovy stuff by
 legendary drummer Louis Haynes, who is still alive by the way, call
 him for your show too.
 
-## Cannonball Adderley - 74 Miles Away
+## [Cannonball Adderley](https://cannonballadderley.bandcamp.com/) - 74 Miles Away
 
  Muriel Grossman: Great composition by Joe Zawinul and a classic performance by this great band. Spiritual jazz crossed with some soulful playing, as usual with the Cannonball groups, this selection is also recorded live ... 1967, a transitional year, lots of great records, lot's of great music!
 
-## Wayne Shorter - Wind
+## [Wayne Shorter](https://wayneshorter.bandcamp.com) - Wind
 
  Muriel Grossman: "Odyssey of Iska" is a great record by Wayne Shorter, one of my favorites, it was just after he left the Miles band and before
 he and Zawinul formed Weather Report ... it's a great avant-garde
@@ -86,7 +85,7 @@ record, unknown, underrated...
 
 # Curator's selection
 
-## Muriel Grossman - Unison Unveiled
+## [Muriel Grossman](https://murielgrossmann.bandcamp.com/) - Unison Unveiled
 
  Anto: **"** I must admit that my jazz culture is very limited. I let my ears
 wander here and there, randomly on a few musical wanderings, and I
@@ -100,7 +99,7 @@ Digging a little deeper, I really appreciated the energy and values ​​that M
 offer you a preview of "Unison Unveild", a very bright and
 particularly groovy track which will appear on the new album. Enjoy! **"** 
 
-## Cochemea -Curandera
+## [Cochemea](https://cochemea.bandcamp.com) -Curandera
 
  Anto: **"** This track is a step into unknown territory. Visibly sacred land, we feel irremediably good. The sax twirls from one place to another,
 never where we might expect it... We follow it and realize its
@@ -108,11 +107,11 @@ healing power. As if he were healing something, something different
 in each of us. Healer. This is what "Curandera" means in
 Spanish.  **"** 
 
-## Nubya Garcia - A Shade Of Jade 
+## [Nubya Garcia](https://nubyagarcia.bandcamp.com/) - A Shade Of Jade
 
  Anto: **"** With this song, Nubya Garcia masterfully shows us how the saxophone is capable of stepping aside to better let his friends shine. She is there, she welcomes everyone and stands back to watch with delight as her mate thrill the audience. Then she comes in turn to swing an incomparable vibe, a poetry delicately placed where it is needed. The end phase where the sax gradually leaves the piece is a delight that we never tire of. **"** 
 
-## Manu Dibango - Frozen Soul
+## [Manu Dibango](https://manudibango.bandcamp.com) - Frozen Soul
 
  Anto: **"** Finally we finish with an even different rhythm, which smells like the sun (which contrasts radically with the title of the track). Here
 Uncle Manu vibrates his instrument with grace and elegance,
