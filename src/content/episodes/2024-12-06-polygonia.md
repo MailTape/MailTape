@@ -28,21 +28,37 @@ episode_URL: https://mailta.pe/569/POLYGONIA/
 image: ""
 ---
 This morning... 
- # Guest's selection 
- ## Artist - Track 
- Guest: **"** lorem ipsum **"** 
- ## Artist - Track 
- Guest: **"** lorem ipsum **"** 
- ## Artist - Track 
- Guest: **"** lorem ipsum **"** 
- # Curator's selection 
- ## Artist - Track 
- Curator: **"** lorem ipsum **"** 
- ## Artist - Track 
- Curator: **"** lorem ipsum **"** 
- ## Artist - Track 
- Curator: **"** lorem ipsum **"** 
- ## Artist - Track 
+
+# Guest's selection
+
+## SALOMEA - Truth Is Queen, Kindness Is King
+
+ Guest: **"** It’s hard to pick a favourite from this huge album ‘Good Life’ which SALOMEA put out recently. I decided to choose this track as it showcases so well how amazing all musicians of this band are. Rebekka Salomea, the front singer, lyricist and composer, Yannis Anft on Keys, Oliver Lutz on bass and Leif Berger on drums - these four really manage to absolutely impress me each time. Hearing them life is an outstanding almost life changing experience. And with this track and this record in general, they once again proved heir point of real artistry and skill. **"** 
+
+## Carmen Villain - Nutrition
+
+ Guest: **"** I love the close intimate feeling of this track. No reverb at all and so wooden, so warm. It’s very minimalistic but with all the right sounds in the right place. A groove which almost feels like a ritualistic sequence. On the one hand, a perfect tool for layering in DJ sets, but also great for home listening. **"** 
+
+## Jorge Reyes - El Senor De La Aurora
+
+ Guest: **"** This album ‘The Flayed God’ was a recommendation of a friend with whom I talked about my experiences with indigenous people in Colombia. Its vibe matched these stories so well, that I directly associate the music with all the precious things I’ve learned from this journey. One of my most important focus points in live is my connection to nature. And this album always brings me back to what to be thankful for and reminds me of what to look out for in life. The sounds of nature combined with the ritualistic flutes and rhythms are directly connected to human roots. **"** 
+
+# Curator's selection
+
+## Artist - Track
+
  Curator: **"** lorem ipsum **"** 
 
- Thank you... 
+## Artist - Track
+
+ Curator: **"** lorem ipsum **"** 
+
+## Artist - Track
+
+ Curator: **"** lorem ipsum **"** 
+
+## Artist - Track
+
+ Curator: **"** lorem ipsum **"** 
+
+ Thank you...
