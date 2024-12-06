@@ -24,6 +24,8 @@ track6_color: trippy
 track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track6.mp3
 track7_color: dreamy
 track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track7.mp3
+episode_URL: https://mailta.pe/569/POLYGONIA/
+image: ""
 ---
 This morning... 
  # Guest's selection 
