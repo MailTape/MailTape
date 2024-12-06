@@ -2,7 +2,7 @@
 published: true
 pubDate: 2024-12-08
 category: "569"
-guest_name: Polygonia
+guest_name: POLYGONIA
 guest_color: dreamy
 author: Sarah
 illustrator: Noémie Dijon
