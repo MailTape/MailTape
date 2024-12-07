@@ -4,6 +4,7 @@ pubDate: 2024-12-08
 category: "569"
 guest_name: POLYGONIA
 guest_color: dreamy
+guestPic: guestpic569.jpg
 author: Sarah
 illustrator: Noémie Dijon
 track1_title: SALOMEA - Truth Is Queen, Kindness Is King
@@ -26,6 +27,7 @@ track7_color: dreamy
 track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track7.mp3
 episode_URL: https://mailta.pe/569/POLYGONIA/
 image: ""
+musiColor: musicolor569.png
 ---
 This morning... 
 
