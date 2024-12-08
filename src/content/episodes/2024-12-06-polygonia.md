@@ -60,7 +60,7 @@ This morning...
 
 ## Laurie Bird - Jussa Trip
 
- Curator: **"** lorem ipsum **"** 
+ Curator: **"** the textures on this synthwork :)) flying everywhere **"** 
 
 ## POLYGONIA - Inhaler
 
