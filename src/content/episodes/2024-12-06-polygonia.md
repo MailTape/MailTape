@@ -2,7 +2,7 @@
 published: true
 pubDate: 2024-12-08
 category: "569"
-guest_name: POLYGONIA
+guest_name: Polygonia
 guest_color: dreamy
 guestPic: guestpic569.jpg
 author: Sarah
@@ -25,7 +25,7 @@ track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/569/track5.mp3
 track6_title: Laurie Bird - Jussa Trip
 track6_color: trippy
 track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/569/track6.mp3
-track7_title: POLYGONIA - Inhaler
+track7_title: Polygonia - Inhaler
 track7_color: dreamy
 track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/569/track7.mp3
 episode_URL: https://mailta.pe/569/POLYGONIA/
@@ -62,7 +62,7 @@ Sarah: **"** This one is from one of my favorite moments in Hermeto Pascoal's 19
 
  Sarah: **"** I've been listening to this one quite a bit this week, off of a two-song EP by Laurie Bird. Another gem for synthwork textures :) **"** 
 
-## [Rrose](https://rrose.bandcamp.com/), [POLYGONIA](https://soundcloud.com/polygonia) - Inhaler
+## [Rrose](https://rrose.bandcamp.com/), [Polygonia](https://soundcloud.com/polygonia) - Inhaler
 
 Sarah: **"** One more mesmerizing track from [Polygonia](https://soundcloud.com/polygonia) to finish off our selection, arriving from her latest collaborative mini album with Rrose, entitled [Dermatology](https://rrose.bandcamp.com/album/dermatology). The momentum in this heart beat bass offers its own kind of gravity, anchoring us amidst Polygonia's signature layered rhythmic textures and subtle shifting -- we are both tethered and transformed. **"** 
 
