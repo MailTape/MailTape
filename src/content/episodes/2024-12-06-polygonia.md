@@ -60,7 +60,7 @@ Sarah: **"** This one is from one of my favorite moments in Hermeto Pascoal's 19
 
 ## Laurie Bird - Jussa Trip
 
- Sarah: **"** Another track for synthwork textures :) **"** 
+ Sarah: **"** I've been listening to this one quite a bit this week, off of a two-song album by Laurie Bird. Another gem for synthwork textures :) **"** 
 
 ## Rrose, POLYGONIA - Inhaler
 
