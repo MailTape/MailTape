@@ -22,7 +22,7 @@ track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track4.mp3
 track5_title: Hermeto Pascoal - Música da Lagoa
 track5_color: bliss
 track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track5.mp3
-track6_title: Laurie Bird - Jussa Bird
+track6_title: Laurie Bird - Jussa Trip
 track6_color: trippy
 track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track6.mp3
 track7_title: POLYGONIA - Inhaler
@@ -50,19 +50,19 @@ This morning...
 
 # Curator's selection
 
-## Artist - Track
+## Nesa Azadikhah, Polygonia - Reverie (Polygonia'S Fantasme Mix)
 
  Curator: **"** lorem ipsum **"** 
 
-## Artist - Track
+## Hermeto Pascoal - Música da Lagoa
 
  Curator: **"** lorem ipsum **"** 
 
-## Hermet - Track
+## Laurie Bird - Jussa Trip
 
  Curator: **"** lorem ipsum **"** 
 
-## Artist - Track
+## POLYGONIA - Inhaler
 
  Curator: **"** lorem ipsum **"** 
 
