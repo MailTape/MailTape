@@ -32,7 +32,7 @@ episode_URL: https://mailta.pe/569/POLYGONIA/
 image: ""
 musiColor: musicolor569.png
 ---
-Polygonia joins us for Episode 569, gifting MailTape some immersive and infectious textures for Sunday listening :) Headed by multi-disciplinary artist Lindsey Wang, Polygonia's releases tread seamlessly between ethereal ambient and deep techno. The Munich-based artist joins us following the release of her latest album, [Dermatology](https://rrose.bandcamp.com/album/dermatology).
+Polygonia joins us for Episode 569, gifting MailTape some immersive textures for Sunday listening :) Headed by multi-disciplinary artist Lindsey Wang, Polygonia's releases tread seamlessly between ethereal ambient and deep techno. The Munich-based artist joins us following the release of her latest album, [Dermatology](https://rrose.bandcamp.com/album/dermatology).
 
 # Guest's selection
 
