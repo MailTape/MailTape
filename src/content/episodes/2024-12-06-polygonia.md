@@ -16,13 +16,16 @@ track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track2.mp3
 track3_title: Jorge Reyes – El Senor De La Aurora
 track3_color: bliss
 track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track3.mp3
-track4_title: POLYGONIA
+track4_title: Nesa Azadikhah, Polygonia - Reverie (Polygonia'S Fantasme Mix)
 track4_color: vibrant
 track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track4.mp3
+track5_title: Hermeto Pascoal - Música da Lagoa
 track5_color: bliss
 track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track5.mp3
+track6_title: Laurie Bird - Jussa Bird
 track6_color: trippy
 track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track6.mp3
+track7_title: POLYGONIA - Inhaler
 track7_color: dreamy
 track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/XXX/track7.mp3
 episode_URL: https://mailta.pe/569/POLYGONIA/
@@ -55,7 +58,7 @@ This morning...
 
  Curator: **"** lorem ipsum **"** 
 
-## Artist - Track
+## Hermet - Track
 
  Curator: **"** lorem ipsum **"** 
 
