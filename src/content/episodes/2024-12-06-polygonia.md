@@ -38,7 +38,7 @@ Polygonia joins us for Episode 569, gifting MailTape some immersive textures for
 
 ## [SALOMEA](https://salomeaofficial.com/) - Truth Is Queen, Kindness Is King
 
- Guest: **"** It’s hard to pick a favourite from this huge album ‘Good Life’ which SALOMEA put out recently. I decided to choose this track as it showcases so well how amazing all musicians of this band are. Rebekka Salomea, the front singer, lyricist and composer, Yannis Anft on Keys, Oliver Lutz on bass and Leif Berger on drums - these four really manage to absolutely impress me each time. Hearing them life is an outstanding almost life changing experience. And with this track and this record in general, they once again proved heir point of real artistry and skill. **"** 
+ Guest: **"** It’s hard to pick a favourite from this huge album ‘[Good Life](https://salomeasaywhat.bandcamp.com/album/good-life)’ which SALOMEA put out recently. I decided to choose this track as it showcases so well how amazing all musicians of this band are. Rebekka Salomea, the front singer, lyricist and composer, Yannis Anft on Keys, Oliver Lutz on bass and Leif Berger on drums - these four really manage to absolutely impress me each time. Hearing them life is an outstanding almost life changing experience. And with this track and this record in general, they once again proved heir point of real artistry and skill. **"** 
 
 ## [Carmen Villain](https://carmenvillain.bandcamp.com/) - Nutrition
 
@@ -46,7 +46,7 @@ Polygonia joins us for Episode 569, gifting MailTape some immersive textures for
 
 ## [Jorge Reyes](https://www.discogs.com/artist/14111-Jorge-Reyes?srsltid=AfmBOoqEW9OmUB9EFnBv5rBHLvlxAtr8hr-3naRi6W_P8s3t5T2GtfgF) - El Senor De La Aurora
 
- Guest: **"** This album ‘The Flayed God’ was a recommendation of a friend with whom I talked about my experiences with indigenous people in Colombia. Its vibe matched these stories so well, that I directly associate the music with all the precious things I’ve learned from this journey. One of my most important focus points in live is my connection to nature. And this album always brings me back to what to be thankful for and reminds me of what to look out for in life. The sounds of nature combined with the ritualistic flutes and rhythms are directly connected to human roots. **"** 
+ Guest: **"** This album ‘[The Flayed God](https://staalplaatlabel.bandcamp.com/album/the-flayed-god)’ was a recommendation of a friend with whom I talked about my experiences with indigenous people in Colombia. Its vibe matched these stories so well, that I directly associate the music with all the precious things I’ve learned from this journey. One of my most important focus points in live is my connection to nature. And this album always brings me back to what to be thankful for and reminds me of what to look out for in life. The sounds of nature combined with the ritualistic flutes and rhythms are directly connected to human roots. **"** 
 
 # Curator's selection
 
@@ -66,4 +66,4 @@ Sarah: **"** This one is from one of my favorite moments in Hermeto Pascoal's 19
 
 Sarah: **"** One more mesmerizing track from [Polygonia](https://soundcloud.com/polygonia) to finish off our selection, arriving from her latest collaborative mini album with Rrose, entitled [Dermatology](https://rrose.bandcamp.com/album/dermatology). The momentum in this heart beat bass offers its own kind of gravity, anchoring us amidst Polygonia's signature layered rhythmic textures and subtle shifting -- we are both tethered and transformed. **"** 
 
-Thank you for joining this session, that's all for this week :) A very special thank you to Noémie Dijon for this episode's beautiful illustration and to our dear guest [Polygonia](https://soundcloud.com/polygonia) for this stunning selection.
+Thank you for joining this session, that's all for this week :) A very special thank you to Noémie Dijon for this episode's beautiful illustration and to our dear guest [Polygonia](https://soundcloud.com/polygonia) for this Sunday's stunning selection.
