@@ -64,6 +64,6 @@ Sarah: **"** This one is from one of my favorite moments in Hermeto Pascoal's 19
 
 ## Rrose, POLYGONIA - Inhaler
 
-Sarah: **"** One more mesmerizing track from Polygonia to finish off our selection, arriving from her latest album, Dermatology. The momentum in this heart beat bass offers its own kind of gravity, anchoring us amidst Polygonia's signature layered textures and subtle shifting -- we are both tethered and transformed. **"** 
+Sarah: **"** One more mesmerizing track from Polygonia to finish off our selection, arriving from her latest collaborative mini album with Rrose, entitled Dermatology. The momentum in this heart beat bass offers its own kind of gravity, anchoring us amidst Polygonia's signature layered rhythmic textures and subtle shifting -- we are both tethered and transformed. **"** 
 
 Thank you for joining this session, that's all for this week :) A very special thank you to Noémie Dijon for this episode's beautiful illustration and to our dear guest Polygonia for this stunning selection.
