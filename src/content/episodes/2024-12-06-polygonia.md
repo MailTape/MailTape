@@ -32,7 +32,7 @@ episode_URL: https://mailta.pe/569/POLYGONIA/
 image: ""
 musiColor: musicolor569.png
 ---
-This morning... 
+Polygonia joins MailTape for some infectious textures this Sunday :) Headed by multi-disciplinary artist Lindsey Wang, Polygonia's releases tread seamlessly between ethereal ambient and deep techno. The Munich-based artist joins us following the release of her latest album, Dermatology. 
 
 # Guest's selection
 
@@ -52,18 +52,18 @@ This morning...
 
 ## Nesa Azadikhah, Polygonia - Reverie (Polygonia'S Fantasme Mix)
 
- Curator: **"** lorem ipsum **"** 
+ Curator: **"** The latest release from Polygonia, just last week :) The energy is contagious with these rich rhythmic webs of sound. Polygonia's exploration of acoustic and synthetic percussions weave together seamlessly, turning over new grooves to lose ourselves in. **"** 
 
 ## Hermeto Pascoal - Música da Lagoa
 
- Curator: **"** lorem ipsum **"** 
+ Curator: **"** This one is from one of my favorite moments in Hermeto Pascoal's 1985 experimental film, Sinfonia do Alto Ribeira. In this session within one of the Alto Ribeira's rivers (we can hear the group blowing bubbles in the beginning), the musicians experiment with blowing bottles, filling them with varying levels of river water to create harmonies. Once the rhythm is established, Pascoal starts to solo over the bottles with his bamboo flute. He too is experimenting with the river, splashing and dunking his head under water. Rapidly restricting and freeing the flute's acoustic body this way, a natural glissando effect is created :) So much spontaneity and intricacy within these sessions, the natural world becomes both playmate and artistic collaborator. **"** 
 
 ## Laurie Bird - Jussa Trip
 
- Curator: **"** the textures on this synthwork :)) flying everywhere **"** 
+ Curator: **"** Another track for synthwork textures :) **"** 
 
-## POLYGONIA - Inhaler
+## Rrose, POLYGONIA - Inhaler
 
- Curator: **"** lorem ipsum **"** 
+ Curator: **"** One more mesmerizing track from Polygonia to finish off our selection, arriving from her latest album, Dermatology. The momentum in this heart beat bass offers its own kind of gravity, anchoring us amidst Polygonia's signature layered textures and subtle shifting -- we are both tethered and transformed. **"** 
 
- Thank you...
+Thank you for joining this session, that's all for this week :) A very special thank you to Noémie Dijon for this episode's beautiful illustration and to our dear guest Polygonia for this stunning selection.
