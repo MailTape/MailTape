@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 pubDate: 2024-12-15
 category: "570"
 guest_name: Camille Thouvenot
