@@ -10,25 +10,25 @@ illustrator: Jan Henrik
 writer: Anto
 track1_title: Bob Marley - Concrete Jungle
 track1_color: vibrant
-track1_link: https://s3.wasabisys.com/mtsounds/570/track1.mp3?AWSAccessKeyId=ZABTABG0WE2SUH2K26LE&Expires=1734234580&Signature=pPleEDbrrLTzfxn1c3i3PKRrvAw%3D
+track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/570/track1.mp3
 track2_title: Keith Jarrett - Whisper Not
 track2_color: bliss
-track2_link: https://s3.wasabisys.com/mtsounds/570/track2.mp3?AWSAccessKeyId=ZABTABG0WE2SUH2K26LE&Expires=1734234639&Signature=bA99f72yb11I0buxkPs2g5JxOjw%3D
+track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/570/track2.mp3
 track3_title: Oscar Peterson - I Remember Clifford
 track3_color: vibrant
-track3_link: https://s3.wasabisys.com/mtsounds/570/track3.mp3?AWSAccessKeyId=ZABTABG0WE2SUH2K26LE&Expires=1734234840&Signature=VuPGbESr%2BTcLRewpsDrGhl%2BhKEg%3D
+track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/570/track3.mp3
 track4_title: Camille Thouvenot Mettà Trio – Donkey-Run
 track4_color: vibrant
-track4_link: https://s3.wasabisys.com/mtsounds/570/track4.mp3?AWSAccessKeyId=ZABTABG0WE2SUH2K26LE&Expires=1734234877&Signature=IRa2iPOngBgEEyXyBR1m2QvFSNM%3D
+track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/570/track4.mp3
 track5_title: Nala Sinephro – Continuum 2
 track5_color: dreamy
-track5_link: https://s3.wasabisys.com/mtsounds/570/track5.mp3?AWSAccessKeyId=ZABTABG0WE2SUH2K26LE&Expires=1734234884&Signature=nQmzQSwC8K%2FWAVOzTUAxWybIfNE%3D
+track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/570/track5.mp3
 track6_title: Ménélik – Un petit rien de jazz (prod. Jimmy Jay)
 track6_color: vibrant
-track6_link: https://s3.wasabisys.com/mtsounds/570/track6.mp3?AWSAccessKeyId=ZABTABG0WE2SUH2K26LE&Expires=1734234890&Signature=gnc6yZXMnjtinO5qGxjwFM3Z6eA%3D
+track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/570/track6.mp3
 track7_title: "Rouge (Madeleine Cazenave) - Louves "
 track7_color: bliss
-track7_link: https://s3.wasabisys.com/mtsounds/570/track7.mp3?AWSAccessKeyId=ZABTABG0WE2SUH2K26LE&Expires=1734234898&Signature=k4tWXB2xXbeUvAuHhmUyXzZwWvE%3D
+track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/570/track7.mp3
 description: This morning, Mail Tape invites you to revisit some classics and to
   continue the discovery of artistic works from other times or that just come
   out of the studios. So, whether they are new or old, today's tracks all have
