@@ -10,7 +10,7 @@ illustrator: Jan Henrik
 writer: Anto
 track1_title: Bob Marley - Concrete Jungle
 track1_color: vibrant
-track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/570/track1.mp3
+track1_link: https://s3.wasabisys.com/mtsounds/570/track1.mp3?AWSAccessKeyId=ZABTABG0WE2SUH2K26LE&Expires=1734234580&Signature=pPleEDbrrLTzfxn1c3i3PKRrvAw%3D
 track2_title: Keith Jarrett - Whisper Not
 track2_color: bliss
 track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/570/track2.mp3
