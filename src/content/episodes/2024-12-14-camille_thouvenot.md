@@ -41,7 +41,6 @@ episode_URL: https://mailta.pe/570/Camille-Thouvenot/
 image: https://mailta.pe/img/fbPic570.jpg
 musiColor: musicolor570.png
 ---
-
 This morning, Mail Tape invites you to revisit some classics and to
 continue the discovery of artistic works from other times or that
 just come out of the studios. So, whether they are new or old,
@@ -57,7 +56,6 @@ this is the opportunity for him to tell us more about the influences
 that nourished his creation; essential songs in the form of
 masterpieces that are the foundation of our common musical culture,
 that inspire entire generations, past, present and future.  
-
 
 # Guest's selection
 
@@ -116,7 +114,7 @@ Benny Golson has
 just left us at the age of 94, after an incredible career. He marked
 the history of Jazz, Peace to his soul. **"** 
 
-## Oscar Peterson - I Remember Clifford
+## [Oscar Peterson](https://oscarpeterson.bandcamp.com/) - I Remember Clifford
 
  Camille Thouvenot: **"** (By Benny Golson (again) performed this time by the trio of piano
 giant Oscar Peterson)
@@ -209,7 +207,6 @@ Madeleine Cazenave, pianist and composer who with her trio “Rouge”
 released at the beginning of the year a contemplative album made of
 colorful landscapes drawn in music as a painter would do on a canvas **"** 
 
- 
 And that's it for this Sunday.\
 Thanks to Camille
 Thouvenot for this beautiful walk and for the precise description of
