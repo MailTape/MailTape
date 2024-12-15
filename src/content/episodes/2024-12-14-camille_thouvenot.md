@@ -38,6 +38,8 @@ description: This morning, Mail Tape invites you to revisit some classics and to
   particularly discussed in this episode because it's the fruit of our passion,
   it's what we take pleasure in sharing with you, every Sunday!
 episode_URL: https://mailta.pe/570/Camille-Thouvenot/
+image: https://mailta.pe/img/fbPic570.jpg
+musiColor: musicolor570.png
 ---
 
 This morning, Mail Tape invites you to revisit some classics and to
