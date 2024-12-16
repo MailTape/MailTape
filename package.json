@@ -23,6 +23,7 @@
     "underscore": "^1.13.6"
   },
   "devDependencies": {
+    "@tailwindcss/typography": "^0.5.15",
     "@types/bun": "^1.1.3"
   }
 }

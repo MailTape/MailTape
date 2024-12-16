@@ -1,0 +1,107 @@
+---
+import { getCollection } from 'astro:content';
+import type { CollectionEntry } from 'astro:content';
+
+import { Picture } from 'astro:assets';
+import MTRewindLogo from '../img/MTRewindLogo.png';
+
+import { getImage } from 'astro:assets';
+import MTRewindPattern from '../img/MTRewindPattern.png';
+const pattern = await getImage({src: MTRewindPattern, format:'webp'});
+
+import stringifyPubDate from "../utils/stringifyPubDate.js";
+import slugEp from '../utils/slugEp';
+
+import sortByEpisodeNumber from "../utils/sortByEpisodeNumber.js";
+
+import '../css/style.css';
+
+import Head from '../components/Head.astro';
+
+const allPosts = await getCollection('episodes');
+
+const posts = allPosts
+      .filter((post: CollectionEntry<'episodes'>) => (post.data.pubDate.getFullYear())==2024)
+      .sort(sortByEpisodeNumber);
+
+---
+
+<Head title="MailTape Rewind 2024", description="Discover the best of 2024 and support us for 2025."/>
+
+<article class="container mt-10">
+    <header class="my-4">
+        <Picture src={MTRewindLogo} width={MTRewindLogo.width/4} densities={[1.5,2]} alt="MailTape Rewind 2024 - Logo" class="mx-auto my-4"/>
+        <p class="font-body prose prose-xl mx-auto leading-normal text-center">
+            Chères amies, chers amis,
+            <br><br>
+            L’année touche à sa fin, l’occasion pour nous de revenir sur les artistes et les projets qui auront fait 2024 à Mailtape, et au nom de toute l’équipe vous remercier d’être toujours plus nombreux à nos rendez-vous en ligne et en live.
+            <br><br>
+            Nous sommes heureux et fiers de pouvoir partager chaque semaine avec vous notre passion de la musique, de lire vos messages de soutien et pour la première fois depuis de longues années de pouvoir danser à vos côtés lors de la soirée MailTape Live#4 au Sample en mars dernier.
+            <br><br>
+            Depuis plus de 13 année d’existence et près de 570 épisodes publiés, Mailtape poursuit plus que jamais sa mission de promouvoir l’émergence musicale et de soutenir les projets artistiques de musiciens du monde entier. Cette dynamique continuera en 2025 avec de nouvelles soirées Mailtape Live.Mailtape est un collectif artistique structuré en association qui rassemble une vingtaine de bénévoles issus de 7 pays différents parmi eux des curateur·ices, des rédacteur·ices, des illustrateur·ices, des développeurs, des organisateur·ices.  
+            <br><br>
+            Nous mettons l’humain au centre de tout ce que nous créons, par conséquent nous attachons une importance primordiale à vous offrir une expérience respectueuse et éthique, garantie sans pisteurs, sans algorithme et sans IA.Le fonctionnement de l’association ne repose que sur les cotisations des adhérents ainsi que sur votre générosité. 
+            <br><br>
+            Vos dons servent à assurer les coûts techniques de Mailta.pe et permettent d’organiser des lives, de louer du matériel et de rémunérer les artistes invités, pour continuer de faire vivre ce beau projet ensemble, année après année, dimanche après dimanche et plus encore.  
+        </p>
+        <p class="text-2xl text-center leading-tight mx-auto mt-8 font-brush">
+            Bonne fêtes à toutes et à tous,<br>
+            MailTape Crew
+        </p>
+    </header>
+    <p class="font-superspitze uppercase text-center mt-16 text-3xl text-bliss">
+        Soutenez-nous pour 2025 et<br>(re)découvez le meilleur de 2024
+    </p>
+    <a href="https://www.helloasso.com/associations/mailtape/formulaires/2" class="mx-auto block w-fit mt-6 px-4 text-center font-superspitze rounded-md bg-bliss text-white border-8 border-bliss shadow-md hover:translate-y-0.5 hover:shadow-none transition-all">Je fais un don à l'association</a>
+</article>
+
+<div  style={`background-image: url(${pattern.src});`}  class="mt-16 w-full min-h-[40vh] bg-no-repeat bg-center bg-cover">
+
+</div>
+
+<section class="bg-vibrant py-16">
+    <h1 class="font-superspitze uppercase text-center text-3xl text-grey mb-10">Les épisodes de l'année</h1>
+    <div class="container flex flex-row flex-wrap justify-evenly gap-10 gap-y-14">
+        {
+            posts.map((episode:any)=>(
+                <div class="w-fit flex flex-col gap-1">
+                    <a href=`/${ slugEp(episode) }` 
+                    title=`Écouter l'épisode #${episode.data.category} avec ${episode.data.guest_name}`
+                    class="drop-shadow-lg w-fit relative bg-gray-200 min-w-56 min-h-56 mb-3 hover:translate-y-0.5 hover:drop-shadow-none transition-all">
+                        <div>
+                            <img 
+                            class="w-56 rounded"
+                            src=`//wsrv.nl/?url=ssl:www.mailta.pe/img/${episode.data.guestPic}&w=225&h=225&fit=cover&il&output=webp`
+                            />
+                            <img
+                            class="absolute -bottom-1 border-t-2 border-b-2 bg-white rounded-b"
+                            src=`//wsrv.nl/?url=ssl:www.mailta.pe/img/${episode.data.musiColor}&w=225&fit=contain&il&output=webp`
+                            />
+                            <h2 class="absolute text-center font-superspitze bottom-[10%] w-full text-3xl drop-shadow-lg text-white px-2 leading-[0.85]">{episode.data.guest_name}</h2>
+                        </div>
+                    </a>
+                    
+                    <p class="text-center text-sm text-grey font-superspitze">EPISODE #{ episode.data.category }
+                        <br>{ stringifyPubDate(episode.data.pubDate,"compact") }
+                    </p>
+                    <p class="text-center font-body font-light text-sm italic">
+                        {episode.data.author === episode.data.writer 
+                            ? `Curator & Writer: ${episode.data.author}` 
+                            : (
+                                <>
+                                    <span>Curator: {episode.data.author}</span><br />
+                                    <span>Writer: {episode.data.writer}</span>
+                                </>
+                            )
+                        }
+                        <br />
+                        <span>Illustrator: {episode.data.illustrator}</span>
+                    </p>
+                </div>
+            ))
+        }
+    </div>
+</section>
+
+</body>
+</html>
