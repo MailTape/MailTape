@@ -4,6 +4,7 @@ import type { CollectionEntry } from 'astro:content';
 
 import { Picture } from 'astro:assets';
 import MTRewindLogo from '../img/MTRewindLogo.png';
+import MTLogo from '../img/MTLogo.png';
 
 import { getImage } from 'astro:assets';
 import MTRewindPattern from '../img/MTRewindPattern.png';
@@ -52,7 +53,7 @@ const posts = allPosts
     <p class="font-superspitze uppercase text-center mt-16 text-3xl text-bliss">
         Soutenez-nous pour 2025 et<br>(re)découvez le meilleur de 2024
     </p>
-    <a href="https://www.helloasso.com/associations/mailtape/formulaires/2" class="mx-auto block w-fit mt-6 px-4 text-center font-superspitze rounded-md bg-bliss text-white border-8 border-bliss shadow-md hover:translate-y-0.5 hover:shadow-none transition-all">Je fais un don à l'association</a>
+    <a href="https://www.helloasso.com/associations/mailtape/formulaires/2" class="mx-auto block w-fit mt-6 px-4 text-center font-superspitze rounded-md bg-bliss text-white border-8 border-bliss shadow-md hover:-translate-y-0.5 hover:drop-shadow-lg active:translate-y-0.5 active:drop-shadow-none transition-all">Je fais un don à l'association</a>
 </article>
 
 <div  style={`background-image: url(${pattern.src});`}  class="mt-16 w-full min-h-[40vh] bg-no-repeat bg-center bg-cover">
@@ -61,21 +62,21 @@ const posts = allPosts
 
 <section class="bg-vibrant py-16">
     <h1 class="font-superspitze uppercase text-center text-3xl text-grey mb-10">Les épisodes de l'année</h1>
-    <div class="container flex flex-row flex-wrap justify-evenly gap-10 gap-y-14">
+    <div class="container flex flex-row flex-wrap justify-evenly gap-14 gap-y-14">
         {
             posts.map((episode:any)=>(
                 <div class="w-fit flex flex-col gap-1">
                     <a href=`/${ slugEp(episode) }` 
                     title=`Écouter l'épisode #${episode.data.category} avec ${episode.data.guest_name}`
-                    class="drop-shadow-lg w-fit relative bg-gray-200 min-w-56 min-h-56 mb-3 hover:translate-y-0.5 hover:drop-shadow-none transition-all">
+                    class="drop-shadow-lg relative bg-gray-200 w-56 min-h-56 mb-3 hover:-translate-y-0.5 hover:drop-shadow-xl active:translate-y-0.5 active:drop-shadow-none transition-all">
                         <div>
                             <img 
-                            class="w-56 rounded"
-                            src=`//wsrv.nl/?url=ssl:www.mailta.pe/img/${episode.data.guestPic}&w=225&h=225&fit=cover&il&output=webp`
+                            class="w-full rounded-t-md"
+                            src=`//wsrv.nl/?url=ssl:www.mailta.pe/img/${episode.data.guestPic}&w=230&h=230&fit=cover&il&output=webp`
                             />
                             <img
-                            class="absolute -bottom-1 border-t-2 border-b-2 bg-white rounded-b"
-                            src=`//wsrv.nl/?url=ssl:www.mailta.pe/img/${episode.data.musiColor}&w=225&fit=contain&il&output=webp`
+                            class="absolute w-full -bottom-1 border-t-2 border-b-2 bg-white rounded-b-md"
+                            src=`//wsrv.nl/?url=ssl:www.mailta.pe/img/${episode.data.musiColor}&w=230&fit=contain&il&output=webp`
                             />
                             <h2 class="absolute text-center font-superspitze bottom-[10%] w-full text-3xl drop-shadow-lg text-white px-2 leading-[0.85]">{episode.data.guest_name}</h2>
                         </div>
@@ -86,21 +87,155 @@ const posts = allPosts
                     </p>
                     <p class="text-center font-body font-light text-sm italic">
                         {episode.data.author === episode.data.writer 
-                            ? `Curator & Writer: ${episode.data.author}` 
+                            ? `Curation & texte : ${episode.data.author}` 
                             : (
                                 <>
-                                    <span>Curator: {episode.data.author}</span><br />
-                                    <span>Writer: {episode.data.writer}</span>
+                                    <span>Curation: {episode.data.author}</span><br />
+                                    <span>Texte: {episode.data.writer}</span>
                                 </>
                             )
                         }
                         <br />
-                        <span>Illustrator: {episode.data.illustrator}</span>
+                        <span>Illutration: {episode.data.illustrator}</span>
                     </p>
                 </div>
             ))
         }
     </div>
+</section>
+
+<section class="relative  bg-dreamy">
+    <div class="absolute bg-[url('//wsrv.nl/?url=ssl:www.mailta.pe/img/guestPic558.jpg&w=1200&il&output=webp')] bg-center bg-cover bg-no-repeat opacity-10 w-full h-full z-0"></div>
+    <div class="relative py-16 px-40 flex flew-row gap-10 justify-evenly items-center z-10">
+
+        {
+            posts.map((episode:any)=>(
+                episode.data.category === "558" ? (
+                    <div class="w-fit flex flex-col gap-1">
+                        <a href=`/${ slugEp(episode) }` 
+                        title=`Écouter l'épisode #${episode.data.category} avec ${episode.data.guest_name}`
+                        class="drop-shadow-lg w-96 rounded-md relative bg-gray-200 min-h-96 mb-3 hover:-translate-y-0.5 hover:drop-shadow-xl active:translate-y-0.5 active:drop-shadow-none transition-all">
+                            <div>
+                                <img 
+                                class="w-full rounded-t-md"
+                                src=`//wsrv.nl/?url=ssl:www.mailta.pe/img/${episode.data.guestPic}&w=380&h=380&fit=cover&il&output=webp`
+                                />
+                                <img
+                                class="w-full absolute -bottom-1 border-t-2 border-b-2 bg-white rounded-b-md"
+                                src=`//wsrv.nl/?url=ssl:www.mailta.pe/img/${episode.data.musiColor}&w=380&fit=contain&il&output=webp`
+                                />
+                                <h2 class="absolute text-center font-superspitze bottom-[10%] w-full text-5xl drop-shadow-lg text-white px-2 leading-[0.85]">{episode.data.guest_name}</h2>
+                            </div>
+                        </a>
+                    </div>
+                ) : null
+            ))
+        }
+
+
+        <div class="text-center text-white h-fit basis-1/2">
+            <h2 class="font-superspitze text-4xl">
+                ÉPISODE LE PLUS ÉCOUTÉ
+            </h2>
+            <p class="font-body text-xl">
+                Avec cet épisode, nous embarquions pour un voyage ambiant dans des contrées éthérées où la musique nous entrainait dans un voyage intérieur.
+            </p>
+        </div>
+    </div>
+</section>
+
+<div class="flex flex-row">
+    <section class="relative  bg-trippy basis-1/2">
+        <div class="absolute bg-[url('//wsrv.nl/?url=ssl:www.mailta.pe/img/guestPic552.jpg&w=1200&il&output=webp')] bg-center bg-cover bg-no-repeat opacity-10 w-full h-full z-0"></div>
+        <div class="relative py-16 px-40 flex flex-col gap-10 justify-evenly items-center z-10">
+
+            {
+                posts.map((episode:any)=>(
+                    episode.data.category === "552" ? (
+                        <div class="w-fit flex flex-col gap-1">
+                            <a href=`/${ slugEp(episode) }` 
+                            title=`Écouter l'épisode #${episode.data.category} avec ${episode.data.guest_name}`
+                            class="drop-shadow-lg w-72 rounded-md relative bg-gray-200 min-h-72 mb-3 hover:-translate-y-0.5 hover:drop-shadow-xl active:translate-y-0.5 active:drop-shadow-none transition-all">
+                                <div>
+                                    <img 
+                                    class="w-full rounded-t-md"
+                                    src=`//wsrv.nl/?url=ssl:www.mailta.pe/img/${episode.data.guestPic}&w=380&h=380&fit=cover&il&output=webp`
+                                    />
+                                    <img
+                                    class="w-full absolute -bottom-1 border-t-2 border-b-2 bg-white rounded-b-md"
+                                    src=`//wsrv.nl/?url=ssl:www.mailta.pe/img/${episode.data.musiColor}&w=380&fit=contain&il&output=webp`
+                                    />
+                                    <h2 class="absolute text-center font-superspitze bottom-[10%] w-full text-5xl drop-shadow-lg text-white px-2 leading-[0.85]">{episode.data.guest_name}</h2>
+                                </div>
+                            </a>
+                        </div>
+                    ) : null
+                ))
+            }
+
+
+            <div class="text-center text-white h-fit ">
+                <h2 class="font-superspitze text-3xl">
+                    N°2
+                </h2>
+                <p class="font-body text-lg">
+                    Un épisode tout en douceur qui invitait à se détendre du tumulte de la vie quotidienne et à nourrir son imagination de poésie et de paysages apaisants.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <section class="relative  bg-bliss basis-1/2">
+        <div class="absolute bg-[url('//wsrv.nl/?url=ssl:www.mailta.pe/img/guestPic545.jpg&w=1200&il&output=webp')] bg-center bg-cover bg-no-repeat opacity-10 w-full h-full z-0"></div>
+        <div class="relative py-16 px-40 flex flex-col gap-10 justify-evenly items-center z-10">
+
+            {
+                posts.map((episode:any)=>(
+                    episode.data.category === "545" ? (
+                        <div class="w-fit flex flex-col gap-1">
+                            <a href=`/${ slugEp(episode) }` 
+                            title=`Écouter l'épisode #${episode.data.category} avec ${episode.data.guest_name}`
+                            class="drop-shadow-lg w-72 rounded-md relative bg-gray-200 min-h-72 mb-3 hover:-translate-y-0.5 hover:drop-shadow-xl active:translate-y-0.5 active:drop-shadow-none transition-all">
+                                <div>
+                                    <img 
+                                    class="w-full rounded-t-md"
+                                    src=`//wsrv.nl/?url=ssl:www.mailta.pe/img/${episode.data.guestPic}&w=380&h=380&fit=cover&il&output=webp`
+                                    />
+                                    <img
+                                    class="w-full absolute -bottom-1 border-t-2 border-b-2 bg-white rounded-b-md"
+                                    src=`//wsrv.nl/?url=ssl:www.mailta.pe/img/${episode.data.musiColor}&w=380&fit=contain&il&output=webp`
+                                    />
+                                    <h2 class="absolute text-center font-superspitze bottom-[10%] w-full text-5xl drop-shadow-lg text-white px-2 leading-[0.85]">{episode.data.guest_name}</h2>
+                                </div>
+                            </a>
+                        </div>
+                    ) : null
+                ))
+            }
+
+
+            <div class="text-center text-white h-fit">
+                <h2 class="font-superspitze text-3xl">
+                    N°3
+                </h2>
+                <p class="font-body text-lg">
+                    Un épisode qui traversait les vastes paysages de l'expression musicale, une sélection qui inspirait le courage d'embrasser la beauté de l'inconnu.                </p>
+            </div>
+        </div>
+    </section>
+</div>
+
+<section class="container my-16">
+    <h1 class="font-superspitze text-4xl text-center">2024<br>MAILTAPE CREW</h1>
+</section>
+
+<section class="py-16 bg-vibrant">
+    <h1 class="font-superspitze text-4xl text-center">I ❤️ MAILTAPE</h1>
+    
+    <iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/mailtape/formulaires/2/widget" style="width: 100%; height: 1000px; border: none;"></iframe>
+
+    <a href="/" class="mt-16 block w-fit mx-auto"><Picture src={MTLogo} width={MTLogo.width/10} densities={[1.5,2]} alt="MailTape Logo" class="mx-auto my-4"/></a>
+
 </section>
 
 </body>
