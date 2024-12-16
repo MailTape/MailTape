@@ -1,5 +1,5 @@
 ---
-import { type CollectionEntry, getCollection } from 'astro:content';
+import { type CollectionEntry, getCollection, render } from 'astro:content';
 import Episode from '../layouts/Episode.astro';
 import sortByDate from "../utils/sortByDate.js";
 import slugEp from "../utils/slugEp.js";
@@ -30,7 +30,7 @@ export async function getStaticPaths() {
 interface Props {episode: any, prevEpisode?: any, nextEpisode?: any, similarEpisodes: any}
 
 const { episode, prevEpisode, nextEpisode, similarEpisodes } = Astro.props;
-const { Content } = await episode.render();
+const { Content } = await render(episode);
 
 ---
 <Episode { ...episode.data } prevEpisode={ prevEpisode ? `/${slugEp(prevEpisode)}` : null } nextEpisode={ nextEpisode ? `/${slugEp(nextEpisode)}` : null } similarEpisodes = { similarEpisodes }>
