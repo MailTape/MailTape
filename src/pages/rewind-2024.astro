@@ -25,6 +25,8 @@ const posts = allPosts
       .filter((post: CollectionEntry<'episodes'>) => (post.data.pubDate.getFullYear())==2024)
       .sort(sortByEpisodeNumber);
 
+const members = await getCollection('crew');
+
 ---
 
 <Head title="MailTape Rewind 2024", description="Discover the best of 2024 and support us for 2025."/>
@@ -226,7 +228,20 @@ const posts = allPosts
 </div>
 
 <section class="container my-16">
-    <h1 class="font-superspitze text-4xl text-center">2024<br>MAILTAPE CREW</h1>
+    <h1 class="font-superspitze text-4xl text-center mb-8">2024<br>MAILTAPE CREW</h1>
+    <div class="flex flex-row justify-evenly flex-wrap gap-12">
+        {members.map(member => (
+        <div class="flex flex-col flex-wrap items-center gap-1">
+                <img
+                src=`/img/crew/${member.data.profilePic}`
+                class="w-24 h-24 rounded-full drop-shadow bg-gray-200"
+                
+                />
+                <p class="mt-2 font-superspitze uppercase text-grey">{member.data.name}</p>
+                <a href=`${member.data.link}` class="font-body text-lighterGrey hover:underline">{member.data.link}</a>
+        </div>
+        ))}
+    </div>
 </section>
 
 <section class="py-16 bg-vibrant">

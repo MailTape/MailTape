@@ -1,8 +1,8 @@
 import { defineCollection, z } from 'astro:content';
-import { glob } from 'astro/loaders';
+import { glob, file } from 'astro/loaders';
 
 const episodes = defineCollection({
-	loader: glob({ pattern: '**/[^_]*.md', base: "./src/content/episodes" }),
+	loader: glob({ pattern: '**/[^_]*.md', base: "src/content/episodes" }),
 	// Type-check frontmatter using a schema
 	schema: z.object({
 		published: z.boolean(),
@@ -43,4 +43,15 @@ const episodes = defineCollection({
 	}),
 });
 
-export const collections = { episodes };
+const crew = defineCollection({
+	loader: file("src/data/crew.json"),
+	schema: z.object({
+		id: z.string(),
+		name: z.string(),
+		role: z.string(),
+		profilePic: z.string(),
+		link: z.string().url().optional(),
+	}),
+});
+
+export const collections = { episodes, crew };
