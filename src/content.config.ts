@@ -48,7 +48,8 @@ const crew = defineCollection({
 	schema: z.object({
 		id: z.string(),
 		name: z.string(),
-		role: z.string(),
+		roleEN: z.string(),
+		roleFR: z.string(),
 		profilePic: z.string(),
 		link: z.string().url().optional(),
 	}),

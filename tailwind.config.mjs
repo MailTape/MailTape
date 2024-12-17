@@ -8,6 +8,7 @@ export default {
 		extend: {
 			fontFamily: {
 				'superspitze':['Superspitze Grotesk','Helvetica Neue','Helvetica,Arial'],
+				'heading':['Bebas Neue','Helvetica Neue','Helvetica,Arial'],
 				'body':['Roboto','Helvetica Neue','Helvetica,Arial'],
 				'brush':['Caveat','Helvetica Neue','Helvetica,Arial'],
 			},

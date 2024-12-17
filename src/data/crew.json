@@ -2,95 +2,116 @@
     {
         "id": "1",
         "name": "Thibault Daumain",
-        "role": "Illustrator",
+        "roleEN": "Illustrator",
+        "roleFR": "Illustration",
         "profilePic": "thibaultdaumain.png",
         "link": "https://thibaultdaumain.fr"
     },
     {
         "id": "2",
         "name": "ImaCrea",
-        "role": "Curator",
+        "roleEN": "Curator",
+        "roleFR": "Curation",
         "profilePic": "imacrea.png"
     },
     {
         "id": "3",
         "name": "Camille Céléstin",
-        "role": "Illustrator",
+        "roleEN": "Illustrator",
+        "roleFR": "Illustration",
         "profilePic": "camillecelestin.png",
         "link": "https://bravocamo.fr"
     },
     {
         "id": "4",
         "name": "Marie Alléguède",
-        "role": "Illustrator",
+        "roleEN": "Illustrator",
+        "roleFR": "Illustration",
         "profilePic": "mariealleguede.png",
         "link": "https://mariealleguede.com"
     },
     {
         "id": "5",
         "name": "Camille Lemeunier",
-        "role": "Illustrator",
+        "roleEN": "Illustrator",
+        "roleFR": "Illustration",
         "profilePic": "camillelemeunier.png",
         "link": "https://camillelemeunier.fr"
     },
     {
         "id": "6",
         "name": "Noémie Dijon",
-        "role": "Illutrator",
+        "roleEN": "Illustrator",
+        "roleFR": "Illustration",
         "profilePic": "noemiedijon.png",
         "link": "https://noemirabelle.tumblr.com"
     },
     {
         "id": "7",
         "name": "Anthony Dujardin",
-        "role": "Illutrator",
+        "roleEN": "Illustrator",
+        "roleFR": "Illustration",
         "profilePic": "anthonydujardin.png",
         "link": "https://anthonydujardin.fr"
     },
     {
         "id": "8",
         "name": "Meriam Kharbat",
-        "role": "Illustrator",
+        "roleEN": "Illustrator",
+        "roleFR": "Illustration",
         "profilePic": "meriamkharbat.png",
         "link": "https://meriamkharbat.com"
     },
     {
         "id": "9",
         "name": "Patricia de Miranda",
-        "role": "Illustrator",
+        "roleEN": "Illustrator",
+        "roleFR": "Illustration",
         "profilePic": "patriciademiranda.png",
         "link": "https://behance.net/santamistura"
     },
     {
         "id": "10",
         "name": "Lucie Flety",
-        "role": "Illustrator",
+        "roleEN": "Illustrator",
+        "roleFR": "Illustration",
         "profilePic": "lucieflety.png",
         "link": "https://lucieflety.fr"
     },
     {
         "id": "11",
         "name": "Babi Brunelio",
-        "role": "Illustrator",
+        "roleEN": "Illustrator",
+        "roleFR": "Illustration",
         "profilePic": "babibrunelio.png",
         "link": "https://babibrunelio.com"
     },
     {
         "id": "12",
         "name": "Jules",
-        "role": "Curator",
+        "roleEN": "Curator",
+        "roleFR": "Curation",
         "profilePic": "jules.png"
     },
     {
         "id": "13",
         "name": "Antho",
-        "role": "Curator",
+        "roleEN": "Curator",
+        "roleFR": "Curation",
         "profilePic": "antho.png"
     },
     {
         "id": "14",
         "name": "Sarah",
-        "role": "Illutrator",
+        "roleEN": "Curator",
+        "roleFR": "Curation",
         "profilePic": "sarah.png"
+    },
+    {
+        "id": "15",
+        "name": "Rebecca",
+        "roleEN": "Administrator",
+        "roleFR": "Administration",
+        "profilePic": "rebecca.jpg"
     }
 ]

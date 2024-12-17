@@ -52,25 +52,40 @@ const members = await getCollection('crew');
             MailTape Crew
         </p>
     </header>
-    <p class="font-superspitze uppercase text-center mt-16 text-3xl text-bliss">
+    <p class="font-heading uppercase text-center mt-16 text-4xl text-bliss">
         Soutenez-nous pour 2025 et<br>(re)découvez le meilleur de 2024
     </p>
-    <a href="https://www.helloasso.com/associations/mailtape/formulaires/2" class="mx-auto block w-fit mt-6 px-4 text-center font-superspitze rounded-md bg-bliss text-white border-8 border-bliss shadow-md hover:-translate-y-0.5 hover:drop-shadow-lg active:translate-y-0.5 active:drop-shadow-none transition-all">Je fais un don à l'association</a>
+    <a href="https://www.helloasso.com/associations/mailtape/formulaires/2" class="mx-auto block w-fit mt-6 px-4 text-center text-2xl font-heading rounded-md bg-bliss text-white border-8 border-bliss shadow-md hover:-translate-y-0.5 hover:drop-shadow-lg active:translate-y-0.5 active:drop-shadow-none transition-all">Je fais un don à l'association</a>
 </article>
 
-<div  style={`background-image: url(${pattern.src});`}  class="mt-16 w-full min-h-[40vh] bg-no-repeat bg-center bg-cover">
+<div  style={`background-image: url(${pattern.src});`}  class="mt-16 pt-16 w-full min-h-[50vh] bg-no-repeat bg-center bg-cover flex flex-row justify-evenly flex-wrap">
+    <div class="bg-dreamy ring-8 ring-black p-4 rounded-lg w-[20vh] h-[20vh] min-w-40 min-h-40 flex flex-col items-center justify-center">
+        <h2 class="font-heading text-5xl">25 940</h2>
+        <p class="font-heading text-xl leading-tight text-center">VISITORS</p>
+    </div>
 
+    <div class="bg-dreamy ring-8 ring-black p-4 rounded-lg w-[20vh] h-[20vh] min-w-40 min-h-40 flex flex-col items-center justify-center">
+        <h2 class="font-heading text-5xl">103 760</h2>
+        <p class="font-heading text-xl leading-tight text-center">MINUTES OF MUSIC LISTENED</p>
+    </div>
+
+    <div class="bg-dreamy ring-8 ring-black p-4 rounded-lg w-[20vh] h-[20vh] min-w-40 min-h-40 flex flex-col items-center justify-center">
+        <h2 class="font-heading text-5xl">116</h2>
+        <p class="font-heading text-xl leading-tight text-center">COUNTRIES</p>
+    </div>
+    <div class="w-full h-0"></div>
+    <p class="text-center text-sm text-white font-body mx-10 px-10 py-4 backdrop-brightness-75 backdrop-blur-sm rounded-sm h-fit w-fit">✌️ Stats anonymes collectées uniquement pour avoir une idée de notre diffusion et collectées grâce à Matomo, un outil de suivi libre et hébergé par nos soins. ✌️</p>
 </div>
 
 <section class="bg-vibrant py-16">
-    <h1 class="font-superspitze uppercase text-center text-3xl text-grey mb-10">Les épisodes de l'année</h1>
+    <h1 class="font-heading uppercase text-center text-5xl text-grey mb-10">Les épisodes de l'année</h1>
     <div class="container flex flex-row flex-wrap justify-evenly gap-14 gap-y-14">
         {
             posts.map((episode:any)=>(
                 <div class="w-fit flex flex-col gap-1">
                     <a href=`/${ slugEp(episode) }` 
                     title=`Écouter l'épisode #${episode.data.category} avec ${episode.data.guest_name}`
-                    class="drop-shadow-lg relative bg-gray-200 w-56 min-h-56 mb-3 hover:-translate-y-0.5 hover:drop-shadow-xl active:translate-y-0.5 active:drop-shadow-none transition-all">
+                    class="drop-shadow-lg relative rounded-md bg-gray-200 w-56 min-h-56 mb-3 hover:-translate-y-0.5 hover:drop-shadow-xl active:translate-y-0.5 active:drop-shadow-none transition-all">
                         <div>
                             <img 
                             class="w-full rounded-t-md"
@@ -84,7 +99,7 @@ const members = await getCollection('crew');
                         </div>
                     </a>
                     
-                    <p class="text-center text-sm text-grey font-superspitze">EPISODE #{ episode.data.category }
+                    <p class="text-center text-xl text-grey font-heading">EPISODE #{ episode.data.category }
                         <br>{ stringifyPubDate(episode.data.pubDate,"compact") }
                     </p>
                     <p class="text-center font-body font-light text-sm italic">
@@ -136,7 +151,7 @@ const members = await getCollection('crew');
 
 
         <div class="text-center text-white h-fit basis-1/2">
-            <h2 class="font-superspitze text-4xl">
+            <h2 class="font-heading text-5xl">
                 ÉPISODE LE PLUS ÉCOUTÉ
             </h2>
             <p class="font-body text-xl">
@@ -155,7 +170,7 @@ const members = await getCollection('crew');
                 posts.map((episode:any)=>(
                     episode.data.category === "552" ? (
                         <div class="w-fit flex flex-col gap-1">
-                            <a href=`/${ slugEp(episode) }` 
+                            <a href=`/${ slugEp(episode) }`
                             title=`Écouter l'épisode #${episode.data.category} avec ${episode.data.guest_name}`
                             class="drop-shadow-lg w-72 rounded-md relative bg-gray-200 min-h-72 mb-3 hover:-translate-y-0.5 hover:drop-shadow-xl active:translate-y-0.5 active:drop-shadow-none transition-all">
                                 <div>
@@ -177,7 +192,7 @@ const members = await getCollection('crew');
 
 
             <div class="text-center text-white h-fit ">
-                <h2 class="font-superspitze text-3xl">
+                <h2 class="font-heading text-3xl">
                     N°2
                 </h2>
                 <p class="font-body text-lg">
@@ -217,7 +232,7 @@ const members = await getCollection('crew');
 
 
             <div class="text-center text-white h-fit">
-                <h2 class="font-superspitze text-3xl">
+                <h2 class="font-heading text-3xl">
                     N°3
                 </h2>
                 <p class="font-body text-lg">
@@ -228,24 +243,31 @@ const members = await getCollection('crew');
 </div>
 
 <section class="container my-16">
-    <h1 class="font-superspitze text-4xl text-center mb-8">2024<br>MAILTAPE CREW</h1>
+    <h1 class="font-heading text-5xl text-center mb-8">2024<br>MAILTAPE CREW</h1>
     <div class="flex flex-row justify-evenly flex-wrap gap-12">
         {members.map(member => (
         <div class="flex flex-col flex-wrap items-center gap-1">
                 <img
                 src=`/img/crew/${member.data.profilePic}`
-                class="w-24 h-24 rounded-full drop-shadow bg-gray-200"
+                class="w-24 h-24 rounded-full drop-shadow bg-gray-200 object-cover"
                 
                 />
-                <p class="mt-2 font-superspitze uppercase text-grey">{member.data.name}</p>
-                <a href=`${member.data.link}` class="font-body text-lighterGrey hover:underline">{member.data.link}</a>
+                <div class="flex flex-row gap-1 min-w-36 place-items-center justify-center">
+                    <p class="mt-2 font-heading text-xl uppercase text-center text-grey">{member.data.name}</p>
+                    {member.data.link ? 
+                    <a href=`${member.data.link}` target="_blank" title=`En savoir plus à propos de ${member.data.name}`>
+                    <svg class="max-h-5 -mb-1 opacity-40 hover:opacity-100 transition-opacity" xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 24 24" width="24px" height="24px"><path d="M 19.980469 2.9902344 A 1.0001 1.0001 0 0 0 19.869141 3 L 15 3 A 1.0001 1.0001 0 1 0 15 5 L 17.585938 5 L 8.2929688 14.292969 A 1.0001 1.0001 0 1 0 9.7070312 15.707031 L 19 6.4140625 L 19 9 A 1.0001 1.0001 0 1 0 21 9 L 21 4.1269531 A 1.0001 1.0001 0 0 0 19.980469 2.9902344 z M 5 3 C 3.9069372 3 3 3.9069372 3 5 L 3 19 C 3 20.093063 3.9069372 21 5 21 L 19 21 C 20.093063 21 21 20.093063 21 19 L 21 13 A 1.0001 1.0001 0 1 0 19 13 L 19 19 L 5 19 L 5 5 L 11 5 A 1.0001 1.0001 0 1 0 11 3 L 5 3 z"/></svg>
+                    </a>
+                    : null }
+                </div>
+                <p class="font-body text-center text-lighterGrey">{member.data.roleFR}</p>
         </div>
         ))}
     </div>
 </section>
 
 <section class="py-16 bg-vibrant">
-    <h1 class="font-superspitze text-4xl text-center">I ❤️ MAILTAPE</h1>
+    <h1 class="font-heading text-5xl text-center">I ❤️ MAILTAPE</h1>
     
     <iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/mailtape/formulaires/2/widget" style="width: 100%; height: 1000px; border: none;"></iframe>
 

@@ -1,6 +1,7 @@
 @import url('/assets/fontsTW/SuperspitzeGrotesk/stylesheet.css');
 @import url('/assets/fontsTW/Roboto/stylesheet.css');
 @import url('/assets/fontsTW/Caveat/stylesheet.css');
+@import url('/assets/fontsTW/BebasNeue/stylesheet.css');
 
 @tailwind base;
 @tailwind components;
