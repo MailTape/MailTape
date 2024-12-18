@@ -8,7 +8,7 @@ import MTLogo from '../img/MTLogo.png';
 
 import { getImage } from 'astro:assets';
 import MTRewindPattern from '../img/MTRewindPattern.png';
-const pattern = await getImage({src: MTRewindPattern, format:'webp'});
+const pattern = await getImage({src: MTRewindPattern, format:'webp', quality:'high'});
 
 import stringifyPubDate from "../utils/stringifyPubDate.js";
 import slugEp from '../utils/slugEp';
@@ -55,10 +55,10 @@ const members = await getCollection('crew');
     <p class="font-heading uppercase text-center mt-20 text-3xl md:text-4xl text-bliss">
         Soutenez-nous pour 2025 et<br>(re)découvez le meilleur de 2024
     </p>
-    <a href="https://www.helloasso.com/associations/mailtape/formulaires/2" class="mx-auto block w-fit mt-6 px-4 text-center text-2xl font-heading rounded-md bg-bliss text-white border-8 border-bliss shadow-md hover:-translate-y-0.5 hover:drop-shadow-lg active:translate-y-0.5 active:drop-shadow-none transition-all">Je fais un don à l'association</a>
+    <a href="https://donate.stripe.com/3cs6oW3FI7gVcjS4gh" class="mx-auto block w-fit mt-6 px-4 text-center text-2xl font-heading rounded-md bg-bliss text-white border-8 border-bliss shadow-md hover:-translate-y-0.5 hover:drop-shadow-lg active:translate-y-0.5 active:drop-shadow-none transition-all">Je fais un don à l'association</a>
 </article>
 
-<div  style={`background-image: url(${pattern.src});`}  class="mt-16 pt-16 px-4 w-full min-h-[50vh] bg-no-repeat bg-center bg-cover flex gap-5 flex-row justify-evenly flex-wrap">
+<div  style={`background-image: url(${pattern.src});`}  class="mt-16 pt-16 px-4 w-full min-h-[50vh] bg-no-repeat bg-center bg-cover flex gap-5 flex-row justify-evenly flex-wrap bg-fixed">
     <div class="bg-dreamy ring-8 ring-black p-4 rounded-lg w-[20vh] h-[20vh] min-w-32 md:min-w-40 min-h-32 md:min-h-40 flex flex-col items-center justify-center">
         <h2 class="font-heading text-4xl md:text-5xl">25 940</h2>
         <p class="font-heading text-lg md:text-xl leading-tight text-center">SESSIONS D'ÉCOUTE</p>
@@ -74,7 +74,7 @@ const members = await getCollection('crew');
         <p class="font-heading text-lg md:text-xl leading-tight text-center">PAYS</p>
     </div>
     <div class="w-full h-0 mt-5 md:mt-0"></div>
-    <p class="text-center text-sm text-white font-body md:mx-10 px-4 md:px-10 py-4 mb-4 backdrop-brightness-75 backdrop-blur-sm rounded-sm h-fit w-fit">✌️ Stats anonymes uniquement pour avoir une idée de notre diffusion. Collectées avec Matomo, un outil libre et hébergé par nos soins. ✌️</p>
+    <p class="text-center text-sm text-white font-body md:mx-10 px-4 md:px-10 py-4 mb-4 backdrop-brightness-75 backdrop-blur-sm rounded-sm h-fit w-fit">✌️ Stats anonymes uniquement pour avoir une idée de notre diffusion. Collectées avec Matomo, un outil libre et hébergé par nos soins.&nbsp;✌️</p>
 </div>
 
 <section class="bg-vibrant py-16">
@@ -318,9 +318,18 @@ const members = await getCollection('crew');
 
 <section class="py-16 bg-vibrant text-grey">
     <h1 class="font-heading text-5xl text-center">I ❤️ MAILTAPE</h1>
-    
-    <iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/mailtape/formulaires/2/widget" style="width: 100%; height: 1000px; border: none;"></iframe>
+    <div class="mx-auto w-fit drop-shadow-md mt-10">
 
+        <script async is:inline 
+            src="https://js.stripe.com/v3/buy-button.js">
+        </script>
+
+        <stripe-buy-button
+        buy-button-id="buy_btn_1QXOvkC6YeuT7QRujj9nLtU9"
+        publishable-key="pk_live_ti3a3Nwuy9vZJ8e65WClGQ08"
+        >
+        </stripe-buy-button>
+    </div>
     <a href="/" class="mt-16 block w-fit mx-auto"><Picture src={MTLogo} width={MTLogo.width/10} densities={[1.5,2]} alt="MailTape Logo" class="mx-auto my-4"/></a>
 
 </section>
