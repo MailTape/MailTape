@@ -7,6 +7,7 @@ guest_color: dreamy
 guestPic: guestpic569.jpg
 author: Sarah
 illustrator: Noémie Dijon
+writer: Sarah
 track1_title: SALOMEA - Truth Is Queen, Kindness Is King
 track1_color: dreamy
 track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/569/track1.mp3
