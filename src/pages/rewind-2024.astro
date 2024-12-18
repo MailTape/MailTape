@@ -90,13 +90,23 @@ const members = await getCollection('crew');
                     title=`Écouter l'épisode #${episode.data.category} avec ${episode.data.guest_name}`
                     class="drop-shadow-lg relative rounded-md bg-gray-200 w-56 min-h-56 mb-3 hover:-translate-y-0.5 hover:drop-shadow-xl active:translate-y-0.5 active:drop-shadow-none transition-all">
                         <div>
-                            <img 
+                            <Picture 
                             class="w-full rounded-t-md"
                             src=`//wsrv.nl/?url=ssl:www.mailta.pe/img/${episode.data.guestPic}&w=230&h=230&fit=cover&il&output=webp`
+                            alt=`Portrait of ${episode.data.guest_name} illustrated by ${episode.data.illustrator}`
+                            width="230"
+                            height="230"
+                            loading='lazy'
+                            decoding='async'
                             />
-                            <img
+                            <Picture
                             class="absolute w-full -bottom-1 border-t-2 border-b-2 bg-white rounded-b-md"
                             src=`//wsrv.nl/?url=ssl:www.mailta.pe/img/${episode.data.musiColor}&w=230&fit=contain&il&output=webp`
+                            alt=`MusiColor of the episode ${episode.data.category}`
+                            width="230"
+                            height="20"
+                            loading='lazy'
+                            decoding='async'
                             />
                             <h2 class="absolute text-center font-superspitze bottom-[10%] w-full text-3xl drop-shadow-lg text-white px-2 leading-[0.85]">{episode.data.guest_name}</h2>
                         </div>
@@ -136,14 +146,22 @@ const members = await getCollection('crew');
                         title=`Écouter l'épisode #${episode.data.category} avec ${episode.data.guest_name}`
                         class="drop-shadow-lg w-60 lg:w-96 rounded-md relative bg-gray-200 min-h-60 lg:min-h-96 mb-3 hover:-translate-y-0.5 hover:drop-shadow-xl active:translate-y-0.5 active:drop-shadow-none transition-all">
                             <div>
-                                <img 
+                                <Picture 
                                 class="w-full rounded-t-md"
                                 src=`//wsrv.nl/?url=ssl:www.mailta.pe/img/${episode.data.guestPic}&w=380&h=380&fit=cover&il&output=webp`
-                                />
-                                <img
+                                alt=`Portrait of ${episode.data.guest_name} illustrated by ${episode.data.illustrator}``
+                                width="380"
+                                height="380"
+                                loading='lazy'
+                                decoding='async'/>
+                                <Picture
                                 class="w-full absolute -bottom-1 border-t-2 border-b-2 bg-white rounded-b-md"
                                 src=`//wsrv.nl/?url=ssl:www.mailta.pe/img/${episode.data.musiColor}&w=380&fit=contain&il&output=webp`
-                                />
+                                alt=`MusiColor of the episode ${episode.data.category}`
+                                width="380"
+                                height="30"
+                                loading='lazy'
+                                decoding='async'/>
                                 <h2 class="absolute text-center font-superspitze bottom-[10%] w-full text-3xl lg:text-5xl drop-shadow-lg text-white px-2 leading-[0.85]">{episode.data.guest_name}</h2>
                             </div>
                         </a>
@@ -180,16 +198,24 @@ const members = await getCollection('crew');
                             title=`Écouter l'épisode #${episode.data.category} avec ${episode.data.guest_name}`
                             class="drop-shadow-lg w-60 lg:w-72 rounded-md relative bg-gray-200 min-h-60 lg:min-h-72 mb-3 hover:-translate-y-0.5 hover:drop-shadow-xl active:translate-y-0.5 active:drop-shadow-none transition-all">
                                 <div>
-                                    <img 
-                                    class="w-full rounded-t-md"
-                                    src=`//wsrv.nl/?url=ssl:www.mailta.pe/img/${episode.data.guestPic}&w=380&h=380&fit=cover&il&output=webp`
-                                    />
-                                    <img
-                                    class="w-full absolute -bottom-1 border-t-2 border-b-2 bg-white rounded-b-md"
-                                    src=`//wsrv.nl/?url=ssl:www.mailta.pe/img/${episode.data.musiColor}&w=380&fit=contain&il&output=webp`
-                                    />
-                                    <h2 class="absolute text-center font-superspitze bottom-[10%] w-full text-3xl lg:text-5xl drop-shadow-lg text-white px-2 leading-[0.85]">{episode.data.guest_name}</h2>
-                                </div>
+                                <Picture 
+                                class="w-full rounded-t-md"
+                                src=`//wsrv.nl/?url=ssl:www.mailta.pe/img/${episode.data.guestPic}&w=380&h=380&fit=cover&il&output=webp`
+                                alt=`Portrait of ${episode.data.guest_name} illustrated by ${episode.data.illustrator}``
+                                width="380"
+                                height="380"
+                                loading='lazy'
+                                decoding='async'/>
+                                <Picture
+                                class="w-full absolute -bottom-1 border-t-2 border-b-2 bg-white rounded-b-md"
+                                src=`//wsrv.nl/?url=ssl:www.mailta.pe/img/${episode.data.musiColor}&w=380&fit=contain&il&output=webp`
+                                alt=`MusiColor of the episode ${episode.data.category}`
+                                width="380"
+                                height="30"
+                                loading='lazy'
+                                decoding='async'/>
+                                <h2 class="absolute text-center font-superspitze bottom-[10%] w-full text-3xl lg:text-5xl drop-shadow-lg text-white px-2 leading-[0.85]">{episode.data.guest_name}</h2>
+                            </div>
                             </a>
                         </div>
                     ) : null
@@ -223,16 +249,24 @@ const members = await getCollection('crew');
                             title=`Écouter l'épisode #${episode.data.category} avec ${episode.data.guest_name}`
                             class="drop-shadow-lg w-60 lg:w-72 rounded-md relative bg-gray-200 min-h-60 lg:min-h-72 mb-3 hover:-translate-y-0.5 hover:drop-shadow-xl active:translate-y-0.5 active:drop-shadow-none transition-all">
                                 <div>
-                                    <img 
-                                    class="w-full rounded-t-md"
-                                    src=`//wsrv.nl/?url=ssl:www.mailta.pe/img/${episode.data.guestPic}&w=380&h=380&fit=cover&il&output=webp`
-                                    />
-                                    <img
-                                    class="w-full absolute -bottom-1 border-t-2 border-b-2 bg-white rounded-b-md"
-                                    src=`//wsrv.nl/?url=ssl:www.mailta.pe/img/${episode.data.musiColor}&w=380&fit=contain&il&output=webp`
-                                    />
-                                    <h2 class="absolute text-center font-superspitze bottom-[10%] w-full text-3xl lg:text-5xl drop-shadow-lg text-white px-2 leading-[0.85]">{episode.data.guest_name}</h2>
-                                </div>
+                                <Picture 
+                                class="w-full rounded-t-md"
+                                src=`//wsrv.nl/?url=ssl:www.mailta.pe/img/${episode.data.guestPic}&w=380&h=380&fit=cover&il&output=webp`
+                                alt=`Portrait of ${episode.data.guest_name} illustrated by ${episode.data.illustrator}``
+                                width="380"
+                                height="380"
+                                loading='lazy'
+                                decoding='async'/>
+                                <Picture
+                                class="w-full absolute -bottom-1 border-t-2 border-b-2 bg-white rounded-b-md"
+                                src=`//wsrv.nl/?url=ssl:www.mailta.pe/img/${episode.data.musiColor}&w=380&fit=contain&il&output=webp`
+                                alt=`MusiColor of the episode ${episode.data.category}`
+                                width="380"
+                                height="30"
+                                loading='lazy'
+                                decoding='async'/>
+                                <h2 class="absolute text-center font-superspitze bottom-[10%] w-full text-3xl lg:text-5xl drop-shadow-lg text-white px-2 leading-[0.85]">{episode.data.guest_name}</h2>
+                            </div>
                             </a>
                         </div>
                     ) : null
@@ -258,9 +292,14 @@ const members = await getCollection('crew');
     <div class="flex flex-row justify-evenly flex-wrap gap-6 md:gap-12 ">
         {members.map(member => (
         <div class="flex flex-col flex-wrap items-center gap-1">
-                <img
-                src=`/img/crew/${member.data.profilePic}`
+                <Picture
+                src=`/img/crew/${member.data.profilePic}` // [TODO] npo ajouter wsrv.nl
                 class="w-24 h-24 rounded-full drop-shadow bg-gray-200 object-cover"
+                width="100"
+                height="100"
+                alt=`Profile picture of ${member.data.name}`
+                loading='lazy'
+                decoding='async'
                 
                 />
                 <div class="flex flex-row gap-1 min-w-36 place-items-center justify-center">
