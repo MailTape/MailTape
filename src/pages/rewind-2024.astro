@@ -25,8 +25,10 @@ const posts = allPosts
       .filter((post: CollectionEntry<'episodes'>) => (post.data.pubDate.getFullYear())==2024)
       .sort(sortByEpisodeNumber);
 
-const members = await getCollection('crew');
+import sortByName from "../utils/sortByName.js";
 
+const crew = await getCollection('crew');
+const members = sortByName(crew);
 ---
 
 <Head title="MailTape Rewind 2024", description="Discover the best of 2024 and support us for 2025."/>
