@@ -33,6 +33,10 @@ const members = sortByName(crew);
 
 <Head title="MailTape Rewind 2024", description="Discover the best of 2024 and support us for 2025."/>
 
+<a id="heart" title="Yeah!" class="fixed top-4 left-4 text-3xl p-2 shadow-lg z-20 bg-vibrant rounded-full hidden transition-all hover:-translate-y-0.5 active:translate-y-0.5" href="#support">
+    ❤️
+</a>
+
 <article class="container mt-10">
     <header class="my-4 text-grey">
         <Picture src={MTRewindLogo} width={MTRewindLogo.width/4} densities={[1.5,2]} alt="MailTape Rewind 2024 - Logo" class="mx-auto my-6"/>
@@ -79,7 +83,7 @@ const members = sortByName(crew);
     <p class="text-center text-sm text-white font-body md:mx-10 px-4 md:px-10 py-4 mb-4 backdrop-brightness-75 backdrop-blur-sm rounded-sm h-fit w-fit">✌️ Stats anonymes uniquement pour avoir une idée de notre diffusion. Collectées avec Matomo, un outil libre et hébergé par nos soins.&nbsp;✌️</p>
 </div>
 
-<section class="bg-vibrant py-16">
+<section id="episodes" class="bg-vibrant py-16">
     <div class="flex flex-col justify-center px-4 md:px-0 mb-10 md:mb-16 text-grey text-center">
         <h1 class="font-heading uppercase text-4xl md:text-5xl ">Les épisodes de l'année</h1>
         <p class="font-heading text-lg md:text-xl">Un immense merci à nos invité·e·s et à leur équipe pour leur contribution</p>
@@ -318,7 +322,7 @@ const members = sortByName(crew);
     </div>
 </section>
 
-<section class="py-16 bg-vibrant text-grey">
+<section class="py-16 bg-vibrant text-grey" id="support">
     <h1 class="font-heading text-5xl text-center">I ❤️ MAILTAPE</h1>
     <div class="mx-auto w-fit drop-shadow-md mt-10">
 
@@ -335,6 +339,27 @@ const members = sortByName(crew);
     <a href="/" class="mt-16 block w-fit mx-auto"><Picture src={MTLogo} width={MTLogo.width/10} densities={[1.5,2]} alt="MailTape Logo" class="mx-auto my-4"/></a>
 
 </section>
+
+<script is:inline>
+    window.addEventListener('scroll', function() {
+        const episodes = document.getElementById('episodes');
+        const heart = document.getElementById('heart');
+        const support = document.getElementById('support')
+
+        // Get the position of the target element
+        const visiblePosition = episodes.getBoundingClientRect().top;
+        const supportPosition = support.getBoundingClientRect().top-window.innerHeight;
+
+        console.log(supportPosition);
+
+        // Check if the target element is in view
+        if (visiblePosition <= 0 && supportPosition > 0) {
+            heart.classList.remove('hidden'); // Add class when in view
+        } else {
+            heart.classList.add('hidden'); // Remove class when out of view
+        }
+    });
+</script>
 
 </body>
 </html>
