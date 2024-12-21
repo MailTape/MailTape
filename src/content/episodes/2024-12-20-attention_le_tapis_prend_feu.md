@@ -108,5 +108,5 @@ Jules: **"** Another very recent release from an artist we know well, having alr
 
 
 
-That’s it for this morning, thank you for joining us! Many thanks to [Noémie Dijon](https://noemirabelle.tumblr.com/) for her stunning and colorfoul illustration, very much in the duo's image. 
+That’s it for this morning, thank you for joining us! Many thanks to [Noémie Dijon](https://noemirabelle.tumblr.com/) for her stunning and colorful illustration, very much in the duo's image. 
 Much love to Carla and Martin from [Attention Le Tapis Prend Feu](https://www.instagram.com/attentionletapisprendfeu/) for their trippy and intimate selection, in the hope that it will inspire you to get out of bed, without necessarily setting fire to the carpet.
