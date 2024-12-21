@@ -88,7 +88,7 @@ Jules: **"** Taken from their latest album <i>Boom Boom Duplicata</i>, just rele
 
 
 
- Jules: **"**  **"** 
+ Jules: **"** Although circumspect at first, I came to appreciate the auto-tune and other vocal effects, not just for the fun of it but also for all the new things it opens up, particularly when the musicians come to use their voices as instruments alongside the others, sometimes replacing synth notes with long stretches of altered vocals. I discovered Hanaa Ouassim with her album <i>LA VIE DE STAR</i>, released earlier this year on [Pan European Recordings](https://paneuropeanrecording.bandcamp.com/), and was immediately swept away by this mix of sounds, blending clubbing, R&B and raï influences, bringing together Moroccan Darija and auto-tune. Freedom, that's what life as a star is all about.  **"** 
 
 
 
