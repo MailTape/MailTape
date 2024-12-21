@@ -23,7 +23,7 @@ track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/571/track4.mp3
 track5_title: Hanaa Ouassim - LANADELREY
 track5_color: bliss
 track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/571/track5.mp3
-track6_title: WORLDBRAIN - I hope this message finds you well
+track6_title: WORLD BRAIN - I hope this message finds you well
 track6_color: dreamy
 track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/571/track6.mp3
 track7_title: Lucas Andrea - L'imaginaire
@@ -92,11 +92,11 @@ Jules: **"** Taken from their latest album <i>Boom Boom Duplicata</i>, just rele
 
 
 
-## [WORLDBRAIN](https://worldbrain.bandcamp.com/album/open-source) - I hope this message finds you well
+## [WORLD BRAIN](https://worldbrain.bandcamp.com/album/open-source) - I hope this message finds you well
 
 
 
-Jules: **"**  **"** 
+Jules: **"** Another very recent release from an artist we know well, having already welcomed him for [MailTape 435](https://www.mailta.pe/435/world-brain/). Taken from his album <i>Open Source</i> released in November, the title of this track will evoke for all those with a boring office job, like me, the ordinary magic formula that we mechanically place at the beginning of an email. But how about taking that expression seriously for once and really making that wish for others? Whatever the case, WORLD BRAIN can only wish us all well with this mellow track.  **"** 
 
 
 
@@ -108,5 +108,5 @@ Jules: **"**  **"**
 
 
 
-That’s it for this morning, thank you for joining us! Many thanks to [Noémie Dijon](https://noemirabelle.tumblr.com/) for her stunning illustration. 
+That’s it for this morning, thank you for joining us! Many thanks to [Noémie Dijon](https://noemirabelle.tumblr.com/) for her stunning and colorfoul illustration, very much in the duo's image. 
 Much love to Carla and Martin from [Attention Le Tapis Prend Feu](https://www.instagram.com/attentionletapisprendfeu/) for their trippy and intimate selection, in the hope that it will inspire you to get out of bed, without necessarily setting fire to the carpet.
