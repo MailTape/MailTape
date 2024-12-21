@@ -33,7 +33,7 @@ musiColor: musicolor571.png
 ---
 This morning you're woken up by a weird smell, like something slightly burnt, that tickles the edge of your nostrils. Maybe, like [Michael Scott](https://www.youtube.com/watch?v=m_HR_o0jDqw&ab_channel=TheOffice) from The Office, you've put a mini-grill next to your bed to wake up to the smell of grilled bacon (watch your foot when you get up, then!)? But no, that's not it... You sit up in bed, slowly open your eyes and it seems as if the room is surrounded by a fog of smoke. You pivot to get your legs out of bed and suddenly feel the heat tickle the soles of your feet. You look down and suddenly it's clear: <b>watch out the carpet's on fire!</b>
 
-<i>"Watch out the carpet's on fire"</i>, yes, that's what the name of the band we're welcoming this Sunday morning means in French. This somewhat zany name reflects the music of the duo Carla et Martin, which moves between electronic pop toy psyche and shoegaze. But beyond the strangeness and amusement of the first listens, we discover, particularly in their most recent album <i>Boom Boom Duplicata</i>, which is much more intimate and organic, a sound with soaring electronic textures and lyrics full of metaphors that draw a colorful and gently melancholic universe. Isn't the present world strange, after all? 
+<i>"Watch out the carpet's on fire"</i>, yes, that's what the name of the band we're welcoming this Sunday morning means in French. This somewhat zany name reflects the music of the duo Carla et Martin, which moves between electronic pop toy psyche and shoegaze sounds. But beyond the strangeness and amusement of the first listens, we discover, particularly in their most recent album <i>[Boom Boom Duplicata](https://musiquemuscle.bandcamp.com/album/boom-boom-duplicata)</i>, which is much more intimate and organic, a sound with soaring electronic textures and lyrics full of metaphors that draw a colorful and gently melancholic universe. Isn't the present world strange, after all? 
 
 
 # [Attention Le Tapis Prend Feu](https://www.instagram.com/attentionletapisprendfeu/)'s selection
@@ -41,7 +41,7 @@ This morning you're woken up by a weird smell, like something slightly burnt, th
 
 
 
-## Jockstrap - Concrete Over Water
+## [Jockstrap](https://jockstrapmusic.bandcamp.com/) - Concrete Over Water
 
 
 
@@ -61,7 +61,7 @@ Best PNL sound from my humble point of view, the little GTR in the background th
 
 
 
-## Kiss Facility - Blackstone
+## [Kiss Facility](https://kissfacility.bandcamp.com/) - Blackstone
 
 
 Martin: **"** <i>Je suis tombé sur ce groupe en scrollant sur le insta de Sega Bodega, un dimanche après-midi vide je pense, c'est un duo qu'il forme avec Mayah Alkhateri. J'ai pris un peu de temps avant de rentrer dedans et après j'ai écouté en boucle pendant une semaine. La façon dont iel mélange le Shoegaze avec des éléments électroniques est giga bien vu et la façon de chanter de Mayah Alkhateri amène un truc différent qui m'a bien marqué.</i>
