@@ -10,6 +10,9 @@ import { getImage } from 'astro:assets';
 import MTRewindPattern from '../img/MTRewindPattern.png';
 const pattern = await getImage({src: MTRewindPattern, format:'webp', quality:'high'});
 
+import MTRewindRibbon from '../img/MTRewindRibbon.svg';
+const ribbon = await getImage({src: MTRewindRibbon});
+
 import stringifyPubDate from "../utils/stringifyPubDate.js";
 import slugEp from '../utils/slugEp';
 
@@ -37,34 +40,36 @@ const members = sortByName(crew);
     ❤️
 </a>
 
-<article class="container mt-10">
-    <header class="my-4 text-grey">
-        <Picture src={MTRewindLogo} width={MTRewindLogo.width/4} densities={[1.5,2]} alt="MailTape Rewind 2024 - Logo" class="mx-auto my-6"/>
-        <p class="font-body px-6 md:px-0 prose prose-lg md:prose-xl mx-auto leading-normal md:text-center">
-            Chères amies, chers amis,
-            <br><br>
-            L’année touche à sa fin, l’occasion pour nous de revenir sur les artistes et les projets qui auront fait 2024 à Mailtape, et au nom de toute l’équipe vous remercier d’être toujours plus nombreuses et nombreux à nos rendez-vous en ligne et en live.
-            <br><br>
-            Nous sommes heureux·ses et fier·e·s de pouvoir partager chaque semaine avec vous notre passion de la musique, de lire vos messages de soutien et pour la première fois depuis de longues années de pouvoir danser à vos côtés lors de la soirée MailTape Live #4 au Sample en mars dernier.
-            <br><br>
-            Depuis plus de 13 année d’existence et près de 570 épisodes publiés, MailTape poursuit plus que jamais sa mission de promouvoir l’émergence musicale et de soutenir les projets artistiques de musicien·ne·s du monde entier. Cette dynamique continuera en 2025 avec de nouvelles soirées Mailtape Live. Mailtape est un collectif artistique structuré en association qui rassemble une vingtaine de bénévoles issus de 7 pays différents parmi eux des curateur·ice·s, des rédacteur·ice·s, des illustrateur·ice·s, des développeur·e·s, des organisateur·ice·s.  
-            <br><br>
-            Nous mettons l’humain au centre de tout ce que nous créons, par conséquent nous attachons une importance primordiale à vous offrir une expérience respectueuse et éthique, garantie sans pisteurs, sans algorithme et sans IA. Le fonctionnement de l’association ne repose que sur les cotisations des adhérent·e·s ainsi que sur votre générosité. 
-            <br><br>
-            Vos dons servent à assurer les coûts techniques de MailTape et permettent d’organiser des lives, de louer du matériel et de rémunérer les artistes invité·e·s, pour continuer de faire vivre ce beau projet ensemble, année après année, dimanche après dimanche et plus encore.  
+<article class="container mt-10 bg-no-repeat bg-left-top" style={`background-image: url(${ribbon.src});`}>
+    <div class="max-xl:bg-white max-xl:bg-opacity-80">
+        <header class="my-4 text-grey">
+            <Picture src={MTRewindLogo} width={MTRewindLogo.width/4} densities={[1.5,2]} alt="MailTape Rewind 2024 - Logo" class="mx-auto my-6"/>
+            <p class="font-body px-6 md:px-0 prose prose-lg md:prose-xl mx-auto leading-normal md:text-justify text-pretty">
+                <span class="!text-center block">Chères amies, chers amis,</span>
+                <br>
+                L’année touche à sa fin, l’occasion de revenir sur les artistes et les projets qui auront fait 2024 à MailTape, et au nom de toute l’équipe vous remercier d’être toujours plus nombreuses et nombreux à nos rendez-vous en ligne et en live.
+                <br><br>
+                Nous sommes heureux·ses et fier·e·s de pouvoir partager chaque semaine avec vous notre passion de la musique, de lire vos messages de soutien et pour la première fois depuis de longues années de pouvoir danser à vos côtés lors de la soirée MailTape Live #4 au Sample en mars dernier.
+                <br><br>
+                Depuis plus de 13 année d’existence et près de 570 épisodes publiés, MailTape poursuit plus que jamais sa mission de promouvoir l’émergence musicale et de soutenir les projets artistiques de musicien·ne·s du monde entier. Cette dynamique continuera en 2025 avec de nouvelles soirées Mailtape Live. Mailtape est un collectif artistique structuré en association qui rassemble une vingtaine de bénévoles issus de 7 pays différents parmi eux des curateur·ice·s, des rédacteur·ice·s, des illustrateur·ice·s, des développeur·e·s, des organisateur·ice·s.  
+                <br><br>
+                Nous mettons l’humain au centre de tout ce que nous créons, par conséquent nous attachons une importance primordiale à vous offrir une expérience respectueuse et éthique, garantie sans pisteurs, sans algorithme et sans IA. Le fonctionnement de l’association ne repose que sur les cotisations des adhérent·e·s ainsi que sur votre générosité. 
+                <br><br>
+                Vos dons servent à assurer les coûts techniques de MailTape et permettent d’organiser des lives, de louer du matériel et de rémunérer les artistes invité·e·s, pour continuer de faire vivre ce beau projet ensemble, année après année, dimanche après dimanche et plus encore.  
+            </p>
+            <p class="text-2xl text-center leading-tight mx-auto mt-8 font-brush -rotate-1">
+                Bonne fêtes à toutes et à tous,<br>
+                MailTape Crew
+            </p>
+        </header>
+        <p class="font-heading uppercase text-center mt-20 text-3xl md:text-4xl text-bliss">
+            Soutenez-nous pour 2025 et<br>(re)découvez le meilleur de 2024
         </p>
-        <p class="text-2xl text-center leading-tight mx-auto mt-8 font-brush -rotate-1">
-            Bonne fêtes à toutes et à tous,<br>
-            MailTape Crew
-        </p>
-    </header>
-    <p class="font-heading uppercase text-center mt-20 text-3xl md:text-4xl text-bliss">
-        Soutenez-nous pour 2025 et<br>(re)découvez le meilleur de 2024
-    </p>
-    <a href="https://donate.stripe.com/3cs6oW3FI7gVcjS4gh" class="mx-auto block w-fit mt-6 px-4 text-center text-2xl font-heading rounded-md bg-bliss text-white border-8 border-bliss shadow-md hover:-translate-y-0.5 hover:drop-shadow-lg active:translate-y-0.5 active:drop-shadow-none transition-all">Je fais un don à l'association</a>
+        <a href="#support" class="mx-auto block w-fit mt-6 px-4 text-center text-2xl font-heading rounded-md bg-bliss text-white border-8 border-bliss shadow-md hover:-translate-y-0.5 hover:drop-shadow-lg active:translate-y-0.5 active:drop-shadow-none transition-all">Je fais un don à l'association</a>
+    </div>
 </article>
 
-<div  style={`background-image: url(${pattern.src});`}  class="mt-16 pt-16 px-4 w-full min-h-[50vh] bg-no-repeat bg-center bg-cover flex gap-5 flex-row justify-evenly flex-wrap bg-fixed">
+<div style={`background-image: url(${pattern.src});`}  class="mt-16 pt-16 px-4 w-full min-h-[50vh] bg-no-repeat bg-center bg-cover flex gap-5 flex-row justify-evenly flex-wrap bg-fixed">
     <div class="bg-dreamy ring-8 ring-black p-4 rounded-lg w-[20vh] h-[20vh] min-w-32 md:min-w-40 min-h-32 md:min-h-40 flex flex-col items-center justify-center">
         <h2 class="font-heading text-4xl md:text-5xl">25 940</h2>
         <p class="font-heading text-lg md:text-xl leading-tight text-center">SESSIONS D'ÉCOUTE</p>
@@ -324,18 +329,39 @@ const members = sortByName(crew);
 
 <section class="py-16 bg-vibrant text-grey" id="support">
     <h1 class="font-heading text-5xl text-center">I ❤️ MAILTAPE</h1>
-    <div class="mx-auto w-fit drop-shadow-md mt-10">
+    <h2 class="font-heading text-3xl text-center">Soutenir le collectif au fil de nos épisodes</h2>
 
-        <script async is:inline 
+    <div class="mx-auto w-fit drop-shadow-md mt-10 flex flex-row flex-wrap gap-10 justify-center">
+
+        <script async is:inline
             src="https://js.stripe.com/v3/buy-button.js">
-        </script>
+            </script>
 
-        <stripe-buy-button
-        buy-button-id="buy_btn_1QXOvkC6YeuT7QRujj9nLtU9"
-        publishable-key="pk_live_ti3a3Nwuy9vZJ8e65WClGQ08"
-        >
-        </stripe-buy-button>
+            <stripe-buy-button
+            buy-button-id="buy_btn_1QYUyOC6YeuT7QRuP8A9zdf7"
+            publishable-key="pk_live_ti3a3Nwuy9vZJ8e65WClGQ08"
+            >
+            </stripe-buy-button>
+
+            <stripe-buy-button
+            buy-button-id="buy_btn_1QYVAVC6YeuT7QRu8bI1NZhm"
+            publishable-key="pk_live_ti3a3Nwuy9vZJ8e65WClGQ08"
+            >
+            </stripe-buy-button>
+
+            <stripe-buy-button
+            buy-button-id="buy_btn_1QYVBiC6YeuT7QRuKaqioCq9"
+            publishable-key="pk_live_ti3a3Nwuy9vZJ8e65WClGQ08"
+            >
+            </stripe-buy-button>
+
+            <stripe-buy-button
+            buy-button-id="buy_btn_1QYVCQC6YeuT7QRudNG86SJw"
+            publishable-key="pk_live_ti3a3Nwuy9vZJ8e65WClGQ08"
+            >
     </div>
+    <a href="https://donate.stripe.com/3cs6oW3FI7gVcjS4gh" target="_blank" class="text-center text-md font-body text-dreamy block mt-5 hover:underline">Je préfère contribuer avec un don unique ❤️</a>
+
     <a href="/" class="mt-16 block w-fit mx-auto"><Picture src={MTLogo} width={MTLogo.width/10} densities={[1.5,2]} alt="MailTape Logo" class="mx-auto my-4"/></a>
 
 </section>
