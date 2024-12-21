@@ -104,7 +104,7 @@ Jules: **"** Another very recent release from an artist we know well, having alr
 
 
 
- Jules: **"**  **"**  
+ Jules: **"** It's another artist from the French underground pop label [La Souterraine](https://souterraine.bandcamp.com/music) who continues to explore the repertoire of Jean-Luc Le Ténia, this eccentric and prolific singer-songwriter, pioneer of anti-folk in France and unfortunately still relatively undiscovered. On this track taken from his album <i>Une peau d'Apocalypso</i> released last November, Lucas Andrea revives the singer's poetry, exuberance and imagination in a melancholy ballad. **"**  
 
 
 
