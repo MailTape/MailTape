@@ -80,7 +80,7 @@ I came across this band while scrolling through Sega Bodega's insta one Sunday a
 
 
 
-Jules: **"**  **"** 
+Jules: **"** Taken from their latest album <i>Boom Boom Duplicata</i>, just released on 7 December on the Brussels label [Musique Muscle](https://musiquemuscle.bandcamp.com/album/boom-boom-duplicata) and the non-profit label [Illogique Musique](https://www.instagram.com/illogique.musique/), I fell in love with this track and its dreamy emoteenage style, which has a more personal and refocused feel than the band's previous EPs and tracks without losing any of its sparkle. For the nostalgic connoisseurs, this track is a reference to Yumi, the heroine of the French anime series Code Lyoko. **"** 
 
 
 
