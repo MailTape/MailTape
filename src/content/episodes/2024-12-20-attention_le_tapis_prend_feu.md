@@ -84,7 +84,7 @@ Jules: **"**  **"**
 
 
 
-## Hanaa Ouassim - LANADELREY
+## [Hanaa Ouassim](https://hanaaouassim.bandcamp.com/album/la-vie-de-star) - LANADELREY
 
 
 
@@ -92,7 +92,7 @@ Jules: **"**  **"**
 
 
 
-## WORLDBRAIN - I hope this message finds you well
+## [WORLDBRAIN](https://worldbrain.bandcamp.com/album/open-source) - I hope this message finds you well
 
 
 
@@ -100,7 +100,7 @@ Jules: **"**  **"**
 
 
 
-## Lucas Andrea - L'imaginaire
+## [Lucas Andrea](https://souterraine.bandcamp.com/album/une-peau-dapocalypso) - L'imaginaire
 
 
 
