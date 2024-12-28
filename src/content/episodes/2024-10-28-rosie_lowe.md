@@ -7,6 +7,7 @@ guest_color: dreamy
 guestPic: guestpic564.jpg
 author: Sarah
 illustrator: Thibault Daumain
+writer: Sarah
 track1_title: Pete Josef - Sunny Side Up
 track1_color: bliss
 track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/564/track1.mp3

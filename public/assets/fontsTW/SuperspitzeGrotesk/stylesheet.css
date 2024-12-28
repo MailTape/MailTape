@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Superspitze Grotesk';
+    src: url('SuperspitzeGrotesk-SemiBold.eot');
+    src: url('SuperspitzeGrotesk-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('SuperspitzeGrotesk-SemiBold.woff2') format('woff2'),
+        url('SuperspitzeGrotesk-SemiBold.woff') format('woff'),
+        url('SuperspitzeGrotesk-SemiBold.ttf') format('truetype'),
+        url('SuperspitzeGrotesk-SemiBold.svg#SuperspitzeGrotesk-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
