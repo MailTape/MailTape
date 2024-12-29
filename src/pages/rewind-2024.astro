@@ -40,6 +40,10 @@ const members = sortByName(crew);
     ❤️
 </a>
 
+<div id="thankYou" class="hidden p-2 bg-vibrant">
+    <p class="text-center font-heading uppercase text-xl animate-pulse">🙏 Thank you so much for your support! 🙏</p>
+</div>
+
 <div class="text-right py-4 px-6">
     <a class="font-body font-bold">EN</a> / <a href="/rewind-2024-fr" class="font-body hover:underline">FR</a>
 </div>
@@ -381,15 +385,29 @@ const members = sortByName(crew);
         const visiblePosition = episodes.getBoundingClientRect().top;
         const supportPosition = support.getBoundingClientRect().top-window.innerHeight;
 
-        console.log(supportPosition);
-
         // Check if the target element is in view
         if (visiblePosition <= 0 && supportPosition > 0) {
             heart.classList.remove('hidden'); // Add class when in view
         } else {
             heart.classList.add('hidden'); // Remove class when out of view
         }
+
     });
+
+    // Display callback from Strapi donation
+    const urlParams = new URLSearchParams(window.location.search);
+    const thankParam = urlParams.get('thank');
+    const thankYou = document.getElementById('thankYou');
+    console.log(thankParam);
+    if (thankParam=="you") {
+        thankYou.classList.remove('hidden');
+        window.setTimeout(function(){
+            // Move to a new location or you can do something else
+            window.location.href = "/rewind-2024";
+
+        }, 5000);
+
+    }
 </script>
 
 </body>
