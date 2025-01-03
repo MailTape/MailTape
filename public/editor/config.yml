@@ -67,9 +67,9 @@ collections:
       - { label: "Guest", name: "guest_name", widget: "string" }
       - { label: "Guest Color", required: false, name: "guest_color", widget: "select", options: ["bliss","dreamy","rough", "trippy", "vibrant"], hint: "This is the color which highlights the episode on homepage"}
       - { label: "Guest Pic", required: false, name: "guestPic", widget: "image", media_library: {media_folder: "/public/img",config: { max_file_size: 10240000 } } }
-      - { label: "Curator", name: "author", widget: "select", options: ["Anaïs G","Anto","Jules","ImaCrea","Inès","Ling","Sarah"] }
+      - { label: "Curator", name: "author", widget: "select", options: ["Anaïs G","Aloyse",Anto","Jules","ImaCrea","Inès","Ling","Sarah"] }
       - { label: "Illustrator", required: false, name: "illustrator", widget: "select", options: ["Anthony Dujardin","Babi Brunelio","Camille Célestin","Camille Lemeunier","Jan Henrik","Julie Wojtczak","Lucie Fléty","Marie Alléguède","Meriam Kharbat","Nella Papelita","Noémie Dijon", "Patricia Barros De Miranda","Thibault Daumain"] }
-      - { label: "Writer", required: false, name: "writer", widget: "select", options:  ["Anaïs G","Anto","Jules","ImaCrea","Inès","Ling","PS KY","Sarah"]  }
+      - { label: "Writer", required: false, name: "writer", widget: "select", options:  ["Anaïs G","Aloyse","Anto","Jules","ImaCrea","Inès","Ling","PS KY","Sarah"]  }
       - { label: "Track 1 - Title", required: false, name: track1_title, widget: "string" }
       - label: "Track1 - Color"
         name: track1_color
