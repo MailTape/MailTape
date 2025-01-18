@@ -56,20 +56,23 @@ William Ryan Fritch: **"** Of all of the amazing new transcendental jazz artists
 
 ## William Ryan Fritch - Gravitropic
 
-ImaCrea: **"** This tracks comes from *[Adhesion](https://williamryanfritch.bandcamp.com/album/adhesion)*, the final album from a trilogy reflecting "on the many calamitous water crises affecting life on this planet". Behind the veil of an ethereal ambient landscape, William Ryan Fritch's music is well anchored to earth. His composition are extremely sensible and bring light even to the darkest corner of the soul. I'm very glad I came across his music thanks to the second opus of this serie, *[Cohesion](https://williamryanfritch.bandcamp.com/album/cohesion)*.
+ImaCrea: **"** This track comes from *[Adhesion](https://williamryanfritch.bandcamp.com/album/adhesion)*, the final album from a trilogy reflecting "on the many calamitous water crises affecting life on this planet". Behind the veil of an ethereal ambient landscape, William Ryan Fritch's music is well anchored to earth. His composition are extremely sensitive and bring light even to the darkest corner of the soul. I'm very glad I came across his music thanks to the second opus of this serie, *[Cohesion](https://williamryanfritch.bandcamp.com/album/cohesion)*.
 
-Listening to this track feels to me like going for a walk. It refreshes my mind and let the spirit fly freely through the landscapes of my imagination. **"** 
+Listening to this track feels to me like going for a walk. It refreshes my mind and lets the spirit fly freely through the landscapes of my imagination. **"** 
 
 ## LEYA - Corners
 
-ImaCrea: **"** Been a while I didn't listen to LEYA. I remember I discovered them thanks to Sarah who made an episode with them. What a beauty, go listen to it after(!). Somehow, listening to William's music reminded me of them and what a great surprise to see they released recently a new album, *[I Forget Everything](https://leya.bandcamp.com/album/i-forget-everything)*. I'm just discovering it so it will take a few listening sessions to fully embrace it, but Corners has already hit me deep. There's hope. **"** 
+ImaCrea: **"** It's been a while since I last listened to LEYA. I remember I discovered them thanks to Sarah, who made an episode with them. What a beauty - go listen to it afterwards(!). Somehow, listening to William's music reminded me of them, and what a great surprise to see they recently released a new album, *[I Forget Everything](https://leya.bandcamp.com/album/i-forget-everything)*. I'm just discovering it, so it will take a few listening sessions to fully embrace it, but *Corners* has already hit me deep. **"** 
 
 ## Marina Herlop - Babel
 
-ImaCrea: **"** lorem ipsum **"** 
+ImaCrea: **"** I'm captivated by the way this track begins. Marina Herlop's music has a
+ unique quality that's both refreshingly new and warmly familiar. She 
+strikes a perfect balance, guiding us towards uncharted 
+territories while keeping her audience firmly grounded. This delicate equilibrium is a hallmark of her artistry, and it's what makes her music so compelling and rewarding to listen to. **"** 
 
 ## Patricia Wolf - Nocturnal Migration
 
-ImaCrea: **"** lorem ipsum **"** 
+ImaCrea: **"** Patricia Wolf is back with a new tape, *[The Secret Lives of Birds](https://patriciawolf.bandcamp.com/album/the-secret-lives-of-birds)*, a vast and enveloping soundscape where synth waves travel through the sky with birds.I love how she's interrogating the possibilities of music and sound recording as a vessel to re-ignite our lost sensitivities to the living. I find that this track can be just as interesting as a closing or opening track, and it works very well when listening to the episode on repeat.. If you discover Patricia Wolf's work, here's [the episode 514 ](https://www.mailta.pe/514/patricia-wolf/)where I was honored to have her as a guest. **"** 
 
  Thank you...
