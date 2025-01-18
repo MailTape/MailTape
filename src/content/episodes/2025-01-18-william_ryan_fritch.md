@@ -29,6 +29,14 @@ track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/573/track6.mp3
 track7_title: Patricia Wolf - Nocturnal Migration
 track7_color: dreamy
 track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/573/track7.mp3
+description: "This morning, I'm excited to share with you a new episode that
+  showcases the musical tastes of William Ryan Fritch, a master of crafting
+  immersive and evocative soundscapes that transport us to otherworldly realms.
+  He's curated a selection of tracks that take us on a journey through the
+  realms of ambient, jazz, and experimental soundscapes. "
+episode_URL: https://www.mailta.pe/573/william-ryan-fritch/
+image: https://mailta.pe/img/fbPic573.jpg
+musiColor: musicolor573.png
 ---
 This morning, I'm excited to share with you a new episode that showcases the musical tastes of [William Ryan Fritch](https://williamryanfritch.bandcamp.com/album/adhesion), a master of crafting immersive and evocative soundscapes that transport us to otherworldly realms. He's curated a selection of tracks that take us on a journey through the realms of ambient, jazz, and experimental soundscapes. 
 
