@@ -16,6 +16,8 @@ track2_color: dreamy
 track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/573/track2.mp3
 track3_title: Nala Sinephro - Continuum 1
 track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/573/track3.mp3
+track4_title: William Ryan Fritch - Gravitropic
+track4_color: dreamy
 track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/573/track4.mp3
 track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/573/track5.mp3
 track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/573/track6.mp3
