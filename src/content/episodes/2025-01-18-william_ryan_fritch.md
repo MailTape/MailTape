@@ -30,17 +30,21 @@ track7_title: Patricia Wolf - Nocturnal Migration
 track7_color: dreamy
 track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/573/track7.mp3
 ---
-This morning... 
+This morning, I'm excited to share with you a new episode that showcases the musical tastes of [William Ryan Fritch](https://williamryanfritch.bandcamp.com/album/adhesion), a master of crafting immersive and evocative soundscapes that transport us to otherworldly realms. He's curated a selection of tracks that take us on a journey through the realms of ambient, jazz, and experimental soundscapes. 
+
+From the hauntingly beautiful sounds of Mabe Fratti to the transportive instrumental records of Claire Deak, and from the transcendental jazz of Nala Sinephro to the ethereal ambient landscapes of William Ryan Fritch himself, this episode is a sonic exploration that will leave you feeling refreshed, inspired, and maybe even a little bit transformed.
+
+Till there's music, there's hope. Let's keep the light on.
 
 # William Ryan Fritch's selection
 
-## Mabe Fratti - Enfrente
+## [Mabe Fratti](https://tinangelrecords.bandcamp.com/album/sentir-que-no-sabes) - Enfrente
 
 William Ryan Fritch: **"** Mabe Fratti has been one of my very favorite artists over the last few  years. Her music is constantly inspiring.
 
 There is an angularity, absolute command of tire, texture and feel in everything and her musical  compatriots produce. There is also a spirit of immediacy and  effervescent ease with which these haunting and immersive songs are  constructed that makes them all feel so sincere and inviting no matter how adventurous the palette she is painting with.I also loved her album *[Vidrio](https://tinangelrecords.bandcamp.com/album/vidrio)* with her band Titanic and it was far an away my most listened to album last year. **"** 
 
-## Claire Deak - Quarrel of the senses
+## [Claire Deak](https://clairedeak.bandcamp.com/album/sotto-voce) - Quarrel of the senses
 
 William Ryan Fritch: **"** Claire  and her partner Tony Dupe are two of my very favorite musicians on the  planet and two human beings that I relate to musically as much as anyone  I’ve ever met.
 
@@ -48,31 +52,31 @@ This album of Claire’s is amongst the most transportive and magical  instrumen
 
 Can't recommend this highly enough. **"** 
 
-## Nala Sinephro - Continuum 1
+## [Nala Sinephro](https://nalasinephro.bandcamp.com/album/endlessness) - Continuum 1
 
 William Ryan Fritch: **"** Of all of the amazing new transcendental jazz artists out there Nala’s work speaks to me the most. Just remarkable command of her instruments, phrasing, and world building. She has incredible restraint and  musicality that is undeniable.Fantastic album and I’m so excited to hear what music she creates next. **"** 
 
 # Curator's selection
 
-## William Ryan Fritch - Gravitropic
+## [William Ryan Fritch](https://williamryanfritch.bandcamp.com/album/adhesion) - Gravitropic
 
 ImaCrea: **"** This track comes from *[Adhesion](https://williamryanfritch.bandcamp.com/album/adhesion)*, the final album from a trilogy reflecting "on the many calamitous water crises affecting life on this planet". Behind the veil of an ethereal ambient landscape, William Ryan Fritch's music is well anchored to earth. His composition are extremely sensitive and bring light even to the darkest corner of the soul. I'm very glad I came across his music thanks to the second opus of this serie, *[Cohesion](https://williamryanfritch.bandcamp.com/album/cohesion)*.
 
 Listening to this track feels to me like going for a walk. It refreshes my mind and lets the spirit fly freely through the landscapes of my imagination. **"** 
 
-## LEYA - Corners
+## [LEYA](https://leya.bandcamp.com/album/i-forget-everything) - Corners
 
 ImaCrea: **"** It's been a while since I last listened to LEYA. I remember I discovered them thanks to Sarah, who made an episode with them. What a beauty - go listen to it afterwards(!). Somehow, listening to William's music reminded me of them, and what a great surprise to see they recently released a new album, *[I Forget Everything](https://leya.bandcamp.com/album/i-forget-everything)*. I'm just discovering it, so it will take a few listening sessions to fully embrace it, but *Corners* has already hit me deep. **"** 
 
-## Marina Herlop - Babel
+## [Marina Herlop](https://marinaherlop.bandcamp.com/album/nekkuja) - Babel
 
 ImaCrea: **"** I'm captivated by the way this track begins. Marina Herlop's music has a
  unique quality that's both refreshingly new and warmly familiar. She 
 strikes a perfect balance, guiding us towards uncharted 
 territories while keeping her audience firmly grounded. This delicate equilibrium is a hallmark of her artistry, and it's what makes her music so compelling and rewarding to listen to. **"** 
 
-## Patricia Wolf - Nocturnal Migration
+## [Patricia Wolf](https://patriciawolf.bandcamp.com/album/the-secret-lives-of-birds) - Nocturnal Migration
 
 ImaCrea: **"** Patricia Wolf is back with a new tape, *[The Secret Lives of Birds](https://patriciawolf.bandcamp.com/album/the-secret-lives-of-birds)*, a vast and enveloping soundscape where synth waves travel through the sky with birds.I love how she's interrogating the possibilities of music and sound recording as a vessel to re-ignite our lost sensitivities to the living. I find that this track can be just as interesting as a closing or opening track, and it works very well when listening to the episode on repeat.. If you discover Patricia Wolf's work, here's [the episode 514 ](https://www.mailta.pe/514/patricia-wolf/)where I was honored to have her as a guest. **"** 
 
- Thank you...
+That's it for this morning. Thank you for listening and much love to William Ryan Fritch, for sharing these very soothing and inspiring tracks. And many thanks to Noémie for this illustration that brings light and warmth.
