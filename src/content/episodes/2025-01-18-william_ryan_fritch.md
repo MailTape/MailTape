@@ -62,7 +62,7 @@ Listening to this track feels to me like going for a walk. It refreshes my mind 
 
 ## LEYA - Corners
 
-ImaCrea: **"** Been a while I didn't listen to LEYA. I remember I discovered them thanks to Sarah who made an episode with them. What a beauty, go listen to it after(!). Somehow, listening to William's music reminded me of them and what a great surprise to see they released recently a new album, *[I Forget Everything](https://leya.bandcamp.com/album/i-forget-everything)*. I'm just discovering it so it will take a few listening session to fully embrace it, but Corners has already hit me deep. There's hope. **"** 
+ImaCrea: **"** Been a while I didn't listen to LEYA. I remember I discovered them thanks to Sarah who made an episode with them. What a beauty, go listen to it after(!). Somehow, listening to William's music reminded me of them and what a great surprise to see they released recently a new album, *[I Forget Everything](https://leya.bandcamp.com/album/i-forget-everything)*. I'm just discovering it so it will take a few listening sessions to fully embrace it, but Corners has already hit me deep. There's hope. **"** 
 
 ## Marina Herlop - Babel
 
