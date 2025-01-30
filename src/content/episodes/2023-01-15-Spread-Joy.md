@@ -16,13 +16,13 @@ track3_title: Devon Rexi - Human Snax
 track3_color: vibrant
 track4_title: Spread Joy - Repetition
 track4_color: vibrant
-track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/513/track1.m4a
-track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/513/track2.mp3
-track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/513/track3.mp3
-track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/513/track4.mp3
-track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/513/track5.m4a
-track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/513/track6.mp3
-track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/513/track7.mp3
+track1_link: https://mtsounds.web.deuxfleurs.fr/513/track1.m4a
+track2_link: https://mtsounds.web.deuxfleurs.fr/513/track2.mp3
+track3_link: https://mtsounds.web.deuxfleurs.fr/513/track3.mp3
+track4_link: https://mtsounds.web.deuxfleurs.fr/513/track4.mp3
+track5_link: https://mtsounds.web.deuxfleurs.fr/513/track5.m4a
+track6_link: https://mtsounds.web.deuxfleurs.fr/513/track6.mp3
+track7_link: https://mtsounds.web.deuxfleurs.fr/513/track7.mp3
 track5_title: Shira Small - My Life's Alright
 track5_color: dreamy
 track6_title: Mandy, Indiana - Nike of Samothrace

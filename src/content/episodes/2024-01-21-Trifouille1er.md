@@ -9,13 +9,13 @@ category: '544'
 guest_name: Trifouille1er
 guest_color: vibrant
 guestPic: guestPic544.png
-track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/544/track1.mp3
-track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/544/track2.mp3
-track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/544/track3.mp3
-track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/544/track4.mp3
-track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/544/track5.mp3
-track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/544/track6.mp3
-track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/544/track7.mp3
+track1_link: https://mtsounds.web.deuxfleurs.fr/544/track1.mp3
+track2_link: https://mtsounds.web.deuxfleurs.fr/544/track2.mp3
+track3_link: https://mtsounds.web.deuxfleurs.fr/544/track3.mp3
+track4_link: https://mtsounds.web.deuxfleurs.fr/544/track4.mp3
+track5_link: https://mtsounds.web.deuxfleurs.fr/544/track5.mp3
+track6_link: https://mtsounds.web.deuxfleurs.fr/544/track6.mp3
+track7_link: https://mtsounds.web.deuxfleurs.fr/544/track7.mp3
 track1_title: Dance place garage - Mauskovic dance band
 track2_title: Always Du - Siriusmo
 track3_title: Cake - Ivy Lab

@@ -7,14 +7,14 @@ illustrator: Thibault Daumain
 category: '451'
 guest_name: Mathilde Fernandez
 guest_color: bliss
-track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/451/track3.mp3
-track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/451/track1.mp3
-track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/451/track2.mp3
-track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/451/track4.mp3
+track3_link: https://mtsounds.web.deuxfleurs.fr/451/track3.mp3
+track1_link: https://mtsounds.web.deuxfleurs.fr/451/track1.mp3
+track2_link: https://mtsounds.web.deuxfleurs.fr/451/track2.mp3
+track4_link: https://mtsounds.web.deuxfleurs.fr/451/track4.mp3
 writer: ImaCrea
-track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/451/track5.mp3
-track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/451/track6.mp3
-track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/451/track7.mp3
+track5_link: https://mtsounds.web.deuxfleurs.fr/451/track5.mp3
+track6_link: https://mtsounds.web.deuxfleurs.fr/451/track6.mp3
+track7_link: https://mtsounds.web.deuxfleurs.fr/451/track7.mp3
 track2_title: Nuova Compagnia di Canto Popolare - 2 coro delle lavendaire 1998
 track1_title: Mansfield TYA - Ni Morte, Ni Connue
 track3_title: Zinda Reinhardt - Troumli

@@ -8,12 +8,12 @@ writer: Sanjay Mistry
 category: '311'
 guest_name: Tamar Osborn
 guest_color: dreamy
-track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/311/track1.mp3
-track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/311/track2.mp3
-track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/311/track3.mp3
-track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/311/track4.mp3
-track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/311/track6.mp3
-track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/311/track5.mp3
+track1_link: https://mtsounds.web.deuxfleurs.fr/311/track1.mp3
+track2_link: https://mtsounds.web.deuxfleurs.fr/311/track2.mp3
+track3_link: https://mtsounds.web.deuxfleurs.fr/311/track3.mp3
+track4_link: https://mtsounds.web.deuxfleurs.fr/311/track4.mp3
+track6_link: https://mtsounds.web.deuxfleurs.fr/311/track6.mp3
+track5_link: https://mtsounds.web.deuxfleurs.fr/311/track5.mp3
 track1_title: 'Khyam Allami – Tawazon I: Balance خيّام اللامي - توازن'
 track1_color: bliss
 track2_title: Aditya Prakash Ensemble – Untruth to Truth
@@ -29,7 +29,7 @@ track6_color: dreamy
 track7_title: Cecil Taylor Quartet – African Violets
 track7_color: trippy
 episode_URL: http://mailta.pe/311/collocutor/
-track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/311/track7.mp3
+track7_link: https://mtsounds.web.deuxfleurs.fr/311/track7.mp3
 guestPic: guestPic311.jpg
 musiColor: musiColor311.png
 image: https://mailta.pe/img/fbPic311.jpg

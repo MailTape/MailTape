@@ -7,9 +7,9 @@ track1_color: vibrant
 track1_title: Beck - Devil's Haircut
 track2_title: Armando - Don't Take It
 track3_title: Prince - Sign of the Times
-track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/499/track3.mp3
-track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/499/track2.mp3
-track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/499/track1.mp3
+track3_link: https://mtsounds.web.deuxfleurs.fr/499/track3.mp3
+track2_link: https://mtsounds.web.deuxfleurs.fr/499/track2.mp3
+track1_link: https://mtsounds.web.deuxfleurs.fr/499/track1.mp3
 track3_color: vibrant
 track4_title: Bolis Pupul - Neon Buddha
 track4_color: trippy
@@ -21,16 +21,16 @@ guest_name: Bolis Pupul
 guest_color: trippy
 track6_color: trippy
 track6_title: Charlotte Adigéry & Bolis Pupul - It Hit Me
-track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/499/track6.mp3
+track6_link: https://mtsounds.web.deuxfleurs.fr/499/track6.mp3
 track5_color: vibrant
 track7_color: vibrant
 guestPic: guestPic499.jpg
 image: https://mailta.pe/img/fbPic499.png
 track5_title: Underground System - Desnuda
 track7_title: Walter Astral - L'eau
-track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/499/track4.mp3
-track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/499/track5.mp3
-track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/499/track7.mp3
+track4_link: https://mtsounds.web.deuxfleurs.fr/499/track4.mp3
+track5_link: https://mtsounds.web.deuxfleurs.fr/499/track5.mp3
+track7_link: https://mtsounds.web.deuxfleurs.fr/499/track7.mp3
 description: 'This morning, we''re overjoyed to welcome Bolis Pupul to MailTape. Based in Belgium, Bolis joins us after releasing his debut album with Charlotte Adigéry, Tropical Dancer. Blending house, rock, RnB, and techno, the duo uses their music as a vehicle to ignite conversations on heavier topics, particularly in their commentaries on racism, homophobia, and mysogyny. '
 episode_URL: http://mailta.pe/499/Bolis-Pupul/
 musiColor: musiColor499.png

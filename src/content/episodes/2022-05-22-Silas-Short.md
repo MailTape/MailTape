@@ -19,17 +19,17 @@ track5_color: vibrant
 track6_color: dreamy
 track7_color: bliss
 guestPic: guestPic494.jpg
-track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/494/track1.mp3
-track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/494/track2.mp3
-track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/494/track3.mp3
-track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/494/track4.mp3
+track1_link: https://mtsounds.web.deuxfleurs.fr/494/track1.mp3
+track2_link: https://mtsounds.web.deuxfleurs.fr/494/track2.mp3
+track3_link: https://mtsounds.web.deuxfleurs.fr/494/track3.mp3
+track4_link: https://mtsounds.web.deuxfleurs.fr/494/track4.mp3
 track4_title: Silas Short - Drawing
 track5_title: Quelle Chris - Alive Ain't Always Living
 track6_title: Charles Stepney - Step on Step
 track7_title: Georgia Anne Muldrow - Slow Drag
-track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/494/track5.mp3
-track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/494/track6.mp3
-track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/494/track7.mp3
+track5_link: https://mtsounds.web.deuxfleurs.fr/494/track5.mp3
+track6_link: https://mtsounds.web.deuxfleurs.fr/494/track6.mp3
+track7_link: https://mtsounds.web.deuxfleurs.fr/494/track7.mp3
 musiColor: musiColor494.png
 episode_URL: http://mailta.pe/494/Silas-Short/
 description: This morning we’re in excellent company with Silas Short from the legendary Stones Throw Record family. Young and very talented, his debut EP, “Drawing”, develops a rich soundscape carved with his very own signature. We’re very honored to have him with us today and pleased to share that pleasure with you. Let’s groove.

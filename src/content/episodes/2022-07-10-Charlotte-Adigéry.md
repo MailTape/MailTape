@@ -21,18 +21,18 @@ track7_color: bliss
 track4_color: vibrant
 track5_color: trippy
 track6_color: trippy
-track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/500/track1.mp3
-track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/500/track2.mp3
-track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/500/track3.mp3
-track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/500/track4.mp3
+track1_link: https://mtsounds.web.deuxfleurs.fr/500/track1.mp3
+track2_link: https://mtsounds.web.deuxfleurs.fr/500/track2.mp3
+track3_link: https://mtsounds.web.deuxfleurs.fr/500/track3.mp3
+track4_link: https://mtsounds.web.deuxfleurs.fr/500/track4.mp3
 musiColor: musiColor500.png
-track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/500/track7.mp3
+track7_link: https://mtsounds.web.deuxfleurs.fr/500/track7.mp3
 image: https://mailta.pe/img/fbPic500.png
 episode_URL: http://mailta.pe/500/Charlotte-Adigéry/
 track5_title: Pierre Barouh - Le Pollen
 track6_title: Say She She - Blow My Mind
-track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/500/track5.mp3
-track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/500/track6.mp3
+track5_link: https://mtsounds.web.deuxfleurs.fr/500/track5.mp3
+track6_link: https://mtsounds.web.deuxfleurs.fr/500/track6.mp3
 description: Our 500th episode of MailTape this morning!! This year and since 2012, we've welcomed so many wonderful guests, sharing love for music with our loyal listeners every Sunday. It's hard not to feel sentimental with this special project of bringing music into peoples' hearts. We hope you've loved these moments as much as we have, cheers to the next 500 :)
 pubDate: '2022-07-10'
 ---

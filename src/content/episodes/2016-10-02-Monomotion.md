@@ -13,16 +13,16 @@ track4_title: Monomotion - Blue Hell Island
 episode_URL: 'https://mailta.pe/228/Monomotion/'
 image: https://mailta.pe/img/fbPic228.jpg
 musiColor: musiColor228.png
-track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/228/track1.mp3'
+track1_link: 'https://mtsounds.web.deuxfleurs.fr/228/track1.mp3'
 track1_title: Stormzy - Shut Up
 track3_title: FEYNMAN - The Farewell Courtyard
 track1_color: bliss
-track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/228/track3.mp3'
+track3_link: 'https://mtsounds.web.deuxfleurs.fr/228/track3.mp3'
 track2_link: 'https://mtsounds.eu-central-1.wasabisys.com/228/track2.mp3'
 track2_color: bliss
 track3_color: rough
 track4_color: bliss
-track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/missingTrack.mp3'
+track5_link: 'https://mtsounds.web.deuxfleurs.fr/missingTrack.mp3'
 track5_title: aetherworld. - Aeon of Aether
 track5_color: dreamy
 track6_link: 'https://mtsounds.eu-central-1.wasabisys.com/228/track6.mp3'

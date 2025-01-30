@@ -26,13 +26,13 @@ track7_color: bliss
 episode_URL: http://mailta.pe/532/elisabeth-klinck/
 image: https://mailta.pe/img/fbPic532.jpg
 musiColor: musiColor532.png
-track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/532/track1.mp3
-track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/532/track2.mp3
-track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/532/track3.mp3
-track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/532/track4.mp3
-track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/532/track5.mp3
-track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/532/track6.mp3
-track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/532/track7.mp3
+track1_link: https://mtsounds.web.deuxfleurs.fr/532/track1.mp3
+track2_link: https://mtsounds.web.deuxfleurs.fr/532/track2.mp3
+track3_link: https://mtsounds.web.deuxfleurs.fr/532/track3.mp3
+track4_link: https://mtsounds.web.deuxfleurs.fr/532/track4.mp3
+track5_link: https://mtsounds.web.deuxfleurs.fr/532/track5.mp3
+track6_link: https://mtsounds.web.deuxfleurs.fr/532/track6.mp3
+track7_link: https://mtsounds.web.deuxfleurs.fr/532/track7.mp3
 description: On this Sunday morning, let's venture far from the city with our guest, Elisabeth Klinck. This selection has been curated for wide open spaces, contemplation, and walking in unknown lands. It's an invitation to shift our gaze and let our attention drift as we immerse ourselves in the landscape.
 pubDate: '2023-07-16'
 ---

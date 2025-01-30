@@ -8,12 +8,12 @@ writer: Inès
 category: '264'
 guest_name: Gorgeous Bully
 guest_color: dreamy
-track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/264/track1.mp3
-track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/264/track2.mp3
-track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/264/track3.mp3
-track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/264/track7.mp3
-track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/264/track6.mp3
-track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/264/track4.mp3
+track1_link: https://mtsounds.web.deuxfleurs.fr/264/track1.mp3
+track2_link: https://mtsounds.web.deuxfleurs.fr/264/track2.mp3
+track3_link: https://mtsounds.web.deuxfleurs.fr/264/track3.mp3
+track7_link: https://mtsounds.web.deuxfleurs.fr/264/track7.mp3
+track6_link: https://mtsounds.web.deuxfleurs.fr/264/track6.mp3
+track4_link: https://mtsounds.web.deuxfleurs.fr/264/track4.mp3
 track1_title: Spinning Coin - Albany
 track2_title: songsforwalter - Useless
 track1_color: bliss
@@ -27,7 +27,7 @@ track7_title: Aldous RH - Feelin Blue
 track7_color: bliss
 track2_color: vibrant
 track3_color: dreamy
-track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/264/track5.mp3
+track5_link: https://mtsounds.web.deuxfleurs.fr/264/track5.mp3
 track6_title: Jimmy Whispers - (Summer in Pain)
 episode_URL: https://www.mailta.pe/264/gorgeous-bully
 description: This morning, let's have a mellow Sunday morning thanks to Gorgeous Bully's heartwarming selection. Manchester based Gorgeous Bully makes lo-fi, DIY bedroom grunge-pop tracks. Catchy, minimal and sincere, their music is striking, and welcomed in current times.

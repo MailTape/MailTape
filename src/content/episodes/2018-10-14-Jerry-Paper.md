@@ -8,12 +8,12 @@ writer: Inès
 category: '327'
 guest_name: Jerry Paper
 guest_color: trippy
-track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/327/track1.mp3
-track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/327/track3.mp3
-track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/327/track4.mp3
-track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/327/track5.mp3
-track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/327/track6.mp3
-track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/327/track7.mp3
+track1_link: https://mtsounds.web.deuxfleurs.fr/327/track1.mp3
+track3_link: https://mtsounds.web.deuxfleurs.fr/327/track3.mp3
+track4_link: https://mtsounds.web.deuxfleurs.fr/327/track4.mp3
+track5_link: https://mtsounds.web.deuxfleurs.fr/327/track5.mp3
+track6_link: https://mtsounds.web.deuxfleurs.fr/327/track6.mp3
+track7_link: https://mtsounds.web.deuxfleurs.fr/327/track7.mp3
 track1_title: Matty - Every Moment I Live to Come
 track1_color: bliss
 track2_title: Noah Wall - John Cage Laughing
@@ -33,7 +33,7 @@ description: 'This morning, please welcome Jerry Paper''s eclectic selection. Hi
 episode_URL: https://www.mailta.pe/327/jerry-paper/
 image: https://mailta.pe/img/fbPic327.png
 musiColor: musiColor327.png
-track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/327/track2.mp3
+track2_link: https://mtsounds.web.deuxfleurs.fr/327/track2.mp3
 pubDate: '2018-10-14'
 ---
 This morning, please welcome [Jerry Paper](https://jerrypaper.bandcamp.com/)'s eclectic selection. Jerry Paper is Lucas Nathan, an American artist from Los Angeles. Jerry Paper's music is multi-faceted: quirky, cartoonish, dystopian, out-of-this-world, melancholic, ironic. It's witty and stays graceful at all times. Jerry Paper released their latest album two days ago, [check it out](https://www.stonesthrow.com/store/album/jerrypaper/like-a-baby). 

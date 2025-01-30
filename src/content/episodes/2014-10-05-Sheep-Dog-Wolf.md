@@ -11,13 +11,13 @@ track4_color: bliss
 track5_color: bliss
 track6_color: trippy
 track7_color: dreamy
-track1_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/154/track1.mp3"
-track2_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/154/track2.mp3"
-track3_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/154/track3.mp3"
-track4_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/154/track4.mp3"
-track5_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/154/track5.mp3"
-track6_link: "hhttps://mtsounds.s3.eu-central-1.wasabisys.com/missingTrack.mp3"
-track7_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/154/track7.mp3"
+track1_link: "https://mtsounds.web.deuxfleurs.fr/154/track1.mp3"
+track2_link: "https://mtsounds.web.deuxfleurs.fr/154/track2.mp3"
+track3_link: "https://mtsounds.web.deuxfleurs.fr/154/track3.mp3"
+track4_link: "https://mtsounds.web.deuxfleurs.fr/154/track4.mp3"
+track5_link: "https://mtsounds.web.deuxfleurs.fr/154/track5.mp3"
+track6_link: "hhttps://mtsounds.web.deuxfleurs.fr/missingTrack.mp3"
+track7_link: "https://mtsounds.web.deuxfleurs.fr/154/track7.mp3"
 category: "154"
 guest_name: "Sheep, Dog & Wolf"
 track1_title: " Baths - Ironworks"

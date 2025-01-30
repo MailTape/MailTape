@@ -26,13 +26,13 @@ track7_color: trippy
 episode_URL: 'http://mailta.pe/455/hélène-barbier/'
 image: 'https://mailta.pe/img/fbPic455.png'
 musiColor: musiColor455.png
-track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/missingTrack.mp3'
-track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/455/track1.mp3'
-track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/455/track2.mp3'
-track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/455/track3.mp3'
-track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/455/track4.mp3'
-track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/455/track5.mp3'
-track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/455/track6.mp3'
+track7_link: 'https://mtsounds.web.deuxfleurs.fr/missingTrack.mp3'
+track1_link: 'https://mtsounds.web.deuxfleurs.fr/455/track1.mp3'
+track2_link: 'https://mtsounds.web.deuxfleurs.fr/455/track2.mp3'
+track3_link: 'https://mtsounds.web.deuxfleurs.fr/455/track3.mp3'
+track4_link: 'https://mtsounds.web.deuxfleurs.fr/455/track4.mp3'
+track5_link: 'https://mtsounds.web.deuxfleurs.fr/455/track5.mp3'
+track6_link: 'https://mtsounds.web.deuxfleurs.fr/455/track6.mp3'
 ---
 
 <p id="introduction">This morning, the birds are singing, the sun is shining, and can’t shatter our joy of life. To be able to resume a “normal” life, prepare for summer holidays and stroll in the sun. It is with [Hélène Barbier](https://helenebarbier.bandcamp.com/) that we will do all those things indispensable for the survival of all.

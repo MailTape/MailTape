@@ -26,13 +26,13 @@ category: '473'
 guest_name: Souleance
 guest_color: bliss
 guestPic: guestPic473.jpg
-track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/473/track1.mp3
-track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/473/track2.mp3
-track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/473/track3.mp3
-track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/473/track4.mp3
-track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/473/track5.mp3
-track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/473/track6.mp3
-track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/473/track7.mp3
+track1_link: https://mtsounds.web.deuxfleurs.fr/473/track1.mp3
+track2_link: https://mtsounds.web.deuxfleurs.fr/473/track2.mp3
+track3_link: https://mtsounds.web.deuxfleurs.fr/473/track3.mp3
+track4_link: https://mtsounds.web.deuxfleurs.fr/473/track4.mp3
+track5_link: https://mtsounds.web.deuxfleurs.fr/473/track5.mp3
+track6_link: https://mtsounds.web.deuxfleurs.fr/473/track6.mp3
+track7_link: https://mtsounds.web.deuxfleurs.fr/473/track7.mp3
 description: This morning, the cold freezes our minds and the rain makes us feel bad. Fortunately, to chase away all its negative waves, we have the selection of the group Souleance. Smoothie, sunshine and good vibes in abundance to counter this winter that is fast approaching.
 pubDate: '2021-12-05'
 ---

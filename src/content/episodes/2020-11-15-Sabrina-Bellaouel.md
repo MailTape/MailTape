@@ -23,14 +23,14 @@ category: '425'
 guest_name: Sabrina Bellaouel
 guest_color: vibrant
 episode_URL: https://www.mailta.pe/425/sabrina-bellaouel/
-track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/425/track1.mp3
-track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/425/track2.mp3
-track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/425/track4.mp3
-track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/425/track5.mp3
-track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/425/track6.mp3
-track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/425/track7.mp3
+track1_link: https://mtsounds.web.deuxfleurs.fr/425/track1.mp3
+track2_link: https://mtsounds.web.deuxfleurs.fr/425/track2.mp3
+track4_link: https://mtsounds.web.deuxfleurs.fr/425/track4.mp3
+track5_link: https://mtsounds.web.deuxfleurs.fr/425/track5.mp3
+track6_link: https://mtsounds.web.deuxfleurs.fr/425/track6.mp3
+track7_link: https://mtsounds.web.deuxfleurs.fr/425/track7.mp3
 musiColor: musiColo425.png
-track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/425/track3.mp3
+track3_link: https://mtsounds.web.deuxfleurs.fr/425/track3.mp3
 guestPic: guestPic425.jpg
 image: https://mailta.pe/img/fbPic425.png
 description: This morning, we are delighted to welcome Franco-Algerian singer and producer, Sabrina Bellaouel, to share a sensitive selection of her favorite Sunday morning tunes with us. 2 years after her first album "Illusions" released in 2017,Sabrina Bellaouel is back with a new EP released on InFiné. Leaving for a moment her original RnB influences with "We Don't Need To Be Ennemies", she embarks on new horizons where the sweetness of the choirs meets the dark bass of techno rhythms. And as we follow the producer on this journey full of different emotions, it is a sensitive and rich breathing that remains in our ears. Showing once again that her music is unclassifiable, Sabrina Bellaouel has recently made a comeback on the traces of RnB in a dreamlike style and beyond musical borders with her latest track "The Build Up" from her future EP "Libra".

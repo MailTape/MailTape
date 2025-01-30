@@ -27,13 +27,13 @@ track7_title: 'La Colonie De Vacances - Alex Weir '
 track2_title: Horse Lords - Against Gravity
 track3_title: The Necks - Rum Jungle
 track1_title: Laddio Bolocko - Goat Lips
-track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/506/track1.mp3
-track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/506/track2.mp3
-track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/506/track3.mp3
-track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/506/track4.mp3
-track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/506/track5.mp3
-track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/506/track6.mp3
-track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/506/track7.mp3
+track1_link: https://mtsounds.web.deuxfleurs.fr/506/track1.mp3
+track2_link: https://mtsounds.web.deuxfleurs.fr/506/track2.mp3
+track3_link: https://mtsounds.web.deuxfleurs.fr/506/track3.mp3
+track4_link: https://mtsounds.web.deuxfleurs.fr/506/track4.mp3
+track5_link: https://mtsounds.web.deuxfleurs.fr/506/track5.mp3
+track6_link: https://mtsounds.web.deuxfleurs.fr/506/track6.mp3
+track7_link: https://mtsounds.web.deuxfleurs.fr/506/track7.mp3
 pubDate: '2022-11-20'
 ---
  This morning, we shake up codes, habits and routine. We will experience music in different ways, touch it, feel it, see it in such a way that it transcends us, disturbs us, shakes us...

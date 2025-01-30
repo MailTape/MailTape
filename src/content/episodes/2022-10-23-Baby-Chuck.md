@@ -13,10 +13,10 @@ track1_title: Ryan Sambol - You're Still Lovable to Someone
 track2_title: Yves Tumor - Secrecy is Incredibly Important to Both of Them
 track3_title: MJ Lederman & Wednesday - Phish Pepsi (feat. Advance Base)
 track4_title: Baby Chuck - October, 500 B.C.
-track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/502/track1.mp3
-track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/502/track2.mp3
-track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/502/track3.mp3
-track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/502/track4.mp3
+track1_link: https://mtsounds.web.deuxfleurs.fr/502/track1.mp3
+track2_link: https://mtsounds.web.deuxfleurs.fr/502/track2.mp3
+track3_link: https://mtsounds.web.deuxfleurs.fr/502/track3.mp3
+track4_link: https://mtsounds.web.deuxfleurs.fr/502/track4.mp3
 track1_color: dreamy
 track2_color: vibrant
 track3_color: vibrant
@@ -24,11 +24,11 @@ track4_color: dreamy
 track5_color: dreamy
 track6_color: vibrant
 track7_color: vibrant
-track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/502/track6.mp3
-track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/502/track7.mp3
+track6_link: https://mtsounds.web.deuxfleurs.fr/502/track6.mp3
+track7_link: https://mtsounds.web.deuxfleurs.fr/502/track7.mp3
 track7_title: JayWood - Shine (feat Mckinley Dixon)
 track6_title: Sofie Royer - Schweden Espresso
-track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/502/track5.mp3
+track5_link: https://mtsounds.web.deuxfleurs.fr/502/track5.mp3
 track5_title: Nice Biscuit - Round and Round
 episode_URL: http://mailta.pe/502/Baby-Chuck/
 description: This morning, we're delighted to welcome Baby Chuck to MailTape for an eclectic collection that'll jump start your day. Based in Los Angeles, Baby Chuck (Matt O'Keefe) joins us a month after releasing his most recent album, Warm Infinity. The release examines the essence of memories and the varied nostalgia they bring.

@@ -16,19 +16,19 @@ track4_title: NxQuantize - OnYi
 track5_title: modest by default - 你带着太阳的热量
 track6_title: Natural Wonder Beauty Concept - Natural Wonder Beauty Concept
 track7_title: Oneohtrix Point Never - Ubiquity Road
-track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/540/track1.mp3
+track1_link: https://mtsounds.web.deuxfleurs.fr/540/track1.mp3
 track1_color: bliss
-track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/540/track2.mp3
+track2_link: https://mtsounds.web.deuxfleurs.fr/540/track2.mp3
 track2_color: vibrant
-track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/540/track3.mp3
+track3_link: https://mtsounds.web.deuxfleurs.fr/540/track3.mp3
 track3_color: dreamy
 track4_color: trippy
-track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/540/track4.mp3
-track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/540/track5.mp3
+track4_link: https://mtsounds.web.deuxfleurs.fr/540/track4.mp3
+track5_link: https://mtsounds.web.deuxfleurs.fr/540/track5.mp3
 track5_color: vibrant
-track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/540/track6.mp3
+track6_link: https://mtsounds.web.deuxfleurs.fr/540/track6.mp3
 track6_color: dreamy
-track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/540/track7.mp3
+track7_link: https://mtsounds.web.deuxfleurs.fr/540/track7.mp3
 track7_color: bliss
 musiColor: musiColor540.png
 guestPic: guestPic540.jpg

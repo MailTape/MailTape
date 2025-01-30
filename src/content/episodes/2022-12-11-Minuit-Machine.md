@@ -10,25 +10,25 @@ guest_name: Minuit Machine
 guest_color: rough
 guestPic: guestPic509.png
 track1_title: Doppelhandel - Billy
-track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/509/track1.mp3
+track1_link: https://mtsounds.web.deuxfleurs.fr/509/track1.mp3
 track1_color: rough
 track2_title: Tallisker - Somewhere
-track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/509/track2.mp3
+track2_link: https://mtsounds.web.deuxfleurs.fr/509/track2.mp3
 track2_color: vibrant
 track3_title: Panterah - Discover
-track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/509/track3.mp3
+track3_link: https://mtsounds.web.deuxfleurs.fr/509/track3.mp3
 track3_color: rough
 track4_title: Minuit Machine - Contradictions
-track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/509/track4.mp3
+track4_link: https://mtsounds.web.deuxfleurs.fr/509/track4.mp3
 track4_color: rough
 track5_title: Fever Ray - Carbon Dioxide
-track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/509/track5.mp3
+track5_link: https://mtsounds.web.deuxfleurs.fr/509/track5.mp3
 track5_color: rough
 track6_title: Flèche Love - Mitote
-track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/509/track6.mp3
+track6_link: https://mtsounds.web.deuxfleurs.fr/509/track6.mp3
 track6_color: bliss
 track7_title: Dawuna - Baby Boy
-track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/509/track7.mp3
+track7_link: https://mtsounds.web.deuxfleurs.fr/509/track7.mp3
 track7_color: trippy
 episode_URL: http://mailta.pe/509/Minuit-Machine/
 description: This morning, we're not letting winter take our energy. It's cold but our hearts are warmer than ever. And with Minuit Machine as our guests, prepare for a journey through a selection of energetic and cathartic tracks. Open, open, open, make a big O and keep searching.

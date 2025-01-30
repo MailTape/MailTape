@@ -8,14 +8,14 @@ writer: Anaïs G
 category: '344'
 guest_name: Tomemitsu
 guest_color: dreamy
-track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/344/track2.mp3
-track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/344/Track%203.mp3
-track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/344/track4.mp3
+track2_link: https://mtsounds.web.deuxfleurs.fr/344/track2.mp3
+track3_link: https://mtsounds.web.deuxfleurs.fr/344/Track%203.mp3
+track4_link: https://mtsounds.web.deuxfleurs.fr/344/track4.mp3
 track4_color: dreamy
 track3_color: bliss
 track1_color: vibrant
-track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/344/track6.mp3
-track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/344/track7.mp3
+track6_link: https://mtsounds.web.deuxfleurs.fr/344/track6.mp3
+track7_link: https://mtsounds.web.deuxfleurs.fr/344/track7.mp3
 track7_color: trippy
 track6_color: dreamy
 track5_color: vibrant
@@ -28,8 +28,8 @@ track3_title: João Gilberto - Chega de Saudade
 track2_color: trippy
 track2_title: Harald Grosskopf - Synthesist
 track1_title: Sam Cooke and The Soul Stirrers - Christ it All
-track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/344/Track%201.mp3
-track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/344/Track%205.mp3
+track1_link: https://mtsounds.web.deuxfleurs.fr/344/Track%201.mp3
+track5_link: https://mtsounds.web.deuxfleurs.fr/344/Track%205.mp3
 guestPic: guestPic344.jpg
 image: https://mailta.pe/img/fbPic344.png
 description: 'This morning, like a divine light coming from nowhere, caressing our bodies, music moves us, borders us with our fingertips and astonishes us. Differentiated by its infinity, by these genres and multiple styles, it transports the spirits to take them into parallel worlds, this is what Tomemitsu shares with us this Sunday morning through a high selection in musical color.  '

@@ -14,9 +14,9 @@ track2_title: Peaches - AA XXX
 track3_title: Das Kinn - Das Kinn
 track2_color: vibrant
 track3_color: rough
-track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/487/track3.mp3
-track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/487/track2.mp3
-track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/487/track1.mp3
+track3_link: https://mtsounds.web.deuxfleurs.fr/487/track3.mp3
+track2_link: https://mtsounds.web.deuxfleurs.fr/487/track2.mp3
+track1_link: https://mtsounds.web.deuxfleurs.fr/487/track1.mp3
 track1_color: trippy
 track4_color: trippy
 track5_color: vibrant
@@ -28,11 +28,11 @@ episode_URL: http://mailta.pe/487/Vimala-Pons/
 track4_title: Vimala Pons - Eusapia Klane Remembers
 track6_title: Emily Wells - Love Saves The Day
 track5_title: Boy Harsher - Tears
-track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/487/track4.mp3
-track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/487/track5.mp3
-track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/487/track6.mp3
+track4_link: https://mtsounds.web.deuxfleurs.fr/487/track4.mp3
+track5_link: https://mtsounds.web.deuxfleurs.fr/487/track5.mp3
+track6_link: https://mtsounds.web.deuxfleurs.fr/487/track6.mp3
 track7_title: Antoine Bellanger - Il se frotte contre l'écorce et de son bras coule l'étoile.
-track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/487/track7.mp3
+track7_link: https://mtsounds.web.deuxfleurs.fr/487/track7.mp3
 description: This morning, we're very pleased to welcome Vimala Pons as our guest for a very eclectic selection. Expect here an energizing cocktail filled with all colors we have, exactly what's needed to start spring well and fully alive.
 pubDate: '2022-03-27'
 ---

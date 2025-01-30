@@ -23,13 +23,13 @@ track5_color: vibrant
 track1_title: Joep Franssens -  First Movement
 track2_title: K. Leimer - All Sad Days
 track3_title: Lilian Becker - Cadendo
-track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/470/track1.mp3
-track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/470/track2.mp3
-track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/470/track3.mp3
-track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/470/track4.mp3
-track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/470/track5.mp3 '
-track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/470/track6.mp3
-track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/470/track7.mp3
+track1_link: https://mtsounds.web.deuxfleurs.fr/470/track1.mp3
+track2_link: https://mtsounds.web.deuxfleurs.fr/470/track2.mp3
+track3_link: https://mtsounds.web.deuxfleurs.fr/470/track3.mp3
+track4_link: https://mtsounds.web.deuxfleurs.fr/470/track4.mp3
+track5_link: 'https://mtsounds.web.deuxfleurs.fr/470/track5.mp3 '
+track6_link: https://mtsounds.web.deuxfleurs.fr/470/track6.mp3
+track7_link: https://mtsounds.web.deuxfleurs.fr/470/track7.mp3
 episode_URL: http://mailta.pe/470/remi-parson/
 image: https://mailta.pe/img/fbPic470.png
 musiColor: musiColor470.png

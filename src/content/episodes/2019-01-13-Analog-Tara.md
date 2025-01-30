@@ -8,13 +8,13 @@ writer: Sanjay Mistry
 category: '340'
 guest_name: Analog Tara
 guest_color: vibrant
-track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/340/track1.mp3
-track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/340/track2.mp3
-track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/340/track3.mp3
-track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/340/track4.mp3
-track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/340/track5.mp3
-track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/340/track6.mp3
-track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/340/track7.mp3
+track1_link: https://mtsounds.web.deuxfleurs.fr/340/track1.mp3
+track2_link: https://mtsounds.web.deuxfleurs.fr/340/track2.mp3
+track3_link: https://mtsounds.web.deuxfleurs.fr/340/track3.mp3
+track4_link: https://mtsounds.web.deuxfleurs.fr/340/track4.mp3
+track5_link: https://mtsounds.web.deuxfleurs.fr/340/track5.mp3
+track6_link: https://mtsounds.web.deuxfleurs.fr/340/track6.mp3
+track7_link: https://mtsounds.web.deuxfleurs.fr/340/track7.mp3
 track1_title: 'Sarah Vaughan – Autumn Leaves '
 track1_color: bliss
 track2_title: Moodymann – Sunday Morning

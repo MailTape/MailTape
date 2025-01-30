@@ -15,16 +15,16 @@ track2_color: bliss
 track3_title: Jules-Henry Malaki - Tes Idées
 track3_color: vibrant
 track4_color: trippy
-track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/496/track1.mp3
+track1_link: https://mtsounds.web.deuxfleurs.fr/496/track1.mp3
 track5_color: trippy
 track6_color: bliss
 track7_color: vibrant
-track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/496/track2.mp3
-track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/496/track3.mp3
-track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/496/track4.mp3
-track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/496/track5.mp3
-track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/496/track6.mp3
-track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/496/track7.mp3
+track2_link: https://mtsounds.web.deuxfleurs.fr/496/track2.mp3
+track3_link: https://mtsounds.web.deuxfleurs.fr/496/track3.mp3
+track4_link: https://mtsounds.web.deuxfleurs.fr/496/track4.mp3
+track5_link: https://mtsounds.web.deuxfleurs.fr/496/track5.mp3
+track6_link: https://mtsounds.web.deuxfleurs.fr/496/track6.mp3
+track7_link: https://mtsounds.web.deuxfleurs.fr/496/track7.mp3
 track4_title: The Balek Band - Balek Zouk
 track5_title: Diogo Strausz - Deixa a Gira Girar
 track6_title: Paula Tape - Body Nature

@@ -19,17 +19,17 @@ track5_color: vibrant
 track6_color: bliss
 track7_color: dreamy
 guestPic: guestPic491.jpg
-track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/491/track1.mp3
-track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/491/track2.mp3
-track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/491/track3.mp3
-track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/491/track4.mp3
+track1_link: https://mtsounds.web.deuxfleurs.fr/491/track1.mp3
+track2_link: https://mtsounds.web.deuxfleurs.fr/491/track2.mp3
+track3_link: https://mtsounds.web.deuxfleurs.fr/491/track3.mp3
+track4_link: https://mtsounds.web.deuxfleurs.fr/491/track4.mp3
 track4_title: Noon Garden - Beulah Spa
 track5_title: Ayla Algan - Aşk Hikayesi
 track6_title: Alemayehu Eshete - Kènoru Ièbetchahé
 track7_title: Korng phnao , Pan Ron - Pnhaeu samnieng
-track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/491/track5.mp3
-track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/491/track6.mp3
-track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/491/track7.mp3
+track5_link: https://mtsounds.web.deuxfleurs.fr/491/track5.mp3
+track6_link: https://mtsounds.web.deuxfleurs.fr/491/track6.mp3
+track7_link: https://mtsounds.web.deuxfleurs.fr/491/track7.mp3
 musiColor: musiColor491.png
 episode_URL: http://mailta.pe/491/Noon-Garden/
 description: Today, we present a delightful selection of eclectic discoveries to welcome you into your Sunday morning. For this awakening, our dear guest Noon Garden curates a pass of vibrant tracks to add bouts of energy into these early hours.

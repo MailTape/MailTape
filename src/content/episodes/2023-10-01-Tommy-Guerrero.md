@@ -9,13 +9,13 @@ category: '536'
 guest_name: Tommy Guerrero
 guest_color: trippy
 guestPic: guestPic536.png
-track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/536/track1.mp3
-track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/536/track2.mp3
-track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/536/track3.mp3
-track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/536/track4.mp3
-track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/536/track5.mp3
-track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/536/track6.mp3
-track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/536/track7.mp3
+track1_link: https://mtsounds.web.deuxfleurs.fr/536/track1.mp3
+track2_link: https://mtsounds.web.deuxfleurs.fr/536/track2.mp3
+track3_link: https://mtsounds.web.deuxfleurs.fr/536/track3.mp3
+track4_link: https://mtsounds.web.deuxfleurs.fr/536/track4.mp3
+track5_link: https://mtsounds.web.deuxfleurs.fr/536/track5.mp3
+track6_link: https://mtsounds.web.deuxfleurs.fr/536/track6.mp3
+track7_link: https://mtsounds.web.deuxfleurs.fr/536/track7.mp3
 track1_title: Hysear Don Walker - Poo jo
 track1_color: bliss
 track2_title: Los Blonder - On The Beach

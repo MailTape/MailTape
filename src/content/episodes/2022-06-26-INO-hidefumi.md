@@ -21,14 +21,14 @@ track6_color: dreamy
 track7_color: dreamy
 guestPic: guestPic498.jpg
 image: https://mailta.pe/img/fbPic498.png
-track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/498/track1.mp3
-track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/498/track2.mp3
-track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/498/track3.mp3
+track1_link: https://mtsounds.web.deuxfleurs.fr/498/track1.mp3
+track2_link: https://mtsounds.web.deuxfleurs.fr/498/track2.mp3
+track3_link: https://mtsounds.web.deuxfleurs.fr/498/track3.mp3
 track6_title: Sachiko Kanenobu - Anata Kara Toku E (Far Away From You)
-track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/498/track6.mp3
-track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/498/track4.mp3
-track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/498/track5.mp3
-track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/498/track7.mp3
+track6_link: https://mtsounds.web.deuxfleurs.fr/498/track6.mp3
+track4_link: https://mtsounds.web.deuxfleurs.fr/498/track4.mp3
+track5_link: https://mtsounds.web.deuxfleurs.fr/498/track5.mp3
+track7_link: https://mtsounds.web.deuxfleurs.fr/498/track7.mp3
 track7_title: r mccarthy - Jyoti
 track5_title: Will Sprott - Psychic Lady
 description: '  Today, with a special joy we welcome Tokyo-based jazz and electronic artist INO hidefumi to MailTape for a morning of Sunday discoveries. Known for eclectic tastes and textured sounds, INO''s thoughtful selection offers an easy treading into the morning hours.'

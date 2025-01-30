@@ -10,25 +10,25 @@ guest_name: Patricia Wolf
 guest_color: dreamy
 guestPic: guestPic514.png
 track1_title: Carmen Villain - Portals
-track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/514/track1.mp3
+track1_link: https://mtsounds.web.deuxfleurs.fr/514/track1.mp3
 track1_color: dreamy
 track2_title: Natalie Beridze - Drift
-track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/514/track2.mp3
+track2_link: https://mtsounds.web.deuxfleurs.fr/514/track2.mp3
 track2_color: dreamy
 track3_title: UMAN - Atmosphère
-track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/514/track3.mp3
+track3_link: https://mtsounds.web.deuxfleurs.fr/514/track3.mp3
 track3_color: dreamy
 track4_title: Patricia Wolf - Springtime in Croatia
-track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/514/track4.mp3
+track4_link: https://mtsounds.web.deuxfleurs.fr/514/track4.mp3
 track4_color: dreamy
 track5_title: Adela Mede - Gyöngyvirág
-track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/514/track5.mp3
+track5_link: https://mtsounds.web.deuxfleurs.fr/514/track5.mp3
 track5_color: dreamy
 track6_title: Sam Gendel - Tate-waku (竪沸く, rising steam)
-track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/514/track6.mp3
+track6_link: https://mtsounds.web.deuxfleurs.fr/514/track6.mp3
 track6_color: dreamy
 track7_title: Félicia Atkinson - Image Langage
-track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/514/track7.mp3
+track7_link: https://mtsounds.web.deuxfleurs.fr/514/track7.mp3
 track7_color: dreamy
 episode_URL: http://mailta.pe/514/Patricia-Wolf/
 description: This morning, we are delighted to welcome Patricia Wolf to MailTape. Patricia is a multi-instrumentalist, composer, and producer who draws on her natural surroundings to compose her music. Embark on a pure dreamy experience, sit back, and enjoy.

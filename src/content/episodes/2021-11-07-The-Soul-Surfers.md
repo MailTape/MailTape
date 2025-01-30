@@ -23,16 +23,16 @@ guestPic: guestPic469.jpg
 image: https://mailta.pe/img/fbPic469.png
 episode_URL: http://mailta.pe/469/The-Soul-Surfers/
 track4_title: Janko Nilovic and The Soul Surfers - Maze of Sounds Alternate Take
-track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/469/track1.mp3
-track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/469/track2.mp3
-track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/469/track3.mp3
-track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/469/track4.mp3
-track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/469/track5.mp3
+track1_link: https://mtsounds.web.deuxfleurs.fr/469/track1.mp3
+track2_link: https://mtsounds.web.deuxfleurs.fr/469/track2.mp3
+track3_link: https://mtsounds.web.deuxfleurs.fr/469/track3.mp3
+track4_link: https://mtsounds.web.deuxfleurs.fr/469/track4.mp3
+track5_link: https://mtsounds.web.deuxfleurs.fr/469/track5.mp3
 track5_title: The Soul Surfers, Shawn Lee - Time Is A Gun
 track7_title: Africa Express - Morals
 track6_title: The Natural Yogurt Band - 57 Lashes of the Mallet
-track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/469/track6.mp3
-track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/469/track7.mp3
+track6_link: https://mtsounds.web.deuxfleurs.fr/469/track6.mp3
+track7_link: https://mtsounds.web.deuxfleurs.fr/469/track7.mp3
 description: '  This morning, we are delighted to welcome The Soul Surfers to MailTape for a collection of experimental and exploratory tracks. Led by drummer Igor Zhukovsky, the modern funk band hails from Niznhny Novgorod, Russia. The Soul Surfers craft many exciting albums and collaborations, including with Janko Nilovic for the 2021 album, Maze of Sounds. Their selection mirrors much of their own music, exploring the interesting spaces of synth and funk fusions.'
 pubDate: '2021-11-07'
 ---

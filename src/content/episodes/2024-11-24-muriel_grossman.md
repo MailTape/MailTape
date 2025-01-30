@@ -10,25 +10,25 @@ illustrator: Camille Célestin
 writer: Anto
 track1_title: Dexter Gordon - Ca'Purange
 track1_color: vibrant
-track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/567/track1.mp3
+track1_link: https://mtsounds.web.deuxfleurs.fr/567/track1.mp3
 track2_title: Cannonball Adderley - 74 Miles Away
 track2_color: rough
-track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/567/track2.mp3
+track2_link: https://mtsounds.web.deuxfleurs.fr/567/track2.mp3
 track3_title: Wayne Shorter - Wind
 track3_color: trippy
-track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/567/track3.mp3
+track3_link: https://mtsounds.web.deuxfleurs.fr/567/track3.mp3
 track4_title: Muriel Grossman - Unison Unveiled
 track4_color: bliss
-track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/567/track4.mp3
+track4_link: https://mtsounds.web.deuxfleurs.fr/567/track4.mp3
 track5_title: Cochemea -Curandera
 track5_color: trippy
-track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/567/track5.mp3
+track5_link: https://mtsounds.web.deuxfleurs.fr/567/track5.mp3
 track6_title: "Nubya Garcia - A Shade Of Jade "
 track6_color: bliss
-track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/567/track6.mp3
+track6_link: https://mtsounds.web.deuxfleurs.fr/567/track6.mp3
 track7_title: Manu Dibango - Frozen Soul
 track7_color: vibrant
-track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/567/track7.mp3
+track7_link: https://mtsounds.web.deuxfleurs.fr/567/track7.mp3
 description: >-
   This morning we're playing jazz! And to be more precise, we offer you
 

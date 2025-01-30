@@ -9,12 +9,12 @@ category: '409'
 guest_name: Endless Forms
 guest_color: dreamy
 guestPic: guestPic409.jpg
-track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/409/track1.mp3
-track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/409/track3.mp3
+track1_link: https://mtsounds.web.deuxfleurs.fr/409/track1.mp3
+track3_link: https://mtsounds.web.deuxfleurs.fr/409/track3.mp3
 track1_color: dreamy
-track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/409/track4.mp3
-track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/409/track5.mp3
-track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/409/track6.mp3
+track4_link: https://mtsounds.web.deuxfleurs.fr/409/track4.mp3
+track5_link: https://mtsounds.web.deuxfleurs.fr/409/track5.mp3
+track6_link: https://mtsounds.web.deuxfleurs.fr/409/track6.mp3
 track6_color: bliss
 track6_title: serpentwithfeet - A Comma
 track5_color: dreamy
@@ -31,8 +31,8 @@ track2_title: Arcade Fire - Haiti
 track2_color: vibrant
 track3_title: 'Sigur Rós - Untitled # 2 (Fyrsta)'
 track3_color: rough
-track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/409/track2.mp3
-track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/409/track7.mp3
+track2_link: https://mtsounds.web.deuxfleurs.fr/409/track2.mp3
+track7_link: https://mtsounds.web.deuxfleurs.fr/409/track7.mp3
 description: We are so excited to welcome [Endless Forms] to select a Sunday morning playlist with us. Endless Forms constructs ebbs and flows of intensity through his instrumentals, all as a backdrop to his intricate and powerful lyricism. His entire album, More Than Candy, plays as an epic of self examination and discovery, with each song effortlessly feeding into the next. This week has brought heaviness onto all of our shoulders. We curated this selection with the goal of giving you head space to reflect and also to heal.
 pubDate: '2020-06-07'
 ---

@@ -17,22 +17,22 @@ track1_title: Daniel Rossen - Saint Nothing
 track1_color: vibrant
 track4_title: Northwest - All Of A Sudden
 track4_color: vibrant
-track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/missingTrack.mp3'
-track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/missingTrack.mp3'
+track4_link: 'https://mtsounds.web.deuxfleurs.fr/missingTrack.mp3'
+track5_link: 'https://mtsounds.web.deuxfleurs.fr/missingTrack.mp3'
 track5_title: Cat Power - Sea Of Love
 track5_color: bliss
-track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/missingTrack.mp3'
+track6_link: 'https://mtsounds.web.deuxfleurs.fr/missingTrack.mp3'
 track6_title: Fleet Foxes - For A Week Or Two
 track6_color: vibrant
-track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/missingTrack.mp3'
+track7_link: 'https://mtsounds.web.deuxfleurs.fr/missingTrack.mp3'
 track7_title: 'Foxtrott - Intuition '
 track7_color: vibrant
 episode_URL: 'http://mailta.pe/448/northwest/'
 image: 'https://mailta.pe/img/fbPic448.png'
 musiColor: musiColor448.png
-track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/448/track1.mp3'
-track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/448/track2.mp3'
-track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/448/track3.mp3'
+track1_link: 'https://mtsounds.web.deuxfleurs.fr/448/track1.mp3'
+track2_link: 'https://mtsounds.web.deuxfleurs.fr/448/track2.mp3'
+track3_link: 'https://mtsounds.web.deuxfleurs.fr/448/track3.mp3'
 description: >-
   This morning,we enter into a contemplative meditation. We enter into a kind of
   emotional trance, taking with us contemporary music, aerial, even lyrical. We

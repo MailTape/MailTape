@@ -13,9 +13,9 @@ track5_color: vibrant
 track5_title: 'Myth Syzer - Je suis venu te dire que je m''en vais '
 track4_color: dreamy
 track4_title: Bonnie Banane - Flash
-track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/430/track7.mp3
-track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/430/track6.mp3
-track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/430/track5.mp3
+track7_link: https://mtsounds.web.deuxfleurs.fr/430/track7.mp3
+track6_link: https://mtsounds.web.deuxfleurs.fr/430/track6.mp3
+track5_link: https://mtsounds.web.deuxfleurs.fr/430/track5.mp3
 guestPic: guestPic430.jpg
 guest_color: trippy
 guest_name: Bonnie Banane
@@ -23,10 +23,10 @@ category: '430'
 writer: Anaïs G
 illustrator: Thibault Daumain
 author: Anaïs G
-track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/430/track1.mp3
-track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/430/track2.mp3
-track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/430/track3.mp3
-track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/430/track4.mp3
+track1_link: https://mtsounds.web.deuxfleurs.fr/430/track1.mp3
+track2_link: https://mtsounds.web.deuxfleurs.fr/430/track2.mp3
+track3_link: https://mtsounds.web.deuxfleurs.fr/430/track3.mp3
+track4_link: https://mtsounds.web.deuxfleurs.fr/430/track4.mp3
 track1_title: MonoNeon – I'm a raggedy bitch but my heart is amazing
 track1_color: bliss
 track2_title: Brigitte Bardot – C'est rigolo

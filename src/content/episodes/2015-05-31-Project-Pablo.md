@@ -12,13 +12,13 @@ track4_color: bliss
 track5_color: rough
 track6_color: dreamy
 track7_color: rough
-track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/188/track1.mp3
-track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/188/track2.mp3
-track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/188/track3.mp3
-track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/188/track4.mp3
-track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/188/track5.mp3
-track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/188/track6.mp3
-track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/188/track7.mp3
+track1_link: https://mtsounds.web.deuxfleurs.fr/188/track1.mp3
+track2_link: https://mtsounds.web.deuxfleurs.fr/188/track2.mp3
+track3_link: https://mtsounds.web.deuxfleurs.fr/188/track3.mp3
+track4_link: https://mtsounds.web.deuxfleurs.fr/188/track4.mp3
+track5_link: https://mtsounds.web.deuxfleurs.fr/188/track5.mp3
+track6_link: https://mtsounds.web.deuxfleurs.fr/188/track6.mp3
+track7_link: https://mtsounds.web.deuxfleurs.fr/188/track7.mp3
 track1_title: Florian Kupfer ~ SAD 001 A
 track2_title: Florist - Marine Drive
 track3_title: Infamous Boogieman ~ Revenge Tactics

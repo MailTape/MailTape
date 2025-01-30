@@ -10,25 +10,25 @@ guest_name: Alligator
 guest_color: vibrant
 track1_title: Cruisin' Gang - My Man
 track1_color: vibrant
-track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/482/track1.mp3
+track1_link: https://mtsounds.web.deuxfleurs.fr/482/track1.mp3
 track2_title: Sister Irene O'Connor - Mass 'Emmanuel'
 track2_color: bliss
-track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/482/track2.mp3
+track2_link: https://mtsounds.web.deuxfleurs.fr/482/track2.mp3
 track3_title: Cate Le Bon - Home to You
 track3_color: dreamy
-track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/482/track3.mp3
+track3_link: https://mtsounds.web.deuxfleurs.fr/482/track3.mp3
 track4_title: Alligator - Dance hall
 track4_color: vibrant
-track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/482/track4.mp3
+track4_link: https://mtsounds.web.deuxfleurs.fr/482/track4.mp3
 track5_title: Kadhja Bonet - For You (Many Selves Version)
 track5_color: bliss
-track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/482/track5.mp3
+track5_link: https://mtsounds.web.deuxfleurs.fr/482/track5.mp3
 track6_title: Jacques - Partout
 track6_color: trippy
-track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/482/track6.mp3
+track6_link: https://mtsounds.web.deuxfleurs.fr/482/track6.mp3
 track7_title: Ibibio Sound Machine - Electricity
 track7_color: vibrant
-track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/482/track7.mp3
+track7_link: https://mtsounds.web.deuxfleurs.fr/482/track7.mp3
 image: https://mailta.pe/img/fbPic482.jpg
 episode_URL: http://mailta.pe/482/Alligator/
 musiColor: musiColor482.png

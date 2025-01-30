@@ -6,10 +6,10 @@ author: Anaïs G
 illustrator: Anthony Dujardin
 writer: Anaïs G
 guest_name: Miel de Montagne
-track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/352/track7.mp3
-track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/352/track6.mp3
-track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/352/track5.mp3
-track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/352/track4.mp3
+track7_link: https://mtsounds.web.deuxfleurs.fr/352/track7.mp3
+track6_link: https://mtsounds.web.deuxfleurs.fr/352/track6.mp3
+track5_link: https://mtsounds.web.deuxfleurs.fr/352/track5.mp3
+track4_link: https://mtsounds.web.deuxfleurs.fr/352/track4.mp3
 track4_title: Miel de Montagne - Ces Rêves
 track4_color: dreamy
 track5_title: Serge Gainsbourg - Melody Nelson ( Molécule Remix)
@@ -27,9 +27,9 @@ track3_color: vibrant
 category: '352'
 episode_URL: http://mailta.pe/352/Miel-de-Montagne
 guest_color: dreamy
-track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/352/Track%201.mp3
-track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/352/Track%202.mp3
-track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/352/Track%203.mp3
+track1_link: https://mtsounds.web.deuxfleurs.fr/352/Track%201.mp3
+track2_link: https://mtsounds.web.deuxfleurs.fr/352/Track%202.mp3
+track3_link: https://mtsounds.web.deuxfleurs.fr/352/Track%203.mp3
 guestPic: guestPic352.jpg
 image: https://mailta.pe/img/fbPic352.png
 musiColor: musiColor352.png

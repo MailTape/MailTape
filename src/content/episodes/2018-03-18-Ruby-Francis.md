@@ -2,7 +2,7 @@
 
 bigTitle_font_ratio: '6'
 published: true
-track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/304/track2.mp3
+track2_link: https://mtsounds.web.deuxfleurs.fr/304/track2.mp3
 track1_title: Solo Smith —  Still In Love
 track2_title: Lion Babe — Honey Dew
 track4_title: Ruby Francis — Fall Asleep
@@ -12,12 +12,12 @@ track1_color: dreamy
 track3_color: bliss
 track2_color: vibrant
 track7_color: vibrant
-track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/304/track6.mp3
-track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/304/track7.mp3
-track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/304/track4.mp3
+track6_link: https://mtsounds.web.deuxfleurs.fr/304/track6.mp3
+track7_link: https://mtsounds.web.deuxfleurs.fr/304/track7.mp3
+track4_link: https://mtsounds.web.deuxfleurs.fr/304/track4.mp3
 track6_title: WAYI — The Way I Am
 track6_color: dreamy
-track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/304/track5.mp3
+track5_link: https://mtsounds.web.deuxfleurs.fr/304/track5.mp3
 track5_title: Still Woozy — Goodie Bag
 track5_color: vibrant
 track7_title: King Princess — Sunburn
@@ -30,8 +30,8 @@ category: '304'
 guest_name: Ruby Francis
 guest_color: dreamy
 guestPic: guestpic304ter.jpg
-track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/304/track1.mp3
-track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/304/track3.mp3
+track1_link: https://mtsounds.web.deuxfleurs.fr/304/track1.mp3
+track3_link: https://mtsounds.web.deuxfleurs.fr/304/track3.mp3
 description: This morning, we welcome London-based singer/songwriter, Ruby Francis, to collaborate with us on MailTape. Merging R&B, 80s & 90s soundscapes and incorporating traces of soul music, we hope you’re just as taken with her infectious sound as we are!
 writer: Sanjay Mistry
 pubDate: '2018-03-18'

@@ -21,16 +21,16 @@ track7_color: bliss
 image: https://mailta.pe/img/fbPic472.png
 episode_URL: http://mailta.pe/472/Maxine-Funke/
 guestPic: guestPic472.jpg
-track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/472/track1.mp3
-track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/472/track2.mp3
-track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/472/track3.mp3
-track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/472/track4.mp3
+track1_link: https://mtsounds.web.deuxfleurs.fr/472/track1.mp3
+track2_link: https://mtsounds.web.deuxfleurs.fr/472/track2.mp3
+track3_link: https://mtsounds.web.deuxfleurs.fr/472/track3.mp3
+track4_link: https://mtsounds.web.deuxfleurs.fr/472/track4.mp3
 track7_title: Maxine Funke - Homage
-track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/472/track5.mp3
-track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/472/track7.mp3
+track5_link: https://mtsounds.web.deuxfleurs.fr/472/track5.mp3
+track7_link: https://mtsounds.web.deuxfleurs.fr/472/track7.mp3
 track5_title: Luiza Brina - Garrafa ao Mar
 track6_title: Howie Lee - Birdy Island
-track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/472/track6.mp3
+track6_link: https://mtsounds.web.deuxfleurs.fr/472/track6.mp3
 description: This morning, we are delighted to welcome Maxine Funk to MailTape for a peaceful selection, crafted carefully to lift you on your way this Sunday. Based in New Zealand, multi instrumentalist Maxine Funke crafts each album with meditative care. Every release in the discography lands its own distinctive emotional exploration, at once tender and consuming.
 illustrator: Meriam Kharbat
 musiColor: ''

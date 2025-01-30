@@ -10,11 +10,11 @@ guest_name: r mccarthy
 guest_color: dreamy
 track1_title: Operating Theatre - Elation After Hours
 track1_color: dreamy
-track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/511/track1.mp3
+track1_link: https://mtsounds.web.deuxfleurs.fr/511/track1.mp3
 track2_title: Yoshihiro Hanno and Mick Karn - Lunette
 track2_color: bliss
-track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/511/track2.mp3
-track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/511/track3.mp3
+track2_link: https://mtsounds.web.deuxfleurs.fr/511/track2.mp3
+track3_link: https://mtsounds.web.deuxfleurs.fr/511/track3.mp3
 track3_title: John Powell - Chicken in the Pot
 track3_color: trippy
 track4_color: dreamy
@@ -24,10 +24,10 @@ track7_color: bliss
 track6_title: 'Paul Lansky - Her Voice '
 track7_title: Ellori Saxl - Moss II
 track5_title: Omni Gardens - Algae After All
-track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/511/track4.mp3
-track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/511/track5.mp3
-track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/511/track6.mp3
-track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/511/track7.mp3
+track4_link: https://mtsounds.web.deuxfleurs.fr/511/track4.mp3
+track5_link: https://mtsounds.web.deuxfleurs.fr/511/track5.mp3
+track6_link: https://mtsounds.web.deuxfleurs.fr/511/track6.mp3
+track7_link: https://mtsounds.web.deuxfleurs.fr/511/track7.mp3
 track4_title: r mccarthy - I Think I Lost That Love
 guestPic: guestPic511.jpg
 image: https://mailta.pe/img/fbPic511.png

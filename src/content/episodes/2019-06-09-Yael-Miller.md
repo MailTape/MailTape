@@ -2,8 +2,8 @@
 
 bigTitle_font_ratio: '6'
 published: true
-track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/361/track4.mp3
-track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/361/track1.mp3
+track4_link: https://mtsounds.web.deuxfleurs.fr/361/track4.mp3
+track1_link: https://mtsounds.web.deuxfleurs.fr/361/track1.mp3
 guestPic: guestPic361.jpg
 category: '361'
 illustrator: Camille Célestin
@@ -11,9 +11,9 @@ author: Anaïs G
 writer: Anaïs G
 guest_name: Yael Miller
 guest_color: vibrant
-track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/361/track5.mp3
-track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/361/track6.mp3
-track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/361/track7.mp3
+track5_link: https://mtsounds.web.deuxfleurs.fr/361/track5.mp3
+track6_link: https://mtsounds.web.deuxfleurs.fr/361/track6.mp3
+track7_link: https://mtsounds.web.deuxfleurs.fr/361/track7.mp3
 track1_title: ' Nick Cave And The Bad Seeds - Red Right Hand '
 track2_color: trippy
 track3_color: rough
@@ -31,8 +31,8 @@ track3_title: Led Zeppelin - Whole Lotta Love
 episode_URL: http://mailta.pe/361/Yael-Miller
 musiColor: musiColor361.png
 description: This morning, the voice of women is resounding, it is growing and is fighting against multiple inequalities... Whether gentle or strong, frail or assertive, there must be no differences. Our guest this Sunday to this need to defend his values.
-track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/361/track2.mp3
-track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/361/Track3.mp3
+track2_link: https://mtsounds.web.deuxfleurs.fr/361/track2.mp3
+track3_link: https://mtsounds.web.deuxfleurs.fr/361/Track3.mp3
 image: fbPic361.png
 pubDate: '2019-06-09'
 ---

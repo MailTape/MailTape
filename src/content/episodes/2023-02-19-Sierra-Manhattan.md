@@ -25,13 +25,13 @@ track7_color: bliss
 episode_URL: http://mailta.pe/518/sierra-manhattan/
 image: https://mailta.pe/img/fbPic518.png
 musiColor: musiColor518.png
-track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/518/track1.mp3
-track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/518/track2.mp3
-track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/518/track3.mp3
-track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/518/track4.mp3
-track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/518/track5.mp3
-track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/518/track6.mp3
-track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/518/track7.mp3
+track1_link: https://mtsounds.web.deuxfleurs.fr/518/track1.mp3
+track2_link: https://mtsounds.web.deuxfleurs.fr/518/track2.mp3
+track3_link: https://mtsounds.web.deuxfleurs.fr/518/track3.mp3
+track4_link: https://mtsounds.web.deuxfleurs.fr/518/track4.mp3
+track5_link: https://mtsounds.web.deuxfleurs.fr/518/track5.mp3
+track6_link: https://mtsounds.web.deuxfleurs.fr/518/track6.mp3
+track7_link: https://mtsounds.web.deuxfleurs.fr/518/track7.mp3
 description: This morning, you need to rest, to let yourself go to other sensations, or to rediscover simple pleasures such as enjoying your loved ones, the rays of the sun, bird watching or even feeling the wind in your neck. The band Sierra Manhattan accompanies us in this playlist of quiet and let live.
 pubDate: '2023-02-19'
 ---

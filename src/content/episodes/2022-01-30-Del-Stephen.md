@@ -20,13 +20,13 @@ track6_color: trippy
 track7_title: Tiny Leaves - View From Here
 track7_color: bliss
 episode_URL: https://mailta.pe/479/Del-Stephen/
-track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/479/track2.mp3
-track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/479/track3.mp3
-track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/479/track4.mp3
-track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/479/track5.mp3
-track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/479/track6.mp3
-track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/479/track7.mp3
-track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/479/track1.mp3
+track2_link: https://mtsounds.web.deuxfleurs.fr/479/track2.mp3
+track3_link: https://mtsounds.web.deuxfleurs.fr/479/track3.mp3
+track4_link: https://mtsounds.web.deuxfleurs.fr/479/track4.mp3
+track5_link: https://mtsounds.web.deuxfleurs.fr/479/track5.mp3
+track6_link: https://mtsounds.web.deuxfleurs.fr/479/track6.mp3
+track7_link: https://mtsounds.web.deuxfleurs.fr/479/track7.mp3
+track1_link: https://mtsounds.web.deuxfleurs.fr/479/track1.mp3
 author: ImaCrea
 illustrator: Thibault Daumain
 writer: ImaCrea

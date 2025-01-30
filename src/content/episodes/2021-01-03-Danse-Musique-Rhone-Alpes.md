@@ -12,9 +12,9 @@ track3_color: trippy
 track3_title: Laurel Halo - Koinos
 track1_color: trippy
 track1_title: Tachycardie -  D'humeur à savoir
-track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/432/track5.mp3
-track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/432/track4.mp3
-track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/432/track1.mp3
+track5_link: https://mtsounds.web.deuxfleurs.fr/432/track5.mp3
+track4_link: https://mtsounds.web.deuxfleurs.fr/432/track4.mp3
+track1_link: https://mtsounds.web.deuxfleurs.fr/432/track1.mp3
 guestPic: guestPic432.jpg
 guest_name: Danse Musique Rhône-Alpes
 category: '432'
@@ -22,16 +22,16 @@ writer: Anaïs G
 author: Anaïs G
 published: true
 guest_color: trippy
-track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/432/track6.mp3
-track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/432/track7.mp3
+track6_link: https://mtsounds.web.deuxfleurs.fr/432/track6.mp3
+track7_link: https://mtsounds.web.deuxfleurs.fr/432/track7.mp3
 track2_title: Raime - Some Things Can Happen, Just Like This
 track2_color: dreamy
 track6_title: Maud Geffray - In the wild
 track6_color: vibrant
 track7_title: Louisahhh - Trap
 track7_color: rough
-track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/432/track2.mp3
-track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/432/track3.mp3
+track2_link: https://mtsounds.web.deuxfleurs.fr/432/track2.mp3
+track3_link: https://mtsounds.web.deuxfleurs.fr/432/track3.mp3
 description: This morning, it is FINALLY 2021. What can we wish for this year? Health, already the most important one compared to the others but above all the reopening of all its places of culture, music and events. . . And of course full of beautiful things to all those who follow us, hoping to surprise you, amaze you and please you again every Sunday.
 illustrator: Jason Pridham
 pubDate: '2021-01-03'

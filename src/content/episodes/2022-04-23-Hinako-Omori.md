@@ -26,13 +26,13 @@ track7_color: trippy
 episode_URL: http://mailta.pe/490/hinako-omori/
 image: https://mailta.pe/img/fbPic490.jpg
 musiColor: musiColor489.png
-track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/490/track1.mp3
-track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/490/track2.mp3
-track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/490/track3.mp3
-track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/490/track4.mp3
-track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/490/track5.mp3
-track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/490/track6.mp3
-track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/490/track7.mp3
+track1_link: https://mtsounds.web.deuxfleurs.fr/490/track1.mp3
+track2_link: https://mtsounds.web.deuxfleurs.fr/490/track2.mp3
+track3_link: https://mtsounds.web.deuxfleurs.fr/490/track3.mp3
+track4_link: https://mtsounds.web.deuxfleurs.fr/490/track4.mp3
+track5_link: https://mtsounds.web.deuxfleurs.fr/490/track5.mp3
+track6_link: https://mtsounds.web.deuxfleurs.fr/490/track6.mp3
+track7_link: https://mtsounds.web.deuxfleurs.fr/490/track7.mp3
 description: This morning, we're taking you into an atmosphere of balance, softness and harmony. With our dear guest, Hinako Omori, we curated meditative and restorative tracks to help you ease into the day with a refreshed view. Remember there's always blue sky awaiting for you above the clouds.
 pubDate: '2022-04-23'
 ---

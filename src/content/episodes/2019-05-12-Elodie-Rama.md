@@ -8,7 +8,7 @@ writer: Anaïs G
 category: '357'
 guest_name: Elodie Rama
 guest_color: bliss
-track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/357/track4.mp3
+track4_link: https://mtsounds.web.deuxfleurs.fr/357/track4.mp3
 track4_color: bliss
 track4_title: 'Elodie Rama - Home '
 track3_color: trippy
@@ -17,18 +17,18 @@ track2_title: 'Varnish La Piscine - Bubble '
 track2_color: dreamy
 track1_title: CM Jones - Remain feat King Krab
 track1_color: vibrant
-track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/357/track1.mp3
-track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/357/track7.mp3
+track1_link: https://mtsounds.web.deuxfleurs.fr/357/track1.mp3
+track7_link: https://mtsounds.web.deuxfleurs.fr/357/track7.mp3
 track7_color: bliss
 track7_title: 'Yazmin Lacey - Black Moon '
 track6_color: vibrant
 track6_title: 'Rosie Lowe - Pharoah  '
 track5_title: Celeste - Summer feat Jeshi
 track5_color: dreamy
-track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/357/Track%202.mp3
-track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/357/Track%203.mp3
-track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/357/Track%205.mp3
-track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/357/Track%206.mp3
+track2_link: https://mtsounds.web.deuxfleurs.fr/357/Track%202.mp3
+track3_link: https://mtsounds.web.deuxfleurs.fr/357/Track%203.mp3
+track5_link: https://mtsounds.web.deuxfleurs.fr/357/Track%205.mp3
+track6_link: https://mtsounds.web.deuxfleurs.fr/357/Track%206.mp3
 guestPic: guestPic357.jpg
 episode_URL: http://mailta.pe/357/Elodie-Rama
 image: https://mailta.pe/img/fbPic357.png

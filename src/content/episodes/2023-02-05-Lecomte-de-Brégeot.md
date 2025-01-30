@@ -27,13 +27,13 @@ episode_URL: http://mailta.pe/516/Lecomte-de-Brégeot/
 image: https://mailta.pe/img/fbPic516.png
 musiColor: musiColor516.png
 description: The dancefloor energy is bleeding into the morning hours this Sunday as we welcome Lecomte de Brégeot to MailTape :) Based in Lyon, the discography of Lecomte de Brégeot (aka Yannick Lecomte) graces runways across the world, curating fashion spectacles (with names including Yves Saint Laurent, Balenciaga, Armani, and many more) and Ballrooms alike.
-track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/516/track1.mp3
-track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/516/track2.mp3
-track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/516/track3.mp3
-track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/516/track4.mp3
-track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/516/track5.mp3
-track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/516/track6.mp3
-track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/516/track7.mp3
+track1_link: https://mtsounds.web.deuxfleurs.fr/516/track1.mp3
+track2_link: https://mtsounds.web.deuxfleurs.fr/516/track2.mp3
+track3_link: https://mtsounds.web.deuxfleurs.fr/516/track3.mp3
+track4_link: https://mtsounds.web.deuxfleurs.fr/516/track4.mp3
+track5_link: https://mtsounds.web.deuxfleurs.fr/516/track5.mp3
+track6_link: https://mtsounds.web.deuxfleurs.fr/516/track6.mp3
+track7_link: https://mtsounds.web.deuxfleurs.fr/516/track7.mp3
 pubDate: '2023-02-05'
 ---
  The dancefloor energy is bleeding into the morning hours this Sunday as we welcome Lecomte de Brégeot to MailTape :) Based in Lyon, the discography of Lecomte de Brégeot (aka Yannick Lecomte) graces runways across the world, curating fashion spectacles (with names including Yves Saint Laurent, Balenciaga, Armani, and many more) and Ballrooms alike. 

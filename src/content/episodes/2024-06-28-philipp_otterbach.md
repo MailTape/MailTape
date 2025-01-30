@@ -10,25 +10,25 @@ illustrator: Babi Brunelio
 writer: Jules
 track1_title: Water Pistol Cowboys - I’m Sorry I Was Ignoring You
 track1_color: vibrant
-track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/559/track1.mp3
+track1_link: https://mtsounds.web.deuxfleurs.fr/559/track1.mp3
 track2_title: Motorpsycho - Trylleball (Sannan)
 track2_color: dreamy
-track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/559/track2.mp3
+track2_link: https://mtsounds.web.deuxfleurs.fr/559/track2.mp3
 track3_title: Mark Kramer - Ovulation Always Brings Me Down
 track3_color: bliss
-track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/559/track3.mp3
+track3_link: https://mtsounds.web.deuxfleurs.fr/559/track3.mp3
 track4_title: Philipp Otterbach - Small Town Nights
 track4_color: vibrant
-track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/559/track4.mp3
+track4_link: https://mtsounds.web.deuxfleurs.fr/559/track4.mp3
 track5_title: Tim Koh / Sun An - Incense Holder
 track5_color: bliss
-track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/559/track5.mp3
+track5_link: https://mtsounds.web.deuxfleurs.fr/559/track5.mp3
 track6_title: Whatever the Weather - 25°c
 track6_color: dreamy
-track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/559/track6.mp3
+track6_link: https://mtsounds.web.deuxfleurs.fr/559/track6.mp3
 track7_title: Duval Timothy - Mutate
 track7_color: vibrant
-track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/559/track7.mp3
+track7_link: https://mtsounds.web.deuxfleurs.fr/559/track7.mp3
 episode_URL: https://mailta.pe/559/Philipp-Otterbach/
 musiColor: musicolor559.png
 image: https://mailta.pe/img/fbpic559.jpg

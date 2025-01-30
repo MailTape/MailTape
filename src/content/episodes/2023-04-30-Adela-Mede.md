@@ -26,13 +26,13 @@ track7_color: vibrant
 episode_URL: http://mailta.pe/526/adela-mede/
 image: https://mailta.pe/img/fbPic526.png
 musiColor: musiColor526.png
-track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/526/track1.mp3
-track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/526/track2.mp3
-track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/526/track3.mp3
-track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/526/track4.mp3
-track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/526/track5.mp3
-track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/526/track6.mp3
-track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/526/track7.mp3
+track1_link: https://mtsounds.web.deuxfleurs.fr/526/track1.mp3
+track2_link: https://mtsounds.web.deuxfleurs.fr/526/track2.mp3
+track3_link: https://mtsounds.web.deuxfleurs.fr/526/track3.mp3
+track4_link: https://mtsounds.web.deuxfleurs.fr/526/track4.mp3
+track5_link: https://mtsounds.web.deuxfleurs.fr/526/track5.mp3
+track6_link: https://mtsounds.web.deuxfleurs.fr/526/track6.mp3
+track7_link: https://mtsounds.web.deuxfleurs.fr/526/track7.mp3
 description: This morning, we're embarking on a dreamy journey with Adela Mede. Her carefully selected tracks take us deep into a smooth and blissful soundscape, allowing us to wake up gently while keeping the dream alive throughout the day. Join us now, and let's set sail on this tranquil musical adventure.
 pubDate: '2023-04-30'
 ---

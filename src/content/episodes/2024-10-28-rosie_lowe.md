@@ -10,25 +10,25 @@ illustrator: Thibault Daumain
 writer: Sarah
 track1_title: Pete Josef - Sunny Side Up
 track1_color: bliss
-track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/564/track1.mp3
+track1_link: https://mtsounds.web.deuxfleurs.fr/564/track1.mp3
 track2_title: Dina Ögon - Tombola 94
 track2_color: vibrant
-track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/564/track2.mp3
+track2_link: https://mtsounds.web.deuxfleurs.fr/564/track2.mp3
 track3_title: Floating Points, Pharaoh Saunders, London Symphony Orchestra - Movement 6
 track3_color: dreamy
-track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/564/track3.mp3
+track3_link: https://mtsounds.web.deuxfleurs.fr/564/track3.mp3
 track4_title: Rosie Lowe - Lay Me
 track4_color: bliss
-track4_link: https://mtsounds.s3.eu-central-1.wasabisys.com/564/track4.mp3
+track4_link: https://mtsounds.web.deuxfleurs.fr/564/track4.mp3
 track5_title: Feed LA - Früh
 track5_color: vibrant
-track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/564/track5.mp3
+track5_link: https://mtsounds.web.deuxfleurs.fr/564/track5.mp3
 track6_title: Grandbaby - The Melody of Talk
 track6_color: trippy
-track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/564/track6.mp3
+track6_link: https://mtsounds.web.deuxfleurs.fr/564/track6.mp3
 track7_title: Rosie Lowe, Duval Timothy - Son
 track7_color: bliss
-track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/564/track7.mp3
+track7_link: https://mtsounds.web.deuxfleurs.fr/564/track7.mp3
 description: Your Sunday in all its softness :) This morning, MailTape is
   delighted to welcome singer Rosie Lowe for a selection of soulful, sweeping,
   deep listening. The London-based singer joins us following the release of her
