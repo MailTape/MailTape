@@ -23,21 +23,38 @@ track7_title: Aya - off to the ESSO
 track7_link: https://mtsounds.web.deuxfleurs.fr/575/track7.mp3
 ---
 This morning... 
- # Guest's selection 
- ## Artist - Track 
- Guest: **"** lorem ipsum **"** 
- ## Artist - Track 
- Guest: **"** lorem ipsum **"** 
- ## Artist - Track 
- Guest: **"** lorem ipsum **"** 
- # Curator's selection 
- ## Artist - Track 
- Curator: **"** lorem ipsum **"** 
- ## Artist - Track 
- Curator: **"** lorem ipsum **"** 
- ## Artist - Track 
- Curator: **"** lorem ipsum **"** 
- ## Artist - Track 
+
+# Guest's selection
+
+## Vimala Pons - Piper
+
+KOMPROMAT: **"** Vimala is a friend and a fascinating artist. She created music for these shows and exhibitions. “Piper” comes from her exhibition "Heaven & Hell".
+Vimala sing on 4 tracks on our album "Playing / Praying". She has a sensual oice and cause she is an actress she can adopted different confusing accents. **"** 
+
+## Farah - Into Eternity
+
+KOMPROMAT: **"** Farah is one of our favorite artist together. She always talk about god and beliefs. We’ve play this track 10 000 times together in backstage. **"** 
+
+## D.A.F. - Als war's das letzte mal
+
+KOMPROMAT: **"** We are both fond of DAF whose style and creativity are still relevant today. Their minimalistic and percussive sound are ageless and this album is a great source of inspiration. Obviously this song is in our backstage and tourbus playlist. **"** 
+
+# Curator's selection
+
+## KOMPROMAT - Only In Your Arms
+
  Curator: **"** lorem ipsum **"** 
 
- Thank you... 
+## Odd Nosdam x Trance Farmers - The Future's a Straightaway
+
+ Curator: **"** lorem ipsum **"** 
+
+## John Maus - Rarities for the road - V1 T3
+
+ Curator: **"** lorem ipsum **"** 
+
+## Aya - off to the ESSO
+
+ Curator: **"** lorem ipsum **"** 
+
+ Thank you...
