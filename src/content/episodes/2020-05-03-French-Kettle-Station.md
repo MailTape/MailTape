@@ -68,4 +68,4 @@ ImaCrea: **"** Nicolas Jaar keeps experimenting and pushing further his own hori
 ImaCrea: **"** Sacred ritual for a new spiritual age. Kali Malone shows the way. **"** 
 
 
-That was intense. Thank you so much for being with us every Sunday morning! Much love and respect to [French Kettle Station](https://frenchkettlestation.bandcamp.com/) for his deep and trippy Sunday selections, and to [Thibault Daumain](thibaultdaumain.fr/) for this episode's wild illustration.
+That was intense. Thank you so much for being with us every Sunday morning! Much love and respect to [French Kettle Station](https://frenchkettlestation.bandcamp.com/) for his deep and trippy Sunday selections, and to [Thibault Daumain](//thibaultdaumain.fr/) for this episode's wild illustration.

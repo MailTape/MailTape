@@ -39,7 +39,7 @@ pubDate: '2024-02-18'
 
 This morning, we follow in the footsteps of irresistible music synonymous with softness and heat. If Africa is the birthplace of humankind, we will see in this episode that it has also pampered some rhythms which continue to inspire artists from around the world.
 <br><br>
-  And to do this, who better than Ariel Toko, nay, [Le Véritable Ariel Toko](leveritablearieltoko.bandcamp.com), to guide us with the malice and all the benevolence that we know of him? Apparently he was hanging in France around Nantes, on Friday, February 16 for the release party of a terribly sweet EP, where Caribbean notes and some Balkan influences also jostle.
+  And to do this, who better than Ariel Toko, nay, [Le Véritable Ariel Toko](//leveritablearieltoko.bandcamp.com), to guide us with the malice and all the benevolence that we know of him? Apparently he was hanging in France around Nantes, on Friday, February 16 for the release party of a terribly sweet EP, where Caribbean notes and some Balkan influences also jostle.
 
 
 # Ariel Toko's selection
@@ -58,10 +58,10 @@ Le véritable Ariel Toko: **"** We love it for its quirky side in Afrobeat and f
 
 # MailTape's selection
 
-## [Le Véritable Ariel Toko](leveritablearieltoko.bandcamp.com) – Highwar
+## [Le Véritable Ariel Toko](//leveritablearieltoko.bandcamp.com) – Highwar
 Anto: **"** This track represents the world of Ariel Toko well. It starts slowly, we are hooked by a nice rhythm, which we follow with a lot of innocence, like a little butterfly fluttering under the rays of the sun... And then suddenly, it accelerates, we no longer have time, it becomes urgent to move our shoulders frantically, to swing our hips in all directions, without the smile leaving our bewildered faces. What happened? We were sitting quietly on a beach in the Gulf of Guinea and here we are suddenly connected to all the beaches in the world - at least to all those where people party! **"** 
 
-## [Ekambi Brillant](ekambibrillant.bandcamp.com/) – Aboki
+## [Ekambi Brillant](//ekambibrillant.bandcamp.com/) – Aboki
 
 Anto: **"** Well, sorry, I had to make that connection! The Ariel Toko-Ekambi Brillant axis is obvious for every football fan (and gives nightmares to our Algerian fellows), yet musically, there is also a link. We are in the mid-70s, in Cameroon. If makossa is the most influential musical movement in the country, Ekambi Brillant takes a step aside with a devastating afro-funk production where the guitar riff mixes with the jerk of the percussion and welcomes with pleasure the neighboring brass instruments, from Accra and Lagos. Aboki (my friend in duala) is, therefore, a tribute to the friendly styles of funk, highlife and afro-beat, a nice mix of influences intended to bring the sunshine to the ears. **"** 
 
@@ -74,7 +74,7 @@ Anto: **"** We stay in the 70s, but this time we change continent to land in Sou
 Anto: **"** Back to Ghana with this little gem that we felt obliged to place in this selection as it seems iconic of the highlife style. What is fascinating about this song is this energetic intro, this very sunny guitar riff which paradoxically turns to melancholy just a few seconds later. The voice supports what seems to be a sort of complaint, as if the author wanted to tell us the inevitability of a somewhat sad story, without losing a certain energy synonymous with survival. A song that symbolizes Africa in itself. **"** 
 
 That's all for today.
-We thank [Le Véritable Ariel Toko](leveritablearieltoko.bandcamp.com) for taking the time to give us some delights that will certainly brighten up our Sunday afternoon. Here is another unique and original episode, that owes a lot to [Camille Lemeunier](https://camillelemeunier.fr/) and her wonderful illustration.
+We thank [Le Véritable Ariel Toko](//leveritablearieltoko.bandcamp.com) for taking the time to give us some delights that will certainly brighten up our Sunday afternoon. Here is another unique and original episode, that owes a lot to [Camille Lemeunier](https://camillelemeunier.fr/) and her wonderful illustration.
 <br><br>
 Don’t forget that we’ll see you on March 29 in Paris for a Mail Tape live session.
 More info are coming soon!

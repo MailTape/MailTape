@@ -83,4 +83,4 @@ ImaCrea: **"** Who said Sunday morning shouldn't be ecstatic? Let's feed that so
 ImaCrea: **"** Another one from LA, fresh from the legendary house of [Stones Throw](https://www.stonesthrow.com/). The moment of truth. At this point either you love or hate this episode. In the second case, forget and retry at another moment ;) You might hear it differently after a few tries. Genius composition here. **"** 
 
 
-And... That's all for this morning! Thanks to [Uzi Freyja]([Uzi Freyja](https://uzifreyja.bandcamp.com/album/stand))'s boosting selection. At this point you should be well awaken for the year ahead! Big up to [Julie WOJTCZAK](https://www.instagram.com/julie_wo/) for her gorgeous illustration.
+And... That's all for this morning! Thanks to [Uzi Freyja](https://uzifreyja.bandcamp.com/album/stand)'s boosting selection. At this point you should be well awaken for the year ahead! Big up to [Julie WOJTCZAK](https://www.instagram.com/julie_wo/) for her gorgeous illustration.

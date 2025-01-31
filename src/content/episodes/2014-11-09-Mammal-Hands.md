@@ -37,7 +37,7 @@ pubDate: '2014-11-09'
 ---
 
 
-If there’s one genre in music that can’t be easily defined then that unquestionably is jazz. This Sunday we will communicate with something truly inspirational; a band whose music can be best described as novelty; a trio who are known for their distinctive compositions, and sounds that elicit feelings of melancholy with a touch of subtlety in it. We bring you a relaxed morning with an advocate of the avant-garde and our band of the week [Mammal Hands](Mammal Hands Official Website "http://mammalhands.com/").
+If there’s one genre in music that can’t be easily defined then that unquestionably is jazz. This Sunday we will communicate with something truly inspirational; a band whose music can be best described as novelty; a trio who are known for their distinctive compositions, and sounds that elicit feelings of melancholy with a touch of subtlety in it. We bring you a relaxed morning with an advocate of the avant-garde and our band of the week [Mammal Hands](http://mammalhands.com/).
 
 # Savoring the unpredictable
 The irregularity of this episode goes well along with jazz.  We have sounds ranging from mellow and trippy to blissful and progressively groovy.  Listening to this week’s episode is like predicting an unprecedented weather while having your fingers crossed, thus this Sunday morning we ask you to muse over what we call the unpredictable.
