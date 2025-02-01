@@ -16,7 +16,7 @@ track2_link: https://mtsounds.web.deuxfleurs.fr/575/track2.mp3
 track3_title: D.A.F. - Als war's das letzte mal
 track3_color: rough
 track3_link: https://mtsounds.web.deuxfleurs.fr/575/track3.mp3
-track4_title: KOMPROMAT - Only In Your Arms
+track4_title: KOMPROMAT - ONLY IN YOUR ARMS
 track4_color: bliss
 track4_link: https://mtsounds.web.deuxfleurs.fr/575/track4.mp3
 track5_title: Bound By Endogamy - Withered Flowers
@@ -48,7 +48,7 @@ KOMPROMAT: **"** We are both fond of DAF whose style and creativity are still re
 
 # Curator's selection
 
-## KOMPROMAT - Only In Your Arms
+## KOMPROMAT - ONLY IN YOUR ARMS
 
  Curator: **"** lorem ipsum **"** 
 
