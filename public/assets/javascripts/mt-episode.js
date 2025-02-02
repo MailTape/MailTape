@@ -179,7 +179,9 @@ $(document).ready(
 
 		// affichage des images avec module d'adaptation responsive
 		$(".stretchMe").each(function(index){
-			$(this).backstretch($(this).attr('data-stretch'));
+			$(this).backstretch([
+				{ url:$(this).attr('data-stretch') }
+			]);
 		});
 
 		//toDo: sccript de redimensionnement automatique des titres de sons qui pourraient etre trop long et prendre 2 lignes. Probleme vu sur mobile.
