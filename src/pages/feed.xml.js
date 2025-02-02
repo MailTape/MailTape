@@ -3,7 +3,10 @@ import { getCollection } from 'astro:content';
 import slugEp from "../utils/slugEp.js";
 
 export async function GET(context) {
-    const episodes = await getCollection('episodes');
+    const episodes = await getCollection('episodes', ({ data })=> {
+        let now = new Date (Date.now());
+        return data.pubDate < now && data.published === true;
+    })
     return rss({
         title: 'MailTape',
         description: 'A place for music lovers by music lovers',

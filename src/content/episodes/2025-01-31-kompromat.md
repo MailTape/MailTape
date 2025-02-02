@@ -4,7 +4,7 @@ pubDate: 2025-02-03
 category: "575"
 guest_name: KOMPROMAT
 guest_color: rough
-guestPic: guestpic575.jpg
+guestPic: guestpic575b.jpg
 author: ImaCrea
 illustrator: Camille Lemeunier
 writer: ImaCrea

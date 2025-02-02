@@ -184,6 +184,14 @@ $(document).ready(
 			]);
 		});
 
+		// // affichage des images avec module d'adaptation responsive
+		// $(".stretchMe").each(function(index){
+		// 	$(this).backstretch([
+		// 		{ url:$(this).attr('data-stretch'), alignY: 0.2 }
+		// 	]);
+		// });
+		
+
 		//toDo: sccript de redimensionnement automatique des titres de sons qui pourraient etre trop long et prendre 2 lignes. Probleme vu sur mobile.
 		
 		// affichage de la nouvelle version des credits à partir de l'épisode 200
