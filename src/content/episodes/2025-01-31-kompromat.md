@@ -1,6 +1,6 @@
 ---
 published: true
-pubDate: 2025-02-03
+pubDate: 2025-02-09
 category: "575"
 guest_name: KOMPROMAT
 guest_color: rough
