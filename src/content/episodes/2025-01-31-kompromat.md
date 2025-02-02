@@ -65,4 +65,4 @@ KOMPROMAT: **"** We are both fond of DAF whose style and creativity are still re
 
  Curator: **"** lorem ipsum **"** 
 
- Thank you...
+ Thank you... Based on a picture by Théo Mercier.
