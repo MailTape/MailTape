@@ -49,20 +49,21 @@ KOMPROMAT: **"** We are both fond of DAF whose style and creativity are still re
 
 # Curator's selection
 
+
 ## KOMPROMAT - ONLY IN YOUR ARMS
 
- Curator: **"** lorem ipsum **"** 
+ImaCrea: **"** Rebeka Warior's voice and Vitalic's synth melt into a subliminal surrealist landscape. This track is a gem crafted from love and years of introspection and research, offered to us through a spectral giving. There's fragility and also force, beauty and also rough edges, spiritual and also deeply anchored... it is artistry at a high level of equilibrium. **"** 
 
 ## Bound By Endogamy - Withered Flowers
 
- Curator: **"** lorem ipsum **"** 
+ImaCrea: **"** I discovered Bound by Endogamy during their live performance last year at the Born Bad Records festival. Wild and poetic, I loved it! I've been waiting for the right moment to include this track in a selection, and here it is. **"** 
 
 ## John Maus - Rarities for the road - V1 T3
 
- Curator: **"** lorem ipsum **"** 
+ImaCrea: **"** John Maus' music is deeply magical. His track "And the rain..." is tied to a memory of hallucination and realization for me, back in the days on a wild beach in New Zealand at night under the full moon. It's also a well-known cult track, and I wanted to see if I could find something more recent. The last time I listened to his music was a few years ago, and what a wonderful surprise to discover he was back on tour in 2024. This track is from the tour, very fresh and filled with an energy that only he possesses. Hope you enjoy it. **"** 
 
 ## KOMPROMAT - I LET MYSELF GO BLIND (feat. Vimala Pons & Sonia DeVille)
 
- Curator: **"** lorem ipsum **"** 
+ImaCrea: **"** The Kompromat album navigates across different energies, and I found it difficult to share only one track, as I love this other one too much. So here it is. Wild energy and vibrations to keep fighting for life and light. **"** 
 
  Thank you... Based on a picture by Théo Mercier.
