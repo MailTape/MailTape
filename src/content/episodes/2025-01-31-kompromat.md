@@ -30,9 +30,9 @@ track7_title: KOMPROMAT - I LET MYSELF GO BLIND (feat. Vimala Pons & Sonia DeVil
 track7_color: rough
 track7_link: https://mtsounds.web.deuxfleurs.fr/575/track7.mp3
 ---
-This morning... 
+This morning, we are deeply honored and excited to share with you an episode featuring KOMPROMAT as our guest. The duo, consisting of Rebeka Warrior and Vitalic, is back with a new album, and their selection has inspired us to complement it with tracks infused with sensual, vibrant, and powerful synth waves to energize you. Allow yourself to be intoxicated by the energy of desire and movement; trust your wild side and dance with the chaos.
 
-# Guest's selection
+# KOMPROMAT's selection
 
 ## Vimala Pons - Piper
 
@@ -66,4 +66,4 @@ ImaCrea: **"** John Maus' music is deeply magical. His track "And the rain..." i
 
 ImaCrea: **"** The Kompromat album navigates across different energies, and I found it difficult to share only one track, as I love this other one too much. So here it is. Wild energy and vibrations to keep fighting for life and light. **"** 
 
- Thank you... Based on a picture by Théo Mercier.
+And... That’s it for this morning. Thank you for listening and much love to Rebekka Warrior and Vitalic for sharing these very energetic and inspiring tracks. And many thanks to Camille Lemeunier for her sublime illustration made with love and based on a picture by Théo Mercier.
