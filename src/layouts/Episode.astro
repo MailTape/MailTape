@@ -44,6 +44,7 @@ const {
     prevEpisode,
     nextEpisode,
     similarEpisodes,
+    alignY,
 } = Astro.props;
 
 const tracksURLString = JSON.stringify([track1_link,track2_link,track3_link,track4_link,track5_link,track6_link,track7_link]);
@@ -68,7 +69,7 @@ track1_title={track1_title} track2_title={track2_title} track3_title={track3_tit
     <TopBar />
 
     <img src=`//wsrv.nl/?url=ssl:mailta.pe/img/${guestPic}&w=2000&t=fit&il&q=90&output=webp&default=ssl:${SITE_BASE_URL.slice(8)}/img/${guestPic}` style="display:none;"/>
-    <div id="bigHeader" class="stretchMe notPlaying" data-stretch=`//wsrv.nl/?url=ssl:mailta.pe/img/${guestPic}&w=2000&t=fit&il&q=90&output=webp&default=ssl:${SITE_BASE_URL.slice(8)}/img/${guestPic}` data-pagefind-meta=`image:https://wsrv.nl/?url=ssl:mailta.pe/img/${guestPic}&w=500&t=fit&il&q=90&output=webp&default=ssl:${SITE_BASE_URL.slice(8)}/img/${guestPic}` data-pagefind-meta=`image_alt:Episode ${ category } - ${ guest_name }`>
+    <div id="bigHeader" class="stretchMe notPlaying" data-stretch=`//wsrv.nl/?url=ssl:mailta.pe/img/${guestPic}&w=2000&t=fit&il&q=90&output=webp&default=ssl:${SITE_BASE_URL.slice(8)}/img/${guestPic}` data-stretchAlignY=`${alignY}` data-pagefind-meta=`image:https://wsrv.nl/?url=ssl:mailta.pe/img/${guestPic}&w=500&t=fit&il&q=90&output=webp&default=ssl:${SITE_BASE_URL.slice(8)}/img/${guestPic}` data-pagefind-meta=`image_alt:Episode ${ category } - ${ guest_name }`>
     
         <div class="container">
             <!-- desktop header -->

@@ -177,12 +177,13 @@ $(document).ready(
     	);
 
 
-		// affichage des images avec module d'adaptation responsive
-		$(".stretchMe").each(function(index){
-			$(this).backstretch([
-				{ url:$(this).attr('data-stretch') }
-			]);
-		});
+
+		// if ($)
+		// $(".stretchMe").each(function(index){
+		// 	$(this).backstretch([
+		// 		{ url:$(this).attr('data-stretch'),alignY: 0.22 }
+		// 	]);
+		// });
 
 		// // affichage des images avec module d'adaptation responsive
 		// $(".stretchMe").each(function(index){
@@ -204,3 +205,19 @@ $(document).ready(
 
 	}
 );
+
+document.addEventListener("DOMContentLoaded", function(event) {
+    // affichage des images avec module d'adaptation responsive
+	var bigHeader = document.getElementById("bigHeader");
+	console.log(bigHeader);
+	var alignY = parseFloat(bigHeader.dataset.stretchaligny);
+	console.log("Alignement:"+alignY);
+
+	// affichage des images avec module d'adaptation responsive
+		$(".stretchMe").each(function(index){
+			$(this).backstretch([
+				{ url:$(this).attr('data-stretch'), alignY: alignY }
+			]);
+		});
+
+});

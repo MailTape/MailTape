@@ -40,6 +40,7 @@ const episodes = defineCollection({
 		episode_URL: z.string().url().optional(),
 		image: z.string().optional().optional(),
 		musiColor: z.string().optional(),
+		alignY: z.string().optional(),
 	}),
 });
 

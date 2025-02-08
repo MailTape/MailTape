@@ -167,3 +167,4 @@ collections:
       - { label: "Episode URL", required: false, name: "episode_URL", widget: "string", hint: "Warning : be careful with caps and don't forget '/' at end! Convention: https://mailta.pe/129/Valentin-Stip/" }
       - { label: "FB Pic", required: false, name: "image" , widget: "string", hint: "Once fbPic uploaded, write here its FULL PATH. Convention : https://mailta.pe/img/fbPic131.png"}
       - { label: "MusiColor", required: false, name: "musiColor", widget: "image", media_library: {media_folder: "/public/img",config: { max_file_size: 1024000 } } }
+      - { label: "Refine image vertical alignment", required: false, name: alignY, widget: "string", hint: "This let you refine vertical alignement of guestPic. Can be 'center'/'top'/'bottom' or any number between 0.0 and 1.0.", default: "" }
