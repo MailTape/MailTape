@@ -40,39 +40,38 @@ image: https://mailta.pe/img/fbPic575.jpg
 musiColor: musicolor575.png
 alignY: "0.22"
 ---
-This morning, we are deeply honored and excited to share with you an episode featuring KOMPROMAT as our guest. The duo, consisting of Rebeka Warrior and Vitalic, is back with a new album, and their selection has inspired us to complement it with tracks infused with sensual, vibrant, and powerful synth waves to energize you. Allow yourself to be intoxicated by the energy of desire and movement; trust your wild side and dance with the chaos.
+This morning, we are deeply honored and excited to share with you an episode featuring [KOMPROMAT](https://kompromat-official.bandcamp.com/album/pl-ying-pr-ying) as our guest. The duo, consisting of Rebeka Warrior and Vitalic, is back with a new album, and their selection has inspired us to complement it with tracks infused with sensual, vibrant, and powerful synth waves to energize you. Allow yourself to be intoxicated by the energy of desire and movement; trust your wild side and dance with the chaos.
 
 # KOMPROMAT's selection
 
-## Vimala Pons - Piper
+## [Vimala Pons](https://vimalapons.bandcamp.com/album/heaven-and-hell) - Piper
 
 KOMPROMAT: **"** Vimala is a friend and a fascinating artist. She created music for these shows and exhibitions. “Piper” comes from her exhibition "Heaven & Hell".
 Vimala sing on 4 tracks on our album "Playing / Praying". She has a sensual oice and cause she is an actress she can adopted different confusing accents. **"** 
 
-## Farah - Into Eternity
+## [Farah](https://www.discogs.com/artist/902417-Farah-2) - Into Eternity
 
 KOMPROMAT: **"** Farah is one of our favorite artist together. She always talk about god and beliefs. We’ve play this track 10 000 times together in backstage. **"** 
 
-## D.A.F. - Als war's das letzte mal
+## [D.A.F.](https://daf-official.bandcamp.com) - Als war's das letzte mal
 
 KOMPROMAT: **"** We are both fond of DAF whose style and creativity are still relevant today. Their minimalistic and percussive sound are ageless and this album is a great source of inspiration. Obviously this song is in our backstage and tourbus playlist. **"** 
 
 # Curator's selection
 
-
-## KOMPROMAT - ONLY IN YOUR ARMS
+## [KOMPROMAT](https://kompromat-official.bandcamp.com/album/pl-ying-pr-ying) - ONLY IN YOUR ARMS
 
 ImaCrea: **"** Rebeka Warior's voice and Vitalic's synth melt into a subliminal surrealist landscape. This track is a gem crafted from love and years of introspection and research, offered to us through a spectral giving. There's fragility and also force, beauty and also rough edges, spiritual and also deeply anchored... it is artistry at a high level of equilibrium. **"** 
 
-## Bound By Endogamy - Withered Flowers
+## [Bound By Endogamy](https://boundbyendogamy.bandcamp.com/album/bound-by-endogamy) - Withered Flowers
 
 ImaCrea: **"** I discovered Bound by Endogamy during their live performance last year at the Born Bad Records festival. Wild and poetic, I loved it! I've been waiting for the right moment to include this track in a selection, and here it is. **"** 
 
-## John Maus - Rarities for the road - V1 T3
+## [John Maus](https://johnmaus.bandcamp.com/album/addendum) - Rarities for the road - V1 T3
 
 ImaCrea: **"** John Maus' music is deeply magical. His track "And the rain..." is tied to a memory of hallucination and realization for me, back in the days on a wild beach in New Zealand at night under the full moon. It's also a well-known cult track, and I wanted to see if I could find something more recent. The last time I listened to his music was a few years ago, and what a wonderful surprise to discover he was back on tour in 2024. This track is from the tour, very fresh and filled with an energy that only he possesses. Hope you enjoy it. **"** 
 
-## KOMPROMAT - I LET MYSELF GO BLIND (feat. Vimala Pons & Sonia DeVille)
+## [KOMPROMAT](https://kompromat-official.bandcamp.com/album/pl-ying-pr-ying) - I LET MYSELF GO BLIND (feat. Vimala Pons & Sonia DeVille)
 
 ImaCrea: **"** The Kompromat album navigates across different energies, and I found it difficult to share only one track, as I love this other one too much. So here it is. Wild energy and vibrations to keep fighting for life and light. **"** 
 
