@@ -28,6 +28,7 @@ track6_link: https://mtsounds.web.deuxfleurs.fr/XXX/track6.mp3
 track7_title: Jenny Hval - Cemetary of Splendour
 track7_color: dreamy
 track7_link: https://mtsounds.web.deuxfleurs.fr/XXX/track7.mp3
+episode_URL: https://mailta.pe/576/Sons-Of-Zoku/
 ---
 This morning... 
  # Guest's selection 
