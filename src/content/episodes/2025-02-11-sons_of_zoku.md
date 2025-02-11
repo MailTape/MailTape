@@ -11,7 +11,7 @@ track1_title: " Fabiano Do Nascimento, Sam Gendel - Poeira"
 track1_color: bliss
 track1_link: https://mtsounds.web.deuxfleurs.fr/XXX/track1.mp3
 track2_title: Cymande - One More
-track2_color: bliss
+track2_color: vibrant
 track2_link: https://mtsounds.web.deuxfleurs.fr/XXX/track2.mp3
 track3_title: This Is The Kit - Our Socks Forever More
 track3_color: dreamy
