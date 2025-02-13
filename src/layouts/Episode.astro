@@ -96,15 +96,15 @@ track1_title={track1_title} track2_title={track2_title} track3_title={track3_tit
             </div>
     
             <!-- mobile header -->
-            <div id="mobileHeaderControl" class="d-flex justify-content-between d-md-none">
+            <div id="mobileHeaderControl" class="d-flex d-md-none">
     
                 { prevEpisode ? (
-                <div class="col-1 navArrows text-left">
+                <div class="col-2 navArrows text-left">
                     <a class="previous icomoon" href={prevEpisode}>&#xe609;</a>
                 </div>  
-                ) : null }
+                ) : <div class="col-2 navArrows text-left"></div>  }
                 
-                <div class="col-8 text-center">    
+                <div class="col-8 text-center" style="margin: 0 auto;">    
                 <span id="playButton" class="notPlaying">&#xe602;</span>
                 </div>
                 
@@ -112,7 +112,7 @@ track1_title={track1_title} track2_title={track2_title} track3_title={track3_tit
                 <div class="col-2 navArrows text-right">
                     <a class="next icomoon" href={nextEpisode}>&#xe60a;</a>
                 </div>
-                ) : null }
+                ) : <div class="col-2 navArrows text-right"></div> }
     
             </div>
     

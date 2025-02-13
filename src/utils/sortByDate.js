@@ -1,5 +1,7 @@
 export default function sortByDate(a, b) {
-    return new Date(b.pubDate) - new Date(a.pubDate)
+    const dateA = a.data.pubDate;
+    const dateB = b.data.pubDate;
+    return dateB - dateA;
   }
 
 //   inspiration: https://route360.dev/en/post/astro-prevnext-posts/

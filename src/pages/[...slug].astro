@@ -6,30 +6,39 @@ import slugEp from "../utils/slugEp.js";
 import similarEp from "../utils/similarEp.js";
 
 export async function getStaticPaths() {
-	const episodes = await getCollection('episodes',({ data }) => {
-  	return data.published === true;});
-	const numberOfEpisodes = episodes.length;
-	return episodes.sort(sortByDate).map((episode,i) => ({
-		params: {
-			slug: slugEp(episode) 
-		},
-		props: {
-			episode,
-			nextEpisode:
-			i+2 === numberOfEpisodes // quick trick while I find a solution to let editor preview next episode without it being accessible with next episode arrow
-			? null
-			: episodes[i+1],
-			prevEpisode:
-			i === 0
-			? null
-			: episodes[i-1],
-			similarEpisodes: similarEp(episode,episodes)
-		}
-	}));
-}
-interface Props {episode: any, prevEpisode?: any, nextEpisode?: any, similarEpisodes: any}
 
+	const episodes = await getCollection('episodes',({ data }) => {return data.published === true;});
+	const numberOfEpisodes = episodes.length-1;
+	return episodes.sort(sortByDate).reverse().map((episode,i) => {
+
+		let now = new Date(Date.now());
+		let nextEpisode = null;
+
+		if (i !== numberOfEpisodes && episodes[i + 1]?.data?.pubDate < now) {
+			nextEpisode = episodes[i + 1];
+		}
+		
+		const prevEpisode = i === 0 ? null : episodes[i-1];
+
+		return {
+			params: {
+				slug: slugEp(episode) 
+			},
+			props: {
+				episode,
+				nextEpisode,
+				prevEpisode,
+				similarEpisodes: similarEp(episode,episodes)
+			}
+		}
+	});
+}
+
+interface Props {episode: any, prevEpisode?: any, nextEpisode?: any, similarEpisodes: any}
 const { episode, prevEpisode, nextEpisode, similarEpisodes } = Astro.props;
+
+// console.log("prev:"+slugEp(prevEpisode)+" - current:"+slugEp(episode)+" - nextEp:"+slugEp(nextEpisode));
+
 const { Content } = await render(episode);
 
 ---
