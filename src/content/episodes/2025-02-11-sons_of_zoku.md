@@ -38,34 +38,34 @@ Let’s dive in.
 
 # Sons Of Zöku's selection
 
-## Artist - Track
+## Fabiano Do Nascimento, Sam Gendel - Poeira
 
- Guest: **"** lorem ipsum **"** 
+ Sons Of Zöku: **"** Just love the soaring flute, the tone and simplicity over a cascade of nylon guitar chords. Says so much even without any words. **"** 
 
-## Artist - Track
+## Cymande - One More
 
- Guest: **"** lorem ipsum **"** 
+ Sons Of Zöku: **"** Such a creamy groove with a silky guitar tone. **"** 
 
-## Artist - Track
+## This is the kit - Our Socks Forever More
 
- Guest: **"** lorem ipsum **"** 
+ Sons Of Zöku: **"** I just love her voice, the melody and the way it sounds so intimate and up close, a bit like Sufjan Stevens. **"** 
 
 # Curator's selection
 
-## Artist - Track
+## Sons Of Zöku - Nu Poème
 
- Curator: **"** lorem ipsum **"** 
+ Aloyse: **"** We’re diving deep into the psychedelic core, carried by this relentless rhythm that pulls you deeper into your bed. The instruments and vocals blend together seamlessly, creating a trance-like experience. You can almost see hypnotic shapes and feel the music as a warm, enveloping substance wrapping around you.**"** 
 
-## Artist - Track
+## Gábor Szabó - Somewhere I Belong
 
- Curator: **"** lorem ipsum **"** 
+ Aloyse: **"** One of the few original tracks from Gábor Szabó’s 1969 cover album, and one of the best. Multiple layers of guitar with infinite softness, yet they carry you exactly where you need to go, supported by an unrelenting rhythm section. **"** 
 
-## Artist - Track
+## Roy Montgomery - Jaguar Unseen
 
- Curator: **"** lorem ipsum **"** 
+ Aloyse: **"** The sound of Sons of Zöku reminded me of Roy Montgomery. This track is from his second album, Temple IV, which is a trip in itself. The tracks shift between dreamlike, experimental phases, sometimes even becoming unsettling. Beautiful psychedelic soundscapes. **"** 
 
-## Artist - Track
+## Jenny Hval - Cemetery of Splendour
 
- Curator: **"** lorem ipsum **"** 
+ Aloyse: **"** Let’s switch styles with Jenny Hval. I love how she weaves her lyrics between the concrete details of everyday life and poetic imagery, all with her crystal-clear voice. This song is from her latest album Classic Objects, and it leaves you lying in the grass on a summer day at the end. **"** 
 
- Thank you...
+ That’s it for this morning. Thank you for listening and thanks a ton to Sons of Zöku for sharing these peaceful and inspiring tracks. And many thanks to Noémie for this amazing illustration !
