@@ -31,6 +31,7 @@ track7_color: dreamy
 track7_link: https://mtsounds.web.deuxfleurs.fr/576/track7.mp3
 episode_URL: https://mailta.pe/576/Sons-Of-Zoku/
 musiColor: musicolor576.png
+alignY: "0.4"
 ---
 This morning is smooth, smoother than a banana-mango smoothie blended by a pro. Let these songs wrap you like a blanket and mellow out this Sunday morning with the delicate selection of Sons Of Zöku. Their music blends influences from psychedelic rock, experimental sounds, and world music, and they manage to make it all come together beautifully. They are taking us on a beautiful trip. 
 
