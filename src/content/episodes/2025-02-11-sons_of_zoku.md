@@ -29,11 +29,20 @@ track6_link: https://mtsounds.web.deuxfleurs.fr/576/track6.mp3
 track7_title: Jenny Hval - Cemetary of Splendour
 track7_color: dreamy
 track7_link: https://mtsounds.web.deuxfleurs.fr/576/track7.mp3
+description: >
+  This morning is smooth, smoother than a banana-mango smoothie blended by a
+  pro. Let these songs wrap you like a blanket and mellow out this Sunday
+  morning with the delicate selection of Sons Of Zöku.
+
+  They are taking us on a beautiful trip. 
+
+  Let’s dive in.
 episode_URL: https://mailta.pe/576/Sons-Of-Zoku/
+image: https://mailta.pe/img/fbPic576.jpg
 musiColor: musicolor576.png
 alignY: "0.2"
 ---
-This morning is smooth, smoother than a banana-mango smoothie blended by a pro. Let these songs wrap you like a blanket and mellow out this Sunday morning with the delicate selection of Sons Of Zöku. Their music blends influences from psychedelic rock, experimental sounds, and world music, and they manage to make it all come together beautifully. They are taking us on a beautiful trip. 
+This morning is smooth, smoother than a banana-mango smoothie blended by a pro. Let these songs wrap you like a blanket and mellow out this Sunday morning with the delicate selection of [Sons Of Zöku](https://sonsofzoku.bandcamp.com/). Their music blends influences from psychedelic rock, experimental sounds, and world music, and they manage to make it all come together beautifully. They are taking us on a beautiful trip. 
 
 Let’s dive in.
 
