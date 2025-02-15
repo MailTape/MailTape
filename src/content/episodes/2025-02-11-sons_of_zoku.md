@@ -37,35 +37,35 @@ This morning is smooth, smoother than a banana-mango smoothie blended by a pro. 
 
 Let’s dive in.
 
-# Sons Of Zöku's selection
+# [Sons Of Zöku](https://sonsofzoku.bandcamp.com/)'s selection
 
-## Fabiano Do Nascimento, Sam Gendel - Poeira
+## [Fabiano Do Nascimento](https://fabianomusic.com/), [Sam Gendel](https://samgendel.bandcamp.com/) - Poeira
 
  Sons Of Zöku: **"** Just love the soaring flute, the tone and simplicity over a cascade of nylon guitar chords. Says so much even without any words. **"** 
 
-## Cymande - One More
+## [Cymande](https://cymande.bandcamp.com/album/promised-heights) - One More
 
  Sons Of Zöku: **"** Such a creamy groove with a silky guitar tone. **"** 
 
-## This is the kit - Our Socks Forever More
+## [This is the kit](https://titk.cargo.site/) - Our Socks Forever More
 
  Sons Of Zöku: **"** I just love her voice, the melody and the way it sounds so intimate and up close, a bit like Sufjan Stevens. **"** 
 
 # Curator's selection
 
-## Sons Of Zöku - Nu Poème
+## [Sons Of Zöku](https://sonsofzoku.bandcamp.com/) - Nu Poème
 
  Aloyse: **"** We’re diving deep into the psychedelic core, carried by this relentless rhythm that pulls you deeper into your bed. The instruments and vocals blend together seamlessly, creating a trance-like experience. You can almost see hypnotic shapes and feel the music as a warm, enveloping substance wrapping around you.**"** 
 
-## Gábor Szabó - Somewhere I Belong
+## [Gábor Szabó](https://gaborszabo.bandcamp.com/album/1969) - Somewhere I Belong
 
  Aloyse: **"** One of the few original tracks from Gábor Szabó’s 1969 cover album, and one of the best. Multiple layers of guitar with infinite softness, yet they carry you exactly where you need to go, supported by an unrelenting rhythm section. **"** 
 
-## Roy Montgomery - Jaguar Unseen
+## [Roy Montgomery](https://roymontgomery.bandcamp.com/album/temple-iv) - Jaguar Unseen
 
  Aloyse: **"** The sound of Sons of Zöku reminded me of Roy Montgomery. This track is from his second album, Temple IV, which is a trip in itself. The tracks shift between dreamlike, experimental phases, sometimes even becoming unsettling. Beautiful psychedelic soundscapes. **"** 
 
-## Jenny Hval - Cemetery of Splendour
+## [Jenny Hval](https://www.jennyhval.com/) - Cemetery of Splendour
 
  Aloyse: **"** Let’s switch styles with Jenny Hval. I love how she weaves her lyrics between the concrete details of everyday life and poetic imagery, all with her crystal-clear voice. This song is from her latest album Classic Objects, and it leaves you lying in the grass on a summer day at the end. **"** 
 
