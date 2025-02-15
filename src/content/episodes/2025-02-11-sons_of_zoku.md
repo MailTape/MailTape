@@ -38,7 +38,7 @@ description: >
 
   Let’s dive in.
 episode_URL: https://mailta.pe/576/Sons-Of-Zoku/
-image: ""
+image: https://mailta.pe/img/fbPic576.jpg
 musiColor: musicolor576.png
 alignY: "0.2"
 ---
