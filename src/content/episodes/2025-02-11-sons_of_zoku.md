@@ -78,4 +78,4 @@ Let’s dive in.
 
  Aloyse: **"** Let’s switch styles with Jenny Hval. I love how she weaves her lyrics between the concrete details of everyday life and poetic imagery, all with her crystal-clear voice. This song is from her latest album Classic Objects, and it leaves you lying in the grass on a summer day at the end. **"** 
 
- That’s it for this morning. Thank you for listening and thanks a ton to Sons of Zöku for sharing these peaceful and inspiring tracks. And many thanks to Noémie for this amazing illustration !
+ That’s it for this morning. Thank you for listening and thanks a ton to Sons of Zöku for sharing these peaceful and inspiring tracks. And many many thanks to Noémie for this amazing illustration !
