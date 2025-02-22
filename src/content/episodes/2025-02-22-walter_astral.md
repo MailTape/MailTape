@@ -20,6 +20,7 @@ track4_link: https://mtsounds.web.deuxfleurs.fr/XXX/track4.mp3
 track5_link: https://mtsounds.web.deuxfleurs.fr/XXX/track5.mp3
 track6_link: https://mtsounds.web.deuxfleurs.fr/XXX/track6.mp3
 track7_link: https://mtsounds.web.deuxfleurs.fr/XXX/track7.mp3
+episode_URL: https://mailta.pe/577/Walter-Astral/
 ---
 This morning we carry the dream into the sunlight, welcoming the druids Walter Astral for an 
 
