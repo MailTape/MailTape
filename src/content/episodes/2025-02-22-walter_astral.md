@@ -64,7 +64,7 @@ Walter Astral: **"** [Roland Cristal](https://rolandcristal.bandcamp.com/album/o
 
 ## [Walter Astral](https://walterastral.bandcamp.com/) - Nadir
 
-Sarah: **"** From Walter Astral's latest album, [Éclipse](https://walterastral.bandcamp.com/album/clipse-2) :) The momentum in this track is mesmerizing, drawing us into the hum of these basslines. We traverse across quivering synths to new resonances and rhythms, with these glorious and glistening whispers from the druids brushing beside our ears all along :)  **"** 
+Sarah: **"** From Walter Astral's latest album, [Éclipse](https://walterastral.bandcamp.com/album/clipse-2) :) The momentum in this track is mesmerizing, drawing us into the surging hum of this bassline. We traverse across these quivering synths to new resonances and rhythms, with glorious and glistening whispers from the druids brushing beside our ears all along :)  **"** 
 
 ## Dm (Mx), Unders - Nature (Unders Dub)
 
