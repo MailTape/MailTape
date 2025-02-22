@@ -1,6 +1,6 @@
 ---
 published: false
-pubDate: 2025-02-23
+pubDate: 2025-02-22
 category: "577"
 guest_name: Walter Astral
 guest_color: trippy
