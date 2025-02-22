@@ -28,6 +28,14 @@ track6_link: https://mtsounds.web.deuxfleurs.fr/577/track6.mp3
 track7_title: Walter Astral - Aube
 track7_color: trippy
 track7_link: https://mtsounds.web.deuxfleurs.fr/577/track7.mp3
+description: "This morning our dream tapestries cross into the sunlight, letting
+  us revel in the shining contours of these threads and tangles. In these gentle
+  morning hours, the druids Walter Astral are our guides, weaving this textured
+  trance journey through sound. Based in Paris, the group joins us following the
+  release of their odyssey-like album, Éclipse. The group's releases offer both
+  meditation and dance, moving swiftly from folk to psychedelic rock to
+  effervescent techno, with rich and unexpected marriages across genre and
+  instruments. "
 episode_URL: https://mailta.pe/577/Walter-Astral/
 ---
 This morning our dream tapestries cross into the sunlight, letting us revel in the shining contours of these threads and tangles. In these gentle morning hours, the druids Walter Astral are our guides, weaving this textured trance journey through sound. Based in Paris, the group joins us following the release of their odyssey-like album, Éclipse. The group's releases offer both meditation and dance, moving swiftly from folk to psychedelic rock to effervescent techno, with rich and unexpected marriages across genre and instruments. 
