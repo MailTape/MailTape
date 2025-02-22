@@ -18,14 +18,14 @@ track3_color: trippy
 track3_link: https://mtsounds.web.deuxfleurs.fr/577/track3.mp3
 track4_title: Walter Astral - Nadir
 track4_color: trippy
-track4_link: https://mtsounds.web.deuxfleurs.fr/XXX/track4.mp3
+track4_link: https://mtsounds.web.deuxfleurs.fr/577/track4.mp3
 track5_color: vibrant
 track5_link: https://mtsounds.web.deuxfleurs.fr/XXX/track5.mp3
 track6_color: dreamy
 track6_link: https://mtsounds.web.deuxfleurs.fr/XXX/track6.mp3
 track7_title: Walter Astral - Aube
 track7_color: trippy
-track7_link: https://mtsounds.web.deuxfleurs.fr/XXX/track7.mp3
+track7_link: https://mtsounds.web.deuxfleurs.fr/577/track7.mp3
 episode_URL: https://mailta.pe/577/Walter-Astral/
 ---
 This morning let's carry the tapestries of our dreams into the sunlight, reveling in the shining contours of these threads and tangles. In these gentle morning hours, the druids Walter Astral are our guides, weaving this textured trance journey through sound. Based in Paris, the group joins us following the release of their odyssey-like album, 
