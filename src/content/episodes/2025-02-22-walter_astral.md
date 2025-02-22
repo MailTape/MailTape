@@ -28,7 +28,7 @@ track7_color: trippy
 track7_link: https://mtsounds.web.deuxfleurs.fr/XXX/track7.mp3
 episode_URL: https://mailta.pe/577/Walter-Astral/
 ---
-This morning we carry the dream into the sunlight, welcoming the druids Walter Astral for an 
+This morning we carry the threads of our dream into the sunlight, welcoming the shining contours of this tapestry. The druids Walter Astral are our guides these morning hours.
 
 # Guest's selection
 
@@ -46,7 +46,7 @@ Ya ya Breathe is the caravan that Bruno Pernadas drives us through the furrows o
 
  **"** 
 
-## Roland Cristal - Philippe Etchebest 
+## Roland Cristal - Philippe Etchebest
 
 Walter Astral: **"** Roland Cristal, fin techno-conteur Aveyronnais, raconte une histoire traumatique suite à la confection d'un sandwich à l'écorce et les réprimandes de Philippe Etchebest. Fort de cette expérience, Roland en ressort grandi et nous offre un morceau-offrande, fort de kick et de mélodie poussant à la gigue.
 
