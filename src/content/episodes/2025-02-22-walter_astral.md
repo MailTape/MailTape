@@ -68,7 +68,7 @@ Sarah: **"** lorem ipsum **"**
 
 ## Sophia Chablau e Felipe Vaqueiro - OHAYO SARAVÁ
 
-Sarah: **"** We've been following Sophia Chablau's releases for quite some time, and this track arrives from the collaborative EP from Chablau and Felipe Vaqueiro (Tangolo Mangos). Catching our ears, Marcelo Cabral's bassline on this track cannot be beat, dancing on spiking velvet feet alongside Biel Basile's soft drum hit spirals. The two weave effortlessly in and out of these guitars, finding their ways across the silky organs and weightless synths. **"** 
+Sarah: **"** We've been following Sophia Chablau's releases for quite some time, and this track arrives from the collaborative EP from Chablau and Felipe Vaqueiro (Tangolo Mangos). Marcelo Cabral's bassline on this track cannot be beat, dancing on spiking velvet feet alongside Biel Basile's soft drum hit spirals. The two weave effortlessly in and out of these guitars, finding their ways across the silky organs and weightless synths. **"** 
 
 ## Walter Astral - Aube
 
