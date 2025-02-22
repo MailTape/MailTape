@@ -19,17 +19,27 @@ This morning...
 
 # Guest's selection
 
-## Artist - Track
+## Jacob Gardner - Descent
 
-Walter Astral: **"** lorem ipsum **"** 
+Walter Astral: **"** Une plongée dans une forêt magique, habitée par les fées, les korrigans, tout y est mystérieux et paisible. Une ballade qui mélange les sonorités seventies et des mélodies qui pourraient être tirées d'un jeux vidéo rétro. Parfait pour arroser ses plantes, accompagner le café du matin ou la sieste. 
 
-## Artist - Track
+A dive into a magical forest, inhabited by fairies, korrigans, all of this is mysterious and peaceful. A ballad that mixes the sounds of the seventies and melodies that could have been taken from a retro video game. Perfect for watering your plants, alongside a morning coffee or a nap. **"** 
 
-Walter Astral: **"** lorem ipsum **"** 
+## Bruno Pernadas - Ya ya Breathe
 
-## Artist - Track
+Walter Astral: **"** Ya ya breathe est la roulotte dans laquelle bruno pernadas nous conduit a travers les sillons de son cerveau. A l'image de son album "those who throw objects at the crocodiles will be asked to retrieve them" ce titre dessine les contours d'une vie parallèle que nous pouvons decider de mener, guidés par de belles amitiés, un contact privilégié avec la nature et de la poésie. C'est un voyage dont nous sommes les héro.ine.s et dans lequel seules la musique et les émotions ont de l'importance. 
 
- Walter Astral: **"** lorem ipsum **"** 
+Ya ya Breathe is the caravan that Bruno Pernadas drives us through the furrows of his brain. Like his album, "those who throw objects at the crocodiles will be asked to retrive them," this track draws the contours of a parallel life we can choose to lead, guided by beautiful friendships, a privileged contact with nature and poetry. It's a journey in which we are the heroes and in which only music and emotions have importance. 
+
+ **"** 
+
+## Roland Cristal - Philippe Etchebest 
+
+ Walter Astral: **"** Roland Cristal, fin techno-conteur Aveyronnais, raconte une histoire traumatique suite à la confection d'un sandwich à l'écorce et les réprimandes de Philippe Etchebest. Fort de cette expérience, Roland en ressort grandi et nous offre un morceau-offrande, fort de kick et de mélodie poussant à la gigue.
+
+Roland Cristal, a fine techno-storyteller of Aveyron, tells a traumatic story following the making of a bark sandwich and the reprimands of Philippe Etchebest. Strengthened from this experience, Roland emerges transformed and presents us a token offering, full of kick and pulsing melody for a jig. 
+
+ **"** 
 
 # Curator's selection
 
