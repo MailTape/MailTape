@@ -30,7 +30,7 @@ track7_color: trippy
 track7_link: https://mtsounds.web.deuxfleurs.fr/577/track7.mp3
 episode_URL: https://mailta.pe/577/Walter-Astral/
 ---
-This morning our dream tapestries cross into the sunlight, leaving us to revel in the shining contours of these threads and tangles. In these gentle morning hours, the druids Walter Astral are our guides, weaving this textured trance journey through sound. Based in Paris, the group joins us following the release of their odyssey-like album, Éclipse. Their releases move swiftly from folk to psychedelic rock to effervescent techno. 
+This morning our dream tapestries cross into the sunlight, leaving us to revel in the shining contours of these threads and tangles. In these gentle morning hours, the druids Walter Astral are our guides, weaving this textured trance journey through sound. Based in Paris, the group joins us following the release of their odyssey-like album, Éclipse. Their releases move swiftly from folk to psychedelic rock to effervescent techno, a 
 
 # Guest's selection
 
@@ -60,7 +60,7 @@ Roland Cristal, a fine techno-storyteller of Aveyron, tells a traumatic story fo
 
 ## Walter Astral - Nadir
 
-Sarah: **"** From the latest album, Éclipse.  **"** 
+Sarah: **"** From Walter Astral's latest album, Éclipse :) The momentum in this track is mesmerizing, drawing us into the hum of these basslines. Across fluttering synths we traverse new resonances and rhythms, with the glistening whispers brushing us with numeric harmonies.  **"** 
 
 ## Dm (Mx), Unders - Nature (Unders Dub)
 
@@ -68,10 +68,10 @@ Sarah: **"** lorem ipsum **"**
 
 ## Sophia Chablau e Felipe Vaqueiro - OHAYO SARAVÁ
 
-Sarah: **"** Marcelo Cabral's bassline on this track cannot be beat, dancing on spiking velvet feet alongside Biel Basile's soft drum hit spirals. The two weave in and out of these guitars and across the silky organs and weightless synths. **"** 
+Sarah: **"** We've been following Sophia Chablau's releases for quite some time, and this track arrives from the collaborative EP from Chablau and Felipe Vaqueiro (Tangolo Mangos). Catching our ears, Marcelo Cabral's bassline on this track cannot be beat, dancing on spiking velvet feet alongside Biel Basile's soft drum hit spirals. The two weave effortlessly in and out of these guitars, finding their ways across the silky organs and weightless synths. **"** 
 
 ## Walter Astral - Aube
 
-Sarah: **"** This final song of our morning also arrives from the group's latest album, which carries so much richness that it's difficult to leave this episode with only one track.. **"** 
+Sarah: **"** The final song of our morning is the first track on the group's latest album. On first listen, it felt as though any amount of time could have passed, that were many songs and many worlds contained in this one number. Opening its jaws to orchestral breaks and banjo takeovers in one moment, the track dissolves into techno synths the next, with so much effort as a breath. In these silky swells and swoops, Aube gifts us with an epic in its own right, a generous first introduction to the group's debut album :) **"** 
 
  Thank you...
