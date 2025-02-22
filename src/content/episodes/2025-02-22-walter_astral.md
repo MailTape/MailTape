@@ -9,9 +9,13 @@ author: Sarah
 illustrator: Camille Lemeunier
 track1_title: Jacob Gardner - Descent
 track1_color: vibrant
-track1_link: https://mtsounds.web.deuxfleurs.fr/XXX/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/XXX/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/XXX/track3.mp3
+track1_link: https://mtsounds.web.deuxfleurs.fr/577/track1.mp3
+track2_title: Bruno Pernadas - Ya ya Breathe
+track2_color: dreamy
+track2_link: https://mtsounds.web.deuxfleurs.fr/577/track2.mp3
+track3_title: "Roland Cristal - Philippe Etchebest "
+track3_color: trippy
+track3_link: https://mtsounds.web.deuxfleurs.fr/577/track3.mp3
 track4_link: https://mtsounds.web.deuxfleurs.fr/XXX/track4.mp3
 track5_link: https://mtsounds.web.deuxfleurs.fr/XXX/track5.mp3
 track6_link: https://mtsounds.web.deuxfleurs.fr/XXX/track6.mp3
