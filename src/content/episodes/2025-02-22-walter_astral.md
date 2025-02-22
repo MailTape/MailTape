@@ -74,4 +74,4 @@ Sarah: **"** We've been following Sophia Chablau's releases for quite some time,
 
 Sarah: **"** The final song of our morning is the first track on the group's latest album. On first listen, it felt as though any amount of time could have passed, that were many songs and many worlds contained in this one number. Opening its jaws to orchestral breaks and banjo takeovers in one moment, the track dissolves into techno synths the next, with so much effort as a breath. In these silky swells and swoops, Aube gifts us with an epic in its own right, a generous first introduction to the group's debut album :) **"** 
 
-That's all for this morning, thank you very much for listening ! A million thanks to our dear guest Walter Astral for these ethereal selections and to our wonderful illustrator Camille Lemeunier for this episode's brilliant and textured artwork :)
+That's all for this morning, thank you very much for listening ! A million thanks to our dear guest Walter Astral for these thoughtful and ethereal selections and to our wonderful illustrator Camille Lemeunier for this episode's brilliant and textured artwork :) Until next Sunday...
