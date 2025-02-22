@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 pubDate: 2025-02-22
 category: "577"
 guest_name: Walter Astral
