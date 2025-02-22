@@ -56,7 +56,7 @@ Roland Cristal, a fine techno-storyteller of Aveyron, tells a traumatic story fo
 
 # Curator's selection
 
-## Walter Astral - Track
+## Walter Astral - Nadir
 
  Sarah: **"** lorem ipsum **"** 
 
@@ -68,7 +68,7 @@ Roland Cristal, a fine techno-storyteller of Aveyron, tells a traumatic story fo
 
  Sarah: **"** lorem ipsum **"** 
 
-## Artist - Track
+## Walter Astral - Aube
 
  Sarah: **"** lorem ipsum **"** 
 
