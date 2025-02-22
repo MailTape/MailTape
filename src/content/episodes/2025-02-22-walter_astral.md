@@ -28,7 +28,7 @@ track7_color: trippy
 track7_link: https://mtsounds.web.deuxfleurs.fr/577/track7.mp3
 episode_URL: https://mailta.pe/577/Walter-Astral/
 ---
-This morning let's carry the tapestries of our dreams into the sunlight, reveling in the shining contours of these threads and tangles. In these gentle morning hours, the druids Walter Astral are our guides, weaving this textured trance journey through sound. Based in Paris, the group joins us following the release of their odyssey-like album, 
+This morning our dream tapestries cross into the sunlight, leaving us to revel in the shining contours of these threads and tangles. In these gentle morning hours, the druids Walter Astral are our guides, weaving this textured trance journey through sound. Based in Paris, the group joins us following the release of their odyssey-like album, Éclipse. Their releases move swiftly from folk to psychedelic rock to effervescent techno. 
 
 # Guest's selection
 
@@ -58,18 +58,18 @@ Roland Cristal, a fine techno-storyteller of Aveyron, tells a traumatic story fo
 
 ## Walter Astral - Nadir
 
- Sarah: **"** lorem ipsum **"** 
+Sarah: **"** From the latest album, Éclipse.  **"** 
 
 ## Dm (Mx), Unders - Nature (Unders Dub)
 
- Sarah: **"** lorem ipsum **"** 
+Sarah: **"** lorem ipsum **"** 
 
-## Artist - Track
+## Sophia Chablau e Felipe Vaqueiro - OHAYO SARAVÁ
 
- Sarah: **"** lorem ipsum **"** 
+Sarah: **"** Marcelo Cabral's bassline on this track cannot be beat, dancing on spiking velvet feet alongside Biel Basile's soft drum hit spirals. The two weave in and out of these guitars and across the silky organs and weightless synths. **"** 
 
 ## Walter Astral - Aube
 
- Sarah: **"** lorem ipsum **"** 
+Sarah: **"** This final song of our morning also arrives from the group's latest album, which carries so much richness that it's difficult to leave this episode with only one track.. **"** 
 
  Thank you...
