@@ -7,6 +7,8 @@ guest_color: trippy
 guestPic: guestpic577.jpg
 author: Sarah
 illustrator: Camille Lemeunier
+track1_title: Jacob Gardner - Descent
+track1_color: vibrant
 track1_link: https://mtsounds.web.deuxfleurs.fr/XXX/track1.mp3
 track2_link: https://mtsounds.web.deuxfleurs.fr/XXX/track2.mp3
 track3_link: https://mtsounds.web.deuxfleurs.fr/XXX/track3.mp3
@@ -15,7 +17,7 @@ track5_link: https://mtsounds.web.deuxfleurs.fr/XXX/track5.mp3
 track6_link: https://mtsounds.web.deuxfleurs.fr/XXX/track6.mp3
 track7_link: https://mtsounds.web.deuxfleurs.fr/XXX/track7.mp3
 ---
-This morning... 
+This morning we carry the dream into the sunlight, welcoming the druids Walter Astral for an 
 
 # Guest's selection
 
