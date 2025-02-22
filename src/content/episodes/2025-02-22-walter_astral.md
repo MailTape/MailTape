@@ -19,9 +19,11 @@ track3_link: https://mtsounds.web.deuxfleurs.fr/577/track3.mp3
 track4_title: Walter Astral - Nadir
 track4_color: trippy
 track4_link: https://mtsounds.web.deuxfleurs.fr/577/track4.mp3
-track5_color: vibrant
-track5_link: https://mtsounds.web.deuxfleurs.fr/XXX/track5.mp3
-track6_color: dreamy
+track5_title: Dm (Mx) - Nature (Unders Dub)
+track5_color: trippy
+track5_link: https://mtsounds.web.deuxfleurs.fr/577/track5.mp3
+track6_title: Sophia Chablau e Felipe Vaqueiro - OHAYO SARAVÁ
+track6_color: vibrant
 track6_link: https://mtsounds.web.deuxfleurs.fr/XXX/track6.mp3
 track7_title: Walter Astral - Aube
 track7_color: trippy
