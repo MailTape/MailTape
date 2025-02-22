@@ -64,7 +64,7 @@ Sarah: **"** From Walter Astral's latest album, Éclipse :) The momentum in this
 
 ## Dm (Mx), Unders - Nature (Unders Dub)
 
-Sarah: **"** These rhythms are delightfully disorienting, connecting us at once to our own heartbeats, but then to the flutter of insect wings, and of course, to the heartstrings of techno trance. **"** 
+Sarah: **"** These rhythms are delightfully disorienting, connecting us at once to our own heartbeats, but then to the flutter of insect wings, and of course, to these singing strings of techno trance. Brought into the forest, we lean into these sounds of birds, snakes, and breezes exhaling through tree leaves; making up our own momentum through these green shimmers of sound.  **"** 
 
 ## Sophia Chablau e Felipe Vaqueiro - OHAYO SARAVÁ
 
