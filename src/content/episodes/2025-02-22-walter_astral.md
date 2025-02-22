@@ -28,7 +28,7 @@ track7_color: trippy
 track7_link: https://mtsounds.web.deuxfleurs.fr/XXX/track7.mp3
 episode_URL: https://mailta.pe/577/Walter-Astral/
 ---
-This morning we carry the threads of our dream into the sunlight, welcoming the shining contours of this tapestry. The druids Walter Astral are our guides these morning hours.
+This morning let's carry the tapestries of our dreams into the sunlight, reveling in the shining contours of these threads and tangles. Weaving this trance journey through sound, the druids Walter Astral are our guides in these gentle morning hours. 
 
 # Guest's selection
 
