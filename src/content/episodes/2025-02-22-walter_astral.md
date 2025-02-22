@@ -24,7 +24,7 @@ track5_color: trippy
 track5_link: https://mtsounds.web.deuxfleurs.fr/577/track5.mp3
 track6_title: Sophia Chablau e Felipe Vaqueiro - OHAYO SARAVÁ
 track6_color: vibrant
-track6_link: https://mtsounds.web.deuxfleurs.fr/XXX/track6.mp3
+track6_link: https://mtsounds.web.deuxfleurs.fr/577/track6.mp3
 track7_title: Walter Astral - Aube
 track7_color: trippy
 track7_link: https://mtsounds.web.deuxfleurs.fr/577/track7.mp3
