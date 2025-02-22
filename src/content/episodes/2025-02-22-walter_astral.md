@@ -1,6 +1,6 @@
 ---
 published: true
-pubDate: 2025-02-22
+pubDate: 2025-02-23
 category: "577"
 guest_name: Walter Astral
 guest_color: trippy
@@ -28,7 +28,7 @@ track7_color: trippy
 track7_link: https://mtsounds.web.deuxfleurs.fr/XXX/track7.mp3
 episode_URL: https://mailta.pe/577/Walter-Astral/
 ---
-This morning let's carry the tapestries of our dreams into the sunlight, reveling in the shining contours of these threads and tangles. Weaving this trance journey through sound, the druids Walter Astral are our guides in these gentle morning hours. 
+This morning let's carry the tapestries of our dreams into the sunlight, reveling in the shining contours of these threads and tangles. In these gentle morning hours, the druids Walter Astral are our guides, weaving this textured trance journey through sound. Based in Paris, the group joins us following the release of their odyssey-like album, 
 
 # Guest's selection
 
