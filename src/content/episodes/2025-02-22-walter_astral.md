@@ -16,21 +16,37 @@ track6_link: https://mtsounds.web.deuxfleurs.fr/XXX/track6.mp3
 track7_link: https://mtsounds.web.deuxfleurs.fr/XXX/track7.mp3
 ---
 This morning... 
- # Guest's selection 
- ## Artist - Track 
- Guest: **"** lorem ipsum **"** 
- ## Artist - Track 
- Guest: **"** lorem ipsum **"** 
- ## Artist - Track 
- Guest: **"** lorem ipsum **"** 
- # Curator's selection 
- ## Artist - Track 
- Curator: **"** lorem ipsum **"** 
- ## Artist - Track 
- Curator: **"** lorem ipsum **"** 
- ## Artist - Track 
- Curator: **"** lorem ipsum **"** 
- ## Artist - Track 
- Curator: **"** lorem ipsum **"** 
 
- Thank you... 
+# Guest's selection
+
+## Artist - Track
+
+Walter Astral: **"** lorem ipsum **"** 
+
+## Artist - Track
+
+Walter Astral: **"** lorem ipsum **"** 
+
+## Artist - Track
+
+ Walter Astral: **"** lorem ipsum **"** 
+
+# Curator's selection
+
+## Walter Astral - Track
+
+ Sarah: **"** lorem ipsum **"** 
+
+## Artist - Track
+
+ Sarah: **"** lorem ipsum **"** 
+
+## Artist - Track
+
+ Sarah: **"** lorem ipsum **"** 
+
+## Artist - Track
+
+ Sarah: **"** lorem ipsum **"** 
+
+ Thank you...
