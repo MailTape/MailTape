@@ -66,16 +66,16 @@ Walter Astral: **"** [Roland Cristal](https://rolandcristal.bandcamp.com/album/o
 
 Sarah: **"** From Walter Astral's latest album, [Éclipse](https://walterastral.bandcamp.com/album/clipse-2) :) The momentum in this track is mesmerizing, drawing us into the surging hum of this bassline. We traverse across these quivering synths to new resonances and rhythms, with glorious and glistening whispers from the druids brushing beside our ears all along :)  **"** 
 
-## Dm (Mx), Unders - Nature (Unders Dub)
+## [Dm (Mx)](https://happycamperrecords.bandcamp.com/), Unders - Nature (Unders Dub)
 
 Sarah: **"** These rhythms are delightfully disorienting, connecting us at once to our own heartbeats, but then to the flutter of insect wings, and of course, to these singing stretches of techno trance. Brought into the forest, we lean into these sounds of birds, snakes, and breezes exhaling through tree leaves; making up our own momentum through these green shimmers of sound.  **"** 
 
-## Sophia Chablau e Felipe Vaqueiro - OHAYO SARAVÁ
+## [Sophia Chablau e Felipe Vaqueiro](https://sophiachablauefelipevaqueiro.bandcamp.com/album/nova-era-ohayo-sarav) - OHAYO SARAVÁ
 
-Sarah: **"** We've been following Sophia Chablau's releases for quite some time, and this track arrives from the collaborative EP from Chablau and Felipe Vaqueiro (Tangolo Mangos). Marcelo Cabral's bassline on this track cannot be beat, dancing on spiking velvet feet alongside Biel Basile's soft drum hit spirals. The two weave effortlessly in and out of these guitars, finding their ways across the silky organs and weightless synths. **"** 
+Sarah: **"** We've been following Sophia Chablau's releases for quite some time, and this track arrives from the collaborative EP with Felipe Vaqueiro (Tangolo Mangos). Marcelo Cabral's bassline on this track cannot be beat, dancing on spiking velvet feet alongside Biel Basile's soft drum hit spirals. The two weave effortlessly in and out of these guitars, finding their ways across the silky organs and weightless synths. **"** 
 
-## Walter Astral - Aube
+## [Walter Astral](https://walterastral.bandcamp.com/) - Aube
 
 Sarah: **"** The final song of our morning is the first track on the group's [latest album](https://walterastral.bandcamp.com/album/clipse-2). On first listen, it felt as though any amount of time could have passed, that were many songs and many worlds contained in this one number. Opening its jaws to orchestral breaks and banjo takeovers in one moment, the track dissolves into techno synths the next, with so much effort as a breath. In these silky swells and swoops, Aube gifts us with an epic in its own right, a generous first introduction to the group's debut album :) **"** 
 
-That's all for this morning, thank you very much for listening ! A million thanks to our dear guest Walter Astral for these thoughtful and ethereal selections and to our wonderful illustrator Camille Lemeunier for this episode's brilliant and textured artwork :) Until next Sunday...
+That's all for this morning, thank you very much for listening ! A million thanks to our dear guest Walter Astral for these thoughtful and ethereal selections and to our wonderful illustrator [Camille Lemeunier](https://camillelemeunier.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaY2hB73T0nwqY-KVOCsjQZM4CGr0lJoRxPHkUXcR5-VlEuVJXk-h_Dftas_aem_yRXqRSCA16Wbj_iWezetog) for this episode's brilliant and textured artwork :) Until next Sunday...
