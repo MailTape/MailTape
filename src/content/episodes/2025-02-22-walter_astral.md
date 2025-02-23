@@ -7,6 +7,7 @@ guest_color: trippy
 guestPic: guestpic577.jpg
 author: Sarah
 illustrator: Camille Lemeunier
+writer: Sarah
 track1_title: Jacob Gardner - Descent
 track1_color: vibrant
 track1_link: https://mtsounds.web.deuxfleurs.fr/577/track1.mp3
