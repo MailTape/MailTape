@@ -8,7 +8,7 @@ guestPic: guestpic577.jpg
 author: Sarah
 illustrator: Camille Lemeunier
 writer: Sarah
-track1_title: Jacob Gardner - Descent
+track1_title: Jacco Gardner - Descent
 track1_color: vibrant
 track1_link: https://mtsounds.web.deuxfleurs.fr/577/track1.mp3
 track2_title: Bruno Pernadas - Ya ya Breathe
@@ -45,7 +45,7 @@ This morning our dream tapestries cross into the sunlight, letting us revel in t
 
 # Guest's selection
 
-## Jacob Gardner - Descent
+## [Jacco Gardner](https://jaccogardner.bandcamp.com/album/somnium) - Descent
 
 Walter Astral: **"** Une plongée dans une forêt magique, habitée par les fées, les korrigans, tout y est mystérieux et paisible. Une ballade qui mélange les sonorités seventies et des mélodies qui pourraient être tirées d'un jeux vidéo rétro. Parfait pour arroser ses plantes, accompagner le café du matin ou la sieste. 
 
