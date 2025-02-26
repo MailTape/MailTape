@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 pubDate: 2025-03-02
 category: "578"
 guest_name: Magic Tuber Stringband
