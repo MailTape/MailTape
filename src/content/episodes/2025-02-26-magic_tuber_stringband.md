@@ -7,17 +7,18 @@ guest_color: bliss
 author: Sarah
 track1_title: Latin Playboys - Mustard
 track1_color: dreamy
-track1_link: https://mtsounds.web.deuxfleurs.fr/XXX/track1.mp3
+track1_link: https://mtsounds.web.deuxfleurs.fr/578/track1.mp3
 track2_title: Catherine Ribeiro + Alpes - Âme debout
 track2_color: vibrant
-track2_link: https://mtsounds.web.deuxfleurs.fr/XXX/track2.mp3
+track2_link: https://mtsounds.web.deuxfleurs.fr/578/track2.mp3
 track3_title: Baka Beyond / Baka Forest People - Venolouma
 track3_color: trippy
-track3_link: https://mtsounds.web.deuxfleurs.fr/XXX/track3.mp3
+track3_link: https://mtsounds.web.deuxfleurs.fr/578/track3.mp3
 track4_link: https://mtsounds.web.deuxfleurs.fr/XXX/track4.mp3
 track5_link: https://mtsounds.web.deuxfleurs.fr/XXX/track5.mp3
 track6_link: https://mtsounds.web.deuxfleurs.fr/XXX/track6.mp3
 track7_link: https://mtsounds.web.deuxfleurs.fr/XXX/track7.mp3
+episode_URL: https://mailta.pe/578/Magic-Tuber-Stringband/
 ---
 This morning... 
 
