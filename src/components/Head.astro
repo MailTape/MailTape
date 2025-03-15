@@ -4,10 +4,10 @@ import { string } from 'astro:schema';
 // new general header component
 
 interface Props {
-    lang:string;
+    lang?:string;
     title:string;
     description:string;
-    ogUrl: string;
+    ogUrl?: string;
 }
 const {
     lang='en',
