@@ -25,13 +25,13 @@ track4_title: Bonnie Banane - Statue
 track5_title: ShyGirl - Want More
 track6_title: LAFAWNDAH - All That She Wants (Ace of Base cover)
 track7_title: D.K. - Play On
-track1_link: https://mtsounds.web.deuxfleurs.fr/225/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/225/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/225/track3.mp3
-track4_link: https://mtsounds.web.deuxfleurs.fr/225/track4.mp3
-track5_link: https://mtsounds.web.deuxfleurs.fr/225/track5.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/225/track6.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/225/track7.mp3
+track1_link: https://sounds.mailta.pe/225/track1.mp3
+track2_link: https://sounds.mailta.pe/225/track2.mp3
+track3_link: https://sounds.mailta.pe/225/track3.mp3
+track4_link: https://sounds.mailta.pe/225/track4.mp3
+track5_link: https://sounds.mailta.pe/225/track5.mp3
+track6_link: https://sounds.mailta.pe/225/track6.mp3
+track7_link: https://sounds.mailta.pe/225/track7.mp3
 description: a nostalgic jaunt through the 90’s with Bonnie Banane !
 pubDate: '2016-07-17'
 ---

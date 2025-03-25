@@ -26,13 +26,13 @@ track7_color: vibrant
 episode_URL: http://mailta.pe/543/Diamanda-La-Berge-Dramm/
 image: https://mailta.pe/img/fbPic543.jpg
 musiColor: musiColor543.png
-track1_link: https://mtsounds.web.deuxfleurs.fr/543/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/543/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/543/track3.mp3
-track4_link: https://mtsounds.web.deuxfleurs.fr/543/track4.mp3
-track5_link: https://mtsounds.web.deuxfleurs.fr/543/track5.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/543/track6.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/543/track7.mp3
+track1_link: https://sounds.mailta.pe/543/track1.mp3
+track2_link: https://sounds.mailta.pe/543/track2.mp3
+track3_link: https://sounds.mailta.pe/543/track3.mp3
+track4_link: https://sounds.mailta.pe/543/track4.mp3
+track5_link: https://sounds.mailta.pe/543/track5.mp3
+track6_link: https://sounds.mailta.pe/543/track6.mp3
+track7_link: https://sounds.mailta.pe/543/track7.mp3
 description: This morning, we're honored to welcome Diamanda La Berge Dramm as our guest. Known as one of the leading contemporary classical music performers of her generation, she unveils some of her precious musical gems in this episode—a selection filled with poetry, inventiveness, and a deep desire to embrace life.
 pubDate: '2024-01-14'
 ---

@@ -2,12 +2,12 @@
 
 bigTitle_font_ratio: '6'
 published: true
-track2_link: https://mtsounds.web.deuxfleurs.fr/355/track2.mp3
-track4_link: https://mtsounds.web.deuxfleurs.fr/355/track4.mp3
-track1_link: https://mtsounds.web.deuxfleurs.fr/355/Track1.mp3
+track2_link: https://sounds.mailta.pe/355/track2.mp3
+track4_link: https://sounds.mailta.pe/355/track4.mp3
+track1_link: https://sounds.mailta.pe/355/Track1.mp3
 track1_color: bliss
 track1_title: Deerhunter - Helicopter
-track3_link: https://mtsounds.web.deuxfleurs.fr/355/Track3.mp3
+track3_link: https://sounds.mailta.pe/355/Track3.mp3
 track2_title: 'Muddy Monk - Si l''on ride '
 track2_color: dreamy
 track3_title: Simply Red - Holding back the years
@@ -26,9 +26,9 @@ writer: Anaïs G
 category: '355'
 guest_name: 'Marble Arch '
 guest_color: dreamy
-track5_link: https://mtsounds.web.deuxfleurs.fr/355/Track5.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/355/Track6.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/355/Track7.mp3
+track5_link: https://sounds.mailta.pe/355/Track5.mp3
+track6_link: https://sounds.mailta.pe/355/Track6.mp3
+track7_link: https://sounds.mailta.pe/355/Track7.mp3
 episode_URL: http://mailta.pe/355/marble-arch
 image: https://mailta.pe/img/fbPic355.png
 musiColor: musiColor355.jpg

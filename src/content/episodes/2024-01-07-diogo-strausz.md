@@ -8,26 +8,26 @@ category: '542'
 guest_name: Diogo Strausz
 guest_color: trippy
 illustrator: Camille Lemeunier
-track1_link: https://mtsounds.web.deuxfleurs.fr/542/track1.mp3
+track1_link: https://sounds.mailta.pe/542/track1.mp3
 track1_title: The Beatles - Here Comes The Sun
 track1_color: dreamy
-track2_link: https://mtsounds.web.deuxfleurs.fr/542/track2.mp3
+track2_link: https://sounds.mailta.pe/542/track2.mp3
 track2_title: Robson Jorge & Lincoln Olivetti - Suspira
 track2_color: bliss
-track3_link: https://mtsounds.web.deuxfleurs.fr/542/track3.mp3
+track3_link: https://sounds.mailta.pe/542/track3.mp3
 track3_title: Alaaska - Bangkok
 track3_color: vibrant
-track4_link: https://mtsounds.web.deuxfleurs.fr/542/track4.mp3
+track4_link: https://sounds.mailta.pe/542/track4.mp3
 track4_title: Diogo Strausz - Flexível
 track4_color: trippy
-track5_link: https://mtsounds.web.deuxfleurs.fr/542/track5.mp3
+track5_link: https://sounds.mailta.pe/542/track5.mp3
 track5_title: Nanda Rossi - Livre Pra Voar (Millos Kaiser Edit)
 track5_color: bliss
-track6_link: https://mtsounds.web.deuxfleurs.fr/542/track6.mp3
+track6_link: https://sounds.mailta.pe/542/track6.mp3
 track6_title: Charif Megarbane - Ya Salam
 track6_color: dreamy
 track7_color: vibrant
-track7_link: https://mtsounds.web.deuxfleurs.fr/542/track7.mp3
+track7_link: https://sounds.mailta.pe/542/track7.mp3
 track7_title: Frantz Tuernal - Koultans
 episode_URL: https://www.mailta.pe/542/diogo-strausz/
 musiColor: musiColor542.png

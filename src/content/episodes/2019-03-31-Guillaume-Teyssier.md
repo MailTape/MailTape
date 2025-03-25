@@ -2,13 +2,13 @@
 
 bigTitle_font_ratio: '6'
 published: true
-track1_link: https://mtsounds.web.deuxfleurs.fr/351/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/351/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/351/track3.mp3
-track4_link: https://mtsounds.web.deuxfleurs.fr/351/track4.mp3
-track5_link: https://mtsounds.web.deuxfleurs.fr/351/track5.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/351/track6.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/351/track7.mp3
+track1_link: https://sounds.mailta.pe/351/track1.mp3
+track2_link: https://sounds.mailta.pe/351/track2.mp3
+track3_link: https://sounds.mailta.pe/351/track3.mp3
+track4_link: https://sounds.mailta.pe/351/track4.mp3
+track5_link: https://sounds.mailta.pe/351/track5.mp3
+track6_link: https://sounds.mailta.pe/351/track6.mp3
+track7_link: https://sounds.mailta.pe/351/track7.mp3
 track7_title: Wolf Müller meets the Nile Project - Mabomba Dance
 track1_title: Caetano Veloso - Maria Bethania
 track2_title: Deux - Game and Performance

@@ -9,13 +9,13 @@ category: '529'
 guest_name: Julia Bondar
 guest_color: rough
 guestPic: guestPic529.jpg
-track1_link: https://mtsounds.web.deuxfleurs.fr/529/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/529/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/529/track3.mp3
-track4_link: https://mtsounds.web.deuxfleurs.fr/529/track4.mp3
-track5_link: https://mtsounds.web.deuxfleurs.fr/529/track5.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/529/track6.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/529/track7.mp3
+track1_link: https://sounds.mailta.pe/529/track1.mp3
+track2_link: https://sounds.mailta.pe/529/track2.mp3
+track3_link: https://sounds.mailta.pe/529/track3.mp3
+track4_link: https://sounds.mailta.pe/529/track4.mp3
+track5_link: https://sounds.mailta.pe/529/track5.mp3
+track6_link: https://sounds.mailta.pe/529/track6.mp3
+track7_link: https://sounds.mailta.pe/529/track7.mp3
 track1_title: Luca Eck feat LVRA – Hide
 track1_color: rough
 track2_title: Clams Casino feat Lil B & Asap Rocky

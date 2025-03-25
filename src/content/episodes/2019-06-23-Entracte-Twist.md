@@ -7,32 +7,32 @@ illustrator: Camille Célestin
 writer: Anaïs G
 category: '363'
 guest_name: Entracte Twist
-track2_link: https://mtsounds.web.deuxfleurs.fr/363/track2.mp3
+track2_link: https://sounds.mailta.pe/363/track2.mp3
 track2_title: 'The Homesick - Half Aryan '
 track2_color: rough
-track3_link: https://mtsounds.web.deuxfleurs.fr/363/track3.mp3
+track3_link: https://sounds.mailta.pe/363/track3.mp3
 track3_title: Requin Chagrin - Les Plus Mauvaises Nuits
 track3_color: dreamy
 track1_title: Cocteau Twins - Sugar Hiccup
 track4_title: 'Entracte Twist - Hors Service '
 track4_color: rough
-track4_link: https://mtsounds.web.deuxfleurs.fr/363/track4.mp3
+track4_link: https://sounds.mailta.pe/363/track4.mp3
 episode_URL: http://mailta.pe/363/Entracte-Twist/
 track5_title: Cate Le Bon - Solitude
 track5_color: vibrant
 track6_title: 'Structures - Satellite '
 track6_color: rough
-track6_link: https://mtsounds.web.deuxfleurs.fr/363/track6.mp3
+track6_link: https://sounds.mailta.pe/363/track6.mp3
 track7_title: The Fat White Family - Tastes Good With The Money
 track7_color: trippy
 guestPic: guestPic363.jpg
 track1_color: dreamy
-track1_link: https://mtsounds.web.deuxfleurs.fr/363/Track1.mp3
+track1_link: https://sounds.mailta.pe/363/Track1.mp3
 musiColor: musiColor363.png
-track5_link: https://mtsounds.web.deuxfleurs.fr/363/Track5.mp3
+track5_link: https://sounds.mailta.pe/363/Track5.mp3
 description: This morning, we take out the guitars, adjust our strings test the sound with the amp in boring neighbors...  And let our fingers slide so that we can wake up our faithful on Sunday morning. New-wave and post punk for your awakening?  And why not ... Entracte Twist" strays off the beaten track to offer us a selection worthy of the name.
 guest_color: rough
-track7_link: https://mtsounds.web.deuxfleurs.fr/363/Track7.mp3
+track7_link: https://sounds.mailta.pe/363/Track7.mp3
 image: fbPic363.png
 pubDate: '2019-06-23'
 ---

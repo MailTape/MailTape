@@ -7,19 +7,19 @@ guest_name: Flavien Berger
 guest_color: trippy
 author: ImaCrea
 writer: ImaCrea
-track1_link: https://mtsounds.web.deuxfleurs.fr/324/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/324/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/324/track3.mp3
-track4_link: https://mtsounds.web.deuxfleurs.fr/324/track4.mp3
+track1_link: https://sounds.mailta.pe/324/track1.mp3
+track2_link: https://sounds.mailta.pe/324/track2.mp3
+track3_link: https://sounds.mailta.pe/324/track3.mp3
+track4_link: https://sounds.mailta.pe/324/track4.mp3
 track1_title: Catherine Deneuve - Digital Delay
 track2_title: Laraaji - All of a Sudden
 track3_title: Yves Tumor - Limerence
 track4_title: Flavien Berger - 999999999
-track5_link: https://mtsounds.web.deuxfleurs.fr/324/track5.mp3
+track5_link: https://sounds.mailta.pe/324/track5.mp3
 guestPic: guestPic324.jpg
 track5_title: Begayer - Le premier jour de l'année
-track6_link: https://mtsounds.web.deuxfleurs.fr/324/track6.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/324/track7.mp3
+track6_link: https://sounds.mailta.pe/324/track6.mp3
+track7_link: https://sounds.mailta.pe/324/track7.mp3
 track6_title: Arutani - The Mermaid Girl ft. ĂVEM
 track7_title: Tessela - Glisten
 episode_URL: https://www.mailta.pe/324/flavien-berger/

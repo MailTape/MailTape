@@ -14,21 +14,21 @@ track6_color: dreamy
 track7_color: vibrant
 category: '142'
 guest_name: Grey Reverend
-track1_link: https://mtsounds.web.deuxfleurs.fr/142/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/142/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/142/track3.mp3
-track4_link: https://mtsounds.web.deuxfleurs.fr/142/track4.mp3
+track1_link: https://sounds.mailta.pe/142/track1.mp3
+track2_link: https://sounds.mailta.pe/142/track2.mp3
+track3_link: https://sounds.mailta.pe/142/track3.mp3
+track4_link: https://sounds.mailta.pe/142/track4.mp3
 track3_title: Dusty Springfield - Just A Little loving
 track1_title: Nina Simone - I Loves You Porgy
 track2_title: 'Tom Scott - Today '
 track4_title: Grey Reverend - Everlasting
 episode_URL: http://mailta.pe/142/Grey-Reverend/
 track5_title: Mice Parade - Nights Wave
-track5_link: https://mtsounds.web.deuxfleurs.fr/142/track5.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/142/track6.mp3
+track5_link: https://sounds.mailta.pe/142/track5.mp3
+track6_link: https://sounds.mailta.pe/142/track6.mp3
 track6_title: Long Arm - Sleepsafe
 track7_title: Sixto Rodriguez - Inner City Blues
-track7_link: https://mtsounds.web.deuxfleurs.fr/142/track7.mp3
+track7_link: https://sounds.mailta.pe/142/track7.mp3
 guestPic: guestPic142.jpg
 image: https://mailta.pe/img/fbPic142.jpg
 musiColor: musiColor142.png

@@ -19,20 +19,20 @@ track5_color: bliss
 track6_color: vibrant
 track7_color: trippy
 musiColor: musiColor454.png
-track1_link: https://mtsounds.web.deuxfleurs.fr/454/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/454/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/454/track3.mp3
+track1_link: https://sounds.mailta.pe/454/track1.mp3
+track2_link: https://sounds.mailta.pe/454/track2.mp3
+track3_link: https://sounds.mailta.pe/454/track3.mp3
 guestPic: guestPic454.jpg
 image: https://mailta.pe/img/fbPic454.png
 episode_URL: http://mailta.pe/454/The-Growth-Eternal/
 guest_color: dreamy
-track4_link: https://mtsounds.web.deuxfleurs.fr/454/track4.mp3
+track4_link: https://sounds.mailta.pe/454/track4.mp3
 track5_title: Nailah Hunter - Talk Show Host
-track5_link: https://mtsounds.web.deuxfleurs.fr/454/track5.mp3
+track5_link: https://sounds.mailta.pe/454/track5.mp3
 track7_title: Sam Gendel - Goodbye Pork Pie Hat
 track6_title: Wau Wau Collectif - Mouhamodou Lo and His Children
-track7_link: https://mtsounds.web.deuxfleurs.fr/454/track7.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/454/track6.mp3
+track7_link: https://sounds.mailta.pe/454/track7.mp3
+track6_link: https://sounds.mailta.pe/454/track6.mp3
 description: This Sunday, we welcome The Growth Eternal to MailTape for an eclectic collection to jumpstart your morning :) Based in Los Angeles, The Growth Eternal is headed by multi-instrumentalist Byron Crenshaw.
 pubDate: '2021-06-05'
 ---

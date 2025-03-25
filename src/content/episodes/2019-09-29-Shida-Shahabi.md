@@ -8,13 +8,13 @@ writer: Sanjay Mistry
 category: '373'
 guest_name: Shida Shahabi
 guest_color: dreamy
-track1_link: https://mtsounds.web.deuxfleurs.fr/373/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/373/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/373/track3.mp3
-track4_link: https://mtsounds.web.deuxfleurs.fr/373/track4.mp3
-track5_link: https://mtsounds.web.deuxfleurs.fr/373/track5.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/373/track6.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/373/track7.mp3
+track1_link: https://sounds.mailta.pe/373/track1.mp3
+track2_link: https://sounds.mailta.pe/373/track2.mp3
+track3_link: https://sounds.mailta.pe/373/track3.mp3
+track4_link: https://sounds.mailta.pe/373/track4.mp3
+track5_link: https://sounds.mailta.pe/373/track5.mp3
+track6_link: https://sounds.mailta.pe/373/track6.mp3
+track7_link: https://sounds.mailta.pe/373/track7.mp3
 track1_title: Mayumi Miyata – 双調調子
 track1_color: bliss
 track2_title: Lamine Konté – Dioula

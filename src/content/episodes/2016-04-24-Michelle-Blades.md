@@ -8,13 +8,13 @@ guest_name: Michelle Blades
 guest_color: dreamy
 bigTitle_font_ratio: '6'
 guestPic: guestPic214.jpg
-track1_link: https://mtsounds.web.deuxfleurs.fr/214/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/214/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/214/track3.mp3
-track4_link: https://mtsounds.web.deuxfleurs.fr/214/track4.mp3
-track5_link: https://mtsounds.web.deuxfleurs.fr/214/track5.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/214/track6.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/214/track7.mp3
+track1_link: https://sounds.mailta.pe/214/track1.mp3
+track2_link: https://sounds.mailta.pe/214/track2.mp3
+track3_link: https://sounds.mailta.pe/214/track3.mp3
+track4_link: https://sounds.mailta.pe/214/track4.mp3
+track5_link: https://sounds.mailta.pe/214/track5.mp3
+track6_link: https://sounds.mailta.pe/214/track6.mp3
+track7_link: https://sounds.mailta.pe/214/track7.mp3
 track1_title: Stephen Steinbrink - The Punks
 track1_color: vibrant
 track2_title: Victor Jara - Te Recuerdo Amanda

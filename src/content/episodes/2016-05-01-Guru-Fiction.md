@@ -8,13 +8,13 @@ guest_name: 'Guru Fiction '
 guest_color: vibrant
 bigTitle_font_ratio: '6'
 guestPic: guestPic215.jpg
-track1_link: https://mtsounds.web.deuxfleurs.fr/215/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/215/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/215/track3.mp3
-track4_link: https://mtsounds.web.deuxfleurs.fr/215/track4.mp3
-track5_link: https://mtsounds.web.deuxfleurs.fr/215/track5.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/215/track6.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/215/track7.mp3
+track1_link: https://sounds.mailta.pe/215/track1.mp3
+track2_link: https://sounds.mailta.pe/215/track2.mp3
+track3_link: https://sounds.mailta.pe/215/track3.mp3
+track4_link: https://sounds.mailta.pe/215/track4.mp3
+track5_link: https://sounds.mailta.pe/215/track5.mp3
+track6_link: https://sounds.mailta.pe/215/track6.mp3
+track7_link: https://sounds.mailta.pe/215/track7.mp3
 track1_title: Silk Rhodes - Pains
 track1_color: dreamy
 track2_title: Vulfpeck - 1612

@@ -11,13 +11,13 @@ track4_color: vibrant
 track5_color: vibrant
 track6_color: trippy
 track7_color: trippy
-track1_link: "https://mtsounds.web.deuxfleurs.fr/178/track1.mp3"
-track2_link: "https://mtsounds.web.deuxfleurs.fr/178/track2.mp3"
-track3_link: "https://mtsounds.web.deuxfleurs.fr/178/track3.mp3"
-track4_link: "https://mtsounds.web.deuxfleurs.fr/178/track4.mp3"
-track5_link: "https://mtsounds.web.deuxfleurs.fr/178/track5.mp3"
-track6_link: "https://mtsounds.web.deuxfleurs.fr/missingTrack.mp3"
-track7_link: "https://mtsounds.web.deuxfleurs.fr/178/track7.mp3"
+track1_link: "https://sounds.mailta.pe/178/track1.mp3"
+track2_link: "https://sounds.mailta.pe/178/track2.mp3"
+track3_link: "https://sounds.mailta.pe/178/track3.mp3"
+track4_link: "https://sounds.mailta.pe/178/track4.mp3"
+track5_link: "https://sounds.mailta.pe/178/track5.mp3"
+track6_link: "https://sounds.mailta.pe/missingTrack.mp3"
+track7_link: "https://sounds.mailta.pe/178/track7.mp3"
 track1_title: "Ed Sharpe & The Magnetic Zeros - 40 Day Dream (Turbotito Rmx)"
 track2_title: "KZA - Vous Dansez"
 track3_title: "Whitey - Made Of Night"

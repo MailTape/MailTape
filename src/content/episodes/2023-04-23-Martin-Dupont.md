@@ -26,13 +26,13 @@ track7_color: dreamy
 episode_URL: http://mailta.pe/525/martin-dupont/
 image: https://mailta.pe/img/fbPic525.jpg
 musiColor: musiColor525.png
-track1_link: https://mtsounds.web.deuxfleurs.fr/525/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/525/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/525/track3.mp3
-track4_link: https://mtsounds.web.deuxfleurs.fr/525/track4.mp3
-track5_link: https://mtsounds.web.deuxfleurs.fr/525/track5.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/525/track6.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/525/track7.mp3
+track1_link: https://sounds.mailta.pe/525/track1.mp3
+track2_link: https://sounds.mailta.pe/525/track2.mp3
+track3_link: https://sounds.mailta.pe/525/track3.mp3
+track4_link: https://sounds.mailta.pe/525/track4.mp3
+track5_link: https://sounds.mailta.pe/525/track5.mp3
+track6_link: https://sounds.mailta.pe/525/track6.mp3
+track7_link: https://sounds.mailta.pe/525/track7.mp3
 description: This morning, get ready to start your day with a heartfelt and captivating episode of MailTape with Martin Dupont! We're thrilled to share with you a special selection of hidden gems that we've curated after interviewing Alain Seghir, the leader of the band, following their live performance in Spain.
 pubDate: '2023-04-23'
 ---

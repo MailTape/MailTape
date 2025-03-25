@@ -6,13 +6,13 @@ guest_name: Homeshake
 guest_color: dreamy
 bigTitle_font_ratio: '6'
 guestPic: guestPic200.jpg
-track1_link: https://mtsounds.web.deuxfleurs.fr/200/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/200/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/200/track3.mp3
-track4_link: https://mtsounds.web.deuxfleurs.fr/200/track4.mp3
-track5_link: https://mtsounds.web.deuxfleurs.fr/200/track5.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/200/track6.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/200/track7.mp3
+track1_link: https://sounds.mailta.pe/200/track1.mp3
+track2_link: https://sounds.mailta.pe/200/track2.mp3
+track3_link: https://sounds.mailta.pe/200/track3.mp3
+track4_link: https://sounds.mailta.pe/200/track4.mp3
+track5_link: https://sounds.mailta.pe/200/track5.mp3
+track6_link: https://sounds.mailta.pe/200/track6.mp3
+track7_link: https://sounds.mailta.pe/200/track7.mp3
 track1_title: Jerry Paper - 3D Dream
 track1_color: trippy
 track2_title: Unblonde - Look

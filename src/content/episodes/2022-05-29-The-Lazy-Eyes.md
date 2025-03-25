@@ -19,18 +19,18 @@ author: Sarah
 guest_name: The Lazy Eyes
 guest_color: trippy
 guestPic: guestPic495.jpg
-track4_link: https://mtsounds.web.deuxfleurs.fr/495/track4.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/495/track7.mp3
+track4_link: https://sounds.mailta.pe/495/track4.mp3
+track7_link: https://sounds.mailta.pe/495/track7.mp3
 track4_title: The Lazy Eyes - Cheesy Love Song
 track7_title: The Lazy Eyes - Where's My Brain???
-track5_link: https://mtsounds.web.deuxfleurs.fr/495/track5.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/495/track6.mp3
+track5_link: https://sounds.mailta.pe/495/track5.mp3
+track6_link: https://sounds.mailta.pe/495/track6.mp3
 track6_title: INO hidefumi - スカイツリー / Skytree
 track5_title: Janko Nilovic and the Soul Surfers - Psychic Powers
 episode_URL: http://mailta.pe/495/The-Lazy-Eyes/
-track3_link: https://mtsounds.web.deuxfleurs.fr/495/track3.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/495/track2.mp3
-track1_link: https://mtsounds.web.deuxfleurs.fr/495/track1.mp3
+track3_link: https://sounds.mailta.pe/495/track3.mp3
+track2_link: https://sounds.mailta.pe/495/track2.mp3
+track1_link: https://sounds.mailta.pe/495/track1.mp3
 image: https://mailta.pe/img/fbPic495.png
 description: 'This morning, we''re delighted to welcome The Lazy Eyes to MailTape for a Sunday selection of smooth moving tracks. Based in Sydney, the psychedelic rock group features Harvey Geraghty on vocals, guitar, and keyboard; Italy Sasha on vocals and guitar; Leon Karagic on bass; and Noah Martin on drums. The band joins us following the release of their 2022 debut album SongBook, a world warp of smooth and experimental psychedelic grooves. '
 musiColor: musiColor495.png

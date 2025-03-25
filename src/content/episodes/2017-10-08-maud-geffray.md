@@ -11,27 +11,27 @@ guestPic: guestPic281.jpg
 episode_URL: http://mailta.pe/281/maud-geffray/
 image: https://mailta.pe/img/fbPic281.png
 musiColor: musiColor281.png
-track1_link: https://mtsounds.web.deuxfleurs.fr/281/track1.mp3
+track1_link: https://sounds.mailta.pe/281/track1.mp3
 track1_title: Alessandro Cortini — Scappa
 track1_color: bliss
 track2_title: Lana Del Rey — Love
 track2_color: dreamy
 track3_title: Paul Seul — Lycamobile
 track3_color: trippy
-track3_link: https://mtsounds.web.deuxfleurs.fr/281/track3.mp3
-track4_link: https://mtsounds.web.deuxfleurs.fr/281/track4.mp3
-track5_link: https://mtsounds.web.deuxfleurs.fr/281/track5.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/281/track7.mp3
+track3_link: https://sounds.mailta.pe/281/track3.mp3
+track4_link: https://sounds.mailta.pe/281/track4.mp3
+track5_link: https://sounds.mailta.pe/281/track5.mp3
+track7_link: https://sounds.mailta.pe/281/track7.mp3
 track7_title: Hiroshi Yoshimura (吉村弘) — Dance PM
 track7_color: dreamy
 track4_title: Maud Geffray — Polaar
 track4_color: vibrant
 track5_title: Helena Hauff — Gift
 track5_color: bliss
-track6_link: https://mtsounds.web.deuxfleurs.fr/281/track6.mp3
+track6_link: https://sounds.mailta.pe/281/track6.mp3
 track6_title: Gang Signs — Prequel
 track6_color: bliss
-track2_link: https://mtsounds.web.deuxfleurs.fr/281/track2.mp3
+track2_link: https://sounds.mailta.pe/281/track2.mp3
 writer: Louise
 description: Today's MailTape is a rollercoaster of emotions and feelings melted in electronic sounds. I hope you are ready for the ride!
 pubDate: '2017-10-08'

@@ -9,13 +9,13 @@ category: '229'
 guest_name: Vendredi Sur Mer
 guest_color: dreamy
 guestPic: guestPic229.jpg
-track1_link: https://mtsounds.web.deuxfleurs.fr/229/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/229/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/229/track3.mp3
-track4_link: https://mtsounds.web.deuxfleurs.fr/229/track4.mp3
-track5_link: https://mtsounds.web.deuxfleurs.fr/229/track5.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/229/track6.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/229/track7.mp3
+track1_link: https://sounds.mailta.pe/229/track1.mp3
+track2_link: https://sounds.mailta.pe/229/track2.mp3
+track3_link: https://sounds.mailta.pe/229/track3.mp3
+track4_link: https://sounds.mailta.pe/229/track4.mp3
+track5_link: https://sounds.mailta.pe/229/track5.mp3
+track6_link: https://sounds.mailta.pe/229/track6.mp3
+track7_link: https://sounds.mailta.pe/229/track7.mp3
 track1_title: Claude Violante - I Kill By Night
 track1_color: rough
 track2_title: Octav - Man from the Stars

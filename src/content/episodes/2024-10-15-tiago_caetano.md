@@ -10,25 +10,25 @@ illustrator: Camille Lemeunier
 writer: ImaCrea
 track1_title: Sessa - Gostar do Mundo
 track1_color: dreamy
-track1_link: https://mtsounds.web.deuxfleurs.fr/562/track1.mp3
+track1_link: https://sounds.mailta.pe/562/track1.mp3
 track2_title: Ana Frango Elétrico - Insista em mim
 track2_color: vibrant
-track2_link: https://mtsounds.web.deuxfleurs.fr/562/track2.mp3
+track2_link: https://sounds.mailta.pe/562/track2.mp3
 track3_title: Clube Da esquina - Um Giassol da Cor de Seu Cabelo
 track3_color: bliss
-track3_link: https://mtsounds.web.deuxfleurs.fr/562/track3.mp3
+track3_link: https://sounds.mailta.pe/562/track3.mp3
 track4_title: Tiago Caetano - Constelação
 track4_color: bliss
-track4_link: https://mtsounds.web.deuxfleurs.fr/562/track4.mp3
+track4_link: https://sounds.mailta.pe/562/track4.mp3
 track5_title: Sara Não Tem Nome - Incomoda
 track5_color: vibrant
-track5_link: https://mtsounds.web.deuxfleurs.fr/562/track5.mp3
+track5_link: https://sounds.mailta.pe/562/track5.mp3
 track6_title: Maria Takeuchi - Plastic Love
 track6_color: vibrant
-track6_link: https://mtsounds.web.deuxfleurs.fr/562/track6.mp3
+track6_link: https://sounds.mailta.pe/562/track6.mp3
 track7_title: Badsista - Sem Der Tchau
 track7_color: dreamy
-track7_link: https://mtsounds.web.deuxfleurs.fr/562/track7.mp3
+track7_link: https://sounds.mailta.pe/562/track7.mp3
 description: This morning, we’ve crafted a soothing episode featuring our guest
   Tiago Caetano. It’s the ideal soundtrack for cozying up under the covers or
   savoring a delightful brunch with friends. With Brazilian influences, pop

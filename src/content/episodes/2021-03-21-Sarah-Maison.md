@@ -8,7 +8,7 @@ category: '443'
 guest_name: Sarah Maison
 guest_color: vibrant
 guestPic: guestPic443.jpg
-track1_link: https://mtsounds.web.deuxfleurs.fr/443/track1.mp3
+track1_link: https://sounds.mailta.pe/443/track1.mp3
 track1_color: vibrant
 track3_color: bliss
 track2_color: vibrant
@@ -26,12 +26,12 @@ track7_color: trippy
 episode_URL: http://mailta.pe/443/sarah-maison/
 image: https://mailta.pe/img/fbPic443.png
 musiColor: musiColor443.png
-track7_link: https://mtsounds.web.deuxfleurs.fr/443/track7.mp3
-track4_link: https://mtsounds.web.deuxfleurs.fr/443/track4.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/443/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/443/track3.mp3
-track5_link: https://mtsounds.web.deuxfleurs.fr/443/track5.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/443/track6.mp3
+track7_link: https://sounds.mailta.pe/443/track7.mp3
+track4_link: https://sounds.mailta.pe/443/track4.mp3
+track2_link: https://sounds.mailta.pe/443/track2.mp3
+track3_link: https://sounds.mailta.pe/443/track3.mp3
+track5_link: https://sounds.mailta.pe/443/track5.mp3
+track6_link: https://sounds.mailta.pe/443/track6.mp3
 description: This morning, we leave in the sun with a one-way trip to the Eastern countries. The beauty of language, culture and scenery... In this episode, Sarah Maison will bring back some sunshine to our homes and apartments while.
 pubDate: '2021-03-21'
 ---

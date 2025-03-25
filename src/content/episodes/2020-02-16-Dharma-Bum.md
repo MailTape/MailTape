@@ -8,11 +8,11 @@ author: Anaïs G
 illustrator: Camille Célestin
 category: '393'
 guestPic: guestPic393.jpg
-track3_link: https://mtsounds.web.deuxfleurs.fr/393/track3.mp3
-track4_link: https://mtsounds.web.deuxfleurs.fr/393/track4.mp3
-track5_link: https://mtsounds.web.deuxfleurs.fr/393/track5.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/393/track6.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/393/track7.mp3
+track3_link: https://sounds.mailta.pe/393/track3.mp3
+track4_link: https://sounds.mailta.pe/393/track4.mp3
+track5_link: https://sounds.mailta.pe/393/track5.mp3
+track6_link: https://sounds.mailta.pe/393/track6.mp3
+track7_link: https://sounds.mailta.pe/393/track7.mp3
 track1_title: Biche - L'Essor
 track1_color: dreamy
 track2_title: Barbagallo - On se décide
@@ -31,8 +31,8 @@ episode_URL: http://mailta.pe/393/dharma-bum/
 image: https://mailta.pe/img/fbPic393.png
 musiColor: musiColor393.png
 guest_color: bliss
-track1_link: https://mtsounds.web.deuxfleurs.fr/393/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/393/track2.mp3
+track1_link: https://sounds.mailta.pe/393/track1.mp3
+track2_link: https://sounds.mailta.pe/393/track2.mp3
 description: This morning, it is madness that takes us, that puts us in a trance, that makes us do anything, but that allows us to take things as they come and to see life differently. It is this same madness that we find again this Sunday with the group Dharma Bum, a measured, beautiful and energetic madness!
 pubDate: '2020-02-16'
 ---

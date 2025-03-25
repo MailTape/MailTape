@@ -9,7 +9,7 @@ category: '380'
 guest_name: Corte Real
 guest_color: dreamy
 episode_URL: https://mailta.pe/380/corte-real/
-track1_link: https://mtsounds.web.deuxfleurs.fr/380/track1.mp3
+track1_link: https://sounds.mailta.pe/380/track1.mp3
 track1_title: Leonard Cohen - I Left A Woman Waiting
 track1_color: bliss
 track2_title: Bert Jansch - In My Mind
@@ -22,14 +22,14 @@ track6_title: OHIO - Ohio
 track6_color: dreamy
 track7_title: The Velvet Underground - I Found A Reason
 track7_color: bliss
-track5_link: https://mtsounds.web.deuxfleurs.fr/380/track5.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/380/track7.mp3
+track5_link: https://sounds.mailta.pe/380/track5.mp3
+track7_link: https://sounds.mailta.pe/380/track7.mp3
 track3_color: bliss
-track4_link: https://mtsounds.web.deuxfleurs.fr/380/track4.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/380/track3.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/380/track2.mp3
+track4_link: https://sounds.mailta.pe/380/track4.mp3
+track3_link: https://sounds.mailta.pe/380/track3.mp3
+track2_link: https://sounds.mailta.pe/380/track2.mp3
 track2_color: trippy
-track6_link: https://mtsounds.web.deuxfleurs.fr/380/track6.mp3
+track6_link: https://sounds.mailta.pe/380/track6.mp3
 musiColor: musiColor380.png
 description: This morning, we are setting sail again at the very first light of dawn with Corte Real, without knowing where or when we will come back. The Versailles-based group is finally releasing its first album "Pays Vaincus" on November 22nd, it includes the track "Opium" that we already featured in our dreamy 353rd episode. I remember discovering this song on a compilation of the French & francophone pop underground label La Souterraine and being immediately transported to a dark, smoky tavern in the port of some island on the other side of the world. I am very happy that Tanguy, Corte Real's founder, singer, lyricist and composer, has agreed to participate in this episode while at sea. Tanguy is a naval officer on an aircraft carrier. Most of Corte Real's songs were written during his long overseas trips around the world, they evoke the mysteries of exoticism, the time stretching over the infinity of the ocean, and express joy and homesickness at the same time. This morning we are embarking with him, get prepared to be soothed by melancholic waves, overwhelmed by the sea spray and the wind of adventure!
 image: https://mailta.pe/img/fbPic380.png

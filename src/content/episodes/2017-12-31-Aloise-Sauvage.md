@@ -18,15 +18,15 @@ track3_title: Feu! Chatterton — L'Ivresse
 track3_color: rough
 track4_title: Aloïse Sauvage — Ailleurs Higher
 track4_color: dreamy
-track1_link: https://mtsounds.web.deuxfleurs.fr/293/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/293/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/293/track3.mp3
-track4_link: https://mtsounds.web.deuxfleurs.fr/293/track4.mp3
+track1_link: https://sounds.mailta.pe/293/track1.mp3
+track2_link: https://sounds.mailta.pe/293/track2.mp3
+track3_link: https://sounds.mailta.pe/293/track3.mp3
+track4_link: https://sounds.mailta.pe/293/track4.mp3
 image: https://mailta.pe/img/fbPic293.png
 musiColor: musiColor293.png
-track5_link: https://mtsounds.web.deuxfleurs.fr/293/track5.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/293/track6.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/293/track7.mp3
+track5_link: https://sounds.mailta.pe/293/track5.mp3
+track6_link: https://sounds.mailta.pe/293/track6.mp3
+track7_link: https://sounds.mailta.pe/293/track7.mp3
 track7_title: rAHHH — Ends
 track7_color: dreamy
 track6_title: Baba Ali — Cog In The Wheel

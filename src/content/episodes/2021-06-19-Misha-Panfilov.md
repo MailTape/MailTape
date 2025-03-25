@@ -26,13 +26,13 @@ track4_title: Misha Panfilov - Horizon
 track7_title: Paul Higgs & Chico Bernardes - Tramo Trompa
 track6_title: Thijsenterprise - YYY
 track5_title: Misha Panfilov - Belt Buckle
-track4_link: https://mtsounds.web.deuxfleurs.fr/456/track4.mp3
-track5_link: https://mtsounds.web.deuxfleurs.fr/456/track5.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/456/track6.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/456/track7.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/456/track3.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/456/track2.mp3
-track1_link: https://mtsounds.web.deuxfleurs.fr/456/track1.mp3
+track4_link: https://sounds.mailta.pe/456/track4.mp3
+track5_link: https://sounds.mailta.pe/456/track5.mp3
+track6_link: https://sounds.mailta.pe/456/track6.mp3
+track7_link: https://sounds.mailta.pe/456/track7.mp3
+track3_link: https://sounds.mailta.pe/456/track3.mp3
+track2_link: https://sounds.mailta.pe/456/track2.mp3
+track1_link: https://sounds.mailta.pe/456/track1.mp3
 description: We begin our Sunday morning with a cosmic cowboy selection of tracks led by our dear guest Misha Panfilov. Based in Tallinn, Estonia, Misha's music engages in the evolving cross section between folk, funk, jazz, and psychedelic music, not without influences from Soviet-era electronic music.
 pubDate: '2021-06-19'
 ---

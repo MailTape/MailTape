@@ -2,10 +2,10 @@
 
 bigTitle_font_ratio: '6'
 published: true
-track1_link: https://mtsounds.web.deuxfleurs.fr/237/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/237/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/237/track3.mp3
-track4_link: https://mtsounds.web.deuxfleurs.fr/237/track4.mp3
+track1_link: https://sounds.mailta.pe/237/track1.mp3
+track2_link: https://sounds.mailta.pe/237/track2.mp3
+track3_link: https://sounds.mailta.pe/237/track3.mp3
+track4_link: https://sounds.mailta.pe/237/track4.mp3
 author: Maxime
 writer: Maxime
 category: '237'
@@ -20,8 +20,8 @@ track4_color: vibrant
 track3_color: dreamy
 track2_color: vibrant
 track1_color: bliss
-track5_link: https://mtsounds.web.deuxfleurs.fr/237/track5.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/237/track7.mp3
+track5_link: https://sounds.mailta.pe/237/track5.mp3
+track7_link: https://sounds.mailta.pe/237/track7.mp3
 track5_color: rough
 track6_color: trippy
 track7_title: Les Yeux Oranges - Coco
@@ -30,7 +30,7 @@ track5_title: Konono n°1 & Batida - Bom Dia
 episode_URL: https://mailta.pe/237/Gramophiles/
 image: https://mailta.pe/img/fbPic237.jpg
 musiColor: muciColor237.png
-track6_link: https://mtsounds.web.deuxfleurs.fr/237/track6.mp3
+track6_link: https://sounds.mailta.pe/237/track6.mp3
 track6_title: Alma Negra - Burkina Berlin
 description: This morning, we welcome you in the vintage universe of music.
 illustrator: Isabelle Escande

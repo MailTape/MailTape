@@ -12,25 +12,25 @@ episode_URL: http://mailta.pe/488/Ursulas-Cartridges/
 guestPic: guestPic488.jpg
 track1_color: trippy
 track1_title: VHS Head - Body Magic
-track1_link: https://mtsounds.web.deuxfleurs.fr/488/track1.mp3
+track1_link: https://sounds.mailta.pe/488/track1.mp3
 track2_color: vibrant
 track2_title: Dream Frequency - Take Me (The Prodigy Mix)
-track2_link: https://mtsounds.web.deuxfleurs.fr/488/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/488/track3.mp3
+track2_link: https://sounds.mailta.pe/488/track2.mp3
+track3_link: https://sounds.mailta.pe/488/track3.mp3
 track3_color: vibrant
 track3_title: Eveline Fischer - Submap Shuffle
 track4_color: trippy
 track5_color: trippy
 track6_color: vibrant
 track7_color: bliss
-track4_link: https://mtsounds.web.deuxfleurs.fr/488/track4.mp3
+track4_link: https://sounds.mailta.pe/488/track4.mp3
 track4_title: Ursula's Cartridges - Wind Rider
 track5_title: Enraile - Pale Memory
-track5_link: https://mtsounds.web.deuxfleurs.fr/488/track5.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/488/track6.mp3
+track5_link: https://sounds.mailta.pe/488/track5.mp3
+track6_link: https://sounds.mailta.pe/488/track6.mp3
 track6_title: Irène de Milo - Sans Éternité
 track7_title: Windows 96 - Edenic Green Plus
-track7_link: https://mtsounds.web.deuxfleurs.fr/488/track7.mp3
+track7_link: https://sounds.mailta.pe/488/track7.mp3
 description: 'This morning, we welcome Finland-based Ursula''s Cartridges to MailTape for an electro vaporwave selection. Combining 80''s and 90''s rave and electronic aesthetics, Ursula''s Cartridges pieces samplework into releases both novel and nostalgic. '
 musiColor: musiColor488.png
 image: https://mailta.pe/img/fbPic488.png

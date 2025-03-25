@@ -26,13 +26,13 @@ track7_color: trippy
 episode_URL: http://mailta.pe/520/alexi-shell/
 image: https://mailta.pe/img/fbPic520.jpg
 musiColor: musiColor520.png
-track1_link: https://mtsounds.web.deuxfleurs.fr/520/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/520/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/520/track3.mp3
-track4_link: https://mtsounds.web.deuxfleurs.fr/520/track4.mp3
-track5_link: https://mtsounds.web.deuxfleurs.fr/520/track5.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/520/track6.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/520/track7.mp3
+track1_link: https://sounds.mailta.pe/520/track1.mp3
+track2_link: https://sounds.mailta.pe/520/track2.mp3
+track3_link: https://sounds.mailta.pe/520/track3.mp3
+track4_link: https://sounds.mailta.pe/520/track4.mp3
+track5_link: https://sounds.mailta.pe/520/track5.mp3
+track6_link: https://sounds.mailta.pe/520/track6.mp3
+track7_link: https://sounds.mailta.pe/520/track7.mp3
 description: This morning, we're very excited to have Alexi Shell with us. Her selection full of positive vibes and raw energy is simply perfect to start the new month. Spring is coming, let's dance to welcome the 23rd spring of the millennium! And for our friends who live on the other side of the planet, this will make a great one to keep the summer going on solid. With much love.
 pubDate: '2023-03-05'
 ---

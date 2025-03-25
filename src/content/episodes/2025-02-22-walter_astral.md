@@ -10,25 +10,25 @@ illustrator: Camille Lemeunier
 writer: Sarah
 track1_title: Jacco Gardner - Descent
 track1_color: vibrant
-track1_link: https://mtsounds.web.deuxfleurs.fr/577/track1.mp3
+track1_link: https://sounds.mailta.pe/577/track1.mp3
 track2_title: Bruno Pernadas - Ya ya Breathe
 track2_color: dreamy
-track2_link: https://mtsounds.web.deuxfleurs.fr/577/track2.mp3
+track2_link: https://sounds.mailta.pe/577/track2.mp3
 track3_title: "Roland Cristal - Philippe Etchebest "
 track3_color: trippy
-track3_link: https://mtsounds.web.deuxfleurs.fr/577/track3.mp3
+track3_link: https://sounds.mailta.pe/577/track3.mp3
 track4_title: Walter Astral - Nadir
 track4_color: trippy
-track4_link: https://mtsounds.web.deuxfleurs.fr/577/track4.mp3
+track4_link: https://sounds.mailta.pe/577/track4.mp3
 track5_title: Dm (Mx) - Nature (Unders Dub)
 track5_color: trippy
-track5_link: https://mtsounds.web.deuxfleurs.fr/577/track5.mp3
+track5_link: https://sounds.mailta.pe/577/track5.mp3
 track6_title: Sophia Chablau e Felipe Vaqueiro - OHAYO SARAVÁ
 track6_color: vibrant
-track6_link: https://mtsounds.web.deuxfleurs.fr/577/track6.mp3
+track6_link: https://sounds.mailta.pe/577/track6.mp3
 track7_title: Walter Astral - Aube
 track7_color: trippy
-track7_link: https://mtsounds.web.deuxfleurs.fr/577/track7.mp3
+track7_link: https://sounds.mailta.pe/577/track7.mp3
 description: This morning our dream tapestries cross into the sunlight, letting
   us revel in the shining contours of these threads and tangles. In these gentle
   morning hours, the druids Walter Astral are our guides, weaving this textured

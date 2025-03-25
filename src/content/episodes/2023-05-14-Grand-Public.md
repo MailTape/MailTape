@@ -25,13 +25,13 @@ image: https://mailta.pe/img/fbPic527.png
 musiColor: musicolor527.png
 track1_title: Zwan - Lyric
 track1_color: rough
-track1_link: https://mtsounds.web.deuxfleurs.fr/527/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/527/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/527/track3.mp3
-track4_link: https://mtsounds.web.deuxfleurs.fr/527/track4.mp3
-track5_link: https://mtsounds.web.deuxfleurs.fr/527/track5.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/527/track6.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/527/track7.mp3
+track1_link: https://sounds.mailta.pe/527/track1.mp3
+track2_link: https://sounds.mailta.pe/527/track2.mp3
+track3_link: https://sounds.mailta.pe/527/track3.mp3
+track4_link: https://sounds.mailta.pe/527/track4.mp3
+track5_link: https://sounds.mailta.pe/527/track5.mp3
+track6_link: https://sounds.mailta.pe/527/track6.mp3
+track7_link: https://sounds.mailta.pe/527/track7.mp3
 description: 'This morning, We take advantage of this month of May to breathe, relax and take advantage of the many public holidays to get away with it. One watchword: do nothing, just enjoy the present time! It is with the musical selection of the band Grand Public that we will put in off mode. "Ideal Tempo", released on March 24th, is the only tempo to have this weekend.'
 guest_color: vibrant
 pubDate: '2023-05-14'

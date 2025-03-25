@@ -26,13 +26,13 @@ track7_color: bliss
 episode_URL: http://mailta.pe/548/Holy-Tongue/
 image: https://mailta.pe/img/fbPic548.jpg
 musiColor: musiColor548.png
-track1_link: https://mtsounds.web.deuxfleurs.fr/548/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/548/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/548/track3.mp3
-track4_link: https://mtsounds.web.deuxfleurs.fr/548/track4.mp3
-track5_link: https://mtsounds.web.deuxfleurs.fr/548/track5.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/548/track6.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/548/track7.mp3
+track1_link: https://sounds.mailta.pe/548/track1.mp3
+track2_link: https://sounds.mailta.pe/548/track2.mp3
+track3_link: https://sounds.mailta.pe/548/track3.mp3
+track4_link: https://sounds.mailta.pe/548/track4.mp3
+track5_link: https://sounds.mailta.pe/548/track5.mp3
+track6_link: https://sounds.mailta.pe/548/track6.mp3
+track7_link: https://sounds.mailta.pe/548/track7.mp3
 description: We're overjoyed to welcome Holy Tongue as our guests today. Their ethereal, entrancing music has captivated audiences worldwide, and we're honored to have them share their picks from some of their most cherished albums. Expect a cathartic episode filled with otherworldly sounds, hypnotic rhythms, and moments of pure transcendence. The river of sound is about to flow wildly, let's embark on this sonic journey together!
 pubDate: '2024-02-25'
 ---

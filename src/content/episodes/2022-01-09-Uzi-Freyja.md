@@ -8,13 +8,13 @@ writer: ImaCrea
 category: '476'
 guest_name: Uzi Freyja
 guest_color: rough
-track1_link: https://mtsounds.web.deuxfleurs.fr/476/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/476/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/476/track3.mp3
-track4_link: https://mtsounds.web.deuxfleurs.fr/476/track4.mp3
-track5_link: https://mtsounds.web.deuxfleurs.fr/476/track5.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/476/track6.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/476/track7.mp3
+track1_link: https://sounds.mailta.pe/476/track1.mp3
+track2_link: https://sounds.mailta.pe/476/track2.mp3
+track3_link: https://sounds.mailta.pe/476/track3.mp3
+track4_link: https://sounds.mailta.pe/476/track4.mp3
+track5_link: https://sounds.mailta.pe/476/track5.mp3
+track6_link: https://sounds.mailta.pe/476/track6.mp3
+track7_link: https://sounds.mailta.pe/476/track7.mp3
 track1_title: KESHA – Woman ft The Dap-Kings Horns
 track2_title: Moonshake feat. PJ Harvey - Just A Working Girl
 track3_title: Extra Crunchy - RXK Nephew

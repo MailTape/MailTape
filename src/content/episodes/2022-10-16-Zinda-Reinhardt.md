@@ -21,18 +21,18 @@ track7_color: vibrant
 track4_color: vibrant
 track5_color: trippy
 track6_color: vibrant
-track1_link: https://mtsounds.web.deuxfleurs.fr/501/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/501/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/501/track3.mp3
-track4_link: https://mtsounds.web.deuxfleurs.fr/501/track4.mp3
+track1_link: https://sounds.mailta.pe/501/track1.mp3
+track2_link: https://sounds.mailta.pe/501/track2.mp3
+track3_link: https://sounds.mailta.pe/501/track3.mp3
+track4_link: https://sounds.mailta.pe/501/track4.mp3
 musiColor: musiColor501.png
-track7_link: https://mtsounds.web.deuxfleurs.fr/501/track7.mp3
+track7_link: https://sounds.mailta.pe/501/track7.mp3
 image: https://mailta.pe/img/fbPic501.jpg
 episode_URL: http://mailta.pe/501/Zinda-Reinhardt/
 track5_title: Minimi Deutsch - Still Foggy
 track6_title: Mykki Blanco - French Lessons (ft. Kelsey Lu)
-track5_link: https://mtsounds.web.deuxfleurs.fr/501/track5.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/501/track6.mp3
+track5_link: https://sounds.mailta.pe/501/track5.mp3
+track6_link: https://sounds.mailta.pe/501/track6.mp3
 description: This morning, we're thrilled to be back for this 11th season of music discoveries! And for this 501st episode, we're honored to welcome Zinda Reinhardt. With her powerful and contagious energy, she sings in Sintikès and activates a language rarely heard. Mixing vibration from trap music with Romani culture, she's courageously opening a new door in the musicscape.
 pubDate: '2022-10-16'
 ---

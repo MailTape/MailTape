@@ -2,10 +2,10 @@
 
 bigTitle_font_ratio: '6'
 published: true
-track7_link: https://mtsounds.web.deuxfleurs.fr/367/track7.mp3
-track5_link: https://mtsounds.web.deuxfleurs.fr/367/track5.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/367/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/367/track3.mp3
+track7_link: https://sounds.mailta.pe/367/track7.mp3
+track5_link: https://sounds.mailta.pe/367/track5.mp3
+track2_link: https://sounds.mailta.pe/367/track2.mp3
+track3_link: https://sounds.mailta.pe/367/track3.mp3
 track2_title: Vendredi Sur Mer - La Femme à la Peau Bleue
 track5_title: Monsieur 6000 - Océan
 track6_title: Auren - Tout est permis
@@ -30,9 +30,9 @@ author: Anaïs G
 illustrator: Camille Célestin
 writer: Anaïs G
 guest_color: trippy
-track1_link: https://mtsounds.web.deuxfleurs.fr/367/Track1.mp3
-track4_link: https://mtsounds.web.deuxfleurs.fr/367/Track4.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/367/Track6.mp3
+track1_link: https://sounds.mailta.pe/367/Track1.mp3
+track4_link: https://sounds.mailta.pe/367/Track4.mp3
+track6_link: https://sounds.mailta.pe/367/Track6.mp3
 image: http://www.mailta.pe/img/fbPic367.png
 pubDate: '2019-07-21'
 ---

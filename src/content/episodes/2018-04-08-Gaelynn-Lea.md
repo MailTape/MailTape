@@ -8,13 +8,13 @@ writer: Sanjay Mistry
 category: '307'
 guest_name: Gaelynn Lea
 guest_color: vibrant
-track1_link: https://mtsounds.web.deuxfleurs.fr/307/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/307/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/307/track3.mp3
-track4_link: https://mtsounds.web.deuxfleurs.fr/307/track4.mp3
-track5_link: https://mtsounds.web.deuxfleurs.fr/307/track5.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/307/track6.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/307/track7.mp3
+track1_link: https://sounds.mailta.pe/307/track1.mp3
+track2_link: https://sounds.mailta.pe/307/track2.mp3
+track3_link: https://sounds.mailta.pe/307/track3.mp3
+track4_link: https://sounds.mailta.pe/307/track4.mp3
+track5_link: https://sounds.mailta.pe/307/track5.mp3
+track6_link: https://sounds.mailta.pe/307/track6.mp3
+track7_link: https://sounds.mailta.pe/307/track7.mp3
 track1_title: Jerree Small – 60 Words For Water
 track1_color: bliss
 track2_title: The Decemberists – Angel, Won't You Call Me?

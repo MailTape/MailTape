@@ -26,13 +26,13 @@ track7_color: bliss
 episode_URL: http://mailta.pe/534/blick-bassy/
 image: https://mailta.pe/img/fbPic534.png
 musiColor: musiColor534.png
-track1_link: https://mtsounds.web.deuxfleurs.fr/534/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/534/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/534/track3.mp3
-track4_link: https://mtsounds.web.deuxfleurs.fr/534/track4.mp3
-track5_link: https://mtsounds.web.deuxfleurs.fr/534/track5.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/534/track6.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/534/track7.mp3
+track1_link: https://sounds.mailta.pe/534/track1.mp3
+track2_link: https://sounds.mailta.pe/534/track2.mp3
+track3_link: https://sounds.mailta.pe/534/track3.mp3
+track4_link: https://sounds.mailta.pe/534/track4.mp3
+track5_link: https://sounds.mailta.pe/534/track5.mp3
+track6_link: https://sounds.mailta.pe/534/track6.mp3
+track7_link: https://sounds.mailta.pe/534/track7.mp3
 description: On this Sunday morning of the new season, we've curated a musical selection that gently caresses the ears and brims with uplifting vibes to usher in a cheerful and inspiring start to the season. We are delighted to commence this 12th season of MailTape with Blick Bassy, whose soulful melodies and captivating rhythms promise to be the perfect companion for your day. May your hearts be filled with sunshine, your bodies dance with joy, and your souls be illuminated.
 pubDate: '2023-09-10'
 ---

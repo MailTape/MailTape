@@ -21,14 +21,14 @@ track5_color: rough
 track7_title: Connan Mockasin - Momo's (feat James Blake)
 track7_color: vibrant
 episode_URL: https://www.mailta.pe/339/cam-maclean
-track6_link: https://mtsounds.web.deuxfleurs.fr/339/track6.mp3
-track5_link: https://mtsounds.web.deuxfleurs.fr/339/track5.mp3
-track4_link: https://mtsounds.web.deuxfleurs.fr/339/track4.mp3
+track6_link: https://sounds.mailta.pe/339/track6.mp3
+track5_link: https://sounds.mailta.pe/339/track5.mp3
+track4_link: https://sounds.mailta.pe/339/track4.mp3
 category: '339'
-track1_link: https://mtsounds.web.deuxfleurs.fr/339/Track%201.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/339/Track%202.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/339/Track%203.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/339/Track%207.mp3
+track1_link: https://sounds.mailta.pe/339/Track%201.mp3
+track2_link: https://sounds.mailta.pe/339/Track%202.mp3
+track3_link: https://sounds.mailta.pe/339/Track%203.mp3
+track7_link: https://sounds.mailta.pe/339/Track%207.mp3
 guestPic: guestPic339.jpg
 description: This morning, we are embarking on a year filled with joy, love and surprises. It shall also astonish us with many musical discoveries and auditory newness. Our journey, headed by captain Cam Maclean, promises a Sunday filled with hope and sweetness.
 image: https://mailta.pe/img/fbPic339.png

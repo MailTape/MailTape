@@ -24,13 +24,13 @@ track7_title: Lee Hazlewood - Your Sweet Love
 track7_color: vibrant
 episode_URL: https://www.mailta.pe/320/amen-dunes/
 description: 'For this last MailTape before our summer break, we welcome Damon McMahan, songwriter and New York-based founder of Amen Dunes.  In 2006, he locked himself in an isolated trailer and within a month, recorded his first album, “D.I.A“. Since then, critics haven’t seemed to reach a common agreement about how to catagorise his music: mutant folk, dark psyche, post-modern soul, cosmic rock… but whatever they’re full of fucking shit anyway. It has been consistently exciting to see the band evolve over the years.   In March 2018, Damon McMahan released his 5th LP and was no longer alone. Far away from his beautiful but claustrophobic debut album, “Freedom” is an adventurous and outward record that he produced surrounded with musicians and friends: Chris Coady (Beach House), Panoram, Parker Kindred (Antony and The Johnsons), Delicate Steve …'
-track4_link: https://mtsounds.web.deuxfleurs.fr/320/track4.mp3
-track5_link: https://mtsounds.web.deuxfleurs.fr/320/track5.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/320/track6.mp3
-track1_link: https://mtsounds.web.deuxfleurs.fr/320/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/320/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/320/track3.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/320/track7.mp3
+track4_link: https://sounds.mailta.pe/320/track4.mp3
+track5_link: https://sounds.mailta.pe/320/track5.mp3
+track6_link: https://sounds.mailta.pe/320/track6.mp3
+track1_link: https://sounds.mailta.pe/320/track1.mp3
+track2_link: https://sounds.mailta.pe/320/track2.mp3
+track3_link: https://sounds.mailta.pe/320/track3.mp3
+track7_link: https://sounds.mailta.pe/320/track7.mp3
 guestPic: guestPic320.jpg
 image: https://mailta.pe/img/fbPic320.jpg
 musiColor: musiColor320.png

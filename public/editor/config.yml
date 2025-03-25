@@ -81,7 +81,7 @@ collections:
           - {label: "Rough", value: "rough"}
           - {label: "Trippy", value: "trippy"}
           - {label: "Vibrant", value: "vibrant"}
-      - { label: "Track 1 - Link", required: false, name: track1_link, widget: "string", hint: "https://mtsounds.web.deuxfleurs.fr/XXX/track1.mp3 where XXX is episode number", default: "https://mtsounds.web.deuxfleurs.fr/XXX/track1.mp3" }
+      - { label: "Track 1 - Link", required: false, name: track1_link, widget: "string", hint: "https://sounds.mailta.pe/XXX/track1.mp3 where XXX is episode number", default: "https://sounds.mailta.pe/XXX/track1.mp3" }
 
       - { label: "Track 2 - Title", required: false, name: track2_title, widget: "string" }
       - label: "Track2 - Color"
@@ -94,7 +94,7 @@ collections:
           - {label: "Rough", value: "rough"}
           - {label: "Trippy", value: "trippy"}
           - {label: "Vibrant", value: "vibrant"}
-      - { label: "Track 2 - Link", required: false, name: track2_link, widget: "string", hint: "https://mtsounds.web.deuxfleurs.fr/XXX/track2.mp3 where XXX is episode number", default: "https://mtsounds.web.deuxfleurs.fr/XXX/track2.mp3" }
+      - { label: "Track 2 - Link", required: false, name: track2_link, widget: "string", hint: "https://sounds.mailta.pe/XXX/track2.mp3 where XXX is episode number", default: "https://sounds.mailta.pe/XXX/track2.mp3" }
 
       - { label: "Track 3 - Title", required: false, name: track3_title, widget: "string" }
       - label: "Track3 - Color"
@@ -107,7 +107,7 @@ collections:
           - {label: "Rough", value: "rough"}
           - {label: "Trippy", value: "trippy"}
           - {label: "Vibrant", value: "vibrant"}
-      - { label: "Track 3 - Link", required: false, name: track3_link, widget: "string", hint: "https://mtsounds.web.deuxfleurs.fr/XXX/track3.mp3 where XXX is episode number", default: "https://mtsounds.web.deuxfleurs.fr/XXX/track3.mp3" }
+      - { label: "Track 3 - Link", required: false, name: track3_link, widget: "string", hint: "https://sounds.mailta.pe/XXX/track3.mp3 where XXX is episode number", default: "https://sounds.mailta.pe/XXX/track3.mp3" }
 
       - { label: "Track 4 - Title", required: false, name: track4_title, widget: "string" }
       - label: "Track4 - Color"
@@ -120,7 +120,7 @@ collections:
           - {label: "Rough", value: "rough"}
           - {label: "Trippy", value: "trippy"}
           - {label: "Vibrant", value: "vibrant"}
-      - { label: "Track 4 - Link", required: false, name: track4_link, widget: "string", hint: "https://mtsounds.web.deuxfleurs.fr/XXX/track4.mp3 where XXX is episode number", default: "https://mtsounds.web.deuxfleurs.fr/XXX/track4.mp3" }
+      - { label: "Track 4 - Link", required: false, name: track4_link, widget: "string", hint: "https://sounds.mailta.pe/XXX/track4.mp3 where XXX is episode number", default: "https://sounds.mailta.pe/XXX/track4.mp3" }
 
       - { label: "Track 5 - Title", required: false, name: track5_title, widget: "string" }
       - label: "Track5 - Color"
@@ -133,7 +133,7 @@ collections:
           - {label: "Rough", value: "rough"}
           - {label: "Trippy", value: "trippy"}
           - {label: "Vibrant", value: "vibrant"}
-      - { label: "Track 5 - Link", required: false, name: track5_link, widget: "string", hint: "https://mtsounds.web.deuxfleurs.fr/XXX/track5.mp3 where XXX is episode number", default: "https://mtsounds.web.deuxfleurs.fr/XXX/track5.mp3" }
+      - { label: "Track 5 - Link", required: false, name: track5_link, widget: "string", hint: "https://sounds.mailta.pe/XXX/track5.mp3 where XXX is episode number", default: "https://sounds.mailta.pe/XXX/track5.mp3" }
 
       - { label: "Track 6 - Title", required: false, name: track6_title, widget: "string" }
       - label: "Track6 - Color"
@@ -146,7 +146,7 @@ collections:
           - {label: "Rough", value: "rough"}
           - {label: "Trippy", value: "trippy"}
           - {label: "Vibrant", value: "vibrant"}
-      - { label: "Track 6 - Link", required: false, name: track6_link, widget: "string", hint: "https://mtsounds.web.deuxfleurs.fr/XXX/track6.mp3 where XXX is episode number", default: "https://mtsounds.web.deuxfleurs.fr/XXX/track6.mp3" }
+      - { label: "Track 6 - Link", required: false, name: track6_link, widget: "string", hint: "https://sounds.mailta.pe/XXX/track6.mp3 where XXX is episode number", default: "https://sounds.mailta.pe/XXX/track6.mp3" }
 
       - { label: "Track 7 - Title", required: false, name: track7_title, widget: "string" }
       - label: "Track7 - Color"
@@ -159,7 +159,7 @@ collections:
           - {label: "Rough", value: "rough"}
           - {label: "Trippy", value: "trippy"}
           - {label: "Vibrant", value: "vibrant"}
-      - { label: "Track 7 - Link", required: false, name: track7_link, widget: "string", hint: "https://mtsounds.web.deuxfleurs.fr/XXX/track7.mp3 where XXX is episode number", default: "https://mtsounds.web.deuxfleurs.fr/XXX/track7.mp3" }
+      - { label: "Track 7 - Link", required: false, name: track7_link, widget: "string", hint: "https://sounds.mailta.pe/XXX/track7.mp3 where XXX is episode number", default: "https://sounds.mailta.pe/XXX/track7.mp3" }
 
       
       - { label: 'Episode content', required: false, name: 'body', widget: 'markdown', default: "This morning... \n # Guest's selection \n ## Artist - Track \n Guest: **\"** lorem ipsum **\"** \n ## Artist - Track \n Guest: **\"** lorem ipsum **\"** \n ## Artist - Track \n Guest: **\"** lorem ipsum **\"** \n # Curator's selection \n ## Artist - Track \n Curator: **\"** lorem ipsum **\"** \n ## Artist - Track \n Curator: **\"** lorem ipsum **\"** \n ## Artist - Track \n Curator: **\"** lorem ipsum **\"** \n ## Artist - Track \n Curator: **\"** lorem ipsum **\"** \n\n Thank you... "}

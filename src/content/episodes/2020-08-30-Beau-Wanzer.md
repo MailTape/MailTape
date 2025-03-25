@@ -18,16 +18,16 @@ track6_title: ELLLL – HOT WHEELS
 track6_color: dreamy
 track7_title: Xao Seffcheque & Der Rest – Ja-Nein-Vielleicht
 track7_color: bliss
-track1_link: https://mtsounds.web.deuxfleurs.fr/414/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/414/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/414/track3.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/414/track6.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/414/track7.mp3
+track1_link: https://sounds.mailta.pe/414/track1.mp3
+track2_link: https://sounds.mailta.pe/414/track2.mp3
+track3_link: https://sounds.mailta.pe/414/track3.mp3
+track6_link: https://sounds.mailta.pe/414/track6.mp3
+track7_link: https://sounds.mailta.pe/414/track7.mp3
 episode_URL: https://mailta.pe/414/beau-wanzer/
-track4_link: https://mtsounds.web.deuxfleurs.fr/414/track4.mp3
+track4_link: https://sounds.mailta.pe/414/track4.mp3
 track4_title: Beau Wanzer – Snake and Shake
 track4_color: trippy
-track5_link: https://mtsounds.web.deuxfleurs.fr/414/track5.mp3
+track5_link: https://sounds.mailta.pe/414/track5.mp3
 track5_title: Klein – Claim It
 track5_color: trippy
 guestPic: guestPic414.jpg

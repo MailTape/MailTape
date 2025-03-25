@@ -8,13 +8,13 @@ writer: Sanjay Mistry
 category: '369'
 guest_name: Maria Chiara Argirò
 guest_color: bliss
-track1_link: https://mtsounds.web.deuxfleurs.fr/369/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/369/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/369/track3.mp3
-track4_link: https://mtsounds.web.deuxfleurs.fr/369/track4.mp3
-track5_link: https://mtsounds.web.deuxfleurs.fr/369/track5.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/369/track6.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/369/track7.mp3
+track1_link: https://sounds.mailta.pe/369/track1.mp3
+track2_link: https://sounds.mailta.pe/369/track2.mp3
+track3_link: https://sounds.mailta.pe/369/track3.mp3
+track4_link: https://sounds.mailta.pe/369/track4.mp3
+track5_link: https://sounds.mailta.pe/369/track5.mp3
+track6_link: https://sounds.mailta.pe/369/track6.mp3
+track7_link: https://sounds.mailta.pe/369/track7.mp3
 track1_title: 'Jon Hopkins – Emerald Rush '
 track1_color: vibrant
 track2_title: 'Ambrose Akinmusire – A Blooming Bloodfruit in a Hoodie  '

@@ -20,16 +20,16 @@ track7_color: trippy
 track6_color: bliss
 track5_color: dreamy
 track4_color: bliss
-track1_link: https://mtsounds.web.deuxfleurs.fr/402/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/402/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/402/track3.mp3
+track1_link: https://sounds.mailta.pe/402/track1.mp3
+track2_link: https://sounds.mailta.pe/402/track2.mp3
+track3_link: https://sounds.mailta.pe/402/track3.mp3
 track3_color: vibrant
 track1_color: dreamy
 track2_color: bliss
-track4_link: https://mtsounds.web.deuxfleurs.fr/402/track4.mp3
-track5_link: https://mtsounds.web.deuxfleurs.fr/402/track5.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/402/track6.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/402/track7.mp3
+track4_link: https://sounds.mailta.pe/402/track4.mp3
+track5_link: https://sounds.mailta.pe/402/track5.mp3
+track6_link: https://sounds.mailta.pe/402/track6.mp3
+track7_link: https://sounds.mailta.pe/402/track7.mp3
 description: This morning we are still confined and condemned to look at the sky behind our windows. Luckily, Jeffrey Silverstein is here to guide us on a peaceful hike in the heart of our inner mountain. Time to lie down, breathe slowly, and start drawing the landscapes that will allow you to escape.
 guestPic: guestPic402.jpg
 musiColor: musiColor402.png

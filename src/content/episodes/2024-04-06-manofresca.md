@@ -10,25 +10,25 @@ illustrator: Meriam Kharbat
 writer: Anto
 track1_title: "Brad Behldau - After Bach: Flux"
 track1_color: bliss
-track1_link: https://mtsounds.web.deuxfleurs.fr/553/track1.mp3
+track1_link: https://sounds.mailta.pe/553/track1.mp3
 track2_title: Kendrick Lamar - untitled 02 | 06.23.2014
 track2_color: rough
-track2_link: https://mtsounds.web.deuxfleurs.fr/553/track2.mp3
+track2_link: https://sounds.mailta.pe/553/track2.mp3
 track3_title: Boris Vian - Je bois
 track3_color: trippy
-track3_link: https://mtsounds.web.deuxfleurs.fr/553/track3.mp3
+track3_link: https://sounds.mailta.pe/553/track3.mp3
 track4_title: Manofresca - Nothing of Ours (feat Piers Faccini)
 track4_color: dreamy
-track4_link: https://mtsounds.web.deuxfleurs.fr/553/track4.mp3
+track4_link: https://sounds.mailta.pe/553/track4.mp3
 track5_title: Nneka - Your request (special)
 track5_color: bliss
-track5_link: https://mtsounds.web.deuxfleurs.fr/553/track5.mp3
+track5_link: https://sounds.mailta.pe/553/track5.mp3
 track6_title: Abstract Orchestra - All Caps
 track6_color: vibrant
-track6_link: https://mtsounds.web.deuxfleurs.fr/553/track6.mp3
+track6_link: https://sounds.mailta.pe/553/track6.mp3
 track7_title: The Palms - Push Off
 track7_color: bliss
-track7_link: https://mtsounds.web.deuxfleurs.fr/553/track7.mp3
+track7_link: https://sounds.mailta.pe/553/track7.mp3
 description: This morning we invite you to explore a particular vibe. It is not
   easy to describe it. It's a certain idea of ​​refinement, sometinghing that we
   can call pretension but not like you’re used to hearing. Rather something

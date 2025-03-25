@@ -8,13 +8,13 @@ writer: Sanjay Mistry
 category: '315'
 guest_name: MALFNKTION
 guest_color: trippy
-track1_link: https://mtsounds.web.deuxfleurs.fr/315/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/315/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/315/track3.mp3
-track4_link: https://mtsounds.web.deuxfleurs.fr/315/track4.mp3
-track5_link: https://mtsounds.web.deuxfleurs.fr/315/track5.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/315/track6.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/315/track7.mp3
+track1_link: https://sounds.mailta.pe/315/track1.mp3
+track2_link: https://sounds.mailta.pe/315/track2.mp3
+track3_link: https://sounds.mailta.pe/315/track3.mp3
+track4_link: https://sounds.mailta.pe/315/track4.mp3
+track5_link: https://sounds.mailta.pe/315/track5.mp3
+track6_link: https://sounds.mailta.pe/315/track6.mp3
+track7_link: https://sounds.mailta.pe/315/track7.mp3
 track1_title: Wild Belle – Love Like This
 track1_color: bliss
 track2_title: Emancipator – Bat Country

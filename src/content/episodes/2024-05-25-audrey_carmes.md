@@ -10,25 +10,25 @@ illustrator: Patricia Barros De Miranda
 writer: ImaCrea
 track1_title: Ana Roxanne - Suite pour l'invisible
 track1_color: dreamy
-track1_link: https://mtsounds.web.deuxfleurs.fr/558/track1.mp3
+track1_link: https://sounds.mailta.pe/558/track1.mp3
 track2_title: Ruth Goller - Often they came to visit, even just to see how she was (M1)
 track2_color: dreamy
-track2_link: https://mtsounds.web.deuxfleurs.fr/558/track2.mp3
+track2_link: https://sounds.mailta.pe/558/track2.mp3
 track3_title: Takako Minekawa & Dustin Wong - Party on a Floating Cake
 track3_color: dreamy
-track3_link: https://mtsounds.web.deuxfleurs.fr/558/track3.mp3
+track3_link: https://sounds.mailta.pe/558/track3.mp3
 track4_title: Audrey Carmes - Une Recherche
 track4_color: dreamy
-track4_link: https://mtsounds.web.deuxfleurs.fr/558/track4.mp3
+track4_link: https://sounds.mailta.pe/558/track4.mp3
 track5_title: Madalyn Merkey - Hairspring
 track5_color: dreamy
-track5_link: https://mtsounds.web.deuxfleurs.fr/558/track5.mp3
+track5_link: https://sounds.mailta.pe/558/track5.mp3
 track6_title: Árni Grétar - Höfðadalur
 track6_color: dreamy
-track6_link: https://mtsounds.web.deuxfleurs.fr/558/track6.mp3
+track6_link: https://sounds.mailta.pe/558/track6.mp3
 track7_title: Billie Eilish - Chihiro
 track7_color: dreamy
-track7_link: https://mtsounds.web.deuxfleurs.fr/558/track7.mp3
+track7_link: https://sounds.mailta.pe/558/track7.mp3
 description: This morning, we will continue to dream gently with our guest
   Audrey Carmes. Let's embark on an ambient journey to ethereal lands where
   music takes us on an inner voyage. Let the soothing melodies guide us through

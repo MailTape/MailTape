@@ -24,13 +24,13 @@ track6_title: EOD - Express
 track7_title: chris††† - より良い場所
 episode_URL: http://www.mailta.pe/421/binary-digit/
 guestPic: guestPic421.jpg
-track1_link: https://mtsounds.web.deuxfleurs.fr/421/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/421/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/421/track3.mp3
-track4_link: https://mtsounds.web.deuxfleurs.fr/421/track4.mp3
-track5_link: https://mtsounds.web.deuxfleurs.fr/421/track5.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/421/track6.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/421/track7.mp3
+track1_link: https://sounds.mailta.pe/421/track1.mp3
+track2_link: https://sounds.mailta.pe/421/track2.mp3
+track3_link: https://sounds.mailta.pe/421/track3.mp3
+track4_link: https://sounds.mailta.pe/421/track4.mp3
+track5_link: https://sounds.mailta.pe/421/track5.mp3
+track6_link: https://sounds.mailta.pe/421/track6.mp3
+track7_link: https://sounds.mailta.pe/421/track7.mp3
 image: https://mailta.pe/img/fbPic421.png
 musiColor: musiColor421.png
 description: 'This morning, the alarm clock tastes acid and sour, that kind of unpleasant sensation at first glance but which you eventually get used to, before asking for more. Binary Digit''s selection goes straight to the point, somewhere between this unexpected ray of sunshine that pierces a gray autumn sky and the cold of winter that comes under our covers to tickle our feet. The same image always comes to mind when I try to describe Binary Digit]''s music. I have this vision that seems to come from a dream, I see a dance floor plunged into darkness and crossed at regular intervals by rays of colored light where dancers move energetically to the sound of bass rythms tears slowly roll down their cheeks. Like techno clubs'' anthems, the high bpm immediatly catches you but the Grenoble-based producer''s music has something stronger to offer than a physical influence: an acid and restless melancholy that will move your mind and hit you straight in the guts.'

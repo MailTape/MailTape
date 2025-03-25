@@ -21,16 +21,16 @@ track1_title: Steely Dan - Do It Again
 track2_title: Moondog - Bird's Lament
 track3_title: Frank Zappa - Joe's Garage
 track6_title: Mabe Fratti - En Medio
-track1_link: https://mtsounds.web.deuxfleurs.fr/467/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/467/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/467/track3.mp3
-track4_link: https://mtsounds.web.deuxfleurs.fr/467/track4.mp3
-track5_link: https://mtsounds.web.deuxfleurs.fr/467/track5.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/467/track6.mp3
+track1_link: https://sounds.mailta.pe/467/track1.mp3
+track2_link: https://sounds.mailta.pe/467/track2.mp3
+track3_link: https://sounds.mailta.pe/467/track3.mp3
+track4_link: https://sounds.mailta.pe/467/track4.mp3
+track5_link: https://sounds.mailta.pe/467/track5.mp3
+track6_link: https://sounds.mailta.pe/467/track6.mp3
 track4_title: Janko Nilović - Black on a White Ground
 track5_title: Janko Nilović and the Soul Surfers - It Never Ends
 track7_title: Nino Nardini, Roger Roger, Eddie Warner - Beyond the Clouds
-track7_link: https://mtsounds.web.deuxfleurs.fr/467/track7.mp3
+track7_link: https://sounds.mailta.pe/467/track7.mp3
 episode_URL: http://mailta.pe/467/Janko-Nilovic/
 description: 'This morning, we are wading through worlds of color, shrouded on all sides by an entire kaleidescope of sound. To craft this experience, we are beyond thrilled to welcome composer and multi-instrumentalist Janko Nilović to MailTape this Sunday. Based in Paris, Janko is a living legend in the arena of library music. A pioneer of French production music, Janko is behind so many beloved arrangements. In addition to commissions for classical compositions, Janko is frequently sampled by hip hop, rap, and rhythm and blues artists (including Jay-Z and Dr Dre). '
 musiColor: musiColor467.png

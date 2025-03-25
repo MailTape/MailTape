@@ -14,13 +14,13 @@ track6_color: trippy
 track7_color: bliss
 category: '161'
 guest_name: Milo McBride
-track1_link: https://mtsounds.web.deuxfleurs.fr/161/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/161/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/161/track3.mp3
-track4_link: https://mtsounds.web.deuxfleurs.fr/161/track4.mp3
-track5_link: https://mtsounds.web.deuxfleurs.fr/161/track5.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/161/track6.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/161/track7.mp3
+track1_link: https://sounds.mailta.pe/161/track1.mp3
+track2_link: https://sounds.mailta.pe/161/track2.mp3
+track3_link: https://sounds.mailta.pe/161/track3.mp3
+track4_link: https://sounds.mailta.pe/161/track4.mp3
+track5_link: https://sounds.mailta.pe/161/track5.mp3
+track6_link: https://sounds.mailta.pe/161/track6.mp3
+track7_link: https://sounds.mailta.pe/161/track7.mp3
 track1_title: Wildkatz - John Waters
 track2_title: Abu Ashley - Hussein Online (فيديو كليب)
 track3_title: Minister Akins - Holy Communion

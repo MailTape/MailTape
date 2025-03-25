@@ -19,16 +19,16 @@ track4_color: trippy
 track5_color: vibrant
 track6_color: trippy
 track7_color: dreamy
-track1_link: https://mtsounds.web.deuxfleurs.fr/533/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/533/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/533/track3.mp3
-track4_link: https://mtsounds.web.deuxfleurs.fr/533/track4.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/533/track7.mp3
+track1_link: https://sounds.mailta.pe/533/track1.mp3
+track2_link: https://sounds.mailta.pe/533/track2.mp3
+track3_link: https://sounds.mailta.pe/533/track3.mp3
+track4_link: https://sounds.mailta.pe/533/track4.mp3
+track7_link: https://sounds.mailta.pe/533/track7.mp3
 track4_title: Moss Velveta - Empress
 track7_title: 'Caroline Shaw & Attaca Quartet - The Evergreen: I. Moss'
-track6_link: https://mtsounds.web.deuxfleurs.fr/533/track6.mp3
+track6_link: https://sounds.mailta.pe/533/track6.mp3
 track5_title: V/Z, Valentina Magaletti, Zongamin - Candles (Version)
-track5_link: https://mtsounds.web.deuxfleurs.fr/533/track5.mp3
+track5_link: https://sounds.mailta.pe/533/track5.mp3
 episode_URL: http://mailta.pe/533/Moss-Velveta/
 track6_title: Kaitlyn Aurelia Smith - Clover
 image: https://mailta.pe/img/fbPic533.png

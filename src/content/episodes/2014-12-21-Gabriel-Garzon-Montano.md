@@ -14,13 +14,13 @@ track6_color: dreamy
 track7_color: bliss
 category: '165'
 guest_name: Gabriel Garzón-Montano
-track1_link: https://mtsounds.web.deuxfleurs.fr/165/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/165/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/165/track3.mp3
-track4_link: https://mtsounds.web.deuxfleurs.fr/165/track4.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/165/track6.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/165/track7.mp3
-track5_link: https://mtsounds.web.deuxfleurs.fr/165/track5.mp3
+track1_link: https://sounds.mailta.pe/165/track1.mp3
+track2_link: https://sounds.mailta.pe/165/track2.mp3
+track3_link: https://sounds.mailta.pe/165/track3.mp3
+track4_link: https://sounds.mailta.pe/165/track4.mp3
+track6_link: https://sounds.mailta.pe/165/track6.mp3
+track7_link: https://sounds.mailta.pe/165/track7.mp3
+track5_link: https://sounds.mailta.pe/165/track5.mp3
 track2_title: Sage Caswell - Whatever Forever
 track1_title: Quincy Vidal - Check
 track3_title: Drake - How Bout Now (Audio)

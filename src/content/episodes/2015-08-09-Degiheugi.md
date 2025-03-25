@@ -13,13 +13,13 @@ track6_color: bliss
 track7_color: vibrant
 category: '198'
 guest_name: Degiheugi
-track1_link: https://mtsounds.web.deuxfleurs.fr/198/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/198/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/198/track3.mp3
-track4_link: https://mtsounds.web.deuxfleurs.fr/198/track4.mp3
-track5_link: https://mtsounds.web.deuxfleurs.fr/198/track5.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/198/track6.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/198/track7.mp3
+track1_link: https://sounds.mailta.pe/198/track1.mp3
+track2_link: https://sounds.mailta.pe/198/track2.mp3
+track3_link: https://sounds.mailta.pe/198/track3.mp3
+track4_link: https://sounds.mailta.pe/198/track4.mp3
+track5_link: https://sounds.mailta.pe/198/track5.mp3
+track6_link: https://sounds.mailta.pe/198/track6.mp3
+track7_link: https://sounds.mailta.pe/198/track7.mp3
 track1_title: ' Jorge Ben Jor - Oba, la vem ela '
 track2_title: RJD2 - 420
 track3_title: Chinese Man - The Reminder

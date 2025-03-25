@@ -6,10 +6,10 @@ author: Inès
 category: '248'
 guest_name: Requin Chagrin
 guest_color: vibrant
-track2_link: https://mtsounds.web.deuxfleurs.fr/248/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/248/track3.mp3
-track4_link: https://mtsounds.web.deuxfleurs.fr/248/track4.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/248/track7.mp3
+track2_link: https://sounds.mailta.pe/248/track2.mp3
+track3_link: https://sounds.mailta.pe/248/track3.mp3
+track4_link: https://sounds.mailta.pe/248/track4.mp3
+track7_link: https://sounds.mailta.pe/248/track7.mp3
 track1_title: Barbagallo - Nouveau Sidobre
 track1_color: bliss
 track2_title: Kommode - Patient
@@ -21,15 +21,15 @@ track5_color: trippy
 track7_color: vibrant
 track4_color: vibrant
 episode_URL: https://www.mailta.pe/248/requin-chagrin/
-track6_link: https://mtsounds.web.deuxfleurs.fr/248/track6.mp3
+track6_link: https://sounds.mailta.pe/248/track6.mp3
 track6_title: Gorgeous Bully - Kidding (ft. Whorish Boorish)
 track6_color: dreamy
 illustrator: Camille Célestin
 writer: Inès
-track5_link: https://mtsounds.web.deuxfleurs.fr/248/track5.mp3
+track5_link: https://sounds.mailta.pe/248/track5.mp3
 track3_title: MJ Guider - Lit Negative
 track7_title: Vundabar - Darla
-track1_link: https://mtsounds.web.deuxfleurs.fr/248/track1.mp3
+track1_link: https://sounds.mailta.pe/248/track1.mp3
 musiColor: musiColor248.png
 description: This morning, juggle the calm and energetic moments thrown your way by Requin Chagrin’s eclectic selection. During this 30-minutes selection, travel all over the world, feel both warmth and coldness or just dance (alone) in your room. Sunnier days don’t seem so far away now!
 guestPic: guestPic248new2.jpg

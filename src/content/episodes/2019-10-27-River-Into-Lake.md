@@ -2,10 +2,10 @@
 pubDate: '2019-10-27'
 bigTitle_font_ratio: '6'
 published: true
-track5_link: 'https://mtsounds.web.deuxfleurs.fr/missingTrack.mp3'
+track5_link: 'https://sounds.mailta.pe/missingTrack.mp3'
 guest_color: dreamy
-track6_link: 'https://mtsounds.web.deuxfleurs.fr/missingTrack.mp3'
-track7_link: 'https://mtsounds.web.deuxfleurs.fr/missingTrack.mp3'
+track6_link: 'https://sounds.mailta.pe/missingTrack.mp3'
+track7_link: 'https://sounds.mailta.pe/missingTrack.mp3'
 track7_title: Rozi Plain - Symmetrical
 track7_color: dreamy
 track6_color: dreamy
@@ -14,7 +14,7 @@ track5_color: bliss
 track6_title: Helado Negro - 2° Dia
 track4_title: River Into Lake - Dig Your Own Way
 track4_color: trippy
-track3_link: 'https://mtsounds.web.deuxfleurs.fr/missingTrack.mp3'
+track3_link: 'https://sounds.mailta.pe/missingTrack.mp3'
 track3_title: Thundercat - Them Changes
 track3_color: vibrant
 track2_title: Selda Bağcan - Dostum Dostum
@@ -30,9 +30,9 @@ guest_name: River Into Lake
 writer: Anaïs G
 illustrator: Camille Célestin
 author: Anaïs G
-track1_link: 'https://mtsounds.web.deuxfleurs.fr/377/Track1.mp3'
-track2_link: 'https://mtsounds.web.deuxfleurs.fr/377/Track2.mp3'
-track4_link: 'https://mtsounds.web.deuxfleurs.fr/377/Track4.mp3'
+track1_link: 'https://sounds.mailta.pe/377/Track1.mp3'
+track2_link: 'https://sounds.mailta.pe/377/Track2.mp3'
+track4_link: 'https://sounds.mailta.pe/377/Track4.mp3'
 description: >-
   This morning, nature speaks to us: it bewitches us with its orange and brown
   leaves, it pushes us to get up early to go in search of mushrooms, chestnuts.

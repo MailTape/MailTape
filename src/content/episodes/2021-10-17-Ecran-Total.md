@@ -8,13 +8,13 @@ track3_title: Bigott - Pavement Tree
 track4_title: Écran Total - Finie la fête
 track5_title: Юлия Накарякова - Здравствуй
 track6_title: Yellow Magic Orchestra - Rydeen
-track1_link: https://mtsounds.web.deuxfleurs.fr/466/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/466/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/466/track3.mp3
-track4_link: https://mtsounds.web.deuxfleurs.fr/466/track4.mp3
-track5_link: https://mtsounds.web.deuxfleurs.fr/466/track5.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/466/track6.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/466/track7.mp3
+track1_link: https://sounds.mailta.pe/466/track1.mp3
+track2_link: https://sounds.mailta.pe/466/track2.mp3
+track3_link: https://sounds.mailta.pe/466/track3.mp3
+track4_link: https://sounds.mailta.pe/466/track4.mp3
+track5_link: https://sounds.mailta.pe/466/track5.mp3
+track6_link: https://sounds.mailta.pe/466/track6.mp3
+track7_link: https://sounds.mailta.pe/466/track7.mp3
 track7_title: Black Moth Super Rainbow - Melody For Color Spectrum
 category: '466'
 guest_name: Écran Total

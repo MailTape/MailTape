@@ -8,13 +8,13 @@ writer: Sanjay Mistry
 category: '275'
 guest_name: Sibusile Xaba
 guest_color: bliss
-track1_link: https://mtsounds.web.deuxfleurs.fr/275/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/275/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/275/track3.mp3
-track4_link: https://mtsounds.web.deuxfleurs.fr/275/track4.mp3
-track5_link: https://mtsounds.web.deuxfleurs.fr/275/track5.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/275/track6.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/275/track7.mp3
+track1_link: https://sounds.mailta.pe/275/track1.mp3
+track2_link: https://sounds.mailta.pe/275/track2.mp3
+track3_link: https://sounds.mailta.pe/275/track3.mp3
+track4_link: https://sounds.mailta.pe/275/track4.mp3
+track5_link: https://sounds.mailta.pe/275/track5.mp3
+track6_link: https://sounds.mailta.pe/275/track6.mp3
+track7_link: https://sounds.mailta.pe/275/track7.mp3
 track1_title: Nono Nkoane — Nomad
 track1_color: dreamy
 track2_title: Nduduzo Makhathini — King Fela

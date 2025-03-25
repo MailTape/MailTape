@@ -8,13 +8,13 @@ writer: Sanjay Mistry
 category: '319'
 guest_name: Les Graciés
 guest_color: trippy
-track1_link: https://mtsounds.web.deuxfleurs.fr/319/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/319/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/319/track3.mp3
-track4_link: https://mtsounds.web.deuxfleurs.fr/319/track4.mp3
-track5_link: https://mtsounds.web.deuxfleurs.fr/319/track5.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/319/track6.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/319/track7.mp3
+track1_link: https://sounds.mailta.pe/319/track1.mp3
+track2_link: https://sounds.mailta.pe/319/track2.mp3
+track3_link: https://sounds.mailta.pe/319/track3.mp3
+track4_link: https://sounds.mailta.pe/319/track4.mp3
+track5_link: https://sounds.mailta.pe/319/track5.mp3
+track6_link: https://sounds.mailta.pe/319/track6.mp3
+track7_link: https://sounds.mailta.pe/319/track7.mp3
 track1_title: Joni Mitchell – Hejira
 track1_color: dreamy
 track2_title: Al Jarreau – Brite 'N' Sunny Babe

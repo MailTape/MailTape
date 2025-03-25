@@ -7,23 +7,23 @@ guest_color: bliss
 author: Sarah
 track1_title: Latin Playboys - Mustard
 track1_color: dreamy
-track1_link: https://mtsounds.web.deuxfleurs.fr/578/track1.mp3
+track1_link: https://sounds.mailta.pe/578/track1.mp3
 track2_title: Catherine Ribeiro + Alpes - Âme debout
 track2_color: vibrant
-track2_link: https://mtsounds.web.deuxfleurs.fr/578/track2.mp3
+track2_link: https://sounds.mailta.pe/578/track2.mp3
 track3_title: Baka Beyond / Baka Forest People - Venolouma
 track3_color: trippy
-track3_link: https://mtsounds.web.deuxfleurs.fr/578/track3.mp3
+track3_link: https://sounds.mailta.pe/578/track3.mp3
 track4_title: Magic Tuber Stringband - Water Dripped Upwards
 track4_color: vibrant
-track4_link: https://mtsounds.web.deuxfleurs.fr/XXX/track4.mp3
+track4_link: https://sounds.mailta.pe/XXX/track4.mp3
 track5_color: vibrant
-track5_link: https://mtsounds.web.deuxfleurs.fr/XXX/track5.mp3
+track5_link: https://sounds.mailta.pe/XXX/track5.mp3
 track6_color: dreamy
-track6_link: https://mtsounds.web.deuxfleurs.fr/XXX/track6.mp3
+track6_link: https://sounds.mailta.pe/XXX/track6.mp3
 track7_title: "Magic Tuber Stringband - "
 track7_color: trippy
-track7_link: https://mtsounds.web.deuxfleurs.fr/XXX/track7.mp3
+track7_link: https://sounds.mailta.pe/XXX/track7.mp3
 episode_URL: https://mailta.pe/578/Magic-Tuber-Stringband/
 ---
 This morning... 

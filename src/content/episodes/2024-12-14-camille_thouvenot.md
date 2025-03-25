@@ -10,25 +10,25 @@ illustrator: Jan Henrik
 writer: Anto
 track1_title: Bob Marley - Concrete Jungle
 track1_color: vibrant
-track1_link: https://mtsounds.web.deuxfleurs.fr/570/track1.mp3
+track1_link: https://sounds.mailta.pe/570/track1.mp3
 track2_title: Keith Jarrett - Whisper Not
 track2_color: bliss
-track2_link: https://mtsounds.web.deuxfleurs.fr/570/track2.mp3
+track2_link: https://sounds.mailta.pe/570/track2.mp3
 track3_title: Oscar Peterson - I Remember Clifford
 track3_color: vibrant
-track3_link: https://mtsounds.web.deuxfleurs.fr/570/track3.mp3
+track3_link: https://sounds.mailta.pe/570/track3.mp3
 track4_title: Camille Thouvenot Mettà Trio – Donkey-Run
 track4_color: vibrant
-track4_link: https://mtsounds.web.deuxfleurs.fr/570/track4.mp3
+track4_link: https://sounds.mailta.pe/570/track4.mp3
 track5_title: Nala Sinephro – Continuum 2
 track5_color: dreamy
-track5_link: https://mtsounds.web.deuxfleurs.fr/570/track5.mp3
+track5_link: https://sounds.mailta.pe/570/track5.mp3
 track6_title: Ménélik – Un petit rien de jazz (prod. Jimmy Jay)
 track6_color: vibrant
-track6_link: https://mtsounds.web.deuxfleurs.fr/570/track6.mp3
+track6_link: https://sounds.mailta.pe/570/track6.mp3
 track7_title: "Rouge (Madeleine Cazenave) - Louves "
 track7_color: bliss
-track7_link: https://mtsounds.web.deuxfleurs.fr/570/track7.mp3
+track7_link: https://sounds.mailta.pe/570/track7.mp3
 description: This morning, Mail Tape invites you to revisit some classics and to
   continue the discovery of artistic works from other times or that just come
   out of the studios. So, whether they are new or old, today's tracks all have

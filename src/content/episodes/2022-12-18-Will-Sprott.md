@@ -22,14 +22,14 @@ writer: Sarah
 category: '510'
 guest_name: Will Sprott
 guest_color: vibrant
-track1_link: https://mtsounds.web.deuxfleurs.fr/510/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/510/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/510/track3.mp3
+track1_link: https://sounds.mailta.pe/510/track1.mp3
+track2_link: https://sounds.mailta.pe/510/track2.mp3
+track3_link: https://sounds.mailta.pe/510/track3.mp3
 description: This Sunday, we welcome in the morning with Will Sprott. His dreamy selection brings in a lot of light with it, gifting us some surprising finds with winding melodies. Based in California, Will Sprott's music stretches from folk to rock n roll to soul to space country.
-track4_link: https://mtsounds.web.deuxfleurs.fr/510/track4.mp3
-track5_link: https://mtsounds.web.deuxfleurs.fr/510/track5.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/510/track6.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/510/track7.mp3
+track4_link: https://sounds.mailta.pe/510/track4.mp3
+track5_link: https://sounds.mailta.pe/510/track5.mp3
+track6_link: https://sounds.mailta.pe/510/track6.mp3
+track7_link: https://sounds.mailta.pe/510/track7.mp3
 track6_title: Shannon and the Clams - Vanishing
 track4_title: Will Sprott - A Dog Will Love You When Nobody Else Will
 track7_title: Lizette & Quentin - Grow Forever

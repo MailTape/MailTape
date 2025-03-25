@@ -26,13 +26,13 @@ track7_color: trippy
 episode_URL: http://mailta.pe/535/cindy-pooch/
 image: https://mailta.pe/img/fbPic535.jpg
 musiColor: musiColor535.png
-track1_link: https://mtsounds.web.deuxfleurs.fr/535/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/535/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/535/track3.mp3
-track4_link: https://mtsounds.web.deuxfleurs.fr/535/track4.mp3
-track5_link: https://mtsounds.web.deuxfleurs.fr/535/track5.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/535/track6.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/535/track7.mp3
+track1_link: https://sounds.mailta.pe/535/track1.mp3
+track2_link: https://sounds.mailta.pe/535/track2.mp3
+track3_link: https://sounds.mailta.pe/535/track3.mp3
+track4_link: https://sounds.mailta.pe/535/track4.mp3
+track5_link: https://sounds.mailta.pe/535/track5.mp3
+track6_link: https://sounds.mailta.pe/535/track6.mp3
+track7_link: https://sounds.mailta.pe/535/track7.mp3
 description: "This morning, we embark on a gentle and ethereal journey with the delightful presence of Cindy Pooch as our esteemed guest. She's leading us into a realm where music transcends its mere auditory form, serving as a gateway to alternate dimensions.\tIn this space, poetry, spirituality, and harmony blend seamlessly, all ignited by the captivating power of the human voice. As one becomes a vessel for music, the confines of time and place dissipate, leaving only the profound experience of the present moment."
 pubDate: '2023-09-24'
 ---

@@ -19,11 +19,11 @@ track2_color: bliss
 track2_title: La Priest - What Moves
 track1_color: dreamy
 track1_title: Nick Hakim - Let It Out
-track7_link: https://mtsounds.web.deuxfleurs.fr/423/track7.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/423/track6.mp3
-track5_link: https://mtsounds.web.deuxfleurs.fr/423/track5.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/423/track3.mp3
-track1_link: https://mtsounds.web.deuxfleurs.fr/423/track1.mp3
+track7_link: https://sounds.mailta.pe/423/track7.mp3
+track6_link: https://sounds.mailta.pe/423/track6.mp3
+track5_link: https://sounds.mailta.pe/423/track5.mp3
+track3_link: https://sounds.mailta.pe/423/track3.mp3
+track1_link: https://sounds.mailta.pe/423/track1.mp3
 guestPic: guestPic423.jpg
 guest_color: vibrant
 guest_name: Schérazade
@@ -31,8 +31,8 @@ category: '423'
 writer: Anaïs G
 illustrator: Thibault Daumain
 author: Anaïs G
-track4_link: https://mtsounds.web.deuxfleurs.fr/423/track4.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/423/track2.mp3
+track4_link: https://sounds.mailta.pe/423/track4.mp3
+track2_link: https://sounds.mailta.pe/423/track2.mp3
 description: This morning, we send each other love, we hug each other through our masks, we send each other kisses through our windows. You try to forget the dull days, the sad news and concentrate on memories of holidays, of moments spent surrounded by friends or family. To accompany us in this quest for the inner sun, we have the voice of Schérazade.
 pubDate: '2020-11-01'
 ---

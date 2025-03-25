@@ -2,19 +2,19 @@
 pubDate: '2021-05-30'
 bigTitle_font_ratio: '6'
 published: true
-track3_link: 'https://mtsounds.web.deuxfleurs.fr/missingTrack.mp3'
-track1_link: 'https://mtsounds.web.deuxfleurs.fr/453/track1.mp3'
-track2_link: 'https://mtsounds.web.deuxfleurs.fr/453/track2.mp3'
+track3_link: 'https://sounds.mailta.pe/missingTrack.mp3'
+track1_link: 'https://sounds.mailta.pe/453/track1.mp3'
+track2_link: 'https://sounds.mailta.pe/453/track2.mp3'
 category: '453'
 author: ImaCrea
 illustrator: Thibault Daumain
 writer: ImaCrea
 guest_name: Mike Slott
 guest_color: dreamy
-track4_link: 'https://mtsounds.web.deuxfleurs.fr/missingTrack.mp3'
-track5_link: 'https://mtsounds.web.deuxfleurs.fr/453/track5.mp3'
-track6_link: 'https://mtsounds.web.deuxfleurs.fr/453/track6.mp3'
-track7_link: 'https://mtsounds.web.deuxfleurs.fr/453/track7.mp3'
+track4_link: 'https://sounds.mailta.pe/missingTrack.mp3'
+track5_link: 'https://sounds.mailta.pe/453/track5.mp3'
+track6_link: 'https://sounds.mailta.pe/453/track6.mp3'
+track7_link: 'https://sounds.mailta.pe/453/track7.mp3'
 track1_color: dreamy
 track2_color: dreamy
 track3_color: bliss

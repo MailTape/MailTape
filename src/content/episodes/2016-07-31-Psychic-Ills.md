@@ -9,13 +9,13 @@ category: '227'
 guest_name: Psychic Ills
 guest_color: dreamy
 guestPic: guestPic227.jpg
-track1_link: https://mtsounds.web.deuxfleurs.fr/227/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/227/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/227/track3.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/227/track7.mp3
-track4_link: https://mtsounds.web.deuxfleurs.fr/227/track4.mp3
-track5_link: https://mtsounds.web.deuxfleurs.fr/227/track5.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/227/track6.mp3
+track1_link: https://sounds.mailta.pe/227/track1.mp3
+track2_link: https://sounds.mailta.pe/227/track2.mp3
+track3_link: https://sounds.mailta.pe/227/track3.mp3
+track7_link: https://sounds.mailta.pe/227/track7.mp3
+track4_link: https://sounds.mailta.pe/227/track4.mp3
+track5_link: https://sounds.mailta.pe/227/track5.mp3
+track6_link: https://sounds.mailta.pe/227/track6.mp3
 track1_title: Kris Kristofferson - Sunday Morning Coming Down
 track2_title: Traveling Wilburys - Handle With Care
 track3_title: Bill Withers - Lovely Day

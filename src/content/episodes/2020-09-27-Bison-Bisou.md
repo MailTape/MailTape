@@ -16,10 +16,10 @@ track2_color: rough
 track2_title: Girl Band - Shoulderblades
 track1_color: vibrant
 track1_title: 'Jenny Hval - The Great Undressing '
-track7_link: https://mtsounds.web.deuxfleurs.fr/416/track7.mp3
-track5_link: https://mtsounds.web.deuxfleurs.fr/418/track5.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/418/track3.mp3
-track1_link: https://mtsounds.web.deuxfleurs.fr/418/track1.mp3
+track7_link: https://sounds.mailta.pe/416/track7.mp3
+track5_link: https://sounds.mailta.pe/418/track5.mp3
+track3_link: https://sounds.mailta.pe/418/track3.mp3
+track1_link: https://sounds.mailta.pe/418/track1.mp3
 guestPic: guestPic418.jpg
 guest_color: rough
 guest_name: Bison Bisou
@@ -28,9 +28,9 @@ writer: Anaïs G
 illustrator: Anthony Dujardin
 author: Anaïs G
 published: true
-track2_link: https://mtsounds.web.deuxfleurs.fr/418/track2.mp3
-track4_link: https://mtsounds.web.deuxfleurs.fr/418/track4.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/418/track6.mp3
+track2_link: https://sounds.mailta.pe/418/track2.mp3
+track4_link: https://sounds.mailta.pe/418/track4.mp3
+track6_link: https://sounds.mailta.pe/418/track6.mp3
 image: https://mailta.pe/img/fbPic418.png
 musiColor: musiColor418.png
 description: This morning, we are in transition from remembering the warmth of our summer to the coolness of the rainy days. It's all about fighting the outside elements with big guitar riffs, big sounds that tap and accompany the musical selection of the band Bison Bisou to warm up the atmosphere.

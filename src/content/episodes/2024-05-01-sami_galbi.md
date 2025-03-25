@@ -10,25 +10,25 @@ illustrator: Noémie Dijon
 writer: Jules
 track1_title: Timber Timbre - Black Water
 track1_color: dreamy
-track1_link: https://mtsounds.web.deuxfleurs.fr/557/track1.mp3
+track1_link: https://sounds.mailta.pe/557/track1.mp3
 track2_title: Cheba Fadela & Cheb Sahraoui - Manich Mena
 track2_color: bliss
-track2_link: https://mtsounds.web.deuxfleurs.fr/557/track2.mp3
+track2_link: https://sounds.mailta.pe/557/track2.mp3
 track3_title: Mashrou' Leila - Radio Romance
 track3_color: vibrant
-track3_link: https://mtsounds.web.deuxfleurs.fr/557/track3.mp3
+track3_link: https://sounds.mailta.pe/557/track3.mp3
 track4_title: Sami Galbi -  Dakchi Hani
 track4_color: trippy
-track4_link: https://mtsounds.web.deuxfleurs.fr/557/track4.mp3
+track4_link: https://sounds.mailta.pe/557/track4.mp3
 track5_title: Sofiane Saidi & Mazalda - Bourkan
 track5_color: bliss
-track5_link: https://mtsounds.web.deuxfleurs.fr/557/track5.mp3
+track5_link: https://sounds.mailta.pe/557/track5.mp3
 track6_title: Cheb Kader - Reggae Raï
 track6_color: trippy
-track6_link: https://mtsounds.web.deuxfleurs.fr/557/track6.mp3
+track6_link: https://sounds.mailta.pe/557/track6.mp3
 track7_title: Teno Afrika - Smooth Criminal (Main Mix)
 track7_color: vibrant
-track7_link: https://mtsounds.web.deuxfleurs.fr/557/track7.mp3
+track7_link: https://sounds.mailta.pe/557/track7.mp3
 description: >+
   This morning we're delighted to welcome Swiss-Moroccan musician and singer
   Sami Galbi who has just released his first EP Dakchi Hani / Rruina to

@@ -14,9 +14,9 @@ track2_title: Jim O'Rourke - All Downhill From Here
 track3_title: Sam Prekop - Chicago People
 track2_color: vibrant
 track3_color: dreamy
-track3_link: https://mtsounds.web.deuxfleurs.fr/486/track3.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/486/track2.mp3
-track1_link: https://mtsounds.web.deuxfleurs.fr/486/track1.mp3
+track3_link: https://sounds.mailta.pe/486/track3.mp3
+track2_link: https://sounds.mailta.pe/486/track2.mp3
+track1_link: https://sounds.mailta.pe/486/track1.mp3
 track1_color: bliss
 track4_color: vibrant
 track5_color: dreamy
@@ -28,12 +28,12 @@ episode_URL: http://mailta.pe/486/Jesse-Adelman/
 track4_title: Jesse Adelman - Even If
 track6_title: Jesse Adelman - Me and Josine
 track5_title: Louis Inglis - Bad Dreams
-track4_link: https://mtsounds.web.deuxfleurs.fr/486/track4.mp3
-track5_link: https://mtsounds.web.deuxfleurs.fr/486/track5.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/486/track6.mp3
+track4_link: https://sounds.mailta.pe/486/track4.mp3
+track5_link: https://sounds.mailta.pe/486/track5.mp3
+track6_link: https://sounds.mailta.pe/486/track6.mp3
 description: Today, we welcome Jesse Adelman for a collection of easy moving tracks to start your Sunday. Multi-instrumentalist songwriter based in the Bronx, Jesse released his solo debut album, Strangers, in December of last year. Influenced by classic 70's rock, folk, and alt-Western music, this album is a world of sound to listen through, a pleasure to the end.
 track7_title: Johanna Samuels, Ohtis - Via Chicago
-track7_link: https://mtsounds.web.deuxfleurs.fr/486/track7.mp3
+track7_link: https://sounds.mailta.pe/486/track7.mp3
 pubDate: '2022-03-20'
 ---
 Today, we welcome [Jesse Adelman](https://jesseadelman.bandcamp.com/) for a collection of easy moving tracks to start your Sunday. Multi-instrumentalist songwriter based in the Bronx, Jesse released his solo debut album, [Strangers](https://jesseadelman.bandcamp.com/album/strangers), in December of last year. Influenced by classic 70's rock, folk, and alt-Western music, this album is a world of sound to listen through, a pleasure to the end.

@@ -15,19 +15,19 @@ track7_color: vibrant
 category: '134'
 guest_name: Catching Flies
 track1_title: Fatima feat. Floating Points - Mind
-track1_link: https://mtsounds.web.deuxfleurs.fr/134/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/134/track2.mp3
+track1_link: https://sounds.mailta.pe/134/track1.mp3
+track2_link: https://sounds.mailta.pe/134/track2.mp3
 track2_title: Gap Mangione - Diana In The Autumn Wind
 track3_title: Grandbrothers - Ezra was Right
 track4_title: Catching Flies - Stay Forever
-track3_link: https://mtsounds.web.deuxfleurs.fr/134/track3.mp3
-track4_link: https://mtsounds.web.deuxfleurs.fr/134/track4.mp3
+track3_link: https://sounds.mailta.pe/134/track3.mp3
+track4_link: https://sounds.mailta.pe/134/track4.mp3
 track5_title: Kenmochi Hidefumi - Ash Ra
-track5_link: https://mtsounds.web.deuxfleurs.fr/134/track5.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/134/track6.mp3
+track5_link: https://sounds.mailta.pe/134/track5.mp3
+track6_link: https://sounds.mailta.pe/134/track6.mp3
 track6_title: Sohn - The Wheel
 track7_title: Ages - mermeladas de barbacoa
-track7_link: https://mtsounds.web.deuxfleurs.fr/134/track7.mp3
+track7_link: https://sounds.mailta.pe/134/track7.mp3
 episode_URL: http://mailta.pe/134/Catching-Flies/
 guestPic: guestPic134.jpg
 image: https://mailta.pe/img/fbPic134.jpg

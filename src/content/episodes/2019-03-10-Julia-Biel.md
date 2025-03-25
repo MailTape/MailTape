@@ -23,13 +23,13 @@ track6_color: dreamy
 track7_title: Keyvan Chemirani & Pandit Anindo Chatterjee – Bhairavi
 track7_color: bliss
 episode_URL: http://mailta.pe/348/julia-biel/
-track1_link: https://mtsounds.web.deuxfleurs.fr/348/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/348/track2.mp3
-track4_link: https://mtsounds.web.deuxfleurs.fr/348/track4.mp3
-track5_link: https://mtsounds.web.deuxfleurs.fr/348/track5.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/348/track3.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/348/track6.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/348/track7.mp3
+track1_link: https://sounds.mailta.pe/348/track1.mp3
+track2_link: https://sounds.mailta.pe/348/track2.mp3
+track4_link: https://sounds.mailta.pe/348/track4.mp3
+track5_link: https://sounds.mailta.pe/348/track5.mp3
+track3_link: https://sounds.mailta.pe/348/track3.mp3
+track6_link: https://sounds.mailta.pe/348/track6.mp3
+track7_link: https://sounds.mailta.pe/348/track7.mp3
 guestPic: guestPic348.jpg
 image: https://mailta.pe/img/fbPic348.jpg
 musiColor: musiColor348.png

@@ -16,19 +16,19 @@ category: '131'
 episode_URL: http://mailta.pe/131-Vibrant-Spring.html
 guest_name: Vibrant Spring
 track1_title: Willis Earl Beal - Coming Through (feat. Cat Power)
-track1_link: https://mtsounds.web.deuxfleurs.fr/131/track1.mp3
+track1_link: https://sounds.mailta.pe/131/track1.mp3
 track2_title: KID WISE - Hope
-track2_link: https://mtsounds.web.deuxfleurs.fr/131/track2.mp3
+track2_link: https://sounds.mailta.pe/131/track2.mp3
 track3_title: GLITCHES - RGB (VIMES Remix)
-track3_link: https://mtsounds.web.deuxfleurs.fr/131/track3.mp3
-track4_link: https://mtsounds.web.deuxfleurs.fr/131/track4.mp3
+track3_link: https://sounds.mailta.pe/131/track3.mp3
+track4_link: https://sounds.mailta.pe/131/track4.mp3
 track4_title: Georgio - A Tous les Coups
-track5_link: https://mtsounds.web.deuxfleurs.fr/131/track5.mp3
+track5_link: https://sounds.mailta.pe/131/track5.mp3
 track5_title: Flyte - We Are the Rain
 track6_title: Horse Feathers - Curs in the Weeds (oddlogic refix)
-track6_link: https://mtsounds.web.deuxfleurs.fr/131/track6.mp3
+track6_link: https://sounds.mailta.pe/131/track6.mp3
 track7_title: Yinyues - Zing Wezé Mama
-track7_link: https://mtsounds.web.deuxfleurs.fr/131/track7.mp3
+track7_link: https://sounds.mailta.pe/131/track7.mp3
 author: MailTape Crew
 guestPic: guestPic131.jpg
 musiColor: musiColor131.png

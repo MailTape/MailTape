@@ -16,21 +16,21 @@ track3_title: The Beatles - A Day In The Life
 track3_color: trippy
 track4_title: Soren Song - Gentle Man
 track4_color: vibrant
-track1_link: https://mtsounds.web.deuxfleurs.fr/507/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/507/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/507/track3.mp3
+track1_link: https://sounds.mailta.pe/507/track1.mp3
+track2_link: https://sounds.mailta.pe/507/track2.mp3
+track3_link: https://sounds.mailta.pe/507/track3.mp3
 track5_color: dreamy
 track6_color: bliss
 track7_color: trippy
 track6_title: Soren Song - That Furious Rain
-track6_link: https://mtsounds.web.deuxfleurs.fr/507/track6.mp3
-track5_link: https://mtsounds.web.deuxfleurs.fr/507/track5.mp3
+track6_link: https://sounds.mailta.pe/507/track6.mp3
+track5_link: https://sounds.mailta.pe/507/track5.mp3
 track5_title: Adelyn Rose - Gone for Anything
 guestPic: guestPic507.jpg
 episode_URL: http://mailta.pe/507/Soren-Song/
 image: https://mailta.pe/img/fbPic507.png
-track4_link: https://mtsounds.web.deuxfleurs.fr/507/track4.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/507/track7.mp3
+track4_link: https://sounds.mailta.pe/507/track4.mp3
+track7_link: https://sounds.mailta.pe/507/track7.mp3
 track7_title: Rainbow Kitten Surprise - Polite Company
 description: With lots of love, this morning we welcome Soren Song to MailTape. Based in Woodstock, NY, their work is brimming with striking descriptions and deeply perceptive lyricism. It's a true joy to welcome them for a collection of tracks to start your Sunday.
 musiColor: ''

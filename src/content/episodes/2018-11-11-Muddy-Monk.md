@@ -2,11 +2,11 @@
 
 bigTitle_font_ratio: '6'
 published: true
-track1_link: https://mtsounds.web.deuxfleurs.fr/331/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/331/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/331/track3.mp3
-track4_link: https://mtsounds.web.deuxfleurs.fr/331/track4.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/331/track7.mp3
+track1_link: https://sounds.mailta.pe/331/track1.mp3
+track2_link: https://sounds.mailta.pe/331/track2.mp3
+track3_link: https://sounds.mailta.pe/331/track3.mp3
+track4_link: https://sounds.mailta.pe/331/track4.mp3
+track7_link: https://sounds.mailta.pe/331/track7.mp3
 category: '331'
 guest_name: Muddy Monk
 author: Manon
@@ -14,8 +14,8 @@ illustrator: William Girault
 writer: Manon
 guest_color: dreamy
 episode_URL: http://mailta.pe/331/Muddy-Monk/
-track5_link: https://mtsounds.web.deuxfleurs.fr/331/track5.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/331/track6.mp3
+track5_link: https://sounds.mailta.pe/331/track5.mp3
+track6_link: https://sounds.mailta.pe/331/track6.mp3
 track2_title: Oko Ebombo - Naked Life
 track2_color: vibrant
 track1_color: rough

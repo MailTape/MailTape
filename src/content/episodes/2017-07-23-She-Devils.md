@@ -6,24 +6,24 @@ author: ImaCrea
 illustrator: Camille Célestin
 category: '270'
 guest_name: She-Devils
-track1_link: https://mtsounds.web.deuxfleurs.fr/270/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/270/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/270/track3.mp3
+track1_link: https://sounds.mailta.pe/270/track1.mp3
+track2_link: https://sounds.mailta.pe/270/track2.mp3
+track3_link: https://sounds.mailta.pe/270/track3.mp3
 track1_title: Ramzi - Majestic Zouk
 track2_title: Seth Bogart - Club With Me
 track3_title: Guy's# - When You Call Me
 track1_color: trippy
 track2_color: vibrant
 track3_color: trippy
-track4_link: https://mtsounds.web.deuxfleurs.fr/270/track4.mp3
+track4_link: https://sounds.mailta.pe/270/track4.mp3
 track4_title: She-Devils - Darling
 track4_color: bliss
-track5_link: https://mtsounds.web.deuxfleurs.fr/270/track5.mp3
+track5_link: https://sounds.mailta.pe/270/track5.mp3
 track5_title: Yellow Days - That Easy
 track5_color: bliss
 track6_title: Mons Vi - Want Me Too
-track6_link: https://mtsounds.web.deuxfleurs.fr/270/track6.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/270/track7.mp3
+track6_link: https://sounds.mailta.pe/270/track6.mp3
+track7_link: https://sounds.mailta.pe/270/track7.mp3
 track7_title: ' Tabu Ley Rochereau - Hafi Deo '
 track7_color: vibrant
 track6_color: bliss

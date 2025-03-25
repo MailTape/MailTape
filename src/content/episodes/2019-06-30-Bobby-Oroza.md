@@ -8,12 +8,12 @@ writer: Jules
 category: '364'
 guest_name: Bobby Oroza
 guest_color: vibrant
-track1_link: https://mtsounds.web.deuxfleurs.fr/364/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/364/track2.mp3
-track4_link: https://mtsounds.web.deuxfleurs.fr/364/track4.mp3
-track5_link: https://mtsounds.web.deuxfleurs.fr/364/track5.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/364/track6.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/364/track7.mp3
+track1_link: https://sounds.mailta.pe/364/track1.mp3
+track2_link: https://sounds.mailta.pe/364/track2.mp3
+track4_link: https://sounds.mailta.pe/364/track4.mp3
+track5_link: https://sounds.mailta.pe/364/track5.mp3
+track6_link: https://sounds.mailta.pe/364/track6.mp3
+track7_link: https://sounds.mailta.pe/364/track7.mp3
 track1_title: Chico Buarque - Olê, Olá
 track2_title: Gloria Ann Taylor - World That’s Not Real
 track3_title: Johnnie Frierson - Have You Been Good To Yourself
@@ -29,7 +29,7 @@ track1_color: dreamy
 track2_color: vibrant
 track3_color: rough
 episode_URL: https://www.mailta.pe/364/bobby-oroza/
-track3_link: https://mtsounds.web.deuxfleurs.fr/364/track3.mp3
+track3_link: https://sounds.mailta.pe/364/track3.mp3
 description: This morning, whether on sunny beaches, palm groves or lush oases, or just enjoying a fine breakfast in your bed, allow yourself to be soothed by a strange and unique shade of Soul born in Finland but balancing international influences, with Bobby Oroza.
 guestPic: guestPic364-1.jpg
 image: https://mailta.pe/img/fbPic364.png

@@ -8,10 +8,10 @@ writer: Inès
 category: '256'
 guest_name: Johnny Hawaii
 guest_color: bliss
-track1_link: https://mtsounds.web.deuxfleurs.fr/256/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/256/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/256/track3.mp3
-track4_link: https://mtsounds.web.deuxfleurs.fr/256/track4.mp3
+track1_link: https://sounds.mailta.pe/256/track1.mp3
+track2_link: https://sounds.mailta.pe/256/track2.mp3
+track3_link: https://sounds.mailta.pe/256/track3.mp3
+track4_link: https://sounds.mailta.pe/256/track4.mp3
 track1_title: Matthewdavid - Mindflight 1
 track1_color: trippy
 track2_title: Crystal Voyager OST - Red Sun Sea
@@ -23,13 +23,13 @@ episode_URL: https://mailta.pe/256/Johnny-Hawaii/
 guestPic: guestPic256.jpg
 track4_color: bliss
 track5_color: trippy
-track5_link: https://mtsounds.web.deuxfleurs.fr/256/track5.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/256/track6.mp3
+track5_link: https://sounds.mailta.pe/256/track5.mp3
+track6_link: https://sounds.mailta.pe/256/track6.mp3
 track6_title: Beach House - Sparks
 track6_color: dreamy
 track7_title: The Brian Jonestown Massacre - Viholliseni Maalla
 track7_color: bliss
-track7_link: https://mtsounds.web.deuxfleurs.fr/256/track7.mp3
+track7_link: https://sounds.mailta.pe/256/track7.mp3
 track5_title: The Radio Dept. - It's Personal
 description: 'This morning, let''s all stay in a hazy state thanks to Johnny Hawaii’s trippy selection. Johnny Hawaii''s psychedelic surf tracks are amazing soundtracks for Sundays: long, slow, and dreamy, just what is needed to wrap up the week beautifully. So stay still, close your eyes, don''t turn on the lights. Take this episode as being an excuse to do nothing for some time.'
 image: https://mailta.pe/img/fbPic256.png

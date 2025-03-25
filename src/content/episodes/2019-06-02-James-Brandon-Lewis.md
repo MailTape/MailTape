@@ -22,13 +22,13 @@ track6_title: Susana Santos Silva – No Trees Land
 track6_color: dreamy
 track7_title: Casimir Liberski, Tyshawn Sorey & Thomas Morgan – Evanescence I
 track7_color: dreamy
-track7_link: https://mtsounds.web.deuxfleurs.fr/360/track7.mp3
-track5_link: https://mtsounds.web.deuxfleurs.fr/360/track5.mp3
-track4_link: https://mtsounds.web.deuxfleurs.fr/360/track4.mp3
-track1_link: https://mtsounds.web.deuxfleurs.fr/360/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/360/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/360/track3.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/360/track6.mp3
+track7_link: https://sounds.mailta.pe/360/track7.mp3
+track5_link: https://sounds.mailta.pe/360/track5.mp3
+track4_link: https://sounds.mailta.pe/360/track4.mp3
+track1_link: https://sounds.mailta.pe/360/track1.mp3
+track2_link: https://sounds.mailta.pe/360/track2.mp3
+track3_link: https://sounds.mailta.pe/360/track3.mp3
+track6_link: https://sounds.mailta.pe/360/track6.mp3
 episode_URL: http://mailta.pe/360/james-brandon-lewis/
 description: This morning we are pleased to welcome saxophonist and composer, James Brandon Lewis, to select three church-inspired Sunday morning tunes with us.
 guestPic: guestPic360.jpg

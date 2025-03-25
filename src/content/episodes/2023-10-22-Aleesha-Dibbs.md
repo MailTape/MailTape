@@ -22,13 +22,13 @@ track7_color: trippy
 guestPic: guestPic538.jpg
 image: ' https://mailta.pe/img/fbPic538.png'
 track7_title: Vanishing Twin - Afternoon X
-track4_link: https://mtsounds.web.deuxfleurs.fr/538/track4.mp3
-track1_link: https://mtsounds.web.deuxfleurs.fr/538/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/538/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/538/track3.mp3
-track5_link: https://mtsounds.web.deuxfleurs.fr/538/track5.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/538/track6.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/538/track7.mp3
+track4_link: https://sounds.mailta.pe/538/track4.mp3
+track1_link: https://sounds.mailta.pe/538/track1.mp3
+track2_link: https://sounds.mailta.pe/538/track2.mp3
+track3_link: https://sounds.mailta.pe/538/track3.mp3
+track5_link: https://sounds.mailta.pe/538/track5.mp3
+track6_link: https://sounds.mailta.pe/538/track6.mp3
+track7_link: https://sounds.mailta.pe/538/track7.mp3
 track5_title: Caitlin Harnett & The Pony Boys - Only Dreaming
 track6_title: Anastasia Rydlevskaya - Don't tell her your name
 episode_URL: http://mailta.pe/538/Aleesha-Dibbs/

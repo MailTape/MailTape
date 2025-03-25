@@ -8,12 +8,12 @@ writer: Sanjay Mistry
 category: '342'
 guest_name: Glockenspiel
 guest_color: dreamy
-track1_link: https://mtsounds.web.deuxfleurs.fr/342/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/342/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/342/track3.mp3
-track4_link: https://mtsounds.web.deuxfleurs.fr/342/track4.mp3
-track5_link: https://mtsounds.web.deuxfleurs.fr/342/track5.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/342/track7.mp3
+track1_link: https://sounds.mailta.pe/342/track1.mp3
+track2_link: https://sounds.mailta.pe/342/track2.mp3
+track3_link: https://sounds.mailta.pe/342/track3.mp3
+track4_link: https://sounds.mailta.pe/342/track4.mp3
+track5_link: https://sounds.mailta.pe/342/track5.mp3
+track7_link: https://sounds.mailta.pe/342/track7.mp3
 track1_title: Dedekind Cut – Tahoe
 track1_color: dreamy
 track2_title: Shida Shahabi – Abisme
@@ -29,7 +29,7 @@ track6_color: dreamy
 track7_title: Maisha – Welcome To A New Welcome
 track7_color: trippy
 episode_URL: http://mailta.pe/342/glockenspiel/
-track6_link: https://mtsounds.web.deuxfleurs.fr/342/track6.mp3
+track6_link: https://sounds.mailta.pe/342/track6.mp3
 guestPic: guestPic342.jpg
 image: https://mailta.pe/img/fbPic342.jpg
 musiColor: musiColor342.png

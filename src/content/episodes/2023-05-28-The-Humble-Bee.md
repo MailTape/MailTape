@@ -26,13 +26,13 @@ track7_color: bliss
 episode_URL: http://mailta.pe/528/the-humble-bee/
 image: https://mailta.pe/img/fbPic528.jpg
 musiColor: musiColor528.png
-track1_link: https://mtsounds.web.deuxfleurs.fr/528/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/528/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/528/track3.mp3
-track4_link: https://mtsounds.web.deuxfleurs.fr/528/track4.mp3
-track5_link: https://mtsounds.web.deuxfleurs.fr/528/track5.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/528/track6.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/528/track7.mp3
+track1_link: https://sounds.mailta.pe/528/track1.mp3
+track2_link: https://sounds.mailta.pe/528/track2.mp3
+track3_link: https://sounds.mailta.pe/528/track3.mp3
+track4_link: https://sounds.mailta.pe/528/track4.mp3
+track5_link: https://sounds.mailta.pe/528/track5.mp3
+track6_link: https://sounds.mailta.pe/528/track6.mp3
+track7_link: https://sounds.mailta.pe/528/track7.mp3
 description: This morning, I'd be delighted to continue our exploration of ambient music together, as you may have noticed my recent fascination with it. Lately, I find myself yearning for a serene and inviting atmosphere, a sanctuary from the chaos of everyday life. I'm honored we invite you to join us for a serene experience featuring our guest, The Humble Bee. This episode is filled with ambient music that will transport you to a place of calm and introspection. It's not just about listening; it's about truly immersing yourself in the moment. Whether you're admiring a beautiful landscape, taking a leisurely stroll through the countryside, expressing yourself through art, or simply enjoying the pleasure of cooking a delicious meal, each track acts as a gateway to a contemplative state of mind. It's a chance to reconnect with the world around us, to appreciate our place within it, and to find moments of peace and reflection.
 pubDate: '2023-05-28'
 ---

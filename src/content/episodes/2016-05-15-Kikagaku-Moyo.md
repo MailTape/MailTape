@@ -2,9 +2,9 @@
 
 bigTitle_font_ratio: '6'
 published: true
-track1_link: https://mtsounds.web.deuxfleurs.fr/217/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/217/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/217/track3.mp3
+track1_link: https://sounds.mailta.pe/217/track1.mp3
+track2_link: https://sounds.mailta.pe/217/track2.mp3
+track3_link: https://sounds.mailta.pe/217/track3.mp3
 track1_title: Matthewdavid's Mindflight - Orange Ganesh
 track2_title: Ramayana Soul - Jaya Raga Jiwa MiraNgga Bhineka Tunggal Ika
 track3_title: Chris Forsyth & The Solar Motel Band - The Ballad Of Freer Hollow
@@ -22,15 +22,15 @@ track1_color: dreamy
 track2_color: dreamy
 track3_color: bliss
 track4_color: dreamy
-track4_link: https://mtsounds.web.deuxfleurs.fr/217/track4.mp3
+track4_link: https://sounds.mailta.pe/217/track4.mp3
 track7_color: rough
-track5_link: https://mtsounds.web.deuxfleurs.fr/217/track5.mp3
+track5_link: https://sounds.mailta.pe/217/track5.mp3
 track5_color: bliss
-track6_link: https://mtsounds.web.deuxfleurs.fr/217/track6.mp3
+track6_link: https://sounds.mailta.pe/217/track6.mp3
 track6_title: Temples - Move With The Seasons
 track5_title: Fil Bo Riva - Like Eye Did
 track6_color: vibrant
-track7_link: https://mtsounds.web.deuxfleurs.fr/217/track7.mp3
+track7_link: https://sounds.mailta.pe/217/track7.mp3
 track7_title: Reptile Youth - Keep On Moving
 description: This morning, enjoy a walk through the mind with a psyche selection by our guest of the week, Kikagaku Moyo. It's time to stop and think.
 guest_color: dreamy

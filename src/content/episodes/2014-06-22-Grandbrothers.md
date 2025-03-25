@@ -14,21 +14,21 @@ track6_color: bliss
 track7_color: bliss
 category: '146'
 guest_name: Grandbrothers
-track1_link: https://mtsounds.web.deuxfleurs.fr/146/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/146/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/146/track3.mp3
+track1_link: https://sounds.mailta.pe/146/track1.mp3
+track2_link: https://sounds.mailta.pe/146/track2.mp3
+track3_link: https://sounds.mailta.pe/146/track3.mp3
 track1_title: Nils Frahm - Re
 track2_title: Jono McCleery - Ballade
 track3_title: Grey Reverend - Nightingale
 guestPic: guestPic146.jpg
 episode_URL: http://mailta.pe/146/Grandbrothers/
-track4_link: https://mtsounds.web.deuxfleurs.fr/146/track4.mp3
+track4_link: https://sounds.mailta.pe/146/track4.mp3
 track4_title: Grandbrothers - Notbrause
-track5_link: https://mtsounds.web.deuxfleurs.fr/146/track5.mp3
+track5_link: https://sounds.mailta.pe/146/track5.mp3
 track5_title: Ulrich Schnauss & Mark Peters - Das Volk Hat Keine Seele
-track6_link: https://mtsounds.web.deuxfleurs.fr/146/track6.mp3
+track6_link: https://sounds.mailta.pe/146/track6.mp3
 track6_title: Junip - Walking Lightly
-track7_link: https://mtsounds.web.deuxfleurs.fr/146/track7.mp3
+track7_link: https://sounds.mailta.pe/146/track7.mp3
 track7_title: alt-J - Hunger Of The Pine
 musiColor: musiColor146.png
 image: https://mailta.pe/img/fbPic146.jpg

@@ -10,25 +10,25 @@ illustrator: Noémie Dijon
 writer: Jules
 track1_title: Jockstrap - Concrete Over Water
 track1_color: dreamy
-track1_link: https://mtsounds.web.deuxfleurs.fr/571/track1.mp3
+track1_link: https://sounds.mailta.pe/571/track1.mp3
 track2_title: PNL - Déconnecté
 track2_color: rough
-track2_link: https://mtsounds.web.deuxfleurs.fr/571/track2.mp3
+track2_link: https://sounds.mailta.pe/571/track2.mp3
 track3_title: Kiss Facility - Blackstone
 track3_color: bliss
-track3_link: https://mtsounds.web.deuxfleurs.fr/571/track3.mp3
+track3_link: https://sounds.mailta.pe/571/track3.mp3
 track4_title: Attention Le Tapis Prend Feu - Yumi
 track4_color: trippy
-track4_link: https://mtsounds.web.deuxfleurs.fr/571/track4.mp3
+track4_link: https://sounds.mailta.pe/571/track4.mp3
 track5_title: Hanaa Ouassim - LANADELREY
 track5_color: bliss
-track5_link: https://mtsounds.web.deuxfleurs.fr/571/track5.mp3
+track5_link: https://sounds.mailta.pe/571/track5.mp3
 track6_title: WORLD BRAIN - I hope this message finds you well
 track6_color: dreamy
-track6_link: https://mtsounds.web.deuxfleurs.fr/571/track6.mp3
+track6_link: https://sounds.mailta.pe/571/track6.mp3
 track7_title: Lucas Andrea - L'imaginaire
 track7_color: vibrant
-track7_link: https://mtsounds.web.deuxfleurs.fr/571/track7.mp3
+track7_link: https://sounds.mailta.pe/571/track7.mp3
 episode_URL: https://mailta.pe/571/Attention-Le-Tapis-Prend-Feu/
 image: https://mailta.pe/img/fbPic571.png
 musiColor: musicolor571.png

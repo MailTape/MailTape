@@ -10,25 +10,25 @@ illustrator: Marie Alléguède
 writer: Jules
 track1_title: Beach House - Space Song
 track1_color: dreamy
-track1_link: https://mtsounds.web.deuxfleurs.fr/563/track1.mp3
+track1_link: https://sounds.mailta.pe/563/track1.mp3
 track2_title: Ratatat - I Will Return
 track2_color: bliss
-track2_link: https://mtsounds.web.deuxfleurs.fr/563/track2.mp3
+track2_link: https://sounds.mailta.pe/563/track2.mp3
 track3_title: Glass Beams - Orb
 track3_color: trippy
-track3_link: https://mtsounds.web.deuxfleurs.fr/563/track3.mp3
+track3_link: https://sounds.mailta.pe/563/track3.mp3
 track4_title: Yassin Keetan - Encounter
 track4_color: vibrant
-track4_link: https://mtsounds.web.deuxfleurs.fr/563/track4.mp3
+track4_link: https://sounds.mailta.pe/563/track4.mp3
 track5_title: ddwy - Pendorlan
 track5_color: dreamy
-track5_link: https://mtsounds.web.deuxfleurs.fr/563/track5.mp3
+track5_link: https://sounds.mailta.pe/563/track5.mp3
 track6_title: Total Blue - Jaguarundi
 track6_color: trippy
-track6_link: https://mtsounds.web.deuxfleurs.fr/563/track6.mp3
+track6_link: https://sounds.mailta.pe/563/track6.mp3
 track7_title: Ellinor Jackson - De Se Trouver
 track7_color: bliss
-track7_link: https://mtsounds.web.deuxfleurs.fr/563/track7.mp3
+track7_link: https://sounds.mailta.pe/563/track7.mp3
 episode_URL: https://mailta.pe/563/Yassin-Keetan/
 image: https://mailta.pe/img/fbPic563.png
 musiColor: musicolor563.png

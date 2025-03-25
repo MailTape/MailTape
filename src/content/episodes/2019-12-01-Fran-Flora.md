@@ -8,8 +8,8 @@ writer: Sanjay Mistry
 category: '382'
 guest_name: Fran & Flora
 guest_color: dreamy
-track1_link: https://mtsounds.web.deuxfleurs.fr/382/track1.mp3
-track4_link: https://mtsounds.web.deuxfleurs.fr/382/track4.mp3
+track1_link: https://sounds.mailta.pe/382/track1.mp3
+track4_link: https://sounds.mailta.pe/382/track4.mp3
 track1_title: Hejira – Joyful Mind
 track1_color: vibrant
 track2_title: Mike Block – Sarabande for solo cello in D major from Suite no.6 BWV 1012 (JS Bach)
@@ -24,11 +24,11 @@ track6_title: Tomeka Reid Quartet – The Lone Wait
 track6_color: bliss
 track7_title: Soumik Datta – Jangal
 track7_color: trippy
-track2_link: https://mtsounds.web.deuxfleurs.fr/382/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/382/track3.mp3
-track5_link: https://mtsounds.web.deuxfleurs.fr/382/track5.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/382/track6.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/382/track7.mp3
+track2_link: https://sounds.mailta.pe/382/track2.mp3
+track3_link: https://sounds.mailta.pe/382/track3.mp3
+track5_link: https://sounds.mailta.pe/382/track5.mp3
+track6_link: https://sounds.mailta.pe/382/track6.mp3
+track7_link: https://sounds.mailta.pe/382/track7.mp3
 episode_URL: https://www.mailta.pe/382/fran-flora/
 guestPic: guestPic382.jpg
 image: https://mailta.pe/img/fbPic382.jpg

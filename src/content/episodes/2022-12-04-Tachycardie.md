@@ -26,13 +26,13 @@ track6_title: Danse Musique Rhône-Alpes - Potion Trouble
 track6_color: rough
 track7_title: Loya - Zenfant
 track7_color: trippy
-track1_link: https://mtsounds.web.deuxfleurs.fr/508/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/508/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/508/track3.mp3
-track4_link: https://mtsounds.web.deuxfleurs.fr/508/track4.mp3
-track5_link: https://mtsounds.web.deuxfleurs.fr/508/track5.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/508/track6.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/508/track7.mp3
+track1_link: https://sounds.mailta.pe/508/track1.mp3
+track2_link: https://sounds.mailta.pe/508/track2.mp3
+track3_link: https://sounds.mailta.pe/508/track3.mp3
+track4_link: https://sounds.mailta.pe/508/track4.mp3
+track5_link: https://sounds.mailta.pe/508/track5.mp3
+track6_link: https://sounds.mailta.pe/508/track6.mp3
+track7_link: https://sounds.mailta.pe/508/track7.mp3
 description: This morning, we explore, we dematerialize, we deconstruct the music. We beat it to find inspiration, we saturate it to its fullest, we look for the unknown, the astonishing, the shocking, the disconcerting in order to touch. This is what Tachycardie offers us through this playlist.
 pubDate: '2022-12-04'
 ---

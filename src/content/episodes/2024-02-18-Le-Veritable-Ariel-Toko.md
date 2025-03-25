@@ -8,13 +8,13 @@ category: '547'
 guest_name: Le Véritable Ariel Toko
 guest_color: bliss
 guestPic: guestPic547.jpg
-track1_link: https://mtsounds.web.deuxfleurs.fr/547/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/547/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/547/track3.mp3
-track4_link: https://mtsounds.web.deuxfleurs.fr/547/track4.mp3
-track5_link: https://mtsounds.web.deuxfleurs.fr/547/track5.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/547/track6.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/547/track7.mp3
+track1_link: https://sounds.mailta.pe/547/track1.mp3
+track2_link: https://sounds.mailta.pe/547/track2.mp3
+track3_link: https://sounds.mailta.pe/547/track3.mp3
+track4_link: https://sounds.mailta.pe/547/track4.mp3
+track5_link: https://sounds.mailta.pe/547/track5.mp3
+track6_link: https://sounds.mailta.pe/547/track6.mp3
+track7_link: https://sounds.mailta.pe/547/track7.mp3
 track1_title: City Boys Band - Nye Asem Hwe
 track1_color: bliss
 track2_color: vibrant

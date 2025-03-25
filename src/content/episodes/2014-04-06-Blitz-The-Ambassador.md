@@ -14,13 +14,13 @@ track6_color: bliss
 track7_color: rough
 category: '135'
 guest_name: Blitz The Ambassador
-track1_link: https://mtsounds.web.deuxfleurs.fr/135/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/135/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/135/track3.mp3
-track4_link: https://mtsounds.web.deuxfleurs.fr/135/track4.mp3
-track5_link: https://mtsounds.web.deuxfleurs.fr/135/track5.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/135/track6.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/135/track7.mp3
+track1_link: https://sounds.mailta.pe/135/track1.mp3
+track2_link: https://sounds.mailta.pe/135/track2.mp3
+track3_link: https://sounds.mailta.pe/135/track3.mp3
+track4_link: https://sounds.mailta.pe/135/track4.mp3
+track5_link: https://sounds.mailta.pe/135/track5.mp3
+track6_link: https://sounds.mailta.pe/135/track6.mp3
+track7_link: https://sounds.mailta.pe/135/track7.mp3
 track1_title: Bob James - Nautilus
 track2_title: Electric Wire Hustle – Waters
 track3_title: DJ 100 Proof Happy Mentality

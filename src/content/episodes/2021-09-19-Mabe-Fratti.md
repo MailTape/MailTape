@@ -19,16 +19,16 @@ track7_color: vibrant
 guestPic: guestPic462.jpg
 image: https://mailta.pe/img/fbPic462.png
 musiColor: musiColor462.png
-track4_link: https://mtsounds.web.deuxfleurs.fr/462/track4.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/462/track7.mp3
+track4_link: https://sounds.mailta.pe/462/track4.mp3
+track7_link: https://sounds.mailta.pe/462/track7.mp3
 track7_title: Lucky Lo - Supercarry
 track6_title: Mamman Sani - Samari Da Yan Matan
 track5_title: Wau Wau Collectif - Thiante
-track5_link: https://mtsounds.web.deuxfleurs.fr/462/track5.mp3
-track1_link: https://mtsounds.web.deuxfleurs.fr/462/track1.mp3
-track2_link: https://mtsounds.web.deuxfleurs.fr/462/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/462/track3.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/462/track6.mp3
+track5_link: https://sounds.mailta.pe/462/track5.mp3
+track1_link: https://sounds.mailta.pe/462/track1.mp3
+track2_link: https://sounds.mailta.pe/462/track2.mp3
+track3_link: https://sounds.mailta.pe/462/track3.mp3
+track6_link: https://sounds.mailta.pe/462/track6.mp3
 episode_URL: http://mailta.pe/462/Mabe-Fratti/
 description: This morning, we're thrilled to welcome Guatemalan cellist and composer Mabe Fratti to MailTape for a Sunday selection of experimental instrumentals and melodies :) Mabe Fratti consistently pushes our expectations of classical and melodic standards, treading into territories of provocative dissonance across all of her albums :)
 writer: Sarah

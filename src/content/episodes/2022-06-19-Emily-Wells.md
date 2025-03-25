@@ -15,16 +15,16 @@ track2_color: vibrant
 track3_title: Empress Of - Save Me
 track3_color: vibrant
 track4_color: bliss
-track1_link: https://mtsounds.web.deuxfleurs.fr/497/track1.mp3
+track1_link: https://sounds.mailta.pe/497/track1.mp3
 track5_color: bliss
 track6_color: dreamy
 track7_color: vibrant
-track2_link: https://mtsounds.web.deuxfleurs.fr/497/track2.mp3
-track3_link: https://mtsounds.web.deuxfleurs.fr/497/track3.mp3
-track4_link: https://mtsounds.web.deuxfleurs.fr/497/track4.mp3
-track5_link: https://mtsounds.web.deuxfleurs.fr/497/track5.mp3
-track6_link: https://mtsounds.web.deuxfleurs.fr/497/track6.mp3
-track7_link: https://mtsounds.web.deuxfleurs.fr/497/track7.mp3
+track2_link: https://sounds.mailta.pe/497/track2.mp3
+track3_link: https://sounds.mailta.pe/497/track3.mp3
+track4_link: https://sounds.mailta.pe/497/track4.mp3
+track5_link: https://sounds.mailta.pe/497/track5.mp3
+track6_link: https://sounds.mailta.pe/497/track6.mp3
+track7_link: https://sounds.mailta.pe/497/track7.mp3
 track4_title: Emily Wells - All Burn, No Bridge
 track5_title: Oliver Sim - Hideous
 track6_title: Six Drummers - Doctor Doctor Give Me Gas (In My Ass) Pt. 2
