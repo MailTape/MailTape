@@ -26,7 +26,7 @@ track7_color: trippy
 track7_link: https://sounds.mailta.pe/XXX/track7.mp3
 episode_URL: https://mailta.pe/578/Magic-Tuber-Stringband/
 ---
-This morning... 
+This morning we're delighted to welcome Durham-based Magic Tuber Stringband for a selection
 
 # Guest's selection
 
@@ -45,7 +45,7 @@ Perhaps most notable, this music feels deeply rooted in and contextualized by t
 
 # Curator's selection
 
-## Artist - Track
+## Magic Tuber Stringband - Piney Woods Burn
 
  Sarah: **"** lorem ipsum **"** 
 
@@ -57,7 +57,7 @@ Perhaps most notable, this music feels deeply rooted in and contextualized by t
 
  Sarah: **"** lorem ipsum **"** 
 
-## Artist - Track
+## Magic Tuber Stringband - Ghost Pipe
 
  Curator: **"** lorem ipsum **"** 
 
