@@ -26,7 +26,7 @@ track7_color: trippy
 track7_link: https://sounds.mailta.pe/XXX/track7.mp3
 episode_URL: https://mailta.pe/578/Magic-Tuber-Stringband/
 ---
-This morning we're delighted to welcome Durham-based Magic Tuber Stringband for a selection
+This morning we are absolutely delighted to welcome Magic Tuber Stringband to MailTape. Based in Durham, the band weaves itself into the Appalachian folk scene, while also brushing into noise and experimental genres. 
 
 # Guest's selection
 
