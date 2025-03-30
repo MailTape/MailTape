@@ -54,14 +54,14 @@ Perhaps most notable, this music feels deeply rooted in and contextualized by t
 
 ## Weirs and Magic Tuber Stringband - Tunnel
 
- Sarah: **"** lorem ipsum **"** 
+Sarah: **"** lorem ipsum **"** 
 
 ## Magic Tuber Stringband - Ghost Pipe
 
- Sarah: **"** lorem ipsum **"** 
+Sarah: **"** lorem ipsum **"** 
 
 ## Weirs and Magic Tuber Stringband - Tunnel
 
- Curator: **"** Give yourself the gift of listening, or rather breathing in, this track. Recorded live to tape in the pitch black Virginia Crozet Rail Tunnel, the release goes through so many shades of experimental improv, traditional, and noise movements. Featuring fiddle, gong, shruti box, moth harp, vocals, Weissenborn, and percussives, we are witnessing magic made in the dark. **"** 
+Sarah : **"** Give yourself the gift of listening, or rather breathing in, this track. Recorded live to tape in the pitch black Virginia Crozet Rail Tunnel, the release goes through so many shades of experimental improv, traditional, and noise movements. Featuring fiddle, gong, shruti box, moth harp, vocals, Weissenborn, and percussives, we are witnessing magic made in the dark. **"** 
 
  Thank you...
