@@ -29,6 +29,8 @@ episode_URL: https://mailta.pe/578/Magic-Tuber-Stringband/
 ---
 This morning we are absolutely delighted to welcome Magic Tuber Stringband to MailTape. Based in Durham, the band weaves itself into the Appalachian folk traditions, nourished by noise and experimental textures. Members Evan Morgan, Mike DeVito, and Courtney Werner join us following the release of their latest album X. 
 
+ The band is intricately intune with their acoustic environments, explaining how the Appalachian audio landscape is rich with fascinating textures and natural harmonies. The band's fiddler, Courtney Werner, also works as an acoustic biologist, tracking the ecosystem's birds and other creatures. The layers of the soundscape each feed into one another, the insects and the frogs make sounds together - some repetitive, some flashing above monotony fields. This kind of attention bleeds into the band's creative process, where the group members each experiment in emulating the natural environment with their instruments. The acoustics of the places they've lived in and the sounds they've collected reflect back into the music, offering the touchstones for experimenting with tonalities and textures. 
+
 # Guest's selection
 
 ## Latin Playboys - Mustard
@@ -48,9 +50,9 @@ Perhaps most notable, this music feels deeply rooted in and contextualized by t
 
 ## Magic Tuber Stringband - Piney Woods Burn
 
- Sarah: **"** lorem ipsum **"** 
+ Sarah: **"** **"** 
 
-## Artist - Track
+## Weirs and Magic Tuber Stringband - Tunnel
 
  Sarah: **"** lorem ipsum **"** 
 
