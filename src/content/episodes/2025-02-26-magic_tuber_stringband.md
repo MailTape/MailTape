@@ -4,6 +4,7 @@ pubDate: 2025-03-31
 category: "578"
 guest_name: Magic Tuber Stringband
 guest_color: bliss
+guestPic: guestpic578.jpg
 author: Sarah
 track1_title: Latin Playboys - Mustard
 track1_color: dreamy
@@ -26,7 +27,7 @@ track7_color: trippy
 track7_link: https://sounds.mailta.pe/XXX/track7.mp3
 episode_URL: https://mailta.pe/578/Magic-Tuber-Stringband/
 ---
-This morning we are absolutely delighted to welcome Magic Tuber Stringband to MailTape. Based in Durham, the band weaves itself into the Appalachian folk scene, while also brushing into noise and experimental genres. 
+This morning we are absolutely delighted to welcome Magic Tuber Stringband to MailTape. Based in Durham, the band weaves itself into the Appalachian folk traditions, nourished by noise and experimental textures. Members Evan Morgan, Mike DeVito, and Courtney Werner join us following the release of their latest album X. 
 
 # Guest's selection
 
