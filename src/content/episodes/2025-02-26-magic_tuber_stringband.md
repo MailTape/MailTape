@@ -50,7 +50,7 @@ Perhaps most notable, this music feels deeply rooted in and contextualized by t
 
 ## Magic Tuber Stringband - Piney Woods Burn
 
- Sarah: **"** This track arrives from the band's most recent album, Needlefall. Try to listen with headphones :) Between whirring eeriness and traditional fiddle sounds, the track threads carefully between dissonance, drones, and folk oriented movements. We are welcomed into a soundscape that brushes traditions, but embraces both the natural acoustic stage and evolving experimentation. This track, as is apparent within the entire Needlefall album, offers listeners a balance of textured richness that also leaves space for improvisation and those smaller, sparse noises that catch delicately upon our ears. **"** 
+ Sarah: **"** This track arrives from the band's most recent album, Needlefall. Try to listen with headphones :) Between whirring eeriness and traditional fiddle sounds, the track threads carefully between dissonance, drones, and folk oriented movements. We are welcomed into a soundscape that brushes traditions, but embraces both the natural acoustic stage and evolving experimentation. This track, as is apparent within the entire Needlefall album, offers listeners a balance of textured richness that also leaves space for improvisation and those smaller, sparse noises that catch gently, softly upon our ears. **"** 
 
 ## Weirs and Magic Tuber Stringband - Tunnel
 
