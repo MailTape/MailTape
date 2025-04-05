@@ -56,7 +56,7 @@ Sarah: **"** This track arrives from the band's most recent album, [Needlefall](
 
 ## Qwalia - Omega
 
-Sarah: **"** From the London-based improv jazz quartet's most recent album, Abbreviations. This drumline takes us by the hand, guiding our footsteps alongside the see-sawing hedges of psychedelic synthwork and these gorgeous, spiking basslines. **"** 
+Sarah: **"** From the London-based improv jazz quartet's most recent album, [Abbreviations](https://qwalia.bandcamp.com/album/abbreviations). This drumline takes us by the hand, guiding our footsteps alongside the see-sawing hedges of psychedelic synthwork and these gorgeous, spiking basslines. **"** 
 
 ## Magic Tuber Stringband - Ghost Pipe
 
