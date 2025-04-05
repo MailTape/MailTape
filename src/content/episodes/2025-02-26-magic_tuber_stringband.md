@@ -64,4 +64,4 @@ Sarah: **"** Another one from Magic Tuber Stringband, this one from their 2023 a
 
 Sarah : **"** Give yourself the gift of listening, or rather breathing in, this track. It's Sunday after all :) Recorded live to tape in the pitch black Virginia Crozet Rail Tunnel, our senses awaken at every turn. The sounds of the cave dripping, of coughs and laughing, of muddy footsteps shuffling, all become like collaborators in the track. The cave carries, cradles, and bends the musicians' voices and instruments, stretching dissonances and harmonies into echoes and rumblings too. With fiddle, gong, shruti box, moth harp, vocals, Weissenborn, and percussives, we are witnessing magic made in the dark. **"** 
 
- Thank you for joining us this morning !
+That's all for this morning, thank you for joining us :) Our love to Magic Tuber Stringband for their electric selection, and to Noémie Dijon for this episode’s beautiful illustration. Until next time :)
