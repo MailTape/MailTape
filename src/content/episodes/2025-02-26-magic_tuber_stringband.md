@@ -52,11 +52,11 @@ Perhaps most notable, this music feels deeply rooted in and contextualized by t
 
 ## Magic Tuber Stringband - Piney Woods Burn
 
- Sarah: **"** This track arrives from the band's most recent album, [Needlefall](https://magictuberstringband.bandcamp.com/album/needlefall). Try to listen with headphones :) Between whirring eeriness and traditional fiddle sounds, the track threads carefully across dissonance, drones, and folk oriented moments. We are welcomed into a soundscape that not only brushes traditions, but embraces both the natural acoustic stage and its own evolving experimentation. As with several tracks on the Needlefall album, a rich tapestry is created before us, one that weaves in flowing improvisations and also those smaller, sparser noises that catch soft as velvet upon our ears. **"** 
+Sarah: **"** This track arrives from the band's most recent album, [Needlefall](https://magictuberstringband.bandcamp.com/album/needlefall). Try to listen with headphones :) Between whirring eeriness and traditional fiddle sounds, the track threads carefully across dissonance, drones, and folk oriented moments. We are welcomed into a soundscape that not only brushes traditions, but embraces both the natural acoustic stage and its own evolving experimentation. As with several tracks on the Needlefall album, a rich tapestry is created before us, one that weaves in flowing improvisations and also those smaller, sparser noises that catch soft as velvet on our ears. **"** 
 
 ## Qwalia - Omega
 
-Sarah: **"** From the London-based improv jazz quartet most recent album, Abbreviations. This drumline takes us by the hand, guiding our footsteps alongside the see-sawing hedges of psychedelic synthwork and these gorgeous, spiking basslines. **"** 
+Sarah: **"** From the London-based improv jazz quartet's most recent album, Abbreviations. This drumline takes us by the hand, guiding our footsteps alongside the see-sawing hedges of psychedelic synthwork and these gorgeous, spiking basslines. **"** 
 
 ## Magic Tuber Stringband - Ghost Pipe
 
