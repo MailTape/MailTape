@@ -17,7 +17,7 @@ track3_color: trippy
 track3_link: https://sounds.mailta.pe/578/track3.mp3
 track4_title: Magic Tuber Stringband - Piney Woods Burn
 track4_color: vibrant
-track4_link: https://sounds.mailta.pe/XXX/track4.mp3
+track4_link: https://sounds.mailta.pe/578/track4.mp3
 track5_title: Qwalia - Omega
 track5_color: vibrant
 track5_link: https://sounds.mailta.pe/578/track5.mp3
