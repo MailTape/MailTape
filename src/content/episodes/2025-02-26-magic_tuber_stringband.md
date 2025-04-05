@@ -62,6 +62,6 @@ Sarah: **"** Another one from Magic Tuber Stringband, this one off their 2023 al
 
 ## Weirs and Magic Tuber Stringband - Tunnel
 
-Sarah : **"** Give yourself the gift of listening, or rather breathing in, this track. Recorded live to tape in the pitch black Virginia Crozet Rail Tunnel, the release goes through so many shades of experimental improv, traditional, and noise movements. With fiddle, gong, shruti box, moth harp, vocals, Weissenborn, and percussives, we are witnessing magic made in the dark :) **"** 
+Sarah : **"** Give yourself the gift of listening, or rather breathing in, this track. It's Sunday after all :) Recorded live to tape in the pitch black Virginia Crozet Rail Tunnel, our senses awaken at every turn. The sounds of the cave dripping, of coughs and laughing, of muddy footsteps shuffling, all become like collaborators in the track. The cave carries, cradles, and bends the musicians' voices and instruments, stretching dissonances and harmonies into echoes and rumblings too. With fiddle, gong, shruti box, moth harp, vocals, Weissenborn, and percussives, we are witnessing magic made in the dark. **"** 
 
  Thank you for joining us this morning !
