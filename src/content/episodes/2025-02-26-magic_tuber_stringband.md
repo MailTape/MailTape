@@ -52,13 +52,13 @@ Perhaps most notable, this music feels deeply rooted in and contextualized by t
 
  Sarah: **"** This track arrives from the band's most recent album, Needlefall. Try to listen with headphones :) Between whirring eeriness and traditional fiddle sounds, the track threads carefully across dissonance, drones, and folk oriented moments. We are welcomed into a soundscape that not only brushes traditions, but embraces both the natural acoustic stage and its own evolving experimentation. As with several tracks on the Needlefall album, a rich tapestry is created before us, one that weaves in flowing improvisations and also those smaller, sparser noises that catch soft as velvet upon our ears. **"** 
 
-## Weirs and Magic Tuber Stringband - Tunnel
+## Qwalia - Omega
 
-Sarah: **"** lorem ipsum **"** 
+Sarah: **"** From the London-based improv jazz quartet most recent album, Abbreviations. This drumline takes us by the hand, guiding our footsteps alongside the see-sawing hedges of psychedelic synthwork and these gorgeous, spiking basslines. **"** 
 
 ## Magic Tuber Stringband - Ghost Pipe
 
-Sarah: **"** Another one from Magic Tuber Stringband, this one off their 2023 album, Tarantism. Once again, the band's experimentation with microtonalities open a delightfully contemplative and unexpected world within the track. We grow into these unconventional sounds until they become eerily hypnotic, and just as we tread deeper, the track wanders effortlessly into its own momentum -- a new bloom of spiraling energy, and just like that, we're soaring :) **"** 
+Sarah: **"** Another one from Magic Tuber Stringband, this one off their 2023 album, Tarantism. Once again, the band's experimentation with microtonalities craft a delightfully unexpected and contemplative world within the track. We grow into these unconventional sounds until they become eerily hypnotic, and just as we tread deeper, the track wanders effortlessly into its own momentum -- a new bloom of spiraling energy, and just like that, we're soaring :) **"** 
 
 ## Weirs and Magic Tuber Stringband - Tunnel
 
