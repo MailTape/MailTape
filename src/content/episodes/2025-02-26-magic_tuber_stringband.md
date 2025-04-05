@@ -58,7 +58,7 @@ Sarah: **"** lorem ipsum **"**
 
 ## Magic Tuber Stringband - Ghost Pipe
 
-Sarah: **"** Another one from Magic Tuber Stringband, this one from their 2023 album, Tarantism. Once again, the band's experimentation with microtonalities open  **"** 
+Sarah: **"** Another one from Magic Tuber Stringband, this one off their 2023 album, Tarantism. Once again, the band's experimentation with microtonalities open a delightfully contemplative and unexpected world within the track. We grow into these unconventional sounds until they become eerily hypnotic, and just as we tread deeper, the track seems to wander effortlessly into its own momentum, a new burst of spiraling energy, and we're soaring :) **"** 
 
 ## Weirs and Magic Tuber Stringband - Tunnel
 
