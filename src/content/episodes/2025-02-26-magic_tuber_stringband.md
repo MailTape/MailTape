@@ -20,13 +20,13 @@ track4_color: vibrant
 track4_link: https://sounds.mailta.pe/XXX/track4.mp3
 track5_title: Qwalia - Omega
 track5_color: vibrant
-track5_link: https://sounds.mailta.pe/XXX/track5.mp3
+track5_link: https://sounds.mailta.pe/578/track5.mp3
 track6_title: Magic Tuber Stringband - Ghost Pipe
 track6_color: dreamy
-track6_link: https://sounds.mailta.pe/XXX/track6.mp3
+track6_link: https://sounds.mailta.pe/578/track6.mp3
 track7_title: Weirs and Magic Tuber Stringband - Tunnel
 track7_color: trippy
-track7_link: https://sounds.mailta.pe/XXX/track7.mp3
+track7_link: https://sounds.mailta.pe/578/track7.mp3
 episode_URL: https://mailta.pe/578/Magic-Tuber-Stringband/
 ---
 We're back ! This morning, we're absolutely delighted to welcome Magic Tuber Stringband for MailTape's first episode of the spring. Based in Durham, the band weaves itself into the Appalachian folk traditions, re-enchanting these practices with unexpected noise  and experimental textures. Magic Tuber Stringband members Evan Morgan, Mike DeVito, and Courtney Werner join us following the release of their latest album, Needlefall. 
