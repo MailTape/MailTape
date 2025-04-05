@@ -29,7 +29,7 @@ track7_color: trippy
 track7_link: https://sounds.mailta.pe/578/track7.mp3
 episode_URL: https://mailta.pe/578/Magic-Tuber-Stringband/
 ---
-We're back ! This morning, we're absolutely delighted to welcome Magic Tuber Stringband for MailTape's first episode of the spring. Based in Durham, the band weaves itself into the Appalachian folk traditions, re-enchanting these practices with unexpected noise  and experimental textures. Magic Tuber Stringband members Evan Morgan, Mike DeVito, and Courtney Werner join us following the release of their latest album, Needlefall. 
+We're back ! This morning, we're absolutely delighted to welcome [Magic Tuber Stringband ](https://magictuberstringband.bandcamp.com/album/needlefall)for MailTape's first episode of the spring. Based in Durham, the band weaves itself into the Appalachian folk traditions, re-enchanting these practices with unexpected noise  and experimental textures. Magic Tuber Stringband members Evan Morgan, Mike DeVito, and Courtney Werner join us following the release of their latest album, [Needlefall](https://magictuberstringband.bandcamp.com/album/needlefall). 
 
 The band is intricately intune with the acoustic environments around them, describing how the Appalachian soundscape is rich with sprawling surfaces of ambient harmonies and interplays. Much of this attention is informed by the band's fiddler, Courtney Werner, who also works as an acoustic biologist -- tracking how the ecosystem's soundscape feeds into itself in layers, from insects buzzing to frogs croaking to footsteps large and small. While some natural players are repetitive, others flash above rhythmic monotonies. This kind of attention to the natural world's music folds into the band's creative process, and subsequently, sounds from the places they've lived in collect and reflect back into their albums, touchstones for experimental tonalities and textures. 
 
@@ -52,7 +52,7 @@ Perhaps most notable, this music feels deeply rooted in and contextualized by t
 
 ## Magic Tuber Stringband - Piney Woods Burn
 
- Sarah: **"** This track arrives from the band's most recent album, Needlefall. Try to listen with headphones :) Between whirring eeriness and traditional fiddle sounds, the track threads carefully across dissonance, drones, and folk oriented moments. We are welcomed into a soundscape that not only brushes traditions, but embraces both the natural acoustic stage and its own evolving experimentation. As with several tracks on the Needlefall album, a rich tapestry is created before us, one that weaves in flowing improvisations and also those smaller, sparser noises that catch soft as velvet upon our ears. **"** 
+ Sarah: **"** This track arrives from the band's most recent album, [Needlefall](https://magictuberstringband.bandcamp.com/album/needlefall). Try to listen with headphones :) Between whirring eeriness and traditional fiddle sounds, the track threads carefully across dissonance, drones, and folk oriented moments. We are welcomed into a soundscape that not only brushes traditions, but embraces both the natural acoustic stage and its own evolving experimentation. As with several tracks on the Needlefall album, a rich tapestry is created before us, one that weaves in flowing improvisations and also those smaller, sparser noises that catch soft as velvet upon our ears. **"** 
 
 ## Qwalia - Omega
 
@@ -60,7 +60,7 @@ Sarah: **"** From the London-based improv jazz quartet most recent album, Abbrev
 
 ## Magic Tuber Stringband - Ghost Pipe
 
-Sarah: **"** Another one from Magic Tuber Stringband, this one from their 2023 album, Tarantism. Once again, the band's experimentation with microtonalities craft a delightfully unexpected and contemplative world within the track. We grow into these unconventional sounds until they become eerily hypnotic, and just as we tread deeper, the track wanders effortlessly into its own momentum -- a new bloom of spiraling energy, and just like that, we're soaring :) **"** 
+Sarah: **"** Another one from Magic Tuber Stringband, this one from their 2023 album, [Tarantism](https://magictuberstringband.bandcamp.com/album/tarantism). Once again, the band's experimentation with microtonalities craft a delightfully unexpected and contemplative world within the track. We grow into these unconventional sounds until they become eerily hypnotic, and just as we tread deeper, the track wanders effortlessly into its own momentum -- a new bloom of spiraling energy, and just like that, we're soaring :) **"** 
 
 ## Weirs and Magic Tuber Stringband - Tunnel
 
