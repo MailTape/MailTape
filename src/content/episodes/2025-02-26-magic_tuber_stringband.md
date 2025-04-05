@@ -60,7 +60,7 @@ Sarah: **"** From the London-based improv jazz quartet's most recent album, [Abb
 
 ## Magic Tuber Stringband - Ghost Pipe
 
-Sarah: **"** Another one from Magic Tuber Stringband, this one from their 2023 album, [Tarantism](https://magictuberstringband.bandcamp.com/album/tarantism). Once again, these microtonalities craft a delightfully unexpected and contemplative world within the track. We grow into these unconventional sounds until they become eerily hypnotic, and just as we tread deeper, the track wanders effortlessly into its own momentum -- a new bloom of spiraling energy, and just like that, we're soaring :) **"** 
+Sarah: **"** Another one from Magic Tuber Stringband, this one from their 2023 album, [Tarantism](https://magictuberstringband.bandcamp.com/album/tarantism). Once again, these microtonalities craft a delightfully unexpected and contemplative world within the track. We grow into these unconventional sounds until they become eerily hypnotic. As we tread deeper, the track wanders seamlessly into its own momentum -- a spiraling bloom of energy, and just like that, we're soaring :) **"** 
 
 ## Weirs and Magic Tuber Stringband - Tunnel
 
