@@ -6,6 +6,8 @@ guest_name: Magic Tuber Stringband
 guest_color: bliss
 guestPic: guestpic578.jpg
 author: Sarah
+illustrator: Noémie Dijon
+writer: Sarah
 track1_title: Latin Playboys - Mustard
 track1_color: dreamy
 track1_link: https://sounds.mailta.pe/578/track1.mp3
@@ -27,7 +29,15 @@ track6_link: https://sounds.mailta.pe/578/track6.mp3
 track7_title: Weirs and Magic Tuber Stringband - Tunnel
 track7_color: trippy
 track7_link: https://sounds.mailta.pe/578/track7.mp3
+description: We're back ! This morning, we're absolutely delighted to welcome
+  Magic Tuber Stringband for MailTape's first episode of the spring. Based in
+  Durham, the band weaves itself into the Appalachian folk traditions,
+  re-enchanting these practices with unexpected noise and experimental textures.
+  Magic Tuber Stringband members Evan Morgan, Mike DeVito, and Courtney Werner
+  join us following the release of their latest album, Needlefall.
 episode_URL: https://mailta.pe/578/Magic-Tuber-Stringband/
+image: https://mailta.pe/img/fbPic578.jpg
+musiColor: musicolor578.png
 ---
 We're back ! This morning, we're absolutely delighted to welcome [Magic Tuber Stringband ](https://magictuberstringband.bandcamp.com/album/needlefall)for MailTape's first episode of the spring. Based in Durham, the band weaves itself into the Appalachian folk traditions, re-enchanting these practices with unexpected noise and experimental textures. Magic Tuber Stringband members Evan Morgan, Mike DeVito, and Courtney Werner join us following the release of their latest album, [Needlefall](https://magictuberstringband.bandcamp.com/album/needlefall). 
 
