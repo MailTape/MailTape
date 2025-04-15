@@ -355,11 +355,13 @@ function PagePlayer() {
     var nextItem = self.getNextItem(oSound._data.oLI);
     if (nextItem) {
       pl.handleClick({target:nextItem}); // fake a click event - aren't we sneaky. ;)
+      _paq.push(['trackEvent', 'Player', 'Play-Pause', 'Track']);
     } else {
       console.log("nonextitem");
       
       if (self.autoLoop()) {
         pl.handleClick({target:pl.getByClassName('playlist', 'ul')[0].getElementsByTagName('a')[0]}); // autoloop
+        _paq.push(['trackEvent', 'Player', 'Play-Pause', 'Track']);
       }
     }
     return nextItem;
