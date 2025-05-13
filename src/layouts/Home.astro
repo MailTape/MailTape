@@ -185,23 +185,59 @@ const { episodes, colorInURL } = Astro.props;
                         <p id="mobile-subscription" >
                             Or we can also send them directly to you:<br>
 
-                            <script is:inline src='https://www.google.com/recaptcha/api.js'></script>
-                            <form action="https://iris.mailta.pe/subscribe" method="POST" accept-charset="utf-8">
+                            <form id="listmonk-form" method="post" action="https://merle.mailta.pe/subscription/form?redirect=MT" class="listmonk-form" accept-charset="utf-8">
+                                <div>
+                                    <input type="hidden" name="nonce" />
+                                    <input type="text" name="name" placeholder="Alex" pattern="^([[A-Za-z]+[,.]?[ ]?|[A-Za-z]+['-]]?)+$" required />
+                                    <input type="email" name="email" required placeholder="alex@mail.com" />
+                                    <input id="75e9e" type="hidden" name="l" checked value="75e9e035-1745-492c-b9bc-96a149563166" />
+                                    <br />
+                                    <div class="h-captcha" data-sitekey="0f400648-8e46-4f3e-9762-995216d493ec" data-callback="onSubmit" data-size="invisible"></div>
+                                    <button type="submit" value="submit" id="listmonk-submit">Yes, please!</button>
+                                </div>
+
+                                <script is:inline type="text/javascript">
+                                const form = document.getElementById('listmonk-form');
+
+                                function validate(event) { // add back client-side validation
+                                    event.preventDefault();
+                                    if (form.checkValidity()) {
+                                        hcaptcha.execute(); // if the form is valid, run captcha
+                                    } else {
+                                        form.reportValidity(); // if the form is invalid, display the error messages
+                                    }
+                                }
+
+                                function onLoad() {
+                                    var element = document.getElementById('listmonk-submit');
+                                    element.onclick = validate; // run the validate function when the submit button is clicked
+                                }
+
+                                function onSubmit(token) {
+                                    form.submit(); // submit the form if the hcaptcha is succesful
+                                }
+
+                                </script>
+
+                                <script is:inline src="https://js.hcaptcha.com/1/api.js?onload=onLoad" async defer></script>
+
+                            </form>
+                            
+
+                            {/* <form action="https://iris.mailta.pe/subscribe" method="POST" accept-charset="utf-8">
                                 <input type="text" name="name" id="name" placeholder="Alex" pattern="^([[A-Za-z]+[,.]?[ ]?|[A-Za-z]+['-]]?)+$" required>
                                 <input type="email" name="email" id="email" placeholder="alex@mail.com" required>
-                                <p class="g-recaptcha" data-sitekey="6Lff4IceAAAAAAFTFDYGVUb_yYo-0gAuYC2cQuMA"></p><div style="display:none;">
-                                <label for="hp">HP</label><br/>
-                                <input type="text" name="hp" id="hp"/>
-                                </div>
+
                                 <input type="hidden" name="list" value="LKDfeSSXhgKxYSwOPkqQ3Q"/>
                                 <input type="hidden" name="subform" value="yes"/>
                                 <button type="submit" name="submit" id="submit">Yes, please!</button>
                                 <p id="mobile-status"></p>
-                            </form><br>
+                            </form><br> */}
                             ✋ We respect your privacy and will never share or sell your data.<br>
                         </p>
                         <small>
-                            🙏 Sorry for this sh** captcha thing, but without it we get spammed. If you know how to code a more elegant solution, a <a href="https://github.com/MailTape/MailTape.github.io/">pull request</a> would be greatly appreciated. 🤗
+                            🙏 Sorry for this sh** captcha thing, but without it we get spammed. We use hCaptcha and its <a href="https://www.hcaptcha.com/privacy" target="_blank">Privacy Policy</a> and <a href="https://www.hcaptcha.com/terms" target="_blank">Terms of Service</a> apply.<br>
+                            If you know how to code a better solution, contribute with a <a href="https://github.com/MailTape/MailTape" target="_blank">pull request</a>. 🤗
                         </small>
 
                     </div>
