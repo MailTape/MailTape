@@ -28,32 +28,32 @@ This morning...
 
 ## King Gizzard And The Lizard Wizard - The Fourth Colour
 
- Guest: **"** lorem ipsum **"** 
+ Fulguromatic: **"** lorem ipsum **"** 
 
 ## Hiatus Kaiyote - Breathing Underwater
 
- Guest: **"** lorem ipsum **"** 
+ Fulguromatic: **"** lorem ipsum **"** 
 
 ## Dick Annegarn - La Transformation
 
- Guest: **"** lorem ipsum **"** 
+ Fulguromatic: **"** lorem ipsum **"** 
 
 # Curator's selection
 
-## Fulguromatic - The Sigh of a Whittled Grove 
+## Fulguromatic - The Sigh of a Whittled Grove
 
- Curator: **"** lorem ipsum **"** 
+ Anto: **"** lorem ipsum **"** 
 
-## Celine Dessberg - Сэлэнгэ "Selenge" 
+## Celine Dessberg - Сэлэнгэ "Selenge"
 
- Curator: **"** lorem ipsum **"** 
+ Anto: **"** lorem ipsum **"** 
 
 ## Rank-O - For Every Blow
 
- Curator: **"** lorem ipsum **"** 
+ Anto: **"** lorem ipsum **"** 
 
 ## Mad Curry -Music, The Reason Of Our Happiness
 
- Curator: **"** lorem ipsum **"** 
+ Anto: **"** lorem ipsum **"** 
 
  Thank you...
