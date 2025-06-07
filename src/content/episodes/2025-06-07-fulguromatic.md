@@ -20,6 +20,7 @@ track6_title: Rank-O - For Every Blow
 track6_link: https://sounds.mailta.pe/583/track6.mp3
 track7_title: Mad Curry -Music, The Reason Of Our Happiness
 track7_link: https://sounds.mailta.pe/583/track7.mp3
+episode_URL: https://mailta.pe/583/Fulguromatic
 ---
 This morning... 
 
