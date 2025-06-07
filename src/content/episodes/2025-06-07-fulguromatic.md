@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 pubDate: 2025-06-08
 category: "583"
 guest_name: Fulguromatic
