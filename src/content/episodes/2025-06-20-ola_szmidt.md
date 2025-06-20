@@ -65,10 +65,10 @@ ImaCrea: **"** I discovered Hiroshi Yoshimura's work only recently, thanks to my
 
 ## Dustin Wong & Takako Minekawa - Benbelo
 
-ImaCrea: **"** lorem ipsum **"** 
+ImaCrea: **"** I love so much the unique playfulness of Dustin Wong's work. And in duo with Takako Minekawa we're getting to higher stages of subtle enchantment. It feels like being a kid in the forest running after butterflies. Sun rays are playing and everything is alive. Eyes are wide opened and every step is an adventure. **"** 
 
 ## Chassol - Music Is God My Love (Ménage à trois Love Edit)
 
-ImaCrea: **"** lorem ipsum **"** 
+ImaCrea: **"** End of the playlist, time to get out of bed. Cook yourself something nice and delicious. Let the good vibe coming up, feel it and let the body move gently. Keep it slow, there's no rush, we've got the whole day ahead of us. Let's go for a walk or a bike trip alone or with friends and love. Let it go, and change direction towards somewhere you've never been. Let the enchantment appear. **"** 
 
  Thank you...
