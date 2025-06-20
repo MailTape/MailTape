@@ -8,10 +8,13 @@ author: ImaCrea
 illustrator: Noémie Dijon
 writer: ImaCrea
 track1_title: The Staple Singers - Uncloudy Day
+track1_color: bliss
 track1_link: https://sounds.mailta.pe/585/track1.mp3
 track2_title: Flora Purim - Open Your Eyes You Can Fly
+track2_color: trippy
 track2_link: https://sounds.mailta.pe/585/track2.mp3
 track3_title: Gary Burton Quartet feat. Eberhard Weber - B & G (Midwestern Night’s Dream)
+track3_color: dreamy
 track3_link: https://sounds.mailta.pe/585/track3.mp3
 track4_title: Ola Szmidt - Stillness
 track4_color: dreamy
@@ -20,6 +23,7 @@ track5_title: Hiroshi Yoshimura - 水のささやき [Humming Water]
 track5_color: dreamy
 track5_link: https://sounds.mailta.pe/585/track5.mp3
 track6_title: Blacksea Não Maya - Katraps
+track6_color: vibrant
 track6_link: https://sounds.mailta.pe/585/track6.mp3
 track7_link: https://sounds.mailta.pe/585/track7.mp3
 ---
