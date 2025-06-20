@@ -29,9 +29,9 @@ track7_title: Chassol - Music Is God My Love (Ménage à trois Love Edit)
 track7_color: bliss
 track7_link: https://sounds.mailta.pe/585/track7.mp3
 ---
- This morning... 
+This morning, as we change seasons and the metamorphosis of life is in full swing, we are deeply enthusiastic to have Ola Szmidt as our guest. Let's navigate toward reconnection and enchantment with this carefully curated selection inspired by the warmth of a beautiful summer day and the flow of a sacred river. This is definitely an episode to listen to with headphones while moving—whether walking, biking, or taking a train—toward a destination filled with hope, balance, and love.
 
-# Guest's selection
+# Ola Szmidt's selection
 
 Ola Szmidt : " I wanted to share three songs that have left a deep imprint on me. Each one discovered for the first time while on a train, over different years. These pieces carry the energies of changing weather and shifting emotions. For me, weather is sacred, it’s tied to sound, memory, and the creative process. Here’s a glimpse into the music that continues to shape and inspire me. "
 
