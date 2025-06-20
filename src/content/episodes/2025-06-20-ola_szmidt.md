@@ -25,6 +25,8 @@ track5_link: https://sounds.mailta.pe/585/track5.mp3
 track6_title: Blacksea Não Maya - Katraps
 track6_color: vibrant
 track6_link: https://sounds.mailta.pe/585/track6.mp3
+track7_title: Chassol - Music Is God My Love (Ménage à trois Love Edit)
+track7_color: bliss
 track7_link: https://sounds.mailta.pe/585/track7.mp3
 ---
 This morning... 
@@ -65,7 +67,7 @@ ImaCrea: **"** lorem ipsum **"**
 
 ImaCrea: **"** lorem ipsum **"** 
 
-## Artist - Track
+## Chassol - Music Is God My Love (Ménage à trois Love Edit)
 
 ImaCrea: **"** lorem ipsum **"** 
 
