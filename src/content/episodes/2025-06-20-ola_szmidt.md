@@ -17,7 +17,9 @@ track4_title: Ola Szmidt - Stillness
 track4_color: dreamy
 track4_link: https://sounds.mailta.pe/585/track4.mp3
 track5_title: Hiroshi Yoshimura - 水のささやき [Humming Water]
+track5_color: dreamy
 track5_link: https://sounds.mailta.pe/585/track5.mp3
+track6_title: Blacksea Não Maya - Katraps
 track6_link: https://sounds.mailta.pe/585/track6.mp3
 track7_link: https://sounds.mailta.pe/585/track7.mp3
 ---
@@ -55,7 +57,7 @@ ImaCrea: **"** lorem ipsum **"**
 
 ImaCrea: **"** lorem ipsum **"** 
 
-## Artist - Track
+## Blacksea Não Maya - Katraps
 
 ImaCrea: **"** lorem ipsum **"** 
 
