@@ -29,7 +29,7 @@ track7_title: Chassol - Music Is God My Love (Ménage à trois Love Edit)
 track7_color: bliss
 track7_link: https://sounds.mailta.pe/585/track7.mp3
 ---
-This morning... 
+ This morning... 
 
 # Guest's selection
 
@@ -57,11 +57,11 @@ Where do I even begin? I’ve listened to this track more than 23 times in one s
 
 ## Ola Szmidt - Stillness
 
-ImaCrea: **"** lorem ipsum **"** 
+ImaCrea: **"** "Room to dream", the album containing this track, was released in February and it became rapidly to me the soundtrack to accompany the metamorphosis from winter to spring. I was familiar with Ola Szmidt's work but this time the environment, setting and consciousness of the moment made it click in a new way. I can't recall how many times I've listen to this track, the balance it incorporates is so subtle and gentle. There is also great fragility and generosity hearing her voice that inspires me to create also gentle and caring creations. This precision opens a door towards inner humane feeling only real care and love can produce and it so important especially in our difficult times. Thank you Ola.**"** 
 
 ## Hiroshi Yoshimura - 水のささやき \[Humming Water]
 
-ImaCrea: **"** lorem ipsum **"** 
+ImaCrea: **"** I discovered Hiroshi Yoshimura's work only recently, thanks to my lover who encountered his music at an art exhibition. The enveloping and reassuring sound of the water flowing reminds me about what I read recently in "Futur Ancestral" by Ailton Krenak. The river is everywhere we've been. In every city centre, there's water near. But he warns us how modern society have became blind to the river, exploiting her and suffocating her. But as we loose this sensitivity we might as well loose our humanity. This track from Hiroshi encapsulate somehow a similar image to me, the river we listen to is not just a 'sound record' its the river chanting and making music. The rest is only surrunding, she's the goddess of the track. "
 
 ## Dustin Wong & Takako Minekawa - Benbelo
 
