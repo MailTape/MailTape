@@ -78,4 +78,4 @@ ImaCrea: **"** I love so much the unique playfulness of Dustin Wong's work. And 
 
 ImaCrea: **"** End of the playlist, time to get out of bed. Cook yourself something nice and delicious. Let the good vibe coming up, feel it and let the body move gently. Keep it slow, there's no rush, we've got the whole day ahead of us. Let's go for a walk or a bike trip alone or with friends and love. Let it go, and change direction towards somewhere you've never been. Let the enchantment appear. **"** 
 
-Thank you thank you for joining us, that’s all for this morning ! A very special thank you to Noémie Dijon for this episode’s sensible artwork, absolutely great (!), and many thanks to Ola Szmidt for joining us this Sunday and bringing such deeply inspiring selections. Until next time :) !
+Thank you thank you for joining us, that’s all for this morning ! A very special thank you to Noémie Dijon for this episode’s sensible artwork, absolutely great (!), and many thanks to Ola Szmidt for joining us this Sunday and bringing such deeply inspiring selections. Until next time!
