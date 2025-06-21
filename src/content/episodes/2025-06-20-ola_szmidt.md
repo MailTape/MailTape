@@ -4,6 +4,7 @@ pubDate: 2025-06-22
 category: "585"
 guest_name: Ola Szmidt
 guest_color: dreamy
+guestPic: ola_szmidt.png
 author: ImaCrea
 illustrator: Noémie Dijon
 writer: ImaCrea
