@@ -60,7 +60,7 @@ This morning...
 
  Curator: **"** lorem ipsum **"** 
 
-## Chicago Underground Duo - Click Song
+## [Chicago Underground Duo](https://intlanthem.bandcamp.com/album/hyperglyph) - Click Song
 
  Curator: **"** lorem ipsum **"** 
 
