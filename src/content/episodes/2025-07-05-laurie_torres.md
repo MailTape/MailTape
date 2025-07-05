@@ -27,7 +27,7 @@ track6_title: toe - サニーボーイ・ラプソディ
 track6_color: bliss
 track6_link: https://sounds.mailta.pe/587/track6.mp3
 track7_title: Chicago Underground Duo - Click Song
-track7_color: trippy
+track7_color: vibrant
 track7_link: https://sounds.mailta.pe/587/track7.mp3
 ---
 This morning... 
