@@ -40,7 +40,7 @@ episode_URL: https://www.mailta.pe/587/laurie-torres/
 image: https://mailta.pe/img/fbPic587.png
 musiColor: musicolor587.png
 ---
-This morning, I'm excited to share a blissful and uplifting episode curated with Laurie Torres. This selection invites you to step outside on a sunny day, to reawaken your eyes and spirit, and to let the beauty of the unknown amaze you. Laurie's album "*[Après Coup](https://laurietorres.bandcamp.com/album/apr-s-coup)*" has been a wonderful companion for me as I embraced the last spring season, and I hope today's MailTape will lead you to great discoveries that will enrich the soundtrack of your summer. So, let’s be excellent to each other and enjoy the journey!
+This morning, I'm excited to share a blissful and uplifting episode curated with [Laurie Torres](laurietorres.bandcamp.com). This selection invites you to step outside on a sunny day, to reawaken your eyes and spirit, and to let the beauty of the unknown amaze you. Laurie's album "*[Après Coup](https://laurietorres.bandcamp.com/album/apr-s-coup)*" has been a wonderful companion for me as I embraced the last spring season, and I hope today's MailTape will lead you to great discoveries that will enrich the soundtrack of your summer. So, let’s be excellent to each other and enjoy the journey!
 
 # Laurie Torres' selection
 
