@@ -5,7 +5,7 @@ category: "583"
 guest_name: Fulguromatic
 guest_color: trippy
 guestPic: guestpic583.jpg
-author: Anto"
+author: Anto
 illustrator: Camille Célestin
 writer: Anto
 track1_title: King Gizzard And The Lizard Wizard - The Fourth Colour
