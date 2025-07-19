@@ -17,9 +17,17 @@ track2_link: https://sounds.mailta.pe/588/track2.mp3
 track3_title: Scott Tuma - Midway
 track3_color: dreamy
 track3_link: https://sounds.mailta.pe/588/track3.mp3
+track4_title: Gabriel Brady - Untitled
+track4_color: dreamy
 track4_link: https://sounds.mailta.pe/588/track4.mp3
+track5_title: Antonina Nowacka - Light Light
+track5_color: dreamy
 track5_link: https://sounds.mailta.pe/588/track5.mp3
+track6_title: Antoine Bellanger - Le Chant des Oiseaux
+track6_color: dreamy
 track6_link: https://sounds.mailta.pe/588/track6.mp3
+track7_title: Elkotsh - Mwlid Elgorn
+track7_color: dreamy
 track7_link: https://sounds.mailta.pe/588/track7.mp3
 ---
 This morning... 
@@ -40,11 +48,11 @@ This morning...
 
 # Curator's selection
 
-## Artist - Track
+## Gabriel Brady - Untitled
 
  Curator: **"** lorem ipsum **"** 
 
-## Artist - Track
+## Antonina Nowacka - Light Light
 
  Curator: **"** lorem ipsum **"** 
 
