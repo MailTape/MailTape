@@ -52,17 +52,17 @@ Gabriel Brady: **"**There's a bit of a common theme behind these three selection
 
 ## Gabriel Brady - Untitled
 
- ImaCrea: **"**Gabriel Brady is one of those delightful surprises that make curating MailTape episodes a source of joy for me for over 13 years now. I had the opportunity to discover his recently released album "[Day-Blind](https://gabrielbrady.bandcamp.com/album/day-blind)" on [Tonal Union](https://tonalunion.bandcamp.com/), thanks to its founder, Adam Heron, who suggested I listen to it during an exchange where I was writing to him about Laurie Torres (yes, [our fabulous guest from last Sunday](https://mailta.pe/587/laurie-torres)). His album is beautifully meditative, crafted with such care and maturity that I was captivated immediately. This track evokes the flow of a river, a passage of thoughts. It’s truly a visionary piece.**"** 
+ ImaCrea: **"**Gabriel Brady is one of those delightful surprises that make curating MailTape episodes a source of joy for me for over 13 years now. I had the opportunity to discover his recently released album "[Day-Blind](https://gabrielbrady.bandcamp.com/album/day-blind)" on [Tonal Union](https://tonalunion.bandcamp.com/), thanks to its founder, Adam Heron, who suggested I listen to it during an exchange where I was writing to him about Laurie Torres (yes, our fabulous guest from last Sunday). His album is beautifully meditative, crafted with such care and maturity that I was captivated immediately. This track evokes the flow of a river, a passage of thoughts. It’s truly a visionary piece.**"** 
 
 ## Antonina Nowacka - Light Light
 
+ ImaCrea: **"**Without Brady's selection, who knows if I would have encountered Antonina Nowacka's music? That's where the river took me, anyway. Let there be light, as the landscape becomes enchanted by her artistry, which comes from an ethereal world of dreams. Each note she plays weaves a tapestry of sound that transports listeners to a realm where imagination knows no bounds. Her music invites us to explore the depths of our emotions and the beauty of our surroundings, creating a truly magical experience.**"** 
+
+## Antoine Bellanger - Le Chant des Oiseaux
+
  ImaCrea: **"** lorem ipsum **"** 
 
-## Artist - Track
-
- ImaCrea: **"** lorem ipsum **"** 
-
-## Artist - Track
+## Elkotsh - Mwlid Elgorn
 
  ImaCrea: **"** lorem ipsum **"** 
 
