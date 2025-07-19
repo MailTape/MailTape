@@ -30,7 +30,9 @@ track7_title: Elkotsh - Mwlid Elgorn
 track7_color: dreamy
 track7_link: https://sounds.mailta.pe/588/track7.mp3
 ---
-This morning... 
+This morning, we're onto a very chill selection with our guest **Gabriel Brady.** Each track is a world in itself, made of delicate vibrations and warm intentions. There's a variety of situations where this episode could be excellent at rejoicing the soul and inviting desire to the table of your imagination. Allow me to share one I find would be greatly welcoming: I'd go for a walk out of town, let's say in the Pyrenees, and look for a tree to sit under. The view is enchanting, the sun rays are caressing my skin, and then I'd pull out a great pair of headphones and click play for a dreamy trip as I lean back against a beech.
+
+And you, where will you take this episode for a spin?
 
 # Guest's selection
 
@@ -50,7 +52,7 @@ Gabriel Brady: **"**There's a bit of a common theme behind these three selection
 
 ## Gabriel Brady - Untitled
 
- ImaCrea: **"** lorem ipsum **"** 
+ ImaCrea: **"**Gabriel Brady is one of those delightful surprises that make curating MailTape episodes a source of joy for me for over 13 years now. I had the opportunity to discover his recently released album "[Day-Blind](https://gabrielbrady.bandcamp.com/album/day-blind)" on [Tonal Union](https://tonalunion.bandcamp.com/), thanks to its founder, Adam Heron, who suggested I listen to it during an exchange where I was writing to him about Laurie Torres (yes, [our fabulous guest from last Sunday](https://mailta.pe/587/laurie-torres)). His album is beautifully meditative, crafted with such care and maturity that I was captivated immediately. This track evokes the flow of a river, a passage of thoughts. It’s truly a visionary piece.**"** 
 
 ## Antonina Nowacka - Light Light
 
