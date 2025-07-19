@@ -4,14 +4,18 @@ pubDate: 2025-07-20
 category: "588"
 guest_name: Gabriel Brady
 guest_color: dreamy
+guestPic: guestpic588.jpg
 author: ImaCrea
 illustrator: Camille Lemeunier
 writer: ImaCrea
 track1_title: Lewis - Romance for Two
+track1_color: dreamy
 track1_link: https://sounds.mailta.pe/588/track1.mp3
 track2_title: Luke Bergman - Sound of Music
+track2_color: dreamy
 track2_link: https://sounds.mailta.pe/588/track2.mp3
 track3_title: Scott Tuma - Midway
+track3_color: dreamy
 track3_link: https://sounds.mailta.pe/588/track3.mp3
 track4_link: https://sounds.mailta.pe/588/track4.mp3
 track5_link: https://sounds.mailta.pe/588/track5.mp3
