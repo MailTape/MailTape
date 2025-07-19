@@ -36,32 +36,32 @@ This morning...
 
 ## Lewis - Romance for Two
 
- Guest: **"** This entire album is so amazing, but this track in particular encapsulates what I find so enchanting about the whole record. It’s extremely gentle and texturally-oriented, with the subtlest of gestures and notes, and yet it’s one of the more expressive and immediate vocal performances I’ve ever heard, so longing-filled and rich with emotion. Love this song. **"** 
+Gabriel Brady: **"** This entire album is so amazing, but this track in particular encapsulates what I find so enchanting about the whole record. It’s extremely gentle and texturally-oriented, with the subtlest of gestures and notes, and yet it’s one of the more expressive and immediate vocal performances I’ve ever heard, so longing-filled and rich with emotion. Love this song. **"** 
 
 ## Luke Bergman - Sound of Music
 
- Guest: **"** I grew up watching the Sound of Music a ton, and this Luke Bergman version is absolutely amazing. It’s such a beautiful and tasteful rendition, and the stunning pedal steel textures accentuate one of my favorite melodies of all time. I only recently found out about this album, and it’s been on repeat for me a bunch — highly recommend. **"** 
+Gabriel Brady: **"** I grew up watching the Sound of Music a ton, and this Luke Bergman version is absolutely amazing. It’s such a beautiful and tasteful rendition, and the stunning pedal steel textures accentuate one of my favorite melodies of all time. I only recently found out about this album, and it’s been on repeat for me a bunch — highly recommend. **"** 
 
 ## Scott Tuma - Midway
 
- Guest: **"** There's a bit of a common theme behind these three selections — really interesting textures combined with direct and affecting melodies/harmonies — which this track is the perfect example of. It occupies such a unique sonic space, which, combined with Tuma's lonesome melodic material, makes for a really wonderful and singular song. **"** 
+Gabriel Brady: **"** There's a bit of a common theme behind these three selections — really interesting textures combined with direct and affecting melodies/harmonies — which this track is the perfect example of. It occupies such a unique sonic space, which, combined with Tuma's lonesome melodic material, makes for a really wonderful and singular song. **"** 
 
 # Curator's selection
 
 ## Gabriel Brady - Untitled
 
- Curator: **"** lorem ipsum **"** 
+ ImaCrea: **"** lorem ipsum **"** 
 
 ## Antonina Nowacka - Light Light
 
- Curator: **"** lorem ipsum **"** 
+ ImaCrea: **"** lorem ipsum **"** 
 
 ## Artist - Track
 
- Curator: **"** lorem ipsum **"** 
+ ImaCrea: **"** lorem ipsum **"** 
 
 ## Artist - Track
 
- Curator: **"** lorem ipsum **"** 
+ ImaCrea: **"** lorem ipsum **"** 
 
  Thank you...
