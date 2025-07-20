@@ -45,32 +45,32 @@ And you, where will you take this episode for a spin?
 
 ## Lewis - Romance for Two
 
-Gabriel Brady: **"**This entire album is so amazing, but this track in particular encapsulates what I find so enchanting about the whole record. It’s extremely gentle and texturally-oriented, with the subtlest of gestures and notes, and yet it’s one of the more expressive and immediate vocal performances I’ve ever heard, so longing-filled and rich with emotion. Love this song.**"** 
+Gabriel Brady: **"** This entire album is so amazing, but this track in particular encapsulates what I find so enchanting about the whole record. It’s extremely gentle and texturally-oriented, with the subtlest of gestures and notes, and yet it’s one of the more expressive and immediate vocal performances I’ve ever heard, so longing-filled and rich with emotion. Love this song. **"** 
 
 ## Luke Bergman - Sound of Music
 
-Gabriel Brady: **"**I grew up watching the Sound of Music a ton, and this Luke Bergman version is absolutely amazing. It’s such a beautiful and tasteful rendition, and the stunning pedal steel textures accentuate one of my favorite melodies of all time. I only recently found out about this album, and it’s been on repeat for me a bunch — highly recommend.**"** 
+Gabriel Brady: **"** I grew up watching the Sound of Music a ton, and this Luke Bergman version is absolutely amazing. It’s such a beautiful and tasteful rendition, and the stunning pedal steel textures accentuate one of my favorite melodies of all time. I only recently found out about this album, and it’s been on repeat for me a bunch — highly recommend. **"** 
 
 ## Scott Tuma - Midway
 
-Gabriel Brady: **"**There's a bit of a common theme behind these three selections — really interesting textures combined with direct and affecting melodies/harmonies — which this track is the perfect example of. It occupies such a unique sonic space, which, combined with Tuma's lonesome melodic material, makes for a really wonderful and singular song.**"** 
+Gabriel Brady: **"** There's a bit of a common theme behind these three selections — really interesting textures combined with direct and affecting melodies/harmonies — which this track is the perfect example of. It occupies such a unique sonic space, which, combined with Tuma's lonesome melodic material, makes for a really wonderful and singular song. **"** 
 
 # Curator's selection
 
 ## Gabriel Brady - Untitled
 
- ImaCrea: **"**Gabriel Brady is one of those delightful surprises that make curating MailTape episodes a source of joy for me for over 13 years now. I had the opportunity to discover his recently released album "[Day-Blind](https://gabrielbrady.bandcamp.com/album/day-blind)" on [Tonal Union](https://tonalunion.bandcamp.com/), thanks to its founder, Adam Heron, who suggested I listen to it during an exchange where I was writing to him about Laurie Torres (yes, our fabulous guest from last Sunday). His album is beautifully meditative, crafted with such care and maturity that I was captivated immediately. This track evokes the flow of a river, a passage of thoughts. It’s truly a visionary piece.**"** 
+ ImaCrea: **"** Gabriel Brady is one of those delightful surprises that make curating MailTape episodes a source of joy for me for over 13 years now. I had the opportunity to discover his recently released album "[Day-Blind](https://gabrielbrady.bandcamp.com/album/day-blind)" on [Tonal Union](https://tonalunion.bandcamp.com/), thanks to its founder, Adam Heron, who suggested I listen to it during an exchange where I was writing to him about Laurie Torres (yes, our fabulous guest from last Sunday). His album is beautifully meditative, crafted with such care and maturity that I was captivated immediately. This track evokes the flow of a river, a passage of thoughts. It’s truly a visionary piece. **"** 
 
 ## Antonina Nowacka - Light Light
 
- ImaCrea: **"**Without Brady's selection, who knows if I would have encountered Antonina Nowacka's music? That's where the river took me, anyway. Let there be light, as the landscape becomes enchanted by her artistry, which comes from an ethereal world of dreams. Each note she plays weaves a tapestry of sound that transports listeners to a realm where imagination knows no bounds. Her music invites us to explore the depths of our emotions and the beauty of our surroundings, creating a truly magical experience.**"** 
+ ImaCrea: **"** Without Brady's selection, who knows if I would have encountered Antonina Nowacka's music? That's where the river took me, anyway. Let there be light, as the landscape becomes enchanted by her artistry, which comes from an ethereal world of dreams. Each note she plays weaves a tapestry of sound that transports listeners to a realm where imagination knows no bounds. Her music invites us to explore the depths of our emotions and the beauty of our surroundings, creating a truly magical experience. **"** 
 
 ## Antoine Bellanger - Le Chant des Oiseaux
 
- ImaCrea: **"**I can't remember how many times I've tried to insert a track by Antoine Bellanger, only to struggle in finding the perfect balance with the rest of the selection. But the alchemy has finally arrived! I love this musical poetry; it’s bound to be the soundtrack of summer.**"** 
+ ImaCrea: **"** I can't remember how many times I've tried to insert a track by Antoine Bellanger, only to struggle in finding the perfect balance with the rest of the selection. But the alchemy has finally arrived! I love this musical poetry; it’s bound to be the soundtrack of summer. **"** 
 
 ## Elkotsh - Mwlid Elgorn
 
- ImaCrea: **"**Hypnotizing track? It's a vibrant piece encapsulated in a dreamy state of mind, which is why I chose to keep its musicolor blue. Swirl, swirl, as everything melts together in one beautiful soup of atoms.**"** 
+ ImaCrea: **"** Hypnotizing track? It's a vibrant piece encapsulated in a dreamy state of mind, which is why I chose to keep its musicolor blue. Swirl, swirl, as everything melts together in one beautiful soup of atoms. **"** 
 
 Thank you for sharing this dreamy moment with us! I hope you had beautiful visions and made great discoveries while listening. A very special thank you to Camille Lemeunier for her wonderful illustration based on a picture by Sachiko Kirby. And many thanks to Gabriel Brady for joining us this Sunday and bringing such an atmospheric and inspiring selection. Until next time!
