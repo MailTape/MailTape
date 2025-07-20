@@ -37,7 +37,7 @@ description: This morning, we're onto a very chill selection with our guest
 episode_URL: https://www.mailta.pe/588/gabriel-brady/
 alignY: "0.4"
 ---
-This morning, we're onto a very chill selection with our guest **Gabriel Brady.** Each track is a world in itself, made of delicate vibrations and warm intentions. There's a variety of situations where this episode could be excellent at rejoicing the soul and inviting desire to the table of your imagination. Allow me to share one I find would be greatly welcoming: I'd go for a walk out of town, let's say in the Pyrenees, and look for a tree to sit under. The view is enchanting, the sun rays are caressing my skin, and then I'd pull out a great pair of headphones and click play for a dreamy trip as I lean back against a beech.
+This morning, we're onto a very chill selection with our guest [Gabriel Brady](https://gabrielbrady.bandcamp.com/album/day-blind). Each track is a world in itself, made of delicate vibrations and warm intentions. There's a variety of situations where this episode could be excellent at rejoicing the soul and inviting desire to the table of your imagination. Allow me to share one I find would be greatly welcoming: I'd go for a walk out of town, let's say in the Pyrenees, and look for a tree to sit under. The view is enchanting, the sun rays are caressing my skin, and then I'd pull out a great pair of headphones and click play for a dreamy trip as I lean back against a beech.
 
 And you, where will you take this episode for a spin?
 
