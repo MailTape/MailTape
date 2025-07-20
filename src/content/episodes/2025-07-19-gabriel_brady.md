@@ -60,10 +60,10 @@ Gabriel Brady: **"**There's a bit of a common theme behind these three selection
 
 ## Antoine Bellanger - Le Chant des Oiseaux
 
- ImaCrea: **"** lorem ipsum **"** 
+ ImaCrea: **"**I can't remember how many times I've tried to insert a track by Antoine Bellanger, only to struggle in finding the perfect balance with the rest of the selection. But the alchemy has finally arrived! I love this musical poetry; it’s bound to be the soundtrack of summer.**"** 
 
 ## Elkotsh - Mwlid Elgorn
 
- ImaCrea: **"** lorem ipsum **"** 
+ ImaCrea: **"**Hypnotizing track? It's a vibrant piece encapsulated in a dreamy state of mind, which is why I chose to keep its musicolor blue. Swirl, swirl, as everything melts together in one beautiful soup of atoms.**"** 
 
  Thank you...
