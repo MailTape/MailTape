@@ -29,6 +29,12 @@ track6_link: https://sounds.mailta.pe/588/track6.mp3
 track7_title: Elkotsh - Mwlid Elgorn
 track7_color: dreamy
 track7_link: https://sounds.mailta.pe/588/track7.mp3
+description: This morning, we're onto a very chill selection with our guest
+  Gabriel Brady. Each track is a world in itself, made of delicate vibrations
+  and warm intentions. There's a variety of situations where this episode could
+  be excellent at rejoicing the soul and inviting desire to the table of your
+  imagination.
+episode_URL: https://www.mailta.pe/588/gabriel-brady/
 ---
 This morning, we're onto a very chill selection with our guest **Gabriel Brady.** Each track is a world in itself, made of delicate vibrations and warm intentions. There's a variety of situations where this episode could be excellent at rejoicing the soul and inviting desire to the table of your imagination. Allow me to share one I find would be greatly welcoming: I'd go for a walk out of town, let's say in the Pyrenees, and look for a tree to sit under. The view is enchanting, the sun rays are caressing my skin, and then I'd pull out a great pair of headphones and click play for a dreamy trip as I lean back against a beech.
 
@@ -66,4 +72,4 @@ Gabriel Brady: **"**There's a bit of a common theme behind these three selection
 
  ImaCrea: **"**Hypnotizing track? It's a vibrant piece encapsulated in a dreamy state of mind, which is why I chose to keep its musicolor blue. Swirl, swirl, as everything melts together in one beautiful soup of atoms.**"** 
 
- Thank you...
+Thank you for sharing this dreamy moment with us! I hope you had beautiful visions and made great discoveries while listening. A very special thank you to Camille Lemeunier for her wonderful illustration based on a picture by Sachiko Kirby. And many thanks to Gabriel Brady for joining us this Sunday and bringing such an atmospheric and inspiring selection. Until next time!
