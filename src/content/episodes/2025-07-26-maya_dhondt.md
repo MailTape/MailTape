@@ -3,6 +3,7 @@ published: true
 pubDate: 2025-07-27
 category: "589"
 guest_name: Maya Dhondt
+guest_color: trippy
 author: Anto
 illustrator: Thibault Daumain
 writer: Anto
