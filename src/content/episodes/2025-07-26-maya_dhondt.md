@@ -34,6 +34,8 @@ description: >-
 
   To finish on a high note, we invited Maya Dhondt, with whom we prepared a sonic fireworks that we hope will be joyful, intense, and memorable! A beautiful mess made of strange and fascinating sounds. Some unclassifiable melodies, some wild herbs that grow where you least expect them...
 episode_URL: https://mailta.pe/589/Maya-Dhondt
+image: https://mailta.pe/img/fbpic589.png
+musiColor: musicolor589.png
 ---
 Woohoo, it’s the last episode of season 14 !\
 To finish on a high note, we invited Maya Dhondt, with whom we prepared a sonic fireworks that we hope will be joyful, intense, and memorable! A beautiful mess made of strange and fascinating sounds. Some unclassifiable melodies, some wild herbs that grow where you least expect them...
