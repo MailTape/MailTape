@@ -6,7 +6,7 @@ guest_name: Maya Dhondt
 guest_color: trippy
 guestPic: maya_dhondt.jpg
 author: Anto
-illustrator: Thibault Daumain
+illustrator: null
 writer: Anto
 track1_title: Nihiloxica  - Choir Chops
 track1_color: vibrant
