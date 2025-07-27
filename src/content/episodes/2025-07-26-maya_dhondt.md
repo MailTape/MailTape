@@ -31,22 +31,44 @@ track7_color: vibrant
 track7_link: https://sounds.mailta.pe/589/track7.mp3
 episode_URL: https://mailta.pe/589/Maya-Dhondt
 ---
-This morning... 
- # Guest's selection 
- ## Artist - Track 
- Guest: **"** lorem ipsum **"** 
- ## Artist - Track 
- Guest: **"** lorem ipsum **"** 
- ## Artist - Track 
- Guest: **"** lorem ipsum **"** 
- # Curator's selection 
- ## Artist - Track 
- Curator: **"** lorem ipsum **"** 
- ## Artist - Track 
- Curator: **"** lorem ipsum **"** 
- ## Artist - Track 
- Curator: **"** lorem ipsum **"** 
- ## Artist - Track 
+Woohoo, it’s the last episode of season 14 !
+
+To finish on a high note, we invited Maya Dhondt, with whom we prepared a sonic fireworks that we hope will be joyful, intense, and memorable! A beautiful mess made of strange and fascinating sounds. Some unclassifiable melodies, some wild herbs that grow where you least expect them...
+
+That's a good thing, it’s in essence a bit like this that we could characterize Maya Dhondt's music. Her creativity is delirious. She wanders gaily, almost innocently, like a cloud lost in the middle of a blue sky. But sometimes it's the thunder! An ecstatic ruckus that gets out of control. And for this selection, we're embarking on this path.
+
+Ready? Fire!
+
+# Guest's selection
+
+## Artist - Track
+
+ Maya Dhondt: **"** lorem ipsum **"** 
+
+## Artist - Track
+
+ Maya Dhondt: **"** lorem ipsum **"** 
+
+## Artist - Track
+
+ Maya Dhondt: **"** lorem ipsum **"** 
+
+# Curator's selection
+
+## Artist - Track
+
+ Anto: **"** lorem ipsum **"** 
+
+## Artist - Track
+
+ Anto: **"** lorem ipsum **"** 
+
+## Artist - Track
+
+ Anto: **"** lorem ipsum **"** 
+
+## Artist - Track
+
  Curator: **"** lorem ipsum **"** 
 
- Thank you... 
+ Thank you...
