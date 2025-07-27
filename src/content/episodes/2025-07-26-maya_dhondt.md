@@ -29,14 +29,16 @@ track6_link: https://sounds.mailta.pe/589/track6.mp3
 track7_title: Sault - Bow feat Michael Kiwanuka
 track7_color: vibrant
 track7_link: https://sounds.mailta.pe/589/track7.mp3
+description: >-
+  Woohoo, it’s the last episode of season 14 !
+
+  To finish on a high note, we invited Maya Dhondt, with whom we prepared a sonic fireworks that we hope will be joyful, intense, and memorable! A beautiful mess made of strange and fascinating sounds. Some unclassifiable melodies, some wild herbs that grow where you least expect them...
 episode_URL: https://mailta.pe/589/Maya-Dhondt
 ---
-Woohoo, it’s the last episode of season 14 !
-
+Woohoo, it’s the last episode of season 14 !\
 To finish on a high note, we invited Maya Dhondt, with whom we prepared a sonic fireworks that we hope will be joyful, intense, and memorable! A beautiful mess made of strange and fascinating sounds. Some unclassifiable melodies, some wild herbs that grow where you least expect them...
 
-That's a good thing, it’s in essence a bit like this that we could characterize Maya Dhondt's music. Her creativity is delirious. She wanders gaily, almost innocently, like a cloud lost in the middle of a blue sky. But sometimes it's the thunder! An ecstatic ruckus that gets out of control. And for this selection, we're embarking on this path.
-
+That's a good thing, it’s in essence a bit like this that we could characterize Maya Dhondt's music. Her creativity is delirious. She wanders gaily, almost innocently, like a cloud lost in the middle of a blue sky. But sometimes it's the thunder! An ecstatic ruckus that gets out of control. And for this selection, we're embarking on this path.\
 Ready? Fire!
 
 # Guest's selection
@@ -63,8 +65,7 @@ It's so hard to chose only 3. So many great songs out there, different styles, d
 
 ## Asa-Chang & Junray - Hana -a last flower-
 
- Anto: **"** Do you know Aku no hana? It's a slightly disturbing Japanese animated manga that pays homage to The Flower of Evil by Baudelaire through a strange and fascinating story that left a deep impression on me. This song is the ending theme. There, the crush was less obvious. But by dint of seeing this slightly freaky thing appear at the end of each episode, I ended up becoming fond of it, to the point of developing a kind of systematic excitement every time I hear the introductive lyrics of the song. Today, I live a happy life with it. It accompanies me discreetly and often comes back like a benevolent ghost.
-
+ Anto: **"** Do you know Aku no hana? It's a slightly disturbing Japanese animated manga that pays homage to The Flower of Evil by Baudelaire through a strange and fascinating story that left a deep impression on me. This song is the ending theme. There, the crush was less obvious. But by dint of seeing this slightly freaky thing appear at the end of each episode, I ended up becoming fond of it, to the point of developing a kind of systematic excitement every time I hear the introductive lyrics of the song. Today, I live a happy life with it. It accompanies me discreetly and often comes back like a benevolent ghost.\
 Moreover, it is a rework of this piece from the early 2000s, a little more dreamy but just as great and which we also find throughout the anime. **"** 
 
 ## Bargou 08 - Dek biya
@@ -75,4 +76,8 @@ Moreover, it is a rework of this piece from the early 2000s, a little more dream
 
  Anto: **"** We end with a less unstructured piece, to echo the previous Free Palestine and to close this Mail Tape season on a political statement. All over the world and particularly in Africa, people remain prisoners of villainous regimes under the passive, even complicit, eye of most North countries governments. But what can we do there, us simple music lovers? Well, the English collective Sault offers some ideas. Demanding respect for human rights, shouting it in the street, or singing it to invoke it is a good start. **"** 
 
- Thank you...
+ Here it is.
+
+Thanks to Maya Dhondt for co-creating this selection. We didn’t have time for the illustration but you know, it’s already summer.
+
+See you in September for new adventures. Until then, dance, vibrate, and enjoy your sunny days to the fullest!
