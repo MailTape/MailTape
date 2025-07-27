@@ -78,8 +78,7 @@ Moreover, it is a rework of this piece from the early 2000s, a little more dream
 
  Anto: **"** We end with a less unstructured piece, to echo the previous Free Palestine and to close this Mail Tape season on a political statement. All over the world and particularly in Africa, people remain prisoners of villainous regimes under the passive, even complicit, eye of most North countries governments. But what can we do there, us simple music lovers? Well, the English collective Sault offers some ideas. Demanding respect for human rights, shouting it in the street, or singing it to invoke it is a good start. **"** 
 
- Here it is.
-
+ Here it is.\
 Thanks to Maya Dhondt for co-creating this selection. We didn’t have time for the illustration but you know, it’s already summer.
 
 See you in September for new adventures. Until then, dance, vibrate, and enjoy your sunny days to the fullest!
