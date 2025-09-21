@@ -7,8 +7,8 @@ const episodes = defineCollection({
 	schema: z.object({
 		published: z.boolean(),
 		author: z.string(),
-		illustrator: z.string().optional(),
-		writer: z.string().optional(),
+		illustrator: z.string().optional().nullable(),
+		writer: z.string().optional().nullable(),
 		category: z.string(),
 		guest_name: z.string(),
 		guest_color: z.string().optional(),
