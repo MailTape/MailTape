@@ -65,7 +65,7 @@ Andrii Pokaz: **"** When you wake up all soaked in love and with the desire to t
 
 ## [Yttling Jazz](https://yr1.se/illegalhitlp) - Illegal Hit ([Joshua Idehen](https://joshuaidehen.bandcamp.com/) & [Saturday, Monday](https://saturdaymonday.bandcamp.com/track/fwd-lagartijeando-remix) Remake)
 
- Aloyse: **"** A remake from the song of the upcoming album Illegal Hit. Rhythm is the weapon ! **"** 
+ Aloyse: **"** A remake from the song of Yttling Jazz's upcoming album Illegal Hit. Rhythm is the weapon ! **"** 
 
 ## [Donny McCaslin](https://donnymccaslin.bandcamp.com/album/lullaby-for-the-lost) - Celestial
 
