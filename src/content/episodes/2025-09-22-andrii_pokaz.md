@@ -29,13 +29,14 @@ track7_title: Donny McCaslin - Celestial
 track7_color: dreamy
 track7_link: https://sounds.mailta.pe/591/track7.mp3
 description: >-
-  This morning, Andrii Pokaz brings the sunshine we all need to our speakers.
+  This morning, we are thrilled to have Andrii Pokaz bring the sunshine we all
+  need to our speakers.
 
   Based in Odessa, Ukraine, Andrii Pokaz is a pianist and composer who moves freely between jazz, classical, and contemporary sounds. His selection for today sparks moments of reflection, surprise, and joy, just like his latest album, Proteus, released this summer. A boundless universe to explore as your morning unfolds.
 episode_URL: https://mailta.pe/591/Andrii-Pokaz/
 musiColor: musicolor591.png
 ---
-This morning, Andrii Pokaz brings the sunshine we all need to our speakers.
+This morning, we are thrilled to have [Andrii Pokaz](https://pokaz.bandcamp.com/album/voices) bring the sunshine we all need to our speakers.
 
 Based in Odessa, Ukraine, Andrii Pokaz is a pianist and composer who moves freely between jazz, classical, and contemporary sounds. His selection for today sparks moments of reflection, surprise, and joy, just like his latest album, [Proteus](https://www.youtube.com/watch?v=zeE_eDD467E&list=OLAK5uy_k33FcPsVguB_NOElan9oncrQZMa3WZLQY), released this summer. A boundless universe to explore as your morning unfolds.
 
@@ -47,7 +48,6 @@ Based in Odessa, Ukraine, Andrii Pokaz is a pianist and composer who moves freel
 
 ## [Sergio Mendes](https://www.discogs.com/fr/release/12788450-The-Sergio-Mendes-Trio-In-The-Brazilian-Bag) - Let Me
 
- 
 Andrii Pokaz: **"** When you wake up all soaked in love and with the desire to turn this day into a fairy tale.**"** 
 
 ## [Beastie Boys](https://www.discogs.com/fr/master/20173-Beastie-Boys-Ill-Communication) - Sabrosa
