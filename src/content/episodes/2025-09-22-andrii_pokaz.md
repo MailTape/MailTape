@@ -40,17 +40,18 @@ Based in Odessa, Ukraine, Andrii Pokaz is a pianist and composer who moves freel
 
 # Andrii Pokaz's selection
 
-[Esbjörn Svensson Trio](https://esbjornsvenssontrio.bandcamp.com/album/strange-place-for-snow) - Serenade for the Renegade
+## [Esbjörn Svensson Trio](https://esbjornsvenssontrio.bandcamp.com/album/strange-place-for-snow) - Serenade for the Renegade
 
  Andrii Pokaz: **"** This is a winter morning when you don’t need to rush and when you begin your interaction with the world very carefully. **"** 
 
 ## [Sergio Mendes](https://www.discogs.com/fr/release/12788450-The-Sergio-Mendes-Trio-In-The-Brazilian-Bag) - Let Me
 
- Guest: **"** When you wake up all soaked in love and with the desire to turn this day into a fairy tale. **"** 
+ 
+Andrii Pokaz: **"** When you wake up all soaked in love and with the desire to turn this day into a fairy tale.**"** 
 
 ## [Beastie Boys](https://www.discogs.com/fr/master/20173-Beastie-Boys-Ill-Communication) - Sabrosa
 
- Guest: **"** For the morning of an active day. **"** 
+ Andrii Pokaz: **"** For the morning of an active day. **"** 
 
 # Curator's selection
 
