@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 pubDate: 2025-09-28
 category: "591"
 guest_name: Andrii Pokaz
