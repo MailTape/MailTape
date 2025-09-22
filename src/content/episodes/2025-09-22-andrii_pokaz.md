@@ -29,12 +29,12 @@ track7_title: Donny McCaslin - Celestial
 track7_color: dreamy
 track7_link: https://sounds.mailta.pe/591/track7.mp3
 description: >-
-  This morning, Andrii Pokaz brings his curiosity and energy to our speakers.
+  This morning, Andrii Pokaz brings the sunshine we all need to our speakers.
 
   Based in Odessa, Ukraine, Andrii Pokaz is a pianist and composer who moves freely between jazz, classical, and contemporary sounds. His selection for today sparks moments of reflection, surprise, and joy, just like his latest album, Proteus, released this summer. A boundless universe to explore as your morning unfolds.
 episode_URL: https://mailta.pe/591/Andrii-Pokaz/
 ---
-This morning, Andrii Pokaz brings his curiosity and energy to our speakers.
+This morning, Andrii Pokaz brings the sunshine we all need to our speakers.
 
 Based in Odessa, Ukraine, Andrii Pokaz is a pianist and composer who moves freely between jazz, classical, and contemporary sounds. His selection for today sparks moments of reflection, surprise, and joy, just like his latest album, [Proteus](https://www.youtube.com/watch?v=zeE_eDD467E&list=OLAK5uy_k33FcPsVguB_NOElan9oncrQZMa3WZLQY), released this summer. A boundless universe to explore as your morning unfolds.
 
