@@ -38,11 +38,8 @@ This morning, Andrii Pokaz brings his curiosity and energy to our speakers.
 
 Based in Odessa, Ukraine, Andrii Pokaz is a pianist and composer who moves freely between jazz, classical, and contemporary sounds. His selection for today sparks moments of reflection, surprise, and joy, just like his latest album, [Proteus](https://www.youtube.com/watch?v=zeE_eDD467E&list=OLAK5uy_k33FcPsVguB_NOElan9oncrQZMa3WZLQY), released this summer. A boundless universe to explore as your morning unfolds.
 
-
-
 # Andrii Pokaz's selection
 
-## 
 [Esbjörn Svensson Trio](https://esbjornsvenssontrio.bandcamp.com/album/strange-place-for-snow) - Serenade for the Renegade
 
  Andrii Pokaz: **"** This is a winter morning when you don’t need to rush and when you begin your interaction with the world very carefully. **"** 
@@ -69,10 +66,8 @@ Based in Odessa, Ukraine, Andrii Pokaz is a pianist and composer who moves freel
 
  Aloyse: **"** A remake from the song of the upcoming album Illegal Hit. Rhythm is the weapon ! **"** 
 
-## 
-[Donny McCaslin](https://donnymccaslin.bandcamp.com/album/lullaby-for-the-lost) - Celestial
+## [Donny McCaslin](https://donnymccaslin.bandcamp.com/album/lullaby-for-the-lost) - Celestial
 
  Aloyse: **"** Amazing fusion between jazz improvisation and subtle electronic waves. I love the shimmering textures and shifting rhythms, it draws you into a space that feels both intimate and infinite. **"** 
 
- 
 That’s all for today. Thanks for listening and much gratitude to [Andrii Pokaz](https://www.instagram.com/andrii.pokaz/?hl=fr) for being our guest, and to [Camille Lemeunier](https://camillelemeunier.fr/) for this episode’s illustration!
