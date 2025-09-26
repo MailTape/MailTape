@@ -73,4 +73,4 @@ Andrii Pokaz: **"** When you wake up all soaked in love and with the desire to t
 
  Aloyse: **"** Amazing fusion between jazz improvisation and subtle electronic waves. I love the shimmering textures and shifting rhythms, it draws you into a space that feels both intimate and infinite. **"** 
 
-That’s all for today. Thanks for listening and much gratitude to [Andrii Pokaz](https://www.instagram.com/andrii.pokaz/?hl=fr) for being our guest, and to [Camille Lemeunier](https://camillelemeunier.fr/) for this episode’s illustration!
+That’s all for today. Thanks for listening and much gratitude to [Andrii Pokaz](https://www.instagram.com/andrii.pokaz/?hl=fr) for being our guest, and to [Camille Lemeunier](https://camillelemeunier.fr/) for the gorgeous illustration of today’s episode!
