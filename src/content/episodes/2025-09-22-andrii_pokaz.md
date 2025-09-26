@@ -63,7 +63,7 @@ Andrii Pokaz: **"** When you wake up all soaked in love and with the desire to t
 
 ## [O.](https://othebanduk.bandcamp.com/album/weirdos) - 176
 
- Aloyse: **"** An explosive band that creates tracks you can’t help but headbang to, with crushing drums and twisted sax. It’s intense, thrilling, and awesome to experience live. **"** 
+ Aloyse: **"** An explosive band that creates tracks you can’t help but headbang to, with crushing drums and twisted sax. It’s intense, thrilling, and awesome to experience [live](https://www.youtube.com/watch?v=cr0E7gFfKOA). **"** 
 
 ## [Yttling Jazz](https://yr1.se/illegalhitlp) - Illegal Hit ([Joshua Idehen](https://joshuaidehen.bandcamp.com/) & [Saturday, Monday](https://saturdaymonday.bandcamp.com/track/fwd-lagartijeando-remix) Remake)
 
