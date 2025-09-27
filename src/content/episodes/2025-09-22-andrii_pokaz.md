@@ -37,7 +37,7 @@ description: >-
 episode_URL: https://mailta.pe/591/Andrii-Pokaz/
 image: https://mailta.pe/img/fbpic591.jpg
 musiColor: musicolor591.png
-alignY: ""
+alignY: "0.5"
 ---
 This morning, we are thrilled to have [Andrii Pokaz](https://pokaz.bandcamp.com/album/voices) bring the sunshine we all need to our speakers.
 
