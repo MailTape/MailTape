@@ -4,6 +4,7 @@ pubDate: 2025-09-28
 category: "591"
 guest_name: Andrii Pokaz
 guest_color: bliss
+guestPic: guestpic591.jpg
 author: Aloyse
 illustrator: Camille Lemeunier
 writer: Aloyse
