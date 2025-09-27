@@ -4,7 +4,7 @@ pubDate: 2025-09-28
 category: "591"
 guest_name: Andrii Pokaz
 guest_color: bliss
-guestPic: 331_–_Muddy_Monk.jpg
+guestPic: guestpic591.jpg
 author: Aloyse
 illustrator: Camille Lemeunier
 writer: Aloyse
@@ -37,7 +37,7 @@ description: >-
 episode_URL: https://mailta.pe/591/Andrii-Pokaz/
 image: https://mailta.pe/img/fbpic591.jpg
 musiColor: musicolor591.png
-alignY: "1"
+alignY: ""
 ---
 This morning, we are thrilled to have [Andrii Pokaz](https://pokaz.bandcamp.com/album/voices) bring the sunshine we all need to our speakers.
 
