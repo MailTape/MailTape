@@ -28,7 +28,7 @@ track6_link: https://sounds.mailta.pe/XXX/track6.mp3
 track7_title: "Alek Lee - Cold Feet "
 track7_color: vibrant
 track7_link: https://sounds.mailta.pe/XXX/track7.mp3
-episode_URL: https://mailta.pe/592/Annie-Claude-Deschênes/
+episode_URL: https://mailta.pe/592/Annie-Claude-Deschenes/
 ---
 This morning... 
  # Guest's selection 
