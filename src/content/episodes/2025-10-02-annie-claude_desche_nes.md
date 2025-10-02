@@ -5,6 +5,7 @@ category: "592"
 guest_name: Annie-Claude Deschênes
 guest_color: rough
 author: Anto
+illustrator: Anthony Dujardin
 writer: Anto
 track1_title: Charlotte Adigéry & Bolis Pupul - HAHA
 track1_color: trippy
