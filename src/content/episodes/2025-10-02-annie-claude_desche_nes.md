@@ -10,25 +10,25 @@ illustrator: null
 writer: Anto
 track1_title: Charlotte Adigéry & Bolis Pupul - HAHA
 track1_color: trippy
-track1_link: https://sounds.mailta.pe/XXX/track1.mp3
+track1_link: https://sounds.mailta.pe/592/track1.mp3
 track2_title: Safe Mind - 6' Pole
 track2_color: vibrant
-track2_link: https://sounds.mailta.pe/XXX/track2.mp3
+track2_link: https://sounds.mailta.pe/592/track2.mp3
 track3_title: Sextile - Disco
 track3_color: rough
-track3_link: https://sounds.mailta.pe/XXX/track3.mp3
+track3_link: https://sounds.mailta.pe/592/track3.mp3
 track4_title: Annie-Claude Deschênes - Ancients
 track4_color: rough
-track4_link: https://sounds.mailta.pe/XXX/track4.mp3
+track4_link: https://sounds.mailta.pe/592/track4.mp3
 track5_title: Paprika Kinski - Steady Lover
 track5_color: bliss
-track5_link: https://sounds.mailta.pe/XXX/track5.mp3
+track5_link: https://sounds.mailta.pe/592/track5.mp3
 track6_title: Holograms - Stress
 track6_color: rough
-track6_link: https://sounds.mailta.pe/XXX/track6.mp3
+track6_link: https://sounds.mailta.pe/592/track6.mp3
 track7_title: "Alek Lee - Cold Feet "
 track7_color: vibrant
-track7_link: https://sounds.mailta.pe/XXX/track7.mp3
+track7_link: https://sounds.mailta.pe/592/track7.mp3
 episode_URL: https://mailta.pe/592/Annie-Claude-Deschenes/
 ---
 This morning... 
