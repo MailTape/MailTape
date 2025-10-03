@@ -4,6 +4,7 @@ pubDate: 2025-10-05
 category: "592"
 guest_name: Annie-Claude Deschênes
 guest_color: rough
+guestPic: 1820-1024.jpg
 author: Anto
 illustrator: Anthony Dujardin
 writer: Anto
