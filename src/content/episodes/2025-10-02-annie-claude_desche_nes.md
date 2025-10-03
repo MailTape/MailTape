@@ -6,7 +6,7 @@ guest_name: Annie-Claude Deschênes
 guest_color: rough
 guestPic: 1820-1024.jpg
 author: Anto
-illustrator: Anthony Dujardin
+illustrator: null
 writer: Anto
 track1_title: Charlotte Adigéry & Bolis Pupul - HAHA
 track1_color: trippy
