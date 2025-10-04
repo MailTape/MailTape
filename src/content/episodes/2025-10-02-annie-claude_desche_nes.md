@@ -29,6 +29,11 @@ track6_link: https://sounds.mailta.pe/592/track6.mp3
 track7_title: "Alek Lee - Cold Feet "
 track7_color: vibrant
 track7_link: https://sounds.mailta.pe/592/track7.mp3
+description: "There's a bit of everything in today's selection: a good dose of
+  Cold Wave, some wacky Electro, a regressive Pop, some Punk style that stains
+  and even a little tropical vibe. Yes yes, it seems completely disjointed said
+  like that and yet, this autumnal MailTape is consistent with the season: full
+  of colors that are a feast for the eyes (or the ears)."
 episode_URL: https://mailta.pe/592/Annie-Claude-Deschenes/
 image: https://mailta.pe/img/fbPic592.png
 musiColor: musicolor592.png
