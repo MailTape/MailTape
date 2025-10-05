@@ -75,7 +75,7 @@ It’s [Annie-Claude Deschênes](https://annie-claudedeschenes.bandcamp.com/musi
  Anto: **"** And to finish, a bit of sweetness with a different wave. "Cold Feet" is the title of this song but it's also that of [an exciting LP](https://alekleemusic.bandcamp.com/album/cold-feet) released a few weeks ago that makes my speakers stir. I don't know if it's a real guitar that propels us into the full sun, carried by the reminiscences of the previous songs, but damn it's effective! The bass adds an irresistible groove, and what about the synth that takes the song into another dimension, where nothing matters... **"** 
 
  That's all for today friends.\
-We warmly thank Annie-Claude Deschènes for her very inspiring selection and we welcome Antoine Gaudin who has graced us with his first inspired illustration.\
+We warmly thank Annie-Claude Deschènes for her very inspiring selection and we welcome [Antoine Gaudin](https://www.instagram.com/antoine__gaudin/) who has graced us with his first inspired illustration.\
 \
  Enjoy the sun!\
 See you soon for new adventures.
