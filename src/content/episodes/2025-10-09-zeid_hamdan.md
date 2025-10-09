@@ -32,12 +32,12 @@ description: "This morning, we are delighted to welcome Zeid Hamdan for a
   playlist shaped by sounds fragile and powerful. His music moves in a space of
   contrasts: minimal beats that leave room for silence, layered textures that
   feel light and dense, tender, melancholic, but always full of light, pushing
-  through the cracks. From his early work with SoapKills to his more recent
+  through the cracks. From his early work with Soapkills to his more recent
   projects, Zeid Hamdan continues to create unforgettable soundscapes. You’ll
   also be able to hear it live in Paris, at La Flèche d’Or on October 23."
 episode_URL: https://mailta.pe/593/Zeid-Hamdan/
 ---
-This morning, we are delighted to welcome Zeid Hamdan for a playlist shaped by sounds fragile and powerful. His music moves in a space of contrasts: minimal beats that leave room for silence, layered textures that feel light and dense, tender, melancholic, but always full of light, pushing through the cracks. You’ll also be able to hear it live in Paris, at La Flèche d’Or on October 23.
+[](g)This morning, we are delighted to welcome Zeid Hamdan for a playlist shaped by sounds fragile and powerful. His music moves in a space of contrasts: minimal beats that leave room for silence, layered textures that feel light and dense, tender, melancholic, but always full of light, pushing through the cracks. You’ll also be able to hear it live in Paris, at La Flèche d’Or on October 23.
 
 # Zeid Hamdan's selection
 
