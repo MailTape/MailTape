@@ -5,6 +5,7 @@ category: "593"
 guest_name: Zeid Hamdan
 guest_color: vibrant
 author: Aloyse
+illustrator: Antoine Gaudin
 writer: Aloyse
 track1_title: Koast - Belek
 track1_color: vibrant
