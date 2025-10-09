@@ -40,33 +40,33 @@ This morning, we are delighted to welcome Zeid Hamdan for a playlist shaped by s
 
 # Zeid Hamdan's selection
 
-## Koast - Belek
+## [Koast](https://www.youtube.com/channel/UCqDcosVbsAKSfNOlaZkL-kQ) - Belek
 
 Zeid Hamdan: **"** Cette jeune Tunisienne m'inspire beaucoup par sa façon de mêler, dans son chant, les maqâms et le RnB classique. C'est une pop comme j'aimerais savoir en faire. **"** 
 
-## CA7RIEL & Paco Amoroso - EL ÚNICO
+## [CA7RIEL & Paco Amoroso](https://www.youtube.com/watch?v=9kqnsoY94L8) - EL ÚNICO
 
  Zeid Hamdan: **"** El Único Ca7riel et Paco, un Tiny Desk mythique, très inspirant. Cela m'a donné envie de laisser les machines de côté et de jouer avec davantage de musiciens. **"** 
 
-## Bassekou Konate - The River Tune
+## [Bassekou Konate](https://outhererecords.bandcamp.com/album/segu-blue) - The River Tune
 
  Zeid Hamdan: **"** C'est ce qui m'éclaire le cœur et les oreilles tôt le matin. Les gammes jouées au ngoni, avec ce côté humble et blues, me touchent profondément. **"** 
 
-## Daboor - Sheikh Jarrah
+## [Daboor](https://bltnm.bandcamp.com/track/sheikh-jarrah) - Sheikh Jarrah
 
  Zeid Hamdan: **"** Je partage un quatrième qui me tient beaucoup à cœur : l'artiste palestinien de Jérusalem, Daboor, qui exprime sa résistance à l'occupation israélienne **"** 
 
 # Curator's selection
 
-## Zeid Hamdan - Selamnesh
+## [Zeid Hamdan](https://www.instagram.com/zeidhamdan/?hl=fr) - Selamnesh
 
  Aloyse: **"** The album from which this track is taken, Music for Film, is a marvel. Each piece instantly creates its own atmosphere, strikingly different from the others, yet together they form a narrative whole. I’m especially drawn to Selamnesh for its delicate and powerful melody, and its quiet melancholy, evoking the moment when the hero seems ready to give up, just before finding a second wind. **"** 
 
-## Taj Mahal & Toumani Diabaté - Ol' Georgie Buck
+## [Taj Mahal](https://tajblues.bandcamp.com/) & [Toumani Diabaté](https://www.discogs.com/fr/artist/370859-Toumani-Diabat%C3%A9) - Ol' Georgie Buck
 
- Aloyse: **"** And now the hero is ready to give it his all ! A perfect fusion of Taj Mahal and Toumani Diabaté, you can’t help but sway along to the rhythm. **"** 
+ Aloyse: **"** And now the hero is ready to give it his all ! A [perfect fusion](https://www.youtube.com/watch?v=eExZfMD0YCA&list=PLImcD4dzm_-3E3A2qxn_zEUMgcaFAoN_W) of Taj Mahal and Toumani Diabaté, you can’t help but sway along to the rhythm. **"** 
 
-## TootArd - Syrian Blues
+## [TootArd](https://tootard-glitterbeat.bandcamp.com/album/migrant-birds) - Syrian Blues
 
  Aloyse: **"** Syrian Blues has a beautiful desert rock melody, and the song really fits its name. Each TootArd album has its own color: one more reggae, another more funk, and this one leans into desert rock with a sound that stays in your head. **"** 
 
