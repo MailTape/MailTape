@@ -36,7 +36,7 @@ description: "This morning, we are delighted to welcome Zeid Hamdan for a
   d’Or on October 23."
 episode_URL: https://mailta.pe/593/Zeid-Hamdan/
 ---
-[](f)[](https://soapkills.bandcamp.com/album/the-best-of)Kikoo, we are delighted to welcome Zeid Hamdan for a playlist shaped by sounds both fragile and powerful. His music moves in a space of contrasts: minimal beats that leave room for silence, layered textures that feel light and dense, tender, melancholic, but always full of light, pushing through the cracks. From his early work with [Soapkills](https://soapkills.bandcamp.com/album/the-best-of) to his more recent projects, Zeid Hamdan continues to create unforgettable soundscapes.You’ll also be able to hear it live in Paris, at La Flèche d’Or on October 23.
+This morning, we are delighted to welcome Zeid Hamdan for a playlist shaped by sounds both fragile and powerful. His music moves in a space of contrasts: minimal beats that leave room for silence, layered textures that feel light and dense, tender, melancholic, but always full of light, pushing through the cracks. From his early work with [Soapkills](https://soapkills.bandcamp.com/album/the-best-of) to his more recent projects, Zeid Hamdan continues to create unforgettable soundscapes.You’ll also be able to hear it live in Paris, at La Flèche d’Or on October 23.
 
 # Zeid Hamdan's selection
 
