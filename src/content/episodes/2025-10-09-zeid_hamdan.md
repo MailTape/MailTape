@@ -27,6 +27,13 @@ track6_link: https://sounds.mailta.pe/XXX/track6.mp3
 track7_title: TootArd - Syrian Blues
 track7_color: bliss
 track7_link: https://sounds.mailta.pe/593/track7.mp3
+description: "This morning, we are delighted to welcome Zeid Hamdan for a
+  playlist shaped by sounds fragile and powerful. His music moves in a space of
+  contrasts: minimal beats that leave room for silence, layered textures that
+  feel light and dense, tender, melancholic, but always full of light, pushing
+  through the cracks. You’ll also be able to hear it live in Paris, at La Flèche
+  d’Or on October 23."
+episode_URL: https://mailta.pe/593/Zeid-Hamdan/
 ---
 This morning, we are delighted to welcome Zeid Hamdan for a playlist shaped by sounds fragile and powerful. His music moves in a space of contrasts: minimal beats that leave room for silence, layered textures that feel light and dense, tender, melancholic, but always full of light, pushing through the cracks. You’ll also be able to hear it live in Paris, at La Flèche d’Or on October 23.
 
@@ -62,4 +69,6 @@ Zeid Hamdan: **"** Cette jeune Tunisienne m'inspire beaucoup par sa façon de m�
 
  Aloyse: **"** Syrian Blues has a beautiful desert rock melody, and the song really fits its name. Each TootArd album has its own color: one more reggae, another more funk, and this one leans into desert rock with a sound that stays in your head. **"** 
 
- Thank you...
+ 
+That’s it for this morning! Thanks for being with us.
+Thanks to Zeid Hamdan for his Sunday selection, and to Antoine for the stunning illustration.
