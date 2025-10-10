@@ -25,7 +25,7 @@ track5_color: bliss
 track5_link: https://sounds.mailta.pe/593/track5.mp3
 track6_title: Taj Mahal & Toumani Diabaté - Ol' Georgie Buck
 track6_color: vibrant
-track6_link: https://sounds.mailta.pe/XXX/track6.mp3
+track6_link: https://sounds.mailta.pe/593/track6.mp3
 track7_title: TootArd - Syrian Blues
 track7_color: bliss
 track7_link: https://sounds.mailta.pe/593/track7.mp3
