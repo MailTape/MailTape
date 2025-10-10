@@ -37,7 +37,7 @@ description: "This morning, we are delighted to welcome Zeid Hamdan for a
   d’Or on October 23."
 episode_URL: https://mailta.pe/593/Zeid-Hamdan/
 musiColor: musicolor593.png
-alignY: "1"
+alignY: "0"
 ---
 This morning, we are delighted to welcome Zeid Hamdan for a playlist shaped by sounds both fragile and powerful. His music moves in a space of contrasts: minimal beats that leave room for silence, layered textures that feel light and dense, tender, melancholic, but always full of light, pushing through the cracks. From his early work with [Soapkills](https://soapkills.bandcamp.com/album/the-best-of) to his more recent projects, Zeid Hamdan continues to create unforgettable soundscapes.You’ll also be able to hear it live in Paris, at La Flèche d’Or on October 23.
 
@@ -74,4 +74,4 @@ Zeid Hamdan: **"** Cette jeune Tunisienne m'inspire beaucoup par sa façon de m�
  Aloyse: **"** Syrian Blues has a beautiful desert rock melody, and the song really fits its name. Each TootArd album has its own color: one more reggae, another more funk, and this one leans into desert rock with a sound that stays in your head. **"** 
 
 That’s it for this morning! Thanks for being with us.
-Thanks to Zeid Hamdan for his Sunday selection, and to Antoine for the stunning illustration.
+Thanks to Zeid Hamdan for his Sunday selection, and to [Antoine](https://www.instagram.com/antoine__gaudin/) for the stunning illustration.
