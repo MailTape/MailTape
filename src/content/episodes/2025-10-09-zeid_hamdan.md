@@ -74,4 +74,4 @@ Zeid Hamdan: **"** Cette jeune Tunisienne m'inspire beaucoup par sa façon de m�
  Aloyse: **"** Syrian Blues has a beautiful desert rock melody, and the song really fits its name. Each TootArd album has its own color: one more reggae, another more funk, and this one leans into desert rock with a sound that stays in your head. **"** 
 
 That’s it for this morning! Thanks for being with us.
-Thanks to Zeid Hamdan for his Sunday selection, and to [Antoine](https://www.instagram.com/antoine__gaudin/) for the stunning illustration.
+Thanks to Zeid Hamdan for his Sunday selection, and to [Antoine](https://www.instagram.com/antoine__gaudin/) for the stunning illustration!
