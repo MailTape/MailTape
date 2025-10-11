@@ -36,6 +36,7 @@ description: "This morning, we are delighted to welcome Zeid Hamdan for a
   through the cracks. You’ll also be able to hear it live in Paris, at La Flèche
   d’Or on October 23."
 episode_URL: https://mailta.pe/593/Zeid-Hamdan/
+image: https://mailta.pe/img/fbPic593.png
 musiColor: musicolor593.png
 alignY: "0.5"
 ---
