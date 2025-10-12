@@ -52,7 +52,7 @@ Zeid Hamdan: **"** Cette jeune Tunisienne m'inspire beaucoup par sa façon de m�
 
  Zeid Hamdan: **"** El Único Ca7riel et Paco, un Tiny Desk mythique, très inspirant. Cela m'a donné envie de laisser les machines de côté et de jouer avec davantage de musiciens. **"** 
 
-## [Bassekou Konate](https://outhererecords.bandcamp.com/album/segu-blue) - The River Tune
+## [Bassekou Kouyaté](https://outhererecords.bandcamp.com/album/segu-blue) - The River Tune
 
  Zeid Hamdan: **"** C'est ce qui m'éclaire le cœur et les oreilles tôt le matin. Les gammes jouées au ngoni, avec ce côté humble et blues, me touchent profondément. **"** 
 
