@@ -14,7 +14,7 @@ track1_link: https://sounds.mailta.pe/593/track1.mp3
 track2_title: " CA7RIEL & Paco Amoroso - EL ÚNICO"
 track2_color: vibrant
 track2_link: https://sounds.mailta.pe/593/track2.mp3
-track3_title: Bassekou Konate - The River Tune
+track3_title: Bassekou Kouyaté - The River Tune
 track3_color: bliss
 track3_link: https://sounds.mailta.pe/593/track3.mp3
 track4_title: Daboor - Sheikh Jarrah
