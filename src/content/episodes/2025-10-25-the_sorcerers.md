@@ -28,6 +28,12 @@ track6_link: https://sounds.mailta.pe/595/track6.mp3
 track7_title: Tasmin – The Bride Dance
 track7_color: trippy
 track7_link: https://sounds.mailta.pe/595/track7.mp3
+description: This morning, MailTape offers you the soundtrack of a thrilling
+  film that could take place somewhere in East Africa, like an Ethiopian
+  Tarantino, with real contemplative shots, incredible action scenes, languid
+  moments... An adventure in 7 chapters, a fabulous journey between gems of a
+  futuristic past and resolutely modern sounds, which draw from varied
+  influences!
 episode_URL: https://mailta.pe/595/The-Sorcerers/
 ---
 This morning, MailTape offers you the soundtrack of a thrilling film that could take place somewhere in East Africa, like an Ethiopian Tarantino, with real contemplative shots, incredible action scenes, languid moments... An adventure in 7 chapters, a fabulous journey between gems of a futuristic past and resolutely modern sounds, which draw from varied influences!
