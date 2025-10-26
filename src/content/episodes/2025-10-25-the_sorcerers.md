@@ -35,6 +35,8 @@ description: This morning, MailTape offers you the soundtrack of a thrilling
   futuristic past and resolutely modern sounds, which draw from varied
   influences!
 episode_URL: https://mailta.pe/595/The-Sorcerers/
+image: https://mailta.pe/img/InstaPic595.png
+musiColor: musicolor595.png
 ---
 This morning, MailTape offers you the soundtrack of a thrilling film that could take place somewhere in East Africa, like an Ethiopian Tarantino, with real contemplative shots, incredible action scenes, languid moments... An adventure in 7 chapters, a fabulous journey between gems of a futuristic past and resolutely modern sounds, which draw from varied influences!
 
