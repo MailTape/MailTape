@@ -65,8 +65,8 @@ track1_title={track1_title} track2_title={track2_title} track3_title={track3_tit
         </div> -->
     <TopBar />
 
-    <img src=`//wsrv.nl/?url=ssl:mailta.pe/img/${guestPic}&w=2000&t=fit&il&q=90&output=webp&default=ssl:${SITE_BASE_URL.slice(8)}/img/${guestPic}` style="display:none;"/>
-    <div id="bigHeader" class="stretchMe notPlaying" data-stretch=`//wsrv.nl/?url=ssl:mailta.pe/img/${guestPic}&w=2000&t=fit&il&q=90&output=webp&default=ssl:${SITE_BASE_URL.slice(8)}/img/${guestPic}` data-stretchAlignY=`${alignY}` data-pagefind-meta=`image:https://wsrv.nl/?url=ssl:mailta.pe/img/${guestPic}&w=500&t=fit&il&q=90&output=webp&default=ssl:${SITE_BASE_URL.slice(8)}/img/${guestPic}` data-pagefind-meta=`image_alt:Episode ${ category } - ${ guest_name }`>
+    <img src=`/img/${guestPic}` style="display:none;"/>
+    <div id="bigHeader" class="stretchMe notPlaying" data-stretch=`/img/${guestPic}` data-stretchAlignY=`${alignY}` data-pagefind-meta=`image:https://mailta.pe/img/${guestPic}` data-pagefind-meta=`image_alt:Episode ${ category } - ${ guest_name }`>
     
         <div class="container">
             <!-- desktop header -->
@@ -212,8 +212,8 @@ track1_title={track1_title} track2_title={track2_title} track3_title={track3_tit
     
                 </article>
     
-                <script is:inline defer src="https://commento.mailta.pe/js/commento.js"></script>
-                <div id="commento"></div>
+                <!-- <script is:inline defer src="https://commento.mailta.pe/js/commento.js"></script>
+                <div id="commento"></div> -->
     
             </div>
     
@@ -252,9 +252,9 @@ track1_title={track1_title} track2_title={track2_title} track3_title={track3_tit
         <div id="similarEpisodes" class="d-flex flex-column flex-md-row" data-pagefind-ignore> 
             { similarEpisodes.map((similarEpisode) =>
                 <div class="col-lg-4 similarEpisode" > 
-                    <a href=`/${slugEp(similarEpisode)}` class="stretchMe" data-stretch=`//wsrv.nl/?url=ssl:mailta.pe/img/${similarEpisode.data.guestPic}&w=500&t=fit&il&q=90&output=webp&default=ssl:${SITE_BASE_URL.slice(8)}/img/${similarEpisode.data.guestPic}`>
+                    <a href=`/${slugEp(similarEpisode)}` class="stretchMe" data-stretch=`/img/${similarEpisode.data.guestPic}`>
                         <h2>{ similarEpisode.data.guest_name }</h2>
-                        <img src=`//wsrv.nl/?url=ssl:mailta.pe/img/${similarEpisode.data.musiColor}&w=500&t=fit&il&q=90&output=webp&default=ssl:${SITE_BASE_URL.slice(8)}/img/${similarEpisode.data.musiColor}` class="img-fluid re-musiColor"/>
+                        <img src=`/img/${similarEpisode.data.musiColor}` class="img-fluid re-musiColor"/>
                     </a>
                 </div>
             )}
