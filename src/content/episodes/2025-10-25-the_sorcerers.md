@@ -7,6 +7,7 @@ guest_color: trippy
 guestPic: the_sorcerers.jpg
 author: Anto
 writer: Anto
+illustrator: Pierre-Julien Fieux
 track1_title: Saif Abu Bakr & The Scorpions - Nile Waves
 track1_color: vibrant
 track1_link: https://sounds.mailta.pe/595/track1.mp3
