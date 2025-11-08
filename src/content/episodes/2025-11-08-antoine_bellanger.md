@@ -30,7 +30,8 @@ track7_title: Sessa - Revolução Interior
 track7_color: bliss
 track7_link: https://sounds.mailta.pe/597/track7.mp3
 ---
-This morning... 
+This morning, we are excited and honored to welcome Antoine Bellanger as our guest. Naturally, this episode reflects the artist himself: surprising, eclectic, slightly unconventional, yet sublime like a forest in autumn. Prepare to immerse yourself in the woods from the very first moments of listening, and join us as we venture to the mountains in 
+search of the living.
 
 # Antoine Bellanger's selection
 
@@ -60,7 +61,7 @@ Antoine Bellanger: "Dans mon parc de petits monstres, Stas Czekalski, est rentr�
 
 # ImaCrea's selection
 
-## [Antoine Bellanger](https://unjenesaisquoi.bandcamp.com) - Depuis les cimes
+## [Antoine Bellanger](https://antoinebellanger.hotglue.me/) - Depuis les cimes
 
 ImaCrea: "lorem ipsum" 
 
