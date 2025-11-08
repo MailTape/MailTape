@@ -4,6 +4,7 @@ pubDate: 2025-11-09
 category: "597"
 guest_name: Antoine Bellanger
 guest_color: trippy
+guestPic: guestpic597.jpg
 author: ImaCrea
 illustrator: Julie Wojtczak
 writer: ImaCrea
@@ -30,21 +31,49 @@ track7_color: bliss
 track7_link: https://sounds.mailta.pe/597/track7.mp3
 ---
 This morning... 
- # Guest's selection 
- ## Artist - Track 
- Guest: **"** lorem ipsum **"** 
- ## Artist - Track 
- Guest: **"** lorem ipsum **"** 
- ## Artist - Track 
- Guest: **"** lorem ipsum **"** 
- # Curator's selection 
- ## Artist - Track 
- Curator: **"** lorem ipsum **"** 
- ## Artist - Track 
- Curator: **"** lorem ipsum **"** 
- ## Artist - Track 
- Curator: **"** lorem ipsum **"** 
- ## Artist - Track 
- Curator: **"** lorem ipsum **"** 
 
- Thank you... 
+# Antoine Bellanger's selection
+
+J’écoute tout le temps beaucoup de nouvelles musiques plus ou moins bizarres et très différentes. Je garde mes préférées comme dans un petit parc de petits monstres qui peuvent apparaitre et disparaitre aussitôt. Et certains de ces disques ou rencontres restent parce qu’ils m’ouvrent des portes, confirment des chemins.
+
+*"I constantly listen to a lot of new, more or less weird, and very 
+different music. I keep my favorites like in a little park of small 
+monsters that can appear and disappear instantly. And some of these records or encounters stay because they open doors for me, confirming paths."*
+
+## Marc Namblard - High moorlands – electric roaring with brief clashes
+
+Antoine Bellanger: **"** J’ai rencontré Marc Namblard à un de ses workshops de fieldrecording où l’on avait passé la plupart du temps à écouter la Nature derrière un buisson dans la nuit. Alors, je suis rentré chez moi rassuré, avec le sentiment que oui, j’avais le droit de faire comme je le faisais, rester une après-midi à écouter, enregistrer les oiseaux, les ruisseaux. **"**
+
+*"I met Marc Namblard at one of his field recording workshops where we spent most of the time listening to nature behind a bush at night. So, I returned home reassured, with the feeling that yes, I had the right to do what I was doing—spending an afternoon listening to and recording the birds, the streams."*
+
+## Kali Malone - Spectacle of Ritual
+
+Antoine Bellanger: **"** Kali Malone me rappelle que l’on peut (doit ?) prendre son temps. Ses albums sont d’une beauté folle. Elle a un sens de la mélodie rare et merveilleux dans les musiques de drones ou expérimentales. Et puis elle joue de l’orgue, c’est beau l’orgue. Ca me renvoie à celui de mon grand père sur lequel je eu mes premières émotions musicales.  **"** 
+
+*"Kali Malone reminds me that one can (or should?) take their time. Her albums are incredibly beautiful. She has a rare and wonderful sense of melody in drone and experimental music. And she plays the organ; the organ is beautiful. It brings me back to my  grandfather's organ, where I had my first musical emotions."*
+
+## Staś Czekalski - Pogoda ducha
+
+Antoine Bellanger: **"** Dans mon parc de petits monstres, Stas Czekalski, est rentré sans prévenir avec tout le label Mondoj, pour y rester sans doute à tout jamais. Sa musique me va bien sans d’autres explications, parce que c’est bien. **"** 
+
+*"In my park of little monsters, Stas Czekalski has entered without warning, bringing along the entire Mondoj label, likely to stay forever. His music fits me well without further explanations, simply because it's good."*
+
+# ImaCrea's selection
+
+## Antoine Bellanger - Depuis les cimes
+
+ImaCrea: **"** lorem ipsum **"** 
+
+## Léonie Pernet - Acid Niger (Gael Rakotondrabe Rework)
+
+ImaCrea: **"** lorem ipsum **"** 
+
+## Alabaster DePlume - The Lucky Ones (feat. Danalogue)
+
+ImaCrea: **"** lorem ipsum **"** 
+
+## Sessa - Revolução Interior
+
+ImaCrea: **"** lorem ipsum **"** 
+
+ Thank you...
