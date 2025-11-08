@@ -86,4 +86,4 @@ ImaCrea: "Discovered during my late-night searches, I was blown away by this alb
 
 ImaCrea: "A gentle revolution that seeps in through music— that speaks to me completely. And was that what Antoine was thinking about when he walks and records the birds?"
 
-We appreciate you sharing this adventure with us! Special gratitude to Julie Wojtczak for her stunning illustration, and to Antoine Bellanger for joining us on Sunday and offering such an inspiring lineup. Until we meet again!
+We appreciate you sharing this adventure with us! Special gratitude to Julie Wojtczak for her stunning illustration, and to Antoine Bellanger for joining us on Sunday and offering such an inspiring lineup.
