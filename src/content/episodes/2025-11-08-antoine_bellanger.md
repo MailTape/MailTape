@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 pubDate: 2025-11-09
 category: "597"
 guest_name: Antoine Bellanger
