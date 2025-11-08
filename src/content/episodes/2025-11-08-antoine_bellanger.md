@@ -35,6 +35,7 @@ description: "This morning, we are excited and honored to welcome Antoine
   immerse yourself in the woods from the very first moments of listening, and
   join us as we venture to the mountains in search of the living."
 episode_URL: https://www.mailta.pe/597/antoine-bellanger/
+image: https://mailta.pe/img/fbPic507.jpg
 musiColor: musicolor597.png
 ---
 This morning, we are excited and honored to welcome Antoine Bellanger as our guest. You may remember his unique sound from some of his tracks featured in episodes [\#588](https://www.mailta.pe/588/gabriel-brady/) and [\#487](https://www.mailta.pe/487/vimala-pons/).
