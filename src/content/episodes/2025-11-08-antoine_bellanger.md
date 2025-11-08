@@ -29,9 +29,17 @@ track6_link: https://sounds.mailta.pe/597/track6.mp3
 track7_title: Sessa - Revolução Interior
 track7_color: bliss
 track7_link: https://sounds.mailta.pe/597/track7.mp3
+description: "This morning, we are excited and honored to welcome Antoine
+  Bellanger as our guest. Naturally, this episode reflects the artist himself:
+  surprising, eclectic, quirky, yet sublime like a forest in autumn. Prepare to
+  immerse yourself in the woods from the very first moments of listening, and
+  join us as we venture to the mountains in search of the living."
+episode_URL: https://www.mailta.pe/597/antoine-bellanger/
+musiColor: musicolor597.png
 ---
-This morning, we are excited and honored to welcome Antoine Bellanger as our guest. Naturally, this episode reflects the artist himself: surprising, eclectic, slightly unconventional, yet sublime like a forest in autumn. Prepare to immerse yourself in the woods from the very first moments of listening, and join us as we venture to the mountains in 
-search of the living.
+This morning, we are excited and honored to welcome Antoine Bellanger as our guest. You may remember his unique sound from some of his tracks featured in episodes [\#588](https://www.mailta.pe/588/gabriel-brady/) and [\#487](https://www.mailta.pe/487/vimala-pons/).
+
+Naturally, this episode reflects the artist himself: surprising, eclectic, quirky, yet sublime like a forest in autumn. Prepare to immerse yourself in the woods from the very first moments of listening, and join us as we venture to the mountains in search of the living.
 
 # Antoine Bellanger's selection
 
@@ -63,18 +71,18 @@ Antoine Bellanger: "Dans mon parc de petits monstres, Stas Czekalski, est rentr�
 
 ## [Antoine Bellanger](https://antoinebellanger.hotglue.me/) - Depuis les cimes
 
-ImaCrea: "lorem ipsum" 
+ImaCrea: "This captivating melody, I’ve listened to it so many times, especially with my friend Ametonyo Silva during our residency just a few weeks ago on the [Sentier des Lauzes](https://surlesentierdeslauzes.fr) (thank you again Ame!) The lyrics make you want to sing while watching the landscape and the leaves dance. I also love that there are multiple chapters within the same title, like a story unfolding." 
 
 ## [Léonie Pernet](https://leoniepernet.bandcamp.com/album/acid-niger) - Acid Niger (Gael Rakotondrabe Rework)
 
-ImaCrea: "lorem ipsum"
+ImaCrea: "I've listened to Léonie Pernet's latest album, [Poèmes Pulvérisés](https://leoniepernet.bandcamp.com/album/po-mes-pulv-ris-s), extensively. That said, I wasn't sure how it would fit into this particular episode, and then this newly reworked version by Gael Rakotondrabe emerges, showcasing an irresistible blend of delicate and poetic strength."
 
 ## [Alabaster DePlume](https://intlanthem.bandcamp.com) - The Lucky Ones (feat. Danalogue)
 
-ImaCrea: "lorem ipsum"
+ImaCrea: "Discovered during my late-night searches, I was blown away by this album. I'm just beginning to explore the world of Alabaster DePlume, and it excites me because I feel there is so much beauty to uncover!"
 
 ## [Sessa](https://sessa.bandcamp.com/) - Revolução Interior
 
-ImaCrea: "lorem ipsum"
+ImaCrea: "A gentle revolution that seeps in through music— that speaks to me completely. And was that what Antoine was thinking about when he walks and records the birds?"
 
- Thank you...
+We appreciate you sharing this adventure with us! Special gratitude to Julie Wojtczak for her stunning illustration, and to Antoine Bellanger for joining us on Sunday and offering such an inspiring lineup. Until we meet again!
