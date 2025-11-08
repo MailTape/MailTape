@@ -40,19 +40,19 @@ J’écoute tout le temps beaucoup de nouvelles musiques plus ou moins bizarres 
 different music. I keep my favorites like in a little park of small 
 monsters that can appear and disappear instantly. And some of these records or encounters stay because they open doors for me, confirming paths."*
 
-## Marc Namblard - High moorlands – electric roaring with brief clashes
+## [Marc Namblard](https://marcnamblard.bandcamp.com/album/brames-galets-sonores) - High moorlands – electric roaring with brief clashes
 
 Antoine Bellanger: "J’ai rencontré Marc Namblard à un de ses workshops de fieldrecording où l’on avait passé la plupart du temps à écouter la Nature derrière un buisson dans la nuit. Alors, je suis rentré chez moi rassuré, avec le sentiment que oui, j’avais le droit de faire comme je le faisais, rester une après-midi à écouter, enregistrer les oiseaux, les ruisseaux."
 
 *"I met Marc Namblard at one of his field recording workshops where we spent most of the time listening to nature behind a bush at night. So, I returned home reassured, with the feeling that yes, I had the right to do what I was doing—spending an afternoon listening to and recording the birds, the streams."*
 
-## Kali Malone - Spectacle of Ritual
+## [Kali Malone](https://kalimalone.bandcamp.com/) - Spectacle of Ritual
 
 Antoine Bellanger: "Kali Malone me rappelle que l’on peut (doit ?) prendre son temps. Ses albums sont d’une beauté folle. Elle a un sens de la mélodie rare et merveilleux dans les musiques de drones ou expérimentales. Et puis elle joue de l’orgue, c’est beau l’orgue. Ca me renvoie à celui de mon grand père sur lequel je eu mes premières émotions musicales."
 
 *"Kali Malone reminds me that one can (or should?) take their time. Her albums are incredibly beautiful. She has a rare and wonderful sense of melody in drone and experimental music. And she plays the organ; the organ is beautiful. It brings me back to my  grandfather's organ, where I had my first musical emotions."*
 
-## Staś Czekalski - Pogoda ducha
+## [Staś Czekalski](https://stasczekalski.bandcamp.com/) - Pogoda ducha
 
 Antoine Bellanger: "Dans mon parc de petits monstres, Stas Czekalski, est rentré sans prévenir avec tout le label Mondoj, pour y rester sans doute à tout jamais. Sa musique me va bien sans d’autres explications, parce que c’est bien."
 
@@ -60,19 +60,19 @@ Antoine Bellanger: "Dans mon parc de petits monstres, Stas Czekalski, est rentr�
 
 # ImaCrea's selection
 
-## Antoine Bellanger - Depuis les cimes
+## [Antoine Bellanger](https://unjenesaisquoi.bandcamp.com) - Depuis les cimes
 
 ImaCrea: "lorem ipsum" 
 
-## Léonie Pernet - Acid Niger (Gael Rakotondrabe Rework)
+## [Léonie Pernet](https://leoniepernet.bandcamp.com/album/acid-niger) - Acid Niger (Gael Rakotondrabe Rework)
 
 ImaCrea: "lorem ipsum"
 
-## Alabaster DePlume - The Lucky Ones (feat. Danalogue)
+## [Alabaster DePlume](https://intlanthem.bandcamp.com) - The Lucky Ones (feat. Danalogue)
 
 ImaCrea: "lorem ipsum"
 
-## Sessa - Revolução Interior
+## [Sessa](https://sessa.bandcamp.com/) - Revolução Interior
 
 ImaCrea: "lorem ipsum"
 
