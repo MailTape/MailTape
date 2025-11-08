@@ -18,7 +18,7 @@ track3_title: Staś Czekalski - Pogoda ducha
 track3_color: trippy
 track3_link: https://sounds.mailta.pe/597/track3.mp3
 track4_title: Antoine Bellanger - Depuis les cimes
-track4_color: bliss
+track4_color: trippy
 track4_link: https://sounds.mailta.pe/597/track4.mp3
 track5_title: Léonie Pernet - Acid Niger (Gael Rakotondrabe Rework)
 track5_color: trippy
