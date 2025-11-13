@@ -16,6 +16,7 @@ track3_title: Fred Again, Baxter Dury - These Are My Friends
 track3_color: dreamy
 track3_link: https://sounds.mailta.pe/XXX/track3.mp3
 track4_title: Joshua Idehen - Could Be Forever
+track4_color: vibrant
 track4_link: https://sounds.mailta.pe/XXX/track4.mp3
 track5_title: Nightmares on Wax, Yasiin Bey - Bang Bien
 track5_color: vibrant
