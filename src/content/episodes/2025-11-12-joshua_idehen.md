@@ -25,6 +25,7 @@ track6_link: https://sounds.mailta.pe/XXX/track6.mp3
 track7_title: Marijus Aleksa - As They Are
 track7_color: trippy
 track7_link: https://sounds.mailta.pe/XXX/track7.mp3
+episode_URL: https://mailta.pe/598/Joshua-Idehen/
 ---
 We are so full of joy to welcome our guest today ! This Sunday, Joshua Idehen gifts us a morning selection brimming with energy and vibrance. 
 
