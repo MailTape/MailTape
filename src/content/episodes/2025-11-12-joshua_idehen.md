@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 pubDate: 2025-11-16
 category: "598"
 guest_name: Joshua Idehen
