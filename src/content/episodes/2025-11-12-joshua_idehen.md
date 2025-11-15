@@ -30,9 +30,9 @@ track7_color: trippy
 track7_link: https://sounds.mailta.pe/XXX/track7.mp3
 episode_URL: https://mailta.pe/598/Joshua-Idehen/
 ---
-We are full of joy to welcome musician, spoken-word artist, and dear guest Joshua Idehen to MailTape this morning ! Based in Stockholm, he gifts us today with a Sunday selection crafted with care -- just the right mix to start the day with some dancing ;) 
+We are full of joy to welcome musician, spoken-word artist, and dear guest Joshua Idehen to MailTape this morning ! Based in Stockholm, he gifts us today with a Sunday selection crafted with care -- just the right mix to start the day with some dancing ;)  
 
-Weaving creative collaboration with producer Ludvig Parment, Joshua Idehen's discography is a true delight to discover. Each track brims with its own life force, balancing scenes and stories which at one instant catch your breath and then move to bring you a laugh the next. 
+Joshua Idehen's discography is a true delight to discover, brimming with energy and tracks balancing stories which at one instant catch your breath and then bring you a laugh the next. 
 
 Reflecting on his creative process, Joshua Idehen describes the music living in words, how they ripple with hidden rhythms. Speaking verses aloud, these words move under the tongue, revealing to him new contours of how they dance. Idehen's writing capturing the bouts of "now" and of joy, bringing us back to our bodies, to our friends, and to our neighbors. His albums thread connectivity, pulling us to wake from the doomscrolling and the news cycle dread, asking us to dance instead. 
 
@@ -56,18 +56,18 @@ Joshua Idehen joins us at the start of his tour and ahead of his upcoming album,
 
 ## Joshua Idehen - Could Be Forever
 
- Sarah: **"** absolutely beautiful :) **"** 
+ Sarah: **"** What a wonderful track, appearing on Idehen's Mum Does the Washing EP :) **"** 
 
-## Nightmares on Wax, Yasiin Bey - Bang Bien
+## Dar Disku, FLANAH - Alsutur
 
- Sarah: **"** lorem ipsum **"** 
+ Sarah: **"** lnspired by Egyptian disco movements, Dar Disku and FLANAH come together for their debut album.  **"** 
 
 ## Joshua Idehen - It Always Was
 
- Sarah: **"** lorem ipsum **"** 
+ Sarah: **"** Absolutely contagious the dancing on this track !  **"** 
 
 ## Nightmares on Wax, Yasiin Bey - Bang Bien
 
- Sarah: **"** lorem ipsum **"** 
+ Sarah: **"** And another high energy moment to finish off our Sunday. **"** 
 
 That's all for this morning, thank you so very much for starting your Sunday with us :) Our thanks to Joshua Idehen for his selection and to Thibault Daumain for this episode's stunning artwork.
