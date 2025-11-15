@@ -29,7 +29,7 @@ track7_color: trippy
 track7_link: https://sounds.mailta.pe/XXX/track7.mp3
 episode_URL: https://mailta.pe/598/Joshua-Idehen/
 ---
-MailTape is full of joy to welcome dear guest Joshua Idehen this morning ! The Stockholm-based artist gifts us today with a Sunday selection crafted with care -- just the right mix to start the day with some dancing ;) Each of Idehen's sorties brim with their own special momentum, woven with poems painting scenes ready to make you laugh and brush that deeper line (the one behind your throat, the one that plunges in a line into your sternum). 
+MailTape is full of joy to welcome musician, spoken-word artist, and dear guest Joshua Idehen this morning ! Based in Stockholm, he gifts us today with a Sunday selection crafted with care -- just the right mix to start the day with some dancing ;) Each of Idehen's sorties brim with their own special momentum, weaving  with poems painting scenes ready to make you laugh and hold you on that deeper line (the one behind your throat, the one that plunges in a line into your sternum). 
 
 # Guest's selection
 
