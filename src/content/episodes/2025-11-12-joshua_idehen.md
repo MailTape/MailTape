@@ -68,4 +68,4 @@ Joshua Idehen joins us at the start of his tour and ahead of his upcoming album,
 
  Sarah: **"** lorem ipsum **"** 
 
- Thank you...
+That's all for this morning, thank you so very much for starting your Sunday with us :) Our thanks to Joshua Idehen for his selection and to Thibault Daumain for this episode's stunning artwork.
