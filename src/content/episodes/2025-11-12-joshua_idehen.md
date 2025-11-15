@@ -12,10 +12,10 @@ track1_color: vibrant
 track1_link: https://sounds.mailta.pe/598/track1.mp3
 track2_title: Stromae - papaoutai
 track2_color: dreamy
-track2_link: https://sounds.mailta.pe/XXX/track2.mp3
+track2_link: https://sounds.mailta.pe/598/track2.mp3
 track3_title: Fred Again, Baxter Dury - These Are My Friends
 track3_color: dreamy
-track3_link: https://sounds.mailta.pe/XXX/track3.mp3
+track3_link: https://sounds.mailta.pe/598/track3.mp3
 track4_title: "Joshua Idehen - Could Be Forever "
 track4_color: vibrant
 track4_link: https://sounds.mailta.pe/XXX/track4.mp3
