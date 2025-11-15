@@ -52,7 +52,7 @@ Joshua Idehen joins us at the start of his tour and ahead of his upcoming album,
 
 # Curator's selection
 
-## Joshua Idehen - Could Be Forever
+## Joshua Idehen, Yttling Jazz - Illegal Hit
 
  Sarah: **"** absolutely beautiful :) **"** 
 
@@ -60,7 +60,7 @@ Joshua Idehen joins us at the start of his tour and ahead of his upcoming album,
 
  Sarah: **"** lorem ipsum **"** 
 
-## Joshua Idehen, Yttling Jazz - Illegal Hit 
+## Joshua Idehen - Could Be Forever
 
  Sarah: **"** lorem ipsum **"** 
 
