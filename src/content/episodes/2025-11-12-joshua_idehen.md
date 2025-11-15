@@ -16,16 +16,16 @@ track2_link: https://sounds.mailta.pe/XXX/track2.mp3
 track3_title: Fred Again, Baxter Dury - These Are My Friends
 track3_color: dreamy
 track3_link: https://sounds.mailta.pe/XXX/track3.mp3
-track4_title: "Joshua Idehen, Yttling Jazz - Illegal Hit "
+track4_title: "Joshua Idehen - Could Be Forever "
 track4_color: vibrant
 track4_link: https://sounds.mailta.pe/XXX/track4.mp3
 track5_title: Nightmares on Wax, Yasiin Bey - Bang Bien
 track5_color: vibrant
 track5_link: https://sounds.mailta.pe/XXX/track5.mp3
-track6_title: Joshua Idehen - Could Be Forever
+track6_title: Joshua Idehen - It Always Was
 track6_color: dreamy
 track6_link: https://sounds.mailta.pe/XXX/track6.mp3
-track7_title: Marijus Aleksa - As They Are
+track7_title: Nightmares on Wax, Yasiin Bey - Bang Bien
 track7_color: trippy
 track7_link: https://sounds.mailta.pe/XXX/track7.mp3
 episode_URL: https://mailta.pe/598/Joshua-Idehen/
@@ -54,7 +54,7 @@ Joshua Idehen joins us at the start of his tour and ahead of his upcoming album,
 
 # Curator's selection
 
-## Joshua Idehen, Yttling Jazz - Illegal Hit
+## Joshua Idehen - Could Be Forever
 
  Sarah: **"** absolutely beautiful :) **"** 
 
@@ -62,11 +62,11 @@ Joshua Idehen joins us at the start of his tour and ahead of his upcoming album,
 
  Sarah: **"** lorem ipsum **"** 
 
-## Joshua Idehen - Could Be Forever
+## Joshua Idehen - It Always Was
 
  Sarah: **"** lorem ipsum **"** 
 
-## Marijus Aleksa - As They Are
+## Nightmares on Wax, Yasiin Bey - Bang Bien
 
  Sarah: **"** lorem ipsum **"** 
 
