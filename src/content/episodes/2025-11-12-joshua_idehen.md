@@ -22,6 +22,7 @@ track4_link: https://sounds.mailta.pe/XXX/track4.mp3
 track5_title: Nightmares on Wax, Yasiin Bey - Bang Bien
 track5_color: vibrant
 track5_link: https://sounds.mailta.pe/XXX/track5.mp3
+track6_title: Yttling Jazz, Joshua Idehen - Illegal Hit
 track6_color: dreamy
 track6_link: https://sounds.mailta.pe/XXX/track6.mp3
 track7_title: Marijus Aleksa - As They Are
@@ -59,7 +60,7 @@ Joshua Idehen joins us at the start of his tour and ahead of his upcoming album,
 
  Sarah: **"** lorem ipsum **"** 
 
-## Joshua Idehen - It Always Was
+## Yttling Jazz, Joshua Idehen - Illegal Hit
 
  Sarah: **"** lorem ipsum **"** 
 
