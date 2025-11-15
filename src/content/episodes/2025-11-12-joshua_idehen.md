@@ -29,11 +29,9 @@ track7_color: trippy
 track7_link: https://sounds.mailta.pe/XXX/track7.mp3
 episode_URL: https://mailta.pe/598/Joshua-Idehen/
 ---
-MailTape is full of joy to welcome musician, spoken-word artist, and dear guest Joshua Idehen this morning ! Based in Stockholm, he gifts us today with a Sunday selection crafted with care -- just the right mix to start the day with some dancing ;) 
+We are full of joy to welcome musician, spoken-word artist, and dear guest Joshua Idehen to MailTape this morning ! Based in Stockholm, he gifts us today with a Sunday selection crafted with care -- just the right mix to start the day with some dancing ;) 
 
-Joshua Idehen's discography is a veritable joy to discover, each sortie brims with its own special momentum; worlds woven by his poems, carrying their own life force, balancing scenes at one moment ready to make you laugh and then the next catching your breath. 
-
-Describing his creative process, Joshua Idehen reflects on the music within words, how poetry ripples with its own rhythms and tones, an intrinsic music. 
+Joshua Idehen's discography is a true delight to discover. Each sortie brims with its own special momentum, weaving collaboration between producer Ludvig Parment and Idehen's poetry. These tracks seem to have their own life force, balancing scenes at one instant catching your breath and then at the next ready to make you laugh. Joshua Idehen describes the intrinsic music within words, rippling with hidden rhythms and tones. Speaking verses aloud, he explains that the words move under the tongue, and he discovers new contours about how they dance. Idehen's writing capturing the bouts of "now" and of joy, bringing us back to our bodies, to our friends, and to our neighbors. His albums thread connectivity, pulling us to wake from 
 
 Joshua Idehen joins us at the start of his tour and ahead of his upcoming album, I know you’re hurting, everyone is hurting, everyone is trying, you have got to try. We welcome him to MailTape just after the release of his latest sortie, It Always Was.
 
