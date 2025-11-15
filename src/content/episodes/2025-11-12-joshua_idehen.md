@@ -31,7 +31,7 @@ episode_URL: https://mailta.pe/598/Joshua-Idehen/
 ---
 MailTape is full of joy to welcome musician, spoken-word artist, and dear guest Joshua Idehen this morning ! Based in Stockholm, he gifts us today with a Sunday selection crafted with care -- just the right mix to start the day with some dancing ;) 
 
-Joshua Idehen joins us at the start of his tour and just ahead of his upcoming album, I know you’re hurting, everyone is hurting, everyone is trying, you have got to try. We are delighted to welcome him to MailTape following the release of his latest sortie, It Always Was. His discography is a veritable joy to discover, each of Idehen's sorties brim with their own special momentum; worlds woven by his poems, which trace scenes at once ready to make you laugh and touch your breath, holding it suspended.
+Joshua Idehen joins us at the start of his tour and ahead of his upcoming album, I know you’re hurting, everyone is hurting, everyone is trying, you have got to try. We welcome him to MailTape just after the release of his latest sortie, It Always Was. Idehen's discography is a veritable joy to discover, each sortie brims with its own special momentum; worlds woven by his poems, which trace and balance images at once ready to make you laugh and then touch your breath. 
 
 # Guest's selection
 
