@@ -16,13 +16,13 @@ track2_link: https://sounds.mailta.pe/XXX/track2.mp3
 track3_title: Fred Again, Baxter Dury - These Are My Friends
 track3_color: dreamy
 track3_link: https://sounds.mailta.pe/XXX/track3.mp3
-track4_title: Joshua Idehen - Could Be Forever
+track4_title: "Yttling Jazz, Joshua Idehen - Illegal Hit "
 track4_color: vibrant
 track4_link: https://sounds.mailta.pe/XXX/track4.mp3
 track5_title: Nightmares on Wax, Yasiin Bey - Bang Bien
 track5_color: vibrant
 track5_link: https://sounds.mailta.pe/XXX/track5.mp3
-track6_title: Yttling Jazz, Joshua Idehen - Illegal Hit
+track6_title: Joshua Idehen - Could Be Forever
 track6_color: dreamy
 track6_link: https://sounds.mailta.pe/XXX/track6.mp3
 track7_title: Marijus Aleksa - As They Are
