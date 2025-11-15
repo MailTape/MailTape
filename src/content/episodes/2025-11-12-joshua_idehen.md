@@ -60,7 +60,7 @@ Joshua Idehen joins us at the start of his tour and ahead of his upcoming album,
 
  Sarah: **"** lorem ipsum **"** 
 
-## Yttling Jazz, Joshua Idehen - Illegal Hit
+## Joshua Idehen, Yttling Jazz - Illegal Hit 
 
  Sarah: **"** lorem ipsum **"** 
 
