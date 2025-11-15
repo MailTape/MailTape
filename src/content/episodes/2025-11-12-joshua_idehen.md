@@ -29,7 +29,9 @@ track7_color: trippy
 track7_link: https://sounds.mailta.pe/XXX/track7.mp3
 episode_URL: https://mailta.pe/598/Joshua-Idehen/
 ---
-MailTape is full of joy to welcome musician, spoken-word artist, and dear guest Joshua Idehen this morning :) Based in Stockholm, he gifts us today with a Sunday selection crafted with care -- just the right mix to start the day with some dancing ;) Each of Idehen's sorties brim with their own special momentum, woven with poems tracing scenes at once ready to make you laugh and then hold your breath. 
+MailTape is full of joy to welcome musician, spoken-word artist, and dear guest Joshua Idehen this morning ! Based in Stockholm, he gifts us today with a Sunday selection crafted with care -- just the right mix to start the day with some dancing ;) 
+
+Joshua Idehen joins us at the start of his tour and just ahead of his upcoming album, I know you’re hurting, everyone is hurting, everyone is trying, you have got to try. We are delighted to welcome him to MailTape following the release of his latest sortie, It Always Was. His discography is a veritable joy to discover, each of Idehen's sorties brim with their own special momentum; worlds woven by his poems, which trace scenes at once ready to make you laugh and touch your breath, holding it suspended.
 
 # Guest's selection
 
