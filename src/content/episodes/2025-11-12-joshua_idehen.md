@@ -4,6 +4,7 @@ pubDate: 2025-11-16
 category: "598"
 guest_name: Joshua Idehen
 guest_color: vibrant
+guestPic: guestpic598.jpg
 author: Sarah
 illustrator: Thibault Daumain
 track1_title: Julia Bashmore, Sam Dew - Holding On
@@ -28,7 +29,7 @@ track7_color: trippy
 track7_link: https://sounds.mailta.pe/XXX/track7.mp3
 episode_URL: https://mailta.pe/598/Joshua-Idehen/
 ---
-We are so full of joy to welcome our guest today ! This Sunday, Joshua Idehen gifts us a morning selection brimming with energy and vibrance. 
+MailTape is full of joy to welcome dear guest Joshua Idehen this morning ! Today, Joshua Idehen gifts our Sunday with an absolutely vibrant selection crafted with care -- just the right mix to start the day with some dancing ;) Based in Stockholm, Joshua Idehen 
 
 # Guest's selection
 
@@ -50,15 +51,15 @@ We are so full of joy to welcome our guest today ! This Sunday, Joshua Idehen gi
 
  Sarah: **"** absolutely beautiful :) **"** 
 
-## Artist - Track
+## Nightmares on Wax, Yasiin Bey - Bang Bien
 
  Sarah: **"** lorem ipsum **"** 
 
-## Artist - Track
+## Joshua Idehen - It Always Was
 
  Sarah: **"** lorem ipsum **"** 
 
-## Artist - Track
+## Marijus Aleksa - As They Are
 
  Sarah: **"** lorem ipsum **"** 
 
