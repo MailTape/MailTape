@@ -9,7 +9,7 @@ author: Sarah
 illustrator: Thibault Daumain
 track1_title: Julia Bashmore, Sam Dew - Holding On
 track1_color: vibrant
-track1_link: https://sounds.mailta.pe/XXX/track1.mp3
+track1_link: https://sounds.mailta.pe/598/track1.mp3
 track2_title: Stromae - papaoutai
 track2_color: dreamy
 track2_link: https://sounds.mailta.pe/XXX/track2.mp3
@@ -32,7 +32,7 @@ episode_URL: https://mailta.pe/598/Joshua-Idehen/
 ---
 We are full of joy to welcome musician, spoken-word artist, and dear guest Joshua Idehen to MailTape this morning ! Based in Stockholm, he gifts us today with a Sunday selection crafted with care -- just the right mix to start the day with some dancing ;)  
 
-Our guest's discography is a true delight to discover, tracing stories which at one instant catch your breath and then bring a laugh the next. Reflecting on his creative process, Joshua Idehen describes the music living in words, how they ripple with hidden rhythms. Speaking verses aloud, these words move under the tongue, revealing to him new contours of how they dance. Idehen's writing capturing the bouts of "now" and of joy, bringing us back to our bodies, to our friends, and to our neighbors. His albums thread connectivity, pulling us to wake from the doomscrolling and the news cycle dread, asking us to dance instead. 
+Our guest's discography is a real delight to discover, where Idehen's writing traces stories that both catch your breath and bring a laugh. Reflecting on his creative process, Joshua Idehen describes the hidden rhythms living in words. Speaking his verses aloud, these words move under the tongue, revealing new contours of how they dance. Idehen's writing capturing the bouts of "now" and of joy, bringing us back to our bodies, to our friends, and to our neighbors. His albums thread connectivity, pulling us to wake from the doomscrolling and the news cycle dread, asking us to dance instead. 
 
 Joshua Idehen joins us at the start of his tour and ahead of his upcoming album, I know you’re hurting, everyone is hurting, everyone is trying, you have got to try. It's our pleasure to welcome him to MailTape just after the release of his latest sortie, It Always Was.
 
