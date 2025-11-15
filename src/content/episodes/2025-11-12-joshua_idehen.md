@@ -68,4 +68,4 @@ Joshua Idehen joins us at the start of his tour and ahead of his upcoming album,
 
  Sarah: **"** And another high energy moment to finish off our Sunday. **"** 
 
-That's all for this morning, thank you so very much for starting your Sunday with us :) Our thanks to Joshua Idehen for his selection and to Thibault Daumain for this episode's stunning artwork.
+That's all for this morning, thank you so very much for starting your Sunday with us :) Our thanks to Joshua Idehen for his vibrant selection and to Thibault Daumain for this episode's stunning artwork.
