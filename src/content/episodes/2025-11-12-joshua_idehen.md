@@ -24,7 +24,7 @@ track5_color: vibrant
 track5_link: https://sounds.mailta.pe/598/track5.mp3
 track6_title: Joshua Idehen - It Always Was
 track6_color: dreamy
-track6_link: https://sounds.mailta.pe/XXX/track6.mp3
+track6_link: https://sounds.mailta.pe/598/track6.mp3
 track7_title: Nightmares on Wax, Yasiin Bey - Bang Bien
 track7_color: trippy
 track7_link: https://sounds.mailta.pe/598/track7.mp3
