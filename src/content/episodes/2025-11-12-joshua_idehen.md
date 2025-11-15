@@ -29,7 +29,7 @@ track7_color: trippy
 track7_link: https://sounds.mailta.pe/XXX/track7.mp3
 episode_URL: https://mailta.pe/598/Joshua-Idehen/
 ---
-MailTape is full of joy to welcome dear guest Joshua Idehen this morning ! Today, Joshua Idehen gifts our Sunday with an absolutely vibrant selection crafted with care -- just the right mix to start the day with some dancing ;) Based in Stockholm, Joshua Idehen 
+MailTape is full of joy to welcome dear guest Joshua Idehen this morning ! Today, Joshua Idehen gifts our Sunday with a playlist crafted with care -- just the right mix to start the day with some dancing ;) Based in Stockholm, Joshua Idehen 
 
 # Guest's selection
 
