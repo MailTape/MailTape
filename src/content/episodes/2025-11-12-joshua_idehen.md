@@ -58,14 +58,14 @@ Joshua Idehen joins us at the start of his tour and ahead of his upcoming album,
 
 ## Eola - No Getting
 
- Sarah: **"** Eola is the project of Edwin Mathis White (Tonstartssbandht). This entire album, Dang, is a mesh of intricate loops and shrouded echoes, a misty a capella gospel :) **"** 
+ Sarah: **"** Eola is the project of Edwin Mathis White (Tonstartssbandht). This entire album, Dang, is a mesh of intricate loops and shrouded echoes, a misty a capella gospel :) Highly recommend if you're looking to daydream, the kind of loops you can get disappear in. **"** 
 
 ## Joshua Idehen - It Always Was
 
- Sarah: **"** Absolutely contagious the dancing on this track !  **"** 
+ Sarah: **"** Another track from Joshua Idehen, the latest sortie ! Producer Ludvig Parment's sampling is shining in this, these percussives seem to shimmer with their own momentum. **"** 
 
 ## Nightmares on Wax, Yasiin Bey - Bang Bien
 
- Sarah: **"** And another high energy moment to finish off our Sunday. **"** 
+Sarah: **"** At the last track already ?! Love the melodies in this one,  so creative :) **"** 
 
 That's all for this morning, thank you so very much for starting your Sunday with us :) Our thanks to Joshua Idehen for his vibrant selection and to Thibault Daumain for this episode's stunning artwork.
