@@ -58,7 +58,7 @@ Joshua Idehen joins us at the start of his tour and ahead of his upcoming album,
 
 ## Eola - No Getting
 
- Sarah: **"** Picking up on some of the gospel elements in the last track, couldn't resist. Eola is the project of Edwin Mathis White (Tonstartssbandht). This entire album, Dang, is a mesh of intricate loops, a misty a capella gospel shrouded in echoes. Beautiful :) **"** 
+ Sarah: **"** Eola is the project of Edwin Mathis White (Tonstartssbandht). This entire album, Dang, is a mesh of intricate loops and shrouded echoes, a misty a capella gospel. Beautiful :) **"** 
 
 ## Joshua Idehen - It Always Was
 
