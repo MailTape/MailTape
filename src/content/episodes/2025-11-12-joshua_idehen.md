@@ -62,7 +62,7 @@ Joshua Idehen joins us at the start of his tour and ahead of his upcoming album,
 
 ## Joshua Idehen - It Always Was
 
- Sarah: **"** Another track from Joshua Idehen, the latest sortie ! Producer Ludvig Parment's sampling is shining in this, these percussives seem to shimmer with their own momentum. **"** 
+ Sarah: **"** Another track from Joshua Idehen, the latest sortie ! Producer Ludvig Parment's sampling is shining in this, these percussives seem to shimmer with their own momentum. Again, Idehen's poetry traces those slippery feelings of the now and of joy, and in these verses, we're right beside him. **"** 
 
 ## Nightmares on Wax, Yasiin Bey - Bang Bien
 
