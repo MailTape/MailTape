@@ -54,7 +54,7 @@ Joshua Idehen joins us at the start of his tour and ahead of his upcoming album,
 
 ## Joshua Idehen - Could Be Forever
 
- Sarah: **"** This track arrives from Joshua Idehen's EP Mum Does the Washing. As always, producer Id These vignettes are painted with such care,  **"** 
+ Sarah: **"** Absolutely beautiful :) This track arrives from Joshua Idehen's EP Mum Does the Washing. The poem's descriptions  are painted with such care, there's this surge for  **"** 
 
 ## Eola - No Getting
 
