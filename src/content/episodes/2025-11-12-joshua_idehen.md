@@ -7,7 +7,7 @@ guest_color: vibrant
 guestPic: guestpic598.jpg
 author: Sarah
 illustrator: Thibault Daumain
-track1_title: Julia Bashmore, Sam Dew - Holding On
+track1_title: Julio Bashmore, Sam Dew - Holding On
 track1_color: vibrant
 track1_link: https://sounds.mailta.pe/598/track1.mp3
 track2_title: Stromae - papaoutai
@@ -44,7 +44,7 @@ Our guest's discography is a real delight to discover, where Idehen's stories bo
 
 # Guest's selection
 
-## [Julia Bashmore](https://soundcloud.com/JulioBashmoreMusic), [Sam Dew](https://www.discogs.com/artist/3016533-Sam-Dew?srsltid=AfmBOor0fdG_MhpZRQiJHID_io1k4COyU_9aUh4Pp3cI6fU30K22_ZCR) - Holding On
+## [Julio Bashmore](https://soundcloud.com/JulioBashmoreMusic), [Sam Dew](https://www.discogs.com/artist/3016533-Sam-Dew?srsltid=AfmBOor0fdG_MhpZRQiJHID_io1k4COyU_9aUh4Pp3cI6fU30K22_ZCR) - Holding On
 
  Joshua Idehen: **"** A song that beckons you to the dance floor, and if there isn't one nearby... You make one where you stand. A near perfect record in my opinion. **"** 
 
