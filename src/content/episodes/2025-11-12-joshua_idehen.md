@@ -58,7 +58,7 @@ Joshua Idehen joins us at the start of his tour and ahead of his upcoming album,
 
 ## Eola - B and O Blues
 
- Sarah: **"** Eola is the project of Edwin Mathis White (Tonstartssbandht). This entire album, Dang, is a mesh of intricate and haunting loops, an a capella gospel shrouded in echoes. **"** 
+ Sarah: **"** Eola is the project of Edwin Mathis White (Tonstartssbandht). This entire album, Dang, is a mesh of intricate loops, a misty a capella gospel shrouded in echoes. Beautiful :) **"** 
 
 ## Joshua Idehen - It Always Was
 
