@@ -56,9 +56,9 @@ Our guest's discography is a real delight to discover, where Idehen's stories bo
 
  Sarah: **"** Absolutely beautiful :) This track arrives from [Joshua Idehen](https://joshuaidehen.bandcamp.com/)'s EP [Mum Does the Washing](https://joshuaidehen.bandcamp.com/album/mum-does-the-washing-ep). The poem's descriptions  are painted with such care, Idehen reaches into these little moments and makes them fly :) I always tear up a bit when I hear that line, *I'm holding hands with all my daughters // New school uniform looking gorgeous.* **"** 
 
-## Eola - No Getting
+## [Eola](https://eola.bandcamp.com/) - No Getting
 
- Sarah: **"** Eola is the project of Edwin Mathis White (Tonstartssbandht). This entire album, Dang, is a mesh of intricate loops and shrouded echoes, a misty a capella gospel :) Highly recommend if you're looking to daydream, the kind of loops you can get disappear in. **"** 
+ Sarah: **"** Eola is the project of Edwin Mathis White ([Tonstartssbandht](https://tonstartssbandht.bandcamp.com/album/petunia)). This entire album, [Dang](https://eola.bandcamp.com/album/dang), is a mesh of intricate loops and shrouded echoes, a misty a capella gospel :) Highly recommend if you're looking to daydream, the kind of loops you can get disappear in. **"** 
 
 ## [Joshua Idehen](https://joshuaidehen.bandcamp.com/) - It Always Was
 
