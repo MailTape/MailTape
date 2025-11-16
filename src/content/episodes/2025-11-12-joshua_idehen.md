@@ -66,6 +66,6 @@ Joshua Idehen joins us at the start of his tour and ahead of his upcoming album,
 
 ## Nightmares on Wax, Yasiin Bey - Bang Bien
 
-Sarah: **"** At our last track already :0 I hadn't heard Yasiin Bey (Mos Def) sing like this before this collaboration. Love how these melodies climb and wander, so creative :) **"** 
+Sarah: **"** At our last track already :0 I hadn't heard Yasiin Bey (Mos Def) sing before this Nightmares on Wax collaboration. Love how these melodies climb and wander, so creative :) **"** 
 
 That's all for this morning, thank you so very much for starting your Sunday with us :) Our thanks to Joshua Idehen for his vibrant selection and to Thibault Daumain for this episode's stunning artwork.
