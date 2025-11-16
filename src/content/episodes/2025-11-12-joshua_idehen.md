@@ -28,7 +28,13 @@ track6_link: https://sounds.mailta.pe/598/track6.mp3
 track7_title: Nightmares on Wax, Yasiin Bey - Bang Bien
 track7_color: trippy
 track7_link: https://sounds.mailta.pe/598/track7.mp3
+description: We are full of joy to welcome musician, spoken-word artist, and
+  dear guest Joshua Idehen to MailTape this morning ! Based in Stockholm, he
+  gifts us today with a Sunday selection crafted with care -- just the right mix
+  to start the day with some dancing ;)
 episode_URL: https://mailta.pe/598/Joshua-Idehen/
+image: https://mailta.pe/img/fbPic598.png
+musiColor: fbpic598.png
 ---
 We are full of joy to welcome musician, spoken-word artist, and dear guest [Joshua Idehen](https://joshuaidehen.bandcamp.com/) to MailTape this morning ! Based in Stockholm, he gifts us today with a Sunday selection crafted with care -- just the right mix to start the day with some dancing ;)  
 
