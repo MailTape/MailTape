@@ -19,7 +19,7 @@ track3_link: https://sounds.mailta.pe/598/track3.mp3
 track4_title: "Joshua Idehen - Could Be Forever "
 track4_color: vibrant
 track4_link: https://sounds.mailta.pe/598/track4.mp3
-track5_title: Eola - B and O Blues
+track5_title: Eola - No Getting
 track5_color: vibrant
 track5_link: https://sounds.mailta.pe/598/track5.mp3
 track6_title: Joshua Idehen - It Always Was
@@ -56,7 +56,7 @@ Joshua Idehen joins us at the start of his tour and ahead of his upcoming album,
 
  Sarah: **"** What a wonderful track, appearing on Idehen's Mum Does the Washing EP :) **"** 
 
-## Eola - B and O Blues
+## Eola - No Getting
 
  Sarah: **"** Eola is the project of Edwin Mathis White (Tonstartssbandht). This entire album, Dang, is a mesh of intricate loops, a misty a capella gospel shrouded in echoes. Beautiful :) **"** 
 
