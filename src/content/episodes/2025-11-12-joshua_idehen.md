@@ -32,7 +32,7 @@ episode_URL: https://mailta.pe/598/Joshua-Idehen/
 ---
 We are full of joy to welcome musician, spoken-word artist, and dear guest Joshua Idehen to MailTape this morning ! Based in Stockholm, he gifts us today with a Sunday selection crafted with care -- just the right mix to start the day with some dancing ;)  
 
-Our guest's discography is a real delight to discover, where Idehen's writing traces stories that both catch your breath and bring a laugh. Reflecting on his creative process, Joshua Idehen describes the hidden rhythms living in words. Speaking his verses aloud, these words move under the tongue, revealing new contours of how they dance. Idehen's writing capturing the bouts of "now" and of joy, bringing us back to our bodies, to our friends, and to our neighbors. His albums thread connectivity, pulling us to wake from the doomscrolling and the news cycle dread, asking us to dance instead. 
+Our guest's discography is a real delight to discover, where Idehen's stories both bring you to laugh and catch your breath. Reflecting on his creative process, Joshua Idehen describes the hidden rhythms living in words. Speaking his verses aloud, these words move under the tongue, revealing new contours of how they dance. Idehen's writing capturing the bouts of "now" and of joy, bringing us back to our bodies, to our friends, and to our neighbors. His albums thread connectivity, pulling us to wake from the doomscrolling and the news cycle dread, asking us to dance instead. 
 
 Joshua Idehen joins us at the start of his tour and ahead of his upcoming album, I know you’re hurting, everyone is hurting, everyone is trying, you have got to try. It's our pleasure to welcome him to MailTape just after the release of his latest sortie, It Always Was.
 
@@ -62,7 +62,7 @@ Joshua Idehen joins us at the start of his tour and ahead of his upcoming album,
 
 ## Joshua Idehen - It Always Was
 
- Sarah: **"** Another track from Joshua Idehen, the latest sortie ! Producer Ludvig Parment's sampling is shining in this, these percussives seem to shimmer with their own momentum. Again, Idehen's poetry traces those slippery feelings of the now and of joy, and in these verses, we're right beside him. **"** 
+ Sarah: **"** Another track from Joshua Idehen, the latest sortie ! Producer Ludvig Parment's sampling is shining in this, these percussives seem to shimmer with their own momentum. Again, Idehen's poetry follows those slippery feelings of the now and of joy, and in these verses, we're right beside him :) **"** 
 
 ## Nightmares on Wax, Yasiin Bey - Bang Bien
 
