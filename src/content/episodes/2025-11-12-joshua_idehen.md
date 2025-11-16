@@ -40,7 +40,7 @@ We are full of joy to welcome musician, spoken-word artist, and dear guest [Josh
 
 Our guest's discography is a real delight to discover, where Idehen's stories both bring you to laugh and catch your breath. Reflecting on his creative process, [Joshua Idehen](https://joshuaidehen.bandcamp.com/) describes the hidden rhythms living in words. Speaking his verses aloud, these words move under the tongue, revealing new contours of how they dance. Idehen's writing capturing the bouts of "now" and of joy, bringing us back to our bodies, to our friends, and to our neighbors. His albums thread connectivity, pulling us to wake from the doomscrolling and the news cycle dread, asking us to dance instead. 
 
-[Joshua Idehen](https://joshuaidehen.bandcamp.com/) joins us at the start of his tour and ahead of his upcoming album, I know you’re hurting, everyone is hurting, everyone is trying, you have got to try. It's our pleasure to welcome him to MailTape just after the release of his latest sortie, It Always Was.
+[Joshua Idehen](https://joshuaidehen.bandcamp.com/) joins us at the start of his tour and ahead of his upcoming album, [I know you’re hurting, everyone is hurting, everyone is trying, you have got to try](https://joshuaidehen.bandcamp.com/album/i-know-you-re-hurting-everyone-is-hurting-everyone-is-trying-you-have-got-to-try). It's our pleasure to welcome him to MailTape just after the release of his latest sortie, [It Always Was](https://joshuaidehen.bandcamp.com/track/it-always-was-2).
 
 # Guest's selection
 
