@@ -54,11 +54,11 @@ Joshua Idehen joins us at the start of his tour and ahead of his upcoming album,
 
 ## Joshua Idehen - Could Be Forever
 
- Sarah: **"** What a wonderful track, appearing on Idehen's Mum Does the Washing EP :)  **"** 
+ Sarah: **"** This track arrives from Joshua Idehen's EP Mum Does the Washing. As always, producer Id These vignettes are painted with such care,  **"** 
 
 ## Eola - No Getting
 
- Sarah: **"** Eola is the project of Edwin Mathis White (Tonstartssbandht). This entire album, Dang, is a mesh of intricate loops and shrouded echoes, a misty a capella gospel. Beautiful :) **"** 
+ Sarah: **"** Eola is the project of Edwin Mathis White (Tonstartssbandht). This entire album, Dang, is a mesh of intricate loops and shrouded echoes, a misty a capella gospel :) **"** 
 
 ## Joshua Idehen - It Always Was
 
