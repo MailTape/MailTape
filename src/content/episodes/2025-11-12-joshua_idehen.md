@@ -64,8 +64,8 @@ Our guest's discography is a real delight to discover, where Idehen's stories bo
 
  Sarah: **"** Another track from Joshua Idehen, the latest sortie ! Producer Ludvig Parment's sampling is shining in this, these percussives seem to shimmer with their own momentum. Again, Idehen's poetry follows those slippery feelings of the now and of joy, and in these verses, we're right beside him :) **"** 
 
-## Nightmares on Wax, Yasiin Bey - Bang Bien
+## [Nightmares on Wax](https://nightmaresonwax.bandcamp.com/track/bang-bien-feat-yasiin-bey), [Yasiin Bey](https://bandcamp.com/discover/yasiin-bey) - Bang Bien
 
-Sarah: **"** At our last track already :0 I hadn't heard Yasiin Bey (Mos Def) sing before this Nightmares on Wax collaboration. Love how these melodies climb and wander, so creative :) **"** 
+Sarah: **"** At our last track already :0 I hadn't heard Yasiin Bey (Mos Def) sing before this [collaboration](https://nightmaresonwax.bandcamp.com/track/bang-bien-feat-yasiin-bey) with Nightmares on Wax[](https://nightmaresonwax.bandcamp.com/track/bang-bien-feat-yasiin-bey). Love how these melodies climb and wander, so creative :) **"** 
 
 That's all for this morning, thank you so very much for starting your Sunday with us :) Our thanks to [Joshua Idehen](https://joshuaidehen.bandcamp.com/) for his vibrant selection and to Thibault Daumain for this episode's stunning artwork.
