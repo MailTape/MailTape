@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 pubDate: 2025-11-30
 category: "600"
 guest_name: Antoine Ferris
