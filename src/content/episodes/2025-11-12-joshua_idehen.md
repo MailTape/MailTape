@@ -50,7 +50,7 @@ Our guest's discography is a real delight to discover, where Idehen's stories bo
 
 ## [Stromae](https://soundcloud.com/STROMAE) - papaoutai
 
- Joshua Idehen: **"** DID YOU KNOW Stromae is a weird anagram of Maestro? Anyway, this is an absolute storm of a track with probably the one of the best music videos I have ever seen. I've described Stromae as Kanye West but French and all of the bad bits tossed out and I stand by that description **"** 
+ Joshua Idehen: **"** DID YOU KNOW Stromae is a weird anagram of Maestro? Anyway, this is an absolute storm of a track with probably the one of the best music videos I have ever seen. I've described Stromae as Kanye West but Belgian and all of the bad bits tossed out and I stand by that description **"** 
 
 ## [Fred Again](https://www.fredagain.com/), [Baxter Dury](https://heavenlyrecordings.com/artist/baxter-dury-2/) - These Are My Friends
 
