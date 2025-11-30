@@ -39,6 +39,7 @@ description: >
   Today's weather woman is Hélène Barbier, a Montrealer who knows a thing or two about juggling melancholy and playfulness. A few days ago, she released her third, very personal album, an ode to these contrasting emotions. Emotions that stir us, as much as they make us feel alive, if only we listen. So, take a deep breath, and let's start by listening to this episode, made with lots of tenderness.
 episode_URL: https://mailta.pe/599/Helene-Barbier/
 image: ""
+musiColor: musicolor599.png
 ---
 This morning it’s the mist. We search in vain for a few rays of sunshine in a grey sky. And failing to find any, we listen to the latest MailTape selection, because we know that there are bound to be some bright tracks hidden there, likely to brighten our day and give us good reasons to smile.
 
