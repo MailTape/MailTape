@@ -82,6 +82,5 @@ exactly what I respect in music. **"**
  Anto: **"** I saw there was a connection between the work of Hélène Boucher and Cate Le bon, so I'm taking the opportunity to share this little nugget that's been hanging on my MP3 player for years. A ballad just the way we like it. A truly sad song in its lyrics, but which, paradoxically, sounds a bit like a "whatever" kind of acceptance. Life is full of inevitabilities that we sometimes have to accept. Since we can't do anything about it, so be it. It doesn't prevent sadness, but it makes things a little more beautiful. That's what this song reminds me of every time I listen to it. **"** 
 
  That's all for today.
-Thanks again to [Hélène Barbier](https://helenebarbier.bandcamp.com/music) for sharing these lovely songs. Thanks to Le Cap for the connection. And thanks to Péji for the illustration!
-
+Thanks again to [Hélène Barbier](https://helenebarbier.bandcamp.com/music) for sharing these lovely songs. Thanks to Le Cap for the connection. And thanks to Péji for the illustration!\
 See you soon for new adventures!
