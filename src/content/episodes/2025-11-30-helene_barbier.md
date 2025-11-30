@@ -26,7 +26,7 @@ track5_link: https://sounds.mailta.pe/599/track5.mp3
 track6_title: Cindy Lee – Stone Faces
 track6_color: vibrant
 track6_link: https://sounds.mailta.pe/599/track6.mp3
-track7_title: Cate Lebon – He’s leaving
+track7_title: Cate Le bon – He’s leaving
 track7_color: bliss
 track7_link: https://sounds.mailta.pe/599/track7.mp3
 description: >
