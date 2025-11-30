@@ -26,7 +26,7 @@ track5_link: https://sounds.mailta.pe/599/track5.mp3
 track6_title: Cindy Lee – Stone Faces
 track6_color: vibrant
 track6_link: https://sounds.mailta.pe/599/track6.mp3
-track7_title: Cate Le bon – He’s leaving
+track7_title: Cate Le Bon – He’s leaving
 track7_color: bliss
 track7_link: https://sounds.mailta.pe/599/track7.mp3
 description: >
@@ -77,9 +77,9 @@ exactly what I respect in music. **"**
 
  Anto: **"** Here's a track stuck in the middle of [an album well provided](https://cindylee.bandcamp.com/album/diamond-jubilee) (34 tracks!). I love it for its nonchalance, its ambivalent structure, from a rhythm to another, with this thought caught red-handed, as if unexpectedly surprised when it thought it was alone. This is just an excerpt, only an excerpt, which I hope will make you want to listen to the rest of the album, a little gem of indie rock with a touch of vintage charm that delightfully explodes a whole host of silly conventions. A real treat! **"** 
 
-## [Cate Le bon](https://catelebon.bandcamp.com/music) – He’s leaving
+## [Cate Le Bon](https://catelebon.bandcamp.com/music) – He’s leaving
 
- Anto: **"** I saw there was a connection between the work of Hélène Boucher and Cate Le bon, so I'm taking the opportunity to share this little nugget that's been hanging on my MP3 player for years. A ballad just the way we like it. A truly sad song in its lyrics, but which, paradoxically, sounds a bit like a "whatever" kind of acceptance. Life is full of inevitabilities that we sometimes have to accept. Since we can't do anything about it, so be it. It doesn't prevent sadness, but it makes things a little more beautiful. That's what this song reminds me of every time I listen to it. **"** 
+ Anto: **"** I saw there was a connection between the work of Hélène Boucher and Cate Le Bon, so I'm taking the opportunity to share this little nugget that's been hanging on my MP3 player for years. A ballad just the way we like it. A truly sad song in its lyrics, but which, paradoxically, sounds a bit like a "whatever" kind of acceptance. Life is full of inevitabilities that we sometimes have to accept. Since we can't do anything about it, so be it. It doesn't prevent sadness, but it makes things a little more beautiful. That's what this song reminds me of every time I listen to it. **"** 
 
  That's all for today.
 Thanks again to [Hélène Barbier](https://helenebarbier.bandcamp.com/music) for sharing these lovely songs. Thanks to Le Cap for the connection. And thanks to Péji for the illustration!\
