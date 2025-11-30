@@ -77,7 +77,7 @@ exactly what I respect in music. **"**
 
  Anto: **"** Here's a track stuck in the middle of [an album well provided](https://cindylee.bandcamp.com/album/diamond-jubilee) (34 tracks!). I love it for its nonchalance, its ambivalent structure, from a rhythm to another, with this thought caught red-handed, as if unexpectedly surprised when it thought it was alone. This is just an excerpt, only an excerpt, which I hope will make you want to listen to the rest of the album, a little gem of indie rock with a touch of vintage charm that delightfully explodes a whole host of silly conventions. A real treat! **"** 
 
-## [Cate Lebon](https://catelebon.bandcamp.com/music) – He’s leaving
+## [Cate Le bon](https://catelebon.bandcamp.com/music) – He’s leaving
 
  Anto: **"** I saw there was a connection between the work of Hélène Boucher and Cate Le bon, so I'm taking the opportunity to share this little nugget that's been hanging on my MP3 player for years. A ballad just the way we like it. A truly sad song in its lyrics, but which, paradoxically, sounds a bit like a "whatever" kind of acceptance. Life is full of inevitabilities that we sometimes have to accept. Since we can't do anything about it, so be it. It doesn't prevent sadness, but it makes things a little more beautiful. That's what this song reminds me of every time I listen to it. **"** 
 
