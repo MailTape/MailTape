@@ -71,7 +71,7 @@ exactly what I respect in music. **"**
 
 ## [Rozi Plain](https://roziplain.bandcamp.com/music) - Spot Thirteen
 
- Anto: **"** I discovered Rozi Plain in an episode of MailTape (thanks Anaïs!), and then I went to listen to the rest of her music. I fell in love, especially with this track which, despite the years, is still just as delightful for me. I almost could have added it to this selection, but I also really love her [latest album](https://roziplain.bandcamp.com/album/prize), released in 2023, and particularly the gentleness of "Spot Thirteen." The kind of cozy atmosphere that makes you feel good. Rozi Plain is my favorite herbal tea companion, the best ally for those chill, relaxing moments when I take the time to unwind and recharge. **"** 
+ Anto: **"** I discovered Rozi Plain in an episode of MailTape (thanks Anaïs!), and then I went to listen to the rest of her music. I fell in love, especially with [this track](https://www.youtube.com/watch?v=TegJTI-S2Og) which, despite the years, is still just as delightful for me. I almost could have added it to this selection, but I also really love her [latest album](https://roziplain.bandcamp.com/album/prize), released in 2023, and particularly the gentleness of "Spot Thirteen." The kind of cozy atmosphere that makes you feel good. Rozi Plain is my favorite herbal tea companion, the best ally for those chill, relaxing moments when I take the time to unwind and recharge. **"** 
 
 ## [Cindy Lee](https://cindylee.bandcamp.com/music) – Stone Faces
 
