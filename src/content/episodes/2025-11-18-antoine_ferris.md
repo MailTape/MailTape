@@ -1,6 +1,6 @@
 ---
 published: true
-pubDate: 2025-12-14
+pubDate: 2025-12-15
 category: "600"
 guest_name: Antoine Ferris
 guest_color: trippy
