@@ -4,6 +4,7 @@ pubDate: 2025-12-14
 category: "600"
 guest_name: Antoine Ferris
 guest_color: trippy
+guestPic: guestpic600.jpg
 author: ImaCrea
 track1_title: Lukas Koenig - Full Mantis (ft. Guilty Simpson)
 track1_color: rough
