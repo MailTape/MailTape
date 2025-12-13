@@ -33,6 +33,9 @@ collections:
     sortable_fields: ['pubDate','guest_name','category']
     delete: false
     view_filters:
+      - label: "Aloyse"
+        field: author
+        pattern: 'Aloyse'
       - label: "Anaïs"
         field: author
         pattern: 'Anaïs G'
