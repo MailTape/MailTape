@@ -38,6 +38,8 @@ description: This morning, we're extremely grateful to celebrate our 600th
   mentioned he’s about to release an album soon, so be sure to keep an eye out
   for it.
 episode_URL: https://www.mailta.pe/600/antoine-ferris/
+image: https://mailta.pe/img/fbPic600.jpg
+musiColor: musicolor600.png
 ---
 This morning, we're extremely grateful to celebrate our **600th episode**! We're humbled to have you with us for our weekly musical rendezvous. Recently, we’ve received messages from many of you sharing that you've been onboard for years, and what a heartwarming feeling that is!
 
