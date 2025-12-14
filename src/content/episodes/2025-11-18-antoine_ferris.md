@@ -6,6 +6,8 @@ guest_name: Antoine Ferris
 guest_color: trippy
 guestPic: guestpic600.jpg
 author: ImaCrea
+illustrator: Noémie Dijon
+writer: ImaCrea
 track1_title: Lukas Koenig - Full Mantis (ft. Guilty Simpson)
 track1_color: rough
 track1_link: https://sounds.mailta.pe/600/track1.mp3
@@ -28,7 +30,13 @@ track7_title: Tortoise - Works and Days
 track7_color: dreamy
 track7_link: https://sounds.mailta.pe/600/track7.mp3
 ---
-This morning... 
+This morning, we're extremely grateful to celebrate our **600th episode**! We're humbled to have you with us for our weekly musical rendezvous. Recently, we’ve received messages from many of you sharing that you've been onboard for years, and what a heartwarming feeling that is! Don't hesitate to email us and share your feelings; it's really beautiful. Whether you’ve been with us for a decade or just arrived, the difference isn’t so significant. As this decade has passed, life has moved on—some of us became parents, while others got busier with various commitments. It’s like a garden we’ve been sowing: it's growing and flourishing, but it requires constant work and care. Yet, it's also incredibly rewarding. What truly matters is that, at this very moment, as you're reading this, we're together. Maybe not simultaneously, but we’re sharing something meaningful and making it real.
+
+As we craft these episodes—inviting inspiring guests, selecting music, illustrating, and writing—you’re here, activating it by listening, sharing it with loved ones, putting it on speakers, discovering artists, dancing, attending their concerts, supporting their art... This web of connection vibrates with energy, allowing it to exist and connecting us through music. It’s the universal language of the living, abstract vibrations in the air, composing rhythms enchanted by an infinite palette of sounds.
+
+These vibrations make us feel alive and joyful. We are very honored to have [Antoine Ferris](https://baraqueafree.bandcamp.com/track/coume-sourde) with us this morning. Experimentation and improvisation are his fields of research. Pouring his imagination into his instruments, he brushes abstract mental landscapes that remind me of Gerhard Richter's paintings. He mentioned he’s about to release an album soon, so be sure to keep an eye out for it.
+
+And for now, let the music play as we embark on a journey through a beautiful forest of sounds and creation.
 
 # Guest's selection
 
