@@ -11,18 +11,26 @@ writer: Anto
 track1_title: Eddie Drennon & The B.B.S. Unlimited - Do what You gotta Do
 track1_color: bliss
 track1_link: https://sounds.mailta.pe/605/track1.mp3
+track2_title: René Costy – Scrabble
 track2_color: bliss
 track2_link: https://sounds.mailta.pe/605/track2.mp3
+track3_title: Zulema - Wanna be where you are
 track3_color: vibrant
 track3_link: https://sounds.mailta.pe/605/track3.mp3
+track4_title: Dj Marrrtin - Summit Break
 track4_color: vibrant
 track4_link: https://sounds.mailta.pe/605/track4.mp3
+track5_title: Alexander O'Neal - You Were Meant To Be My Lady (Buscrates 16-Bit Groove Mix)
 track5_color: bliss
 track5_link: https://sounds.mailta.pe/605/track5.mp3
+track6_title: Spanky Wilson & the Quantic Soul Orchestra - Don't Joke With a Hungry Man
 track6_color: vibrant
 track6_link: https://sounds.mailta.pe/605/track6.mp3
+track7_title: Sababa 5 & Yurika - Tokyo Midnight – 東京ミッドナイト
 track7_color: trippy
 track7_link: https://sounds.mailta.pe/605/track7.mp3
+episode_URL: https://mailta.pe/605/Dj-Marrrtin/
+image: https://mailta.pe/img/fbPic605.png
 ---
 This morning... 
  # Guest's selection 
