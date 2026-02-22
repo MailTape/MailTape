@@ -34,6 +34,7 @@ description: This morning we have the privilege of welcoming an artist whose
   fifteen years.
 episode_URL: https://mailta.pe/605/Dj-Marrrtin/
 image: https://mailta.pe/img/fbPic605.png
+musiColor: musicolor605.png
 ---
 This morning we have the privilege of welcoming an artist whose work you've probably heard if you've attended a breakdance battle in the last fifteen years. The man is called DJ Marrrtin, but he can also be found hidden behind the suave and psychedelic beats of [Lord Paramour](https://stereophonk.bandcamp.com/album/doom-2), behind the high-energy house of [Aktshun](https://stereophonk.bandcamp.com/album/reloaded), in hip-hop boom-bap style with [Tino](https://stereophonk.bandcamp.com/album/la-pie-bavarde), and obviously within the legendary duo [Funky Bijou](https://stereophonk.bandcamp.com/album/five-2). 
 
