@@ -21,10 +21,13 @@ track4_title: Nathan Fake - Sunlight on Saturn
 track4_color: trippy
 track4_link: https://sounds.mailta.pe/606/track4.mp3
 track5_title: "Irini - Sweet Charlotte "
+track5_color: dreamy
 track5_link: https://sounds.mailta.pe/606/track5.mp3
 track6_title: s8jfou - Thoughts
+track6_color: vibrant
 track6_link: https://sounds.mailta.pe/606/track6.mp3
 track7_title: Koi - Sol Oculto
+track7_color: trippy
 track7_link: https://sounds.mailta.pe/606/track7.mp3
 ---
 This morning... 
