@@ -32,7 +32,7 @@ track7_link: https://sounds.mailta.pe/606/track7.mp3
 ---
 This morning... 
 
-# Guest's selection
+# Nathan Fake's selection
 
 ## Chemical Brothers & Hope Sandoval - Asleep from Day
 
@@ -46,7 +46,7 @@ ImaCrea: **"** A lush bubblebath of a track, one of my favourite of actress's. I
 
 ImaCrea: **"** Perfect early 2000s electronica. This track is so hyperreal and twinkly, lassi nikko was always quite out on his own with his music i think. I still listen to all his stuff to this day. **"** 
 
-# Curator's selection
+# MailTape's selection
 
 ## Nathan Fake - Sunlight on Saturn
 
