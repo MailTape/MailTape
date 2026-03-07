@@ -50,18 +50,18 @@ ImaCrea: **"** Perfect early 2000s electronica. This track is so hyperreal and t
 
 ## Nathan Fake - Sunlight on Saturn
 
-ImaCrea: **"** lorem ipsum **"** 
+Nathan Fake: **"** lorem ipsum **"** 
 
 ## Irini - Sweet Charlotte 
 
-ImaCrea: **"** lorem ipsum **"** 
+Nathan Fake: **"** lorem ipsum **"** 
 
 ## s8jfou - Thoughts
 
-ImaCrea: **"** lorem ipsum **"** 
+Nathan Fake: **"** lorem ipsum **"** 
 
 ## Koi - Sol Oculto
 
- Curator: **"** lorem ipsum **"** 
+Nathan Fake: **"** lorem ipsum **"** 
 
  Thank you...
