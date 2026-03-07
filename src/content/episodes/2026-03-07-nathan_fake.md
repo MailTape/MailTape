@@ -36,11 +36,11 @@ This morning...
 
 ## Chemical Brothers & Hope Sandoval - Asleep from Day
 
-ImaCrea: **"**A perfect breezy summer track, so bright and organic, and hope sandoval's voice sounds so cinematic and beautifully vintage.**"** 
+ImaCrea: **"** A perfect breezy summer track, so bright and organic, and hope sandoval's voice sounds so cinematic and beautifully vintage. **"** 
 
 ## Actress - Hubble
 
-ImaCrea: **"**A lush bubblebath of a track, one of my favourite of actress's. I've no idea how actress makes his stuff and that's one of the many reasons i love it.**"** 
+ImaCrea: **"** A lush bubblebath of a track, one of my favourite of actress's. I've no idea how actress makes his stuff and that's one of the many reasons i love it. **"** 
 
 ## Brothomstates - Mdrmx
 
