@@ -30,38 +30,39 @@ track7_title: Koi - Sol Oculto
 track7_color: trippy
 track7_link: https://sounds.mailta.pe/606/track7.mp3
 ---
-This morning... 
+This morning, we dive into a collection curated by our dear guest \*\*Nathan Fake\*\*. You'll experience a rich tapestry of sounds that evoke the warmth of the coming spring days and the exploration of otherworldly 
+landscapes. This episode includes tracks that showcase not only artistic brilliance but also personal and soulful evocations.
 
 # Nathan Fake's selection
 
 ## Chemical Brothers & Hope Sandoval - Asleep from Day
 
-ImaCrea: **"** A perfect breezy summer track, so bright and organic, and hope sandoval's voice sounds so cinematic and beautifully vintage. **"** 
+Nathan Fake: **"** A perfect breezy summer track, so bright and organic, and hope sandoval's voice sounds so cinematic and beautifully vintage. **"** 
 
 ## Actress - Hubble
 
-ImaCrea: **"** A lush bubblebath of a track, one of my favourite of actress's. I've no idea how actress makes his stuff and that's one of the many reasons i love it. **"** 
+Nathan Fake: **"** A lush bubblebath of a track, one of my favourite of actress's. I've no idea how actress makes his stuff and that's one of the many reasons i love it. **"** 
 
 ## Brothomstates - Mdrmx
 
-ImaCrea: **"** Perfect early 2000s electronica. This track is so hyperreal and twinkly, lassi nikko was always quite out on his own with his music i think. I still listen to all his stuff to this day. **"** 
+Nathan Fake: **"** Perfect early 2000s electronica. This track is so hyperreal and twinkly, lassi nikko was always quite out on his own with his music i think. I still listen to all his stuff to this day. **"** 
 
 # MailTape's selection
 
 ## Nathan Fake - Sunlight on Saturn
 
-Nathan Fake: **"** lorem ipsum **"** 
+ImaCrea: **"** Out from his newly released album "[Evaporator](https://nathanfake.bandcamp.com/album/evaporator?from=embed)", I love how this track makes me enter another dimension. There's something like a cosmic portal we're going through and suddenly space around change and expands. And with that, gravity changes. Vibration enters every cells for a second and movement is happening. Mouvementement.
 
 ## Irini - Sweet Charlotte 
 
-Nathan Fake: **"** lorem ipsum **"** 
+ImaCrea: **"** For some reasons I can't explain, I got totally obsessed with this track lately. Listening to in loop when I was taking the metro, I find there's a very interesting and hypnotizing tension between this pulsating jungle-ish track and her intimate and naive talk. **"** 
 
 ## s8jfou - Thoughts
 
-Nathan Fake: **"** lorem ipsum **"** 
+ImaCrea: **"** Back with Dognip+, s8jfou keeps on tracing his pattern in our imaginary prairies. Marvelous landscape and fairies appear in a dark cavern, hands on the wall as traces of sounds made with stones.  
 
 ## Koi - Sol Oculto
 
-Nathan Fake: **"** lorem ipsum **"** 
+ImaCrea: **"** Spirits from the cavern awake with this track by Koi. Bubbling water defying gravity and going upward forming alien sculpture from another time and space. Maybe we're on Saturn after all. **"** 
 
  Thank you...
