@@ -48,19 +48,19 @@ ImaCrea: **"** Perfect early 2000s electronica. This track is so hyperreal and t
 
 # Curator's selection
 
-## Artist - Track
+## Nathan Fake - Sunlight on Saturn
 
 ImaCrea: **"** lorem ipsum **"** 
 
-## Artist - Track
+## Irini - Sweet Charlotte 
 
 ImaCrea: **"** lorem ipsum **"** 
 
-## Artist - Track
+## s8jfou - Thoughts
 
 ImaCrea: **"** lorem ipsum **"** 
 
-## Artist - Track
+## Koi - Sol Oculto
 
  Curator: **"** lorem ipsum **"** 
 
