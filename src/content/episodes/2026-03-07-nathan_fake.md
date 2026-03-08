@@ -71,6 +71,6 @@ ImaCrea: **"** Back with Dognip+, s8jfou keeps on tracing his pattern in our ima
 
 ## [Nuevos Rios](https://nuevosrios.bandcamp.com/album/nuevos-rios) - Si Yo Fuera
 
-ImaCrea: **"** Spirits from a cavern in Colombia awake with this track by Nuevos Rios. Bubbling water defying gravity and going upward, forming alien sculptures from another time and space. Maybe we're connected to Saturn after all. **"**
+ImaCrea: **"** Spirits from a cavern in Colombia awake with this track by Nuevos Rios. Bubbling water defying gravity and going upward, forming alien sculptures from another time and space. Maybe we're connected to Saturn, after all we're receiving the same light. **"**
 
 Thank you for being with us, and thank you Pierre-Julien Fieux for illustrating this episode with this dreamy portrait. Many thanks to Nathan Fake for his inspiring selection, which put us on a fine path toward spring.
