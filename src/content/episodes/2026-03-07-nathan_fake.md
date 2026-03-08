@@ -26,7 +26,7 @@ track5_link: https://sounds.mailta.pe/606/track5.mp3
 track6_title: s8jfou - Thoughts
 track6_color: vibrant
 track6_link: https://sounds.mailta.pe/606/track6.mp3
-track7_title: Koi - Sol Oculto
+track7_title: Nuevos Rios - Si Yo Fuera
 track7_color: trippy
 track7_link: https://sounds.mailta.pe/606/track7.mp3
 description: >-
@@ -59,7 +59,7 @@ Nathan Fake: **"** Perfect early 2000s electronica. This track is so hyperreal a
 
 ## [Nathan Fake](https://nathanfake.bandcamp.com) - Sunlight on Saturn
 
-ImaCrea: **"** Out from his newly released album "[Evaporator](https://nathanfake.bandcamp.com/album/evaporator?from=embed)", I love how this track makes me enter another dimension. There's something like a cosmic portal we're going through and suddenly the space around changes and expands. And with that, gravity changes. Vibration enters every cell for a second and movement is happening. Mouvementement[*](https://www.editionsladecouverte.fr/mouvementements-9782348074967).
+ImaCrea: **"** Out from his newly released album "[Evaporator](https://nathanfake.bandcamp.com/album/evaporator?from=embed)", I love how this track makes me enter another dimension. There's something like a cosmic portal we're going through and suddenly the space around changes and expands. And with that, gravity changes. Vibration enters every cell for a second and movement is happening. Mouvementement[\*](https://www.editionsladecouverte.fr/mouvementements-9782348074967).
 
 ## [Irini](https://allpossibleworlds.bandcamp.com/) - Sweet Charlotte
 
@@ -69,7 +69,7 @@ ImaCrea: **"** For some reason I can't explain, I've become completely obsessed 
 
 ImaCrea: **"** Back with Dognip+, s8jfou keeps on tracing his pattern in our imaginary prairies. Marvelous landscapes and fairies appear in a dark cavern, hands on the wall as traces of sounds made with stones.
 
-## [Koi](https://ineffable.bandcamp.com/album/sol-oculto) - Sol Oculto
+## [Nuevos Rios](https://nuevosrios.bandcamp.com/album/nuevos-rios) - Si Yo Fuera
 
 ImaCrea: **"** Spirits from the cavern awake with this track by Koi. Bubbling water defying gravity and going upward, forming alien sculptures from another time and space. Maybe we're on Saturn after all. **"**
 
