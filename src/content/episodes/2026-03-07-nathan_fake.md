@@ -36,6 +36,8 @@ description: >-
 
   landscapes. This episode includes tracks that showcase not only artistic brilliance but also personal and soulful evocations.
 episode_URL: https://www.mailta.pe/606/nathan-fake/
+image: https://mailta.pe/img/fbPic606.jpg
+musiColor: musicolor606.png
 ---
 This morning, we dive into a collection curated by our dear guest [Nathan Fake](https://nathanfake.bandcamp.com/album/evaporator). You'll experience a rich tapestry of sounds that evoke the warmth of the coming spring days and the exploration of otherworldly 
 landscapes. This episode includes tracks that showcase not only artistic brilliance but also personal and soulful evocations.
