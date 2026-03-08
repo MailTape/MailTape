@@ -64,7 +64,8 @@ ImaCrea: **"** Out from his newly released album "[Evaporator](https://nathanfak
 
 ## [Irini](https://allpossibleworlds.bandcamp.com/) - Sweet Charlotte
 
-ImaCrea: **"** For some reasons I can't explain, I got totally obsessed with this track lately. Listening to in loop when I was taking the metro, I find there's a very interesting and hypnotizing tension between this pulsating jungle-ish track and her intimate and naive talk. **"** 
+ImaCrea: **"** For some reason I can't explain, I've become completely obsessed with this track lately. Listening to it on repeat while taking the metro, I find a very interesting and hypnotizing tension between the pulsating 
+jungle-like sound and her intimate, naive talk.**"** 
 
 ## [s8jfou](https://s8jfou.bandcamp.com/album/dognip-3) - Thoughts
 
