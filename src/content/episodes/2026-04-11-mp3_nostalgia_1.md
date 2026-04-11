@@ -4,6 +4,7 @@ pubDate: 2026-04-12
 category: "609"
 guest_name: "MP3 Nostalgia #1"
 guest_color: vibrant
+guestPic: guest609.jpg
 author: Anto
 illustrator: Noémie Dijon
 writer: Anto
@@ -37,6 +38,7 @@ description: "At Mailtape, we sometimes assume we're a bit old-fashioned. We are
   them, and listening to them on our little device, in various contexts, often
   intimate."
 episode_URL: https://mailta.pe/609/MP3-Nostalgia-1/
+image: https://mailta.pe/img/fbPic609.png
 musiColor: musicolor609.png
 ---
 At Mailtape, we sometimes assume we're a bit old-fashioned. We are from the generation of Walkmans, those from the 90s, into which we'd put old cassettes, sometimes recorded ourselves. Then came portable CD players (with scratched CDs and those that skipped some parts), and then the first MP3 players. Since then, it's been a musical orgy. But some of us have kept the spirit of the MP3 player: carefully collecting fabulous tracks, downloading them, and listening to them on our little device, in various contexts, often intimate.
