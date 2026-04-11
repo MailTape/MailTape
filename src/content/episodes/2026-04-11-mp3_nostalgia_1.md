@@ -44,11 +44,11 @@ Some of these tracks have stood the test of time. They're still there, stuck in 
 
 # Curator's selection
 
-## Gilbert Bécaud - Contre Vous
+## [Gilbert Bécaud](https://commons.wikimedia.org/wiki/Category:Gilbert_B%C3%A9caud?uselang=fr) - Contre Vous
 
- Anto: **"** As a child, my mother forced me to listen to what I call "dead singers": French variety singers whose cassettes and CDs played on repeat on the radio of the family car. Bécaud was one of them. I was sick of hearing those great classics of French song like "Natalie" or "La Rose." A few years later, I stumbled upon this track edited by Good Old Boys, and I recognized the voice, singing lyrics I didn't know. Without hesitation, I listened to the original version and delighted in discovering a playful, incredibly jazzy, and utterly irresistible song. Since then, it's been a staple on the MP3 player. **"** 
+ Anto: **"** As a child, my mother forced me to listen to what I call "dead singers": French variety singers whose cassettes and CDs played on repeat on the radio of the family car. Bécaud was one of them. I was sick of hearing those great classics of French song like "[Natalie](https://www.youtube.com/watch?v=zuISJycFBo8)" or "[L'important c'est la rose](https://www.youtube.com/watch?v=m4Lh8dm00lo)." A few years later, I stumbled upon [this track](https://www.youtube.com/watch?v=oKeiQJAtuuE) edited by Good Old Boys, and I recognized the voice, singing lyrics I didn't know. Without hesitation, I listened to the original version and delighted in discovering a playful, incredibly jazzy, and utterly irresistible song. Since then, it's been a staple on the MP3 player. **"** 
 
-## Meiko Kaji - おんな叛き唄
+## [Meiko Kaji](https://en.wikipedia.org/wiki/Meiko_Kaji?uselang=fr) - おんな叛き唄
 
  Anto: **"** I don't know the original title of this song; I only have the Japanese characters. My translator tells me it means "woman’s rebellion song," which doesn't surprise me all that much. Meiko Kaji cultivated her image as a warrior woman, with a whole mystique specific to old Japan. Her classic “Urami Bushi” is perhaps a bit more famous; it’s been years since it also entered my MP3 player without leaving. **"** 
 
