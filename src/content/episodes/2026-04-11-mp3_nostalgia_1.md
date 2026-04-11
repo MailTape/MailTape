@@ -41,7 +41,7 @@ episode_URL: https://mailta.pe/609/MP3-Nostalgia-1/
 image: https://mailta.pe/img/fbPic609.png
 musiColor: musicolor609.png
 ---
-At Mailtape, we sometimes assume we're a bit old-fashioned. We are from the generation of Walkmans, those from the 90s, into which we'd put old cassettes, sometimes recorded ourselves. Then came portable CD players (with scratched CDs and those that skipped some parts), and then the first MP3 players. Since then, it's been a musical orgy. But some of us have kept the spirit of the MP3 player: carefully collecting fabulous tracks, downloading them, and listening to them on our little device, in various contexts, often intimate.
+At Mailtape, we sometimes assume we're a bit old-fashioned, from the generation of Walkmans, those from the 90s, into which we'd put old cassettes, sometimes recorded ourselves. Then came portable CD players (with scratched CDs and those that skipped some parts), and then the first MP3 players. Since then, it's been a musical orgy. But some of us have kept the spirit of the MP3 player: carefully collecting fabulous tracks, downloading them, and listening to them on our little device, in various contexts, often intimate.
 
 Some of these tracks have stood the test of time. They're still there, stuck in the player, unable to escape, because they're too tasty, too precious, too essential... You can't imagine the joy we feel in bringing them out of obscurity and sharing some of them with you! This is MP3 Nostalgia!
 
