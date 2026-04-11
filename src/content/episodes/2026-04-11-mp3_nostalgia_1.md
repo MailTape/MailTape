@@ -50,13 +50,13 @@ Some of these tracks have stood the test of time. They're still there, stuck in 
 
 ## [Meiko Kaji](https://en.wikipedia.org/wiki/Meiko_Kaji?uselang=fr) - おんな叛き唄
 
- Anto: **"** I don't know the original title of this song; I only have the Japanese characters. My translator tells me it means "woman’s rebellion song," which doesn't surprise me all that much. Meiko Kaji cultivated her image as a warrior woman, with a whole mystique specific to old Japan. Her classic “Urami Bushi” is perhaps a bit more famous; it’s been years since it also entered my MP3 player without leaving. **"** 
+ Anto: **"** I don't know the original title of this song; I only have the Japanese characters. My translator tells me it means "woman’s rebellion song," which doesn't surprise me all that much. Meiko Kaji cultivated her image as a warrior woman, with a whole mystique specific to old Japan. Her classic “[Urami Bushi](https://www.youtube.com/watch?v=yT9zJ2V9lfw)” is perhaps a bit more famous; it’s been years since it also entered my MP3 player without leaving. **"** 
 
-## Soom T -Alright
+## [Soom T](https://soomt.bandcamp.com/) -Alright
 
  Anto: **"** While I regret the evolution of this exceptional singer (she's sunk into religious fundamentalism and adopts very biased and, to say the least, conservative stances), I remain deeply attached to some of her hits, which have had me moving like crazy at sound system parties. Her flow is inimitable. Here, over a beat by Jungle Invaders, she showcases the full extent of her talent, alternating between incisive toasts and perfectly sung verses. It's enough to elevate a rhythm that's otherwise difficult to follow and inhabit. I've listened to this track hundreds of times and it still blows me away every time. **"** 
 
-## Le cri du Caire - Pearls for Orphans
+## [Le cri du Caire](https://lecriducaire.bandcamp.com/music) - Pearls for Orphans
 
  Anto: **"** Warning: this is a knockout. It's a track that only appeared on my MP3 players a few years ago, but it's explosive. Rare are the voices that send shivers down your spine while simultaneously bringing tears to your eyes. Musically, it's as simple as it is technically brilliant. Just a few notes and you find yourself suspended on a thread, gripped by a voice that overwhelms you, that speaks perhaps more to your gut than your ears. A knockout. **"** 
 
