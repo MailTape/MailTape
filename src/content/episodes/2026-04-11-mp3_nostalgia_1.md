@@ -69,7 +69,7 @@ Some of these tracks have stood the test of time. They're still there, stuck in 
 
 ## [Téhu](https://tehu.bandcamp.com/music) – Timeline
 
- Anto: **"** In the realm of mesmerizing performances, you should definitely check out the video of this incredible live show. Téhu, with his golden fingers, moves seamlessly from one keyboard to another, composing marvelous melodies that transform into friendly loops, all set to a killer beat. The virtuosity is extraordinary; this video blew me away the first time I saw it, and the pleasure remains undiminished when I listen to the track on my MP3 player. **"** 
+ Anto: **"** In the realm of mesmerizing performances, you should definitely check out the video of [this incredible live show](https://www.youtube.com/watch?v=bIGhmoD2Rho). Téhu, with his golden fingers, moves seamlessly from one keyboard to another, composing marvelous melodies that transform into friendly loops, all set to a killer beat. The virtuosity is extraordinary; this video blew me away the first time I saw it, and the pleasure remains undiminished when I listen to the track on my MP3 player. **"** 
 
 ## [Rendez-Vous](https://rendezvousrendezvous.bandcamp.com/music) – Euroshima
 
