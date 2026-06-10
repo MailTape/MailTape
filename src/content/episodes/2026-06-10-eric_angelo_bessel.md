@@ -6,8 +6,11 @@ guest_name: Eric Angelo Bessel
 guest_color: dreamy
 author: Sarah
 illustrator: Noémie Dijon
+track1_title: Faten Kanaan - Alcoyana-Capri
 track1_link: https://sounds.mailta.pe/XXX/track1.mp3
+track2_title: Cécile Seraud - Pen Er Malo
 track2_link: https://sounds.mailta.pe/XXX/track2.mp3
+track3_title: The Stranger - About To Enter A Strange New Period
 track3_link: https://sounds.mailta.pe/XXX/track3.mp3
 track4_link: https://sounds.mailta.pe/XXX/track4.mp3
 track5_link: https://sounds.mailta.pe/XXX/track5.mp3
