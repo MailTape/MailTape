@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 pubDate: 2026-06-14
 category: "611"
 guest_name: Eric Angelo Bessel
