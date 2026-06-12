@@ -17,7 +17,7 @@ track5_link: https://sounds.mailta.pe/XXX/track5.mp3
 track6_link: https://sounds.mailta.pe/XXX/track6.mp3
 track7_link: https://sounds.mailta.pe/XXX/track7.mp3
 ---
-This morning... 
+This Sunday morning we welcome Eric Angelo Bessel to MailTape. Based in Portland, 
 
 # Guest's selection
 
