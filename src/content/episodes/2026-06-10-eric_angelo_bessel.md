@@ -8,7 +8,7 @@ author: Sarah
 illustrator: Noémie Dijon
 track1_title: Faten Kanaan - Alcoyana-Capri
 track1_color: dreamy
-track1_link: https://sounds.mailta.pe/XXX/track1.mp3
+track1_link: https://sounds.mailta.pe/611/track1.mp3
 track2_title: Cécile Seraud - Pen Er Malo
 track2_color: bliss
 track2_link: https://sounds.mailta.pe/XXX/track2.mp3
@@ -23,6 +23,7 @@ track6_color: trippy
 track6_link: https://sounds.mailta.pe/XXX/track6.mp3
 track7_color: dreamy
 track7_link: https://sounds.mailta.pe/XXX/track7.mp3
+episode_URL: https://mailta.pe/611/Eric-Angelo-Bessel/
 ---
 This Sunday morning we welcome Eric Angelo Bessel to MailTape. Based in Portland, 
 
