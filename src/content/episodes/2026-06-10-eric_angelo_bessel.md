@@ -1,6 +1,6 @@
 ---
 published: true
-pubDate: 2026-06-14
+pubDate: 2026-06-13
 category: "611"
 guest_name: Eric Angelo Bessel
 guest_color: dreamy
