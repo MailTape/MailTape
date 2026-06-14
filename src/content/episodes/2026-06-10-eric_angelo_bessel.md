@@ -12,22 +12,22 @@ track1_color: dreamy
 track1_link: https://sounds.mailta.pe/611/track1.mp3
 track2_title: Cécile Seraud - Pen Er Malo
 track2_color: dreamy
-track2_link: https://sounds.mailta.pe/XXX/track2.mp3
+track2_link: https://sounds.mailta.pe/611/track2.mp3
 track3_title: The Stranger - About To Enter A Strange New Period
 track3_color: trippy
-track3_link: https://sounds.mailta.pe/XXX/track3.mp3
+track3_link: https://sounds.mailta.pe/611/track3.mp3
 track4_title: Eric Angelo Bessel - Double Helix
 track4_color: vibrant
-track4_link: https://sounds.mailta.pe/XXX/track4.mp3
+track4_link: https://sounds.mailta.pe/611/track4.mp3
 track5_title: Kangding Ray - Nacht und Tag
 track5_color: dreamy
-track5_link: https://sounds.mailta.pe/XXX/track5.mp3
+track5_link: https://sounds.mailta.pe/611/track5.mp3
 track6_title: Anastasia Kristensen - Magpie Song
 track6_color: vibrant
-track6_link: https://sounds.mailta.pe/XXX/track6.mp3
+track6_link: https://sounds.mailta.pe/611/track6.mp3
 track7_title: Eric Angelo Bessel - Tendons
 track7_color: bliss
-track7_link: https://sounds.mailta.pe/XXX/track7.mp3
+track7_link: https://sounds.mailta.pe/611/track7.mp3
 episode_URL: https://mailta.pe/611/Eric-Angelo-Bessel/
 image: https://mailta.pe/img/fbPic611.png
 alignY: ""
