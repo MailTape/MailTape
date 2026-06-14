@@ -48,7 +48,7 @@ This Sunday we welcome Eric Angelo Bessel to MailTape for a meditative morning. 
 
 ## Eric Angelo Bessel - Tendons
 
- Curator: **"** I am so caught on this track in Mirror at Night, the opening number to the album. Strange mechanical phantoms connecting to each other, somehow both industrial and overwhelmingly intimate. Eric Angelo Bessel describes how this track was made following a particularly jarring physical accident, where for months afterward he was struck by strange pangs and twitches in his legs.  **"** 
+ Curator: **"** I am so caught on this track in Mirror at Night, the opening number to the album. Strange mechanical phantoms connecting to each other, somehow both industrial and overwhelmingly intimate. Eric Angelo Bessel describes how this track was made following a particularly jarring physical accident, where for months afterward he was struck by strange pangs and twitches in his legs. One mesh leads into the next, one gauzy space becomes another. **"** 
 
 ## Artist - Track
 
