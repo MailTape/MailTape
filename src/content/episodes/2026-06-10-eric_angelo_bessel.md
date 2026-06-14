@@ -52,9 +52,9 @@ This Sunday we welcome Eric Angelo Bessel to MailTape for a meditative and thoug
 
  Curator: **"** Eric Angelo Bessel describes his creative process as one tied to the morning, where the veil of dreams is still braided in some haze over our heads. One mesh leads into the next, one gauzy space envelopes another. **"** 
 
-## Artist - Track
+## Nikolai Dupont - Lovique
 
- Curator: **"** lorem ipsum **"** 
+ Curator: **"** A single from Nikolai Dupont, absolutely enchanted by the playfulness of these synth melodies against the droning waves, a full expanse and then something lighter **"** 
 
 ## Anastasia Kristensen - Magpie Song
 
