@@ -7,6 +7,7 @@ guest_color: dreamy
 guestPic: guestpic611.jpg
 author: Sarah
 illustrator: Noémie Dijon
+writer: Sarah
 track1_title: Faten Kanaan - Alcoyana-Capri
 track1_color: dreamy
 track1_link: https://sounds.mailta.pe/611/track1.mp3
@@ -28,8 +29,13 @@ track6_link: https://sounds.mailta.pe/611/track6.mp3
 track7_title: Eric Angelo Bessel - Tendons
 track7_color: bliss
 track7_link: https://sounds.mailta.pe/611/track7.mp3
+description: "This Sunday we welcome Eric Angelo Bessel to MailTape for a
+  meditative morning. Based in Portland, the composer joins us just after the
+  release of his album, Mirror at Night (as well as the most recent release of
+  the album's B-Sides !). "
 episode_URL: https://mailta.pe/611/Eric-Angelo-Bessel/
-image: https://mailta.pe/img/fbPic611.png
+image: https://mailta.pe/img/fbPic611.jpg
+musiColor: musicolor611.png
 alignY: ""
 ---
 This Sunday we welcome [Eric Angelo Bessel](https://lorecity.bandcamp.com/) to MailTape for a meditative morning. Based in Portland, the composer joins us just after the release of his album, [Mirror at Night](https://lorecity.bandcamp.com/album/mirror-at-night) (as well as the most recent release of the album's [B-Sides](https://lorecity.bandcamp.com/album/mirror-at-night-b-sides) !). 
