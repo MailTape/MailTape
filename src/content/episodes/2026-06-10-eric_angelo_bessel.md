@@ -64,4 +64,4 @@ This Sunday we welcome Eric Angelo Bessel to MailTape for a meditative and thoug
 
  Curator: **"** Am so caught on this track in Mirror at Night, the opening number to the album. I find myself going back to it over and over, and it's what we'll leave you with this morning. Strange mechanical phantoms connecting to each other, somehow both industrial and overwhelmingly intimate. Eric Angelo Bessel describes how this track was made following a particularly jarring physical accident, where for months afterward he was struck by strange pangs and twitches in his legs. He described feeling inspired by these strange, almost alchemical movements his body underwent in the dark to repair itself. This strange magic is in the track itself, and it's its own kind of healing. **"** 
 
-That's all for this morning :) thank you for listening with us ! Our love to Eric Angelo Bessel for this
+That's all for this morning :) thank you for listening with us ! Our love to Eric Angelo Bessel for this very thoughtful, energising selection. Thank you to Noémie Dijon for this episode's wonderful artwork. Until next time :)
