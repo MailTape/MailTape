@@ -16,10 +16,12 @@ track2_link: https://sounds.mailta.pe/XXX/track2.mp3
 track3_title: The Stranger - About To Enter A Strange New Period
 track3_color: trippy
 track3_link: https://sounds.mailta.pe/XXX/track3.mp3
+track4_title: Eric Angelo Bessel - Tendons
 track4_color: vibrant
 track4_link: https://sounds.mailta.pe/XXX/track4.mp3
 track5_color: dreamy
 track5_link: https://sounds.mailta.pe/XXX/track5.mp3
+track6_title: Anastasia Kristensen - Magpie Song
 track6_color: vibrant
 track6_link: https://sounds.mailta.pe/XXX/track6.mp3
 track7_color: bliss
