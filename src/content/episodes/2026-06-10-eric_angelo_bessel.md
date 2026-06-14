@@ -48,7 +48,7 @@ This Sunday we welcome Eric Angelo Bessel to MailTape for a meditative morning. 
 
 # Curator's selection
 
-## Eric Angelo Bessel - Tendons
+## Eric Angelo Bessel - Double Helix
 
  Curator: **"** I am so caught on this track in Mirror at Night, the opening number to the album. Strange mechanical phantoms connecting to each other, somehow both industrial and overwhelmingly intimate. Eric Angelo Bessel describes how this track was made following a particularly jarring physical accident, where for months afterward he was struck by strange pangs and twitches in his legs. One mesh leads into the next, one gauzy space becomes another. **"** 
 
@@ -60,8 +60,8 @@ This Sunday we welcome Eric Angelo Bessel to MailTape for a meditative morning. 
 
  Curator: **"** Really enjoying this patterning of bird calls with the slightly more heavy garage synths and percussives, evolving into some broader all-consuming swell and then breaking apart the next moment. I remember running for the first train with friends in the daybreak, hearing those first birds after the techno from the night (morning) before. Also more generally I am so fond of magpies and the sounds they make, we must always remember to nod and say Hello Mr. Magpie should one cross our path ;) **"** 
 
-## Artist - Track
+## Eric Angelo Bessel - Tendons
 
- Curator: **"** lorem ipsum **"** 
+ Curator: **"** I am so caught on this track in Mirror at Night, the opening number to the album. I find myself going back to it over and over, and it's what we'll leave you with this morning. Strange mechanical phantoms connecting to each other, somehow both industrial and overwhelmingly intimate. Eric Angelo Bessel describes how this track was made following a particularly jarring physical accident, where for months afterward he was struck by strange pangs and twitches in his legs. One mesh leads into the next, one gauzy space becomes another. **"** 
 
  Thank you...
