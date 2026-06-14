@@ -54,9 +54,9 @@ This Sunday we welcome Eric Angelo Bessel to MailTape for a meditative morning. 
 
  Curator: **"** lorem ipsum **"** 
 
-## Artist - Track
+## Anastasia Kristensen - Magpie Song
 
- Curator: **"** lorem ipsum **"** 
+ Curator: **"** Really enjoying this interplay with bird calls and slightly more heavy garage synths and percussives, evolving into some broader all-consuming swell and then breaking apart the next moment. **"** 
 
 ## Artist - Track
 
