@@ -56,7 +56,7 @@ This Sunday we welcome Eric Angelo Bessel to MailTape for a meditative morning. 
 
 ## Anastasia Kristensen - Magpie Song
 
- Curator: **"** Really enjoying this interplay with bird calls and slightly more heavy garage synths and percussives, evolving into some broader all-consuming swell and then breaking apart the next moment. **"** 
+ Curator: **"** Really enjoying this interplay with bird calls and slightly more heavy garage synths and percussives, evolving into some broader all-consuming swell and then breaking apart the next moment. I remember running for the first  train with friends and hearing those birds after the techno from the night (morning) before, the memories of dancing in fragments aside new songs. **"** 
 
 ## Artist - Track
 
