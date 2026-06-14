@@ -50,7 +50,7 @@ This Sunday we welcome Eric Angelo Bessel to MailTape for a meditative morning. 
 
 ## Eric Angelo Bessel - Double Helix
 
- Curator: **"** I am so caught on this track in Mirror at Night, the opening number to the album. Strange mechanical phantoms connecting to each other, somehow both industrial and overwhelmingly intimate. Eric Angelo Bessel describes how this track was made following a particularly jarring physical accident, where for months afterward he was struck by strange pangs and twitches in his legs. One mesh leads into the next, one gauzy space becomes another. **"** 
+ Curator: **"** Eric Angelo Bessel describes his creative process as one tied to the morning, where the veil of dreams is still in some haze over our heads, and the brain is both more tender and more receptive to those special meditative loops. One mesh leads into the next, one gauzy space becomes another. **"** 
 
 ## Artist - Track
 
@@ -62,6 +62,6 @@ This Sunday we welcome Eric Angelo Bessel to MailTape for a meditative morning. 
 
 ## Eric Angelo Bessel - Tendons
 
- Curator: **"** I am so caught on this track in Mirror at Night, the opening number to the album. I find myself going back to it over and over, and it's what we'll leave you with this morning. Strange mechanical phantoms connecting to each other, somehow both industrial and overwhelmingly intimate. Eric Angelo Bessel describes how this track was made following a particularly jarring physical accident, where for months afterward he was struck by strange pangs and twitches in his legs. One mesh leads into the next, one gauzy space becomes another. **"** 
+ Curator: **"** I am so caught on this track in Mirror at Night, the opening number to the album. I find myself going back to it over and over, and it's what we'll leave you with this morning. Strange mechanical phantoms connecting to each other, somehow both industrial and overwhelmingly intimate. Eric Angelo Bessel describes how this track was made following a particularly jarring physical accident, where for months afterward he was struck by strange pangs and twitches in his legs. **"** 
 
  Thank you...
