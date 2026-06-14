@@ -50,7 +50,7 @@ This Sunday we welcome Eric Angelo Bessel to MailTape for a meditative morning. 
 
 ## Eric Angelo Bessel - Double Helix
 
- Curator: **"** Eric Angelo Bessel describes his creative process as one tied to the morning, where the veil of dreams is still in some haze over our heads, and the brain is both more tender and more receptive to those special meditative loops. One mesh leads into the next, one gauzy space becomes another. **"** 
+ Curator: **"** Eric Angelo Bessel describes his creative process as one tied to the morning, where the veil of dreams is still in some haze over our heads, and the brain is both more tender and more receptive to those special meditative loops. One mesh leads into the next, one gauzy space envelopes another. **"** 
 
 ## Artist - Track
 
