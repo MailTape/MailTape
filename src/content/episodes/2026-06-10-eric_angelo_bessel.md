@@ -32,7 +32,7 @@ episode_URL: https://mailta.pe/611/Eric-Angelo-Bessel/
 image: https://mailta.pe/img/fbPic611.png
 alignY: ""
 ---
-This Sunday we welcome [Eric Angelo Bessel](https://lorecity.bandcamp.com/) to MailTape for a meditative morning. Based in Portland, the composer joins us just after the release of his album, [Mirror at Night](https://lorecity.bandcamp.com/album/mirror-at-night) (as well as the most recent release of the album's B-Sides !). 
+This Sunday we welcome [Eric Angelo Bessel](https://lorecity.bandcamp.com/) to MailTape for a meditative morning. Based in Portland, the composer joins us just after the release of his album, [Mirror at Night](https://lorecity.bandcamp.com/album/mirror-at-night) (as well as the most recent release of the album's [B-Sides](https://lorecity.bandcamp.com/album/mirror-at-night-b-sides) !). 
 
 # Guest's selection
 
@@ -52,7 +52,7 @@ Eric Angelo Bessel : **"** I'm deeply engaged by the sonic world that James Leyl
 
 ## [Eric Angelo Bessel](https://lorecity.bandcamp.com/) - Double Helix
 
-Sarah : **"** Eric Angelo Bessel describes his creative process as one tied to the morning. In those moments, the veil of dreams is still braided in some haze over our heads. One mesh leads into the next, one gauzy expanse envelopes another. The resulting tracks are experimentations in this delicate wandering. Although Double Helix appears on Mirror at Night's B-Sides, it is at once part of the world of the preceding album and a bridge elsewhere. As with each of Eric Angelo Bessel's releases, the track's layering into topographies of texture are guided by the composer's meticulous experimentation with analog synths and pedals, carefully rousing the emotional undercurrents hidden within the otherwise industrial gestures.  **"** 
+Sarah : **"** Eric Angelo Bessel describes his creative process as one tied to the morning. In those moments, the veil of dreams is still braided in some haze over our heads. One mesh leads into the next, one gauzy expanse envelopes another. The resulting tracks are experimentations in this delicate wandering. Although Double Helix appears on [Mirror at Night B-Sides](https://lorecity.bandcamp.com/album/mirror-at-night-b-sides), it is at once part of the world of the preceding album and a bridge elsewhere. As with each of Eric Angelo Bessel's releases, the track's layering into topographies of texture are guided by the composer's meticulous experimentation with analog synths and pedals, carefully rousing the emotional undercurrents hidden within the otherwise industrial gestures.  **"** 
 
 ## [Kangding Ray](https://kangdingray.bandcamp.com/album/sir-t-original-motion-picture-soundtrack) - Nacht und Tag
 
@@ -62,7 +62,7 @@ Sarah : **"** Absolutely enchanted by the playfulness of these synth melodies ag
 
 Sarah : **"** Really enjoying this conversation of bird calls with the slightly more heavy garage synths and percussives, evolving into some broader all-consuming swell and then breaking apart the next moment. It makes me remember running for the first trains in the daybreak, listening to the birds after the techno from the night (morning) before. As the folklore goes, we must always remember to nod and say Hello Mr. Magpie should one cross our path ;) **"** 
 
-## Eric Angelo Bessel - Tendons
+## [Eric Angelo Bessel](https://lorecity.bandcamp.com/) - Tendons
 
 Sarah : **"** Am so caught on this track in [Mirror at Night](https://lorecity.bandcamp.com/album/mirror-at-night), the opening number to the album. I find myself going back to it over and over, and it's what we'll leave you with this morning. Strange mechanical phantoms connecting to each other, somehow both industrial and overwhelmingly intimate. Eric Angelo Bessel describes how this track was made following a particularly jarring physical accident, where for months afterward he was struck by strange pangs and twitches in his legs. He described feeling inspired by these strange, almost alchemical movements his body underwent in the dark to repair itself. This strange magic joins us in the track,  its own kind of healing. **"** 
 
