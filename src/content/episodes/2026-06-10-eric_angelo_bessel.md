@@ -60,7 +60,7 @@ Sarah : **"** Absolutely enchanted by the playfulness of these synth melodies ag
 
 ## Anastasia Kristensen - Magpie Song
 
-Sarah : **"** Really enjoying this patterning of bird calls with the slightly more heavy garage synths and percussives, evolving into some broader all-consuming swell and then breaking apart the next moment. I remember running for the first train with friends in the daybreak, hearing those first birds after the techno from the night (morning) before. Also more generally I am so fond of magpies and the sounds they make, we must always remember to nod and say Hello Mr. Magpie should one cross our path ;) **"** 
+Sarah : **"** Really enjoying this conversation of bird calls with the slightly more heavy garage synths and percussives, evolving into some broader all-consuming swell and then breaking apart the next moment. I remember running for the first train with friends in the daybreak, hearing those first birds after the techno from the night (morning) before. Also more generally I am so fond of magpies and the sounds they make, we must always remember to nod and say Hello Mr. Magpie should one cross our path ;) **"** 
 
 ## Eric Angelo Bessel - Tendons
 
