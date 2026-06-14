@@ -4,6 +4,7 @@ pubDate: 2026-06-14
 category: "611"
 guest_name: Eric Angelo Bessel
 guest_color: dreamy
+guestPic: guestpic611.jpg
 author: Sarah
 illustrator: Noémie Dijon
 track1_title: Faten Kanaan - Alcoyana-Capri
@@ -24,6 +25,8 @@ track6_link: https://sounds.mailta.pe/XXX/track6.mp3
 track7_color: dreamy
 track7_link: https://sounds.mailta.pe/XXX/track7.mp3
 episode_URL: https://mailta.pe/611/Eric-Angelo-Bessel/
+image: https://mailta.pe/img/fbPic611.png
+alignY: f
 ---
 This Sunday morning we welcome Eric Angelo Bessel to MailTape. Based in Portland, 
 
