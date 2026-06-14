@@ -52,7 +52,7 @@ This Sunday we welcome Eric Angelo Bessel to MailTape for a meditative and thoug
 
 ## Eric Angelo Bessel - Double Helix
 
- Curator: **"** Eric Angelo Bessel describes his creative process as one tied to the morning, where the veil of dreams is still braided in some haze over our heads. One mesh leads into the next, one gauzy space envelopes another. The intricacy of these synths and the soundscape's texture are guided by Eric Angelo Bessel's meticulous experimentation with analog pedals and   **"** 
+ Curator: **"** Eric Angelo Bessel describes his creative process as one tied to the morning, where the veil of dreams is still braided in some haze over our heads. One mesh leads into the next, one gauzy space envelopes another. The track's layering into topographies of texture are guided by Eric Angelo Bessel's meticulous experimentation with analog synths and pedals, a process of curating within an otherwise nearly industrial sound.  **"** 
 
 ## Nikolai Dupont - Lovique
 
