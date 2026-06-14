@@ -30,7 +30,7 @@ episode_URL: https://mailta.pe/611/Eric-Angelo-Bessel/
 image: https://mailta.pe/img/fbPic611.png
 alignY: ""
 ---
-This Sunday we welcome Eric Angelo Bessel to MailTape for a meditative morning. Based in Portland, the composer joins us just after the release of his album, Mirror at Night (as well as the most recent release of the album's B-Sides !). 
+This Sunday we welcome Eric Angelo Bessel to MailTape for a meditative and thoughtful morning. Based in Portland, the composer joins us just after the release of his album, Mirror at Night (as well as the most recent release of the album's B-Sides !). 
 
 # Guest's selection
 
@@ -62,6 +62,6 @@ This Sunday we welcome Eric Angelo Bessel to MailTape for a meditative morning. 
 
 ## Eric Angelo Bessel - Tendons
 
- Curator: **"** I am so caught on this track in Mirror at Night, the opening number to the album. I find myself going back to it over and over, and it's what we'll leave you with this morning. Strange mechanical phantoms connecting to each other, somehow both industrial and overwhelmingly intimate. Eric Angelo Bessel describes how this track was made following a particularly jarring physical accident, where for months afterward he was struck by strange pangs and twitches in his legs. **"** 
+ Curator: **"** I am so caught on this track in Mirror at Night, the opening number to the album. I find myself going back to it over and over, and it's what we'll leave you with this morning. Strange mechanical phantoms connecting to each other, somehow both industrial and overwhelmingly intimate. Eric Angelo Bessel describes how this track was made following a particularly jarring physical accident, where for months afterward he was struck by strange pangs and twitches in his legs. He described feeling inspired by these strange, almost alchemical movements his body underwent in the dark to repair itself. This strange magic is in the track itself. **"** 
 
  Thank you...
