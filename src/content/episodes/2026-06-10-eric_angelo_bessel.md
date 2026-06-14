@@ -19,7 +19,7 @@ track3_link: https://sounds.mailta.pe/XXX/track3.mp3
 track4_title: Eric Angelo Bessel - Tendons
 track4_color: vibrant
 track4_link: https://sounds.mailta.pe/XXX/track4.mp3
-track5_title: Nikolai Dupont - Lovique
+track5_title: Kangding Ray - Nacht und Tag
 track5_color: dreamy
 track5_link: https://sounds.mailta.pe/XXX/track5.mp3
 track6_title: Anastasia Kristensen - Magpie Song
@@ -54,9 +54,9 @@ This Sunday we welcome Eric Angelo Bessel to MailTape for a meditative and thoug
 
  Curator: **"** Eric Angelo Bessel describes his creative process as one tied to the morning. In those moments, the veil of dreams is still braided in some haze over our heads. One mesh leads into the next, one gauzy expanse envelopes another. The resulting tracks are experimentations in this delicate wandering. Although Double Helix appears on Mirror at Night's B-Sides, it is at once part of the world of the preceding album and a bridge elsewhere. As with each of Eric Angelo Bessel's releases, the track's layering into topographies of texture are guided by the composer's meticulous experimentation with analog synths and pedals, a process of rousing the emotional undercurrents within an otherwise nearly industrial sound.  **"** 
 
-## Nikolai Dupont - Lovique
+## Kangding Ray - Nacht und Tag
 
- Curator: **"** A single from Nikolai Dupont, absolutely enchanted by the playfulness of these synth melodies against the droning waves, a full expanse and then something lighter **"** 
+ Curator: **"** Absolutely enchanted by the playfulness of these synth melodies against the drones, treading ever so carefully but picking up momentum. Still, the synths flutter over this expanse, offering something lighter **"** 
 
 ## Anastasia Kristensen - Magpie Song
 
