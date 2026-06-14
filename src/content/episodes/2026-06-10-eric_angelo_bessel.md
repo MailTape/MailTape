@@ -28,7 +28,7 @@ episode_URL: https://mailta.pe/611/Eric-Angelo-Bessel/
 image: https://mailta.pe/img/fbPic611.png
 alignY: ""
 ---
-This Sunday morning we welcome Eric Angelo Bessel to MailTape. Based in Portland, 
+This Sunday we welcome Eric Angelo Bessel to MailTape for a meditative morning. Based in Portland, the composer joins us just after the release of his album, Mirror at Night (as well as the most recent release of the album's B-Sides !)
 
 # Guest's selection
 
