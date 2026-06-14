@@ -52,7 +52,7 @@ Eric Angelo Bessel : **"** I'm deeply engaged by the sonic world that James Leyl
 
 ## [Eric Angelo Bessel](https://lorecity.bandcamp.com/) - Double Helix
 
-Sarah : **"** Eric Angelo Bessel describes his creative process as one tied to the morning. In those moments, the veil of dreams is still braided in some haze over our heads. One mesh leads into the next, one gauzy expanse envelopes another. The resulting tracks are experimentations in this delicate wandering. Although Double Helix appears on Mirror at Night's B-Sides, it is at once part of the world of the preceding album and a bridge elsewhere. As with each of Eric Angelo Bessel's releases, the track's layering into topographies of texture are guided by the composer's meticulous experimentation with analog synths and pedals, a process of rousing the emotional undercurrents within an otherwise nearly industrial sound.  **"** 
+Sarah : **"** Eric Angelo Bessel describes his creative process as one tied to the morning. In those moments, the veil of dreams is still braided in some haze over our heads. One mesh leads into the next, one gauzy expanse envelopes another. The resulting tracks are experimentations in this delicate wandering. Although Double Helix appears on Mirror at Night's B-Sides, it is at once part of the world of the preceding album and a bridge elsewhere. As with each of Eric Angelo Bessel's releases, the track's layering into topographies of texture are guided by the composer's meticulous experimentation with analog synths and pedals, carefully rousing the emotional undercurrents hidden within otherwise industrial gestures.  **"** 
 
 ## [Kangding Ray](https://kangdingray.bandcamp.com/album/sir-t-original-motion-picture-soundtrack) - Nacht und Tag
 
