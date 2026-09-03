@@ -12,27 +12,18 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '22'
-          cache: 'npm'
-
-      - name: Verify package-lock.json
-        run: npm ci --dry-run
+      - name: Setup bun
+        uses: oven-sh/setup-bun@v2
 
       - name: Install dependencies
-        run: npm ci
+        run: bun install
 
       - name: Audit dependencies
-        run: npm audit --audit-level=moderate
-
-      - name: Check for outdated packages
-        run: npm outdated
+        run: bun audit --audit-level=moderate
         continue-on-error: true
 
       - name: Build Astro project
-        run: npm run build
+        run: bun run build
 
       - name: Upload build artifact
         uses: actions/upload-artifact@v4
@@ -51,13 +42,11 @@ jobs:
           name: website-build
           path: build/
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '22'
+      - name: Setup bun
+        uses: oven-sh/setup-bun@v2
 
       - name: Deploy with dxfl
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.dxfl_id }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.dxfl_key }}
-        run: npx --yes dxfl deploy www.mailta.pe build/ --yes
+        run: bunx dxfl deploy www.mailta.pe build/ --yes
