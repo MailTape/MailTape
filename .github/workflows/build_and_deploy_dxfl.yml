@@ -3,38 +3,50 @@ name: Build Astro and Publish on Deuxfleurs
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout code
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
           node-version: '22'
-          cache: 'npm'
 
-      - run: npm install
+      - name: Install dependencies
+        run: npm install
 
-      - run: npm run build
+      - name: Build Astro project
+        run: npm run build
 
-      - uses: actions/upload-artifact@v4
+      - name: Upload build artifact
+        uses: actions/upload-artifact@v4
         with:
           name: website-build
           path: dist/
+          retention-days: 1
 
   deploy:
-    runs-on: node:lts-alpine
+    runs-on: ubuntu-latest
     needs: build
     steps:
-      - uses: actions/download-artifact@v4
+      - name: Download build artifact
+        uses: actions/download-artifact@v4
         with:
           name: website-build
           path: build/
 
-      - run: npx --yes dxfl deploy mailtape.deuxfleurs.eu build/ --yes
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Deploy with dxfl
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.dxfl_id }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.dxfl_secret }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.dxfl_key }}
+        run: npx --yes dxfl deploy mailtape.deuxfleurs.eu build/ --yes
