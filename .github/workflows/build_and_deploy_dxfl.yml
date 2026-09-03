@@ -3,7 +3,7 @@ name: Build Astro and Publish on Deuxfleurs
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   build:
