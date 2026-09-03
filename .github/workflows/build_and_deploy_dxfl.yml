@@ -4,47 +4,37 @@ on:
   push:
     branches:
       - main
-  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
-      
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
         with:
-          node-version: '18'
+          node-version: '22'
           cache: 'npm'
-      
-      - name: Install dependencies
-        run: npm install
-      
-      - name: Build Astro site
-        run: npm run build
-      
-      - name: Upload build artifact
-        uses: actions/upload-artifact@v4
+
+      - run: npm install
+
+      - run: npm run build
+
+      - uses: actions/upload-artifact@v4
         with:
           name: website-build
           path: dist/
 
   deploy:
-    needs: build
     runs-on: node:lts-alpine
-    
+    needs: build
     steps:
-      - name: Download build artifact
-        uses: actions/download-artifact@v4
+      - uses: actions/download-artifact@v4
         with:
           name: website-build
           path: build/
-      
-      - name: Deploy with dxfl
-        run: npx --yes dxfl deploy mailtape.deuxfleurs.eu build/ --yes
+
+      - run: npx --yes dxfl deploy mailtape.deuxfleurs.eu build/ --yes
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.dxfl_id }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.dxfl_secret }}
