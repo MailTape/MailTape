@@ -1,4 +1,4 @@
-name: Build and Publish on Deuxfleurs
+name: Build Astro and Publish on Deuxfleurs
 
 on:
   push:
