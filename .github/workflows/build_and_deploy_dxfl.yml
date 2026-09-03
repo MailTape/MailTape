@@ -49,4 +49,4 @@ jobs:
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.dxfl_id }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.dxfl_key }}
-        run: npx --yes dxfl deploy mailtape.deuxfleurs.eu build/ --yes
+        run: npx --yes dxfl deploy www.mailta.pe build/ --yes
