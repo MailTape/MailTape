@@ -15,7 +15,7 @@ track4_color: trippy
 track5_color: vibrant
 track6_color: bliss
 track7_color: vibrant
-image: https://mailta.pe/img/fbPic467.png
+image: https://www.mailta.pe/img/fbPic467.png
 guestPic: guestPic467.jpg
 track1_title: Steely Dan - Do It Again
 track2_title: Moondog - Bird's Lament

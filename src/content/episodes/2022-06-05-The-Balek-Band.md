@@ -32,7 +32,7 @@ track7_title: Wau Wau Collectif - Salamaleikoum
 episode_URL: https://www.mailta.pe/496/the-balek-band/
 guestPic: guestPic496.jpeg
 musiColor: musiColor496.png
-image: https://mailta.pe/img/fbPic496.png
+image: https://www.mailta.pe/img/fbPic496.png
 description: This morning, we are delighted to welcome Nantes-based group The Balek Band. Their very first album, Médecines, was freshly released last Friday, and they can't wait to share their musical universe with us!
 pubDate: '2022-06-05'
 ---

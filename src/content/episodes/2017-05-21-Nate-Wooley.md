@@ -30,7 +30,7 @@ episode_URL: http://mailta.pe/261/Nate-Wooley/
 guest_name: Nate Wooley
 guestPic: guestPic261.jpg
 illustrator: William Girault
-image: https://mailta.pe/img/fbPic261.jpg
+image: https://www.mailta.pe/img/fbPic261.jpg
 musiColor: musiColor261.png
 description: We are super happy to welcome experimental trumpeter, Nate Wooley, in this week's issue. Nate recalls the rain-soaked Pacific Northwest he once called home and provides a glimpse into his gentler Sunday morning listening.
 pubDate: '2017-05-21'

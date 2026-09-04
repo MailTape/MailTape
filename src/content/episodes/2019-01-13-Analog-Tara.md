@@ -33,7 +33,7 @@ episode_URL: http://mailta.pe/340/analog-tara/
 guestPic: guestPic340.jpg
 description: This morning we are delighted to welcome multi-instrumentalist composer and historian of electronic music and sound, Dr. Tara Rodgers (Analog Tara)
 musiColor: musiColor340.png
-image: https://mailta.pe/img/fbPic340.jpg
+image: https://www.mailta.pe/img/fbPic340.jpg
 pubDate: '2019-01-13'
 ---
 This morning we are delighted to welcome multi-instrumentalist composer and historian of electronic music and sound, Dr. Tara Rodgers ([Analog Tara](http://www.analogtara.net/wp/)). 

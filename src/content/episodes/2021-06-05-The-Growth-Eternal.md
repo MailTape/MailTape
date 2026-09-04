@@ -23,7 +23,7 @@ track1_link: https://sounds.mailta.pe/454/track1.mp3
 track2_link: https://sounds.mailta.pe/454/track2.mp3
 track3_link: https://sounds.mailta.pe/454/track3.mp3
 guestPic: guestPic454.jpg
-image: https://mailta.pe/img/fbPic454.png
+image: https://www.mailta.pe/img/fbPic454.png
 episode_URL: http://mailta.pe/454/The-Growth-Eternal/
 guest_color: dreamy
 track4_link: https://sounds.mailta.pe/454/track4.mp3

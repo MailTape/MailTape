@@ -23,7 +23,7 @@ track5_color: dreamy
 track6_color: bliss
 track7_color: vibrant
 musiColor: musiColor486.png
-image: https://mailta.pe/img/fbPic486.png
+image: https://www.mailta.pe/img/fbPic486.png
 episode_URL: http://mailta.pe/486/Jesse-Adelman/
 track4_title: Jesse Adelman - Even If
 track6_title: Jesse Adelman - Me and Josine

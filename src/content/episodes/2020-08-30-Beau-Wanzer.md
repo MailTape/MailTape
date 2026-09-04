@@ -23,7 +23,7 @@ track2_link: https://sounds.mailta.pe/414/track2.mp3
 track3_link: https://sounds.mailta.pe/414/track3.mp3
 track6_link: https://sounds.mailta.pe/414/track6.mp3
 track7_link: https://sounds.mailta.pe/414/track7.mp3
-episode_URL: https://mailta.pe/414/beau-wanzer/
+episode_URL: https://www.mailta.pe/414/beau-wanzer/
 track4_link: https://sounds.mailta.pe/414/track4.mp3
 track4_title: Beau Wanzer – Snake and Shake
 track4_color: trippy
@@ -33,7 +33,7 @@ track5_color: trippy
 guestPic: guestPic414.jpg
 description: Welcome back to a new season of MailTape! This morning we welcome Chicago-based woozy noodler Beau Wanzer to select three contorted Sunday morning tunes with us.
 musiColor: musiColor414.png
-image: https://mailta.pe/img/fbPic414.png
+image: https://www.mailta.pe/img/fbPic414.png
 pubDate: '2020-08-30'
 ---
 Welcome back to a new season of MailTape! This morning we welcome Chicago-based woozy noodler [Beau Wanzer](https://beauwanzer.bandcamp.com/) to select three contorted Sunday morning tunes with us. 

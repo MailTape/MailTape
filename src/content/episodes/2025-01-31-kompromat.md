@@ -36,7 +36,7 @@ description: This morning, we are deeply honored and excited to share with you
   powerful synth waves to energize you. Allow yourself to be intoxicated by the
   energy of desire and movement; trust your wild side and dance with the chaos.
 episode_URL: https://www.mailta.pe/575/kompromat/
-image: https://mailta.pe/img/fbPic575.jpg
+image: https://www.mailta.pe/img/fbPic575.jpg
 musiColor: musicolor575.png
 alignY: "0.22"
 ---

@@ -29,9 +29,9 @@ track6_title: Rachel Grimes – The Air In Time
 track6_color: dreamy
 track7_title: Allison Cameron - 3rds, 4ths & 5ths
 track7_color: bliss
-episode_URL: https://mailta.pe/236/Linda-Buckley/
+episode_URL: https://www.mailta.pe/236/Linda-Buckley/
 guestPic: guestPic236.jpg
-image: https://mailta.pe/img/fbPic236.jpg
+image: https://www.mailta.pe/img/fbPic236.jpg
 musiColor: musiColor236.png
 description: This morning, let yourself be cocooned in the beautiful strands of sound woven together by our guest, Linda Buckley. Resist the day for just a few minutes longer, as your consciousness oscillates with the ebb and flow of each track. Linda Buckley knows just how to tap into the dreamy ether, gently pulling opening doors to sonic worlds whose tendrils reach out, imploring you to join them. Close your eyes, slow your breathing, and let the sound vortex move you.
 pubDate: '2016-11-27'

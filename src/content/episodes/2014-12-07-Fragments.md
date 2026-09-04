@@ -32,7 +32,7 @@ track7_title: The Pandamonium - Waiting for Summer
 guestPic: guestPic163.jpg
 musiColor: musiColor163.png
 description: This morning, here's a Mailtape inspired by Fragments. You're bound to wake up in a good mood by the end of this sunday selection. Enjoy the lively rhythms of these tracks and you will be powered for the rest of the day.
-image: https://mailta.pe/img/fbPic163.jpg
+image: https://www.mailta.pe/img/fbPic163.jpg
 pubDate: '2014-12-07'
 ---
 

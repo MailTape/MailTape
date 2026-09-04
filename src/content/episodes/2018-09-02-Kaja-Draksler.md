@@ -33,7 +33,7 @@ episode_URL: http://mailta.pe/321/kaja-draksler/
 description: Welcome back to a new season of MailTape. This morning we welcome one of my favourite pianist-composers, Kaja Draksler, who supplies us with a dreamy Sunday morning selection of chorales and solo piano.
 guestPic: guestPic321.jpg
 musiColor: musiColor321.png
-image: https://mailta.pe/img/fbPic321.jpg
+image: https://www.mailta.pe/img/fbPic321.jpg
 pubDate: '2018-09-02'
 ---
 Welcome back to a new season of MailTape. In our first episode since July we welcome one of my favourite pianist-composers, [Kaja Draksler](http://kajadraksler.com/), who replenishes us with a dreamy Sunday morning selection of chorales and solo piano.

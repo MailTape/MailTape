@@ -32,7 +32,7 @@ track7_color: dreamy
 episode_URL: http://mailta.pe/317/jally-kebba-susso/
 guestPic: guestPic317.jpg
 description: Today we are delighted to welcome kora player Jally Kebba Susso as he picks a soothing suite of Sunday morning jams for MailTape.
-image: https://mailta.pe/img/fbPic317.jpg
+image: https://www.mailta.pe/img/fbPic317.jpg
 musiColor: musiColor317.png
 pubDate: '2018-06-17'
 ---

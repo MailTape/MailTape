@@ -31,7 +31,7 @@ track7_color: trippy
 category: '289'
 episode_URL: https://www.mailta.pe/289/hector-gachan
 guestPic: guestPic289-2.jpg
-image: https://mailta.pe/img/fbPic289.png
+image: https://www.mailta.pe/img/fbPic289.png
 musiColor: musiColor289.png
 description: This morning, kickstart your day with Hector Gachan’s warm and lively selection. Let this selection take you out of your lethargy and be the soundtrack of what you want your morning to be. Get cosy or get busy, your call.
 pubDate: '2017-12-03'

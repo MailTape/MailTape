@@ -20,7 +20,7 @@ track5_color: dreamy
 track6_color: bliss
 track7_color: trippy
 guestPic: guestPic538.jpg
-image: ' https://mailta.pe/img/fbPic538.png'
+image: ' https://www.mailta.pe/img/fbPic538.png'
 track7_title: Vanishing Twin - Afternoon X
 track4_link: https://sounds.mailta.pe/538/track4.mp3
 track1_link: https://sounds.mailta.pe/538/track1.mp3

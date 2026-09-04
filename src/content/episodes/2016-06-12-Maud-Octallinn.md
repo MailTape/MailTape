@@ -9,7 +9,7 @@ category: '221'
 guest_name: Maud Octallinn
 guest_color: dreamy
 guestPic: guestPic221.jpg
-episode_URL: https://mailta.pe/221/Maud-Octallinn/
+episode_URL: https://www.mailta.pe/221/Maud-Octallinn/
 track1_link: https://sounds.mailta.pe/221/track1.mp3
 track2_link: https://sounds.mailta.pe/221/track2.mp3
 track3_link: https://sounds.mailta.pe/221/track3.mp3
@@ -32,7 +32,7 @@ track6_color: dreamy
 track7_title: Flamingosis - Believe in Me
 track7_color: vibrant
 musiColor: musiColor221.png
-image: https://mailta.pe/img/fbPic221.jpg
+image: https://www.mailta.pe/img/fbPic221.jpg
 description: This morning, I introduce you to Maud Octallinn, a french psych-pop singer.
 pubDate: '2016-06-12'
 ---

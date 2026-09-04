@@ -33,7 +33,7 @@ episode_URL: http://mailta.pe/332/sara-serpa/
 description: This morning we welcome vocalist and composer Sara Serpa to pick three Sunday morning musical selections for us.
 guestPic: guestPic332.jpg
 musiColor: musiColor332.png
-image: https://mailta.pe/img/fbPic332.jpg
+image: https://www.mailta.pe/img/fbPic332.jpg
 pubDate: '2018-11-18'
 ---
 This morning we welcome vocalist and composer [Sara Serpa](https://www.saraserpa.com/) to pick three Sunday morning musical selections for us.

@@ -35,8 +35,8 @@ description: We're back ! This morning, we're absolutely delighted to welcome
   re-enchanting these practices with unexpected noise and experimental textures.
   Magic Tuber Stringband members Evan Morgan, Mike DeVito, and Courtney Werner
   join us following the release of their latest album, Needlefall.
-episode_URL: https://mailta.pe/578/Magic-Tuber-Stringband/
-image: https://mailta.pe/img/fbPic578.jpg
+episode_URL: https://www.mailta.pe/578/Magic-Tuber-Stringband/
+image: https://www.mailta.pe/img/fbPic578.jpg
 musiColor: musicolor578.png
 ---
 We're back ! This morning, we're absolutely delighted to welcome [Magic Tuber Stringband ](https://magictuberstringband.bandcamp.com/album/needlefall)for MailTape's first episode of the spring. Based in Durham, the band weaves itself into the Appalachian folk traditions, re-enchanting these practices with unexpected noise and experimental textures. Magic Tuber Stringband members Evan Morgan, Mike DeVito, and Courtney Werner join us following the release of their latest album, [Needlefall](https://magictuberstringband.bandcamp.com/album/needlefall). 

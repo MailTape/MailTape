@@ -32,7 +32,7 @@ track2_link: https://sounds.mailta.pe/320/track2.mp3
 track3_link: https://sounds.mailta.pe/320/track3.mp3
 track7_link: https://sounds.mailta.pe/320/track7.mp3
 guestPic: guestPic320.jpg
-image: https://mailta.pe/img/fbPic320.jpg
+image: https://www.mailta.pe/img/fbPic320.jpg
 musiColor: musiColor320.png
 pubDate: '2018-07-08'
 ---

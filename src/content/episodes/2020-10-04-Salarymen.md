@@ -28,7 +28,7 @@ track7_title: Chico Bernardes - Me Encontrar
 track7_color: dreamy
 track6_link: https://sounds.mailta.pe/419/track6.mp3
 guestPic: guestPic419.jpg
-image: https://mailta.pe/img/fbPic419.png
+image: https://www.mailta.pe/img/fbPic419.png
 musiColor: musiColor419.png
 episode_URL: http://mailta.pe/419/Salarymen/
 illustrator: Pierre-Julien Fieux

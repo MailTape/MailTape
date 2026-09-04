@@ -29,7 +29,7 @@ track6_link: https://sounds.mailta.pe/482/track6.mp3
 track7_title: Ibibio Sound Machine - Electricity
 track7_color: vibrant
 track7_link: https://sounds.mailta.pe/482/track7.mp3
-image: https://mailta.pe/img/fbPic482.jpg
+image: https://www.mailta.pe/img/fbPic482.jpg
 episode_URL: http://mailta.pe/482/Alligator/
 musiColor: musiColor482.png
 guestPic: guestPic482.jpg

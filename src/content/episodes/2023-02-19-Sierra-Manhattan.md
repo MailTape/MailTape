@@ -23,7 +23,7 @@ track6_color: dreamy
 track7_title: Nilufer Yanya - Midnight Sun
 track7_color: bliss
 episode_URL: http://mailta.pe/518/sierra-manhattan/
-image: https://mailta.pe/img/fbPic518.png
+image: https://www.mailta.pe/img/fbPic518.png
 musiColor: musiColor518.png
 track1_link: https://sounds.mailta.pe/518/track1.mp3
 track2_link: https://sounds.mailta.pe/518/track2.mp3

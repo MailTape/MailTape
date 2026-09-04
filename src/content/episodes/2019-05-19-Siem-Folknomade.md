@@ -30,7 +30,7 @@ track6_color: bliss
 track7_title: The Last Poets – If We Only Knew What We Could Do
 track7_color: vibrant
 guestPic: guestPic358.jpg
-image: https://mailta.pe/img/fbPic358.jpg
+image: https://www.mailta.pe/img/fbPic358.jpg
 musiColor: musiColor358.png
 description: This morning we are pleased to welcome a long time MailTape listener and Marseille-based vocalist and composer, Siêm Folknomade.
 episode_URL: http://mailta.pe/358/siem-folknomade/

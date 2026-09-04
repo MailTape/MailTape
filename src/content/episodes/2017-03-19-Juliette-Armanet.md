@@ -32,7 +32,7 @@ track5_color: bliss
 track5_link: https://sounds.mailta.pe/252/track5.mp3
 description: This morning, our guest Juliette Armanet accompanies us on a journey of heart felt tempos and spiced sentiments.
 track6_title: Surfing - Hit The Spot
-image: https://mailta.pe/img/fbPic252.JPG
+image: https://www.mailta.pe/img/fbPic252.JPG
 musiColor: musicColor252.jpg
 pubDate: '2017-03-19'
 ---

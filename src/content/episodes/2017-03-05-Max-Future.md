@@ -29,8 +29,8 @@ track6_color: dreamy
 track7_color: bliss
 track7_link: https://sounds.mailta.pe/250/track7.mp3
 track7_title: Ryder the Eagle - It's All About The Music
-episode_URL: https://mailta.pe/250/Max-Future/
-image: https://mailta.pe/img/fbPic250.jpg
+episode_URL: https://www.mailta.pe/250/Max-Future/
+image: https://www.mailta.pe/img/fbPic250.jpg
 musiColor: musiColor250.png
 category: '250'
 description: This morning, let's have a glimpse of today's music and Max Future.

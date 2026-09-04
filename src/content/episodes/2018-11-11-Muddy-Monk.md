@@ -32,7 +32,7 @@ track7_title: Kokoroko - Abusey Junction
 track1_title: De Barjorak - Holy Dirty Intimacy
 guestPic: guestPic331.jpg
 description: This morning, we are delighted to welcome Muddy Monk to Mailtape.
-image: https://mailta.pe/img/fbPic331.png
+image: https://www.mailta.pe/img/fbPic331.png
 musiColor: musiColor331.png
 pubDate: '2018-11-11'
 ---

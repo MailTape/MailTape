@@ -23,7 +23,7 @@ track7_color: vibrant
 track6_color: dreamy
 track5_color: vibrant
 track4_color: trippy
-image: https://mailta.pe/img/fbPic458.png
+image: https://www.mailta.pe/img/fbPic458.png
 track1_link: https://sounds.mailta.pe/458/track1.mp3
 track2_link: https://sounds.mailta.pe/458/track2.mp3
 track3_link: https://sounds.mailta.pe/458/track3.mp3

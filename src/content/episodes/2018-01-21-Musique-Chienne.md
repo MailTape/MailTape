@@ -31,7 +31,7 @@ track7_title: OH MU - TOUT LE MONDE EST CONTENT ET VA À SA MAISON
 track7_color: vibrant
 guestPic: guestPic296.jpg
 musiColor: musiColor296.png
-image: https://mailta.pe/img/fbPic296.png
+image: https://www.mailta.pe/img/fbPic296.png
 episode_URL: https://www.mailta.pe/296/musique-chienne/
 description: This morning, please welcome Musique Chienne's sparkly selection! Musique Chienne is Sarah-Louise Barbett, a musician making "music for people and dog". In other words, she makes synth-based, percussive electronic, naive weird-but-good-weird music. So enter the psychedelic world of Musique Chienne, we hope you'll enjoy the trip!
 pubDate: '2018-01-21'

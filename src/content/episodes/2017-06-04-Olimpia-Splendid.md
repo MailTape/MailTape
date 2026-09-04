@@ -29,7 +29,7 @@ track7_title: Carla dal Forno — You Know What It's Like
 track7_color: dreamy
 episode_URL: http://mailta.pe/263/olimpia-splendid/
 guest_color: trippy
-image: https://mailta.pe/img/fbPic263.jpg
+image: https://www.mailta.pe/img/fbPic263.jpg
 musiColor: musiColor263.png
 description: This morning, we enter a hypnotic and dreamy world with Heta Bilaletdin, Jonna Karanka and Katri Sipiläinen of Finland-based trio, Olimpia Splendid.
 guestPic: guestPic263.jpg

@@ -32,7 +32,7 @@ track7_color: dreamy
 episode_URL: http://mailta.pe/294/felicia-atkinson/
 guestPic: guestPic294.jpg
 musiColor: musiColor294.png
-image: https://mailta.pe/img/fbPic294.jpg
+image: https://www.mailta.pe/img/fbPic294.jpg
 description: This morning we welcome preeminent Rennes-based avant-garde composer Félicia Atkinson to collaborate with us on MailTape. She weaves myriad, filigree electro-acoustic and non-musical metanarratives into a sonic lucid dream.
 pubDate: '2018-01-07'
 ---

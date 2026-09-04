@@ -19,7 +19,7 @@ track6_title: SRIRAJAH SOUND SYSTEM - SI PHAN DON LOVERS ROCK Feat.Molam Inteng 
 track6_color: trippy
 track7_title: Tiny Leaves - View From Here
 track7_color: bliss
-episode_URL: https://mailta.pe/479/Del-Stephen/
+episode_URL: https://www.mailta.pe/479/Del-Stephen/
 track2_link: https://sounds.mailta.pe/479/track2.mp3
 track3_link: https://sounds.mailta.pe/479/track3.mp3
 track4_link: https://sounds.mailta.pe/479/track4.mp3
@@ -32,7 +32,7 @@ illustrator: Thibault Daumain
 writer: ImaCrea
 guestPic: guestPic479.jpg
 musiColor: musiColor479.png
-image: https://mailta.pe/img/fbPic479.png
+image: https://www.mailta.pe/img/fbPic479.png
 description: This morning, we are floating in the air with Del Stephen. Coming from Toronto, his eclectic and blissful selection opens the doors to a magnificent Sunday. Warm and subtle, perfect to close this first month of the year (which has already been quiet intense !). Caring has never been so important and vital, see this episode as a heartful hug.
 pubDate: '2022-01-30'
 ---

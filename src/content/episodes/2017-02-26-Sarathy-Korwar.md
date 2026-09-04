@@ -28,9 +28,9 @@ track6_title: Shabaka and the Ancestors - Natty
 track6_color: vibrant
 track7_title: Dafnis Prieto Si O Si Quaret - Si O Si
 track7_color: bliss
-episode_URL: https://mailta.pe/249/sarathy-korwar/
+episode_URL: https://www.mailta.pe/249/sarathy-korwar/
 guestPic: guestPic249.jpg
-image: https://mailta.pe/img/fbPic249.jpg
+image: https://www.mailta.pe/img/fbPic249.jpg
 musiColor: musiColor249.png
 description: This morning, transcend borders with mantras, untethered saxophones, keys, and an unfettered groove from our guest, percussionist and composer, Sarathy Korwar.
 pubDate: '2017-02-26'

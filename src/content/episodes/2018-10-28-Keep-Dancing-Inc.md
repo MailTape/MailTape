@@ -32,7 +32,7 @@ track7_color: dreamy
 episode_URL: http://www.mailta.pe/329/keep-dancing-inc/
 description: This morning, we welcome Louis, Charles, Gabrielle and Joseph from Keep Dancing Inc to turn this MailTape into a Sunday ode to pop music.  Formed in 2014, the Parisian quartet released in June 2018 its second EP “Restructuration” on Un Plan Simple, where on the cover we can see a lonely photocopier on the dirty wine-red carpet of a random abandoned office. But far from the stiff world of impersonal open spaces and fake sick leave, Keep Dancing Inc’s music, lies somewhere between synth pop, new wave and cold zouk – it is warm and welcoming.
 guestPic: guestPic329.jpg
-image: https://mailta.pe/img/fbPic329.jpg
+image: https://www.mailta.pe/img/fbPic329.jpg
 musiColor: musiColor329.png
 pubDate: '2018-10-28'
 ---

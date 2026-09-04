@@ -23,7 +23,7 @@ track2_title: Nate Dogg - I Got Love
 track3_title: James Blake - Retrograde
 track4_title: Chill Bump - One Way Ticket
 episode_URL: http://mailta.pe/167/Chill-Bump/
-image: https://mailta.pe/img/fbPic167.jpg
+image: https://www.mailta.pe/img/fbPic167.jpg
 musiColor: musiColor167.png
 track4_link: https://sounds.mailta.pe/167/track4.mp3
 track5_link: https://sounds.mailta.pe/167/track5.mp3

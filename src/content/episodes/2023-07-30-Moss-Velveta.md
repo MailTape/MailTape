@@ -31,7 +31,7 @@ track5_title: V/Z, Valentina Magaletti, Zongamin - Candles (Version)
 track5_link: https://sounds.mailta.pe/533/track5.mp3
 episode_URL: http://mailta.pe/533/Moss-Velveta/
 track6_title: Kaitlyn Aurelia Smith - Clover
-image: https://mailta.pe/img/fbPic533.png
+image: https://www.mailta.pe/img/fbPic533.png
 musiColor: musiColor533.png
 description: This Sunday, we take the tread into morning's mist as we welcome the elusive Moss Velveta for Episode 533. Presently anonymous, the group's releases strike cinematic intensity, dipping into both baroque dissonances and delicate harmonies at once.
 pubDate: '2023-07-30'

@@ -24,7 +24,7 @@ track6_color: vibrant
 track7_title: DJ Python - I'm Tired
 track7_color: trippy
 episode_URL: http://mailta.pe/520/alexi-shell/
-image: https://mailta.pe/img/fbPic520.jpg
+image: https://www.mailta.pe/img/fbPic520.jpg
 musiColor: musiColor520.png
 track1_link: https://sounds.mailta.pe/520/track1.mp3
 track2_link: https://sounds.mailta.pe/520/track2.mp3

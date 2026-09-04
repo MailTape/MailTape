@@ -31,7 +31,7 @@ track7_title: Grouper – Being Her Shadow
 track7_color: dreamy
 episode_URL: http://mailta.pe/338/nadia-struiwigh/
 description: In this final episode of 2018, we are delighted to welcome Rotterdam-based DJ and electronic producer Nadia Struiwigh as she picks three meditative Sunday morning tunes.
-image: https://mailta.pe/img/fbPic338.jpg
+image: https://www.mailta.pe/img/fbPic338.jpg
 guestPic: guestPic338.jpg
 musiColor: musiColor338.png
 pubDate: '2018-12-30'

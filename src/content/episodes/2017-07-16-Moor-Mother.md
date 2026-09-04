@@ -32,7 +32,7 @@ episode_URL: http://mailta.pe/269/moor-mother/
 guestPic: guestPic269.jpg
 musiColor: musiColor269.png
 description: This morning we welcome Philadelphia-based interdisciplinary artist, Camae Ayewa (Moor Mother).
-image: https://mailta.pe/img/fbPic269.jpg
+image: https://www.mailta.pe/img/fbPic269.jpg
 pubDate: '2017-07-16'
 ---
 This morning we welcome someone who has been on my wish list for a while: Philadelphia-based interdisciplinary artist, Camae Ayewa ([Moor Mother](http://moormother.com/)).

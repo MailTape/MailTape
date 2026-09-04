@@ -38,8 +38,8 @@ description: This morning we invite you to explore a particular vibe. It is not
   dare to explore certain corners of musical creativity knowing that you will
   inevitably create wonders from them? Isn’t it necessary to then dare to take
   the plunge and share your work with the public?
-episode_URL: https://mailta.pe/553/Manofresca
-image: " https://mailta.pe/img/fbPic553.png"
+episode_URL: https://www.mailta.pe/553/Manofresca
+image: " https://www.mailta.pe/img/fbPic553.png"
 musiColor: musicolor.png
 ---
 This morning we invite you to explore a particular vibe. It is not easy to describe it. It's a certain idea of ​​refinement, someting that we can call pretension but not like you’re used to hearing. Rather something undeniably sustained, never haughty, something which places itself a little above the fray, which shines with its talent, with impetuous virtuosity, with pretension. And after all, why not? Don’t you need a bit of this pretension to dare to explore certain corners of musical creativity knowing that you will inevitably create wonders from them? Isn’t it necessary to then dare to take the plunge and share your work with the public?

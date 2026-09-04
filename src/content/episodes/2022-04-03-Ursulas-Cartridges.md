@@ -33,7 +33,7 @@ track7_title: Windows 96 - Edenic Green Plus
 track7_link: https://sounds.mailta.pe/488/track7.mp3
 description: 'This morning, we welcome Finland-based Ursula''s Cartridges to MailTape for an electro vaporwave selection. Combining 80''s and 90''s rave and electronic aesthetics, Ursula''s Cartridges pieces samplework into releases both novel and nostalgic. '
 musiColor: musiColor488.png
-image: https://mailta.pe/img/fbPic488.png
+image: https://www.mailta.pe/img/fbPic488.png
 pubDate: '2022-04-03'
 ---
 This morning, we welcome Finland-based [Ursula's Cartridges](https://ursulascartridges.bandcamp.com/) to MailTape for an electro vaporwave selection. Combining 80's and 90's rave and electronic aesthetics, Ursula's Cartridges pieces samplework into releases both novel and nostalgic. In his production process, Ursula's Cartridges strives to avoid the consumerism to which so much of music has fallen victim, cultivating pieces he finds to be genuine expressions, approaching works of "art" rather than "product." 

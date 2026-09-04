@@ -31,7 +31,7 @@ track5_link: 'https://sounds.mailta.pe/470/track5.mp3 '
 track6_link: https://sounds.mailta.pe/470/track6.mp3
 track7_link: https://sounds.mailta.pe/470/track7.mp3
 episode_URL: http://mailta.pe/470/remi-parson/
-image: https://mailta.pe/img/fbPic470.png
+image: https://www.mailta.pe/img/fbPic470.png
 musiColor: musiColor470.png
 description: This morning, We sneak into the city, at the first hour, with the partygoers coming back from their afternoons but also market gardeners preparing their stalls. Later in the morning, we get intoxicated by the smell of early morning coffee and the discussions of the little old people on the terraces of the cafés. It is with this emulsion of people on the move that we are driven to listen to Rémi Parson’s.
 pubDate: '2021-11-14'

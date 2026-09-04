@@ -30,7 +30,7 @@ track4_title: Mike Slott - Keep Me Here
 track5_title: LEYA - Wave
 track6_title: Leon Vynehall - Ecce! Ego!
 track7_title: PDP III - Calendar of Days
-image: 'https://mailta.pe/img/fbPic453.png'
+image: 'https://www.mailta.pe/img/fbPic453.png'
 musiColor: musiColor453.png
 description: >-
   This morning, let's go for a walk outside. We're joined by Mike Slott who made
@@ -39,7 +39,7 @@ description: >-
   first Hudson Mohawke record. Mike released last year Vignettes, a great inner
   cinematic experience.  Open the door, put your headphones on, and press play.
   No need to travel to the other side of the planet. Let's go.
-episode_URL: 'https://mailta.pe/453/Mike-Slott/'
+episode_URL: 'https://www.mailta.pe/453/Mike-Slott/'
 ---
 <p id="introduction">This morning, let's go for a walk outside. We're joined by [Mike Slott](https://mikeslott.bandcamp.com) who made us an honor to accept our invitation. 
   

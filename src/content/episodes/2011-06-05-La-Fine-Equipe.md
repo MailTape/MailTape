@@ -21,7 +21,7 @@ track6_title: Aspirin's For My Children - Cutter
 track7_link: https://sounds.mailta.pe/6/track7.mp3
 track7_title: Classixx - Into the Valley (Julio Bashmore remix)
 episode_URL: http://mailta.pe/6/La-Fine-Equipe/
-image: https://mailta.pe/img/fbPic6.jpg
+image: https://www.mailta.pe/img/fbPic6.jpg
 musiColor: musiColor6.png
 track1_color: vibrant
 track2_color: rough

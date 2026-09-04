@@ -33,7 +33,7 @@ track7_color: dreamy
 episode_URL: http://mailta.pe/514/Patricia-Wolf/
 description: This morning, we are delighted to welcome Patricia Wolf to MailTape. Patricia is a multi-instrumentalist, composer, and producer who draws on her natural surroundings to compose her music. Embark on a pure dreamy experience, sit back, and enjoy.
 musiColor: musiColor514.png
-image: https://mailta.pe/img/fbPic514.png
+image: https://www.mailta.pe/img/fbPic514.png
 pubDate: '2023-01-22'
 ---
 This morning, we are delighted to welcome [Patricia Wolf](https://patriciawolf.bandcamp.com/) to MailTape. Patricia is a multi-instrumentalist, composer, and producer who draws on her natural surroundings to compose her music. Embark on a pure dreamy experience, sit back, and enjoy.

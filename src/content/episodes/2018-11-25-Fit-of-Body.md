@@ -33,7 +33,7 @@ episode_URL: http://mailta.pe/333/fit-of-body/
 guestPic: guestPic333.jpg
 musiColor: musiColor333.png
 description: This morning we are delighted to welcome Atlanta-based music producer Fit of Body to MailTape.
-image: https://mailta.pe/img/fbPic333new.jpg
+image: https://www.mailta.pe/img/fbPic333new.jpg
 pubDate: '2018-11-25'
 ---
 This morning we are delighted to welcome Atlanta-based music producer [Fit of Body](https://fitofbody.bandcamp.com/) to MailTape.

@@ -29,11 +29,11 @@ track6_title: Mocky – Soulful Beat
 track6_color: vibrant
 track7_title: The Bamboos – Get in the Scene
 track7_color: trippy
-episode_URL: https://mailta.pe/244/Detroit-Swindle/
+episode_URL: https://www.mailta.pe/244/Detroit-Swindle/
 description: This morning, let yourself dive into complete blissfulness with the soulful beat of our guests Detroit Swindle. Awake with their chilled out yet rhythmic musical selection that highlights the return of soul in hip-hop.
 guestPic: guestPic244.jpg
 musiColor: musiColor244new.png
-image: https://mailta.pe/img/fbPic244.png
+image: https://www.mailta.pe/img/fbPic244.png
 pubDate: '2017-01-22'
 ---
 This morning, let yourself dive into complete blissfulness with the soulful beat of our guests [Detroit Swindle](https://soundcloud.com/detroitswindle "Soundcloud"). Awake with their chilled out yet rhythmic musical selection that highlights the return of soul in hip-hop symbolized by three great artists. Detroit Swindle is a Dutch duo of DJs, renown for connecting an incredibly wide variety of musical genres into their work, making their style one of a kind and quite unpredictable. One of their masterpieces "You, Me, Here, Now" will make you want to discover more so push the volume up folks and enjoy!

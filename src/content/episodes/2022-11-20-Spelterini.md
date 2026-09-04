@@ -16,7 +16,7 @@ track4_title: Spelterini - Paréidolie
 track5_color: trippy
 track7_color: rough
 track6_color: bliss
-image: https://mailta.pe/img/fbPic506.png
+image: https://www.mailta.pe/img/fbPic506.png
 guestPic: guestPic506.jpg
 episode_URL: http://mailta.pe/506/Spelterini/
 musiColor: musiColor505.png

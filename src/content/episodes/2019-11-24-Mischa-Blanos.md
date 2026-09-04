@@ -31,8 +31,8 @@ track6_color: dreamy
 track7_color: bliss
 guestPic: guestPic381.jpg
 description: This morning there's no rush to decide which side of consciousness you're on. Pianist, composer and producer Mischa Blanos is here to be your weightless anchor between states and realities.
-episode_URL: https://mailta.pe/381/mischa-blanos/
-image: https://mailta.pe/img/fbPic381.png
+episode_URL: https://www.mailta.pe/381/mischa-blanos/
+image: https://www.mailta.pe/img/fbPic381.png
 musiColor: musiColor381.png
 pubDate: '2019-11-24'
 ---

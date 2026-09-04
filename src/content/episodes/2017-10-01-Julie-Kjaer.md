@@ -30,7 +30,7 @@ track7_link: https://sounds.mailta.pe/280/track7.mp3
 track7_title: Matana Roberts & Stefan Christoff – Duet for Abdelrazik
 track7_color: dreamy
 episode_URL: http://mailta.pe/280/julie-kjaer/
-image: https://mailta.pe/img/fbPic280.jpg
+image: https://www.mailta.pe/img/fbPic280.jpg
 guestPic: guestPic280.jpg
 musiColor: musiColor280.png
 description: This morning we welcome the infectious enthusiasm and unbridled energy of London-based multi-reed player, Julie Kjær.

@@ -24,7 +24,7 @@ track7_color: dreamy
 track4_link: https://sounds.mailta.pe/429/track4.mp3
 writer: Sarah
 guestPic: guestPic429.jpg
-image: https://mailta.pe/img/fbPic429.png
+image: https://www.mailta.pe/img/fbPic429.png
 musiColor: musiColor429.png
 episode_URL: http://mailta.pe/429/Sorcha-Richardson
 track5_link: https://sounds.mailta.pe/429/track5.mp3

@@ -31,7 +31,7 @@ track7_title: Corte Real - Opium
 track7_color: dreamy
 episode_URL: http://mailta.pe/353/skinshape/
 guestPic: guestPic353.jpg
-image: https://mailta.pe/img/fbPic353new.png
+image: https://www.mailta.pe/img/fbPic353new.png
 musiColor: musiColor353.png
 description: This morning, Skinshape is welcoming us aboard his creative ship, you'd better be ready to weigh the anchor, sailor boys! From the Horn of Africa to foggy pirate havens, from the peaceful lands of England to the abyssal depths of the oceans, let yourself be guided by our guest, through awesome storms and mysterious sea creatures, all down to faraway places. Set sail!
 pubDate: '2019-04-14'

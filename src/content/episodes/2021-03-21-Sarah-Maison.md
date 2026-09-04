@@ -24,7 +24,7 @@ track6_color: bliss
 track7_title: 'Cyril Cyril - Al Boustane '
 track7_color: trippy
 episode_URL: http://mailta.pe/443/sarah-maison/
-image: https://mailta.pe/img/fbPic443.png
+image: https://www.mailta.pe/img/fbPic443.png
 musiColor: musiColor443.png
 track7_link: https://sounds.mailta.pe/443/track7.mp3
 track4_link: https://sounds.mailta.pe/443/track4.mp3

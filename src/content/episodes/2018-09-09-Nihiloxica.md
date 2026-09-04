@@ -31,7 +31,7 @@ track7_color: dreamy
 episode_URL: https://www.mailta.pe/322/nihiloxica/
 guestPic: guestPic322.jpg
 writer: Luc
-image: https://mailta.pe/img/fbPic322.JPG
+image: https://www.mailta.pe/img/fbPic322.JPG
 musiColor: musicColor322.JPG
 description: If defeating torpor is ever on your agenda, Ugandan’s own Nihiloxica, with their tribal percussions and visceral arrangements, should prove tremendously helpful. Their eponymous debut, recorded live in single takes, revolves around seven Ugandan percussionists – members of the Nilotika Cultural Ensemble – and combines their Bugandan drumming traditions with Western kit drumming and brooding synth layers. Far from unleashing the sonic onslaught we are used to, they seem at ease with lending us their softer side this Sunday morning.
 pubDate: '2018-09-09'

@@ -24,7 +24,7 @@ track6_color: dreamy
 track7_title: Natural Wonder Beauty Concept - Driving
 track7_color: trippy
 episode_URL: http://mailta.pe/535/cindy-pooch/
-image: https://mailta.pe/img/fbPic535.jpg
+image: https://www.mailta.pe/img/fbPic535.jpg
 musiColor: musiColor535.png
 track1_link: https://sounds.mailta.pe/535/track1.mp3
 track2_link: https://sounds.mailta.pe/535/track2.mp3

@@ -20,7 +20,7 @@ track6_color: bliss
 track7_color: trippy
 musiColor: musiColor469.png
 guestPic: guestPic469.jpg
-image: https://mailta.pe/img/fbPic469.png
+image: https://www.mailta.pe/img/fbPic469.png
 episode_URL: http://mailta.pe/469/The-Soul-Surfers/
 track4_title: Janko Nilovic and The Soul Surfers - Maze of Sounds Alternate Take
 track1_link: https://sounds.mailta.pe/469/track1.mp3

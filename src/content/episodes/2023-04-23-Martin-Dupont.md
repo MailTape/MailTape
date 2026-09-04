@@ -24,7 +24,7 @@ track6_color: trippy
 track7_title: Art Fact - Rain in the South
 track7_color: dreamy
 episode_URL: http://mailta.pe/525/martin-dupont/
-image: https://mailta.pe/img/fbPic525.jpg
+image: https://www.mailta.pe/img/fbPic525.jpg
 musiColor: musiColor525.png
 track1_link: https://sounds.mailta.pe/525/track1.mp3
 track2_link: https://sounds.mailta.pe/525/track2.mp3

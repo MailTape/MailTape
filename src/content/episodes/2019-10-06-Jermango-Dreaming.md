@@ -32,7 +32,7 @@ track7_color: dreamy
 guestPic: guestPic374.jpg
 episode_URL: https://www.mailta.pe/374/jermango-dreaming/
 musiColor: musiColor374.png
-image: https://mailta.pe/img/fbPic374.png
+image: https://www.mailta.pe/img/fbPic374.png
 description: This morning, please welcome Jermango Dreaming and his popping selection as our guest for this episode.  Jermango Dreaming is the project of Jermaine Sakr, an Australian artist making dreamy pop music, groovy and laid back.  This selection is both melancholic and upbeat. It is pure and feels whole. With days becoming colder and shorter, use this selection to help you embrace it.
 pubDate: '2019-10-06'
 ---

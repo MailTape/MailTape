@@ -31,7 +31,7 @@ track1_title: Sam Cooke and The Soul Stirrers - Christ it All
 track1_link: https://sounds.mailta.pe/344/Track%201.mp3
 track5_link: https://sounds.mailta.pe/344/Track%205.mp3
 guestPic: guestPic344.jpg
-image: https://mailta.pe/img/fbPic344.png
+image: https://www.mailta.pe/img/fbPic344.png
 description: 'This morning, like a divine light coming from nowhere, caressing our bodies, music moves us, borders us with our fingertips and astonishes us. Differentiated by its infinity, by these genres and multiple styles, it transports the spirits to take them into parallel worlds, this is what Tomemitsu shares with us this Sunday morning through a high selection in musical color.  '
 musiColor: musiColor344.png
 pubDate: '2019-02-10'

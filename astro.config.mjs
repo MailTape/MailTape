@@ -9,7 +9,7 @@ import tailwindcss from "@tailwindcss/vite";
 
 // https://astro.build/config
 export default defineConfig({
-    site: 'https://mailta.pe',
+    site: 'https://www.mailta.pe',
     integrations: [mdx(), sitemap(), pagefind()],
     vite: {
         plugins: [tailwindcss(

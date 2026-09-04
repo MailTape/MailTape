@@ -32,7 +32,7 @@ episode_URL: https://www.mailta.pe/364/bobby-oroza/
 track3_link: https://sounds.mailta.pe/364/track3.mp3
 description: This morning, whether on sunny beaches, palm groves or lush oases, or just enjoying a fine breakfast in your bed, allow yourself to be soothed by a strange and unique shade of Soul born in Finland but balancing international influences, with Bobby Oroza.
 guestPic: guestPic364-1.jpg
-image: https://mailta.pe/img/fbPic364.png
+image: https://www.mailta.pe/img/fbPic364.png
 musiColor: musiColor364.png
 pubDate: '2019-06-30'
 ---

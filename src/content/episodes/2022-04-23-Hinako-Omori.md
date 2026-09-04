@@ -24,7 +24,7 @@ track6_color: dreamy
 track7_title: Healion - About Breathing
 track7_color: trippy
 episode_URL: http://mailta.pe/490/hinako-omori/
-image: https://mailta.pe/img/fbPic490.jpg
+image: https://www.mailta.pe/img/fbPic490.jpg
 musiColor: musiColor489.png
 track1_link: https://sounds.mailta.pe/490/track1.mp3
 track2_link: https://sounds.mailta.pe/490/track2.mp3

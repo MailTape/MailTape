@@ -22,7 +22,7 @@ track2_color: bliss
 track1_color: dreamy
 track1_title: Timber Timbre - Velvet Gloves And Spit
 episode_URL: 'http://mailta.pe/377/river-into-lake/'
-image: 'https://mailta.pe/img/fbPic377.png'
+image: 'https://www.mailta.pe/img/fbPic377.png'
 musiColor: musiColor377.png
 guestPic: guestPic377.jpg
 category: '377'

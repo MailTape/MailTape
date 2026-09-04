@@ -32,7 +32,7 @@ track6_link: https://sounds.mailta.pe/360/track6.mp3
 episode_URL: http://mailta.pe/360/james-brandon-lewis/
 description: This morning we are pleased to welcome saxophonist and composer, James Brandon Lewis, to select three church-inspired Sunday morning tunes with us.
 guestPic: guestPic360.jpg
-image: https://mailta.pe/img/fbPic360.jpg
+image: https://www.mailta.pe/img/fbPic360.jpg
 musiColor: musiColor360.png
 pubDate: '2019-06-02'
 ---

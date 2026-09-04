@@ -29,8 +29,8 @@ track6_link: https://sounds.mailta.pe/571/track6.mp3
 track7_title: Lucas Andrea - L'imaginaire
 track7_color: vibrant
 track7_link: https://sounds.mailta.pe/571/track7.mp3
-episode_URL: https://mailta.pe/571/Attention-Le-Tapis-Prend-Feu/
-image: https://mailta.pe/img/fbPic571.png
+episode_URL: https://www.mailta.pe/571/Attention-Le-Tapis-Prend-Feu/
+image: https://www.mailta.pe/img/fbPic571.png
 musiColor: musicolor571.png
 ---
 This morning you're woken up by a weird smell, like something slightly burnt, that tickles the edge of your nostrils. Maybe, like [Michael Scott](https://www.youtube.com/watch?v=m_HR_o0jDqw&ab_channel=TheOffice) from The Office, you've put a mini-grill next to your bed to wake up to the smell of grilled bacon (watch your foot when you get up, then!)? But no, that's not it... You sit up in bed, slowly open your eyes and it seems as if the room is surrounded by a fog of smoke. You pivot to get your legs out of bed and suddenly feel the heat tickle the soles of your feet. You look down and suddenly it's clear: <b>watch out the carpet's on fire!</b>

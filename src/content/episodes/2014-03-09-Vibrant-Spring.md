@@ -32,7 +32,7 @@ track7_link: https://sounds.mailta.pe/131/track7.mp3
 author: MailTape Crew
 guestPic: guestPic131.jpg
 musiColor: musiColor131.png
-image: https://mailta.pe/img/fbPic131.png
+image: https://www.mailta.pe/img/fbPic131.png
 pubDate: '2014-03-09'
 ---
 

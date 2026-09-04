@@ -30,7 +30,7 @@ track5_title: Ekambi Brillant – Aboki
 track6_title: Conjunto Son San - A Pilha La Roz
 track7_title: Black Masters Band - Wonnim A Bisa
 episode_URL: https://www.mailta.pe/547/le-veritable-ariel-toko/
-image: https://mailta.pe/img/fbPic547.png
+image: https://www.mailta.pe/img/fbPic547.png
 musiColor: musiColor547.png
 description: This morning, we follow in the footsteps of irresistible music synonymous with softness and heat. If Africa is the birthplace of humankind, we will see in this episode that it has also pampered some rhythms which continue to inspire artists from around the world.
 published: true

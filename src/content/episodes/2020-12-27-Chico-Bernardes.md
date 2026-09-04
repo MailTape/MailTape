@@ -27,7 +27,7 @@ track7_link: https://sounds.mailta.pe/431/track7.mp3
 track7_title: Gábor Szabó - San Franciscan Nights
 track7_color: vibrant
 track6_color: dreamy
-image: https://mailta.pe/img/fbPic431.png
+image: https://www.mailta.pe/img/fbPic431.png
 musiColor: musiColor431.png
 episode_URL: http://mailta.pe/431/Chico-Bernardes/
 guestPic: guestPic431.jpg

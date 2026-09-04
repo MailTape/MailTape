@@ -29,10 +29,10 @@ track6_title: Jatinder Singh Durhailay and David Edren – Tulsi
 track6_color: dreamy
 track7_title: Vanessa Wagner – Struggle For Pleasure (GAS Rework)
 track7_color: trippy
-episode_URL: https://mailta.pe/373/shida-shahabi/
+episode_URL: https://www.mailta.pe/373/shida-shahabi/
 description: This morning we welcome the intimate and homespun piano of Stockholm-based pianist and composer, Shida Shahabi.
 guestPic: guestPic373.jpg
-image: https://mailta.pe/img/fbPic373.jpg
+image: https://www.mailta.pe/img/fbPic373.jpg
 musiColor: musiColor373.png
 pubDate: '2019-09-29'
 ---

@@ -33,7 +33,7 @@ episode_URL: https://www.mailta.pe/316/operator-music-band/
 description: This morning, we are delighted to welcome Operator Music Band, an art-pop quartet from New York. Their music sounds like a tesseract, a nicely intriguing and quite complex geometric figure from the fourth dimension that can be very surrealistic at first sight. But then, among other things, you will perceive a deep love for analogue synths, an interesting sense of humor, a vocal and instrumental surgical precision, no matter if you suck at mathematics.
 guestPic: GuestPic316ok.jpg
 musiColor: musiColor316.png
-image: https://mailta.pe/img/fbPic316.png
+image: https://www.mailta.pe/img/fbPic316.png
 pubDate: '2018-06-10'
 ---
 This morning, we are delighted to welcome [Operator Music Band](https://operatormusicband.bandcamp.com/), an art-pop quartet from New York.

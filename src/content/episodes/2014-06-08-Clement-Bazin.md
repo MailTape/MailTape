@@ -30,7 +30,7 @@ track6_title: Rome Fortune - One Time For
 track7_title: Taylor McFerrin - The Antidote (feat. Nai Palm)
 track7_link: https://sounds.mailta.pe/144/track7.mp3
 guestPic: guestPic144.jpg
-image: https://mailta.pe/img/fbPic144.jpg
+image: https://www.mailta.pe/img/fbPic144.jpg
 musiColor: musiColor144.png
 description: This morning, the french beatmaker Clément Bazin will carry you on a sunny journey. Quietly first, his selection will then energize your morning, be ready...
 pubDate: '2014-06-08'

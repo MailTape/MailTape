@@ -17,7 +17,7 @@ track5_color: dreamy
 track6_color: vibrant
 track7_color: bliss
 musiColor: musiColor456.png
-image: https://mailta.pe/img/fbPic456.png
+image: https://www.mailta.pe/img/fbPic456.png
 episode_URL: http://mailta.pe/456/Misha-Panfilov/
 track1_title: Tim Hill - Payador
 track2_title: Jeffrey Silverstein - Door At The Top Of Your Head

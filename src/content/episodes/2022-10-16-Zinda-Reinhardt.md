@@ -27,7 +27,7 @@ track3_link: https://sounds.mailta.pe/501/track3.mp3
 track4_link: https://sounds.mailta.pe/501/track4.mp3
 musiColor: musiColor501.png
 track7_link: https://sounds.mailta.pe/501/track7.mp3
-image: https://mailta.pe/img/fbPic501.jpg
+image: https://www.mailta.pe/img/fbPic501.jpg
 episode_URL: http://mailta.pe/501/Zinda-Reinhardt/
 track5_title: Minimi Deutsch - Still Foggy
 track6_title: Mykki Blanco - French Lessons (ft. Kelsey Lu)

@@ -28,7 +28,7 @@ track7_color: bliss
 track6_color: dreamy
 track5_color: trippy
 writer: ImaCrea
-image: https://mailta.pe/img/fbPic449.png
+image: https://www.mailta.pe/img/fbPic449.png
 episode_URL: https://www.mailta.pe/449/glenn-astro/
 musiColor: musiColor449.png
 description: This morning, let's have some actively collected intuitions distilled from love. Experimental, mystic, and joyful vibes as we start our trip with a colorful selection curated by Glenn Astro. Time to get out of the loop darling!

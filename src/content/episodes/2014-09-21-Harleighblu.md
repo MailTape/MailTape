@@ -30,7 +30,7 @@ track6_link: https://sounds.mailta.pe/152/track6.mp3
 track6_title: Rustie - Attak feat Danny Brown
 track7_link: https://sounds.mailta.pe/152/track7.mp3
 track7_title: Sango - Ago (Rvdical Remix)
-image: https://mailta.pe/img/fbPic152.jpg
+image: https://www.mailta.pe/img/fbPic152.jpg
 description: 'This morning, we''re back and with a Lady: please welcome Harleighblu !'
 musiColor: musiColor152.png
 pubDate: '2014-09-21'

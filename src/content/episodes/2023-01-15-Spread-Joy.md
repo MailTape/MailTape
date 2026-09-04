@@ -33,7 +33,7 @@ episode_URL: https://www.mailta.pe/513/Spread-Joy/
 guestPic: guestPic513.png
 musiColor: musiColor513.png
 description: This morning, please welcome Spread Joy! Post-punk band Spread Joy makes fast-paced, rythmically changing songs that make you want to run or dance or jump or maybe all of it together? In this episode, we are going through a bit of a rollercoaster for an episode full of life.
-image: https://mailta.pe/img/fbPic_513.jpeg
+image: https://www.mailta.pe/img/fbPic_513.jpeg
 pubDate: '2023-01-15'
 ---
  This morning, please welcome [Spread Joy](https://spreadjoy.bandcamp.com/) for an episode full of life. Post-punk band [Spread Joy](https://spreadjoy.bandcamp.com/) has released their second album in May last year and it is full of good energy. Fast-paced, rythmically changing songs that make you want to run or dance or jump or maybe all of it together? 

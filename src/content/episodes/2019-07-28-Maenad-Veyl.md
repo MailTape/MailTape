@@ -31,7 +31,7 @@ track3_link: https://sounds.mailta.pe/368/track3.mp3
 track4_link: https://sounds.mailta.pe/368/track4.mp3
 track6_link: https://sounds.mailta.pe/368/track6.mp3
 description: This morning, let's revel in the lush universe of Maenad Veyl, one of precisely crafted sounds and carefuly built momentums. His attention to detail and riveting atmospheres shine through his productions or the work of the artists he promotes on his label VEYL. The selection he prepared this sunday is no exception to that, a stroll through fresh ambient layers, a warm jazzy afrobeat piece or even a trension-building drum-and-bass track, all in restraint.
-image: https://mailta.pe/img/fbPic368.png
+image: https://www.mailta.pe/img/fbPic368.png
 musiColor: musiColor368.png
 guestPic: guestPic368.jpg
 pubDate: '2019-07-28'

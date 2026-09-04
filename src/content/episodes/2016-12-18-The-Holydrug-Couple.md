@@ -27,10 +27,10 @@ track5_color: trippy
 track6_title: Phil Stroud - Flow
 track6_color: bliss
 track7_color: trippy
-episode_URL: https://mailta.pe/239/The-Holydrug-Couple/
+episode_URL: https://www.mailta.pe/239/The-Holydrug-Couple/
 track4_link: https://sounds.mailta.pe/239/track4.mp3
 track7_title: Mick Jenkins - Drowning feat. BadBadNotGood
-image: https://mailta.pe/img/fbPic239.jpg
+image: https://www.mailta.pe/img/fbPic239.jpg
 musiColor: musiColor239.JPG
 description: This morning, we will explore a variety of psychedelic territories with our guests The Holydrug Couple.
 writer: Dimitri

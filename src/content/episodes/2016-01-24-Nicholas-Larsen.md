@@ -27,8 +27,8 @@ track6_title: Daniel Alexander - Trains
 track6_color: bliss
 track7_title: Frankey & Sandrino - Acamar
 track7_color: rough
-episode_URL: https://mailta.pe/201/Nicholas-Larsen/
-image: https://mailta.pe/img/fbPic201.png
+episode_URL: https://www.mailta.pe/201/Nicholas-Larsen/
+image: https://www.mailta.pe/img/fbPic201.png
 musiColor: musiColor201.png
 description: This morning, let’s play a bit with this untamed selection from our guest Nicholas Larsen. It won’t be without a few head nods that you will find his choices are sparked with the very same hints of his own sounds.
 published: true

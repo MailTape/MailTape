@@ -28,7 +28,7 @@ track6_color: dreamy
 track7_title: Steve Monite - Only You (Frankie Francis Disco Jam edit)
 track7_color: vibrant
 episode_URL: http://mailta.pe/276/limperatrice/
-image: https://mailta.pe/img/fbPic276.jpg
+image: https://www.mailta.pe/img/fbPic276.jpg
 musiColor: musiColor276.png
 description: This morning, the glitter balls are spinning a little slower and our limbs swaying more gently in the dark. L'Impératrice is here to help us close out the summer, in the soft shadows of a long expected sunrise.
 track2_color: vibrant

@@ -28,7 +28,7 @@ track7_link: 'https://sounds.mailta.pe/missingTrack.mp3'
 track7_title: 'Foxtrott - Intuition '
 track7_color: vibrant
 episode_URL: 'http://mailta.pe/448/northwest/'
-image: 'https://mailta.pe/img/fbPic448.png'
+image: 'https://www.mailta.pe/img/fbPic448.png'
 musiColor: musiColor448.png
 track1_link: 'https://sounds.mailta.pe/448/track1.mp3'
 track2_link: 'https://sounds.mailta.pe/448/track2.mp3'

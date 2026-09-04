@@ -31,8 +31,8 @@ track7_color: bliss
 track7_link: https://sounds.mailta.pe/585/track7.mp3
 description: This morning, as we change seasons and the metamorphosis of life is
   in full swing, we are deeply enthusiastic to have Ola Szmidt as our guest.
-episode_URL: https://mailta.pe/585/ola-szmidt/
-image: https://mailta.pe/img/fbpic585.jpg
+episode_URL: https://www.mailta.pe/585/ola-szmidt/
+image: https://www.mailta.pe/img/fbpic585.jpg
 musiColor: 1000003871.png
 ---
 This morning, as we change seasons and the metamorphosis of life is in full swing, we are deeply enthusiastic to have Ola Szmidt as our guest.

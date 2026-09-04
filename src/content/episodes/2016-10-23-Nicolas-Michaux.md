@@ -15,7 +15,7 @@ writer: Maxime
 category: '231'
 guest_name: Nicolas Michaux
 guest_color: vibrant
-episode_URL: https://mailta.pe/231/Nicolas-Michaux/
+episode_URL: https://www.mailta.pe/231/Nicolas-Michaux/
 track1_color: vibrant
 track2_color: dreamy
 track3_color: bliss
@@ -31,7 +31,7 @@ track7_title: Weekend Affair - Duel Part. 2
 track6_title: I Have a Tribe - After We Meet
 track6_color: vibrant
 track6_link: https://sounds.mailta.pe/231/track6.mp3
-image: https://mailta.pe/img/fbPic231.jpg
+image: https://www.mailta.pe/img/fbPic231.jpg
 musiColor: musiColor231.png
 description:  This morning, we offer you a romantic Mailtape, and a romantic artist. Nicolas Michaux is a Belgian singer who remind us the glory days of cheezy french or Italian pop songs. In "A la Vie, à la Mort", the romantism of Nicolas Michaux is tinted of melancolic mood, with falsely naive lyrics. Dominique A. et Etienne Daho resonate in Nicolas Michaux's music. (For all our non-french followers, I also recommand you to listen those two legendary french singer.) Poetry and lo-fi instrumental is the perfect blend in "A la Vie, à la mort", the blend that transform this song in a heady treasure that you'll cherish for a long time. 
 

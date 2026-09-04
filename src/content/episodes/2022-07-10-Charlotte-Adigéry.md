@@ -27,7 +27,7 @@ track3_link: https://sounds.mailta.pe/500/track3.mp3
 track4_link: https://sounds.mailta.pe/500/track4.mp3
 musiColor: musiColor500.png
 track7_link: https://sounds.mailta.pe/500/track7.mp3
-image: https://mailta.pe/img/fbPic500.png
+image: https://www.mailta.pe/img/fbPic500.png
 episode_URL: http://mailta.pe/500/Charlotte-Adigéry/
 track5_title: Pierre Barouh - Le Pollen
 track6_title: Say She She - Blow My Mind

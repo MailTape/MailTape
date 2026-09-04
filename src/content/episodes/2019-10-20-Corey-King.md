@@ -31,7 +31,7 @@ track5_link: https://sounds.mailta.pe/376/track5.mp3
 track2_color: trippy
 track1_color: bliss
 track3_color: dreamy
-image: https://mailta.pe/img/fbPic376.png
+image: https://www.mailta.pe/img/fbPic376.png
 musiColor: musiColor376.png
 description: This morning, we are delighted to welcome Corey King to select three inspiring Sunday morning tunes for us. The New-York-based multi-instrumentist has recently released a new album, "A Loveless Sunken Sun", he describes as "a testament to the power of angst to foster growth".
 pubDate: '2019-10-20'

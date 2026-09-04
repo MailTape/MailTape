@@ -21,7 +21,7 @@ track6_color: vibrant
 track7_title: Thus Owls - I Forget What I Remenbered
 track7_color: dreamy
 episode_URL: http://mailta.pe/527/grand-public/
-image: https://mailta.pe/img/fbPic527.png
+image: https://www.mailta.pe/img/fbPic527.png
 musiColor: musicolor527.png
 track1_title: Zwan - Lyric
 track1_color: rough

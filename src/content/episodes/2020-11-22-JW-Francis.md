@@ -28,7 +28,7 @@ musiColor: musiColor426.png
 track7_link: https://sounds.mailta.pe/426/track7.mp3
 track5_link: https://sounds.mailta.pe/426/track5.mp3
 track6_link: https://sounds.mailta.pe/426/track6.mp3
-image: https://mailta.pe/img/fbPic426.png
+image: https://www.mailta.pe/img/fbPic426.png
 track6_title: Mokina - Orfeu
 track7_title: lyam. - Pretty Pretty
 track5_title: Elan Noon - Honeyrose

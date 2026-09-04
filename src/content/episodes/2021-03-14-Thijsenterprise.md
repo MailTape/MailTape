@@ -28,7 +28,7 @@ author: Sarah
 writer: Sarah
 guest_color: vibrant
 guestPic: guestPic442.jpg
-image: https://mailta.pe/img/fbPic442.png
+image: https://www.mailta.pe/img/fbPic442.png
 musiColor: musiColor442.png
 track7_link: https://sounds.mailta.pe/442/track7.mp3
 track7_title: Gábor Szabó - Fire Dance

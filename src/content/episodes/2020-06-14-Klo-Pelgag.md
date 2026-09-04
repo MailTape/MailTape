@@ -33,7 +33,7 @@ musiColor: musiColor410.png
 episode_URL: https://www.mailta.pe/410/klo-pelgag/
 guestPic: guestPic410.jpg
 description: Today, we welcome Klô Pelgag for a sweet sunday morning made of fantastic stories.
-image: https://mailta.pe/img/fbPic410.png
+image: https://www.mailta.pe/img/fbPic410.png
 pubDate: '2020-06-14'
 ---
 This morning we welcome [Klô Pelgag](https://www.klopelgag.com/) to select three Sunday morning songs.

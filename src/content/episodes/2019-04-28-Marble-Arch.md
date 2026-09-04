@@ -30,7 +30,7 @@ track5_link: https://sounds.mailta.pe/355/Track5.mp3
 track6_link: https://sounds.mailta.pe/355/Track6.mp3
 track7_link: https://sounds.mailta.pe/355/Track7.mp3
 episode_URL: http://mailta.pe/355/marble-arch
-image: https://mailta.pe/img/fbPic355.png
+image: https://www.mailta.pe/img/fbPic355.png
 musiColor: musiColor355.jpg
 guestPic: guestPic355.jpg
 description: This morning, we are giving way to a wave of ambient melancholy, soft and light. As time playing on roller coasters , Marble Arch’s pop accompanies us this morning in this musical fog with many facets.

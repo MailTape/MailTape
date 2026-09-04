@@ -19,7 +19,7 @@ track1_link: https://sounds.mailta.pe/158/track1.mp3
 track2_link: https://sounds.mailta.pe/158/track2.mp3
 track3_link: https://sounds.mailta.pe/158/track3.mp3
 episode_URL: http://mailta.pe/158/Douglas-Dare/
-image: https://mailta.pe/img/fbPic158.jpg
+image: https://www.mailta.pe/img/fbPic158.jpg
 musiColor: musiColor158.png
 track1_title: iamamiwhoami - Thin
 track2_title: Andy Stott - Violence

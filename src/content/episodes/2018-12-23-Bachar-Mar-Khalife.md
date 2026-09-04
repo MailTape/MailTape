@@ -30,7 +30,7 @@ track4_link: https://sounds.mailta.pe/337/bachar-mar-khalife-lemon-official-vide
 track2_link: https://sounds.mailta.pe/337/Ziad%20Rahbani%20-%20Bala%20Wala%20Chi%20%D8%A8%D9%84%D8%A7%20%D9%88%D9%84%D8%A7%20%D8%B4%D9%8A%20%28Lyric%20Video%29.mp3
 track1_link: https://sounds.mailta.pe/337/requiem-op-48-ii-kyrie.mp3
 track3_link: https://sounds.mailta.pe/337/jaco-pastorius-part-10.mp3
-image: https://mailta.pe/img/fbPic337.jpg
+image: https://www.mailta.pe/img/fbPic337.jpg
 episode_URL: http://mailta.pe/337/Bachar-Mar-Khalife
 musiColor: musiColor337.jpg
 description: This morning we are delighted to welcome Franco-Lebanese singer, songwriter and multi-instrumentalist Bachar Mar-Khalifé to pick three Sunday morning musical selections for us. Accomplished artist and son of the legendary Eastern-Lute player Marcel Khalifé, Bachar released his fourth album "The Water Wheel A Tribute To Hamza El Din" last May.

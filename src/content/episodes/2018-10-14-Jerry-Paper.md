@@ -31,7 +31,7 @@ track7_color: trippy
 guestPic: guestPic327.jpg
 description: 'This morning, please welcome Jerry Paper''s eclectic selection. His music is multi-faceted. It''s witty and stays graceful at all times. Are you ready to enter Jerry Paper’s musical multiverse? '
 episode_URL: https://www.mailta.pe/327/jerry-paper/
-image: https://mailta.pe/img/fbPic327.png
+image: https://www.mailta.pe/img/fbPic327.png
 musiColor: musiColor327.png
 track2_link: https://sounds.mailta.pe/327/track2.mp3
 pubDate: '2018-10-14'

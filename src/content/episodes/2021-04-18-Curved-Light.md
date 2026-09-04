@@ -22,7 +22,7 @@ track5_link: 'https://sounds.mailta.pe/447/track5.mp3'
 track5_title: 36 & awakened souls - Past Self
 guest_color: bliss
 musiColor: musiColor447.png
-image: 'https://mailta.pe/img/fbPic447.png'
+image: 'https://www.mailta.pe/img/fbPic447.png'
 episode_URL: 'http://mailta.pe/447/Curved-Light/'
 guestPic: guestPic447.jpg
 track6_link: 'https://sounds.mailta.pe/missingTrack.mp3'

@@ -9,7 +9,7 @@ guest_name: Maud Geffray
 guest_color: bliss
 guestPic: guestPic281.jpg
 episode_URL: http://mailta.pe/281/maud-geffray/
-image: https://mailta.pe/img/fbPic281.png
+image: https://www.mailta.pe/img/fbPic281.png
 musiColor: musiColor281.png
 track1_link: https://sounds.mailta.pe/281/track1.mp3
 track1_title: Alessandro Cortini — Scappa

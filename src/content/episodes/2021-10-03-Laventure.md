@@ -22,8 +22,8 @@ track6_title: Le Noiseur - Relax
 track6_color: dreamy
 track7_color: bliss
 track7_title: 'Slim & The Beast - Tongue Tied '
-episode_URL: https://mailta.pe/464/laventure/
-image: https://mailta.pe/img/fbPic464.png
+episode_URL: https://www.mailta.pe/464/laventure/
+image: https://www.mailta.pe/img/fbPic464.png
 musiColor: musiColor464.png
 description: 'This morning, it feels like the return of the long Sundays under the blanket watching the rain fall. The heat and sun of this summer gives way to the coolness of the morning. Depressed, but here at MailTape, we have the solution: a selection of music made by the group Laventure. Chill, relaxation and sunshine in your heart assured!'
 illustrator: Camille Célestin

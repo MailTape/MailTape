@@ -31,7 +31,7 @@ track5_color: rough
 track6_color: vibrant
 track7_color: bliss
 episode_URL: http://mailta.pe/544/trifouille1er/
-image: https://mailta.pe/img/fbPic544.jpg
+image: https://www.mailta.pe/img/fbPic544.jpg
 musiColor: musiColor544.png
 description: Patchwork! This morning we offer you a fun activity with this new Sunday playlist. All you have to do is 1- settle into your best sofa, 2- plug in your headset (since this is the best way to listen a Mail Tape selection) and 3- start playback of today's episode. Well, actually it also works if you play it on your amp while you make yourself a coffee or you put on your running shoes. We are not sectarian at Mail Tape. All means are good to swallow your rations of good vibes.
 pubDate: '2024-01-21'

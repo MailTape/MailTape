@@ -33,7 +33,7 @@ track5_title: Nice Biscuit - Round and Round
 episode_URL: http://mailta.pe/502/Baby-Chuck/
 description: This morning, we're delighted to welcome Baby Chuck to MailTape for an eclectic collection that'll jump start your day. Based in Los Angeles, Baby Chuck (Matt O'Keefe) joins us a month after releasing his most recent album, Warm Infinity. The release examines the essence of memories and the varied nostalgia they bring.
 musiColor: musiColor502.png
-image: https://mailta.pe/img/fbPic502.png
+image: https://www.mailta.pe/img/fbPic502.png
 pubDate: '2022-10-23'
 ---
  This morning, we're delighted to welcome Baby Chuck to MailTape for an eclectic Sunday selection. Based in Los Angeles, Baby Chuck (Matt O'Keefe) joins us a month after releasing his most recent album, [Warm Infinity](https://babychuck.bandcamp.com/album/warm-infinity). The release explores and examines the essence of memories and the varied nostalgia that they bring.

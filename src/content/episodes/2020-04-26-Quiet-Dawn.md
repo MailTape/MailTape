@@ -3,7 +3,7 @@
 bigTitle_font_ratio: '6'
 published: true
 musiColor: musiColor403.png
-image: https://mailta.pe/img/fbPic403.png
+image: https://www.mailta.pe/img/fbPic403.png
 episode_URL: http://mailta.pe/403/quiet-dawn/
 guestPic: guestPic403.jpg
 guest_color: trippy

@@ -29,7 +29,7 @@ track5_title: OKI - Kai Kai As To (Rippling Lake)
 track5_link: https://sounds.mailta.pe/481/track5.mp3
 track6_link: https://sounds.mailta.pe/481/track6.mp3
 track6_title: Jesse Adelman - Big Spaceship
-image: https://mailta.pe/img/fbPic481.png
+image: https://www.mailta.pe/img/fbPic481.png
 episode_URL: http://mailta.pe/481/Luiza-Brina/
 musiColor: musiColor481.png
 guestPic: guestPic481.jpg

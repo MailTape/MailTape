@@ -31,7 +31,7 @@ track7_color: trippy
 episode_URL: http://mailta.pe/342/glockenspiel/
 track6_link: https://sounds.mailta.pe/342/track6.mp3
 guestPic: guestPic342.jpg
-image: https://mailta.pe/img/fbPic342.jpg
+image: https://www.mailta.pe/img/fbPic342.jpg
 musiColor: musiColor342.png
 description: This morning we are delighted to welcome Adrian Dollemore of Glockenspiel to select three Sunday morning tunes for us on MailTape.
 pubDate: '2019-01-27'

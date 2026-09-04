@@ -31,7 +31,7 @@ track3_link: https://sounds.mailta.pe/348/track3.mp3
 track6_link: https://sounds.mailta.pe/348/track6.mp3
 track7_link: https://sounds.mailta.pe/348/track7.mp3
 guestPic: guestPic348.jpg
-image: https://mailta.pe/img/fbPic348.jpg
+image: https://www.mailta.pe/img/fbPic348.jpg
 musiColor: musiColor348.png
 description: This morning we are thrilled to welcome London-based vocalist, guitarist and pianist, Julia Biel, who selects three swaying Sunday tunes for us.
 pubDate: '2019-03-10'

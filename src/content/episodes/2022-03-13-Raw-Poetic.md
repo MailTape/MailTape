@@ -27,7 +27,7 @@ track6_color: vibrant
 track7_color: dreamy
 track7_link: https://sounds.mailta.pe/485/track7.mp3
 track7_title: India Blue - Magpie
-image: https://mailta.pe/img/fbPic485.png
+image: https://www.mailta.pe/img/fbPic485.png
 episode_URL: http://mailta.pe/485/Raw-Poetic/
 guestPic: guestPic485.jpg
 track6_title: DARGZ, Moses Boyd - Happiness

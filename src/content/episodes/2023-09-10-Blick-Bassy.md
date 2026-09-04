@@ -24,7 +24,7 @@ track6_color: trippy
 track7_title: Beverly Glenn-Copeland - People of the Loon
 track7_color: bliss
 episode_URL: http://mailta.pe/534/blick-bassy/
-image: https://mailta.pe/img/fbPic534.png
+image: https://www.mailta.pe/img/fbPic534.png
 musiColor: musiColor534.png
 track1_link: https://sounds.mailta.pe/534/track1.mp3
 track2_link: https://sounds.mailta.pe/534/track2.mp3

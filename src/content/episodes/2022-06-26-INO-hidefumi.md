@@ -20,7 +20,7 @@ track5_color: vibrant
 track6_color: dreamy
 track7_color: dreamy
 guestPic: guestPic498.jpg
-image: https://mailta.pe/img/fbPic498.png
+image: https://www.mailta.pe/img/fbPic498.png
 track1_link: https://sounds.mailta.pe/498/track1.mp3
 track2_link: https://sounds.mailta.pe/498/track2.mp3
 track3_link: https://sounds.mailta.pe/498/track3.mp3

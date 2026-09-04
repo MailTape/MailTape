@@ -32,7 +32,7 @@ description: This morning we are delighted to welcome the French singer Enchant√
 episode_URL: http://mailta.pe/335/enchantee-julia/
 guestPic: guestPic335new.jpg
 musiColor: musiColor335.png
-image: https://mailta.pe/img/fbPic335.jpg
+image: https://www.mailta.pe/img/fbPic335.jpg
 illustrator: William Girault
 pubDate: '2018-12-09'
 ---

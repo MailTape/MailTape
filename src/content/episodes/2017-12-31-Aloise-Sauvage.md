@@ -22,7 +22,7 @@ track1_link: https://sounds.mailta.pe/293/track1.mp3
 track2_link: https://sounds.mailta.pe/293/track2.mp3
 track3_link: https://sounds.mailta.pe/293/track3.mp3
 track4_link: https://sounds.mailta.pe/293/track4.mp3
-image: https://mailta.pe/img/fbPic293.png
+image: https://www.mailta.pe/img/fbPic293.png
 musiColor: musiColor293.png
 track5_link: https://sounds.mailta.pe/293/track5.mp3
 track6_link: https://sounds.mailta.pe/293/track6.mp3

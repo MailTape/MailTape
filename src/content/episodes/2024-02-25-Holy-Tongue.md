@@ -24,7 +24,7 @@ track6_color: trippy
 track7_title: Chafouin - En mode Glass
 track7_color: bliss
 episode_URL: http://mailta.pe/548/Holy-Tongue/
-image: https://mailta.pe/img/fbPic548.jpg
+image: https://www.mailta.pe/img/fbPic548.jpg
 musiColor: musiColor548.png
 track1_link: https://sounds.mailta.pe/548/track1.mp3
 track2_link: https://sounds.mailta.pe/548/track2.mp3

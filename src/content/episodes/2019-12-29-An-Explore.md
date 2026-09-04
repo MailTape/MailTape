@@ -31,7 +31,7 @@ track4_color: bliss
 track5_color: dreamy
 track5_title: Slow Meadow - Artificial Algorithm
 guestPic: guestPic386.jpg
-image: ' https://mailta.pe/img/fbPic386.png'
+image: ' https://www.mailta.pe/img/fbPic386.png'
 musiColor: musiColor386.png
 description: This morning, it's finally time to slow down, stay awake for eternity in bed before enjoying a hot coffee contemplating the sky behind your window. Prepare for an exploratory musical morning journey with An Explore. To record "One", his five-track album released under the name of An Explore, Rob Macdonald has teamed with long time collaborator Lucy Wilkins to add violins and occasional vocal on his mix of piano and guitar melodies, electronic experimentations and field recordings. This collaboration creates an infinite and peaceful space conducive to escape and daydreaming, a perfect trip to take stock of the past year, to think of the day that is coming as well as of future excursions in distant lands.
 pubDate: '2019-12-29'

@@ -32,7 +32,7 @@ illustrator: Julie Wojtczak
 episode_URL: http://mailta.pe/415/Mini-Trees/
 musiColor: musiColor415.png
 description: This morning, we are thrilled to welcome Mini Trees to host the first MailTape episode of September! Lexi Vega played drums in the Los Angeles indie scene for many years before emerging as an artist with her solo project, Mini Trees. Mini Trees music is vibrant with emotional exploration, Vega creates a raw lyrical atmosphere wherein experiences are laid bare in a challenging and vulnerable way. Her newest EP, Slip Away, dives into all the turbulence and uncertainty of relationships, while also striving toward themes of self acceptance. Effortlessly, Mini Trees pairs this emotionally candid quality with a dreamy undercurrent. Listening to her second EP **Slip Away** feels like walking through the galleries of her very thoughts.
-image: https://mailta.pe/img/fbPic415.png
+image: https://www.mailta.pe/img/fbPic415.png
 guestPic: guestPic415.jpg
 pubDate: '2020-09-06'
 ---

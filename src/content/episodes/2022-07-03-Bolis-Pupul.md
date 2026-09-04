@@ -25,7 +25,7 @@ track6_link: https://sounds.mailta.pe/499/track6.mp3
 track5_color: vibrant
 track7_color: vibrant
 guestPic: guestPic499.jpg
-image: https://mailta.pe/img/fbPic499.png
+image: https://www.mailta.pe/img/fbPic499.png
 track5_title: Underground System - Desnuda
 track7_title: Walter Astral - L'eau
 track4_link: https://sounds.mailta.pe/499/track4.mp3

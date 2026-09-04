@@ -33,7 +33,7 @@ episode_URL: http://mailta.pe/323/loraine-james/
 guestPic: guestPic323.jpg
 description: This week we are delighted to welcome London-based electronic musician, Loraine James, who selects some groovy Sunday morning chops for us.
 musiColor: musiColor323.png
-image: https://mailta.pe/img/fbPic323.jpg
+image: https://www.mailta.pe/img/fbPic323.jpg
 pubDate: '2018-09-16'
 ---
 This week we are delighted to welcome London-based electronic musician [Loraine James](https://soundcloud.com/lorainejames), who selects some groovy Sunday morning chops for us.

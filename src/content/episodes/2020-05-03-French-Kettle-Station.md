@@ -32,7 +32,7 @@ track6_color: trippy
 track7_color: trippy
 description: 'This morning, it seems as we''re entering the final stage of grief: acceptance. After denial, anger, bargaining and depression, now we have no choice but to accept the world as it "used to be" has changed forever. Living with uncertainty may not be easy. But has it ever been different? It''s always been an illusion, everything is in movement and your heart is still beating. Now is no time to stop the rhythm but to let go and keep dancing with the unknown.'
 episode_URL: https://www.mailta.pe/404/french-kettle-station/
-image: https://mailta.pe/img/fbPic404.png
+image: https://www.mailta.pe/img/fbPic404.png
 musiColor: musiColor404.png
 pubDate: '2020-05-03'
 ---

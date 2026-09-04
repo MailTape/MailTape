@@ -14,8 +14,8 @@ track2_title: Sufjan Stevens - Should Have Known Better
 track3_title: Le Loup - Morning Song
 track4_color: vibrant
 track2_color: dreamy
-episode_URL: https://mailta.pe/226/Talitres-Records/
-image: https://mailta.pe/img/fbPic226.jpg
+episode_URL: https://www.mailta.pe/226/Talitres-Records/
+image: https://www.mailta.pe/img/fbPic226.jpg
 musiColor: musiColor226.png
 track3_link: https://sounds.mailta.pe/226/track3.mp3
 track1_color: dreamy

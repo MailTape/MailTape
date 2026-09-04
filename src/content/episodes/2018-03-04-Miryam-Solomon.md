@@ -32,7 +32,7 @@ track7_color: bliss
 episode_URL: http://mailta.pe/302/miryam-solomon/
 guestPic: guestPic302.jpg
 description: By way of Sweden and Eritrea we welcome London-based singer/songwriter, Miryam Solomon, who joins us to provide an eclectic Sunday morning playlist that promises, with any luck, to accompany our sapling-like emergence from the extended winter.
-image: https://mailta.pe/img/fbPic302.jpg
+image: https://www.mailta.pe/img/fbPic302.jpg
 musiColor: musiColor302.png
 pubDate: '2018-03-04'
 ---

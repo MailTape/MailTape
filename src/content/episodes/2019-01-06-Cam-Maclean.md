@@ -31,7 +31,7 @@ track3_link: https://sounds.mailta.pe/339/Track%203.mp3
 track7_link: https://sounds.mailta.pe/339/Track%207.mp3
 guestPic: guestPic339.jpg
 description: This morning, we are embarking on a year filled with joy, love and surprises. It shall also astonish us with many musical discoveries and auditory newness. Our journey, headed by captain Cam Maclean, promises a Sunday filled with hope and sweetness.
-image: https://mailta.pe/img/fbPic339.png
+image: https://www.mailta.pe/img/fbPic339.png
 writer: Anaïs G
 musiColor: musiColor339.png
 pubDate: '2019-01-06'

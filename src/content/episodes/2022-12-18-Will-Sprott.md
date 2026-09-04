@@ -13,7 +13,7 @@ track5_color: trippy
 track6_color: vibrant
 track7_color: dreamy
 guestPic: guestPic510.jpg
-image: https://mailta.pe/img/fbPic510.png
+image: https://www.mailta.pe/img/fbPic510.png
 episode_URL: http://mailta.pe/510/Will-Sprott/
 musiColor: musiColor510.png
 author: Sarah

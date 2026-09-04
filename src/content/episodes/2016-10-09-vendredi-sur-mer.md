@@ -30,8 +30,8 @@ track6_title: Drugdealer - Suddenly
 track6_color: vibrant
 track7_color: vibrant
 track7_title: Pépite - Eviter les Naufrages
-episode_URL: https://mailta.pe/229/vendredi-sur-mer/
-image: https://mailta.pe/img/fbPic229.jpg
+episode_URL: https://www.mailta.pe/229/vendredi-sur-mer/
+image: https://www.mailta.pe/img/fbPic229.jpg
 musiColor: musiColor229.png
 description: This morning, we're not far away from next week's shores. So, it's the perfect moment to chill, discover and adopt the seaside musical atmosphere of Vendredi Sur Mer. Where pop and psychedelism make a unexpected melt.  
 pubDate: '2016-10-09'

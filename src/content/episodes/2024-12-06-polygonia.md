@@ -29,7 +29,7 @@ track6_link: https://sounds.mailta.pe/569/track6.mp3
 track7_title: Polygonia - Inhaler
 track7_color: dreamy
 track7_link: https://sounds.mailta.pe/569/track7.mp3
-episode_URL: https://mailta.pe/569/POLYGONIA/
+episode_URL: https://www.mailta.pe/569/POLYGONIA/
 image: ""
 musiColor: musicolor569.png
 ---

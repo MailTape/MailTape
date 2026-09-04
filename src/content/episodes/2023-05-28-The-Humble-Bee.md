@@ -24,7 +24,7 @@ track6_color: bliss
 track7_title: Hania Rani - Mountains
 track7_color: bliss
 episode_URL: http://mailta.pe/528/the-humble-bee/
-image: https://mailta.pe/img/fbPic528.jpg
+image: https://www.mailta.pe/img/fbPic528.jpg
 musiColor: musiColor528.png
 track1_link: https://sounds.mailta.pe/528/track1.mp3
 track2_link: https://sounds.mailta.pe/528/track2.mp3

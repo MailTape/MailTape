@@ -10,8 +10,8 @@ guestPic: guestPic228.jpg
 track2_title: Edyth - Agua Verde
 track4_link: 'https://mtsounds.eu-central-1.wasabisys.com/228/track4.mp3'
 track4_title: Monomotion - Blue Hell Island
-episode_URL: 'https://mailta.pe/228/Monomotion/'
-image: https://mailta.pe/img/fbPic228.jpg
+episode_URL: 'https://www.mailta.pe/228/Monomotion/'
+image: https://www.mailta.pe/img/fbPic228.jpg
 musiColor: musiColor228.png
 track1_link: 'https://sounds.mailta.pe/228/track1.mp3'
 track1_title: Stormzy - Shut Up

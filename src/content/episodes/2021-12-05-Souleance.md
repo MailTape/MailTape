@@ -17,7 +17,7 @@ track7_color: bliss
 track6_title: Caribou - Magpie
 track6_color: dreamy
 episode_URL: http://mailta.pe/473/souleance/
-image: https://mailta.pe/img/fbPic473.png
+image: https://www.mailta.pe/img/fbPic473.png
 musiColor: musiColor473.png
 writer: Anaïs G
 illustrator: Camille Célestin

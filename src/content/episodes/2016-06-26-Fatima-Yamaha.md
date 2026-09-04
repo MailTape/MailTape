@@ -13,8 +13,8 @@ track4_title: Fatima Yamaha - Half Moon Rising
 track5_title: Carter Black - Ride Slow
 track7_title: Jacques - Tout Est Magnifique
 track6_title: Laker Inspired - Forever
-episode_URL: https://mailta.pe/223/Fatima-Yamaha/
-image: https://mailta.pe/img/fbPic223.png
+episode_URL: https://www.mailta.pe/223/Fatima-Yamaha/
+image: https://www.mailta.pe/img/fbPic223.png
 musiColor: musiColor223.png
 guest_name: Fatima Yamaha
 category: '223'

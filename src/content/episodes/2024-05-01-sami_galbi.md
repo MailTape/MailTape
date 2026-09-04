@@ -39,8 +39,8 @@ description: >+
   Drawing from raï and chaâbi in fluences, the music of his childhood he rediscovered in the cabarets of Casablanca, the Swiss-Moroccan musician is using analog machines, raw synthesizers, and guitar effects to give North African popular and folkloric music a pop texture and a club atmosphere. With his vocals and boundless energy on stage, which borrow from hip-hop and rap, he's an artist to keep an eye on! 
 
 
-episode_URL: https://mailta.pe/557/sami-galbi/
-image: https://mailta.pe/img/fbPic557.jpeg
+episode_URL: https://www.mailta.pe/557/sami-galbi/
+image: https://www.mailta.pe/img/fbPic557.jpeg
 musiColor: musicolor557.png
 ---
 This morning we're delighted to welcome Swiss-Moroccan musician and singer [Sami Galbi](https://samigalbi.bandcamp.com/) who has just released his first EP <i>Dakchi Hani / Rruina</i> to MailTape!

@@ -33,7 +33,7 @@ episode_URL: http://mailta.pe/275/sibusile-xaba/
 guestPic: guestPic275.jpg
 description: This morning I'm super excited to present the Sunday morning jukebox of Pretoria-based guitarist and generally beautiful human being, Sibusile Xaba, chosen especially for MailTape.
 musiColor: musiColor275.png
-image: https://mailta.pe/img/fbPic275.jpg
+image: https://www.mailta.pe/img/fbPic275.jpg
 pubDate: '2017-08-27'
 ---
 This morning I'm super excited to present the Sunday morning jukebox of Pretoria-based guitarist and generally beautiful human being, [Sibusile Xaba](http://sibusilexaba.com/newsite/), chosen especially for MailTape.

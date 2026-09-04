@@ -33,7 +33,7 @@ track7_link: https://sounds.mailta.pe/494/track7.mp3
 musiColor: musiColor494.png
 episode_URL: http://mailta.pe/494/Silas-Short/
 description: This morning we’re in excellent company with Silas Short from the legendary Stones Throw Record family. Young and very talented, his debut EP, “Drawing”, develops a rich soundscape carved with his very own signature. We’re very honored to have him with us today and pleased to share that pleasure with you. Let’s groove.
-image: https://mailta.pe/img/fbPic494.jpg
+image: https://www.mailta.pe/img/fbPic494.jpg
 pubDate: '2022-05-22'
 ---
 This morning we’re in excellent company with [Silas Short](https://silasshort.bandcamp.com/) from the legendary Stones Throw Record family. Young and very talented, his debut EP, ["Drawing"](https://silasshort.bandcamp.com/), develops a rich soundscape carved with his very own signature. We’re very honored to have him with us today and pleased to share that pleasure with you. Let’s groove.

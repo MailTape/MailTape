@@ -30,7 +30,7 @@ track6_color: bliss
 track7_title: Trio Da Kali – Yirimadjo
 track7_color: trippy
 episode_URL: http://mailta.pe/307/gaelynn-lea/
-image: https://mailta.pe/img/fbPic307.jpg
+image: https://www.mailta.pe/img/fbPic307.jpg
 guestPic: guestPic307.jpg
 musiColor: musiColor307.png
 description: This morning we are delighted to welcome Duluth-based violinist, Gaelynn Lea. She chooses an easy breezy Sunday morning playlist in collaboration with MailTape.

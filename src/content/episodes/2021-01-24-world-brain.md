@@ -29,8 +29,8 @@ writer: Daisy
 author: ImaCrea
 illustrator: Anthony Dujardin
 guestPic: guestPic435.jpg
-episode_URL: https://mailta.pe/435/world-brain/
-image: https://mailta.pe/img/fbPic435.png
+episode_URL: https://www.mailta.pe/435/world-brain/
+image: https://www.mailta.pe/img/fbPic435.png
 musiColor: musiColor435.png
 description: This morning, some delicious morsels of sonic data have found their way to us, beamed directly from the mind of World Brain (or Lucas Ufo IRL). These nifty signals hold secrets to be unravelled, spilling all around us and across the sky of an animated reality in pastel-perfect colours.
 guest_color: dreamy

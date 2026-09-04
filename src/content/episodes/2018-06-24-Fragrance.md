@@ -33,7 +33,7 @@ episode_URL: https://www.mailta.pe/318/fragrance/
 description: 'This morning we welcome Fragrance., Matthieu Roche’s solo project for a Sunday morning between the coast of Saint Malo and somewhere in the infinite space.  Quite ambiguous, Fragrance.’s synth pop songs oscillate between asserted mainstream influences (he released an amazing cover of Gala’s Freed From Desire) and lo-fi music, in the same way that his melancholic voice and dancing beats are mixed: you never really know how you should feel when you listen them.'
 guestPic: guestPic318okok.jpg
 musiColor: musiColor318.png
-image: https://mailta.pe/img/fbPic318.jpg
+image: https://www.mailta.pe/img/fbPic318.jpg
 pubDate: '2018-06-24'
 ---
 This morning we welcome [Fragrance.](https://fragrancemusic.bandcamp.com/album/dust-disorders-ep), Matthieu Roche’s solo project for a MailTape between the coast of Saint-Malo and somewhere in the infinite space.

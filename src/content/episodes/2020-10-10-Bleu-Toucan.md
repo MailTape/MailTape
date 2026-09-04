@@ -3,7 +3,7 @@
 bigTitle_font_ratio: '6'
 published: true
 musiColor: musiColor420.png
-image: https://mailta.pe/img/fbPic420.png
+image: https://www.mailta.pe/img/fbPic420.png
 episode_URL: http://mailta.pe/420/bleu-toucan/
 track7_color: bliss
 track7_title: Février - La montagne

@@ -31,7 +31,7 @@ category: '452'
 guest_color: dreamy
 track5_link: 'https://sounds.mailta.pe/452/track5.mp3'
 episode_URL: 'http://mailta.pe/452/good-morning-tv/'
-image: 'https://mailta.pe/img/fbPic452.png'
+image: 'https://www.mailta.pe/img/fbPic452.png'
 musiColor: musiColor452
 description: >-
   This morning, we’re back to a pretty normal life. We can plan to have brunches

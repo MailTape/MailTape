@@ -31,7 +31,7 @@ track6_title: Junip - Walking Lightly
 track7_link: https://sounds.mailta.pe/146/track7.mp3
 track7_title: alt-J - Hunger Of The Pine
 musiColor: musiColor146.png
-image: https://mailta.pe/img/fbPic146.jpg
+image: https://www.mailta.pe/img/fbPic146.jpg
 description: 'This morning, two special guests invite you to their universe. Please enter the world of the duo Grandbrothers. '
 pubDate: '2014-06-22'
 ---

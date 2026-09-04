@@ -17,7 +17,7 @@ track5_color: vibrant
 track6_color: trippy
 track7_color: vibrant
 guestPic: guestPic462.jpg
-image: https://mailta.pe/img/fbPic462.png
+image: https://www.mailta.pe/img/fbPic462.png
 musiColor: musiColor462.png
 track4_link: https://sounds.mailta.pe/462/track4.mp3
 track7_link: https://sounds.mailta.pe/462/track7.mp3

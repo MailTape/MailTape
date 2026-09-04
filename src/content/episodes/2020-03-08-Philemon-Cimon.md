@@ -16,8 +16,8 @@ track4_color: bliss
 track5_color: vibrant
 track6_color: rough
 track7_color: bliss
-episode_URL: https://mailta.pe/396/philemon-cimon/
-image: https://mailta.pe/img/fbPic396.png
+episode_URL: https://www.mailta.pe/396/philemon-cimon/
+image: https://www.mailta.pe/img/fbPic396.png
 musiColor: musiColor396.png
 track2_title: Félix Leclerc - Les Dimanches
 track3_title: Safia Nolin & Pomme - Lesbian Break-Up Song

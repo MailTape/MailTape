@@ -31,7 +31,7 @@ track6_link: https://sounds.mailta.pe/382/track6.mp3
 track7_link: https://sounds.mailta.pe/382/track7.mp3
 episode_URL: https://www.mailta.pe/382/fran-flora/
 guestPic: guestPic382.jpg
-image: https://mailta.pe/img/fbPic382.jpg
+image: https://www.mailta.pe/img/fbPic382.jpg
 musiColor: musiColor382.png
 description: This morning we are delighted to welcome Fran and Flora, the London-based string duo of Francesca Ter-Berg and Flora Curzon, to select some Sunday morning tunes with us on MailTape.
 pubDate: '2019-12-01'

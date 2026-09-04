@@ -35,8 +35,8 @@ description: "This morning, we are delighted to welcome Zeid Hamdan for a
   feel light and dense, tender, melancholic, but always full of light, pushing
   through the cracks. You’ll also be able to hear it live in Paris, at La Flèche
   d’Or on October 23."
-episode_URL: https://mailta.pe/593/Zeid-Hamdan/
-image: https://mailta.pe/img/fbPic593.png
+episode_URL: https://www.mailta.pe/593/Zeid-Hamdan/
+image: https://www.mailta.pe/img/fbPic593.png
 musiColor: musicolor593.png
 alignY: "0.5"
 ---

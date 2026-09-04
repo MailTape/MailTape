@@ -32,7 +32,7 @@ track6_title: De Lux - 875 Dollars
 episode_URL: https://www.mailta.pe/298/joey-fourr/
 guestPic: guestPic298.jpg
 musiColor: musiColor298.png
-image: https://mailta.pe/img/fbPic298.png
+image: https://www.mailta.pe/img/fbPic298.png
 description: This morning, we bring you an electrifying and magnetic MailTape. Our guest Joey Fourr will thrust you out of your comfort zone with their poignant selection of moving vibrations with touching lyrics.
 pubDate: '2018-02-04'
 ---

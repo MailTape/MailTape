@@ -28,7 +28,7 @@ track5_link: https://sounds.mailta.pe/507/track5.mp3
 track5_title: Adelyn Rose - Gone for Anything
 guestPic: guestPic507.jpg
 episode_URL: http://mailta.pe/507/Soren-Song/
-image: https://mailta.pe/img/fbPic507.png
+image: https://www.mailta.pe/img/fbPic507.png
 track4_link: https://sounds.mailta.pe/507/track4.mp3
 track7_link: https://sounds.mailta.pe/507/track7.mp3
 track7_title: Rainbow Kitten Surprise - Polite Company

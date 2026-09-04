@@ -15,7 +15,7 @@ track3_title: Dream Lovers - For Belgian Friends
 track2_title: June - Lost Area (Dj Sprinkles' Empty Dancefoor)
 track4_title: Ménage à Trois - All Night Long
 guestPic: guestPic2601.jpg
-episode_URL: https://mailta.pe/260/Ménage-à-Trois/
+episode_URL: https://www.mailta.pe/260/Ménage-à-Trois/
 track5_link: https://sounds.mailta.pe/260/track5.mp3
 track6_link: https://sounds.mailta.pe/260/track6.mp3
 track7_title: Dave Depper - Do You Want Love?
@@ -31,7 +31,7 @@ track6_color: bliss
 track7_color: trippy
 guest_color: dreamy
 track4_link: https://sounds.mailta.pe/260/track4.mp3
-image: https://mailta.pe/img/fbPic260.JPG
+image: https://www.mailta.pe/img/fbPic260.JPG
 description: Bright and delightful morning to the masses and the listeners, to the frequency lovers and addicted souls of the music empire. Today, Ménage à Trois  will tickle you with their harmonious selection and singular sound.
 musiColor: musiColor260.jpg
 pubDate: '2017-05-14'

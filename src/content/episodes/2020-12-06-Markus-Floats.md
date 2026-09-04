@@ -29,9 +29,9 @@ track6_title: Gino Soccio – Try it Out
 track6_color: trippy
 track7_title: Cubie Burke – Down for Double
 track7_color: vibrant
-episode_URL: https://mailta.pe/428/markus-floats/
+episode_URL: https://www.mailta.pe/428/markus-floats/
 guestPic: guestPic428.jpg
-image: https://mailta.pe/img/fbPic428.png
+image: https://www.mailta.pe/img/fbPic428.png
 description: This morning we welcome Markus Floats to select three snake-hipped Sunday morning tunes with us on MailTape.
 musiColor: musiColor428.png
 pubDate: '2020-12-06'

@@ -19,7 +19,7 @@ track2_color: dreamy
 track3_title: Spirit Club - Eye Dozer
 track3_color: vibrant
 track4_title: Johnny Hawaii - The Parrots Are Not What They Seem (They're Just Pigeons on Acid)
-episode_URL: https://mailta.pe/256/Johnny-Hawaii/
+episode_URL: https://www.mailta.pe/256/Johnny-Hawaii/
 guestPic: guestPic256.jpg
 track4_color: bliss
 track5_color: trippy
@@ -32,7 +32,7 @@ track7_color: bliss
 track7_link: https://sounds.mailta.pe/256/track7.mp3
 track5_title: The Radio Dept. - It's Personal
 description: 'This morning, let''s all stay in a hazy state thanks to Johnny Hawaii’s trippy selection. Johnny Hawaii''s psychedelic surf tracks are amazing soundtracks for Sundays: long, slow, and dreamy, just what is needed to wrap up the week beautifully. So stay still, close your eyes, don''t turn on the lights. Take this episode as being an excuse to do nothing for some time.'
-image: https://mailta.pe/img/fbPic256.png
+image: https://www.mailta.pe/img/fbPic256.png
 musiColor: musiColor256.png
 pubDate: '2017-04-16'
 ---

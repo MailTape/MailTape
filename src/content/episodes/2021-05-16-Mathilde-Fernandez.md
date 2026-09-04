@@ -32,11 +32,11 @@ track7_color: vibrant
 guestPic: guestPic451.jpg
 musiColor: musiColor451.png
 episode_URL: https://www.mailta.pe/451/mathilde-fernandez/
-image: https://mailta.pe/img/fbPic451.png
+image: https://www.mailta.pe/img/fbPic451.png
 description: 'This morning, we''re glad to have Mathilde Fernandez with us, this time to share her inspiration gravitating around her solo project. Last time, our episode 388 featured her duo with Paul Seul : Ascendant Vierge'
 pubDate: '2021-05-16'
 ---
-This morning, we're glad to have [Mathilde Fernandez](https://mathildefernandez.bandcamp.com/) with us, this time to share her inspiration gravitating around her solo project. Last time, our [episode 388](https://mailta.pe/388/ascendant-vierge/) featured her duo with [Paul Seul](https://soundcloud.com/paulseul) : [Ascendant Vierge](https://soundcloud.com/viergeascendant).
+This morning, we're glad to have [Mathilde Fernandez](https://mathildefernandez.bandcamp.com/) with us, this time to share her inspiration gravitating around her solo project. Last time, our [episode 388](https://www.mailta.pe/388/ascendant-vierge/) featured her duo with [Paul Seul](https://soundcloud.com/paulseul) : [Ascendant Vierge](https://soundcloud.com/viergeascendant).
 
 
 # Mathilde Fernandez's selection

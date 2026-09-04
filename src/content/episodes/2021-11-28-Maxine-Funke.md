@@ -18,7 +18,7 @@ track1_color: vibrant
 track5_color: dreamy
 track6_color: vibrant
 track7_color: bliss
-image: https://mailta.pe/img/fbPic472.png
+image: https://www.mailta.pe/img/fbPic472.png
 episode_URL: http://mailta.pe/472/Maxine-Funke/
 guestPic: guestPic472.jpg
 track1_link: https://sounds.mailta.pe/472/track1.mp3

@@ -30,7 +30,7 @@ track7_title: Ages - mermeladas de barbacoa
 track7_link: https://sounds.mailta.pe/134/track7.mp3
 episode_URL: http://mailta.pe/134/Catching-Flies/
 guestPic: guestPic134.jpg
-image: https://mailta.pe/img/fbPic134.jpg
+image: https://www.mailta.pe/img/fbPic134.jpg
 musiColor: musiColor134.png
 description: This morning, we're going to remind you that sometimes it's important to swap your coffee with a beer !  Go out, buy a ticket for a concert and if you're lucky enough, you'll make some cool discoveries as for us with Catching Flies.
 pubDate: '2014-03-30'

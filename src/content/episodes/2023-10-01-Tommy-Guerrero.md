@@ -31,7 +31,7 @@ track6_color: trippy
 track7_title: Boris Gardiner Happening – Breezin’
 track7_color: dreamy
 episode_URL: http://mailta.pe/536/tommy-guerrero/
-image: https://mailta.pe/img/fbPic536.jpg
+image: https://www.mailta.pe/img/fbPic536.jpg
 musiColor: musiColor536.png
 description: This morning, we're riding with Tommy Guerrero on the road to good vibes.
 pubDate: '2023-10-01'

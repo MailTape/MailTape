@@ -28,7 +28,7 @@ track6_color: trippy
 track7_title: Judah Warsky - Je M'en Souviendrai Jusqu'à La Fin De Ma Life (Remix Sarah Maison)
 track7_color: vibrant
 episode_URL: http://mailta.pe/393/dharma-bum/
-image: https://mailta.pe/img/fbPic393.png
+image: https://www.mailta.pe/img/fbPic393.png
 musiColor: musiColor393.png
 guest_color: bliss
 track1_link: https://sounds.mailta.pe/393/track1.mp3

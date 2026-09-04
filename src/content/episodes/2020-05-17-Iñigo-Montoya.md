@@ -28,7 +28,7 @@ track6_color: trippy
 track7_title: 'Ricky Hollywood - Le sens du sens '
 track7_color: dreamy
 episode_URL: http://mailta.pe/406/iñigo-montoya/
-image: https://mailta.pe/img/fbPic406.png
+image: https://www.mailta.pe/img/fbPic406.png
 musiColor: musiColor406.png
 track1_link: https://sounds.mailta.pe/406/track1.mp3
 track4_link: https://sounds.mailta.pe/406/track4.mp3

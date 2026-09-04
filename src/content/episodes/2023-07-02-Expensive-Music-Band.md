@@ -27,7 +27,7 @@ guest_color: vibrant
 track5_link: https://sounds.mailta.pe/531/track5.mp3
 track7_link: https://sounds.mailta.pe/531/track7.mp3
 guestPic: guestPic531.jpg
-image: https://mailta.pe/img/fbPic531.png
+image: https://www.mailta.pe/img/fbPic531.png
 episode_URL: http://mailta.pe/531/Expensive-Music-Band/
 track6_link: https://sounds.mailta.pe/531/track6.mp3
 track6_title: Moonfish - Mahi Mahi

@@ -30,8 +30,8 @@ track6_color: trippy
 track7_color: dreamy
 writer: ImaCrea
 guestPic: guestPic257.jpg
-episode_URL: https://mailta.pe/257/nathan-fake/
-image: https://mailta.pe/img/fbPic257.png
+episode_URL: https://www.mailta.pe/257/nathan-fake/
+image: https://www.mailta.pe/img/fbPic257.png
 musiColor: musiColor257.png
 description: This morning let's welcome Nathan Fake. He just released a new album with our dear folks from Ninja Tune. Known for his innovative and smoothly provocative work in electronic music, be prepared to embark on a mesmerizing trip towards clarity and peace of mind, two things well needed... especially today in France.
 pubDate: '2017-04-23'
@@ -48,7 +48,7 @@ We're here to push boundaries, to break walls and find the very rare music gems 
 # **Nathan Fake's Selection**
 
 ## HOME - Resonance
-_Nathan Fake_: **"** This track is like audio valium, especially when heard on a Sunday morning. **"**  (By the way, HOME was featured on [MailTape #213](https://mailta.pe/213/home/))
+_Nathan Fake_: **"** This track is like audio valium, especially when heard on a Sunday morning. **"**  (By the way, HOME was featured on [MailTape #213](https://www.mailta.pe/213/home/))
 
 ## Kaitlyn Aurelia Smith - When I Try I'm Full
 _Nathan Fake_: **"** My favourite track off kaitlyn's "ears" lp. beautiful bubbly synths and voices. **"** 

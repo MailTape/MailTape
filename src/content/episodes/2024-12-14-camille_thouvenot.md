@@ -37,8 +37,8 @@ description: This morning, Mail Tape invites you to revisit some classics and to
   have taken care to lay down fervently on their instruments. And fervor is
   particularly discussed in this episode because it's the fruit of our passion,
   it's what we take pleasure in sharing with you, every Sunday!
-episode_URL: https://mailta.pe/570/Camille-Thouvenot/
-image: https://mailta.pe/img/fbPic570.jpg
+episode_URL: https://www.mailta.pe/570/Camille-Thouvenot/
+image: https://www.mailta.pe/img/fbPic570.jpg
 musiColor: musicolor570.png
 ---
 This morning, Mail Tape invites you to revisit some classics and to

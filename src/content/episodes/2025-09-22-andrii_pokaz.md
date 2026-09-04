@@ -34,8 +34,8 @@ description: >-
   need to our speakers.
 
   Based in Odessa, Ukraine, Andrii Pokaz is a pianist and composer who moves freely between jazz, classical, and contemporary sounds. His selection for today sparks moments of reflection, surprise, and joy, just like his latest album, Proteus, released this summer. A boundless universe to explore as your morning unfolds.
-episode_URL: https://mailta.pe/591/Andrii-Pokaz/
-image: https://mailta.pe/img/fbpic591.jpg
+episode_URL: https://www.mailta.pe/591/Andrii-Pokaz/
+image: https://www.mailta.pe/img/fbpic591.jpg
 musiColor: musicolor591.png
 alignY: "0.4"
 ---

@@ -31,9 +31,9 @@ track7_title: Sarathy Korwar & Upaj Collective – Journey in Satchidananda
 track7_color: trippy
 guestPic: guestPic362.jpg
 musiColor: musiColor362.png
-image: https://mailta.pe/img/fbPic362.jpg
+image: https://www.mailta.pe/img/fbPic362.jpg
 description: This morning we welcome London-based saxophonist and composer, Camilla George, to select three Sunday morning tunes that include some of her inspirations and collaborations.
-episode_URL: https://mailta.pe/362/camilla-george/
+episode_URL: https://www.mailta.pe/362/camilla-george/
 pubDate: '2019-06-16'
 ---
  This morning we welcome London-based saxophonist and composer, [Camilla George](http://camillageorge.com/), to select three Sunday morning tunes that include some of her inspirations and collaborations.

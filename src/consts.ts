@@ -3,4 +3,4 @@
 
 export const SITE_TITLE = 'MailTape';
 export const SITE_DESCRIPTION = 'Welcome to MailTape!';
-export const SITE_BASE_URL = 'https://mailta.pe';
+export const SITE_BASE_URL = 'https://www.mailta.pe';

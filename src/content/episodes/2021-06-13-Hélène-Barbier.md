@@ -24,7 +24,7 @@ track6_color: vibrant
 track7_title: Phern - I Sold The House
 track7_color: trippy
 episode_URL: 'http://mailta.pe/455/hélène-barbier/'
-image: 'https://mailta.pe/img/fbPic455.png'
+image: 'https://www.mailta.pe/img/fbPic455.png'
 musiColor: musiColor455.png
 track7_link: 'https://sounds.mailta.pe/missingTrack.mp3'
 track1_link: 'https://sounds.mailta.pe/455/track1.mp3'

@@ -29,9 +29,9 @@ track6_title: Sons of Kemet - Adonia’s Lullaby
 track6_color: dreamy
 track7_title: Nérija - The Fisherman
 track7_color: vibrant
-episode_URL: https://mailta.pe/247/Cara-Stacey/
+episode_URL: https://www.mailta.pe/247/Cara-Stacey/
 guestPic: guestPic247.jpg
-image: https://mailta.pe/img/fbPic247.jpg
+image: https://www.mailta.pe/img/fbPic247.jpg
 musiColor: musiColor247.png
 description: This morning, let your curiosity about the world and all its corners run wild, with an intriguing selection from our guest Cara Stacey - composer, researcher, improviser and multi-instrumentalist.
 pubDate: '2017-02-12'

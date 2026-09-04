@@ -32,7 +32,7 @@ guestPic: guestPic279.jpg
 writer: ImaCrea
 episode_URL: https://www.mailta.pe/279/yellow-days/
 description: 'This morning, we keep it smooth and easy with this delicate indie selection made with the talented 17 years old Yellow Days, aka George Van Den Broek. Autumn just started 3 days ago, let’s stay in bed a little longer and plan our next vacation... '
-image: https://mailta.pe/img/fbPic279.png
+image: https://www.mailta.pe/img/fbPic279.png
 musiColor: musiColor279.png
 pubDate: '2017-09-24'
 ---

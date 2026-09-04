@@ -10,7 +10,7 @@ guest_color: bliss
 guestPic: guestPic272.jpg
 track4_title: Kelly Lee Owens - Anxi. ft. Jenny Hval
 episode_URL: http://mailta.pe/272/Kelly-Lee-Owens/
-image: https://mailta.pe/img/fbPic272.png
+image: https://www.mailta.pe/img/fbPic272.png
 musiColor: musiColor272.png
 track4_link: https://sounds.mailta.pe/272/track4.mp3
 track2_link: https://sounds.mailta.pe/272/track2.mp3

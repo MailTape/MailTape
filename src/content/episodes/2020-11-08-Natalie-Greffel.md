@@ -21,7 +21,7 @@ track6_title: 'Emel - The Man Who Sold the World '
 track7_title: Teno Afrika - Lerato La Bass
 track6_link: https://sounds.mailta.pe/424/track6.mp3
 track7_link: https://sounds.mailta.pe/424/track7.mp3
-episode_URL: https://mailta.pe/424/Natalie-Greffel/
+episode_URL: https://www.mailta.pe/424/Natalie-Greffel/
 guestPic: guestPic424.jpg
 track1_color: bliss
 track2_color: dreamy
@@ -31,7 +31,7 @@ track5_color: dreamy
 track6_color: bliss
 track7_color: trippy
 musiColor: musiColor424.png
-image: https://mailta.pe/img/fbPic424.png
+image: https://www.mailta.pe/img/fbPic424.png
 illustrator: Meriam Kharbat
 description: This morning, we're serving you a comfy episode. A selection curated with great care for a chill morning at home spent alone or with your loved ones sipping a warm hot chocolate. From blues, to bossa nova, Bowie's vibes and amapiano, we're honored to share this episode with Natalie Greffel as our dear guest.
 

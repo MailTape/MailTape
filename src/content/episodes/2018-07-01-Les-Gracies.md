@@ -32,7 +32,7 @@ track7_color: bliss
 episode_URL: http://mailta.pe/319/les-gracies/
 guestPic: guestPic319.jpg
 musiColor: musiColor319.png
-image: https://mailta.pe/img/fbPic319.jpg
+image: https://www.mailta.pe/img/fbPic319.jpg
 description: This morning we welcome the lyrical and funky Sunday morning selections of Les Graciés—a French-American tandem of a brother and a sister in sound, an evident and karmic encounter of free spirit music makers in full sympathy with the unknown.
 pubDate: '2018-07-01'
 ---

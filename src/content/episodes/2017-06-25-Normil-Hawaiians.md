@@ -31,7 +31,7 @@ track7_color: dreamy
 episode_URL: http://mailta.pe/266/normil-hawaiians/
 guestPic: guestPic266.jpg
 description: This morning, we are delighted to welcome Normil Hawaiians. Operating more like a collective than a band, the Normil Hawaiians formed in the austere post-punk permafrost of 1980s UK.
-image: https://mailta.pe/img/fbPic266.jpg
+image: https://www.mailta.pe/img/fbPic266.jpg
 musiColor: musiColor266.png
 pubDate: '2017-06-25'
 ---

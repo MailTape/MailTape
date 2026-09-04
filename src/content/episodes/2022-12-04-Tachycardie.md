@@ -17,7 +17,7 @@ track1_title: Able Noise - Side A
 track4_title: Tachycardie - Pratiques IV & V
 track1_color: dreamy
 episode_URL: http://mailta.pe/508/tachycardie/
-image: https://mailta.pe/img/fbPic508.png
+image: https://www.mailta.pe/img/fbPic508.png
 musiColor: musiColor508.png
 track4_color: trippy
 track5_title: Chassol - Pipornithology, Pt.1

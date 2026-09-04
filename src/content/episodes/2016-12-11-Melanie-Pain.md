@@ -21,8 +21,8 @@ track4_color: bliss
 track5_color: dreamy
 track6_color: dreamy
 track7_color: vibrant
-episode_URL: https://mailta.pe/238/Melanie-Pain/
-image: https://mailta.pe/img/FBPic238.jpg
+episode_URL: https://www.mailta.pe/238/Melanie-Pain/
+image: https://www.mailta.pe/img/FBPic238.jpg
 musiColor: musiColor238.png
 track4_title: Mélanie Pain - Lèvres Rubis
 track2_link: https://sounds.mailta.pe/238/track2.mp3

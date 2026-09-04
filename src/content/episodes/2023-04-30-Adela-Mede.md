@@ -24,7 +24,7 @@ track6_color: dreamy
 track7_title: PVAS - Dream Resumption ft. PS
 track7_color: vibrant
 episode_URL: http://mailta.pe/526/adela-mede/
-image: https://mailta.pe/img/fbPic526.png
+image: https://www.mailta.pe/img/fbPic526.png
 musiColor: musiColor526.png
 track1_link: https://sounds.mailta.pe/526/track1.mp3
 track2_link: https://sounds.mailta.pe/526/track2.mp3

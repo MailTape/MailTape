@@ -24,7 +24,7 @@ track6_color: vibrant
 track7_title: KONG - Yellow King Walking to Take Revenge
 track7_color: vibrant
 episode_URL: http://mailta.pe/543/Diamanda-La-Berge-Dramm/
-image: https://mailta.pe/img/fbPic543.jpg
+image: https://www.mailta.pe/img/fbPic543.jpg
 musiColor: musiColor543.png
 track1_link: https://sounds.mailta.pe/543/track1.mp3
 track2_link: https://sounds.mailta.pe/543/track2.mp3

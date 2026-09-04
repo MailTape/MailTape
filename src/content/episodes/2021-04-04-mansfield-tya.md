@@ -30,9 +30,9 @@ track5_color: dreamy
 track6_color: trippy
 track7_color: rough
 guestPic: guestPic445.jpg
-image: https://mailta.pe/img/fbPic445.png
+image: https://www.mailta.pe/img/fbPic445.png
 musiColor: musiColor445.png
-episode_URL: https://mailta.pe/445/Mansfield-TYA/
+episode_URL: https://www.mailta.pe/445/Mansfield-TYA/
 description: This morning, we welcome Mansfield.TYA, a surprisingly raw music duo from Nantes. Their music will both illuminate and sometimes somber your journey. With their sensitive and sensible songs composed of accessible yet very dense lyrics, Mansfield.TYA will take you on a poetic journey bathed in electronic sounds.
 pubDate: '2021-04-04'
 ---

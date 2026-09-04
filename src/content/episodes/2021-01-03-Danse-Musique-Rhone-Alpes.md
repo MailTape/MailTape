@@ -1,7 +1,7 @@
 ---
 
 musiColor: musiColor432.png
-image: https://mailta.pe/img/fbPic432.png
+image: https://www.mailta.pe/img/fbPic432.png
 episode_URL: http://mailta.pe/432/danse-musique-rhone-alpes/
 bigTitle_font_ratio: '6'
 track5_color: trippy
