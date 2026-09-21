@@ -1,0 +1,5 @@
+error_page = "404.html"
+
+[[redirects]]
+from = "585/Ola-Szmidt"
+to = "585/ola-szmidt"
