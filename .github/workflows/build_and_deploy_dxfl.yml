@@ -45,4 +45,4 @@ jobs:
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.dxfl_id }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.dxfl_key }}
-        run: bunx dxfl deploy www.mailta.pe build/ --yes
+        run: bunx dxfl deploy www.mailta.pe build/ --yes --config-file build/deuxfleurs.toml
