@@ -29,15 +29,7 @@ track6_link: https://sounds.mailta.pe/614/track6.mp3
 track7_title: Porta's - Saccage dit
 track7_color: bliss
 track7_link: https://sounds.mailta.pe/614/track7.mp3
-description: "After a summer break that admittedly lasted a bit long, we're
-  back, refreshed and determined to share a treasure trove of gems gleaned from
-  all corners of the globe. Our formula remains the same: we ask artists we love
-  to share 3 tracks they'd like to introduce us to, we add 1 of their tracks,
-  and then we complete with another 3 tracks, carefully selected by our small
-  team of enthusiasts, and there you have it! A musical interlude we're
-  delighted to offer you every Sunday morning. A handcrafted selection, made by
-  humans, not robots, with its share of surprises, discoveries, and new classics
-  to add into any good sound collection ;)"
+description: "This morning, we invite you to celebrate surprise and wild curiosity. Our dear guest, Patricia Dallio, is a French experimental electronic musician who began her career in the ’80s and spent three decades as a member of the now-cult band Art Zoyd. You might find her improvising and creating music somewhere in the forests of Haute-Marne. The vegetal world is buzzing with life and sound, if only one knows how to shift one’s attention toward the ever-magical world of the non-human. Be prepared to reassess some of your assumptions about what a MailTape episode can be."
 episode_URL: https://www.mailta.pe/614/patricia_dallio/
 image: https://www.mailta.pe/img/fbPic614.jpg
 musiColor: musiColor614.png
