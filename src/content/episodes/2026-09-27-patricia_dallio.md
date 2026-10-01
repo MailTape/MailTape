@@ -74,8 +74,8 @@ This gentleman has worked with many great musicians. I’m discovering him late�
 
  ImaCrea: **"** And now, after the mushrooms, let’s dive into the underground forest beneath our feet, where everything happens at once, synchronized by the fungal spirit. **"** 
 
-## [Porta's](https://poorrecords.bandcamp.com/album/largent-du-n-pal) - Saccage dit
+## [Porta's](https://stomoxine.bandcamp.com/album/largent-du-n-pal) - Saccage dit
 
- ImaCrea: **"** Porta's is Sylvie Balestra + Nicolas Godin + Thomas Bernard. It was 2am yesterday as I was patiently curating music and assembling this episode. 4 hours in the making and plunged in almost a state of pseudo dream induced by Patricia's music, I started to listen to [*L'Argenté du Népal*](https://poorrecords.bandcamp.com/album/largent-du-n-pal) and again everything changed. Vivid light coming from this ecstatic track ended turning this musical journey into a new chapter filled with so many promises of profund discoveries. Death is not the end.**"** 
+ ImaCrea: **"** Porta's is Sylvie Balestra + Nicolas Godin + Thomas Bernard. It was 2am yesterday as I was patiently curating music and assembling this episode. 4 hours in the making and plunged in almost a state of pseudo dream induced by Patricia's music, I started to listen to [*L'Argenté du Népal*](https://stomoxine.bandcamp.com/album/largent-du-n-pal) and again everything changed. Vivid light coming from this ecstatic track ended turning this musical journey into a new chapter filled with so many promises of profund discoveries. Death is not the end.**"** 
 
 And that's it for today! Thank you all for being with us, lots of love to [Patricia Dallio](https://patriciadallio.com) for her contribution and to Noémie Dijon for her illustration. We'll soon open the collective to welcome new members who would like to join in the adventure, whether through music curation or illustration. We'll announce it through our email newsletter.
