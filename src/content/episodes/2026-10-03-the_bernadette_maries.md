@@ -64,7 +64,7 @@ Have a good listen.
 
 ## [The Bernadette Maries](https://geographie.bandcamp.com/album/soft) – Interlude 02
 
- Anto: **"** It might seem strange to place an interlude here to introduce the work of a musical group, but this track is the one that caught my attention the most on the Bernadette Maries album. I love this contemplative theme. At first, you get the impression of hearing waves, like the rising tide, and then other elements come to mind, something raw, slow, tranquil… It could be the soundtrack of a tree growing and carving its place in the middle of a wild forest. I find that this track gives another dimension to the album, like the promise of something unexpected, something you only discover after listening to all the tracks… **"** 
+ Anto: **"** It might seem strange to place an interlude here to introduce the work of a musical band, but this track is the one that caught my attention the most on the Bernadette Maries album. I love this contemplative theme. At first, you get the impression of hearing waves, like the rising tide, and then other elements come to mind, something raw, slow, tranquil… It could be the soundtrack of a tree growing and carving its place in the middle of a wild forest. I find that this track gives another dimension to the album, like the promise of something unexpected, something you only discover after listening to all the tracks… **"** 
 
 ## [Deutshe Vita](https://deutschevita.bandcamp.com/album/dv1) – Du læsst mich
 
