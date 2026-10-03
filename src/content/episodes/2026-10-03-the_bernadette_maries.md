@@ -4,6 +4,7 @@ pubDate: 2026-10-04
 category: "615"
 guest_name: The Bernadette Maries
 guest_color: rough
+guestPic: guest615.jpg
 author: Anto
 illustrator: Pierre-Julien Fieux
 writer: Anto
