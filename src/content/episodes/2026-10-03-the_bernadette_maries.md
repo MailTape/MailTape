@@ -35,7 +35,7 @@ description: Damn planet, out of whack. Damn humans, making a mess of things and
   muffled screams, we're creating a bubbling playlist to exorcise our dark
   introspections.
 episode_URL: " https://www.mailta.pe/615/the-bernadette-maries/"
-image: ""
+image: " https://www.mailta.pe/img/fbPic615.png"
 ---
 Damn planet, out of whack. Damn humans, making a mess of things and becoming more and more pathetic. Damn existence, whose meaning we still haven't grasped… Today our emotions are restless. Between bizarre dreams and muffled screams, we're creating a bubbling playlist to exorcise our dark introspections.
 
