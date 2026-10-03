@@ -21,7 +21,7 @@ track4_title: The Bernadette Maries – Interlude 02
 track4_color: trippy
 track4_link: https://sounds.mailta.pe/615/track4.mp3
 track5_title: Deutshe Vita – Du læsst mich
-track5_color: rough
+track5_color: vibrant
 track5_link: https://sounds.mailta.pe/615/track5.mp3
 track6_title: Men I Trust – I come with mud
 track6_color: dreamy
