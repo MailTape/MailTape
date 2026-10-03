@@ -14,7 +14,8 @@ track4_link: https://sounds.mailta.pe/615/track4.mp3
 track5_link: https://sounds.mailta.pe/615/track5.mp3
 track6_link: https://sounds.mailta.pe/615/track6.mp3
 track7_link: https://sounds.mailta.pe/615/track7.mp3
-image: " https://www.mailta.pe/615/the-bernadette-maries/"
+episode_URL: " https://www.mailta.pe/615/the-bernadette-maries/"
+image: ""
 ---
 This morning... 
  # Guest's selection 
