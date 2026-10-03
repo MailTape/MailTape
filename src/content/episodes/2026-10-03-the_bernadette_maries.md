@@ -6,6 +6,7 @@ guest_name: The Bernadette Maries
 guest_color: rough
 author: Anto
 illustrator: Pierre-Julien Fieux
+writer: Anto
 track1_link: https://sounds.mailta.pe/615/track1.mp3
 track2_link: https://sounds.mailta.pe/615/track2.mp3
 track3_link: https://sounds.mailta.pe/615/track3.mp3
