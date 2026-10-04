@@ -40,8 +40,6 @@ musiColor: musicolor615.png
 ---
 Damn planet, out of whack. Damn humans, making a mess of things and becoming more and more pathetic. Damn existence, whose meaning we still haven't grasped… Today our emotions are restless. Between bizarre dreams and muffled screams, we're creating a bubbling playlist to exorcise our dark introspections.
 
-
-
 To that end, we welcome [The Bernadette Maries](https://geographie.bandcamp.com/album/soft), a trio of artists from Brussels who have just released [an intriguing debut album](https://geographie.bandcamp.com/album/soft), somewhere between shoegaze and indie-pop which allows itself to vary the contrasts, to explore some areas of shadow, while also possessing a disarming and luminous lightness. The melodies are sometimes catchy, sometimes disturbing, but always refined. So today's selection also plays on contrasts. In this 615 episode, you'll find plenty to enjoy and challenge your curious ears.
 
 Have a good listen.
