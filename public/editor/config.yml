@@ -1,19 +1,19 @@
+# yaml-language-server: $schema=https://unpkg.com/@sveltia/cms/schema/sveltia-cms.json
+
 backend:
   name: github
   repo: MailTape/MailTape
   branch: main
 
-#local config https://decapcms.org/docs/working-with-a-local-git-repository/#gatsby-focus-wrapper
-# local_backend: true
-# backend:
-#   name: git-gateway
-# branch: decapCMSimprov
-
 media_folder: "public/img" # Location where files will be stored in the repo
 public_folder: "" # The src attribute for uploaded media
 
 site_url: https://www.mailta.pe
-logo_url: https://www.mailta.pe/img/logo_MailTape_static.png
+logout_redirect_url: https://www.mailta.pe
+logo:
+  src: https://www.mailta.pe/img/logo_MailTape_static.png
+  show_in_header: true
+app_title: MailTape Editor
 
 slug:
   encoding: "ascii"
@@ -29,9 +29,14 @@ collections:
     create: true # Allow users to create new documents in this collection
     identifier_field: guest_name
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    summary: "{{pubDate | date('DD-MM-YY')}} : Episode {{category}} - {{guest_name | upper}}"
-    sortable_fields: ['pubDate','guest_name','category']
+    summary: "Ep. {{category}} **{{guest_name}}** - {{pubDate | date('DD-MM-YY')}}"
+    sortable_fields: 
+      fields: ['pubDate','guest_name','category']
+      default:
+        field: pubDate
+        direction: descending
     delete: false
+    thumbnail: image
     view_filters:
       - label: "Aloyse"
         field: author
@@ -65,6 +70,8 @@ collections:
         field: pubDate
         # groups items based on the value matched by the pattern
         pattern: \d{4}
+      - label: MusiColor
+        field: guest_color
     #preview_path: "{{ category }}/{{guest_name.slug}}"
     fields: # The fields for each document, usually in frontmatter
       - { label: "Published", name: "published", widget: "boolean", default: false, hint: "In order to preview your work, it needs to be published. Then wait a 1-2 minutes and you can go on something like mailta.pe/episodeNumber/my-guest-name/ Ex: mailta.pe/562/tiago-caetano/" }
