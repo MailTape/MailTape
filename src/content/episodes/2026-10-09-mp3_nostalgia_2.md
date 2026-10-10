@@ -73,6 +73,6 @@ Growing up in Shanghai, China, Ling received his first SONY MP3 player from his 
 
  Thank you for tuning in! We are trying out this new format with a recurring theme that allows us to take a nice Sunday walk with our curators, and pay stops at their musical influences. We hope you enjoyed it :)
 
-A shout-out to Noémie for the beautiful illustration! 
+A big shoutout to Noémie for the beautiful illustration! 
 
 Take care, and see you all next week <3
