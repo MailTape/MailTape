@@ -31,6 +31,7 @@ track7_color: dreamy
 track7_link: https://sounds.mailta.pe/616/track7.mp3
 description: ""
 episode_URL: https://www.mailta.pe/616/MP3-Nostalgia-2/
+musiColor: screenshot_2026-10-11_at_00.02.58.png
 ---
 At Mailtape, we sometimes assume we're a bit old-fashioned, from the generation of Walkmans, those from the 90s, into which we'd put old cassettes, sometimes recorded ourselves. Then came portable CD players (with scratched CDs and those that skipped some parts), and then the first MP3 players. Since then, it's been a musical orgy. But some of us have kept the spirit of the MP3 player: carefully collecting fabulous tracks, downloading them, and listening to them on our little device, in various contexts, often intimate.
 
