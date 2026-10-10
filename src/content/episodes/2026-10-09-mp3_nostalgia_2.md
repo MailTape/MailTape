@@ -61,7 +61,7 @@ Growing up in Shanghai, China, Ling received his first SONY MP3 player from his 
 
 ## 王菲 (Faye Wong) - Eyes On Me
 
- Ling: **"** This track had stayed on my MP3 player probably for the longest time - not only because it is Faye Wong's very few songs recorded in English language, but also because it left an impression on me when I was only eight, from a DVD that accompanied some random magazine my mom had bought, which complied some music videos. They included this title with some 3D animation which I had no idea at that time that were taken from the PS1 game *Final Fantasy VIII.*  Few years later I came across a cover of the song by Japanese singer Angela Aki, which led me to trace it back to its origin. It's a full circle moment.**"** 
+ Ling: **"** This track had stayed on my MP3 player probably for the longest time - not only because it is Faye Wong's very few songs recorded in English language, but also because it left an impression on me years before I knew what the song was - when I was only eight, from a DVD that accompanied some random magazine my mom had bought, which complied some music videos. They included this title with some 3D animation which I had no idea at that time that were taken from the PS1 game *Final Fantasy VIII.*  Few years later I came across a cover of the song by Japanese singer Angela Aki, which led me to tracing it back to its origin. It's a full circle moment.**"** 
 
 ## 王菲 (Faye Wong) - 香奈兒
 
