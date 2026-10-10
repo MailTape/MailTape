@@ -45,7 +45,7 @@ Growing up in Shanghai, China, Ling received his first SONY MP3 player from his 
 
 ## John Adams - The Chairman Dances (Foxtrot for Orchestra)
 
- Ling: **"** My earliest introduction to the general idea of *western music* - not the music genre from western movies, but what Chinese called any music from western culture in the Asian point of view, was through movie soundtracks. I was a movie fan first before I got into music. For this one, it opened Luca Guadagnino's *Io sono l'amore*. I was simply listening to it during the movie and fell in love with its playful yet richly layered orchestral minimalism, without even knowing who John Adams is, or his approaches as a composer, which I became aware of much later on.**"** 
+ Ling: **"** My earliest introduction to the general idea of *western music* - not the music genre from western movies, but what Chinese would call any music from western culture in the Asian point of view, was through movie soundtracks. I was a movie fan first before I got into music. For this one, it opened Luca Guadagnino's *Io sono l'amore*. I was simply listening to it during the movie and fell in love with its playful yet richly layered orchestral minimalism, without even knowing who John Adams is, or his approaches as a composer, which I became aware of much later on.**"** 
 
 ## Luis Bacalov - Il Grande Duello  (Parte Prima)
 
