@@ -52,7 +52,7 @@ Growing up in Shanghai, China, Ling received his first SONY MP3 player from his 
 
 ## The Sore Feet Song - Ally Kerr
 
- Ling: **"** I watched a lot of animés, so naturally I was equally drawn to their soundtracks. This one is the open title of *Mushishi*, a niche animé that blurs boundaries between folklore, nature, and human existence. Hauntingly beautiful stuff. The quite, meditative yet supernatural atmosphere of the animé made me listen to this title track often when I would walk to school in early mornings... **"** 
+ Ling: **"** I watched a lot of animés, so naturally I was equally drawn to their soundtracks. This one is the open title of *Mushishi*, a niche animé that blurs boundaries between folklore, nature, and human existence. Hauntingly beautiful stuff. The quiet, meditative yet supernatural atmosphere of the animé made me listen to this title track often when I would walk to school in early mornings... **"** 
 
 ## Kings Of Convenience, Feist - Know How
 
