@@ -69,7 +69,7 @@ Growing up in Shanghai, China, Ling received his first SONY MP3 player from his 
 
  Ling: **"** Finishing up my memory trip here with a slowcore song from a band that I would listen to over and over again whenever I felt emo (hence the title). The vocalist's murmuring style makes it hard to understand the lyrics, so I never figured out what the song is really about. Despite the title, the song goes on with a rather hopeful build-up, but only to end disruptively... **"** 
 
- Thank you for tuning in! We are trying out this new format with a recurring theme allows us to take a nice Sunday walk with our curators, and pay stops at their musical influences. We hope you enjoyed it :)
+ Thank you for tuning in! We are trying out this new format with a recurring theme that allows us to take a nice Sunday walk with our curators, and pay stops at their musical influences. We hope you enjoyed it :)
 
 A shout-out to Noémie for the beautiful illustration! 
 
