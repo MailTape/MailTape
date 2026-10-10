@@ -26,7 +26,7 @@ track5_link: https://sounds.mailta.pe/616/track5.mp3
 track6_title: 王菲 (Faye Wong) - 香奈兒
 track6_color: trippy
 track6_link: https://sounds.mailta.pe/616/track6.mp3
-track7_title: Dakota Suite - Because Our Lie Breathes Differently
+track7_title: Dakota Suite - All Your Hopes Gone Cold
 track7_color: dreamy
 track7_link: https://sounds.mailta.pe/616/track7.mp3
 episode_URL: https://www.mailta.pe/616/MP3-Nostalgia-2/
