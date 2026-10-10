@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 pubDate: 2026-10-11
 category: "616"
 guest_name: "MP3 Nostalgia #2"
