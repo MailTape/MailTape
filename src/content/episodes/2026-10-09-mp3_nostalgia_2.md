@@ -47,7 +47,7 @@ Growing up in Shanghai, China, Ling received his first SONY MP3 player from his 
 
 ## Luis Bacalov - Il Grande Duello  (Parte Prima)
 
- Ling: **"** Taken from Quentin Tarantino’s *Kill Bill: Vol. 1*, another film I adored as a teenager, this track accompanies one of my favourite scenes: the animated chapter, *The Origin of O-Ren*.  The eclecticism of many soundtracks that I used to listen to growing up has a big influence of storytelling on my track selections of my DJ sets**"** 
+ Ling: **"** Taken from Quentin Tarantino’s *Kill Bill: Vol. 1*, another film I adored as a teenager, this track accompanies one of my favourite scenes: the animated chapter, *The Origin of O-Ren*.  The eclecticism of many soundtracks that I used to listen to growing up has a big influence of storytelling on my track selections of my DJ sets.**"** 
 
 ## The Sore Feet Song - Ally Kerr
 
@@ -55,7 +55,7 @@ Growing up in Shanghai, China, Ling received his first SONY MP3 player from his 
 
 ## Kings Of Convenience, Feist - Know How
 
- Ling: **"** I discovered some music blog at some point later in my teenage year (when I lived some emo time of my life) that had a large focus on indie folk stuff, because in those days in China, indie folk had a huge audience. Some hundred of hours of lonely walks on the empty streets in late night Shanghai here. A big shoutout to those anonymous 知音 who shared their resources through uploading all their music to clouds, and made them free to access, pre-streaming age. We are peers wherever you are. Let the music be heard. **"** 
+ Ling: **"** I discovered some music blog at some point later in my teenage year (when I lived some emo time of my life) that had a large focus on indie folk stuff, because in those days in China, indie folk had a huge audience. Some hundred of hours of lonely walks on the empty streets in late night Shanghai here. A big shoutout to those anonymous 知音 who shared their resources through uploading all their music to clouds, and made them free to access, pre-streaming age. We are peers wherever you are. Let the music be heard.**"** 
 
 ## 王菲 (Faye Wong) - Eyes On Me
 
@@ -63,11 +63,11 @@ Growing up in Shanghai, China, Ling received his first SONY MP3 player from his 
 
 ## 王菲 (Faye Wong) - 香奈兒
 
- Ling: **"** I have to include a second Faye Wong here - she is such an icon in China in so many ways, maybe even in whole South Asia. This track is taken from her album *寓言(Fable)*, which took a left turn from her known dream-pop signatures where she explores more pop/electronic textures. The song has a clear drum & bass influence on the arrangements, which again I had no knowledge about whatsoever, and yet has made another full circle on my music taste these days. **"** 
+ Ling: **"** I have to include a second Faye Wong here - she is such an icon in China in so many ways, maybe even in whole South Asia. This track is taken from her album *寓言(Fable)*, which took a left turn from her known dream-pop signatures where she explores more pop/electronic textures. The song has a clear drum & bass influence on the arrangements, which again I had no knowledge about whatsoever, and yet has made another full circle on my music taste these days.**"** 
 
 ## Dakota Suite - All Your Hopes Gone Cold
 
- Ling: **"** Finishing up my memory trip here with a slowcore song from a band that I would listen to over and over again whenever I felt emo (hence the title). The vocalist's murmuring style makes it hard to understand the lyrics, so I never figured out what the song is really about. Despite the title, the song goes on with a rather hopeful build-up, but only to end disruptively... **"** 
+ Ling: **"** Finishing up my memory trip here with a slowcore song from a band that I would listen to over and over again whenever I felt emo (hence the title). The vocalist's murmuring style makes it hard to understand the lyrics, so I never figured out what the song is really about. Despite the title, the song goes on with a rather hopeful build-up, but only to end disruptively...**"** 
 
  Thank you for tuning in! We are trying out this new format with a recurring theme that allows us to take a nice Sunday walk with our curators, and pay stops at their musical influences. We hope you enjoyed it :)
 
