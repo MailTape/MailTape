@@ -55,7 +55,7 @@ Growing up in Shanghai, China, Ling received his first SONY MP3 player from his 
 
 ## Kings Of Convenience, Feist - Know How
 
- Ling: **"** I discovered some music blog at some point later in my teenage year (when I lived some emo time of my life) that had a large focus on indie folk stuff, because in those days in China, indie folk had a huge audience. Some hundred of hours of walking alone on empty streets in late night Shanghai here.  **"** 
+ Ling: **"** I discovered some music blog at some point later in my teenage year (when I lived some emo time of my life) that had a large focus on indie folk stuff, because in those days in China, indie folk had a huge audience. Some hundred of hours of lonely walks on the empty streets in late night Shanghai here.  **"** 
 
 ## 王菲 (Faye Wong) - Eyes On Me
 
