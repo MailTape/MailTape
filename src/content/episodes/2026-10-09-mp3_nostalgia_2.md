@@ -47,7 +47,7 @@ Growing up in Shanghai, China, Ling received his first SONY MP3 player from his 
 
 ## Luis Bacalov - Il Grande Duello  (Parte Prima)
 
- Ling: **"** Taken from Quentin Tarantino’s *Kill Bill: Vol. 1*, another film I adored as a teenager, this track accompanies one of my favourite scenes: the animated chapter, *The Origin of O-Ren*.  The eclecticism of many soundtracks that I used to listen to growing up has a big influence of storytelling on my track selections of my DJ sets.**"** 
+ Ling: **"** Taken from Quentin Tarantino’s *Kill Bill: Vol. 1*, another film I adored as a teenager, this track, originally composed for the famous Spaghetti wester film, perfectly accompanies one of my favourite scenes: the animated chapter, *The Origin of O-Ren*. Speaking of finding a perfect but foreign context for the original materials, the eclecticism of many soundtracks that I used to listen to growing up has a big influence of storytelling on my track selections of my DJ sets.**"** 
 
 ## The Sore Feet Song - Ally Kerr
 
