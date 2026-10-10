@@ -4,6 +4,9 @@ on:
   push:
     branches:
       - main
+  schedule:
+    - cron: '00 6 * * 0'
+      timezone: "Europe/Paris"
 
 jobs:
   build:
