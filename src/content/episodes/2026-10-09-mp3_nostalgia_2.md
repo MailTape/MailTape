@@ -10,25 +10,25 @@ illustrator: Noémie Dijon
 writer: Ling
 track1_title: John Adams - The Chairman Dances (Foxtrot for Orchestra)
 track1_color: vibrant
-track1_link: https://sounds.mailta.pe/XXX/track1.mp3
+track1_link: https://sounds.mailta.pe/616/track1.mp3
 track2_title: Luis Bacalov - Il Grande Duello  (Parte Prima)
 track2_color: dreamy
-track2_link: https://sounds.mailta.pe/XXX/track2.mp3
+track2_link: https://sounds.mailta.pe/616/track2.mp3
 track3_title: The Sore Feet Song - Ally Kerr
 track3_color: bliss
-track3_link: https://sounds.mailta.pe/XXX/track3.mp3
+track3_link: https://sounds.mailta.pe/616/track3.mp3
 track4_title: Kings Of Convenience, Feist - Know How
 track4_color: bliss
-track4_link: https://sounds.mailta.pe/XXX/track4.mp3
+track4_link: https://sounds.mailta.pe/616/track4.mp3
 track5_title: 王菲 (Faye Wong) - Eyes On Me
 track5_color: dreamy
-track5_link: https://sounds.mailta.pe/XXX/track5.mp3
+track5_link: https://sounds.mailta.pe/616/track5.mp3
 track6_title: 王菲 (Faye Wong) - 香奈兒
 track6_color: trippy
-track6_link: https://sounds.mailta.pe/XXX/track6.mp3
+track6_link: https://sounds.mailta.pe/616/track6.mp3
 track7_title: Dakota Suite - Because Our Lie Breathes Differently
 track7_color: dreamy
-track7_link: https://sounds.mailta.pe/XXX/track7.mp3
+track7_link: https://sounds.mailta.pe/616/track7.mp3
 episode_URL: https://www.mailta.pe/616/MP3-Nostalgia-2/
 ---
 At Mailtape, we sometimes assume we're a bit old-fashioned, from the generation of Walkmans, those from the 90s, into which we'd put old cassettes, sometimes recorded ourselves. Then came portable CD players (with scratched CDs and those that skipped some parts), and then the first MP3 players. Since then, it's been a musical orgy. But some of us have kept the spirit of the MP3 player: carefully collecting fabulous tracks, downloading them, and listening to them on our little device, in various contexts, often intimate.
@@ -51,11 +51,11 @@ Growing up in Shanghai, China, Ling received his first SONY MP3 player from his 
 
 ## The Sore Feet Song - Ally Kerr
 
- Ling: **"** I watched a lot of animés, so naturally I was equally drawn to their soundtracks. This one is the open title of *Mushishi*, a niche animé that blurs boundaries between folklore, nature, and human existance. I remember that I was listening to it in my earphones often when I would walk to school in early mornings... **"** 
+ Ling: **"** I watched a lot of animés, so naturally I was equally drawn to their soundtracks. This one is the open title of *Mushishi*, a niche animé that blurs boundaries between folklore, nature, and human existance. The quite, meditative yet supernatural atmosphere of the animé made me listen to this title track often when I would walk to school in early mornings... **"** 
 
 ## Kings Of Convenience, Feist - Know How
 
- Ling: **"** I discovered some music blog at some point later in my teenage year (when I lived some emo time of my life) that had a large focus on indie folk stuff, because in those days in China, indie folk had a huge audience. I was listening to a lot of melancholic music, a lot of   **"** 
+ Ling: **"** I discovered some music blog at some point later in my teenage year (when I lived some emo time of my life) that had a large focus on indie folk stuff, because in those days in China, indie folk had a huge audience. Some hundred of hours of walking alone on empty streets in late night Shanghai here.  **"** 
 
 ## 王菲 (Faye Wong) - Eyes On Me
 
@@ -63,7 +63,7 @@ Growing up in Shanghai, China, Ling received his first SONY MP3 player from his 
 
 ## 王菲 (Faye Wong) - 香奈兒
 
- Ling: **"** I have to include a second Faye Wong here - she is such an icon in China in so many ways, maybe even in whole South Asia. This one is taken from her album *寓言(Fable)*, which took a left turn from her known dream-pop signatures where she explores more pop/electronic textures. The song has a clear drum & bass influence on the arrangements, which again I had no knowledge about whatsoever, and yet has made another full circle on my music taste these days. **"** 
+ Ling: **"** I have to include a second Faye Wong here - she is such an icon in China in so many ways, maybe even in whole South Asia. This track is taken from her album *寓言(Fable)*, which took a left turn from her known dream-pop signatures where she explores more pop/electronic textures. The song has a clear drum & bass influence on the arrangements, which again I had no knowledge about whatsoever, and yet has made another full circle on my music taste these days. **"** 
 
 ## Dakota Suite - All Your Hopes Gone Cold
 
