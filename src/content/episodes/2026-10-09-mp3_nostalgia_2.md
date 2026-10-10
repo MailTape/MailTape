@@ -65,7 +65,7 @@ Growing up in Shanghai, China, Ling received his first SONY MP3 player from his 
 
 ## 王菲 (Faye Wong) - 香奈兒
 
- Ling: **"** I have to include a second Faye Wong here - she is such an icon in China in so many ways, even in the whole Southeast Asia. This track is taken from her seventeenth album *寓言(Fable)*, which took a left turn from her known dream-pop signatures where she explores more pop/electronic textures. The song has a clear drum & bass influence on the arrangements, which again I had no knowledge about whatsoever, and yet has made another full circle on my music taste these days.**"** 
+ Ling: **"** I have to include a second Faye Wong here - she is such an icon in China in so many ways, even in the whole Southeast Asia. This track is taken from her seventeenth album *寓言(Fable)*, which took a left turn from her known dream-pop signatures, where she explores more pop/electronic textures. The song has a clear drum & bass influence on the arrangements, which again I had no knowledge about whatsoever, and yet has made another full circle on my music taste these days.**"** 
 
 ## Dakota Suite - All Your Hopes Gone Cold
 
