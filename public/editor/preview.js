@@ -1,51 +1,53 @@
-const PostPreview = createClass({
-  render: function () {
-    const { entry, widgetFor, getAsset } = this.props;
+// à reprendre plus tard si besoin
 
-    const title = entry.getIn(['data', 'title']);
-    const image = entry.getIn(['data', 'image']);
-    const imageAsset = image ? getAsset(image) : null;
+// const PostPreview = createClass({
+//   render: function () {
+//     const { entry, widgetFor, getAsset } = this.props;
 
-    return h(
-      'div',
-      {
-        style: {
-          padding: '20px',
-          fontFamily: 'sans-serif',
-        },
-      },
+//     const title = entry.getIn(['data', 'title']);
+//     const image = entry.getIn(['data', 'image']);
+//     const imageAsset = image ? getAsset(image) : null;
 
-      h(
-        'h1',
-        {
-          'data-key-path': 'title',
-          tabIndex: 0,
-        },
-        title || 'Untitled post'
-      ),
+//     return h(
+//       'div',
+//       {
+//         style: {
+//           padding: '20px',
+//           fontFamily: 'sans-serif',
+//         },
+//       },
 
-      imageAsset &&
-        h('img', {
-          src: imageAsset.url,
-          alt: 'Featured',
-          style: {
-            maxWidth: '100%',
-            height: 'auto',
-          },
-        }),
+//       h(
+//         'h1',
+//         {
+//           'data-key-path': 'title',
+//           tabIndex: 0,
+//         },
+//         title || 'Untitled post'
+//       ),
 
-      h(
-        'div',
-        {
-          'data-key-path': 'body',
-          style: {
-            marginTop: '20px',
-          },
-        },
-        widgetFor('body')
-      )
-    );
-  },
-});
+//       imageAsset &&
+//         h('img', {
+//           src: imageAsset.url,
+//           alt: 'Featured',
+//           style: {
+//             maxWidth: '100%',
+//             height: 'auto',
+//           },
+//         }),
 
-CMS.registerPreviewTemplate('episodes', PostPreview);
+//       h(
+//         'div',
+//         {
+//           'data-key-path': 'body',
+//           style: {
+//             marginTop: '20px',
+//           },
+//         },
+//         widgetFor('body')
+//       )
+//     );
+//   },
+// });
+
+// CMS.registerPreviewTemplate('episodes', PostPreview);

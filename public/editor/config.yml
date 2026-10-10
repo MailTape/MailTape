@@ -30,6 +30,7 @@ collections:
     identifier_field: guest_name
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     summary: "Ep. {{category}} **{{guest_name}}** - {{pubDate | date('DD-MM-YY')}}"
+    preview_path: '/{{category}}/{{slug}}'
     sortable_fields: 
       fields: ['pubDate','guest_name','category']
       default:
