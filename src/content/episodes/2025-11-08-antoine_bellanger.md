@@ -8,27 +8,6 @@ guestPic: guestpic597.jpg
 author: ImaCrea
 illustrator: Julie Wojtczak
 writer: ImaCrea
-track1_title: Marc Namblard - High moorlands – electric roaring with brief clashes
-track1_color: trippy
-track1_link: https://sounds.mailta.pe/597/track1.mp3
-track2_title: Kali Malone - Spectacle of Ritual
-track2_color: bliss
-track2_link: https://sounds.mailta.pe/597/track2.mp3
-track3_title: Staś Czekalski - Pogoda ducha
-track3_color: trippy
-track3_link: https://sounds.mailta.pe/597/track3.mp3
-track4_title: Antoine Bellanger - Depuis les cimes
-track4_color: trippy
-track4_link: https://sounds.mailta.pe/597/track4.mp3
-track5_title: Léonie Pernet - Acid Niger (Gael Rakotondrabe Rework)
-track5_color: trippy
-track5_link: https://sounds.mailta.pe/597/track5.mp3
-track6_title: Alabaster DePlume - The Lucky Ones (feat. Danalogue)
-track6_color: bliss
-track6_link: https://sounds.mailta.pe/597/track6.mp3
-track7_title: Sessa - Revolução Interior
-track7_color: bliss
-track7_link: https://sounds.mailta.pe/597/track7.mp3
 description: "This morning, we are excited and honored to welcome Antoine
   Bellanger as our guest. Naturally, this episode reflects the artist himself:
   surprising, eclectic, quirky, yet sublime like a forest in autumn. Prepare to
@@ -37,6 +16,34 @@ description: "This morning, we are excited and honored to welcome Antoine
 episode_URL: https://www.mailta.pe/597/antoine-bellanger/
 image: https://www.mailta.pe/img/fbPic507.jpg
 musiColor: musicolor597.png
+track1:
+  title: Marc Namblard - High moorlands – electric roaring with brief clashes
+  color: trippy
+  link: https://sounds.mailta.pe/597/track1.mp3
+track2:
+  title: Kali Malone - Spectacle of Ritual
+  color: bliss
+  link: https://sounds.mailta.pe/597/track2.mp3
+track3:
+  title: Staś Czekalski - Pogoda ducha
+  color: trippy
+  link: https://sounds.mailta.pe/597/track3.mp3
+track4:
+  title: Antoine Bellanger - Depuis les cimes
+  color: trippy
+  link: https://sounds.mailta.pe/597/track4.mp3
+track5:
+  title: Léonie Pernet - Acid Niger (Gael Rakotondrabe Rework)
+  color: trippy
+  link: https://sounds.mailta.pe/597/track5.mp3
+track6:
+  title: Alabaster DePlume - The Lucky Ones (feat. Danalogue)
+  color: bliss
+  link: https://sounds.mailta.pe/597/track6.mp3
+track7:
+  title: Sessa - Revolução Interior
+  color: bliss
+  link: https://sounds.mailta.pe/597/track7.mp3
 ---
 This morning, we are excited and honored to welcome Antoine Bellanger as our guest. You may remember his unique sound from some of his tracks featured in episodes [\#588](https://www.mailta.pe/588/gabriel-brady/) and [\#487](https://www.mailta.pe/487/vimala-pons/).
 

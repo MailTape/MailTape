@@ -1,40 +1,49 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
-track1_title: Jackson And His Computerband - Hard Tits
-track2_title: Lorn - Yesterday's Pain
-track3_title: Daniel Hart - Viventes Enim
-track1_color: trippy
 guestPic: guestPic533.jpg
-category: '533'
+category: "533"
 guest_name: Moss Velveta
 author: Sarah
 illustrator: Nella Papelita
 writer: Sarah
 guest_color: trippy
-track2_color: vibrant
-track3_color: dreamy
-track4_color: trippy
-track5_color: vibrant
-track6_color: trippy
-track7_color: dreamy
-track1_link: https://sounds.mailta.pe/533/track1.mp3
-track2_link: https://sounds.mailta.pe/533/track2.mp3
-track3_link: https://sounds.mailta.pe/533/track3.mp3
-track4_link: https://sounds.mailta.pe/533/track4.mp3
-track7_link: https://sounds.mailta.pe/533/track7.mp3
-track4_title: Moss Velveta - Empress
-track7_title: 'Caroline Shaw & Attaca Quartet - The Evergreen: I. Moss'
-track6_link: https://sounds.mailta.pe/533/track6.mp3
-track5_title: V/Z, Valentina Magaletti, Zongamin - Candles (Version)
-track5_link: https://sounds.mailta.pe/533/track5.mp3
 episode_URL: http://mailta.pe/533/Moss-Velveta/
-track6_title: Kaitlyn Aurelia Smith - Clover
 image: https://www.mailta.pe/img/fbPic533.png
 musiColor: musiColor533.png
-description: This Sunday, we take the tread into morning's mist as we welcome the elusive Moss Velveta for Episode 533. Presently anonymous, the group's releases strike cinematic intensity, dipping into both baroque dissonances and delicate harmonies at once.
-pubDate: '2023-07-30'
+description: This Sunday, we take the tread into morning's mist as we welcome
+  the elusive Moss Velveta for Episode 533. Presently anonymous, the group's
+  releases strike cinematic intensity, dipping into both baroque dissonances and
+  delicate harmonies at once.
+pubDate: 2023-07-30
+track1:
+  title: Jackson And His Computerband - Hard Tits
+  color: trippy
+  link: https://sounds.mailta.pe/533/track1.mp3
+track2:
+  title: Lorn - Yesterday's Pain
+  color: vibrant
+  link: https://sounds.mailta.pe/533/track2.mp3
+track3:
+  title: Daniel Hart - Viventes Enim
+  color: dreamy
+  link: https://sounds.mailta.pe/533/track3.mp3
+track4:
+  title: Moss Velveta - Empress
+  color: trippy
+  link: https://sounds.mailta.pe/533/track4.mp3
+track5:
+  title: V/Z, Valentina Magaletti, Zongamin - Candles (Version)
+  color: vibrant
+  link: https://sounds.mailta.pe/533/track5.mp3
+track6:
+  title: Kaitlyn Aurelia Smith - Clover
+  color: trippy
+  link: https://sounds.mailta.pe/533/track6.mp3
+track7:
+  title: "Caroline Shaw & Attaca Quartet - The Evergreen: I. Moss"
+  color: dreamy
+  link: https://sounds.mailta.pe/533/track7.mp3
 ---
  This Sunday, we take the tread into morning's mist as we welcome the elusive [Moss Velveta](https://www.mossvelveta.com/home) for Episode 533. Presently anonymous, the group's releases strike cinematic intensity, dipping into both baroque dissonances and delicate melodies at once.
 

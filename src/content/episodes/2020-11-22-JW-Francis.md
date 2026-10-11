@@ -1,40 +1,53 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
-track1_title: Ash Soul, Inc. - I Do Love You
-track1_color: bliss
-track2_title: Ruru - I Forgot
-track3_title: Kaitlyn Aurelia Smith - Stratus
-track3_color: dreamy
-track2_color: trippy
-track1_link: https://sounds.mailta.pe/426/track1.mp3
-track2_link: https://sounds.mailta.pe/426/track2.mp3
-track3_link: https://sounds.mailta.pe/426/track3.mp3
-track4_link: https://sounds.mailta.pe/426/track4.mp3
-track4_title: JW Francis - I'm Down, Whatever
-track4_color: bliss
-track7_color: bliss
-track6_color: trippy
-track5_color: dreamy
 guestPic: guestPic426.jpg
-category: '426'
+category: "426"
 writer: Sarah
 illustrator: Camille Célestin
 author: Sarah
 guest_color: vibrant
 episode_URL: http://mailta.pe/426/JW-Francis/
 musiColor: musiColor426.png
-track7_link: https://sounds.mailta.pe/426/track7.mp3
-track5_link: https://sounds.mailta.pe/426/track5.mp3
-track6_link: https://sounds.mailta.pe/426/track6.mp3
 image: https://www.mailta.pe/img/fbPic426.png
-track6_title: Mokina - Orfeu
-track7_title: lyam. - Pretty Pretty
-track5_title: Elan Noon - Honeyrose
 guest_name: JW Francis
-description: This morning, we are delighted to welcome JW Francis to MailTape for a playlist of flowing instrumentals and gentle melodies to ease into your Sunday morning. Two weeks ago, JW Francis released his full album, describing it as the introduction to himself. Full of unique guitar melodies, striking lyrics, and an engaging melange of sampling, the album makes a little world of JW's self reflections, a proper introduction to what walking around his brain must be like.  This carefully curated episode gifts you a space of musical comfort to meditate and let your mind wander.
-pubDate: '2020-11-22'
+description: This morning, we are delighted to welcome JW Francis to MailTape
+  for a playlist of flowing instrumentals and gentle melodies to ease into your
+  Sunday morning. Two weeks ago, JW Francis released his full album, describing
+  it as the introduction to himself. Full of unique guitar melodies, striking
+  lyrics, and an engaging melange of sampling, the album makes a little world of
+  JW's self reflections, a proper introduction to what walking around his brain
+  must be like.  This carefully curated episode gifts you a space of musical
+  comfort to meditate and let your mind wander.
+pubDate: 2020-11-22
+track1:
+  title: Ash Soul, Inc. - I Do Love You
+  color: bliss
+  link: https://sounds.mailta.pe/426/track1.mp3
+track2:
+  title: Ruru - I Forgot
+  color: trippy
+  link: https://sounds.mailta.pe/426/track2.mp3
+track3:
+  title: Kaitlyn Aurelia Smith - Stratus
+  color: dreamy
+  link: https://sounds.mailta.pe/426/track3.mp3
+track4:
+  title: JW Francis - I'm Down, Whatever
+  color: bliss
+  link: https://sounds.mailta.pe/426/track4.mp3
+track5:
+  title: Elan Noon - Honeyrose
+  color: dreamy
+  link: https://sounds.mailta.pe/426/track5.mp3
+track6:
+  title: Mokina - Orfeu
+  color: trippy
+  link: https://sounds.mailta.pe/426/track6.mp3
+track7:
+  title: lyam. - Pretty Pretty
+  color: bliss
+  link: https://sounds.mailta.pe/426/track7.mp3
 ---
 This morning, we are delighted to welcome ray of sunshine JW Francis to MailTape for a playlist of flowing instrumentals and gentle melodies to ease into your Sunday morning. 
   Two weeks ago, JW Francis released his full album, [We Share a Similar Joy](https://jwfrancis.bandcamp.com/album/we-share-a-similar-joy), describing it as the introduction to himself. Full of unique guitar melodies, striking lyrics, and an engaging melange of sampling, the album makes a little world of JW's self reflections. It is truly a proper introduction to what walking around his brain must be like.  The following carefully curated episode gifts you a space of musical comfort to meditate and let your mind wander. 

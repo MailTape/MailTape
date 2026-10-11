@@ -8,27 +8,6 @@ guestPic: guestpic588.jpg
 author: ImaCrea
 illustrator: Camille Lemeunier
 writer: ImaCrea
-track1_title: Lewis - Romance for Two
-track1_color: dreamy
-track1_link: https://sounds.mailta.pe/588/track1.mp3
-track2_title: Luke Bergman - Sound of Music
-track2_color: dreamy
-track2_link: https://sounds.mailta.pe/588/track2.mp3
-track3_title: Scott Tuma - Midway
-track3_color: dreamy
-track3_link: https://sounds.mailta.pe/588/track3.mp3
-track4_title: Gabriel Brady - Untitled
-track4_color: dreamy
-track4_link: https://sounds.mailta.pe/588/track4.mp3
-track5_title: Antonina Nowacka - Light Light
-track5_color: dreamy
-track5_link: https://sounds.mailta.pe/588/track5.mp3
-track6_title: Antoine Bellanger - Le Chant des Oiseaux
-track6_color: dreamy
-track6_link: https://sounds.mailta.pe/588/track6.mp3
-track7_title: Elkotsh - Mwlid Elgorn
-track7_color: dreamy
-track7_link: https://sounds.mailta.pe/588/track7.mp3
 description: This morning, we're onto a very chill selection with our guest
   Gabriel Brady. Each track is a world in itself, made of delicate vibrations
   and warm intentions. There's a variety of situations where this episode could
@@ -38,6 +17,34 @@ episode_URL: https://www.mailta.pe/588/gabriel-brady/
 image: https://www.mailta.pe/img/fbpic588.jpg
 musiColor: musicolor588.png
 alignY: "0.4"
+track1:
+  title: Lewis - Romance for Two
+  color: dreamy
+  link: https://sounds.mailta.pe/588/track1.mp3
+track2:
+  title: Luke Bergman - Sound of Music
+  color: dreamy
+  link: https://sounds.mailta.pe/588/track2.mp3
+track3:
+  title: Scott Tuma - Midway
+  color: dreamy
+  link: https://sounds.mailta.pe/588/track3.mp3
+track4:
+  title: Gabriel Brady - Untitled
+  color: dreamy
+  link: https://sounds.mailta.pe/588/track4.mp3
+track5:
+  title: Antonina Nowacka - Light Light
+  color: dreamy
+  link: https://sounds.mailta.pe/588/track5.mp3
+track6:
+  title: Antoine Bellanger - Le Chant des Oiseaux
+  color: dreamy
+  link: https://sounds.mailta.pe/588/track6.mp3
+track7:
+  title: Elkotsh - Mwlid Elgorn
+  color: dreamy
+  link: https://sounds.mailta.pe/588/track7.mp3
 ---
 This morning, we're onto a very chill selection with our guest [Gabriel Brady](https://gabrielbrady.bandcamp.com/album/day-blind). Each track is a world in itself, made of delicate vibrations and warm intentions. There's a variety of situations where this episode could be excellent at rejoicing the soul and inviting desire to the table of your imagination. Allow me to share one I find would be greatly welcoming: I'd go for a walk out of town, let's say in the Pyrenees, and look for a tree to sit under. The view is enchanting, the sun rays are caressing my skin, and then I'd pull out a great pair of headphones and click play for a dreamy trip as I lean back against a beech.
 

@@ -1,40 +1,51 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 guest_name: Dharma Bum
 writer: Anaïs G
 author: Anaïs G
 illustrator: Camille Célestin
-category: '393'
+category: "393"
 guestPic: guestPic393.jpg
-track3_link: https://sounds.mailta.pe/393/track3.mp3
-track4_link: https://sounds.mailta.pe/393/track4.mp3
-track5_link: https://sounds.mailta.pe/393/track5.mp3
-track6_link: https://sounds.mailta.pe/393/track6.mp3
-track7_link: https://sounds.mailta.pe/393/track7.mp3
-track1_title: Biche - L'Essor
-track1_color: dreamy
-track2_title: Barbagallo - On se décide
-track2_color: bliss
-track3_title: Grauzone - Eisbär
-track3_color: rough
-track4_title: Dharma Bum - Worship The Ease
-track4_color: bliss
-track5_title: Freak Heat Waves - Self Vortex
-track5_color: dreamy
-track6_title: François Virot - Legal Rough
-track6_color: trippy
-track7_title: Judah Warsky - Je M'en Souviendrai Jusqu'à La Fin De Ma Life (Remix Sarah Maison)
-track7_color: vibrant
 episode_URL: http://mailta.pe/393/dharma-bum/
 image: https://www.mailta.pe/img/fbPic393.png
 musiColor: musiColor393.png
 guest_color: bliss
-track1_link: https://sounds.mailta.pe/393/track1.mp3
-track2_link: https://sounds.mailta.pe/393/track2.mp3
-description: This morning, it is madness that takes us, that puts us in a trance, that makes us do anything, but that allows us to take things as they come and to see life differently. It is this same madness that we find again this Sunday with the group Dharma Bum, a measured, beautiful and energetic madness!
-pubDate: '2020-02-16'
+description: This morning, it is madness that takes us, that puts us in a
+  trance, that makes us do anything, but that allows us to take things as they
+  come and to see life differently. It is this same madness that we find again
+  this Sunday with the group Dharma Bum, a measured, beautiful and energetic
+  madness!
+pubDate: 2020-02-16
+track1:
+  title: Biche - L'Essor
+  color: dreamy
+  link: https://sounds.mailta.pe/393/track1.mp3
+track2:
+  title: Barbagallo - On se décide
+  color: bliss
+  link: https://sounds.mailta.pe/393/track2.mp3
+track3:
+  title: Grauzone - Eisbär
+  color: rough
+  link: https://sounds.mailta.pe/393/track3.mp3
+track4:
+  title: Dharma Bum - Worship The Ease
+  color: bliss
+  link: https://sounds.mailta.pe/393/track4.mp3
+track5:
+  title: Freak Heat Waves - Self Vortex
+  color: dreamy
+  link: https://sounds.mailta.pe/393/track5.mp3
+track6:
+  title: François Virot - Legal Rough
+  color: trippy
+  link: https://sounds.mailta.pe/393/track6.mp3
+track7:
+  title: Judah Warsky - Je M'en Souviendrai Jusqu'à La Fin De Ma Life (Remix Sarah
+    Maison)
+  color: vibrant
+  link: https://sounds.mailta.pe/393/track7.mp3
 ---
 
 This morning, it is madness that takes us, that puts us in a trance, that makes us do anything, but that allows us to take things as they come and to see life differently. It is this same madness that we find again this Sunday with the group Dharma Bum, a measured, beautiful and energetic madness!

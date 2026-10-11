@@ -1,40 +1,48 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Sanjay Mistry
 illustrator: Pierre-Julien Fieux
 writer: Sanjay Mistry
-category: '275'
+category: "275"
 guest_name: Sibusile Xaba
 guest_color: bliss
-track1_link: https://sounds.mailta.pe/275/track1.mp3
-track2_link: https://sounds.mailta.pe/275/track2.mp3
-track3_link: https://sounds.mailta.pe/275/track3.mp3
-track4_link: https://sounds.mailta.pe/275/track4.mp3
-track5_link: https://sounds.mailta.pe/275/track5.mp3
-track6_link: https://sounds.mailta.pe/275/track6.mp3
-track7_link: https://sounds.mailta.pe/275/track7.mp3
-track1_title: Nono Nkoane — Nomad
-track1_color: dreamy
-track2_title: Nduduzo Makhathini — King Fela
-track2_color: vibrant
-track3_title: Itai Hakim — Ni Songo Xela
-track3_color: dreamy
-track4_title: Sibusile Xaba — Ukukhanya kwa Dr Philip Tabane
-track4_color: bliss
-track5_title: Dr. Philip Tabane & Malombo — Kea Bereka
-track5_color: trippy
-track6_title: Bokani Dyer — Recess
-track6_color: dreamy
-track7_title: Miryam Solomon — Magnolia
-track7_color: dreamy
 episode_URL: http://mailta.pe/275/sibusile-xaba/
 guestPic: guestPic275.jpg
-description: This morning I'm super excited to present the Sunday morning jukebox of Pretoria-based guitarist and generally beautiful human being, Sibusile Xaba, chosen especially for MailTape.
+description: This morning I'm super excited to present the Sunday morning
+  jukebox of Pretoria-based guitarist and generally beautiful human being,
+  Sibusile Xaba, chosen especially for MailTape.
 musiColor: musiColor275.png
 image: https://www.mailta.pe/img/fbPic275.jpg
-pubDate: '2017-08-27'
+pubDate: 2017-08-27
+track1:
+  title: Nono Nkoane — Nomad
+  color: dreamy
+  link: https://sounds.mailta.pe/275/track1.mp3
+track2:
+  title: Nduduzo Makhathini — King Fela
+  color: vibrant
+  link: https://sounds.mailta.pe/275/track2.mp3
+track3:
+  title: Itai Hakim — Ni Songo Xela
+  color: dreamy
+  link: https://sounds.mailta.pe/275/track3.mp3
+track4:
+  title: Sibusile Xaba — Ukukhanya kwa Dr Philip Tabane
+  color: bliss
+  link: https://sounds.mailta.pe/275/track4.mp3
+track5:
+  title: Dr. Philip Tabane & Malombo — Kea Bereka
+  color: trippy
+  link: https://sounds.mailta.pe/275/track5.mp3
+track6:
+  title: Bokani Dyer — Recess
+  color: dreamy
+  link: https://sounds.mailta.pe/275/track6.mp3
+track7:
+  title: Miryam Solomon — Magnolia
+  color: dreamy
+  link: https://sounds.mailta.pe/275/track7.mp3
 ---
 This morning I'm super excited to present the Sunday morning jukebox of Pretoria-based guitarist and generally beautiful human being, [Sibusile Xaba](http://sibusilexaba.com/newsite/), chosen especially for MailTape.
 <p>Mentored by Madala Kunene and Dr. Philip Tabane, Sibusile Xaba mixes fragmented lines with repeated phrases. Played acoustically to bass and drums – provided by percussionists Thabang Tabane and Moahanganai Magagula – Sibusile's music soars with expressive guitar-picking and a vocal style that is 'part dreamscape and part ancestral invocation'.

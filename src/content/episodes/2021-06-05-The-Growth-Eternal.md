@@ -1,40 +1,48 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 guest_name: The Growth Eternal
-category: '454'
+category: "454"
 writer: Sarah
 illustrator: Noémie Dijon
 author: Sarah
-track1_title: Jon Bap - Born Into This
-track2_title: Led Zeppelin - When the Levee Breaks
-track3_title: Erykah Badu - Other Side of the Game
-track1_color: trippy
-track2_color: vibrant
-track3_color: bliss
-track4_color: bliss
-track4_title: The Growth Eternal - VII. Ghalani
-track5_color: bliss
-track6_color: vibrant
-track7_color: trippy
 musiColor: musiColor454.png
-track1_link: https://sounds.mailta.pe/454/track1.mp3
-track2_link: https://sounds.mailta.pe/454/track2.mp3
-track3_link: https://sounds.mailta.pe/454/track3.mp3
 guestPic: guestPic454.jpg
 image: https://www.mailta.pe/img/fbPic454.png
 episode_URL: http://mailta.pe/454/The-Growth-Eternal/
 guest_color: dreamy
-track4_link: https://sounds.mailta.pe/454/track4.mp3
-track5_title: Nailah Hunter - Talk Show Host
-track5_link: https://sounds.mailta.pe/454/track5.mp3
-track7_title: Sam Gendel - Goodbye Pork Pie Hat
-track6_title: Wau Wau Collectif - Mouhamodou Lo and His Children
-track7_link: https://sounds.mailta.pe/454/track7.mp3
-track6_link: https://sounds.mailta.pe/454/track6.mp3
-description: This Sunday, we welcome The Growth Eternal to MailTape for an eclectic collection to jumpstart your morning :) Based in Los Angeles, The Growth Eternal is headed by multi-instrumentalist Byron Crenshaw.
-pubDate: '2021-06-05'
+description: This Sunday, we welcome The Growth Eternal to MailTape for an
+  eclectic collection to jumpstart your morning :) Based in Los Angeles, The
+  Growth Eternal is headed by multi-instrumentalist Byron Crenshaw.
+pubDate: 2021-06-05
+track1:
+  title: Jon Bap - Born Into This
+  color: trippy
+  link: https://sounds.mailta.pe/454/track1.mp3
+track2:
+  title: Led Zeppelin - When the Levee Breaks
+  color: vibrant
+  link: https://sounds.mailta.pe/454/track2.mp3
+track3:
+  title: Erykah Badu - Other Side of the Game
+  color: bliss
+  link: https://sounds.mailta.pe/454/track3.mp3
+track4:
+  title: The Growth Eternal - VII. Ghalani
+  color: bliss
+  link: https://sounds.mailta.pe/454/track4.mp3
+track5:
+  title: Nailah Hunter - Talk Show Host
+  color: bliss
+  link: https://sounds.mailta.pe/454/track5.mp3
+track6:
+  title: Wau Wau Collectif - Mouhamodou Lo and His Children
+  color: vibrant
+  link: https://sounds.mailta.pe/454/track6.mp3
+track7:
+  title: Sam Gendel - Goodbye Pork Pie Hat
+  color: trippy
+  link: https://sounds.mailta.pe/454/track7.mp3
 ---
 This Sunday, we welcome [The Growth Eternal](https://thegrowtheternal.bandcamp.com/) to MailTape for an eclectic collection to jumpstart your morning :) Based in Los Angeles, [The Growth Eternal](https://thegrowtheternal.bandcamp.com/) is headed by multi-instrumentalist Byron Crenshaw. 
   <br><br>

@@ -1,40 +1,49 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: ImaCrea
 illustrator: Noémie
 writer: ImaCrea
-category: '509'
+category: "509"
 guest_name: Minuit Machine
 guest_color: rough
 guestPic: guestPic509.png
-track1_title: Doppelhandel - Billy
-track1_link: https://sounds.mailta.pe/509/track1.mp3
-track1_color: rough
-track2_title: Tallisker - Somewhere
-track2_link: https://sounds.mailta.pe/509/track2.mp3
-track2_color: vibrant
-track3_title: Panterah - Discover
-track3_link: https://sounds.mailta.pe/509/track3.mp3
-track3_color: rough
-track4_title: Minuit Machine - Contradictions
-track4_link: https://sounds.mailta.pe/509/track4.mp3
-track4_color: rough
-track5_title: Fever Ray - Carbon Dioxide
-track5_link: https://sounds.mailta.pe/509/track5.mp3
-track5_color: rough
-track6_title: Flèche Love - Mitote
-track6_link: https://sounds.mailta.pe/509/track6.mp3
-track6_color: bliss
-track7_title: Dawuna - Baby Boy
-track7_link: https://sounds.mailta.pe/509/track7.mp3
-track7_color: trippy
 episode_URL: http://mailta.pe/509/Minuit-Machine/
-description: This morning, we're not letting winter take our energy. It's cold but our hearts are warmer than ever. And with Minuit Machine as our guests, prepare for a journey through a selection of energetic and cathartic tracks. Open, open, open, make a big O and keep searching.
+description: This morning, we're not letting winter take our energy. It's cold
+  but our hearts are warmer than ever. And with Minuit Machine as our guests,
+  prepare for a journey through a selection of energetic and cathartic tracks.
+  Open, open, open, make a big O and keep searching.
 musiColor: musiColor509.png
 image: https://www.mailta.pe/img/fbPic509.png
-pubDate: '2022-12-11'
+pubDate: 2022-12-11
+track1:
+  title: Doppelhandel - Billy
+  color: rough
+  link: https://sounds.mailta.pe/509/track1.mp3
+track2:
+  title: Tallisker - Somewhere
+  color: vibrant
+  link: https://sounds.mailta.pe/509/track2.mp3
+track3:
+  title: Panterah - Discover
+  color: rough
+  link: https://sounds.mailta.pe/509/track3.mp3
+track4:
+  title: Minuit Machine - Contradictions
+  color: rough
+  link: https://sounds.mailta.pe/509/track4.mp3
+track5:
+  title: Fever Ray - Carbon Dioxide
+  color: rough
+  link: https://sounds.mailta.pe/509/track5.mp3
+track6:
+  title: Flèche Love - Mitote
+  color: bliss
+  link: https://sounds.mailta.pe/509/track6.mp3
+track7:
+  title: Dawuna - Baby Boy
+  color: trippy
+  link: https://sounds.mailta.pe/509/track7.mp3
 ---
 This morning, we're not letting winter take our energy. It's cold but our hearts are warmer than ever. And with Minuit Machine as our guests, prepare for a journey through a selection of energetic and cathartic tracks. Open, open, open, make a big O and keep searching.
 

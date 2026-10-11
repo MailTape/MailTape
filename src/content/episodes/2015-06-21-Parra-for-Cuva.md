@@ -1,38 +1,49 @@
 ---
-
 published: true
 author: ImaCrea
 guest_color: vibrant
-bigTitle_font_ratio: '6'
-track1_color: dreamy
-track2_color: vibrant
-track3_color: vibrant
-track4_color: vibrant
-track5_color: trippy
-track6_color: vibrant
-track7_color: bliss
-category: '191'
+bigTitle_font_ratio: "6"
+category: "191"
 guest_name: Parra for Cuva
-track4_link: https://sounds.mailta.pe/191/track4.mp3
 guestPic: guestPic191.jpg
-track1_link: https://sounds.mailta.pe/191/track1.mp3
-track2_link: https://sounds.mailta.pe/191/track2.mp3
-track3_link: https://sounds.mailta.pe/191/track3.mp3
-track5_link: https://sounds.mailta.pe/191/track5.mp3
-track6_link: https://sounds.mailta.pe/191/track6.mp3
-track7_link: https://sounds.mailta.pe/191/track7.mp3
-track1_title: Balmorhea - Bowsprit
-track2_title: Mark Ronson's - A la Modeliste (Bonobo remix)
-track3_title: ' Tom Day & Monsoonsiren - Elegiac'
-track4_title: Parra for Cuva - Majouré (feat Casey K)
-track7_title: Thundercat  - Them Changes
-track6_title: Yoann Feynman - Television
-track5_title: Glenn Astro - Computer Killer
 episode_URL: http://mailta.pe/191/Parra-for-Cuva/
-description: This morning, we're gonna celebrate summer together with our great guest from Berlin, Parra for Cuva. You've waited so long for it to come, now is the moment to finally shine with confidence and share your love around you. Let the sun evaporate your ego and go to this stranger who's looking at you. Like a sound wave, move your body to the beat and feel happiness filling your soul. Be the moment, join the movement.
+description: This morning, we're gonna celebrate summer together with our great
+  guest from Berlin, Parra for Cuva. You've waited so long for it to come, now
+  is the moment to finally shine with confidence and share your love around you.
+  Let the sun evaporate your ego and go to this stranger who's looking at you.
+  Like a sound wave, move your body to the beat and feel happiness filling your
+  soul. Be the moment, join the movement.
 musiColor: musiColor191.png
 image: https://www.mailta.pe/img/fbPic191.jpg
-pubDate: '2015-06-21'
+pubDate: 2015-06-21
+track1:
+  title: Balmorhea - Bowsprit
+  color: dreamy
+  link: https://sounds.mailta.pe/191/track1.mp3
+track2:
+  title: Mark Ronson's - A la Modeliste (Bonobo remix)
+  color: vibrant
+  link: https://sounds.mailta.pe/191/track2.mp3
+track3:
+  title: " Tom Day & Monsoonsiren - Elegiac"
+  color: vibrant
+  link: https://sounds.mailta.pe/191/track3.mp3
+track4:
+  title: Parra for Cuva - Majouré (feat Casey K)
+  color: vibrant
+  link: https://sounds.mailta.pe/191/track4.mp3
+track5:
+  title: Glenn Astro - Computer Killer
+  color: trippy
+  link: https://sounds.mailta.pe/191/track5.mp3
+track6:
+  title: Yoann Feynman - Television
+  color: vibrant
+  link: https://sounds.mailta.pe/191/track6.mp3
+track7:
+  title: Thundercat  - Them Changes
+  color: bliss
+  link: https://sounds.mailta.pe/191/track7.mp3
 ---
 
 

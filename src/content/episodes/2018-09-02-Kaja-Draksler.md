@@ -1,40 +1,48 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Sanjay Mistry
 illustrator: Anais Caura
 writer: Sanjay Mistry
-category: '321'
+category: "321"
 guest_name: Kaja Draksler
 guest_color: dreamy
-track1_link: https://sounds.mailta.pe/321/track1.mp3
-track2_link: https://sounds.mailta.pe/321/track2.mp3
-track3_link: https://sounds.mailta.pe/321/track3.mp3
-track4_link: https://sounds.mailta.pe/321/track4.mp3
-track5_link: https://sounds.mailta.pe/321/track5.mp3
-track6_link: https://sounds.mailta.pe/321/track6.mp3
-track7_link: https://sounds.mailta.pe/321/track7.mp3
-track1_title: The Tahitian Choir – Tahiti Choir Music
-track1_color: bliss
-track2_title: Craig Taborn – This Voice Says So
-track2_color: dreamy
-track3_title: Jacobus Gallus – Mirabile Misterium
-track3_color: bliss
-track4_title: Kaja Draksler Octet – Gledalec
-track4_color: dreamy
-track5_title: Cara Stacey & Camilo Ángeles – Cederberg
-track5_color: bliss
-track6_title: Angelica Sanchez Trio – What the Birds Tell Me
-track6_color: dreamy
-track7_title: Central Australian Aboriginal Women’s Choir – Jesu Nganalala
-track7_color: bliss
 episode_URL: http://mailta.pe/321/kaja-draksler/
-description: Welcome back to a new season of MailTape. This morning we welcome one of my favourite pianist-composers, Kaja Draksler, who supplies us with a dreamy Sunday morning selection of chorales and solo piano.
+description: Welcome back to a new season of MailTape. This morning we welcome
+  one of my favourite pianist-composers, Kaja Draksler, who supplies us with a
+  dreamy Sunday morning selection of chorales and solo piano.
 guestPic: guestPic321.jpg
 musiColor: musiColor321.png
 image: https://www.mailta.pe/img/fbPic321.jpg
-pubDate: '2018-09-02'
+pubDate: 2018-09-02
+track1:
+  title: The Tahitian Choir – Tahiti Choir Music
+  color: bliss
+  link: https://sounds.mailta.pe/321/track1.mp3
+track2:
+  title: Craig Taborn – This Voice Says So
+  color: dreamy
+  link: https://sounds.mailta.pe/321/track2.mp3
+track3:
+  title: Jacobus Gallus – Mirabile Misterium
+  color: bliss
+  link: https://sounds.mailta.pe/321/track3.mp3
+track4:
+  title: Kaja Draksler Octet – Gledalec
+  color: dreamy
+  link: https://sounds.mailta.pe/321/track4.mp3
+track5:
+  title: Cara Stacey & Camilo Ángeles – Cederberg
+  color: bliss
+  link: https://sounds.mailta.pe/321/track5.mp3
+track6:
+  title: Angelica Sanchez Trio – What the Birds Tell Me
+  color: dreamy
+  link: https://sounds.mailta.pe/321/track6.mp3
+track7:
+  title: Central Australian Aboriginal Women’s Choir – Jesu Nganalala
+  color: bliss
+  link: https://sounds.mailta.pe/321/track7.mp3
 ---
 Welcome back to a new season of MailTape. In our first episode since July we welcome one of my favourite pianist-composers, [Kaja Draksler](http://kajadraksler.com/), who replenishes us with a dreamy Sunday morning selection of chorales and solo piano.
 <p>Kaja has a large sonic vision of her instrument. She creates balladic quasi-stride with harmonically rich modern overtones. She drums on the piano in ways drummers would feel at home listening to. And she has a feel for intervallic relations, harmonic and melodic patterning that put her in a special category of improvisers.

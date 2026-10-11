@@ -1,39 +1,47 @@
 ---
-
 published: true
 author: Maxime
 guest_color: dreamy
-bigTitle_font_ratio: '10'
-bigTitle_line_ratio: '1'
-track1_color: bliss
-track2_color: rough
-track3_color: trippy
-track4_color: vibrant
-track5_color: vibrant
-track6_color: dreamy
-track7_color: bliss
-category: '165'
+bigTitle_font_ratio: "10"
+bigTitle_line_ratio: "1"
+category: "165"
 guest_name: Gabriel Garzón-Montano
-track1_link: https://sounds.mailta.pe/165/track1.mp3
-track2_link: https://sounds.mailta.pe/165/track2.mp3
-track3_link: https://sounds.mailta.pe/165/track3.mp3
-track4_link: https://sounds.mailta.pe/165/track4.mp3
-track6_link: https://sounds.mailta.pe/165/track6.mp3
-track7_link: https://sounds.mailta.pe/165/track7.mp3
-track5_link: https://sounds.mailta.pe/165/track5.mp3
-track2_title: Sage Caswell - Whatever Forever
-track1_title: Quincy Vidal - Check
-track3_title: Drake - How Bout Now (Audio)
-track4_title: Gabriel Garzon-Montano - Everything Is Everything
-track5_title: D'Angelo - Sugah Daddy
-track6_title: Buscabulla - Sono
-track7_title: Jabru feat. Joel Culpepper - Church
 episode_URL: http://mailta.pe/165/Gabriel-Garzon-Montano/
 guestPic: guestPic165.jpg
 image: https://www.mailta.pe/img/fbPic165.jpg
-description: This morning, please welcome our new delighted guest who is half Colombian and half French but born and brought up in Brooklyn. Gabriel Garzon-Montano is a true child of the world.
+description: This morning, please welcome our new delighted guest who is half
+  Colombian and half French but born and brought up in Brooklyn. Gabriel
+  Garzon-Montano is a true child of the world.
 musiColor: musiColor165.png
-pubDate: '2014-12-21'
+pubDate: 2014-12-21
+track1:
+  title: Quincy Vidal - Check
+  color: bliss
+  link: https://sounds.mailta.pe/165/track1.mp3
+track2:
+  title: Sage Caswell - Whatever Forever
+  color: rough
+  link: https://sounds.mailta.pe/165/track2.mp3
+track3:
+  title: Drake - How Bout Now (Audio)
+  color: trippy
+  link: https://sounds.mailta.pe/165/track3.mp3
+track4:
+  title: Gabriel Garzon-Montano - Everything Is Everything
+  color: vibrant
+  link: https://sounds.mailta.pe/165/track4.mp3
+track5:
+  title: D'Angelo - Sugah Daddy
+  color: vibrant
+  link: https://sounds.mailta.pe/165/track5.mp3
+track6:
+  title: Buscabulla - Sono
+  color: dreamy
+  link: https://sounds.mailta.pe/165/track6.mp3
+track7:
+  title: Jabru feat. Joel Culpepper - Church
+  color: bliss
+  link: https://sounds.mailta.pe/165/track7.mp3
 ---
 
 

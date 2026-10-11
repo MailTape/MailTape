@@ -8,36 +8,47 @@ guestPic: guestpic591.jpg
 author: Aloyse
 illustrator: Camille Lemeunier
 writer: Aloyse
-track1_title: Esbjörn Svensson Trio - Serenade for the Renegade
-track1_color: vibrant
-track1_link: https://sounds.mailta.pe/591/track1.mp3
-track2_title: Sergio Mendes - Let Me
-track2_color: bliss
-track2_link: https://sounds.mailta.pe/591/track2.mp3
-track3_title: Beastie Boys - Sabrosa
-track3_color: bliss
-track3_link: https://sounds.mailta.pe/591/track3.mp3
-track4_title: Andrii Pokaz - Eclosion
-track4_color: vibrant
-track4_link: https://sounds.mailta.pe/591/track4.mp3
-track5_title: O. - 176
-track5_color: rough
-track5_link: https://sounds.mailta.pe/591/track5.mp3
-track6_title: Yttling Jazz - Illegal Hit (Joshua Idehen & Saturday, Monday Remake)
-track6_color: vibrant
-track6_link: https://sounds.mailta.pe/591/track6.mp3
-track7_title: Donny McCaslin - Celestial
-track7_color: dreamy
-track7_link: https://sounds.mailta.pe/591/track7.mp3
 description: >-
   This morning, we are thrilled to have Andrii Pokaz bring the sunshine we all
   need to our speakers.
 
-  Based in Odessa, Ukraine, Andrii Pokaz is a pianist and composer who moves freely between jazz, classical, and contemporary sounds. His selection for today sparks moments of reflection, surprise, and joy, just like his latest album, Proteus, released this summer. A boundless universe to explore as your morning unfolds.
+  Based in Odessa, Ukraine, Andrii Pokaz is a pianist and composer who moves
+  freely between jazz, classical, and contemporary sounds. His selection for
+  today sparks moments of reflection, surprise, and joy, just like his latest
+  album, Proteus, released this summer. A boundless universe to explore as your
+  morning unfolds.
 episode_URL: https://www.mailta.pe/591/Andrii-Pokaz/
 image: https://www.mailta.pe/img/fbpic591.jpg
 musiColor: musicolor591.png
 alignY: "0.4"
+track1:
+  title: Esbjörn Svensson Trio - Serenade for the Renegade
+  color: vibrant
+  link: https://sounds.mailta.pe/591/track1.mp3
+track2:
+  title: Sergio Mendes - Let Me
+  color: bliss
+  link: https://sounds.mailta.pe/591/track2.mp3
+track3:
+  title: Beastie Boys - Sabrosa
+  color: bliss
+  link: https://sounds.mailta.pe/591/track3.mp3
+track4:
+  title: Andrii Pokaz - Eclosion
+  color: vibrant
+  link: https://sounds.mailta.pe/591/track4.mp3
+track5:
+  title: O. - 176
+  color: rough
+  link: https://sounds.mailta.pe/591/track5.mp3
+track6:
+  title: Yttling Jazz - Illegal Hit (Joshua Idehen & Saturday, Monday Remake)
+  color: vibrant
+  link: https://sounds.mailta.pe/591/track6.mp3
+track7:
+  title: Donny McCaslin - Celestial
+  color: dreamy
+  link: https://sounds.mailta.pe/591/track7.mp3
 ---
 This morning, we are thrilled to have [Andrii Pokaz](https://pokaz.bandcamp.com/album/voices) bring the sunshine we all need to our speakers.
 

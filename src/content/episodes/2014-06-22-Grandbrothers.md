@@ -1,39 +1,46 @@
 ---
-
 published: true
 author: Julien
 guest_color: trippy
-bigTitle_font_ratio: '8'
-bigTitle_line_ratio: '1'
-track1_color: dreamy
-track2_color: bliss
-track3_color: vibrant
-track4_color: trippy
-track5_color: dreamy
-track6_color: bliss
-track7_color: bliss
-category: '146'
+bigTitle_font_ratio: "8"
+bigTitle_line_ratio: "1"
+category: "146"
 guest_name: Grandbrothers
-track1_link: https://sounds.mailta.pe/146/track1.mp3
-track2_link: https://sounds.mailta.pe/146/track2.mp3
-track3_link: https://sounds.mailta.pe/146/track3.mp3
-track1_title: Nils Frahm - Re
-track2_title: Jono McCleery - Ballade
-track3_title: Grey Reverend - Nightingale
 guestPic: guestPic146.jpg
 episode_URL: http://mailta.pe/146/Grandbrothers/
-track4_link: https://sounds.mailta.pe/146/track4.mp3
-track4_title: Grandbrothers - Notbrause
-track5_link: https://sounds.mailta.pe/146/track5.mp3
-track5_title: Ulrich Schnauss & Mark Peters - Das Volk Hat Keine Seele
-track6_link: https://sounds.mailta.pe/146/track6.mp3
-track6_title: Junip - Walking Lightly
-track7_link: https://sounds.mailta.pe/146/track7.mp3
-track7_title: alt-J - Hunger Of The Pine
 musiColor: musiColor146.png
 image: https://www.mailta.pe/img/fbPic146.jpg
-description: 'This morning, two special guests invite you to their universe. Please enter the world of the duo Grandbrothers. '
-pubDate: '2014-06-22'
+description: "This morning, two special guests invite you to their universe.
+  Please enter the world of the duo Grandbrothers. "
+pubDate: 2014-06-22
+track1:
+  title: Nils Frahm - Re
+  color: dreamy
+  link: https://sounds.mailta.pe/146/track1.mp3
+track2:
+  title: Jono McCleery - Ballade
+  color: bliss
+  link: https://sounds.mailta.pe/146/track2.mp3
+track3:
+  title: Grey Reverend - Nightingale
+  color: vibrant
+  link: https://sounds.mailta.pe/146/track3.mp3
+track4:
+  title: Grandbrothers - Notbrause
+  color: trippy
+  link: https://sounds.mailta.pe/146/track4.mp3
+track5:
+  title: Ulrich Schnauss & Mark Peters - Das Volk Hat Keine Seele
+  color: dreamy
+  link: https://sounds.mailta.pe/146/track5.mp3
+track6:
+  title: Junip - Walking Lightly
+  color: bliss
+  link: https://sounds.mailta.pe/146/track6.mp3
+track7:
+  title: alt-J - Hunger Of The Pine
+  color: bliss
+  link: https://sounds.mailta.pe/146/track7.mp3
 ---
 
 

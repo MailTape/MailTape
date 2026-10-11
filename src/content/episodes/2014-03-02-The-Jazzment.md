@@ -1,39 +1,49 @@
 ---
-
 published: true
 author: Julien
 guest_color: dreamy
-bigTitle_font_ratio: '6'
-bigTitle_line_ratio: '1'
-track1_color: bliss
-track2_color: dreamy
-track3_color: vibrant
-track4_color: bliss
-track5_color: vibrant
-track6_color: dreamy
-track7_color: dreamy
-category: '130'
+bigTitle_font_ratio: "6"
+bigTitle_line_ratio: "1"
+category: "130"
 guest_name: The Jazzment
 guestPic: guestPic130.jpg
-track1_link: https://sounds.mailta.pe/130/track1.mp3
-track2_link: https://sounds.mailta.pe/130/track2.mp3
-track3_link: https://sounds.mailta.pe/130/track3.mp3
-track4_link: https://sounds.mailta.pe/130/track4.mp3
-track5_link: https://sounds.mailta.pe/130/track5.mp3
-track6_link: https://sounds.mailta.pe/130/track6.mp3
-track7_link: https://sounds.mailta.pe/130/track7.mp3
-track1_title: Henning - Villains Day Off
-track2_title: Freddie Joachim - Waves
-track3_title: Overdoz. - Lauren London
-track4_title: The Jazzment - On the Tip
-track5_title: TOKiMONSTA - The World is Ours
-track6_title: Greyhat - Missed
-track7_title: Nujabes - Tsurugi No Mai
 episode_URL: http://mailta.pe/130-The-Jazzment.html
 image: https://www.mailta.pe/img/fbPic130.jpg
 musiColor: musiColor130.png
-description: This morning, please welcome, smoothly, The Jazzment. Most of us stick to some artists over the years, coming back listening to them for they carry some special feeling and memories. That's the case for me with The Jazzment. Their relaxing flow put me at peace, hope they'll carry you on the same vibes this morning.
-pubDate: '2014-03-02'
+description: This morning, please welcome, smoothly, The Jazzment. Most of us
+  stick to some artists over the years, coming back listening to them for they
+  carry some special feeling and memories. That's the case for me with The
+  Jazzment. Their relaxing flow put me at peace, hope they'll carry you on the
+  same vibes this morning.
+pubDate: 2014-03-02
+track1:
+  title: Henning - Villains Day Off
+  color: bliss
+  link: https://sounds.mailta.pe/130/track1.mp3
+track2:
+  title: Freddie Joachim - Waves
+  color: dreamy
+  link: https://sounds.mailta.pe/130/track2.mp3
+track3:
+  title: Overdoz. - Lauren London
+  color: vibrant
+  link: https://sounds.mailta.pe/130/track3.mp3
+track4:
+  title: The Jazzment - On the Tip
+  color: bliss
+  link: https://sounds.mailta.pe/130/track4.mp3
+track5:
+  title: TOKiMONSTA - The World is Ours
+  color: vibrant
+  link: https://sounds.mailta.pe/130/track5.mp3
+track6:
+  title: Greyhat - Missed
+  color: dreamy
+  link: https://sounds.mailta.pe/130/track6.mp3
+track7:
+  title: Nujabes - Tsurugi No Mai
+  color: dreamy
+  link: https://sounds.mailta.pe/130/track7.mp3
 ---
 
 

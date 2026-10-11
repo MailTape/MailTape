@@ -1,40 +1,47 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Sanjay Mistry
 illustrator: William Girault
 writer: Daisy
-category: '271'
+category: "271"
 guest_name: Emanative
 guest_color: vibrant
-track1_link: https://sounds.mailta.pe/271/track1.mp3
-track1_title: Maleem Mahmoud Ghania with Pharoah Sanders - Mahraba
-track1_color: bliss
-track2_link: https://sounds.mailta.pe/271/track2.mp3
-track2_title: Sun Ra - Sleeping Beauty
-track2_color: dreamy
-track3_link: https://sounds.mailta.pe/271/track3.mp3
-track3_title: Johnny Dyani Witchdoctor's Son - Magwaza
-track3_color: trippy
-track4_link: https://sounds.mailta.pe/271/track4.mp3
-track4_title: Emanative - Ominous Shanti
-track4_color: vibrant
-track5_link: https://sounds.mailta.pe/271/track5.mp3
-track5_title: Idris Ackamoor & The Pyramids - Rhapsody In Berlin (Part 1)
-track5_color: bliss
-track6_link: https://sounds.mailta.pe/271/track6.mp3
-track6_title: Yazz Ahmed - Jamil Jamal
-track6_color: vibrant
-track7_title: Burnt Sugar Arkestra - If There's A Hell Below
-track7_color: trippy
 episode_URL: http://mailta.pe/271/emanative/
 guestPic: guestPic271.jpg
 image: https://www.mailta.pe/img/fbPic271.jpg
 musiColor: musiColor271.png
-track7_link: https://sounds.mailta.pe/271/track7.mp3
-description: This morning long-time jazz wayfarer Nick Woodmansey’s Emanative picks his three Sunday morning tunes for MailTape.
-pubDate: '2017-07-30'
+description: This morning long-time jazz wayfarer Nick Woodmansey’s Emanative
+  picks his three Sunday morning tunes for MailTape.
+pubDate: 2017-07-30
+track1:
+  title: Maleem Mahmoud Ghania with Pharoah Sanders - Mahraba
+  color: bliss
+  link: https://sounds.mailta.pe/271/track1.mp3
+track2:
+  title: Sun Ra - Sleeping Beauty
+  color: dreamy
+  link: https://sounds.mailta.pe/271/track2.mp3
+track3:
+  title: Johnny Dyani Witchdoctor's Son - Magwaza
+  color: trippy
+  link: https://sounds.mailta.pe/271/track3.mp3
+track4:
+  title: Emanative - Ominous Shanti
+  color: vibrant
+  link: https://sounds.mailta.pe/271/track4.mp3
+track5:
+  title: Idris Ackamoor & The Pyramids - Rhapsody In Berlin (Part 1)
+  color: bliss
+  link: https://sounds.mailta.pe/271/track5.mp3
+track6:
+  title: Yazz Ahmed - Jamil Jamal
+  color: vibrant
+  link: https://sounds.mailta.pe/271/track6.mp3
+track7:
+  title: Burnt Sugar Arkestra - If There's A Hell Below
+  color: trippy
+  link: https://sounds.mailta.pe/271/track7.mp3
 ---
 This morning long-time jazz wayfarer Nick Woodmansey's [Emanative](https://emanative.bandcamp.com/) picks his three tracks for MailTape, to start our day with a groove-laden selection of sounds.
 <p>Three years after the brilliant [Light Years of Darkness](https://stevereidfoundation.bandcamp.com/album/the-light-years-of-the-darkness) LP on Brownswood Recordings, Emanative makes a welcome return on the self-released limited 7″, [Ominous Shanti/Black Enchantment](https://emanative.bandcamp.com/album/ominous-shanti). As usual, Nick performs with some of the finest musicians on the London scene at the moment – this time with another MailTape guest, [Sarathy Korwar](https://www.mailta.pe/249/sarathy-korwar/), as well as Tamar (Collocutor) Osborn, Suman Joshi, Ben Hadwen, Simon Finch and Jessica Lauren.

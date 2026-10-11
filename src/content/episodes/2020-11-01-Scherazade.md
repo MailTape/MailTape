@@ -1,40 +1,50 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 musiColor: musiColor423.png
 image: https://www.mailta.pe/img/fbPic423.png
 episode_URL: http://mailta.pe/423/scherazade/
-track7_color: vibrant
-track7_title: Space Captain - Secret Garden
-track6_color: bliss
-track6_title: The Marias - I Don't Know You
-track5_color: dreamy
-track5_title: Genevieve Artadi - Hot Mess
-track4_color: vibrant
-track4_title: 'Schérazade - Philanthrope '
-track3_color: trippy
-track3_title: 'Flash and The Pan - Waiting For A Train '
-track2_color: bliss
-track2_title: La Priest - What Moves
-track1_color: dreamy
-track1_title: Nick Hakim - Let It Out
-track7_link: https://sounds.mailta.pe/423/track7.mp3
-track6_link: https://sounds.mailta.pe/423/track6.mp3
-track5_link: https://sounds.mailta.pe/423/track5.mp3
-track3_link: https://sounds.mailta.pe/423/track3.mp3
-track1_link: https://sounds.mailta.pe/423/track1.mp3
 guestPic: guestPic423.jpg
 guest_color: vibrant
 guest_name: Schérazade
-category: '423'
+category: "423"
 writer: Anaïs G
 illustrator: Thibault Daumain
 author: Anaïs G
-track4_link: https://sounds.mailta.pe/423/track4.mp3
-track2_link: https://sounds.mailta.pe/423/track2.mp3
-description: This morning, we send each other love, we hug each other through our masks, we send each other kisses through our windows. You try to forget the dull days, the sad news and concentrate on memories of holidays, of moments spent surrounded by friends or family. To accompany us in this quest for the inner sun, we have the voice of Schérazade.
-pubDate: '2020-11-01'
+description: This morning, we send each other love, we hug each other through
+  our masks, we send each other kisses through our windows. You try to forget
+  the dull days, the sad news and concentrate on memories of holidays, of
+  moments spent surrounded by friends or family. To accompany us in this quest
+  for the inner sun, we have the voice of Schérazade.
+pubDate: 2020-11-01
+track1:
+  title: Nick Hakim - Let It Out
+  color: dreamy
+  link: https://sounds.mailta.pe/423/track1.mp3
+track2:
+  title: La Priest - What Moves
+  color: bliss
+  link: https://sounds.mailta.pe/423/track2.mp3
+track3:
+  title: "Flash and The Pan - Waiting For A Train "
+  color: trippy
+  link: https://sounds.mailta.pe/423/track3.mp3
+track4:
+  title: "Schérazade - Philanthrope "
+  color: vibrant
+  link: https://sounds.mailta.pe/423/track4.mp3
+track5:
+  title: Genevieve Artadi - Hot Mess
+  color: dreamy
+  link: https://sounds.mailta.pe/423/track5.mp3
+track6:
+  title: The Marias - I Don't Know You
+  color: bliss
+  link: https://sounds.mailta.pe/423/track6.mp3
+track7:
+  title: Space Captain - Secret Garden
+  color: vibrant
+  link: https://sounds.mailta.pe/423/track7.mp3
 ---
 
 

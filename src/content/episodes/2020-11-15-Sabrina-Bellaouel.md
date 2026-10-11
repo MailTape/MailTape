@@ -1,40 +1,57 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
-track7_title: DJ Lycox - Red Lights
-track7_color: bliss
-track6_color: vibrant
-track6_title: Soapkills - Cheftak
-track5_title: Yak - Kaepora
-track5_color: trippy
-track4_title: Sabrina Bellaouel - Nasser
-track4_color: vibrant
-track3_title: Alfonzo Hunter - Just The Way (Remix)
-track3_color: bliss
-track2_title: Steve Reich - Electric Counterpoint III. Fast
-track2_color: dreamy
-track1_color: vibrant
-track1_title: Jill Scott - Show Me
 author: Jules
 illustrator: Thibault Daumain
 writer: Jules
-category: '425'
+category: "425"
 guest_name: Sabrina Bellaouel
 guest_color: vibrant
 episode_URL: https://www.mailta.pe/425/sabrina-bellaouel/
-track1_link: https://sounds.mailta.pe/425/track1.mp3
-track2_link: https://sounds.mailta.pe/425/track2.mp3
-track4_link: https://sounds.mailta.pe/425/track4.mp3
-track5_link: https://sounds.mailta.pe/425/track5.mp3
-track6_link: https://sounds.mailta.pe/425/track6.mp3
-track7_link: https://sounds.mailta.pe/425/track7.mp3
 musiColor: musiColo425.png
-track3_link: https://sounds.mailta.pe/425/track3.mp3
 guestPic: guestPic425.jpg
 image: https://www.mailta.pe/img/fbPic425.png
-description: This morning, we are delighted to welcome Franco-Algerian singer and producer, Sabrina Bellaouel, to share a sensitive selection of her favorite Sunday morning tunes with us. 2 years after her first album "Illusions" released in 2017,Sabrina Bellaouel is back with a new EP released on InFiné. Leaving for a moment her original RnB influences with "We Don't Need To Be Ennemies", she embarks on new horizons where the sweetness of the choirs meets the dark bass of techno rhythms. And as we follow the producer on this journey full of different emotions, it is a sensitive and rich breathing that remains in our ears. Showing once again that her music is unclassifiable, Sabrina Bellaouel has recently made a comeback on the traces of RnB in a dreamlike style and beyond musical borders with her latest track "The Build Up" from her future EP "Libra".
-pubDate: '2020-11-15'
+description: This morning, we are delighted to welcome Franco-Algerian singer
+  and producer, Sabrina Bellaouel, to share a sensitive selection of her
+  favorite Sunday morning tunes with us. 2 years after her first album
+  "Illusions" released in 2017,Sabrina Bellaouel is back with a new EP released
+  on InFiné. Leaving for a moment her original RnB influences with "We Don't
+  Need To Be Ennemies", she embarks on new horizons where the sweetness of the
+  choirs meets the dark bass of techno rhythms. And as we follow the producer on
+  this journey full of different emotions, it is a sensitive and rich breathing
+  that remains in our ears. Showing once again that her music is unclassifiable,
+  Sabrina Bellaouel has recently made a comeback on the traces of RnB in a
+  dreamlike style and beyond musical borders with her latest track "The Build
+  Up" from her future EP "Libra".
+pubDate: 2020-11-15
+track1:
+  title: Jill Scott - Show Me
+  color: vibrant
+  link: https://sounds.mailta.pe/425/track1.mp3
+track2:
+  title: Steve Reich - Electric Counterpoint III. Fast
+  color: dreamy
+  link: https://sounds.mailta.pe/425/track2.mp3
+track3:
+  title: Alfonzo Hunter - Just The Way (Remix)
+  color: bliss
+  link: https://sounds.mailta.pe/425/track3.mp3
+track4:
+  title: Sabrina Bellaouel - Nasser
+  color: vibrant
+  link: https://sounds.mailta.pe/425/track4.mp3
+track5:
+  title: Yak - Kaepora
+  color: trippy
+  link: https://sounds.mailta.pe/425/track5.mp3
+track6:
+  title: Soapkills - Cheftak
+  color: vibrant
+  link: https://sounds.mailta.pe/425/track6.mp3
+track7:
+  title: DJ Lycox - Red Lights
+  color: bliss
+  link: https://sounds.mailta.pe/425/track7.mp3
 ---
  This morning, we are delighted to welcome Franco-Algerian singer and producer, [Sabrina Bellaouel](https://sabrinabellaouel.bandcamp.com/), to share a sensitive selection of her favorite Sunday morning tunes with us.
 <br><br>

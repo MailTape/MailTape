@@ -1,41 +1,47 @@
 ---
-
 curator: Maxime
 illustrator: William Girault
 writer: Maxime
-category: '205'
+category: "205"
 guest_name: Lindstrøm
 guest_color: trippy
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 guestPic: guestPic205.jpg
-track1_link: https://sounds.mailta.pe/205/track1.mp3
-track2_link: https://sounds.mailta.pe/205/track2.mp3
-track3_link: https://sounds.mailta.pe/205/track3.mp3
-track4_link: https://sounds.mailta.pe/205/track4.mp3
-track5_link: https://sounds.mailta.pe/205/track5.mp3
-track6_link: https://sounds.mailta.pe/205/track6.mp3
-track7_link: https://sounds.mailta.pe/205/track7.mp3
-track1_title: OMA & Amberflame - Lazy Sun
-track1_color: dreamy
-track2_title: Michael David - Ohana
-track2_color: dreamy
-track3_title: Crackazat - Eye Light
-track3_color: rough
-track4_title: Lindstrøm - Rà-àkõ-st
-track4_color: trippy
-track5_title: B.G. Baarregaard - Filtered Summer
-track5_color: vibrant
-track6_title: A Visitor From Another Meaning - I Rarely Talk To Strangers
-track6_color: trippy
-track7_title: Social Lovers - Can't Let It Go
-track7_color: vibrant
 episode_URL: http://mailta.pe/205/Lindstrom/
 image: https://www.mailta.pe/img/fbPic205.jpg
 musiColor: musiColor205.png
-description: ''
+description: ""
 published: true
 author: Maxime
-pubDate: '2016-02-21'
+pubDate: 2016-02-21
+track1:
+  title: OMA & Amberflame - Lazy Sun
+  color: dreamy
+  link: https://sounds.mailta.pe/205/track1.mp3
+track2:
+  title: Michael David - Ohana
+  color: dreamy
+  link: https://sounds.mailta.pe/205/track2.mp3
+track3:
+  title: Crackazat - Eye Light
+  color: rough
+  link: https://sounds.mailta.pe/205/track3.mp3
+track4:
+  title: Lindstrøm - Rà-àkõ-st
+  color: trippy
+  link: https://sounds.mailta.pe/205/track4.mp3
+track5:
+  title: B.G. Baarregaard - Filtered Summer
+  color: vibrant
+  link: https://sounds.mailta.pe/205/track5.mp3
+track6:
+  title: A Visitor From Another Meaning - I Rarely Talk To Strangers
+  color: trippy
+  link: https://sounds.mailta.pe/205/track6.mp3
+track7:
+  title: Social Lovers - Can't Let It Go
+  color: vibrant
+  link: https://sounds.mailta.pe/205/track7.mp3
 ---
 
 

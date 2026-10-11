@@ -1,40 +1,50 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: ImaCrea
 illustrator: Meriam Kharbat
 writer: ImaCrea
-category: '525'
+category: "525"
 guest_name: Martin Dupont
 guest_color: vibrant
 guestPic: guestPic525.png
-track1_title: Dalis Car - Moonlife
-track1_color: vibrant
-track2_title: Indoor Life - Archeology
-track2_color: trippy
-track3_title: Wall of Voodoo - Ring of Fire
-track3_color: rough
-track4_title: Martin Dupont - Inside Out
-track4_color: vibrant
-track5_title: Gary Allen - Oops It's an Accident
-track5_color: vibrant
-track6_title: El - Og Tilslutt
-track6_color: trippy
-track7_title: Art Fact - Rain in the South
-track7_color: dreamy
 episode_URL: http://mailta.pe/525/martin-dupont/
 image: https://www.mailta.pe/img/fbPic525.jpg
 musiColor: musiColor525.png
-track1_link: https://sounds.mailta.pe/525/track1.mp3
-track2_link: https://sounds.mailta.pe/525/track2.mp3
-track3_link: https://sounds.mailta.pe/525/track3.mp3
-track4_link: https://sounds.mailta.pe/525/track4.mp3
-track5_link: https://sounds.mailta.pe/525/track5.mp3
-track6_link: https://sounds.mailta.pe/525/track6.mp3
-track7_link: https://sounds.mailta.pe/525/track7.mp3
-description: This morning, get ready to start your day with a heartfelt and captivating episode of MailTape with Martin Dupont! We're thrilled to share with you a special selection of hidden gems that we've curated after interviewing Alain Seghir, the leader of the band, following their live performance in Spain.
-pubDate: '2023-04-23'
+description: This morning, get ready to start your day with a heartfelt and
+  captivating episode of MailTape with Martin Dupont! We're thrilled to share
+  with you a special selection of hidden gems that we've curated after
+  interviewing Alain Seghir, the leader of the band, following their live
+  performance in Spain.
+pubDate: 2023-04-23
+track1:
+  title: Dalis Car - Moonlife
+  color: vibrant
+  link: https://sounds.mailta.pe/525/track1.mp3
+track2:
+  title: Indoor Life - Archeology
+  color: trippy
+  link: https://sounds.mailta.pe/525/track2.mp3
+track3:
+  title: Wall of Voodoo - Ring of Fire
+  color: rough
+  link: https://sounds.mailta.pe/525/track3.mp3
+track4:
+  title: Martin Dupont - Inside Out
+  color: vibrant
+  link: https://sounds.mailta.pe/525/track4.mp3
+track5:
+  title: Gary Allen - Oops It's an Accident
+  color: vibrant
+  link: https://sounds.mailta.pe/525/track5.mp3
+track6:
+  title: El - Og Tilslutt
+  color: trippy
+  link: https://sounds.mailta.pe/525/track6.mp3
+track7:
+  title: Art Fact - Rain in the South
+  color: dreamy
+  link: https://sounds.mailta.pe/525/track7.mp3
 ---
 
 This morning, get ready to start your day with a heartfelt and captivating episode of MailTape with [Martin Dupont](https://martindupont.bandcamp.com)! We're thrilled to share with you a special selection of hidden gems that we've curated after interviewing Alain Seghir, the leader of the band, following their live performance in Spain.

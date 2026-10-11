@@ -1,40 +1,50 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
-category: '337'
+category: "337"
 guest_name: Bachar Mar-Khalifé
 guest_color: vibrant
 author: Manon
 writer: Manon
 guestPic: guestPic337.jpg
-track1_title: 'Gabriel Fauré - Requiem, Op. 48 : II. Kyrie'
-track1_color: vibrant
-track2_title: Ziad Rahbani – Bala Wala Chi
-track2_color: vibrant
-track3_title: Jaco Pastorius – Part 10
-track3_color: rough
-track4_title: Bachar Mar-Khalifé – Lemon
-track4_color: rough
-track5_title: Altin Gün – Tatil Dile Guler Yuze
-track5_color: trippy
-track6_title: Trio Ternura – A Gira
-track6_color: bliss
-track7_title: Hamid Al Shaeri - Ayonha
-track7_color: dreamy
 illustrator: Anthony Dujardin
-track5_link: https://sounds.mailta.pe/337/track5.mp3
-track7_link: https://sounds.mailta.pe/337/track7.mp3
-track6_link: https://sounds.mailta.pe/337/track6.mp3
-track4_link: https://sounds.mailta.pe/337/bachar-mar-khalife-lemon-official-video.mp3
-track2_link: https://sounds.mailta.pe/337/Ziad%20Rahbani%20-%20Bala%20Wala%20Chi%20%D8%A8%D9%84%D8%A7%20%D9%88%D9%84%D8%A7%20%D8%B4%D9%8A%20%28Lyric%20Video%29.mp3
-track1_link: https://sounds.mailta.pe/337/requiem-op-48-ii-kyrie.mp3
-track3_link: https://sounds.mailta.pe/337/jaco-pastorius-part-10.mp3
 image: https://www.mailta.pe/img/fbPic337.jpg
 episode_URL: http://mailta.pe/337/Bachar-Mar-Khalife
 musiColor: musiColor337.jpg
-description: This morning we are delighted to welcome Franco-Lebanese singer, songwriter and multi-instrumentalist Bachar Mar-Khalifé to pick three Sunday morning musical selections for us. Accomplished artist and son of the legendary Eastern-Lute player Marcel Khalifé, Bachar released his fourth album "The Water Wheel A Tribute To Hamza El Din" last May.
-pubDate: '2018-12-23'
+description: This morning we are delighted to welcome Franco-Lebanese singer,
+  songwriter and multi-instrumentalist Bachar Mar-Khalifé to pick three Sunday
+  morning musical selections for us. Accomplished artist and son of the
+  legendary Eastern-Lute player Marcel Khalifé, Bachar released his fourth album
+  "The Water Wheel A Tribute To Hamza El Din" last May.
+pubDate: 2018-12-23
+track1:
+  title: "Gabriel Fauré - Requiem, Op. 48 : II. Kyrie"
+  color: vibrant
+  link: https://sounds.mailta.pe/337/requiem-op-48-ii-kyrie.mp3
+track2:
+  title: Ziad Rahbani – Bala Wala Chi
+  color: vibrant
+  link: https://sounds.mailta.pe/337/Ziad%20Rahbani%20-%20Bala%20Wala%20Chi%20%D8%A8%D9%84%D8%A7%20%D9%88%D9%84%D8%A7%20%D8%B4%D9%8A%20%28Lyric%20Video%29.mp3
+track3:
+  title: Jaco Pastorius – Part 10
+  color: rough
+  link: https://sounds.mailta.pe/337/jaco-pastorius-part-10.mp3
+track4:
+  title: Bachar Mar-Khalifé – Lemon
+  color: rough
+  link: https://sounds.mailta.pe/337/bachar-mar-khalife-lemon-official-video.mp3
+track5:
+  title: Altin Gün – Tatil Dile Guler Yuze
+  color: trippy
+  link: https://sounds.mailta.pe/337/track5.mp3
+track6:
+  title: Trio Ternura – A Gira
+  color: bliss
+  link: https://sounds.mailta.pe/337/track6.mp3
+track7:
+  title: Hamid Al Shaeri - Ayonha
+  color: dreamy
+  link: https://sounds.mailta.pe/337/track7.mp3
 ---
 This morning we are delighted to welcome Franco-Lebanese singer, songwriter and multi-instrumentalist [Bachar Mar-Khalifé](https://www.facebook.com/bmkhalife/) to pick three Sunday morning musical selections for us.
 <br><br>

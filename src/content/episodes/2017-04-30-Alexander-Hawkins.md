@@ -1,39 +1,47 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
-track1_link: https://sounds.mailta.pe/258/track1.mp3
-track2_link: https://sounds.mailta.pe/258/track2.mp3
-track3_link: https://sounds.mailta.pe/258/track3.mp3
-track4_link: https://sounds.mailta.pe/258/track4.mp3
-track5_link: https://sounds.mailta.pe/258/track5.mp3
-track6_link: https://sounds.mailta.pe/258/track6.mp3
-track7_link: https://sounds.mailta.pe/258/track7.mp3
 author: Sanjay Mistry
-category: '258'
+category: "258"
 guest_name: Alexander Hawkins
 guest_color: dreamy
-track1_title: Harriet Tubman - Ritual Rubbin
-track1_color: vibrant
-track2_title: Elaine Mitchener - Watching the Rituals
-track2_color: trippy
-track3_title: 'Maurizio Pollini - Chopin: Ballade No. 1 in G Minor, Op. 23'
-track3_color: dreamy
-track4_title: Alexander Hawkins - [K]now
-track4_color: trippy
-track5_title: Muhal Richard Abrams - Expression 1
-track5_color: dreamy
-track6_title: Alarm Will Sound - Particularly Competitive
-track6_color: vibrant
-track7_title: Stefan Christoff & David Parker - Beyond Injustice
-track7_color: dreamy
 episode_URL: http://mailta.pe/258/Alexander-Hawkins/
 guestPic: guestPic258.jpg
 image: https://www.mailta.pe/img/fbPic258.jpg
 musiColor: musiColor258.png
 illustrator: Camille Célestin
-description: This morning, we are thrilled to welcome pianist, organist, composer and bandleader, Alexander Hawkins, who is ‘unlike anything else in modern creative music’ (Ni Kantu).
-pubDate: '2017-04-30'
+description: This morning, we are thrilled to welcome pianist, organist,
+  composer and bandleader, Alexander Hawkins, who is ‘unlike anything else in
+  modern creative music’ (Ni Kantu).
+pubDate: 2017-04-30
+track1:
+  title: Harriet Tubman - Ritual Rubbin
+  color: vibrant
+  link: https://sounds.mailta.pe/258/track1.mp3
+track2:
+  title: Elaine Mitchener - Watching the Rituals
+  color: trippy
+  link: https://sounds.mailta.pe/258/track2.mp3
+track3:
+  title: "Maurizio Pollini - Chopin: Ballade No. 1 in G Minor, Op. 23"
+  color: dreamy
+  link: https://sounds.mailta.pe/258/track3.mp3
+track4:
+  title: Alexander Hawkins - [K]now
+  color: trippy
+  link: https://sounds.mailta.pe/258/track4.mp3
+track5:
+  title: Muhal Richard Abrams - Expression 1
+  color: dreamy
+  link: https://sounds.mailta.pe/258/track5.mp3
+track6:
+  title: Alarm Will Sound - Particularly Competitive
+  color: vibrant
+  link: https://sounds.mailta.pe/258/track6.mp3
+track7:
+  title: Stefan Christoff & David Parker - Beyond Injustice
+  color: dreamy
+  link: https://sounds.mailta.pe/258/track7.mp3
 ---
 This morning, we are thrilled to welcome pianist, organist, composer and bandleader, [Alexander Hawkins](http://www.alexanderhawkinsmusic.com/index.html), who is ‘unlike anything else in modern creative music’ (Ni Kantu).
 <p>Operating in myriad creative contexts (including [Convergence Quartet](http://www.alexanderhawkinsmusic.com/the-convergence-quartet.html), [Decoy](http://www.alexanderhawkinsmusic.com/decoy.html) and the [Alexander Hawkins Ensemble](http://www.alexanderhawkinsmusic.com/alexander-hawkins-ensemble.html)), his own highly distinctive soundworld is forged through the search to reconcile both his love of free improvisation and his profound fascination with composition and structure.

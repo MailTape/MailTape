@@ -1,40 +1,48 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Sanjay Mistry
 illustrator: Camille Célestin
 writer: Sanjay Mistry
-category: '301'
+category: "301"
 guest_name: Ruba Shamshoum
 guest_color: bliss
-track1_link: https://sounds.mailta.pe/301/track1.mp3
-track2_link: https://sounds.mailta.pe/301/track2.mp3
-track3_link: https://sounds.mailta.pe/301/track3.mp3
-track4_link: https://sounds.mailta.pe/301/track4.mp3
-track5_link: https://sounds.mailta.pe/301/track5.mp3
-track6_link: https://sounds.mailta.pe/301/track6.mp3
-track7_link: https://sounds.mailta.pe/301/track7.mp3
-track1_title: Ella Fitzgerald – Blue Skies
-track1_color: bliss
-track2_title: Esperanza Spalding – Little Fly
-track2_color: dreamy
-track3_title: Fairouz – ايا زنبق يا غاوي
-track3_color: bliss
-track4_title: Ruba Shamshoum –  في الاعماق  (In the Depth)
-track4_color: dreamy
-track5_title: Cécile McLorin Salvant – Le Front Caché Sur Tes Genoux
-track5_color: bliss
-track6_title: Jazzmeia Horn – So Easy to Love
-track6_color: bliss
-track7_title: Zara McFarlane – Chiaroscuro
-track7_color: trippy
 episode_URL: http://mailta.pe/301/ruba-shamshoum/
-description: This morning we are delighted to welcome Dublin-based musician, Ruba Shamshoum, who collaborates with us to provide a beautifully laid-back Sunday morning playlist.
+description: This morning we are delighted to welcome Dublin-based musician,
+  Ruba Shamshoum, who collaborates with us to provide a beautifully laid-back
+  Sunday morning playlist.
 guestPic: guestPic301.jpg
 musiColor: musiColor301.png
 image: https://www.mailta.pe/img/fbPic301.jpg
-pubDate: '2018-02-25'
+pubDate: 2018-02-25
+track1:
+  title: Ella Fitzgerald – Blue Skies
+  color: bliss
+  link: https://sounds.mailta.pe/301/track1.mp3
+track2:
+  title: Esperanza Spalding – Little Fly
+  color: dreamy
+  link: https://sounds.mailta.pe/301/track2.mp3
+track3:
+  title: Fairouz – ايا زنبق يا غاوي
+  color: bliss
+  link: https://sounds.mailta.pe/301/track3.mp3
+track4:
+  title: Ruba Shamshoum –  في الاعماق  (In the Depth)
+  color: dreamy
+  link: https://sounds.mailta.pe/301/track4.mp3
+track5:
+  title: Cécile McLorin Salvant – Le Front Caché Sur Tes Genoux
+  color: bliss
+  link: https://sounds.mailta.pe/301/track5.mp3
+track6:
+  title: Jazzmeia Horn – So Easy to Love
+  color: bliss
+  link: https://sounds.mailta.pe/301/track6.mp3
+track7:
+  title: Zara McFarlane – Chiaroscuro
+  color: trippy
+  link: https://sounds.mailta.pe/301/track7.mp3
 ---
 This morning we are delighted to welcome Dublin-based musician, [Ruba Shamshoum](http://ruba.land/), who collaborates with us to provide a beautifully laid-back Sunday morning playlist.
 <p>Ruba released her debut album ‘Shamat’ (Beauty Spots) in May last year. The musicality of the Arabic language—and subtle shifts of weight in her own phrasing—percolate throughout the compositions that are supported by Aleka Potinga's cello, Matthew Jacobson's percussion, Orlando Molina's guitar and Barry Rycraft's double bass.

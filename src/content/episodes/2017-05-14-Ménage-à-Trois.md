@@ -1,40 +1,48 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Dimitri
 illustrator: Camille Célestin
 writer: PS KY
-category: '260'
+category: "260"
 guest_name: Ménage à Trois
-track1_link: https://sounds.mailta.pe/260/track1.mp3
-track2_link: https://sounds.mailta.pe/260/track2.mp3
-track3_link: https://sounds.mailta.pe/260/track3.mp3
-track1_title: Rod Stewart - This Old Heart Of Mine (Ocean Edits)
-track3_title: Dream Lovers - For Belgian Friends
-track2_title: June - Lost Area (Dj Sprinkles' Empty Dancefoor)
-track4_title: Ménage à Trois - All Night Long
 guestPic: guestPic2601.jpg
 episode_URL: https://www.mailta.pe/260/Ménage-à-Trois/
-track5_link: https://sounds.mailta.pe/260/track5.mp3
-track6_link: https://sounds.mailta.pe/260/track6.mp3
-track7_title: Dave Depper - Do You Want Love?
-track6_title: Blue Of Noon — Guidance
-track5_title: Babeheaven - Heaven
-track7_link: https://sounds.mailta.pe/260/track7.mp3
-track1_color: dreamy
-track2_color: dreamy
-track3_color: dreamy
-track4_color: dreamy
-track5_color: bliss
-track6_color: bliss
-track7_color: trippy
 guest_color: dreamy
-track4_link: https://sounds.mailta.pe/260/track4.mp3
 image: https://www.mailta.pe/img/fbPic260.JPG
-description: Bright and delightful morning to the masses and the listeners, to the frequency lovers and addicted souls of the music empire. Today, Ménage à Trois  will tickle you with their harmonious selection and singular sound.
+description: Bright and delightful morning to the masses and the listeners, to
+  the frequency lovers and addicted souls of the music empire. Today, Ménage à
+  Trois  will tickle you with their harmonious selection and singular sound.
 musiColor: musiColor260.jpg
-pubDate: '2017-05-14'
+pubDate: 2017-05-14
+track1:
+  title: Rod Stewart - This Old Heart Of Mine (Ocean Edits)
+  color: dreamy
+  link: https://sounds.mailta.pe/260/track1.mp3
+track2:
+  title: June - Lost Area (Dj Sprinkles' Empty Dancefoor)
+  color: dreamy
+  link: https://sounds.mailta.pe/260/track2.mp3
+track3:
+  title: Dream Lovers - For Belgian Friends
+  color: dreamy
+  link: https://sounds.mailta.pe/260/track3.mp3
+track4:
+  title: Ménage à Trois - All Night Long
+  color: dreamy
+  link: https://sounds.mailta.pe/260/track4.mp3
+track5:
+  title: Babeheaven - Heaven
+  color: bliss
+  link: https://sounds.mailta.pe/260/track5.mp3
+track6:
+  title: Blue Of Noon — Guidance
+  color: bliss
+  link: https://sounds.mailta.pe/260/track6.mp3
+track7:
+  title: Dave Depper - Do You Want Love?
+  color: trippy
+  link: https://sounds.mailta.pe/260/track7.mp3
 ---
 Bright and delightful morning to the masses and the listeners, to the frequency lovers and addicted souls of the music empire. Today, [Ménage à Trois](https://www.facebook.com/threesistersinlove/) will tickle you with their harmonious selection and singular sound.
 

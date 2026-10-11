@@ -1,39 +1,47 @@
 ---
-
 published: true
 author: Julien
 guest_color: dreamy
-bigTitle_font_ratio: '6'
-bigTitle_line_ratio: '1'
-track1_color: vibrant
-track2_color: vibrant
-track3_color: vibrant
-track4_color: dreamy
-track5_color: vibrant
-track6_color: dreamy
-track7_color: vibrant
-category: '142'
+bigTitle_font_ratio: "6"
+bigTitle_line_ratio: "1"
+category: "142"
 guest_name: Grey Reverend
-track1_link: https://sounds.mailta.pe/142/track1.mp3
-track2_link: https://sounds.mailta.pe/142/track2.mp3
-track3_link: https://sounds.mailta.pe/142/track3.mp3
-track4_link: https://sounds.mailta.pe/142/track4.mp3
-track3_title: Dusty Springfield - Just A Little loving
-track1_title: Nina Simone - I Loves You Porgy
-track2_title: 'Tom Scott - Today '
-track4_title: Grey Reverend - Everlasting
 episode_URL: http://mailta.pe/142/Grey-Reverend/
-track5_title: Mice Parade - Nights Wave
-track5_link: https://sounds.mailta.pe/142/track5.mp3
-track6_link: https://sounds.mailta.pe/142/track6.mp3
-track6_title: Long Arm - Sleepsafe
-track7_title: Sixto Rodriguez - Inner City Blues
-track7_link: https://sounds.mailta.pe/142/track7.mp3
 guestPic: guestPic142.jpg
 image: https://www.mailta.pe/img/fbPic142.jpg
 musiColor: musiColor142.png
-description: This Morning, a warm voice will wake you up. We are very pleased to introduce you to Grey Reverend. His selection perfectly reflects the emotions he brings in his own music. We hope you'll like it.
-pubDate: '2014-05-25'
+description: This Morning, a warm voice will wake you up. We are very pleased to
+  introduce you to Grey Reverend. His selection perfectly reflects the emotions
+  he brings in his own music. We hope you'll like it.
+pubDate: 2014-05-25
+track1:
+  title: Nina Simone - I Loves You Porgy
+  color: vibrant
+  link: https://sounds.mailta.pe/142/track1.mp3
+track2:
+  title: "Tom Scott - Today "
+  color: vibrant
+  link: https://sounds.mailta.pe/142/track2.mp3
+track3:
+  title: Dusty Springfield - Just A Little loving
+  color: vibrant
+  link: https://sounds.mailta.pe/142/track3.mp3
+track4:
+  title: Grey Reverend - Everlasting
+  color: dreamy
+  link: https://sounds.mailta.pe/142/track4.mp3
+track5:
+  title: Mice Parade - Nights Wave
+  color: vibrant
+  link: https://sounds.mailta.pe/142/track5.mp3
+track6:
+  title: Long Arm - Sleepsafe
+  color: dreamy
+  link: https://sounds.mailta.pe/142/track6.mp3
+track7:
+  title: Sixto Rodriguez - Inner City Blues
+  color: vibrant
+  link: https://sounds.mailta.pe/142/track7.mp3
 ---
 
 

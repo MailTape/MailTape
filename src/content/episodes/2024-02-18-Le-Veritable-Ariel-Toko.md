@@ -1,40 +1,49 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 author: Anto
 illustrator: Camille Lemeunier
 writer: Anto
-category: '547'
+category: "547"
 guest_name: Le Véritable Ariel Toko
 guest_color: bliss
 guestPic: guestPic547.jpg
-track1_link: https://sounds.mailta.pe/547/track1.mp3
-track2_link: https://sounds.mailta.pe/547/track2.mp3
-track3_link: https://sounds.mailta.pe/547/track3.mp3
-track4_link: https://sounds.mailta.pe/547/track4.mp3
-track5_link: https://sounds.mailta.pe/547/track5.mp3
-track6_link: https://sounds.mailta.pe/547/track6.mp3
-track7_link: https://sounds.mailta.pe/547/track7.mp3
-track1_title: City Boys Band - Nye Asem Hwe
-track1_color: bliss
-track2_color: vibrant
-track3_color: bliss
-track4_color: trippy
-track5_color: vibrant
-track6_color: trippy
-track7_color: bliss
-track2_title: Peter Herbolzheimer - Nerve Wrecker
-track3_title: Ebo Taylor - Love and Death
-track4_title: Le Véritable Ariel Toko – Highwar
-track5_title: Ekambi Brillant – Aboki
-track6_title: Conjunto Son San - A Pilha La Roz
-track7_title: Black Masters Band - Wonnim A Bisa
 episode_URL: https://www.mailta.pe/547/le-veritable-ariel-toko/
 image: https://www.mailta.pe/img/fbPic547.png
 musiColor: musiColor547.png
-description: This morning, we follow in the footsteps of irresistible music synonymous with softness and heat. If Africa is the birthplace of humankind, we will see in this episode that it has also pampered some rhythms which continue to inspire artists from around the world.
+description: This morning, we follow in the footsteps of irresistible music
+  synonymous with softness and heat. If Africa is the birthplace of humankind,
+  we will see in this episode that it has also pampered some rhythms which
+  continue to inspire artists from around the world.
 published: true
-pubDate: '2024-02-18'
+pubDate: 2024-02-18
+track1:
+  title: City Boys Band - Nye Asem Hwe
+  color: bliss
+  link: https://sounds.mailta.pe/547/track1.mp3
+track2:
+  title: Peter Herbolzheimer - Nerve Wrecker
+  color: vibrant
+  link: https://sounds.mailta.pe/547/track2.mp3
+track3:
+  title: Ebo Taylor - Love and Death
+  color: bliss
+  link: https://sounds.mailta.pe/547/track3.mp3
+track4:
+  title: Le Véritable Ariel Toko – Highwar
+  color: trippy
+  link: https://sounds.mailta.pe/547/track4.mp3
+track5:
+  title: Ekambi Brillant – Aboki
+  color: vibrant
+  link: https://sounds.mailta.pe/547/track5.mp3
+track6:
+  title: Conjunto Son San - A Pilha La Roz
+  color: trippy
+  link: https://sounds.mailta.pe/547/track6.mp3
+track7:
+  title: Black Masters Band - Wonnim A Bisa
+  color: bliss
+  link: https://sounds.mailta.pe/547/track7.mp3
 ---
 
 This morning, we follow in the footsteps of irresistible music synonymous with softness and heat. If Africa is the birthplace of humankind, we will see in this episode that it has also pampered some rhythms which continue to inspire artists from around the world.

@@ -4,36 +4,44 @@ author: ImaCrea
 guest_color: bliss
 bigTitle_font_ratio: "7.7"
 bigTitle_line_ratio: "1"
-track1_color: dreamy
-track2_color: dreamy
-track3_color: dreamy
-track4_color: bliss
-track5_color: bliss
-track6_color: trippy
-track7_color: dreamy
-track1_link: "https://sounds.mailta.pe/154/track1.mp3"
-track2_link: "https://sounds.mailta.pe/154/track2.mp3"
-track3_link: "https://sounds.mailta.pe/154/track3.mp3"
-track4_link: "https://sounds.mailta.pe/154/track4.mp3"
-track5_link: "https://sounds.mailta.pe/154/track5.mp3"
-track6_link: "hhttps://sounds.mailta.pe/missingTrack.mp3"
-track7_link: "https://sounds.mailta.pe/154/track7.mp3"
 category: "154"
-guest_name: "Sheep, Dog & Wolf"
-track1_title: " Baths - Ironworks"
-track2_title: "Ghoul - Swimming Pool"
-track3_title: "Lontalius -  Yr Heart is Beating "
-track4_title: "Sheep, Dog & Wolf - Egospect"
-track5_title: "Arms and Sleepers - Swim Team"
-track6_title: "Daisuke Tanabe - bfr017"
-track7_title: "Gap Dream - Strong Love"
+guest_name: Sheep, Dog & Wolf
 guestPic: guestPic154.jpg
-episode_URL: "http://mailta.pe/154/Sheep-Dog-Wolf/"
+episode_URL: http://mailta.pe/154/Sheep-Dog-Wolf/
 image: https://www.mailta.pe/img/fbPic154.jpg
 musiColor: musiColor154.png
-description: "Our pick of the week is Daniel McBride, an artist from Wellington who goes by the name Sheep, Dog & Wolf and with whom we unveil an episode that will tug at your heartstrings."
-pubDate: '2014-10-05'
-
+description: Our pick of the week is Daniel McBride, an artist from Wellington
+  who goes by the name Sheep, Dog & Wolf and with whom we unveil an episode that
+  will tug at your heartstrings.
+pubDate: 2014-10-05
+track1:
+  title: " Baths - Ironworks"
+  color: dreamy
+  link: https://sounds.mailta.pe/154/track1.mp3
+track2:
+  title: Ghoul - Swimming Pool
+  color: dreamy
+  link: https://sounds.mailta.pe/154/track2.mp3
+track3:
+  title: "Lontalius -  Yr Heart is Beating "
+  color: dreamy
+  link: https://sounds.mailta.pe/154/track3.mp3
+track4:
+  title: Sheep, Dog & Wolf - Egospect
+  color: bliss
+  link: https://sounds.mailta.pe/154/track4.mp3
+track5:
+  title: Arms and Sleepers - Swim Team
+  color: bliss
+  link: https://sounds.mailta.pe/154/track5.mp3
+track6:
+  title: Daisuke Tanabe - bfr017
+  color: trippy
+  link: hhttps://sounds.mailta.pe/missingTrack.mp3
+track7:
+  title: Gap Dream - Strong Love
+  color: dreamy
+  link: https://sounds.mailta.pe/154/track7.mp3
 ---
 
 <p id="introduction">

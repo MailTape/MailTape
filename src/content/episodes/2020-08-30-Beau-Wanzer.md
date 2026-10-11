@@ -1,40 +1,48 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Sanjay Mistry
 illustrator: Jason Pridham
 writer: Sanjay Mistry
-category: '414'
+category: "414"
 guest_name: Beau Wanzer
 guest_color: trippy
-track1_title: Brannten Schnüre – Licht
-track1_color: dreamy
-track2_title: Die Todliche Doris – Die Uber Doris (ft. David Steeves—English Version)
-track2_color: trippy
-track3_title: Thorax-Wach – Ruhe Im Karton
-track3_color: bliss
-track6_title: ELLLL – HOT WHEELS
-track6_color: dreamy
-track7_title: Xao Seffcheque & Der Rest – Ja-Nein-Vielleicht
-track7_color: bliss
-track1_link: https://sounds.mailta.pe/414/track1.mp3
-track2_link: https://sounds.mailta.pe/414/track2.mp3
-track3_link: https://sounds.mailta.pe/414/track3.mp3
-track6_link: https://sounds.mailta.pe/414/track6.mp3
-track7_link: https://sounds.mailta.pe/414/track7.mp3
 episode_URL: https://www.mailta.pe/414/beau-wanzer/
-track4_link: https://sounds.mailta.pe/414/track4.mp3
-track4_title: Beau Wanzer – Snake and Shake
-track4_color: trippy
-track5_link: https://sounds.mailta.pe/414/track5.mp3
-track5_title: Klein – Claim It
-track5_color: trippy
 guestPic: guestPic414.jpg
-description: Welcome back to a new season of MailTape! This morning we welcome Chicago-based woozy noodler Beau Wanzer to select three contorted Sunday morning tunes with us.
+description: Welcome back to a new season of MailTape! This morning we welcome
+  Chicago-based woozy noodler Beau Wanzer to select three contorted Sunday
+  morning tunes with us.
 musiColor: musiColor414.png
 image: https://www.mailta.pe/img/fbPic414.png
-pubDate: '2020-08-30'
+pubDate: 2020-08-30
+track1:
+  title: Brannten Schnüre – Licht
+  color: dreamy
+  link: https://sounds.mailta.pe/414/track1.mp3
+track2:
+  title: Die Todliche Doris – Die Uber Doris (ft. David Steeves—English Version)
+  color: trippy
+  link: https://sounds.mailta.pe/414/track2.mp3
+track3:
+  title: Thorax-Wach – Ruhe Im Karton
+  color: bliss
+  link: https://sounds.mailta.pe/414/track3.mp3
+track4:
+  title: Beau Wanzer – Snake and Shake
+  color: trippy
+  link: https://sounds.mailta.pe/414/track4.mp3
+track5:
+  title: Klein – Claim It
+  color: trippy
+  link: https://sounds.mailta.pe/414/track5.mp3
+track6:
+  title: ELLLL – HOT WHEELS
+  color: dreamy
+  link: https://sounds.mailta.pe/414/track6.mp3
+track7:
+  title: Xao Seffcheque & Der Rest – Ja-Nein-Vielleicht
+  color: bliss
+  link: https://sounds.mailta.pe/414/track7.mp3
 ---
 Welcome back to a new season of MailTape! This morning we welcome Chicago-based woozy noodler [Beau Wanzer](https://beauwanzer.bandcamp.com/) to select three contorted Sunday morning tunes with us. 
 <br><br>

@@ -1,40 +1,49 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
-track7_link: https://sounds.mailta.pe/367/track7.mp3
-track5_link: https://sounds.mailta.pe/367/track5.mp3
-track2_link: https://sounds.mailta.pe/367/track2.mp3
-track3_link: https://sounds.mailta.pe/367/track3.mp3
-track2_title: Vendredi Sur Mer - La Femme à la Peau Bleue
-track5_title: Monsieur 6000 - Océan
-track6_title: Auren - Tout est permis
-track6_color: dreamy
-track7_title: 'Le Flegmatic - L''autre rive '
-track3_title: Mild High Club - Skiptracing
-track3_color: dreamy
-track4_title: 'Labotanique - Nature morte '
-track4_color: trippy
-track5_color: vibrant
-track7_color: bliss
-track2_color: vibrant
-track1_title: Flavien Berger - Pamplemousse
-track1_color: dreamy
 episode_URL: http://www.mailta.pe/367/labotanique/
 musiColor: musiColor367.png
 guest_name: Labotanique
-category: '367'
+category: "367"
 guestPic: guestPic367.jpg
-description: This morning we leave in the forest far from the city, far from pollution, far from the crowded streets of tourists... A moment to get green, to recharge one's batteries in the country, is the philosophy of the Labotanique group
+description: This morning we leave in the forest far from the city, far from
+  pollution, far from the crowded streets of tourists... A moment to get green,
+  to recharge one's batteries in the country, is the philosophy of the
+  Labotanique group
 author: Anaïs G
 illustrator: Camille Célestin
 writer: Anaïs G
 guest_color: trippy
-track1_link: https://sounds.mailta.pe/367/Track1.mp3
-track4_link: https://sounds.mailta.pe/367/Track4.mp3
-track6_link: https://sounds.mailta.pe/367/Track6.mp3
 image: http://www.mailta.pe/img/fbPic367.png
-pubDate: '2019-07-21'
+pubDate: 2019-07-21
+track1:
+  title: Flavien Berger - Pamplemousse
+  color: dreamy
+  link: https://sounds.mailta.pe/367/Track1.mp3
+track2:
+  title: Vendredi Sur Mer - La Femme à la Peau Bleue
+  color: vibrant
+  link: https://sounds.mailta.pe/367/track2.mp3
+track3:
+  title: Mild High Club - Skiptracing
+  color: dreamy
+  link: https://sounds.mailta.pe/367/track3.mp3
+track4:
+  title: "Labotanique - Nature morte "
+  color: trippy
+  link: https://sounds.mailta.pe/367/Track4.mp3
+track5:
+  title: Monsieur 6000 - Océan
+  color: vibrant
+  link: https://sounds.mailta.pe/367/track5.mp3
+track6:
+  title: Auren - Tout est permis
+  color: dreamy
+  link: https://sounds.mailta.pe/367/Track6.mp3
+track7:
+  title: "Le Flegmatic - L'autre rive "
+  color: bliss
+  link: https://sounds.mailta.pe/367/track7.mp3
 ---
 
 

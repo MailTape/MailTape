@@ -1,40 +1,47 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Sanjay Mistry
 illustrator: Anthony Dujardin
 writer: Sanjay Mistry
-category: '328'
+category: "328"
 guest_name: Mary Lattimore
 guest_color: dreamy
-track1_link: https://sounds.mailta.pe/328/track1.mp3
-track2_link: https://sounds.mailta.pe/328/track2.mp3
-track3_link: https://sounds.mailta.pe/328/track3.mp3
-track4_link: https://sounds.mailta.pe/328/track4.mp3
-track5_link: https://sounds.mailta.pe/328/track5.mp3
-track6_link: https://sounds.mailta.pe/328/track6.mp3
-track7_link: https://sounds.mailta.pe/328/track7.mp3
-track1_title: Brian Eno – Fullness of Wind
-track1_color: dreamy
-track2_title: Henryk Górecki – Third Symphony Movement 3
-track2_color: bliss
-track3_title: Baird Sisters – Tracks
-track3_color: bliss
-track4_title: Mary Lattimore – Hello From the Edge of the Earth
-track4_color: dreamy
-track5_title: Áine O'Dwyer – Tremor
-track5_color: bliss
-track6_title: Orla Wren – The Cup Of Remembered Things
-track6_color: dreamy
-track7_title: United Bible Studies – Hazlehurst
-track7_color: trippy
 episode_URL: http://mailta.pe/328/mary-lattimore/
 guestPic: guestPic328.jpg
 musiColor: musiColor328.png
 image: https://www.mailta.pe/img/fbPic328.jpg
-description: This Sunday morning we are delighted to welcome harpist Mary Lattimore to MailTape.
-pubDate: '2018-10-21'
+description: This Sunday morning we are delighted to welcome harpist Mary
+  Lattimore to MailTape.
+pubDate: 2018-10-21
+track1:
+  title: Brian Eno – Fullness of Wind
+  color: dreamy
+  link: https://sounds.mailta.pe/328/track1.mp3
+track2:
+  title: Henryk Górecki – Third Symphony Movement 3
+  color: bliss
+  link: https://sounds.mailta.pe/328/track2.mp3
+track3:
+  title: Baird Sisters – Tracks
+  color: bliss
+  link: https://sounds.mailta.pe/328/track3.mp3
+track4:
+  title: Mary Lattimore – Hello From the Edge of the Earth
+  color: dreamy
+  link: https://sounds.mailta.pe/328/track4.mp3
+track5:
+  title: Áine O'Dwyer – Tremor
+  color: bliss
+  link: https://sounds.mailta.pe/328/track5.mp3
+track6:
+  title: Orla Wren – The Cup Of Remembered Things
+  color: dreamy
+  link: https://sounds.mailta.pe/328/track6.mp3
+track7:
+  title: United Bible Studies – Hazlehurst
+  color: trippy
+  link: https://sounds.mailta.pe/328/track7.mp3
 ---
 This Sunday morning we are delighted to welcome harpist [Mary Lattimore](http://marylattimoreharpist.tumblr.com/) to MailTape. By now I've forgotten the summer. I don’t remember what the morning is. It has merged into a fading white light, when that morning has awakened and too quickly ceased. Mary's own sound on her latest album, [Hundreds of Days](https://marylattimoreharpist.bandcamp.com/album/hundreds-of-days), as well as her selections this morning capture this mournfulness plainly.
 <br><br>

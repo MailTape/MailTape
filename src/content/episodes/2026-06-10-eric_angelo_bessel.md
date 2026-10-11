@@ -8,27 +8,6 @@ guestPic: guestpic611.jpg
 author: Sarah
 illustrator: Noémie Dijon
 writer: Sarah
-track1_title: Faten Kanaan - Alcoyana-Capri
-track1_color: dreamy
-track1_link: https://sounds.mailta.pe/611/track1.mp3
-track2_title: Cécile Seraud - Pen Er Malo
-track2_color: dreamy
-track2_link: https://sounds.mailta.pe/611/track2.mp3
-track3_title: The Stranger - About To Enter A Strange New Period
-track3_color: trippy
-track3_link: https://sounds.mailta.pe/611/track3.mp3
-track4_title: Eric Angelo Bessel - Double Helix
-track4_color: vibrant
-track4_link: https://sounds.mailta.pe/611/track4.mp3
-track5_title: Kangding Ray - Nacht und Tag
-track5_color: dreamy
-track5_link: https://sounds.mailta.pe/611/track5.mp3
-track6_title: Anastasia Kristensen - Magpie Song
-track6_color: vibrant
-track6_link: https://sounds.mailta.pe/611/track6.mp3
-track7_title: Eric Angelo Bessel - Tendons
-track7_color: bliss
-track7_link: https://sounds.mailta.pe/611/track7.mp3
 description: "This Sunday we welcome Eric Angelo Bessel to MailTape for a
   meditative morning. Based in Portland, the composer joins us just after the
   release of his album, Mirror at Night (as well as the most recent release of
@@ -37,6 +16,34 @@ episode_URL: https://www.mailta.pe/611/Eric-Angelo-Bessel/
 image: https://www.mailta.pe/img/fbPic611.jpg
 musiColor: musicolor611.png
 alignY: ""
+track1:
+  title: Faten Kanaan - Alcoyana-Capri
+  color: dreamy
+  link: https://sounds.mailta.pe/611/track1.mp3
+track2:
+  title: Cécile Seraud - Pen Er Malo
+  color: dreamy
+  link: https://sounds.mailta.pe/611/track2.mp3
+track3:
+  title: The Stranger - About To Enter A Strange New Period
+  color: trippy
+  link: https://sounds.mailta.pe/611/track3.mp3
+track4:
+  title: Eric Angelo Bessel - Double Helix
+  color: vibrant
+  link: https://sounds.mailta.pe/611/track4.mp3
+track5:
+  title: Kangding Ray - Nacht und Tag
+  color: dreamy
+  link: https://sounds.mailta.pe/611/track5.mp3
+track6:
+  title: Anastasia Kristensen - Magpie Song
+  color: vibrant
+  link: https://sounds.mailta.pe/611/track6.mp3
+track7:
+  title: Eric Angelo Bessel - Tendons
+  color: bliss
+  link: https://sounds.mailta.pe/611/track7.mp3
 ---
 This Sunday we welcome [Eric Angelo Bessel](https://lorecity.bandcamp.com/) to MailTape for a meditative morning. Based in Portland, the composer joins us just after the release of his album, [Mirror at Night](https://lorecity.bandcamp.com/album/mirror-at-night) (as well as the most recent release of the album's [B-Sides](https://lorecity.bandcamp.com/album/mirror-at-night-b-sides) !). 
 

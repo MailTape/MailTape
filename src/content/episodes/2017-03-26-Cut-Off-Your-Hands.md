@@ -1,40 +1,49 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Inès
 illustrator: Anais Caura
-category: '253'
+category: "253"
 guest_name: Cut Off Your Hands
 guest_color: vibrant
-track2_link: https://sounds.mailta.pe/253/track2.mp3
-track3_link: https://sounds.mailta.pe/253/track3.mp3
-track4_link: https://sounds.mailta.pe/253/track4.mp3
-track1_color: trippy
-track2_title: John Coltrane - Blue Train
-track2_color: bliss
-track3_title: Flamingosis - Bright Moments (ft. The Kount)
-track3_color: vibrant
-track4_title: Cut Off Your Hands - Higher Lows and Lower Highs
-track4_color: vibrant
 guestPic: guestPic253new2.jpg
-track1_link: https://sounds.mailta.pe/253/track1.mp3
-track5_link: https://sounds.mailta.pe/253/track5.mp3
-track6_link: https://sounds.mailta.pe/253/track6.mp3
-track7_link: https://sounds.mailta.pe/253/track7.mp3
-track1_title: 'LA Priest - Lorry Park '
-track5_title: BABE - Scooping Pints
-track5_color: bliss
-track6_title: Aquaserge - Tour du monde
-track6_color: trippy
-track7_title: Caandides - Rio
-track7_color: vibrant
 episode_URL: https://www.mailta.pe/253/cut-off-your-hands/
 writer: Inès
 musiColor: musiColor253.png
 image: https://www.mailta.pe/img/fbPic253.png
-description: This morning, let's enjoy the comeback of sunnier days while listening to Cut Off Your Hands' kaleidoscopic selection. Open your windows, put on your sunglasses, make yourself a nice coffee, and get ready for a fulfilling day with their selection! All Sundays do not have to be lazy.
-pubDate: '2017-03-26'
+description: This morning, let's enjoy the comeback of sunnier days while
+  listening to Cut Off Your Hands' kaleidoscopic selection. Open your windows,
+  put on your sunglasses, make yourself a nice coffee, and get ready for a
+  fulfilling day with their selection! All Sundays do not have to be lazy.
+pubDate: 2017-03-26
+track1:
+  title: "LA Priest - Lorry Park "
+  color: trippy
+  link: https://sounds.mailta.pe/253/track1.mp3
+track2:
+  title: John Coltrane - Blue Train
+  color: bliss
+  link: https://sounds.mailta.pe/253/track2.mp3
+track3:
+  title: Flamingosis - Bright Moments (ft. The Kount)
+  color: vibrant
+  link: https://sounds.mailta.pe/253/track3.mp3
+track4:
+  title: Cut Off Your Hands - Higher Lows and Lower Highs
+  color: vibrant
+  link: https://sounds.mailta.pe/253/track4.mp3
+track5:
+  title: BABE - Scooping Pints
+  color: bliss
+  link: https://sounds.mailta.pe/253/track5.mp3
+track6:
+  title: Aquaserge - Tour du monde
+  color: trippy
+  link: https://sounds.mailta.pe/253/track6.mp3
+track7:
+  title: Caandides - Rio
+  color: vibrant
+  link: https://sounds.mailta.pe/253/track7.mp3
 ---
 This morning, let's enjoy the comeback of sunnier days while listening to [Cut Off Your Hands](https://www.facebook.com/cutoffyourhands/ "Facebook")’ kaleidoscopic selection. Cut Off Your Hands' dreamy yet energetic tracks combine cheerful indie rock with post punk influences, always feeling very sincere. 
 <p>Open your windows, put on your sunglasses, make yourself a nice coffee, and get ready for a fulfilling day with their selection! All Sundays do not have to be lazy.

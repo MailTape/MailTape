@@ -1,40 +1,51 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Anaïs G
 illustrator: Camille Célestin
 writer: Anaïs G
-category: '344'
+category: "344"
 guest_name: Tomemitsu
 guest_color: dreamy
-track2_link: https://sounds.mailta.pe/344/track2.mp3
-track3_link: https://sounds.mailta.pe/344/Track%203.mp3
-track4_link: https://sounds.mailta.pe/344/track4.mp3
-track4_color: dreamy
-track3_color: bliss
-track1_color: vibrant
-track6_link: https://sounds.mailta.pe/344/track6.mp3
-track7_link: https://sounds.mailta.pe/344/track7.mp3
-track7_color: trippy
-track6_color: dreamy
-track5_color: vibrant
-track4_title: 'Tomemitsu - I Shatter '
-track5_title: Curtis Harding - Welcome to my world
-track6_title: Kokoroko - Abusey junction
-track7_title: Xenoula - Caramello
 episode_URL: https://www.mailta.pe/344/tomemitsu
-track3_title: João Gilberto - Chega de Saudade
-track2_color: trippy
-track2_title: Harald Grosskopf - Synthesist
-track1_title: Sam Cooke and The Soul Stirrers - Christ it All
-track1_link: https://sounds.mailta.pe/344/Track%201.mp3
-track5_link: https://sounds.mailta.pe/344/Track%205.mp3
 guestPic: guestPic344.jpg
 image: https://www.mailta.pe/img/fbPic344.png
-description: 'This morning, like a divine light coming from nowhere, caressing our bodies, music moves us, borders us with our fingertips and astonishes us. Differentiated by its infinity, by these genres and multiple styles, it transports the spirits to take them into parallel worlds, this is what Tomemitsu shares with us this Sunday morning through a high selection in musical color.  '
+description: "This morning, like a divine light coming from nowhere, caressing
+  our bodies, music moves us, borders us with our fingertips and astonishes us.
+  Differentiated by its infinity, by these genres and multiple styles, it
+  transports the spirits to take them into parallel worlds, this is what
+  Tomemitsu shares with us this Sunday morning through a high selection in
+  musical color.  "
 musiColor: musiColor344.png
-pubDate: '2019-02-10'
+pubDate: 2019-02-10
+track1:
+  title: Sam Cooke and The Soul Stirrers - Christ it All
+  color: vibrant
+  link: https://sounds.mailta.pe/344/Track%201.mp3
+track2:
+  title: Harald Grosskopf - Synthesist
+  color: trippy
+  link: https://sounds.mailta.pe/344/track2.mp3
+track3:
+  title: João Gilberto - Chega de Saudade
+  color: bliss
+  link: https://sounds.mailta.pe/344/Track%203.mp3
+track4:
+  title: "Tomemitsu - I Shatter "
+  color: dreamy
+  link: https://sounds.mailta.pe/344/track4.mp3
+track5:
+  title: Curtis Harding - Welcome to my world
+  color: vibrant
+  link: https://sounds.mailta.pe/344/Track%205.mp3
+track6:
+  title: Kokoroko - Abusey junction
+  color: dreamy
+  link: https://sounds.mailta.pe/344/track6.mp3
+track7:
+  title: Xenoula - Caramello
+  color: trippy
+  link: https://sounds.mailta.pe/344/track7.mp3
 ---
 This morning, like a divine light coming from nowhere, caressing our bodies, music moves us, borders us with our fingertips and astonishes us. Differentiated by its infinity, by these genres and multiple styles, it transports the spirits to take them into parallel worlds, this is what [Tomemitsu](https://tomemitsu.bandcamp.com/) shares with us this Sunday morning through a high selection in musical color. 
 <br><br>

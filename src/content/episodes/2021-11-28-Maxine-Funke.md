@@ -1,40 +1,50 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Sarah
 writer: Sarah
-category: '472'
+category: "472"
 guest_name: Maxine Funke
 guest_color: bliss
-track1_title: Joan Baez - A Simple Twist of Fate
-track2_title: Jennifer Warnes - Let The Sunshine In
-track3_title: Robert Wyatt - Ship Building
-track4_title: Maxine Funke - Equinox
-track4_color: bliss
-track2_color: vibrant
-track3_color: dreamy
-track1_color: vibrant
-track5_color: dreamy
-track6_color: vibrant
-track7_color: bliss
 image: https://www.mailta.pe/img/fbPic472.png
 episode_URL: http://mailta.pe/472/Maxine-Funke/
 guestPic: guestPic472.jpg
-track1_link: https://sounds.mailta.pe/472/track1.mp3
-track2_link: https://sounds.mailta.pe/472/track2.mp3
-track3_link: https://sounds.mailta.pe/472/track3.mp3
-track4_link: https://sounds.mailta.pe/472/track4.mp3
-track7_title: Maxine Funke - Homage
-track5_link: https://sounds.mailta.pe/472/track5.mp3
-track7_link: https://sounds.mailta.pe/472/track7.mp3
-track5_title: Luiza Brina - Garrafa ao Mar
-track6_title: Howie Lee - Birdy Island
-track6_link: https://sounds.mailta.pe/472/track6.mp3
-description: This morning, we are delighted to welcome Maxine Funk to MailTape for a peaceful selection, crafted carefully to lift you on your way this Sunday. Based in New Zealand, multi instrumentalist Maxine Funke crafts each album with meditative care. Every release in the discography lands its own distinctive emotional exploration, at once tender and consuming.
+description: This morning, we are delighted to welcome Maxine Funk to MailTape
+  for a peaceful selection, crafted carefully to lift you on your way this
+  Sunday. Based in New Zealand, multi instrumentalist Maxine Funke crafts each
+  album with meditative care. Every release in the discography lands its own
+  distinctive emotional exploration, at once tender and consuming.
 illustrator: Meriam Kharbat
-musiColor: ''
-pubDate: '2021-11-28'
+musiColor: ""
+pubDate: 2021-11-28
+track1:
+  title: Joan Baez - A Simple Twist of Fate
+  color: vibrant
+  link: https://sounds.mailta.pe/472/track1.mp3
+track2:
+  title: Jennifer Warnes - Let The Sunshine In
+  color: vibrant
+  link: https://sounds.mailta.pe/472/track2.mp3
+track3:
+  title: Robert Wyatt - Ship Building
+  color: dreamy
+  link: https://sounds.mailta.pe/472/track3.mp3
+track4:
+  title: Maxine Funke - Equinox
+  color: bliss
+  link: https://sounds.mailta.pe/472/track4.mp3
+track5:
+  title: Luiza Brina - Garrafa ao Mar
+  color: dreamy
+  link: https://sounds.mailta.pe/472/track5.mp3
+track6:
+  title: Howie Lee - Birdy Island
+  color: vibrant
+  link: https://sounds.mailta.pe/472/track6.mp3
+track7:
+  title: Maxine Funke - Homage
+  color: bliss
+  link: https://sounds.mailta.pe/472/track7.mp3
 ---
  This morning, we are delighted to welcome [Maxine Funke](https://maxinefunke1.bandcamp.com/music) to MailTape for a peaceful selection, crafted carefully to lift you on your way this Sunday. 
 <br><br>

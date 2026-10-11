@@ -1,38 +1,47 @@
 ---
-
 published: true
 author: ImaCrea
 guest_color: dreamy
-bigTitle_font_ratio: '6'
-track1_color: dreamy
-track2_color: dreamy
-track3_color: bliss
-track4_color: dreamy
-track5_color: dreamy
-track6_color: vibrant
-track7_color: trippy
-category: '196'
+bigTitle_font_ratio: "6"
+category: "196"
 guest_name: Superpoze
-track1_link: https://sounds.mailta.pe/196/track1.mp3
-track2_link: https://sounds.mailta.pe/196/track2.mp3
-track3_link: https://sounds.mailta.pe/196/track3.mp3
-track4_link: https://sounds.mailta.pe/196/track4.mp3
-track5_link: https://sounds.mailta.pe/196/track5.mp3
-track6_link: https://sounds.mailta.pe/196/track6.mp3
-track7_link: https://sounds.mailta.pe/196/track7.mp3
-track1_title: Hundred Waters - Cavity (Shigeto Remix)
-track2_title: Dream Koala - Saturn Boy
-track3_title: Four Tet - Unicorn
-track4_title: Superpoze - Overseas (Sekuoia rework)
-track5_title: Felix Laband - Squeeze the Trigger
-track6_title: Laurent Garnier - The Rise & The Fall Of The Donkey Dog_Husbands Remix
-track7_title: JeF ZeRo - Arcade Funke
 guestPic: guestPic196.jpg
-description: This Sunday, let yourself dive into a universe of musical indulgence powered by softness. Pleasure to welcome Superpoze and his selection of blissful tunes. Waking peacefully to the sound of indulgence followed by an explosion of temptation filed with surprises
+description: This Sunday, let yourself dive into a universe of musical
+  indulgence powered by softness. Pleasure to welcome Superpoze and his
+  selection of blissful tunes. Waking peacefully to the sound of indulgence
+  followed by an explosion of temptation filed with surprises
 musiColor: musiColor196.png
 image: https://www.mailta.pe/img/fbPic196.jpg
 episode_URL: http://mailta.pe/196/Superpoze/
-pubDate: '2015-07-26'
+pubDate: 2015-07-26
+track1:
+  title: Hundred Waters - Cavity (Shigeto Remix)
+  color: dreamy
+  link: https://sounds.mailta.pe/196/track1.mp3
+track2:
+  title: Dream Koala - Saturn Boy
+  color: dreamy
+  link: https://sounds.mailta.pe/196/track2.mp3
+track3:
+  title: Four Tet - Unicorn
+  color: bliss
+  link: https://sounds.mailta.pe/196/track3.mp3
+track4:
+  title: Superpoze - Overseas (Sekuoia rework)
+  color: dreamy
+  link: https://sounds.mailta.pe/196/track4.mp3
+track5:
+  title: Felix Laband - Squeeze the Trigger
+  color: dreamy
+  link: https://sounds.mailta.pe/196/track5.mp3
+track6:
+  title: Laurent Garnier - The Rise & The Fall Of The Donkey Dog_Husbands Remix
+  color: vibrant
+  link: https://sounds.mailta.pe/196/track6.mp3
+track7:
+  title: JeF ZeRo - Arcade Funke
+  color: trippy
+  link: https://sounds.mailta.pe/196/track7.mp3
 ---
 
 

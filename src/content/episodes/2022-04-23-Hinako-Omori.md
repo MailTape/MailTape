@@ -1,40 +1,49 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: ImaCrea
 illustrator: Meriam
 writer: ImaCrea
-category: '490'
+category: "490"
 guest_name: Hinako Omori
 guest_color: dreamy
 guestPic: guestPic490.jpg
-track1_title: Colleen - Gazing at Taurus - Night Sky Rumba
-track1_color: dreamy
-track2_title: Madalyn Merkey - Pallet Fork
-track2_color: dreamy
-track3_title: Musette - Coucou Anne
-track3_color: bliss
-track4_title: Hinako Omori - Ocean
-track4_color: dreamy
-track5_title: OHYUNG - yes my weeping frame!
-track5_color: dreamy
-track6_title: Del Stephen - Hoofbeats Echo
-track6_color: dreamy
-track7_title: Healion - About Breathing
-track7_color: trippy
 episode_URL: http://mailta.pe/490/hinako-omori/
 image: https://www.mailta.pe/img/fbPic490.jpg
 musiColor: musiColor489.png
-track1_link: https://sounds.mailta.pe/490/track1.mp3
-track2_link: https://sounds.mailta.pe/490/track2.mp3
-track3_link: https://sounds.mailta.pe/490/track3.mp3
-track4_link: https://sounds.mailta.pe/490/track4.mp3
-track5_link: https://sounds.mailta.pe/490/track5.mp3
-track6_link: https://sounds.mailta.pe/490/track6.mp3
-track7_link: https://sounds.mailta.pe/490/track7.mp3
-description: This morning, we're taking you into an atmosphere of balance, softness and harmony. With our dear guest, Hinako Omori, we curated meditative and restorative tracks to help you ease into the day with a refreshed view. Remember there's always blue sky awaiting for you above the clouds.
-pubDate: '2022-04-23'
+description: This morning, we're taking you into an atmosphere of balance,
+  softness and harmony. With our dear guest, Hinako Omori, we curated meditative
+  and restorative tracks to help you ease into the day with a refreshed view.
+  Remember there's always blue sky awaiting for you above the clouds.
+pubDate: 2022-04-23
+track1:
+  title: Colleen - Gazing at Taurus - Night Sky Rumba
+  color: dreamy
+  link: https://sounds.mailta.pe/490/track1.mp3
+track2:
+  title: Madalyn Merkey - Pallet Fork
+  color: dreamy
+  link: https://sounds.mailta.pe/490/track2.mp3
+track3:
+  title: Musette - Coucou Anne
+  color: bliss
+  link: https://sounds.mailta.pe/490/track3.mp3
+track4:
+  title: Hinako Omori - Ocean
+  color: dreamy
+  link: https://sounds.mailta.pe/490/track4.mp3
+track5:
+  title: OHYUNG - yes my weeping frame!
+  color: dreamy
+  link: https://sounds.mailta.pe/490/track5.mp3
+track6:
+  title: Del Stephen - Hoofbeats Echo
+  color: dreamy
+  link: https://sounds.mailta.pe/490/track6.mp3
+track7:
+  title: Healion - About Breathing
+  color: trippy
+  link: https://sounds.mailta.pe/490/track7.mp3
 ---
 This morning, we're taking you into an atmosphere of balance, softness, and harmony. With our dear guest, [Hinako Omori](https://hinakoomori.bandcamp.com/album/a-journey), we curated meditative and restorative tracks to help you ease into the day with a refreshed view. Remember there's always blue sky waiting for you above the clouds.
 

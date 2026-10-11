@@ -8,27 +8,6 @@ guestPic: guestpic587.jpg
 author: ImaCrea
 illustrator: Julie Wojtczak
 writer: ImaCrea
-track1_title: Time Wharp - East River Dusk
-track1_color: bliss
-track1_link: https://sounds.mailta.pe/587/track1.mp3
-track2_title: Cole Pulice - City in a City
-track2_color: bliss
-track2_link: https://sounds.mailta.pe/587/track2.mp3
-track3_title: Arp - Le Palace
-track3_color: vibrant
-track3_link: https://sounds.mailta.pe/587/track3.mp3
-track4_title: Laurie Torres - Clessidra
-track4_color: bliss
-track4_link: https://sounds.mailta.pe/587/track4.mp3
-track5_title: Lucien & The Kimono Orchestra - Le Mékong
-track5_color: bliss
-track5_link: https://sounds.mailta.pe/587/track5.mp3
-track6_title: toe - サニーボーイ・ラプソディ
-track6_color: bliss
-track6_link: https://sounds.mailta.pe/587/track6.mp3
-track7_title: Chicago Underground Duo - Click Song
-track7_color: vibrant
-track7_link: https://sounds.mailta.pe/587/track7.mp3
 description: This morning, I'm excited to share a blissful and uplifting episode
   curated with Laurie Torres. This selection invites you to step outside on a
   sunny day, to reawaken your eyes and spirit, and to let the beauty of the
@@ -39,6 +18,34 @@ description: This morning, I'm excited to share a blissful and uplifting episode
 episode_URL: https://www.mailta.pe/587/laurie-torres/
 image: https://www.mailta.pe/img/fbPic587.png
 musiColor: musicolor587.png
+track1:
+  title: Time Wharp - East River Dusk
+  color: bliss
+  link: https://sounds.mailta.pe/587/track1.mp3
+track2:
+  title: Cole Pulice - City in a City
+  color: bliss
+  link: https://sounds.mailta.pe/587/track2.mp3
+track3:
+  title: Arp - Le Palace
+  color: vibrant
+  link: https://sounds.mailta.pe/587/track3.mp3
+track4:
+  title: Laurie Torres - Clessidra
+  color: bliss
+  link: https://sounds.mailta.pe/587/track4.mp3
+track5:
+  title: Lucien & The Kimono Orchestra - Le Mékong
+  color: bliss
+  link: https://sounds.mailta.pe/587/track5.mp3
+track6:
+  title: toe - サニーボーイ・ラプソディ
+  color: bliss
+  link: https://sounds.mailta.pe/587/track6.mp3
+track7:
+  title: Chicago Underground Duo - Click Song
+  color: vibrant
+  link: https://sounds.mailta.pe/587/track7.mp3
 ---
 This morning, I'm excited to share a blissful and uplifting episode curated with [Laurie Torres](laurietorres.bandcamp.com). This selection invites you to step outside on a sunny day, to reawaken your eyes and spirit, and to let the beauty of the unknown amaze you. Laurie's album "*[Après Coup](https://laurietorres.bandcamp.com/album/apr-s-coup)*" has been a wonderful companion for me as I embraced the last spring season, and I hope today's MailTape will lead you to great discoveries that will enrich the soundtrack of your summer. So, let’s be excellent to each other and enjoy the journey!
 

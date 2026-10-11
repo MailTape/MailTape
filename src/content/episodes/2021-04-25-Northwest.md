@@ -1,43 +1,49 @@
 ---
-pubDate: '2021-04-25'
-bigTitle_font_ratio: '6'
+pubDate: 2021-04-25
+bigTitle_font_ratio: "6"
 published: true
 author: Anaïs G
 illustrator: Julie Wojtczak
 writer: Anaïs G
-category: '448'
+category: "448"
 guest_name: Northwest
 guest_color: vibrant
 guestPic: guestPic448.jpg
-track2_title: Joni Mitchell - I Don't Know Where I Stand
-track2_color: vibrant
-track3_title: Nancy Sinatra & Lee Hazlewood - Some Velvet Morning
-track3_color: dreamy
-track1_title: Daniel Rossen - Saint Nothing
-track1_color: vibrant
-track4_title: Northwest - All Of A Sudden
-track4_color: vibrant
-track4_link: 'https://sounds.mailta.pe/missingTrack.mp3'
-track5_link: 'https://sounds.mailta.pe/missingTrack.mp3'
-track5_title: Cat Power - Sea Of Love
-track5_color: bliss
-track6_link: 'https://sounds.mailta.pe/missingTrack.mp3'
-track6_title: Fleet Foxes - For A Week Or Two
-track6_color: vibrant
-track7_link: 'https://sounds.mailta.pe/missingTrack.mp3'
-track7_title: 'Foxtrott - Intuition '
-track7_color: vibrant
-episode_URL: 'http://mailta.pe/448/northwest/'
-image: 'https://www.mailta.pe/img/fbPic448.png'
+episode_URL: http://mailta.pe/448/northwest/
+image: https://www.mailta.pe/img/fbPic448.png
 musiColor: musiColor448.png
-track1_link: 'https://sounds.mailta.pe/448/track1.mp3'
-track2_link: 'https://sounds.mailta.pe/448/track2.mp3'
-track3_link: 'https://sounds.mailta.pe/448/track3.mp3'
-description: >-
-  This morning,we enter into a contemplative meditation. We enter into a kind of
-  emotional trance, taking with us contemporary music, aerial, even lyrical. We
-  are no longer in control of our body, our movements lead us to the Northwest
-  playlist.
+description: This morning,we enter into a contemplative meditation. We enter
+  into a kind of emotional trance, taking with us contemporary music, aerial,
+  even lyrical. We are no longer in control of our body, our movements lead us
+  to the Northwest playlist.
+track1:
+  title: Daniel Rossen - Saint Nothing
+  color: vibrant
+  link: https://sounds.mailta.pe/448/track1.mp3
+track2:
+  title: Joni Mitchell - I Don't Know Where I Stand
+  color: vibrant
+  link: https://sounds.mailta.pe/448/track2.mp3
+track3:
+  title: Nancy Sinatra & Lee Hazlewood - Some Velvet Morning
+  color: dreamy
+  link: https://sounds.mailta.pe/448/track3.mp3
+track4:
+  title: Northwest - All Of A Sudden
+  color: vibrant
+  link: https://sounds.mailta.pe/missingTrack.mp3
+track5:
+  title: Cat Power - Sea Of Love
+  color: bliss
+  link: https://sounds.mailta.pe/missingTrack.mp3
+track6:
+  title: Fleet Foxes - For A Week Or Two
+  color: vibrant
+  link: https://sounds.mailta.pe/missingTrack.mp3
+track7:
+  title: "Foxtrott - Intuition "
+  color: vibrant
+  link: https://sounds.mailta.pe/missingTrack.mp3
 ---
 
 <p id="introduction">

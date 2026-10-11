@@ -8,27 +8,6 @@ guestPic: guestpic583.jpg
 author: Anto
 illustrator: Camille Célestin
 writer: Anto
-track1_title: King Gizzard And The Lizard Wizard - The Fourth Colour
-track1_color: trippy
-track1_link: https://sounds.mailta.pe/583/track1.mp3
-track2_title: Hiatus Kaiyote - Breathing Underwater
-track2_color: bliss
-track2_link: https://sounds.mailta.pe/583/track2.mp3
-track3_title: Dick Annegarn - La Transformation
-track3_color: bliss
-track3_link: https://sounds.mailta.pe/583/track3.mp3
-track4_title: "Fulguromatic - The Sigh of a Whittled Grove "
-track4_color: trippy
-track4_link: https://sounds.mailta.pe/583/track4.mp3
-track5_title: 'Celine Dessberg - Сэлэнгэ "Selenge" '
-track5_color: dreamy
-track5_link: https://sounds.mailta.pe/583/track5.mp3
-track6_title: Rank-O - For Every Blow
-track6_color: vibrant
-track6_link: https://sounds.mailta.pe/583/track6.mp3
-track7_title: Mad Curry -Music, The Reason Of Our Happiness
-track7_color: trippy
-track7_link: https://sounds.mailta.pe/583/track7.mp3
 description: "As you know, Mail Tape loves to highlight unusual artists, those
   who are not afraid to flirt with extravagance to propel music towards joyful
   and new horizons. This is the case for our guests today, a singular duo who
@@ -38,6 +17,34 @@ description: "As you know, Mail Tape loves to highlight unusual artists, those
 episode_URL: https://www.mailta.pe/583/Fulguromatic
 image: https://www.mailta.pe/img/fbPic583.png
 musiColor: musicolor583.png
+track1:
+  title: King Gizzard And The Lizard Wizard - The Fourth Colour
+  color: trippy
+  link: https://sounds.mailta.pe/583/track1.mp3
+track2:
+  title: Hiatus Kaiyote - Breathing Underwater
+  color: bliss
+  link: https://sounds.mailta.pe/583/track2.mp3
+track3:
+  title: Dick Annegarn - La Transformation
+  color: bliss
+  link: https://sounds.mailta.pe/583/track3.mp3
+track4:
+  title: "Fulguromatic - The Sigh of a Whittled Grove "
+  color: trippy
+  link: https://sounds.mailta.pe/583/track4.mp3
+track5:
+  title: 'Celine Dessberg - Сэлэнгэ "Selenge" '
+  color: dreamy
+  link: https://sounds.mailta.pe/583/track5.mp3
+track6:
+  title: Rank-O - For Every Blow
+  color: vibrant
+  link: https://sounds.mailta.pe/583/track6.mp3
+track7:
+  title: Mad Curry -Music, The Reason Of Our Happiness
+  color: trippy
+  link: https://sounds.mailta.pe/583/track7.mp3
 ---
 As you know, Mail Tape loves to highlight unusual artists, those who are not afraid to flirt with extravagance to propel music towards joyful and new horizons. This is the case for our guests today, a singular duo who seem to make music like a crazy chemistry professor would have fun mixing various dangerous substances, even if it means blowing everything up. And BOOM! There it is: Fulguromatic!
 

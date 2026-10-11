@@ -1,40 +1,47 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Louise
 illustrator: Anais Caura
 writer: Louise
-category: '238'
+category: "238"
 guest_name: Mélanie Pain
 guest_color: bliss
 guestPic: guestPic238.jpg
-track1_link: https://sounds.mailta.pe/238/track1.mp3
-track3_link: https://sounds.mailta.pe/238/track3.mp3
-track4_link: https://sounds.mailta.pe/238/track4.mp3
-track1_title: Iron & wine - A Boy With A Coin
-track1_color: vibrant
-track2_color: bliss
-track3_title: Team Ghost - The Riser
-track3_color: trippy
-track4_color: bliss
-track5_color: dreamy
-track6_color: dreamy
-track7_color: vibrant
 episode_URL: https://www.mailta.pe/238/Melanie-Pain/
 image: https://www.mailta.pe/img/FBPic238.jpg
 musiColor: musiColor238.png
-track4_title: Mélanie Pain - Lèvres Rubis
-track2_link: https://sounds.mailta.pe/238/track2.mp3
-track2_title: Tortoise & Bonnie 'Prince' Billy - Thunder Road
-track5_link: https://sounds.mailta.pe/238/track5.mp3
-track7_link: https://sounds.mailta.pe/238/track7.mp3
-track6_link: https://sounds.mailta.pe/238/track6.mp3
-track5_title: Gordi - 00000 Million
-track6_title: Christian Löffler - Nil
-track7_title: Tom Misch & FKJ - Losing My Way
-description: This morning, we will enjoy a tasty breakfast prepared with love by our guest Mélanie Pain.
-pubDate: '2016-12-11'
+description: This morning, we will enjoy a tasty breakfast prepared with love by
+  our guest Mélanie Pain.
+pubDate: 2016-12-11
+track1:
+  title: Iron & wine - A Boy With A Coin
+  color: vibrant
+  link: https://sounds.mailta.pe/238/track1.mp3
+track2:
+  title: Tortoise & Bonnie 'Prince' Billy - Thunder Road
+  color: bliss
+  link: https://sounds.mailta.pe/238/track2.mp3
+track3:
+  title: Team Ghost - The Riser
+  color: trippy
+  link: https://sounds.mailta.pe/238/track3.mp3
+track4:
+  title: Mélanie Pain - Lèvres Rubis
+  color: bliss
+  link: https://sounds.mailta.pe/238/track4.mp3
+track5:
+  title: Gordi - 00000 Million
+  color: dreamy
+  link: https://sounds.mailta.pe/238/track5.mp3
+track6:
+  title: Christian Löffler - Nil
+  color: dreamy
+  link: https://sounds.mailta.pe/238/track6.mp3
+track7:
+  title: Tom Misch & FKJ - Losing My Way
+  color: vibrant
+  link: https://sounds.mailta.pe/238/track7.mp3
 ---
 This morning, we will enjoy a tasty breakfast prepared with love by our guest Mélanie Pain. The more I listen to French music that comes out theses days, the more I'm proud of the artists we have. Mélanie Pain is one of them.
 Her new album, 'Parachute', came out in October. She unveils her fears and thoughts with such poetry, it made me shiver. Today's tape is full of surprises and risks.

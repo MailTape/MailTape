@@ -1,40 +1,50 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Louise
-category: '226'
+category: "226"
 guest_name: Talitres Records
 guest_color: dreamy
 guestPic: guestPic226.jpg
-track1_link: https://sounds.mailta.pe/226/track1.mp3
-track2_link: https://sounds.mailta.pe/226/track2.mp3
-track1_title: Mark Kozelek & Jimmy Lavalle - By The Time That I Awoke
-track2_title: Sufjan Stevens - Should Have Known Better
-track3_title: Le Loup - Morning Song
-track4_color: vibrant
-track2_color: dreamy
 episode_URL: https://www.mailta.pe/226/Talitres-Records/
 image: https://www.mailta.pe/img/fbPic226.jpg
 musiColor: musiColor226.png
-track3_link: https://sounds.mailta.pe/226/track3.mp3
-track1_color: dreamy
-track3_color: vibrant
 illustrator: William Girault
-track7_title: Will Samson - Pyrton Bells
-track7_color: dreamy
-track4_link: https://sounds.mailta.pe/226/track4.mp3
-track6_link: https://sounds.mailta.pe/226/track6.mp3
-track7_link: https://sounds.mailta.pe/226/track7.mp3
-track4_title: Rachel Dadd - Strike Our Scythes
-track5_title: Julia Jacklin - Leadlight
-track5_color: vibrant
-track6_title: Pain-Noir - L'arme
-track5_link: https://sounds.mailta.pe/226/track5.mp3
-track6_color: vibrant
 writer: Louise
-description: This morning, Mailtape presents a brand new kind of episodes! Did you notice this "Records" thing in the title? We've decided to start inviting record labels in Mailtape episodes every now and then! As you know, we aspire to discover new inspiring music every Sunday; with labels guests, we will be able to introduce you to an entire catalog each time! Isn't that wonderful?!
-pubDate: '2016-07-24'
+description: This morning, Mailtape presents a brand new kind of episodes! Did
+  you notice this "Records" thing in the title? We've decided to start inviting
+  record labels in Mailtape episodes every now and then! As you know, we aspire
+  to discover new inspiring music every Sunday; with labels guests, we will be
+  able to introduce you to an entire catalog each time! Isn't that wonderful?!
+pubDate: 2016-07-24
+track1:
+  title: Mark Kozelek & Jimmy Lavalle - By The Time That I Awoke
+  color: dreamy
+  link: https://sounds.mailta.pe/226/track1.mp3
+track2:
+  title: Sufjan Stevens - Should Have Known Better
+  color: dreamy
+  link: https://sounds.mailta.pe/226/track2.mp3
+track3:
+  title: Le Loup - Morning Song
+  color: vibrant
+  link: https://sounds.mailta.pe/226/track3.mp3
+track4:
+  title: Rachel Dadd - Strike Our Scythes
+  color: vibrant
+  link: https://sounds.mailta.pe/226/track4.mp3
+track5:
+  title: Julia Jacklin - Leadlight
+  color: vibrant
+  link: https://sounds.mailta.pe/226/track5.mp3
+track6:
+  title: Pain-Noir - L'arme
+  color: vibrant
+  link: https://sounds.mailta.pe/226/track6.mp3
+track7:
+  title: Will Samson - Pyrton Bells
+  color: dreamy
+  link: https://sounds.mailta.pe/226/track7.mp3
 ---
 This morning, Mailtape presents a brand new kind of issues! Did you notice this "Records" thing in the title? We've decided to start inviting record labels every now and then! As you know, we aspire to discover new inspiring music every Sunday; with labels guests, we will be able to introduce you to an entire catalog each time! Hope you'll enjoy. 
 

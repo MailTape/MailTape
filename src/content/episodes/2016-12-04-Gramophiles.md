@@ -1,40 +1,46 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
-track1_link: https://sounds.mailta.pe/237/track1.mp3
-track2_link: https://sounds.mailta.pe/237/track2.mp3
-track3_link: https://sounds.mailta.pe/237/track3.mp3
-track4_link: https://sounds.mailta.pe/237/track4.mp3
 author: Maxime
 writer: Maxime
-category: '237'
+category: "237"
 guest_name: Gramophiles
 guest_color: vibrant
 guestPic: guestPic237.jpg
-track2_title: iZem - Agua Viva
-track1_title: Stoop Kids - Velvet Slide
-track3_title: Peter Power - Sun Sun Damba
-track4_title: Gramophiles - Tamborito
-track4_color: vibrant
-track3_color: dreamy
-track2_color: vibrant
-track1_color: bliss
-track5_link: https://sounds.mailta.pe/237/track5.mp3
-track7_link: https://sounds.mailta.pe/237/track7.mp3
-track5_color: rough
-track6_color: trippy
-track7_title: Les Yeux Oranges - Coco
-track7_color: dreamy
-track5_title: Konono n°1 & Batida - Bom Dia
 episode_URL: https://www.mailta.pe/237/Gramophiles/
 image: https://www.mailta.pe/img/fbPic237.jpg
 musiColor: muciColor237.png
-track6_link: https://sounds.mailta.pe/237/track6.mp3
-track6_title: Alma Negra - Burkina Berlin
 description: This morning, we welcome you in the vintage universe of music.
 illustrator: Isabelle Escande
-pubDate: '2016-12-04'
+pubDate: 2016-12-04
+track1:
+  title: Stoop Kids - Velvet Slide
+  color: bliss
+  link: https://sounds.mailta.pe/237/track1.mp3
+track2:
+  title: iZem - Agua Viva
+  color: vibrant
+  link: https://sounds.mailta.pe/237/track2.mp3
+track3:
+  title: Peter Power - Sun Sun Damba
+  color: dreamy
+  link: https://sounds.mailta.pe/237/track3.mp3
+track4:
+  title: Gramophiles - Tamborito
+  color: vibrant
+  link: https://sounds.mailta.pe/237/track4.mp3
+track5:
+  title: Konono n°1 & Batida - Bom Dia
+  color: rough
+  link: https://sounds.mailta.pe/237/track5.mp3
+track6:
+  title: Alma Negra - Burkina Berlin
+  color: trippy
+  link: https://sounds.mailta.pe/237/track6.mp3
+track7:
+  title: Les Yeux Oranges - Coco
+  color: dreamy
+  link: https://sounds.mailta.pe/237/track7.mp3
 ---
  This morning, we welcome you in the world of edits and universal music. In this parralel world, productor fell in love of old musics heritages, and decide to bring them back to life. As magicians or gods, they bring back to us their deep inspiration. We can only admire them, because without those gold diggers, our local musical scenes would be much more ethnocentric. In a way they contribute to restore our world heritage.
 

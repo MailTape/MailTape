@@ -1,40 +1,50 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 illustrator: Camille Célestin
 writer: Anaïs G
-category: '383'
+category: "383"
 guest_name: Fun Fun Funeral
 guest_color: dreamy
 guestPic: guestPic383.jpg
-track4_link: https://sounds.mailta.pe/383/track4.mp3
-track1_link: https://sounds.mailta.pe/383/track1.mp3
-track1_title: 'Helvetia - Kris '
-track1_color: dreamy
-track2_title: 'Tirzah - No Romance '
-track2_color: vibrant
-track2_link: https://sounds.mailta.pe/383/track2.mp3
-track3_title: Rocky Lorelei - Lily
-track3_color: dreamy
-track4_color: trippy
-track4_title: 'Fun Fun Funeral - Elba Sea '
-track6_link: https://sounds.mailta.pe/383/track6.mp3
-track5_link: https://sounds.mailta.pe/383/track5.mp3
-track5_title: Eera - Christine
-track5_color: dreamy
-track6_title: Promise Keeper - Backfired
-track6_color: bliss
 episode_URL: http://mailta.pe/383/fun-fun-funeral/
 musiColor: musiColor383.png
-track7_link: https://sounds.mailta.pe/383/track7.mp3
-track7_color: vibrant
-track7_title: 'Samana - Harvest '
 image: http://mailta.pe/img/fbPic383.png
-description: "This morning, the climate is one of grumbling and discontent. Voices are being raised in the streets to try to make things happen, to have a decent life and above all to respect as such and according to our professions. Fortunately, we have the Fun Fun Funeral selection to soo the tensions and put some balm to the heart.\_"
-track3_link: https://sounds.mailta.pe/383/track3.mp3
+description: This morning, the climate is one of grumbling and discontent.
+  Voices are being raised in the streets to try to make things happen, to have a
+  decent life and above all to respect as such and according to our professions.
+  Fortunately, we have the Fun Fun Funeral selection to soo the tensions and put
+  some balm to the heart. 
 author: Anaïs G
-pubDate: '2019-12-08'
+pubDate: 2019-12-08
+track1:
+  title: "Helvetia - Kris "
+  color: dreamy
+  link: https://sounds.mailta.pe/383/track1.mp3
+track2:
+  title: "Tirzah - No Romance "
+  color: vibrant
+  link: https://sounds.mailta.pe/383/track2.mp3
+track3:
+  title: Rocky Lorelei - Lily
+  color: dreamy
+  link: https://sounds.mailta.pe/383/track3.mp3
+track4:
+  title: "Fun Fun Funeral - Elba Sea "
+  color: trippy
+  link: https://sounds.mailta.pe/383/track4.mp3
+track5:
+  title: Eera - Christine
+  color: dreamy
+  link: https://sounds.mailta.pe/383/track5.mp3
+track6:
+  title: Promise Keeper - Backfired
+  color: bliss
+  link: https://sounds.mailta.pe/383/track6.mp3
+track7:
+  title: "Samana - Harvest "
+  color: vibrant
+  link: https://sounds.mailta.pe/383/track7.mp3
 ---
 This morning, the climate is one of grumbling and discontent. Voices are being raised in the streets to try to make things happen, to have a decent life and above all to respecte as such and according to our professions. Fortunately, we have the [Fun Fun Funeral](https://funfunfuneral.bandcamp.com/) selection to soo the tensions and put some balm to the heart. 
 <br><br>

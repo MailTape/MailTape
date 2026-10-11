@@ -1,40 +1,47 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Sanjay Mistry
 illustrator: Camille Célestin
 writer: Sanjay Mistry
-category: '317'
+category: "317"
 guest_name: Jally Kebba Susso
 guest_color: bliss
-track1_link: https://sounds.mailta.pe/317/track1.mp3
-track2_link: https://sounds.mailta.pe/317/track2.mp3
-track3_link: https://sounds.mailta.pe/317/track3.mp3
-track4_link: https://sounds.mailta.pe/317/track4.mp3
-track5_link: https://sounds.mailta.pe/317/track5.mp3
-track6_link: https://sounds.mailta.pe/317/track6.mp3
-track7_link: https://sounds.mailta.pe/317/track7.mp3
-track1_title: ' Ballaké Sissoko & Vincent Ségal – Chamber Music'
-track1_color: dreamy
-track2_title: Soriba Kouyaté – Kanakassi
-track2_color: bliss
-track3_title: James Brown – This Is A Man's World
-track3_color: vibrant
-track4_title: Jally Kebba Susso – Ajama
-track4_color: bliss
-track5_title: Faith Mussa – Mdidi
-track5_color: vibrant
-track6_title: Miriam Makeba – Liwawechi
-track6_color: trippy
-track7_title: Sona Jobarteh – Saya
-track7_color: dreamy
 episode_URL: http://mailta.pe/317/jally-kebba-susso/
 guestPic: guestPic317.jpg
-description: Today we are delighted to welcome kora player Jally Kebba Susso as he picks a soothing suite of Sunday morning jams for MailTape.
+description: Today we are delighted to welcome kora player Jally Kebba Susso as
+  he picks a soothing suite of Sunday morning jams for MailTape.
 image: https://www.mailta.pe/img/fbPic317.jpg
 musiColor: musiColor317.png
-pubDate: '2018-06-17'
+pubDate: 2018-06-17
+track1:
+  title: " Ballaké Sissoko & Vincent Ségal – Chamber Music"
+  color: dreamy
+  link: https://sounds.mailta.pe/317/track1.mp3
+track2:
+  title: Soriba Kouyaté – Kanakassi
+  color: bliss
+  link: https://sounds.mailta.pe/317/track2.mp3
+track3:
+  title: James Brown – This Is A Man's World
+  color: vibrant
+  link: https://sounds.mailta.pe/317/track3.mp3
+track4:
+  title: Jally Kebba Susso – Ajama
+  color: bliss
+  link: https://sounds.mailta.pe/317/track4.mp3
+track5:
+  title: Faith Mussa – Mdidi
+  color: vibrant
+  link: https://sounds.mailta.pe/317/track5.mp3
+track6:
+  title: Miriam Makeba – Liwawechi
+  color: trippy
+  link: https://sounds.mailta.pe/317/track6.mp3
+track7:
+  title: Sona Jobarteh – Saya
+  color: dreamy
+  link: https://sounds.mailta.pe/317/track7.mp3
 ---
 Today we are delighted to welcome kora player [Jally Kebba Susso](http://jallykebbasusso.com/) as he picks a soothing suite of Sunday morning jams for MailTape.
 <p>Expanding the boundaries of kora traditions, Jally blends West African music with jazz, funk and sounds from London’s multitudinous music scenes. His most recent album, [Banjul-London](https://jallykebbasusso.bandcamp.com/album/banjul-london), released in 2017, will be a  thoroughly uplifting and positive 48 minutes of your time!

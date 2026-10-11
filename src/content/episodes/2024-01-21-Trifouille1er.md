@@ -1,40 +1,52 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Anto
 illustrator: Meriam Kharbat
 writer: Anto
-category: '544'
+category: "544"
 guest_name: Trifouille1er
 guest_color: vibrant
 guestPic: guestPic544.png
-track1_link: https://sounds.mailta.pe/544/track1.mp3
-track2_link: https://sounds.mailta.pe/544/track2.mp3
-track3_link: https://sounds.mailta.pe/544/track3.mp3
-track4_link: https://sounds.mailta.pe/544/track4.mp3
-track5_link: https://sounds.mailta.pe/544/track5.mp3
-track6_link: https://sounds.mailta.pe/544/track6.mp3
-track7_link: https://sounds.mailta.pe/544/track7.mp3
-track1_title: Dance place garage - Mauskovic dance band
-track2_title: Always Du - Siriusmo
-track3_title: Cake - Ivy Lab
-track4_title: Trifouille1er - Bronto Porn
-track5_title: Patricia Taxxon – Gnaw
-track6_title: Ko Shin Moon – Konyali
-track7_title: Robert le Magnifique – Reulf
-track1_color: vibrant
-track2_color: trippy
-track3_color: rough
-track4_color: vibrant
-track5_color: rough
-track6_color: vibrant
-track7_color: bliss
 episode_URL: http://mailta.pe/544/trifouille1er/
 image: https://www.mailta.pe/img/fbPic544.jpg
 musiColor: musiColor544.png
-description: Patchwork! This morning we offer you a fun activity with this new Sunday playlist. All you have to do is 1- settle into your best sofa, 2- plug in your headset (since this is the best way to listen a Mail Tape selection) and 3- start playback of today's episode. Well, actually it also works if you play it on your amp while you make yourself a coffee or you put on your running shoes. We are not sectarian at Mail Tape. All means are good to swallow your rations of good vibes.
-pubDate: '2024-01-21'
+description: Patchwork! This morning we offer you a fun activity with this new
+  Sunday playlist. All you have to do is 1- settle into your best sofa, 2- plug
+  in your headset (since this is the best way to listen a Mail Tape selection)
+  and 3- start playback of today's episode. Well, actually it also works if you
+  play it on your amp while you make yourself a coffee or you put on your
+  running shoes. We are not sectarian at Mail Tape. All means are good to
+  swallow your rations of good vibes.
+pubDate: 2024-01-21
+track1:
+  title: Dance place garage - Mauskovic dance band
+  color: vibrant
+  link: https://sounds.mailta.pe/544/track1.mp3
+track2:
+  title: Always Du - Siriusmo
+  color: trippy
+  link: https://sounds.mailta.pe/544/track2.mp3
+track3:
+  title: Cake - Ivy Lab
+  color: rough
+  link: https://sounds.mailta.pe/544/track3.mp3
+track4:
+  title: Trifouille1er - Bronto Porn
+  color: vibrant
+  link: https://sounds.mailta.pe/544/track4.mp3
+track5:
+  title: Patricia Taxxon – Gnaw
+  color: rough
+  link: https://sounds.mailta.pe/544/track5.mp3
+track6:
+  title: Ko Shin Moon – Konyali
+  color: vibrant
+  link: https://sounds.mailta.pe/544/track6.mp3
+track7:
+  title: Robert le Magnifique – Reulf
+  color: bliss
+  link: https://sounds.mailta.pe/544/track7.mp3
 ---
 
 Patchwork! This morning we offer you a fun activity with this new Sunday playlist. All you have to do is 1- settle into your best sofa, 2- plug in your headset (since this is the best way to listen a Mail Tape selection) and 3- start playback of today's episode. Well, actually it also works if you play it on your amp while you make yourself a coffee or you put on your running shoes. We are not sectarian at Mail Tape. All means are good to swallow your rations of good vibes.

@@ -1,40 +1,49 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
-category: '531'
+category: "531"
 guest_name: Expensive Music Band
-track1_title: Dolthom - Ragui
-track2_title: Solo Career - Renaissance
-track3_title: Versis - LA TiERRA
-track1_link: https://sounds.mailta.pe/531/track1.mp3
-track2_link: https://sounds.mailta.pe/531/track2.mp3
-track3_link: https://sounds.mailta.pe/531/track3.mp3
-track1_color: trippy
 author: Sarah
 writer: Sarah
-track3_color: vibrant
-track2_color: bliss
-track4_title: Expensive Music Band - Bowling Alone
-track4_color: dreamy
-track5_color: trippy
-track6_color: bliss
-track7_color: trippy
-track7_title: Munan - Once Upon a Time
-track5_title: Aleesha Dibbs - Distance
 illustrator: Nella Papelita
 guest_color: vibrant
-track5_link: https://sounds.mailta.pe/531/track5.mp3
-track7_link: https://sounds.mailta.pe/531/track7.mp3
 guestPic: guestPic531.jpg
 image: https://www.mailta.pe/img/fbPic531.png
 episode_URL: http://mailta.pe/531/Expensive-Music-Band/
-track6_link: https://sounds.mailta.pe/531/track6.mp3
-track6_title: Moonfish - Mahi Mahi
-track4_link: https://sounds.mailta.pe/531/track4.mp3
-description: This Sunday we welcome Expensive Music Band for Episode 531 :) The project of multi-instrumentalist Troon Lienad, the band is based in Illawarra. They join us after the release of their latest album, Things to Say at a Barbecue.
+description: This Sunday we welcome Expensive Music Band for Episode 531 :) The
+  project of multi-instrumentalist Troon Lienad, the band is based in Illawarra.
+  They join us after the release of their latest album, Things to Say at a
+  Barbecue.
 musiColor: musiColor531.png
-pubDate: '2023-07-02'
+pubDate: 2023-07-02
+track1:
+  title: Dolthom - Ragui
+  color: trippy
+  link: https://sounds.mailta.pe/531/track1.mp3
+track2:
+  title: Solo Career - Renaissance
+  color: bliss
+  link: https://sounds.mailta.pe/531/track2.mp3
+track3:
+  title: Versis - LA TiERRA
+  color: vibrant
+  link: https://sounds.mailta.pe/531/track3.mp3
+track4:
+  title: Expensive Music Band - Bowling Alone
+  color: dreamy
+  link: https://sounds.mailta.pe/531/track4.mp3
+track5:
+  title: Aleesha Dibbs - Distance
+  color: trippy
+  link: https://sounds.mailta.pe/531/track5.mp3
+track6:
+  title: Moonfish - Mahi Mahi
+  color: bliss
+  link: https://sounds.mailta.pe/531/track6.mp3
+track7:
+  title: Munan - Once Upon a Time
+  color: trippy
+  link: https://sounds.mailta.pe/531/track7.mp3
 ---
  This Sunday we welcome [Expensive Music Band](https://expensivemusicband.bandcamp.com/) for Episode 531 :) The project of multi-instrumentalist Troon Lienad, the band is based in Illawarra. They join us after the release of their latest album, [Things to Say at a Barbecue](https://permanentslump.bandcamp.com/album/things-to-say-at-a-bbq).
 

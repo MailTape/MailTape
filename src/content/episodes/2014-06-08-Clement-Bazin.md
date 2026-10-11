@@ -1,39 +1,47 @@
 ---
-
 published: true
 author: Julien
 guest_color: vibrant
-bigTitle_font_ratio: '6'
-bigTitle_line_ratio: '1'
-track1_color: vibrant
-track2_color: bliss
-track3_color: bliss
-track4_color: vibrant
-track5_color: dreamy
-track6_color: bliss
-track7_color: bliss
-category: '144'
+bigTitle_font_ratio: "6"
+bigTitle_line_ratio: "1"
+category: "144"
 guest_name: Clément Bazin
-track1_link: https://sounds.mailta.pe/144/track1.mp3
-track2_link: https://sounds.mailta.pe/144/track2.mp3
-track3_link: https://sounds.mailta.pe/144/track3.mp3
-track4_link: https://sounds.mailta.pe/144/track4.mp3
-track1_title: Dimlite - Can't Get Used To Those
-track2_title: Flako - Lonely Town feat. Dirg Gerner
-track3_title: Miguel - Do You… (Cashmere Cat Remix)
-track4_title: Clément Bazin - Come to this
 episode_URL: http://mailta.pe/144/Clement-Bazin/
-track5_title: Late Bloom - Rollin Up
-track5_link: https://sounds.mailta.pe/144/track5.mp3
-track6_link: https://sounds.mailta.pe/144/track6.mp3
-track6_title: Rome Fortune - One Time For
-track7_title: Taylor McFerrin - The Antidote (feat. Nai Palm)
-track7_link: https://sounds.mailta.pe/144/track7.mp3
 guestPic: guestPic144.jpg
 image: https://www.mailta.pe/img/fbPic144.jpg
 musiColor: musiColor144.png
-description: This morning, the french beatmaker Clément Bazin will carry you on a sunny journey. Quietly first, his selection will then energize your morning, be ready...
-pubDate: '2014-06-08'
+description: This morning, the french beatmaker Clément Bazin will carry you on
+  a sunny journey. Quietly first, his selection will then energize your morning,
+  be ready...
+pubDate: 2014-06-08
+track1:
+  title: Dimlite - Can't Get Used To Those
+  color: vibrant
+  link: https://sounds.mailta.pe/144/track1.mp3
+track2:
+  title: Flako - Lonely Town feat. Dirg Gerner
+  color: bliss
+  link: https://sounds.mailta.pe/144/track2.mp3
+track3:
+  title: Miguel - Do You… (Cashmere Cat Remix)
+  color: bliss
+  link: https://sounds.mailta.pe/144/track3.mp3
+track4:
+  title: Clément Bazin - Come to this
+  color: vibrant
+  link: https://sounds.mailta.pe/144/track4.mp3
+track5:
+  title: Late Bloom - Rollin Up
+  color: dreamy
+  link: https://sounds.mailta.pe/144/track5.mp3
+track6:
+  title: Rome Fortune - One Time For
+  color: bliss
+  link: https://sounds.mailta.pe/144/track6.mp3
+track7:
+  title: Taylor McFerrin - The Antidote (feat. Nai Palm)
+  color: bliss
+  link: https://sounds.mailta.pe/144/track7.mp3
 ---
 
 

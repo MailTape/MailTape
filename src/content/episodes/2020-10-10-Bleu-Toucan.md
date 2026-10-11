@@ -1,40 +1,49 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 musiColor: musiColor420.png
 image: https://www.mailta.pe/img/fbPic420.png
 episode_URL: http://mailta.pe/420/bleu-toucan/
-track7_color: bliss
-track7_title: Février - La montagne
-track6_color: bliss
-track6_title: 'Paradis - Hémisphère '
-track5_color: dreamy
-track5_title: Café Lanai - Lanai
-track4_color: dreamy
-track4_title: Bleu Toucan - Le Hublot
-track3_color: bliss
-track3_title: Benny Sings - Sunny Afternoon
-track2_color: vibrant
-track2_title: 'TEED - Don''t you forget about me '
-track1_color: dreamy
-track1_title: Sébastien Tellier - Love
-track5_link: https://sounds.mailta.pe/420/track5.mp3
-track2_link: https://sounds.mailta.pe/420/track2.mp3
 guestPic: guestPic420.jpg
 guest_color: dreamy
 guest_name: Bleu Toucan
-category: '420'
+category: "420"
 writer: Anaïs G
 illustrator: Camille Célestin
 author: Anaïs G
-track1_link: https://sounds.mailta.pe/420/track1.mp3
-track3_link: https://sounds.mailta.pe/420/track3.mp3
-track4_link: https://sounds.mailta.pe/420/track4.mp3
-track6_link: https://sounds.mailta.pe/420/track6.mp3
-track7_link: https://sounds.mailta.pe/420/track7.mp3
-description: This morning, we fly away, we take to the open sea, to faraway places where the heat reigns supreme. We're not alone to accompany us on this journey, it's in good company with the Bleu Toucan group that we're going to have a good time.
-pubDate: '2020-10-10'
+description: This morning, we fly away, we take to the open sea, to faraway
+  places where the heat reigns supreme. We're not alone to accompany us on this
+  journey, it's in good company with the Bleu Toucan group that we're going to
+  have a good time.
+pubDate: 2020-10-10
+track1:
+  title: Sébastien Tellier - Love
+  color: dreamy
+  link: https://sounds.mailta.pe/420/track1.mp3
+track2:
+  title: "TEED - Don't you forget about me "
+  color: vibrant
+  link: https://sounds.mailta.pe/420/track2.mp3
+track3:
+  title: Benny Sings - Sunny Afternoon
+  color: bliss
+  link: https://sounds.mailta.pe/420/track3.mp3
+track4:
+  title: Bleu Toucan - Le Hublot
+  color: dreamy
+  link: https://sounds.mailta.pe/420/track4.mp3
+track5:
+  title: Café Lanai - Lanai
+  color: dreamy
+  link: https://sounds.mailta.pe/420/track5.mp3
+track6:
+  title: "Paradis - Hémisphère "
+  color: bliss
+  link: https://sounds.mailta.pe/420/track6.mp3
+track7:
+  title: Février - La montagne
+  color: bliss
+  link: https://sounds.mailta.pe/420/track7.mp3
 ---
 
 This morning, we fly away, we take to the open sea, to faraway places where the heat reigns supreme. We're not alone to accompany us on this journey, it's in good company with the [Bleu Toucan](https://soundcloud.com/bleutoucan) group that we're going to have a good time.

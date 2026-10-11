@@ -1,40 +1,47 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Marion
 illustrator: Thibault Daumain
 writer: Marion
-category: '410'
+category: "410"
 guest_name: Klô Pelgag
 guest_color: dreamy
-track7_link: https://sounds.mailta.pe/410/track7.mp3
-track1_link: https://sounds.mailta.pe/410/track1.mp3
-track2_link: https://sounds.mailta.pe/410/track2.mp3
-track3_link: https://sounds.mailta.pe/410/track3.mp3
-track4_link: https://sounds.mailta.pe/410/track4.mp3
-track5_link: https://sounds.mailta.pe/410/track5.mp3
-track6_link: https://sounds.mailta.pe/410/track6.mp3
-track1_title: Rufus Wainwright - Cigarettes and Chocolate Milk
-track1_color: dreamy
-track2_title: Elliott Smith - Angeles
-track2_color: bliss
-track3_title: Georges Moustaki - Les Eaux de Mars
-track3_color: dreamy
-track4_title: Klô Pelgag - Umami
-track4_color: bliss
-track5_title: Aidan Knight - Sixteen Stares
-track5_color: vibrant
-track6_title: Justice Der - Age of Consent
-track6_color: dreamy
-track7_title: The Districts -  Velour and Velcro
-track7_color: vibrant
 musiColor: musiColor410.png
 episode_URL: https://www.mailta.pe/410/klo-pelgag/
 guestPic: guestPic410.jpg
-description: Today, we welcome Klô Pelgag for a sweet sunday morning made of fantastic stories.
+description: Today, we welcome Klô Pelgag for a sweet sunday morning made of
+  fantastic stories.
 image: https://www.mailta.pe/img/fbPic410.png
-pubDate: '2020-06-14'
+pubDate: 2020-06-14
+track1:
+  title: Rufus Wainwright - Cigarettes and Chocolate Milk
+  color: dreamy
+  link: https://sounds.mailta.pe/410/track1.mp3
+track2:
+  title: Elliott Smith - Angeles
+  color: bliss
+  link: https://sounds.mailta.pe/410/track2.mp3
+track3:
+  title: Georges Moustaki - Les Eaux de Mars
+  color: dreamy
+  link: https://sounds.mailta.pe/410/track3.mp3
+track4:
+  title: Klô Pelgag - Umami
+  color: bliss
+  link: https://sounds.mailta.pe/410/track4.mp3
+track5:
+  title: Aidan Knight - Sixteen Stares
+  color: vibrant
+  link: https://sounds.mailta.pe/410/track5.mp3
+track6:
+  title: Justice Der - Age of Consent
+  color: dreamy
+  link: https://sounds.mailta.pe/410/track6.mp3
+track7:
+  title: The Districts -  Velour and Velcro
+  color: vibrant
+  link: https://sounds.mailta.pe/410/track7.mp3
 ---
 This morning we welcome [Klô Pelgag](https://www.klopelgag.com/) to select three Sunday morning songs.
 <br><br>

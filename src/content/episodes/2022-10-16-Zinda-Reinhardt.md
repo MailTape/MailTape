@@ -1,40 +1,50 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
-track1_title: Lena Platonos - Bloody Shadows From Afar
-track2_title: Bob Vylan - Wicked And Bad
-track3_title: Lido Pimienta - Para Transcribir
-track4_title: Zinda Reinhardt - Cut Up
-track1_color: dreamy
-track2_color: rough
-track3_color: bliss
 author: ImaCrea
 illustrator: Meriam Kharbat
 writer: ImaCrea
-category: '501'
+category: "501"
 guest_name: Zinda Reinhardt
 guest_color: vibrant
 guestPic: guestPic501.jpg
-track7_title: Sudan Archives - Home Maker
-track7_color: vibrant
-track4_color: vibrant
-track5_color: trippy
-track6_color: vibrant
-track1_link: https://sounds.mailta.pe/501/track1.mp3
-track2_link: https://sounds.mailta.pe/501/track2.mp3
-track3_link: https://sounds.mailta.pe/501/track3.mp3
-track4_link: https://sounds.mailta.pe/501/track4.mp3
 musiColor: musiColor501.png
-track7_link: https://sounds.mailta.pe/501/track7.mp3
 image: https://www.mailta.pe/img/fbPic501.jpg
 episode_URL: http://mailta.pe/501/Zinda-Reinhardt/
-track5_title: Minimi Deutsch - Still Foggy
-track6_title: Mykki Blanco - French Lessons (ft. Kelsey Lu)
-track5_link: https://sounds.mailta.pe/501/track5.mp3
-track6_link: https://sounds.mailta.pe/501/track6.mp3
-description: This morning, we're thrilled to be back for this 11th season of music discoveries! And for this 501st episode, we're honored to welcome Zinda Reinhardt. With her powerful and contagious energy, she sings in Sintikès and activates a language rarely heard. Mixing vibration from trap music with Romani culture, she's courageously opening a new door in the musicscape.
-pubDate: '2022-10-16'
+description: This morning, we're thrilled to be back for this 11th season of
+  music discoveries! And for this 501st episode, we're honored to welcome Zinda
+  Reinhardt. With her powerful and contagious energy, she sings in Sintikès and
+  activates a language rarely heard. Mixing vibration from trap music with
+  Romani culture, she's courageously opening a new door in the musicscape.
+pubDate: 2022-10-16
+track1:
+  title: Lena Platonos - Bloody Shadows From Afar
+  color: dreamy
+  link: https://sounds.mailta.pe/501/track1.mp3
+track2:
+  title: Bob Vylan - Wicked And Bad
+  color: rough
+  link: https://sounds.mailta.pe/501/track2.mp3
+track3:
+  title: Lido Pimienta - Para Transcribir
+  color: bliss
+  link: https://sounds.mailta.pe/501/track3.mp3
+track4:
+  title: Zinda Reinhardt - Cut Up
+  color: vibrant
+  link: https://sounds.mailta.pe/501/track4.mp3
+track5:
+  title: Minimi Deutsch - Still Foggy
+  color: trippy
+  link: https://sounds.mailta.pe/501/track5.mp3
+track6:
+  title: Mykki Blanco - French Lessons (ft. Kelsey Lu)
+  color: vibrant
+  link: https://sounds.mailta.pe/501/track6.mp3
+track7:
+  title: Sudan Archives - Home Maker
+  color: vibrant
+  link: https://sounds.mailta.pe/501/track7.mp3
 ---
 This morning, we're thrilled to be back for this 11th season of music discoveries! The world has greatly changed in these 11 years. More polarized than ever and facing critical issues, we believe music is essential to a world deeply in need of human bonding and love. It's a universal language speaking to our shared consciousness and then translated through our body as dance, and movement.
 <br><br>

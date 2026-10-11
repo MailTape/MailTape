@@ -1,40 +1,48 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Manon
 writer: Manon
 guest_name: Enchantée Julia
 guest_color: dreamy
-track2_link: https://sounds.mailta.pe/335/track2.mp3
-track3_link: https://sounds.mailta.pe/335/track3.mp3
-track1_link: https://sounds.mailta.pe/335/track1.mp3
-category: '335'
-track5_link: https://sounds.mailta.pe/335/track5.mp3
-track7_link: https://sounds.mailta.pe/335/track7.mp3
-track6_link: https://sounds.mailta.pe/335/track6.mp3
-track4_link: https://sounds.mailta.pe/335/track4.mp3
-track1_title: Triplego – Cali (feat Prince Waly)
-track1_color: dreamy
-track2_title: Terrenoire – Le Silence
-track2_color: vibrant
-track3_title: Saintard – Summertime
-track3_color: bliss
-track4_title: Enchantée Julia – 45 tours (feat Prince Waly)
-track4_color: trippy
-track5_title: Moussa - Cabrioli
-track7_title: LXTR – WWL (feat. CARME)
-track7_color: dreamy
-track6_color: trippy
-track6_title: IAMDDB - More
-track5_color: vibrant
-description: This morning we are delighted to welcome the French singer Enchantée Julia to MailTape. I discovered her a few months ago. It was the end of Summer, Paris was still warm and welcoming.
+category: "335"
+description: This morning we are delighted to welcome the French singer
+  Enchantée Julia to MailTape. I discovered her a few months ago. It was the end
+  of Summer, Paris was still warm and welcoming.
 episode_URL: http://mailta.pe/335/enchantee-julia/
 guestPic: guestPic335new.jpg
 musiColor: musiColor335.png
 image: https://www.mailta.pe/img/fbPic335.jpg
 illustrator: William Girault
-pubDate: '2018-12-09'
+pubDate: 2018-12-09
+track1:
+  title: Triplego – Cali (feat Prince Waly)
+  color: dreamy
+  link: https://sounds.mailta.pe/335/track1.mp3
+track2:
+  title: Terrenoire – Le Silence
+  color: vibrant
+  link: https://sounds.mailta.pe/335/track2.mp3
+track3:
+  title: Saintard – Summertime
+  color: bliss
+  link: https://sounds.mailta.pe/335/track3.mp3
+track4:
+  title: Enchantée Julia – 45 tours (feat Prince Waly)
+  color: trippy
+  link: https://sounds.mailta.pe/335/track4.mp3
+track5:
+  title: Moussa - Cabrioli
+  color: vibrant
+  link: https://sounds.mailta.pe/335/track5.mp3
+track6:
+  title: IAMDDB - More
+  color: trippy
+  link: https://sounds.mailta.pe/335/track6.mp3
+track7:
+  title: LXTR – WWL (feat. CARME)
+  color: dreamy
+  link: https://sounds.mailta.pe/335/track7.mp3
 ---
 
 This morning we are delighted to welcome the French singer [Enchantée Julia](https://www.facebook.com/enchanteejulia/) to MailTape.

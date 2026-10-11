@@ -1,43 +1,49 @@
 ---
-pubDate: '2019-10-27'
-bigTitle_font_ratio: '6'
+pubDate: 2019-10-27
+bigTitle_font_ratio: "6"
 published: true
-track5_link: 'https://sounds.mailta.pe/missingTrack.mp3'
 guest_color: dreamy
-track6_link: 'https://sounds.mailta.pe/missingTrack.mp3'
-track7_link: 'https://sounds.mailta.pe/missingTrack.mp3'
-track7_title: Rozi Plain - Symmetrical
-track7_color: dreamy
-track6_color: dreamy
-track5_title: 'Chassol – Birds, Pt. I'
-track5_color: bliss
-track6_title: Helado Negro - 2° Dia
-track4_title: River Into Lake - Dig Your Own Way
-track4_color: trippy
-track3_link: 'https://sounds.mailta.pe/missingTrack.mp3'
-track3_title: Thundercat - Them Changes
-track3_color: vibrant
-track2_title: Selda Bağcan - Dostum Dostum
-track2_color: bliss
-track1_color: dreamy
-track1_title: Timber Timbre - Velvet Gloves And Spit
-episode_URL: 'http://mailta.pe/377/river-into-lake/'
-image: 'https://www.mailta.pe/img/fbPic377.png'
+episode_URL: http://mailta.pe/377/river-into-lake/
+image: https://www.mailta.pe/img/fbPic377.png
 musiColor: musiColor377.png
 guestPic: guestPic377.jpg
-category: '377'
+category: "377"
 guest_name: River Into Lake
 writer: Anaïs G
 illustrator: Camille Célestin
 author: Anaïs G
-track1_link: 'https://sounds.mailta.pe/377/Track1.mp3'
-track2_link: 'https://sounds.mailta.pe/377/Track2.mp3'
-track4_link: 'https://sounds.mailta.pe/377/Track4.mp3'
-description: >-
-  This morning, nature speaks to us: it bewitches us with its orange and brown
-  leaves, it pushes us to get up early to go in search of mushrooms, chestnuts.
-  . . And in this almost magical setting that nature offers us, the music of
-  River Into Lake ricochets on the water of streams and trees.
+description: "This morning, nature speaks to us: it bewitches us with its orange
+  and brown leaves, it pushes us to get up early to go in search of mushrooms,
+  chestnuts. . . And in this almost magical setting that nature offers us, the
+  music of River Into Lake ricochets on the water of streams and trees."
+track1:
+  title: Timber Timbre - Velvet Gloves And Spit
+  color: dreamy
+  link: https://sounds.mailta.pe/377/Track1.mp3
+track2:
+  title: Selda Bağcan - Dostum Dostum
+  color: bliss
+  link: https://sounds.mailta.pe/377/Track2.mp3
+track3:
+  title: Thundercat - Them Changes
+  color: vibrant
+  link: https://sounds.mailta.pe/missingTrack.mp3
+track4:
+  title: River Into Lake - Dig Your Own Way
+  color: trippy
+  link: https://sounds.mailta.pe/377/Track4.mp3
+track5:
+  title: Chassol – Birds, Pt. I
+  color: bliss
+  link: https://sounds.mailta.pe/missingTrack.mp3
+track6:
+  title: Helado Negro - 2° Dia
+  color: dreamy
+  link: https://sounds.mailta.pe/missingTrack.mp3
+track7:
+  title: Rozi Plain - Symmetrical
+  color: dreamy
+  link: https://sounds.mailta.pe/missingTrack.mp3
 ---
 <p id="introduction">This morning, nature speaks to us: it bewitches us with its orange and brown leaves, it pushes us to get up early to go in search of mushrooms, chestnuts... And in this almost magical setting that nature offers us, the music of [River Into Lake](https://www.facebook.com/riverintolake/)ricochets on the water of streams and trees. 
 <br><br>

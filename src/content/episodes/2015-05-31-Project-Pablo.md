@@ -1,39 +1,50 @@
 ---
-
 published: true
 author: Maxime
 guest_color: bliss
-bigTitle_font_ratio: '7'
-bigTitle_line_ratio: '1'
-track1_color: bliss
-track2_color: vibrant
-track3_color: dreamy
-track4_color: bliss
-track5_color: rough
-track6_color: dreamy
-track7_color: rough
-track1_link: https://sounds.mailta.pe/188/track1.mp3
-track2_link: https://sounds.mailta.pe/188/track2.mp3
-track3_link: https://sounds.mailta.pe/188/track3.mp3
-track4_link: https://sounds.mailta.pe/188/track4.mp3
-track5_link: https://sounds.mailta.pe/188/track5.mp3
-track6_link: https://sounds.mailta.pe/188/track6.mp3
-track7_link: https://sounds.mailta.pe/188/track7.mp3
-track1_title: Florian Kupfer ~ SAD 001 A
-track2_title: Florist - Marine Drive
-track3_title: Infamous Boogieman ~ Revenge Tactics
-track4_title: Project Pablo ~ The Feeling
-track5_title: Fulbert ~ Night Ride
-track6_title: Essence ~ Just a Touch (Jazz Element Mix)
-track7_title: Fouk ~ Kill Frenzy
+bigTitle_font_ratio: "7"
+bigTitle_line_ratio: "1"
 guest_name: Project Pablo
-category: '188'
+category: "188"
 episode_URL: http://mailta.pe/188/Project-Pablo/
 guestPic: guestPic188.jpg
 image: https://www.mailta.pe/img/fbPic188.jpg
 musiColor: musiColor188.png
-description: This morning, we’ve got the pleasure to welcome Project Pablo as a special guest for A tribute to the House Music of the beginning of the 90s ! As an eighties and nineties’s House Music lover, it was a great surprise to discover the first LP of Patrick Holland as Project Pablo. The Canadian producer gathered spirits of Pal Joey, Wayne Gardiner or Franckie Knuckles in a very rich album.
-pubDate: '2015-05-31'
+description: This morning, we’ve got the pleasure to welcome Project Pablo as a
+  special guest for A tribute to the House Music of the beginning of the 90s !
+  As an eighties and nineties’s House Music lover, it was a great surprise to
+  discover the first LP of Patrick Holland as Project Pablo. The Canadian
+  producer gathered spirits of Pal Joey, Wayne Gardiner or Franckie Knuckles in
+  a very rich album.
+pubDate: 2015-05-31
+track1:
+  title: Florian Kupfer ~ SAD 001 A
+  color: bliss
+  link: https://sounds.mailta.pe/188/track1.mp3
+track2:
+  title: Florist - Marine Drive
+  color: vibrant
+  link: https://sounds.mailta.pe/188/track2.mp3
+track3:
+  title: Infamous Boogieman ~ Revenge Tactics
+  color: dreamy
+  link: https://sounds.mailta.pe/188/track3.mp3
+track4:
+  title: Project Pablo ~ The Feeling
+  color: bliss
+  link: https://sounds.mailta.pe/188/track4.mp3
+track5:
+  title: Fulbert ~ Night Ride
+  color: rough
+  link: https://sounds.mailta.pe/188/track5.mp3
+track6:
+  title: Essence ~ Just a Touch (Jazz Element Mix)
+  color: dreamy
+  link: https://sounds.mailta.pe/188/track6.mp3
+track7:
+  title: Fouk ~ Kill Frenzy
+  color: rough
+  link: https://sounds.mailta.pe/188/track7.mp3
 ---
 
 

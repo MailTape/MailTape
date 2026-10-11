@@ -1,39 +1,47 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Sanjay Mistry
 illustrator: Pierre-Julien Fieux
-category: '263'
+category: "263"
 guest_name: Olimpia Splendid
-track1_link: https://sounds.mailta.pe/263/track1.mp3
-track2_link: https://sounds.mailta.pe/263/track2.mp3
-track3_link: https://sounds.mailta.pe/263/track3.mp3
-track4_link: https://sounds.mailta.pe/263/track4.mp3
-track5_link: https://sounds.mailta.pe/263/track5.mp3
-track6_link: https://sounds.mailta.pe/263/track6.mp3
-track7_link: https://sounds.mailta.pe/263/track7.mp3
-track1_title: MIAUX — Above The High Rays
-track1_color: dreamy
-track2_title: Tsembla — Alejandro
-track2_color: trippy
-track3_title: TV Dinner Education — WHO R D Rules
-track3_color: trippy
-track4_title: Olimpia Splendid — Jukka-Pekka
-track4_color: rough
-track5_title: Marisa Anderson — In the Valley of the Sun
-track5_color: bliss
-track6_title: Karen Gwyer — Judd Drums
-track6_color: dreamy
-track7_title: Carla dal Forno — You Know What It's Like
-track7_color: dreamy
 episode_URL: http://mailta.pe/263/olimpia-splendid/
 guest_color: trippy
 image: https://www.mailta.pe/img/fbPic263.jpg
 musiColor: musiColor263.png
-description: This morning, we enter a hypnotic and dreamy world with Heta Bilaletdin, Jonna Karanka and Katri Sipiläinen of Finland-based trio, Olimpia Splendid.
+description: This morning, we enter a hypnotic and dreamy world with Heta
+  Bilaletdin, Jonna Karanka and Katri Sipiläinen of Finland-based trio, Olimpia
+  Splendid.
 guestPic: guestPic263.jpg
-pubDate: '2017-06-04'
+pubDate: 2017-06-04
+track1:
+  title: MIAUX — Above The High Rays
+  color: dreamy
+  link: https://sounds.mailta.pe/263/track1.mp3
+track2:
+  title: Tsembla — Alejandro
+  color: trippy
+  link: https://sounds.mailta.pe/263/track2.mp3
+track3:
+  title: TV Dinner Education — WHO R D Rules
+  color: trippy
+  link: https://sounds.mailta.pe/263/track3.mp3
+track4:
+  title: Olimpia Splendid — Jukka-Pekka
+  color: rough
+  link: https://sounds.mailta.pe/263/track4.mp3
+track5:
+  title: Marisa Anderson — In the Valley of the Sun
+  color: bliss
+  link: https://sounds.mailta.pe/263/track5.mp3
+track6:
+  title: Karen Gwyer — Judd Drums
+  color: dreamy
+  link: https://sounds.mailta.pe/263/track6.mp3
+track7:
+  title: Carla dal Forno — You Know What It's Like
+  color: dreamy
+  link: https://sounds.mailta.pe/263/track7.mp3
 ---
 This morning, we enter a hypnotic world with Heta Bilaletdin, Jonna Karanka and Katri Sipiläinen of Finland-based trio, [Olimpia Splendid](https://www.facebook.com/Olimpia-Splendid-197293963659766/).
 <p>Named after a brand of air conditioners, they make wiry, hypnotic and out-of-tune DIY punk with guitars, bass and a drum machine; an 'uptempo rattle of no-note guitar licks and no-brain bass riffs that kicks and jerks like a barracuda on a bait line' ([The Wire](https://www.thewire.co.uk/)).

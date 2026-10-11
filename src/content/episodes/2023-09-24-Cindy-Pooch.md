@@ -1,40 +1,52 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: ImaCrea
 illustrator: Camille Lemeunier
 writer: ImaCrea
-category: '535'
+category: "535"
 guest_name: Cindy Pooch
 guest_color: bliss
 guestPic: guestPic535.jpg
-track1_title: Masma Dream World - Knight Wolf
-track1_color: trippy
-track2_title: Esperanza Spladind - Formwela 1
-track2_color: dreamy
-track3_title: Janelle Monae - Babopbyeya
-track3_color: bliss
-track4_title: Cindy Pooch - Le Sang
-track4_color: bliss
-track5_title: Matthew Halsall - Calder Shapes
-track5_color: vibrant
-track6_title: Anohni - It Must Change
-track6_color: dreamy
-track7_title: Natural Wonder Beauty Concept - Driving
-track7_color: trippy
 episode_URL: http://mailta.pe/535/cindy-pooch/
 image: https://www.mailta.pe/img/fbPic535.jpg
 musiColor: musiColor535.png
-track1_link: https://sounds.mailta.pe/535/track1.mp3
-track2_link: https://sounds.mailta.pe/535/track2.mp3
-track3_link: https://sounds.mailta.pe/535/track3.mp3
-track4_link: https://sounds.mailta.pe/535/track4.mp3
-track5_link: https://sounds.mailta.pe/535/track5.mp3
-track6_link: https://sounds.mailta.pe/535/track6.mp3
-track7_link: https://sounds.mailta.pe/535/track7.mp3
-description: "This morning, we embark on a gentle and ethereal journey with the delightful presence of Cindy Pooch as our esteemed guest. She's leading us into a realm where music transcends its mere auditory form, serving as a gateway to alternate dimensions.\tIn this space, poetry, spirituality, and harmony blend seamlessly, all ignited by the captivating power of the human voice. As one becomes a vessel for music, the confines of time and place dissipate, leaving only the profound experience of the present moment."
-pubDate: '2023-09-24'
+description: This morning, we embark on a gentle and ethereal journey with the
+  delightful presence of Cindy Pooch as our esteemed guest. She's leading us
+  into a realm where music transcends its mere auditory form, serving as a
+  gateway to alternate dimensions.	In this space, poetry, spirituality, and
+  harmony blend seamlessly, all ignited by the captivating power of the human
+  voice. As one becomes a vessel for music, the confines of time and place
+  dissipate, leaving only the profound experience of the present moment.
+pubDate: 2023-09-24
+track1:
+  title: Masma Dream World - Knight Wolf
+  color: trippy
+  link: https://sounds.mailta.pe/535/track1.mp3
+track2:
+  title: Esperanza Spladind - Formwela 1
+  color: dreamy
+  link: https://sounds.mailta.pe/535/track2.mp3
+track3:
+  title: Janelle Monae - Babopbyeya
+  color: bliss
+  link: https://sounds.mailta.pe/535/track3.mp3
+track4:
+  title: Cindy Pooch - Le Sang
+  color: bliss
+  link: https://sounds.mailta.pe/535/track4.mp3
+track5:
+  title: Matthew Halsall - Calder Shapes
+  color: vibrant
+  link: https://sounds.mailta.pe/535/track5.mp3
+track6:
+  title: Anohni - It Must Change
+  color: dreamy
+  link: https://sounds.mailta.pe/535/track6.mp3
+track7:
+  title: Natural Wonder Beauty Concept - Driving
+  color: trippy
+  link: https://sounds.mailta.pe/535/track7.mp3
 ---
 
 This morning, we embark on a gentle and ethereal journey with the delightful presence of [Cindy Pooch](https://cindypooch.bandcamp.com/album/issemou) as our esteemed guest. She's leading us into a realm where music transcends its mere auditory form, serving as a gateway to alternate dimensions.

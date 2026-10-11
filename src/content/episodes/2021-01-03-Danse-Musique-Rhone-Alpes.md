@@ -1,40 +1,50 @@
 ---
-
 musiColor: musiColor432.png
 image: https://www.mailta.pe/img/fbPic432.png
 episode_URL: http://mailta.pe/432/danse-musique-rhone-alpes/
-bigTitle_font_ratio: '6'
-track5_color: trippy
-track5_title: Tite - Zhang
-track4_color: trippy
-track4_title: 'Danse Musique Rhône-Alpes - Spiritisme et nouvelles technologies '
-track3_color: trippy
-track3_title: Laurel Halo - Koinos
-track1_color: trippy
-track1_title: Tachycardie -  D'humeur à savoir
-track5_link: https://sounds.mailta.pe/432/track5.mp3
-track4_link: https://sounds.mailta.pe/432/track4.mp3
-track1_link: https://sounds.mailta.pe/432/track1.mp3
+bigTitle_font_ratio: "6"
 guestPic: guestPic432.jpg
 guest_name: Danse Musique Rhône-Alpes
-category: '432'
+category: "432"
 writer: Anaïs G
 author: Anaïs G
 published: true
 guest_color: trippy
-track6_link: https://sounds.mailta.pe/432/track6.mp3
-track7_link: https://sounds.mailta.pe/432/track7.mp3
-track2_title: Raime - Some Things Can Happen, Just Like This
-track2_color: dreamy
-track6_title: Maud Geffray - In the wild
-track6_color: vibrant
-track7_title: Louisahhh - Trap
-track7_color: rough
-track2_link: https://sounds.mailta.pe/432/track2.mp3
-track3_link: https://sounds.mailta.pe/432/track3.mp3
-description: This morning, it is FINALLY 2021. What can we wish for this year? Health, already the most important one compared to the others but above all the reopening of all its places of culture, music and events. . . And of course full of beautiful things to all those who follow us, hoping to surprise you, amaze you and please you again every Sunday.
+description: This morning, it is FINALLY 2021. What can we wish for this year?
+  Health, already the most important one compared to the others but above all
+  the reopening of all its places of culture, music and events. . . And of
+  course full of beautiful things to all those who follow us, hoping to surprise
+  you, amaze you and please you again every Sunday.
 illustrator: Jason Pridham
-pubDate: '2021-01-03'
+pubDate: 2021-01-03
+track1:
+  title: Tachycardie -  D'humeur à savoir
+  color: trippy
+  link: https://sounds.mailta.pe/432/track1.mp3
+track2:
+  title: Raime - Some Things Can Happen, Just Like This
+  color: dreamy
+  link: https://sounds.mailta.pe/432/track2.mp3
+track3:
+  title: Laurel Halo - Koinos
+  color: trippy
+  link: https://sounds.mailta.pe/432/track3.mp3
+track4:
+  title: "Danse Musique Rhône-Alpes - Spiritisme et nouvelles technologies "
+  color: trippy
+  link: https://sounds.mailta.pe/432/track4.mp3
+track5:
+  title: Tite - Zhang
+  color: trippy
+  link: https://sounds.mailta.pe/432/track5.mp3
+track6:
+  title: Maud Geffray - In the wild
+  color: vibrant
+  link: https://sounds.mailta.pe/432/track6.mp3
+track7:
+  title: Louisahhh - Trap
+  color: rough
+  link: https://sounds.mailta.pe/432/track7.mp3
 ---
 
 This morning, it is FINALLY 2021. What can we wish for this year? Health, already the most important one compared to the others but above all the reopening of all its places of culture, music and events... And of course full of beautiful things to all those who follow us, hoping to surprise you, amaze you and please you again every Sunday.

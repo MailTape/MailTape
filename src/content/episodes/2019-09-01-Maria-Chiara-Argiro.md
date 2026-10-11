@@ -1,40 +1,48 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Sanjay Mistry
 illustrator: Camille Célestin
 writer: Sanjay Mistry
-category: '369'
+category: "369"
 guest_name: Maria Chiara Argirò
 guest_color: bliss
-track1_link: https://sounds.mailta.pe/369/track1.mp3
-track2_link: https://sounds.mailta.pe/369/track2.mp3
-track3_link: https://sounds.mailta.pe/369/track3.mp3
-track4_link: https://sounds.mailta.pe/369/track4.mp3
-track5_link: https://sounds.mailta.pe/369/track5.mp3
-track6_link: https://sounds.mailta.pe/369/track6.mp3
-track7_link: https://sounds.mailta.pe/369/track7.mp3
-track1_title: 'Jon Hopkins – Emerald Rush '
-track1_color: vibrant
-track2_title: 'Ambrose Akinmusire – A Blooming Bloodfruit in a Hoodie  '
-track2_color: bliss
-track3_title: Andy Shauf – Marta Sways
-track3_color: dreamy
-track4_title: Maria Chiara Argirò – Nautilus
-track4_color: bliss
-track5_title: Linda May Han Oh – Firedancer
-track5_color: dreamy
-track6_title: Ariwo – To Earth
-track6_color: trippy
-track7_title: Lifted – Rose 31
-track7_color: bliss
 episode_URL: http://mailta.pe/369/maria-chiara-argiro/
-description: Welcome back to another season of MailTape! This morning we introduce the London-based pianist and composer, Maria Chiara Argirò, who kicks things off again with three Sunday morning tunes.
+description: Welcome back to another season of MailTape! This morning we
+  introduce the London-based pianist and composer, Maria Chiara Argirò, who
+  kicks things off again with three Sunday morning tunes.
 guestPic: guestPic369.jpg
 image: https://www.mailta.pe/img/fbPic369.jpg
 musiColor: musiColor369.png
-pubDate: '2019-09-01'
+pubDate: 2019-09-01
+track1:
+  title: "Jon Hopkins – Emerald Rush "
+  color: vibrant
+  link: https://sounds.mailta.pe/369/track1.mp3
+track2:
+  title: "Ambrose Akinmusire – A Blooming Bloodfruit in a Hoodie  "
+  color: bliss
+  link: https://sounds.mailta.pe/369/track2.mp3
+track3:
+  title: Andy Shauf – Marta Sways
+  color: dreamy
+  link: https://sounds.mailta.pe/369/track3.mp3
+track4:
+  title: Maria Chiara Argirò – Nautilus
+  color: bliss
+  link: https://sounds.mailta.pe/369/track4.mp3
+track5:
+  title: Linda May Han Oh – Firedancer
+  color: dreamy
+  link: https://sounds.mailta.pe/369/track5.mp3
+track6:
+  title: Ariwo – To Earth
+  color: trippy
+  link: https://sounds.mailta.pe/369/track6.mp3
+track7:
+  title: Lifted – Rose 31
+  color: bliss
+  link: https://sounds.mailta.pe/369/track7.mp3
 ---
 Welcome back to another season of MailTape! This morning we introduce the London-based pianist and composer, [Maria Chiara Argirò](https://www.mariachiaramusic.com/), who kicks things off again with three Sunday morning tunes.
 <br><br>

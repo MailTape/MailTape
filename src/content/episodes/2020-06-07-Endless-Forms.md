@@ -1,40 +1,52 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Sarah
 illustrator: Anthony Dujardin
 writer: Sarah
-category: '409'
+category: "409"
 guest_name: Endless Forms
 guest_color: dreamy
 guestPic: guestPic409.jpg
-track1_link: https://sounds.mailta.pe/409/track1.mp3
-track3_link: https://sounds.mailta.pe/409/track3.mp3
-track1_color: dreamy
-track4_link: https://sounds.mailta.pe/409/track4.mp3
-track5_link: https://sounds.mailta.pe/409/track5.mp3
-track6_link: https://sounds.mailta.pe/409/track6.mp3
-track6_color: bliss
-track6_title: serpentwithfeet - A Comma
-track5_color: dreamy
-track5_title: Christelle Bofale - U Ouchea
-track4_color: vibrant
-track4_title: Endless Forms - Something Will Seduce Me
-track7_color: vibrant
-track7_title: Nina Simone - Feelings (Live 1976 Montreux Jazz Festival)
 episode_URL: http://mailta.pe/409/Endless-Forms/
 image: https://www.mailta.pe/img/fbPic409.png
 musiColor: musiColor409.png
-track1_title: Moses Sumney - Doomed
-track2_title: Arcade Fire - Haiti
-track2_color: vibrant
-track3_title: 'Sigur Rós - Untitled # 2 (Fyrsta)'
-track3_color: rough
-track2_link: https://sounds.mailta.pe/409/track2.mp3
-track7_link: https://sounds.mailta.pe/409/track7.mp3
-description: We are so excited to welcome [Endless Forms] to select a Sunday morning playlist with us. Endless Forms constructs ebbs and flows of intensity through his instrumentals, all as a backdrop to his intricate and powerful lyricism. His entire album, More Than Candy, plays as an epic of self examination and discovery, with each song effortlessly feeding into the next. This week has brought heaviness onto all of our shoulders. We curated this selection with the goal of giving you head space to reflect and also to heal.
-pubDate: '2020-06-07'
+description: We are so excited to welcome [Endless Forms] to select a Sunday
+  morning playlist with us. Endless Forms constructs ebbs and flows of intensity
+  through his instrumentals, all as a backdrop to his intricate and powerful
+  lyricism. His entire album, More Than Candy, plays as an epic of self
+  examination and discovery, with each song effortlessly feeding into the next.
+  This week has brought heaviness onto all of our shoulders. We curated this
+  selection with the goal of giving you head space to reflect and also to heal.
+pubDate: 2020-06-07
+track1:
+  title: Moses Sumney - Doomed
+  color: dreamy
+  link: https://sounds.mailta.pe/409/track1.mp3
+track2:
+  title: Arcade Fire - Haiti
+  color: vibrant
+  link: https://sounds.mailta.pe/409/track2.mp3
+track3:
+  title: "Sigur Rós - Untitled # 2 (Fyrsta)"
+  color: rough
+  link: https://sounds.mailta.pe/409/track3.mp3
+track4:
+  title: Endless Forms - Something Will Seduce Me
+  color: vibrant
+  link: https://sounds.mailta.pe/409/track4.mp3
+track5:
+  title: Christelle Bofale - U Ouchea
+  color: dreamy
+  link: https://sounds.mailta.pe/409/track5.mp3
+track6:
+  title: serpentwithfeet - A Comma
+  color: bliss
+  link: https://sounds.mailta.pe/409/track6.mp3
+track7:
+  title: Nina Simone - Feelings (Live 1976 Montreux Jazz Festival)
+  color: vibrant
+  link: https://sounds.mailta.pe/409/track7.mp3
 ---
 We are so excited to welcome [Endless Forms](https://soundcloud.com/endlessforms) to select a Sunday morning playlist with us. 
 

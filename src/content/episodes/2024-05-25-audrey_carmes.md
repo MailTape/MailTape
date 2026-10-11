@@ -8,27 +8,6 @@ guestPic: guestpic558.jpg
 author: ImaCrea
 illustrator: Patricia Barros De Miranda
 writer: ImaCrea
-track1_title: Ana Roxanne - Suite pour l'invisible
-track1_color: dreamy
-track1_link: https://sounds.mailta.pe/558/track1.mp3
-track2_title: Ruth Goller - Often they came to visit, even just to see how she was (M1)
-track2_color: dreamy
-track2_link: https://sounds.mailta.pe/558/track2.mp3
-track3_title: Takako Minekawa & Dustin Wong - Party on a Floating Cake
-track3_color: dreamy
-track3_link: https://sounds.mailta.pe/558/track3.mp3
-track4_title: Audrey Carmes - Une Recherche
-track4_color: dreamy
-track4_link: https://sounds.mailta.pe/558/track4.mp3
-track5_title: Madalyn Merkey - Hairspring
-track5_color: dreamy
-track5_link: https://sounds.mailta.pe/558/track5.mp3
-track6_title: Árni Grétar - Höfðadalur
-track6_color: dreamy
-track6_link: https://sounds.mailta.pe/558/track6.mp3
-track7_title: Billie Eilish - Chihiro
-track7_color: dreamy
-track7_link: https://sounds.mailta.pe/558/track7.mp3
 description: This morning, we will continue to dream gently with our guest
   Audrey Carmes. Let's embark on an ambient journey to ethereal lands where
   music takes us on an inner voyage. Let the soothing melodies guide us through
@@ -37,6 +16,34 @@ description: This morning, we will continue to dream gently with our guest
 episode_URL: https://www.mailta.pe/558/audrey-carmes/
 image: https://www.mailta.pe/img/fbpic558.png
 musiColor: musicolor558.png
+track1:
+  title: Ana Roxanne - Suite pour l'invisible
+  color: dreamy
+  link: https://sounds.mailta.pe/558/track1.mp3
+track2:
+  title: Ruth Goller - Often they came to visit, even just to see how she was (M1)
+  color: dreamy
+  link: https://sounds.mailta.pe/558/track2.mp3
+track3:
+  title: Takako Minekawa & Dustin Wong - Party on a Floating Cake
+  color: dreamy
+  link: https://sounds.mailta.pe/558/track3.mp3
+track4:
+  title: Audrey Carmes - Une Recherche
+  color: dreamy
+  link: https://sounds.mailta.pe/558/track4.mp3
+track5:
+  title: Madalyn Merkey - Hairspring
+  color: dreamy
+  link: https://sounds.mailta.pe/558/track5.mp3
+track6:
+  title: Árni Grétar - Höfðadalur
+  color: dreamy
+  link: https://sounds.mailta.pe/558/track6.mp3
+track7:
+  title: Billie Eilish - Chihiro
+  color: dreamy
+  link: https://sounds.mailta.pe/558/track7.mp3
 ---
 This morning, we will continue to dream gently with our guest [Audrey Carmes](https://audreycarmes.bandcamp.com/album/quelque-chose-sest-dissip). Let's embark on an ambient journey to ethereal lands where music takes us on an inner voyage. Let the soothing melodies guide us through a realm of tranquility and introspection, as we explore the depths of our imagination together.
 

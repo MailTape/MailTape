@@ -1,39 +1,48 @@
 ---
-
 published: true
 author: Julien
 guest_color: trippy
-bigTitle_font_ratio: '6'
-bigTitle_line_ratio: '1'
-track1_color: dreamy
-track2_color: vibrant
-track3_color: dreamy
-track4_color: trippy
-track5_color: dreamy
-track6_color: dreamy
-track7_color: vibrant
-track1_link: https://sounds.mailta.pe/192/track1.mp3
-track2_link: https://sounds.mailta.pe/192/track2.mp3
-track3_link: https://sounds.mailta.pe/192/track3.mp3
-track1_title: Populous - The Breakfast Drama
-track2_title: Mark Barrott -  Baby Come Home
-track3_title: Orcas - Infinite Stillness
-category: '192'
+bigTitle_font_ratio: "6"
+bigTitle_line_ratio: "1"
+category: "192"
 guest_name: Indian Wells
 episode_URL: http://mailta.pe/192/Indian-Wells/
-track4_link: https://sounds.mailta.pe/192/track4.mp3
-track4_title: Indian Wells - Alcantara
 guestPic: guestPic192.jpg
-track5_link: https://sounds.mailta.pe/192/track5.mp3
-track5_title: 'SEENMR - INFINITE MIND POWER '
-track6_link: https://sounds.mailta.pe/192/track6.mp3
-track7_link: https://sounds.mailta.pe/192/track7.mp3
-track7_title: The Soul Motivators - Aftermath
-track6_title: Slowly Rolling Camera - Anne
 musiColor: musiColor192.png
 image: https://www.mailta.pe/img/fbPic192.jpg
-description: This morning, our italian guest Indian Wells brings us to a captivating and overpowering world. Night sweatiness and rising morning are his kingdom. No matter what you did last night, he's gonna transform your morning.
-pubDate: '2015-06-28'
+description: This morning, our italian guest Indian Wells brings us to a
+  captivating and overpowering world. Night sweatiness and rising morning are
+  his kingdom. No matter what you did last night, he's gonna transform your
+  morning.
+pubDate: 2015-06-28
+track1:
+  title: Populous - The Breakfast Drama
+  color: dreamy
+  link: https://sounds.mailta.pe/192/track1.mp3
+track2:
+  title: Mark Barrott -  Baby Come Home
+  color: vibrant
+  link: https://sounds.mailta.pe/192/track2.mp3
+track3:
+  title: Orcas - Infinite Stillness
+  color: dreamy
+  link: https://sounds.mailta.pe/192/track3.mp3
+track4:
+  title: Indian Wells - Alcantara
+  color: trippy
+  link: https://sounds.mailta.pe/192/track4.mp3
+track5:
+  title: "SEENMR - INFINITE MIND POWER "
+  color: dreamy
+  link: https://sounds.mailta.pe/192/track5.mp3
+track6:
+  title: Slowly Rolling Camera - Anne
+  color: dreamy
+  link: https://sounds.mailta.pe/192/track6.mp3
+track7:
+  title: The Soul Motivators - Aftermath
+  color: vibrant
+  link: https://sounds.mailta.pe/192/track7.mp3
 ---
 
 

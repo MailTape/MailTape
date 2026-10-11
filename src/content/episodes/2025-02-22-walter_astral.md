@@ -8,27 +8,6 @@ guestPic: guestpic577.jpg
 author: Sarah
 illustrator: Camille Lemeunier
 writer: Sarah
-track1_title: Jacco Gardner - Descent
-track1_color: vibrant
-track1_link: https://sounds.mailta.pe/577/track1.mp3
-track2_title: Bruno Pernadas - Ya ya Breathe
-track2_color: dreamy
-track2_link: https://sounds.mailta.pe/577/track2.mp3
-track3_title: "Roland Cristal - Philippe Etchebest "
-track3_color: trippy
-track3_link: https://sounds.mailta.pe/577/track3.mp3
-track4_title: Walter Astral - Nadir
-track4_color: trippy
-track4_link: https://sounds.mailta.pe/577/track4.mp3
-track5_title: Dm (Mx) - Nature (Unders Dub)
-track5_color: trippy
-track5_link: https://sounds.mailta.pe/577/track5.mp3
-track6_title: Sophia Chablau e Felipe Vaqueiro - OHAYO SARAVÁ
-track6_color: vibrant
-track6_link: https://sounds.mailta.pe/577/track6.mp3
-track7_title: Walter Astral - Aube
-track7_color: trippy
-track7_link: https://sounds.mailta.pe/577/track7.mp3
 description: This morning our dream tapestries cross into the sunlight, letting
   us revel in the shining contours of these threads and tangles. In these gentle
   morning hours, the druids Walter Astral are our guides, weaving this textured
@@ -40,6 +19,34 @@ description: This morning our dream tapestries cross into the sunlight, letting
 episode_URL: https://www.mailta.pe/577/Walter-Astral/
 image: https://www.mailta.pe/img/fbpic577.jpg
 musiColor: musicolor577.png
+track1:
+  title: Jacco Gardner - Descent
+  color: vibrant
+  link: https://sounds.mailta.pe/577/track1.mp3
+track2:
+  title: Bruno Pernadas - Ya ya Breathe
+  color: dreamy
+  link: https://sounds.mailta.pe/577/track2.mp3
+track3:
+  title: "Roland Cristal - Philippe Etchebest "
+  color: trippy
+  link: https://sounds.mailta.pe/577/track3.mp3
+track4:
+  title: Walter Astral - Nadir
+  color: trippy
+  link: https://sounds.mailta.pe/577/track4.mp3
+track5:
+  title: Dm (Mx) - Nature (Unders Dub)
+  color: trippy
+  link: https://sounds.mailta.pe/577/track5.mp3
+track6:
+  title: Sophia Chablau e Felipe Vaqueiro - OHAYO SARAVÁ
+  color: vibrant
+  link: https://sounds.mailta.pe/577/track6.mp3
+track7:
+  title: Walter Astral - Aube
+  color: trippy
+  link: https://sounds.mailta.pe/577/track7.mp3
 ---
 This morning our dream tapestries cross into the sunlight, letting us revel in the shining contours of these threads and tangles. In these gentle morning hours, the druids [Walter Astral](https://walterastral.bandcamp.com/) are our guides, weaving this textured trance journey through sound. Based in Paris, the group joins us following the release of their odyssey-like album, [Éclipse](https://walterastral.bandcamp.com/album/clipse-2). With releases offering both meditation and dance, the duo moves swiftly from folk to psychedelic rock to effervescent techno, with rich and unexpected marriages across genre and instruments.
 

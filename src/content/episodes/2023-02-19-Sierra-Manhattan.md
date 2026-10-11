@@ -1,39 +1,49 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Anaïs G
 illustrator: Meriam Kharbat
-category: '518'
+category: "518"
 guest_name: Sierra Manhattan
 guest_color: bliss
 guestPic: guestPic518.jpg
-track1_title: Js Donny - Purple 1
-track1_color: dreamy
-track2_title: A.G. Cook - Animals
-track2_color: vibrant
-track3_title: Kraftwerk - The Hall of Mirrors
-track3_color: trippy
-track4_title: Sierra Manhattan - Smartphones
-track4_color: bliss
-track5_title: Miryam Solomon - Romance
-track5_color: vibrant
-track6_title: Cleo Sol - Spirit
-track6_color: dreamy
-track7_title: Nilufer Yanya - Midnight Sun
-track7_color: bliss
 episode_URL: http://mailta.pe/518/sierra-manhattan/
 image: https://www.mailta.pe/img/fbPic518.png
 musiColor: musiColor518.png
-track1_link: https://sounds.mailta.pe/518/track1.mp3
-track2_link: https://sounds.mailta.pe/518/track2.mp3
-track3_link: https://sounds.mailta.pe/518/track3.mp3
-track4_link: https://sounds.mailta.pe/518/track4.mp3
-track5_link: https://sounds.mailta.pe/518/track5.mp3
-track6_link: https://sounds.mailta.pe/518/track6.mp3
-track7_link: https://sounds.mailta.pe/518/track7.mp3
-description: This morning, you need to rest, to let yourself go to other sensations, or to rediscover simple pleasures such as enjoying your loved ones, the rays of the sun, bird watching or even feeling the wind in your neck. The band Sierra Manhattan accompanies us in this playlist of quiet and let live.
-pubDate: '2023-02-19'
+description: This morning, you need to rest, to let yourself go to other
+  sensations, or to rediscover simple pleasures such as enjoying your loved
+  ones, the rays of the sun, bird watching or even feeling the wind in your
+  neck. The band Sierra Manhattan accompanies us in this playlist of quiet and
+  let live.
+pubDate: 2023-02-19
+track1:
+  title: Js Donny - Purple 1
+  color: dreamy
+  link: https://sounds.mailta.pe/518/track1.mp3
+track2:
+  title: A.G. Cook - Animals
+  color: vibrant
+  link: https://sounds.mailta.pe/518/track2.mp3
+track3:
+  title: Kraftwerk - The Hall of Mirrors
+  color: trippy
+  link: https://sounds.mailta.pe/518/track3.mp3
+track4:
+  title: Sierra Manhattan - Smartphones
+  color: bliss
+  link: https://sounds.mailta.pe/518/track4.mp3
+track5:
+  title: Miryam Solomon - Romance
+  color: vibrant
+  link: https://sounds.mailta.pe/518/track5.mp3
+track6:
+  title: Cleo Sol - Spirit
+  color: dreamy
+  link: https://sounds.mailta.pe/518/track6.mp3
+track7:
+  title: Nilufer Yanya - Midnight Sun
+  color: bliss
+  link: https://sounds.mailta.pe/518/track7.mp3
 ---
  This morning, you need to rest, to let yourself go to other sensations, or to rediscover simple pleasures such as enjoying your loved ones, the rays of the sun, bird watching or even feeling the wind in your neck. The band [Sierra Manhattan](https://soundcloud.com/sierra-manhattan) accompanies us in this playlist of quiet and let live.
 <br><br>

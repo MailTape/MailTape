@@ -1,40 +1,49 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Sanjay Mistry
 illustrator: Anthony Dujardin
 writer: Sanjay Mistry
-category: '319'
+category: "319"
 guest_name: Les Graciés
 guest_color: trippy
-track1_link: https://sounds.mailta.pe/319/track1.mp3
-track2_link: https://sounds.mailta.pe/319/track2.mp3
-track3_link: https://sounds.mailta.pe/319/track3.mp3
-track4_link: https://sounds.mailta.pe/319/track4.mp3
-track5_link: https://sounds.mailta.pe/319/track5.mp3
-track6_link: https://sounds.mailta.pe/319/track6.mp3
-track7_link: https://sounds.mailta.pe/319/track7.mp3
-track1_title: Joni Mitchell – Hejira
-track1_color: dreamy
-track2_title: Al Jarreau – Brite 'N' Sunny Babe
-track2_color: vibrant
-track3_title: 'Joseph Malik – Melodies  '
-track3_color: dreamy
-track4_title: Les Graciés – Compoly
-track4_color: trippy
-track5_title: Eartheater – Homonyms
-track5_color: trippy
-track6_title: Elysia Crampton – Valerie & Elysia
-track6_color: dreamy
-track7_title: Kate Bush – Army Dreamers
-track7_color: bliss
 episode_URL: http://mailta.pe/319/les-gracies/
 guestPic: guestPic319.jpg
 musiColor: musiColor319.png
 image: https://www.mailta.pe/img/fbPic319.jpg
-description: This morning we welcome the lyrical and funky Sunday morning selections of Les Graciés—a French-American tandem of a brother and a sister in sound, an evident and karmic encounter of free spirit music makers in full sympathy with the unknown.
-pubDate: '2018-07-01'
+description: This morning we welcome the lyrical and funky Sunday morning
+  selections of Les Graciés—a French-American tandem of a brother and a sister
+  in sound, an evident and karmic encounter of free spirit music makers in full
+  sympathy with the unknown.
+pubDate: 2018-07-01
+track1:
+  title: Joni Mitchell – Hejira
+  color: dreamy
+  link: https://sounds.mailta.pe/319/track1.mp3
+track2:
+  title: Al Jarreau – Brite 'N' Sunny Babe
+  color: vibrant
+  link: https://sounds.mailta.pe/319/track2.mp3
+track3:
+  title: "Joseph Malik – Melodies  "
+  color: dreamy
+  link: https://sounds.mailta.pe/319/track3.mp3
+track4:
+  title: Les Graciés – Compoly
+  color: trippy
+  link: https://sounds.mailta.pe/319/track4.mp3
+track5:
+  title: Eartheater – Homonyms
+  color: trippy
+  link: https://sounds.mailta.pe/319/track5.mp3
+track6:
+  title: Elysia Crampton – Valerie & Elysia
+  color: dreamy
+  link: https://sounds.mailta.pe/319/track6.mp3
+track7:
+  title: Kate Bush – Army Dreamers
+  color: bliss
+  link: https://sounds.mailta.pe/319/track7.mp3
 ---
 This morning we welcome the lyrical, dreamy and funky Sunday morning selections of [Les Graciés](https://soundcloud.com/les-gracies)—a French-American tandem of a brother and a sister in sound, an evident and karmic encounter of free spirit music makers in full sympathy with the unknown.
 <p>Les Graciés is the conjunction of Eric Douglas Porter ([Afrikan Sciences](https://soundcloud.com/afrikan-sciences)) and Gaël Segalen ([IhearU](http://ihearu.org/)). In their own music, they transcend styles with a deceptive effortlessness conflating sheets of street noise and organic pastoral location recordings with rhythms that seem to have spilled from the field to the club via decades of cryptic encoding.

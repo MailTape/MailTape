@@ -1,40 +1,51 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Inès
 illustrator: Anais Caura
 writer: Inès
-category: '256'
+category: "256"
 guest_name: Johnny Hawaii
 guest_color: bliss
-track1_link: https://sounds.mailta.pe/256/track1.mp3
-track2_link: https://sounds.mailta.pe/256/track2.mp3
-track3_link: https://sounds.mailta.pe/256/track3.mp3
-track4_link: https://sounds.mailta.pe/256/track4.mp3
-track1_title: Matthewdavid - Mindflight 1
-track1_color: trippy
-track2_title: Crystal Voyager OST - Red Sun Sea
-track2_color: dreamy
-track3_title: Spirit Club - Eye Dozer
-track3_color: vibrant
-track4_title: Johnny Hawaii - The Parrots Are Not What They Seem (They're Just Pigeons on Acid)
 episode_URL: https://www.mailta.pe/256/Johnny-Hawaii/
 guestPic: guestPic256.jpg
-track4_color: bliss
-track5_color: trippy
-track5_link: https://sounds.mailta.pe/256/track5.mp3
-track6_link: https://sounds.mailta.pe/256/track6.mp3
-track6_title: Beach House - Sparks
-track6_color: dreamy
-track7_title: The Brian Jonestown Massacre - Viholliseni Maalla
-track7_color: bliss
-track7_link: https://sounds.mailta.pe/256/track7.mp3
-track5_title: The Radio Dept. - It's Personal
-description: 'This morning, let''s all stay in a hazy state thanks to Johnny Hawaii’s trippy selection. Johnny Hawaii''s psychedelic surf tracks are amazing soundtracks for Sundays: long, slow, and dreamy, just what is needed to wrap up the week beautifully. So stay still, close your eyes, don''t turn on the lights. Take this episode as being an excuse to do nothing for some time.'
+description: "This morning, let's all stay in a hazy state thanks to Johnny
+  Hawaii’s trippy selection. Johnny Hawaii's psychedelic surf tracks are amazing
+  soundtracks for Sundays: long, slow, and dreamy, just what is needed to wrap
+  up the week beautifully. So stay still, close your eyes, don't turn on the
+  lights. Take this episode as being an excuse to do nothing for some time."
 image: https://www.mailta.pe/img/fbPic256.png
 musiColor: musiColor256.png
-pubDate: '2017-04-16'
+pubDate: 2017-04-16
+track1:
+  title: Matthewdavid - Mindflight 1
+  color: trippy
+  link: https://sounds.mailta.pe/256/track1.mp3
+track2:
+  title: Crystal Voyager OST - Red Sun Sea
+  color: dreamy
+  link: https://sounds.mailta.pe/256/track2.mp3
+track3:
+  title: Spirit Club - Eye Dozer
+  color: vibrant
+  link: https://sounds.mailta.pe/256/track3.mp3
+track4:
+  title: Johnny Hawaii - The Parrots Are Not What They Seem (They're Just Pigeons
+    on Acid)
+  color: bliss
+  link: https://sounds.mailta.pe/256/track4.mp3
+track5:
+  title: The Radio Dept. - It's Personal
+  color: trippy
+  link: https://sounds.mailta.pe/256/track5.mp3
+track6:
+  title: Beach House - Sparks
+  color: dreamy
+  link: https://sounds.mailta.pe/256/track6.mp3
+track7:
+  title: The Brian Jonestown Massacre - Viholliseni Maalla
+  color: bliss
+  link: https://sounds.mailta.pe/256/track7.mp3
 ---
 This morning, let's all stay in a hazy state thanks to [Johnny Hawaii](https://www.facebook.com/johnnyhawaiiband/ "Facebook")’s trippy selection. Johnny Hawaii's psychedelic surf tracks are amazing soundtracks for Sundays: long, slow, and dreamy, just what is needed to wrap up the week beautifully.
 <p>So just stay still, close your eyes, don't turn on the lights. Take this episode as an excuse to do nothing for some time.

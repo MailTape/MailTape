@@ -1,40 +1,54 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Jules
 illustrator: Noémie Dijon
 writer: Jules
-category: '465'
+category: "465"
 guest_name: Arp Frique
 guest_color: trippy
 episode_URL: https://www.mailta.pe/465/arp-frique/
-track1_title: Jan Hammer - Crockett's Theme (Miami Vice)
-track1_color: dreamy
-track1_link: https://sounds.mailta.pe/465/track1.mp3
-track2_title: Admas - Anchi Bale Game
-track2_color: trippy
-track2_link: https://sounds.mailta.pe/465/track2.mp3
-track3_title: Pieces Of A Dream - Warm Weather
-track3_color: bliss
-track3_link: https://sounds.mailta.pe/465/track3.mp3
-track4_title: Arp Frique - La Vérité (Feat. Mariseya)
-track4_color: trippy
-track4_link: https://sounds.mailta.pe/465/track4.mp3
-track5_color: trippy
-track5_title: Grupo Pilon - Liberdadi
-track5_link: https://sounds.mailta.pe/465/track5.mp3
-track6_title: Aura Safari - Niagara
-track6_color: bliss
-track7_color: vibrant
-track6_link: https://sounds.mailta.pe/465/track6.mp3
-track7_link: https://sounds.mailta.pe/465/track7.mp3
-track7_title: Florence Adooni - Mam Pe'ela Su'ure
 musiColor: musiColor465.png
 guestPic: guestPic465.jpeg
 image: https://www.mailta.pe/img/fbPic465.png
-description: This morning, the sun has never shone so brightly. Rotterdam-based musician and producer Arp Frique is welcoming MailTape in his colourful world!  Niels Nieuborg, the genius mind behind Arp Frique, has been actively involved in the Dutch live music scene for years before embarking on his own project. The Arp Frique alter ego is a reference to the sound of the Arp synths and Chic’s famous song ‘Le Freak’, showing his love to disco. After several very well received EPs and a first album “The Colorful World of Arp Frique” released in 2018, the exotic and funky producer is back in October 2021 with "The Seed", a new invitation to travel in his joyful universe.
-pubDate: '2021-10-10'
+description: This morning, the sun has never shone so brightly. Rotterdam-based
+  musician and producer Arp Frique is welcoming MailTape in his colourful
+  world!  Niels Nieuborg, the genius mind behind Arp Frique, has been actively
+  involved in the Dutch live music scene for years before embarking on his own
+  project. The Arp Frique alter ego is a reference to the sound of the Arp
+  synths and Chic’s famous song ‘Le Freak’, showing his love to disco. After
+  several very well received EPs and a first album “The Colorful World of Arp
+  Frique” released in 2018, the exotic and funky producer is back in October
+  2021 with "The Seed", a new invitation to travel in his joyful universe.
+pubDate: 2021-10-10
+track1:
+  title: Jan Hammer - Crockett's Theme (Miami Vice)
+  color: dreamy
+  link: https://sounds.mailta.pe/465/track1.mp3
+track2:
+  title: Admas - Anchi Bale Game
+  color: trippy
+  link: https://sounds.mailta.pe/465/track2.mp3
+track3:
+  title: Pieces Of A Dream - Warm Weather
+  color: bliss
+  link: https://sounds.mailta.pe/465/track3.mp3
+track4:
+  title: Arp Frique - La Vérité (Feat. Mariseya)
+  color: trippy
+  link: https://sounds.mailta.pe/465/track4.mp3
+track5:
+  title: Grupo Pilon - Liberdadi
+  color: trippy
+  link: https://sounds.mailta.pe/465/track5.mp3
+track6:
+  title: Aura Safari - Niagara
+  color: bliss
+  link: https://sounds.mailta.pe/465/track6.mp3
+track7:
+  title: Florence Adooni - Mam Pe'ela Su'ure
+  color: vibrant
+  link: https://sounds.mailta.pe/465/track7.mp3
 ---
  This morning, the sun has never shone so brightly. Rotterdam-based musician and producer [Arp Frique](https://arpfrique.bandcamp.com/) is welcoming MailTape in his colourful world! 
 <br><br>

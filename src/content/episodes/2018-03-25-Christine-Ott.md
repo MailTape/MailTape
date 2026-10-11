@@ -1,40 +1,48 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Sanjay Mistry
 illustrator: Camille Célestin
 writer: Sanjay Mistry
-category: '305'
+category: "305"
 guest_name: Christine Ott
 guest_color: dreamy
-track1_link: https://sounds.mailta.pe/305/track1.mp3
-track2_link: https://sounds.mailta.pe/305/track2.mp3
-track3_link: https://sounds.mailta.pe/305/track3.mp3
-track4_link: https://sounds.mailta.pe/305/track4.mp3
-track5_link: https://sounds.mailta.pe/305/track5.mp3
-track6_link: https://sounds.mailta.pe/305/track6.mp3
-track7_link: https://sounds.mailta.pe/305/track7.mp3
-track1_title: Rachel Grimes – The Air in Time
-track1_color: bliss
-track2_title: David Lang by Bang on a Can – Cheating, Lying, Stealing
-track2_color: dreamy
-track3_title: Fink – Looking Too Closely
-track3_color: vibrant
-track4_title: Christine Ott – Szczecin
-track4_color: bliss
-track5_title: Littleboat – ARC
-track5_color: dreamy
-track6_title: Mary Lattimore – The Quiet At Night
-track6_color: bliss
-track7_title: ' Saltland – ICA'
-track7_color: dreamy
 episode_URL: http://mailta.pe/305/christine-ott/
 guestPic: guestPic305.jpg
 musiColor: musiColor305.png
 image: https://www.mailta.pe/img/fbPic305.jpg
-description: Based in Strasbourg and only one of a tiny handful of performers on the ondes Martenot, this Sunday morning we welcome Christine Ott to collaborate with us on MailTape.
-pubDate: '2018-03-25'
+description: Based in Strasbourg and only one of a tiny handful of performers on
+  the ondes Martenot, this Sunday morning we welcome Christine Ott to
+  collaborate with us on MailTape.
+pubDate: 2018-03-25
+track1:
+  title: Rachel Grimes – The Air in Time
+  color: bliss
+  link: https://sounds.mailta.pe/305/track1.mp3
+track2:
+  title: David Lang by Bang on a Can – Cheating, Lying, Stealing
+  color: dreamy
+  link: https://sounds.mailta.pe/305/track2.mp3
+track3:
+  title: Fink – Looking Too Closely
+  color: vibrant
+  link: https://sounds.mailta.pe/305/track3.mp3
+track4:
+  title: Christine Ott – Szczecin
+  color: bliss
+  link: https://sounds.mailta.pe/305/track4.mp3
+track5:
+  title: Littleboat – ARC
+  color: dreamy
+  link: https://sounds.mailta.pe/305/track5.mp3
+track6:
+  title: Mary Lattimore – The Quiet At Night
+  color: bliss
+  link: https://sounds.mailta.pe/305/track6.mp3
+track7:
+  title: " Saltland – ICA"
+  color: dreamy
+  link: https://sounds.mailta.pe/305/track7.mp3
 ---
 Based in Strasbourg and only one of a tiny handful of performers on the ondes Martenot, this Sunday morning we welcome [Christine Ott](http://www.christineott.fr/) to collaborate with us on MailTape.
 <p>Toying with mood and tone with practiced ease in her own work, Christine has also been an integral part of Yann Tiersen's band and has collaborated with the likes of Radiohead, Tindersticks, Syd Matters, Daau, Raphelson, Noir Désir, Vénus, Oiseaux-Tempête and Foudre! over the past two decades.

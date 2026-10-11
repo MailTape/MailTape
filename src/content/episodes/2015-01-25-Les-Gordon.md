@@ -1,39 +1,46 @@
 ---
-
 published: true
 author: Olivier
 guest_color: vibrant
-bigTitle_font_ratio: '6'
-bigTitle_line_ratio: '1'
-track1_color: bliss
-track2_color: rough
-track3_color: dreamy
-track4_color: vibrant
-track5_color: dreamy
-track6_color: vibrant
-track7_color: dreamy
-category: '170'
+bigTitle_font_ratio: "6"
+bigTitle_line_ratio: "1"
+category: "170"
 guest_name: Les Gordon
-track1_link: https://sounds.mailta.pe/170/track1.mp3
-track2_link: https://sounds.mailta.pe/170/track2.mp3
-track3_link: https://sounds.mailta.pe/170/track3.mp3
-track4_link: https://sounds.mailta.pe/170/track4.mp3
-track5_link: https://sounds.mailta.pe/170/track5.mp3
-track6_link: https://sounds.mailta.pe/170/track6.mp3
-track7_link: https://sounds.mailta.pe/170/track7.mp3
-track1_title: Imagined Herbal Flows - Clouds
-track2_title: 123Mrk - Pleasure
-track3_title: Marika Hackman - O'Come, O'Come, Emmanuel
-track4_title: Les Gordon - Matisse
-track6_title: Esta - Luna
-track7_title: Monsoonsiren - Sullen Fables
-track5_title: Tropics - Blame
 episode_URL: http://mailta.pe/170/Les-Gordon/
-description: 'This Sunday, we bring you an amalgam of ambient  and downtempo with our newly found French artist, Les Gordon. '
+description: "This Sunday, we bring you an amalgam of ambient  and downtempo
+  with our newly found French artist, Les Gordon. "
 guestPic: guestPic170.jpg
 image: https://www.mailta.pe/img/fbPic170.jpg
 musiColor: musiColor170.png
-pubDate: '2015-01-25'
+pubDate: 2015-01-25
+track1:
+  title: Imagined Herbal Flows - Clouds
+  color: bliss
+  link: https://sounds.mailta.pe/170/track1.mp3
+track2:
+  title: 123Mrk - Pleasure
+  color: rough
+  link: https://sounds.mailta.pe/170/track2.mp3
+track3:
+  title: Marika Hackman - O'Come, O'Come, Emmanuel
+  color: dreamy
+  link: https://sounds.mailta.pe/170/track3.mp3
+track4:
+  title: Les Gordon - Matisse
+  color: vibrant
+  link: https://sounds.mailta.pe/170/track4.mp3
+track5:
+  title: Tropics - Blame
+  color: dreamy
+  link: https://sounds.mailta.pe/170/track5.mp3
+track6:
+  title: Esta - Luna
+  color: vibrant
+  link: https://sounds.mailta.pe/170/track6.mp3
+track7:
+  title: Monsoonsiren - Sullen Fables
+  color: dreamy
+  link: https://sounds.mailta.pe/170/track7.mp3
 ---
 
 This Sunday, we bring you an amalgam of ambient  and downtempo with our newly found French artist, [Les Gordon](https://fr-fr.facebook.com/pages/Les-Gordon/279442925425521 "Les Gordon on Facebook").

@@ -1,40 +1,50 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Sarah
-category: '419'
+category: "419"
 guest_name: Salarymen
 guest_color: vibrant
-track1_title: Weyes Blood - Andromeda
-track2_title: The Lemon Twigs - Frank
-track3_title: Whitney - Golden Days
-track1_link: https://sounds.mailta.pe/419/track1.mp3
-track3_link: https://sounds.mailta.pe/419/track3.mp3
-track1_color: dreamy
-track3_color: vibrant
-track2_link: https://sounds.mailta.pe/419/track2.mp3
-track2_color: trippy
-track4_link: https://sounds.mailta.pe/419/track4.mp3
-track4_title: Salarymen - Runaway
-track4_color: vibrant
-track6_title: Laraaji - Laws of Manifestation
-track6_color: trippy
-track5_title: Caitlin Harnett - Make You Feel Blue
-track5_color: vibrant
-track5_link: https://sounds.mailta.pe/419/track5.mp3
-track7_link: https://sounds.mailta.pe/419/track7.mp3
-track7_title: Chico Bernardes - Me Encontrar
-track7_color: dreamy
-track6_link: https://sounds.mailta.pe/419/track6.mp3
 guestPic: guestPic419.jpg
 image: https://www.mailta.pe/img/fbPic419.png
 musiColor: musiColor419.png
 episode_URL: http://mailta.pe/419/Salarymen/
 illustrator: Pierre-Julien Fieux
 writer: Sarah
-description: We are delighted  to welcome Salarymen to host the first MailTape episode of October! Based in Sydney, Salarymen effortlessly blends retro influences into their music, never scraping on their own authentic sound. Salarymen brings to MailTape a dynamic selection sure to energize and refresh your Sunday morning.
-pubDate: '2020-10-04'
+description: We are delighted  to welcome Salarymen to host the first MailTape
+  episode of October! Based in Sydney, Salarymen effortlessly blends retro
+  influences into their music, never scraping on their own authentic sound.
+  Salarymen brings to MailTape a dynamic selection sure to energize and refresh
+  your Sunday morning.
+pubDate: 2020-10-04
+track1:
+  title: Weyes Blood - Andromeda
+  color: dreamy
+  link: https://sounds.mailta.pe/419/track1.mp3
+track2:
+  title: The Lemon Twigs - Frank
+  color: trippy
+  link: https://sounds.mailta.pe/419/track2.mp3
+track3:
+  title: Whitney - Golden Days
+  color: vibrant
+  link: https://sounds.mailta.pe/419/track3.mp3
+track4:
+  title: Salarymen - Runaway
+  color: vibrant
+  link: https://sounds.mailta.pe/419/track4.mp3
+track5:
+  title: Caitlin Harnett - Make You Feel Blue
+  color: vibrant
+  link: https://sounds.mailta.pe/419/track5.mp3
+track6:
+  title: Laraaji - Laws of Manifestation
+  color: trippy
+  link: https://sounds.mailta.pe/419/track6.mp3
+track7:
+  title: Chico Bernardes - Me Encontrar
+  color: dreamy
+  link: https://sounds.mailta.pe/419/track7.mp3
 ---
 We are delighted  to welcome [Salarymen](https://salarymen.bandcamp.com/) to host the first MailTape episode of October! Based in Sydney, Salarymen effortlessly blends retro influences into their music, never scraping on their own authentic sound. Salarymen brings to MailTape a dynamic selection sure to energize and refresh your Sunday morning. 
 

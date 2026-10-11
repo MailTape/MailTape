@@ -1,40 +1,51 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
-track1_title: Grandaddy - The Crystal Lake
-track1_color: dreamy
-track2_title: Andy Shauf - Early to the Party
-track2_color: dreamy
-track3_title: Kraftwerk - It's More Fun to Compute
-track3_color: trippy
-track4_color: trippy
-track5_color: dreamy
-track6_color: vibrant
-track7_color: trippy
-category: '495'
+category: "495"
 illustrator: Meriam Kharbat
 writer: Sarah
 author: Sarah
 guest_name: The Lazy Eyes
 guest_color: trippy
 guestPic: guestPic495.jpg
-track4_link: https://sounds.mailta.pe/495/track4.mp3
-track7_link: https://sounds.mailta.pe/495/track7.mp3
-track4_title: The Lazy Eyes - Cheesy Love Song
-track7_title: The Lazy Eyes - Where's My Brain???
-track5_link: https://sounds.mailta.pe/495/track5.mp3
-track6_link: https://sounds.mailta.pe/495/track6.mp3
-track6_title: INO hidefumi - スカイツリー / Skytree
-track5_title: Janko Nilovic and the Soul Surfers - Psychic Powers
 episode_URL: http://mailta.pe/495/The-Lazy-Eyes/
-track3_link: https://sounds.mailta.pe/495/track3.mp3
-track2_link: https://sounds.mailta.pe/495/track2.mp3
-track1_link: https://sounds.mailta.pe/495/track1.mp3
 image: https://www.mailta.pe/img/fbPic495.png
-description: 'This morning, we''re delighted to welcome The Lazy Eyes to MailTape for a Sunday selection of smooth moving tracks. Based in Sydney, the psychedelic rock group features Harvey Geraghty on vocals, guitar, and keyboard; Italy Sasha on vocals and guitar; Leon Karagic on bass; and Noah Martin on drums. The band joins us following the release of their 2022 debut album SongBook, a world warp of smooth and experimental psychedelic grooves. '
+description: "This morning, we're delighted to welcome The Lazy Eyes to MailTape
+  for a Sunday selection of smooth moving tracks. Based in Sydney, the
+  psychedelic rock group features Harvey Geraghty on vocals, guitar, and
+  keyboard; Italy Sasha on vocals and guitar; Leon Karagic on bass; and Noah
+  Martin on drums. The band joins us following the release of their 2022 debut
+  album SongBook, a world warp of smooth and experimental psychedelic grooves. "
 musiColor: musiColor495.png
-pubDate: '2022-05-29'
+pubDate: 2022-05-29
+track1:
+  title: Grandaddy - The Crystal Lake
+  color: dreamy
+  link: https://sounds.mailta.pe/495/track1.mp3
+track2:
+  title: Andy Shauf - Early to the Party
+  color: dreamy
+  link: https://sounds.mailta.pe/495/track2.mp3
+track3:
+  title: Kraftwerk - It's More Fun to Compute
+  color: trippy
+  link: https://sounds.mailta.pe/495/track3.mp3
+track4:
+  title: The Lazy Eyes - Cheesy Love Song
+  color: trippy
+  link: https://sounds.mailta.pe/495/track4.mp3
+track5:
+  title: Janko Nilovic and the Soul Surfers - Psychic Powers
+  color: dreamy
+  link: https://sounds.mailta.pe/495/track5.mp3
+track6:
+  title: INO hidefumi - スカイツリー / Skytree
+  color: vibrant
+  link: https://sounds.mailta.pe/495/track6.mp3
+track7:
+  title: The Lazy Eyes - Where's My Brain???
+  color: trippy
+  link: https://sounds.mailta.pe/495/track7.mp3
 ---
 This morning, we're delighted to welcome [The Lazy Eyes](https://thelazyeyes.com/) to MailTape for a Sunday selection of smooth moving trippy tracks to get the day moving. Based in Sydney, the psychedelic rock group features Harvey Geraghty on vocals, guitar, and keyboard; Italy Sasha on vocals and guitar; Leon Karagic on bass; and Noah Martin on drums. The band joins us following the release of their 2022 debut album [SongBook](https://thelazyeyes.bandcamp.com/album/songbook), a world warp of smooth and experimental psychedelic grooves.
 

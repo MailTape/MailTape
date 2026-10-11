@@ -1,39 +1,47 @@
 ---
-
 published: true
 author: ImaCrea
 guest_color: dreamy
-bigTitle_font_ratio: '5'
-bigTitle_line_ratio: '0.7'
-track1_color: dreamy
-track2_color: vibrant
-track3_color: trippy
-track4_color: dreamy
-track5_color: bliss
-track6_color: vibrant
-track7_color: dreamy
-category: '169'
+bigTitle_font_ratio: "5"
+bigTitle_line_ratio: "0.7"
+category: "169"
 guest_name: Elliot Moss
-track1_link: https://sounds.mailta.pe/169/track1.mp3
-track2_link: https://sounds.mailta.pe/169/track2.mp3
-track3_link: https://sounds.mailta.pe/169/track3.mp3
-track4_link: https://sounds.mailta.pe/169/track4.mp3
-track5_link: https://sounds.mailta.pe/169/track5.mp3
-track6_link: https://sounds.mailta.pe/169/track6.mp3
-track7_link: https://sounds.mailta.pe/169/track7.mp3
-track1_title: ' Apparat - Out Of Sight '
-track2_title: Mitski - I Will
-track3_title: Francesca Belmonte - Stole
-track4_title: Elliot Moss - Slip
-track5_title: Adult Jazz - Am Gone
-track6_title: Nick + Noah - Open for Consideration
-track7_title: Sean Nicholas Savage - Naturally
 guestPic: guestPic169.jpg
 image: https://www.mailta.pe/img/fbPic169b.jpg
 musiColor: musiColor169.png
 episode_URL: http://mailta.pe/169/Elliot-Moss/
-description: This morning, let the young talented Elliot Moss and his dreamy inspiration help us in our attempt to get over this hangover we’re all feeling since the 7th.
-pubDate: '2015-01-18'
+description: This morning, let the young talented Elliot Moss and his dreamy
+  inspiration help us in our attempt to get over this hangover we’re all feeling
+  since the 7th.
+pubDate: 2015-01-18
+track1:
+  title: " Apparat - Out Of Sight "
+  color: dreamy
+  link: https://sounds.mailta.pe/169/track1.mp3
+track2:
+  title: Mitski - I Will
+  color: vibrant
+  link: https://sounds.mailta.pe/169/track2.mp3
+track3:
+  title: Francesca Belmonte - Stole
+  color: trippy
+  link: https://sounds.mailta.pe/169/track3.mp3
+track4:
+  title: Elliot Moss - Slip
+  color: dreamy
+  link: https://sounds.mailta.pe/169/track4.mp3
+track5:
+  title: Adult Jazz - Am Gone
+  color: bliss
+  link: https://sounds.mailta.pe/169/track5.mp3
+track6:
+  title: Nick + Noah - Open for Consideration
+  color: vibrant
+  link: https://sounds.mailta.pe/169/track6.mp3
+track7:
+  title: Sean Nicholas Savage - Naturally
+  color: dreamy
+  link: https://sounds.mailta.pe/169/track7.mp3
 ---
 
 This morning, let the young talented [Elliot Moss](https://www.facebook.com/elliotmossmusic "Elliot's on Facebook") and his dreamy inspiration help us in our attempt to get over this hangover we’re all feeling since the 7th. The human brain is a strange thing filled with many secrets, sometimes capable of spreading beautiful light other times capable

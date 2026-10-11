@@ -1,40 +1,48 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Louise
 illustrator: Anais Caura
 writer: Louise
-category: '293'
+category: "293"
 guest_name: Aloïse Sauvage
 guest_color: dreamy
 guestPic: guestPic293-1.jpg
 episode_URL: http://mailta.pe/293/Aloise-Sauvage/
-track1_title: Nicholas Britell - End Credits Suite (Moonlight Soundtrack)
-track1_color: dreamy
-track2_title: Jaden Smith — E
-track2_color: vibrant
-track3_title: Feu! Chatterton — L'Ivresse
-track3_color: rough
-track4_title: Aloïse Sauvage — Ailleurs Higher
-track4_color: dreamy
-track1_link: https://sounds.mailta.pe/293/track1.mp3
-track2_link: https://sounds.mailta.pe/293/track2.mp3
-track3_link: https://sounds.mailta.pe/293/track3.mp3
-track4_link: https://sounds.mailta.pe/293/track4.mp3
 image: https://www.mailta.pe/img/fbPic293.png
 musiColor: musiColor293.png
-track5_link: https://sounds.mailta.pe/293/track5.mp3
-track6_link: https://sounds.mailta.pe/293/track6.mp3
-track7_link: https://sounds.mailta.pe/293/track7.mp3
-track7_title: rAHHH — Ends
-track7_color: dreamy
-track6_title: Baba Ali — Cog In The Wheel
-track6_color: vibrant
-track5_color: dreamy
-track5_title: Blu Samu — Latenight Freestyle
-description: 'This morning, it''s time to reflect on the past year. It''s a new milestone for MailTape: one more year of introducing you to the music we love, the music that inspires us — and hopefully, that inspires you.'
-pubDate: '2017-12-31'
+description: "This morning, it's time to reflect on the past year. It's a new
+  milestone for MailTape: one more year of introducing you to the music we love,
+  the music that inspires us — and hopefully, that inspires you."
+pubDate: 2017-12-31
+track1:
+  title: Nicholas Britell - End Credits Suite (Moonlight Soundtrack)
+  color: dreamy
+  link: https://sounds.mailta.pe/293/track1.mp3
+track2:
+  title: Jaden Smith — E
+  color: vibrant
+  link: https://sounds.mailta.pe/293/track2.mp3
+track3:
+  title: Feu! Chatterton — L'Ivresse
+  color: rough
+  link: https://sounds.mailta.pe/293/track3.mp3
+track4:
+  title: Aloïse Sauvage — Ailleurs Higher
+  color: dreamy
+  link: https://sounds.mailta.pe/293/track4.mp3
+track5:
+  title: Blu Samu — Latenight Freestyle
+  color: dreamy
+  link: https://sounds.mailta.pe/293/track5.mp3
+track6:
+  title: Baba Ali — Cog In The Wheel
+  color: vibrant
+  link: https://sounds.mailta.pe/293/track6.mp3
+track7:
+  title: rAHHH — Ends
+  color: dreamy
+  link: https://sounds.mailta.pe/293/track7.mp3
 ---
 This morning, it's time to reflect on the past year. 6 years that MailTape exists. One more year of introducing you to the music we love, the music that inspires us — and hopefully, that inspires you.
 <p>I'm delighted to offer you the last tape of 2017, especially with [Aloïse Sauvage](https://www.facebook.com/aloisesauvage/ "Aloïse Sauvage's Facebook page") as our guest. Aloïse Sauvage is my own revelation of the year. She released her first track in September, and her music has cast a spell on my brain. I'm glad to introduce you to this amazing artist.

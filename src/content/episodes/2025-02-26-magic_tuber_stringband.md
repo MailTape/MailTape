@@ -8,27 +8,6 @@ guestPic: guestpic578.jpg
 author: Sarah
 illustrator: Noémie Dijon
 writer: Sarah
-track1_title: Latin Playboys - Mustard
-track1_color: dreamy
-track1_link: https://sounds.mailta.pe/578/track1.mp3
-track2_title: Catherine Ribeiro + Alpes - Âme debout
-track2_color: vibrant
-track2_link: https://sounds.mailta.pe/578/track2.mp3
-track3_title: Baka Beyond / Baka Forest People - Venolouma
-track3_color: trippy
-track3_link: https://sounds.mailta.pe/578/track3.mp3
-track4_title: Magic Tuber Stringband - Piney Woods Burn
-track4_color: vibrant
-track4_link: https://sounds.mailta.pe/578/track4.mp3
-track5_title: Qwalia - Omega
-track5_color: vibrant
-track5_link: https://sounds.mailta.pe/578/track5.mp3
-track6_title: Magic Tuber Stringband - Ghost Pipe
-track6_color: dreamy
-track6_link: https://sounds.mailta.pe/578/track6.mp3
-track7_title: Weirs and Magic Tuber Stringband - Tunnel
-track7_color: trippy
-track7_link: https://sounds.mailta.pe/578/track7.mp3
 description: We're back ! This morning, we're absolutely delighted to welcome
   Magic Tuber Stringband for MailTape's first episode of the spring. Based in
   Durham, the band weaves itself into the Appalachian folk traditions,
@@ -38,6 +17,34 @@ description: We're back ! This morning, we're absolutely delighted to welcome
 episode_URL: https://www.mailta.pe/578/Magic-Tuber-Stringband/
 image: https://www.mailta.pe/img/fbPic578.jpg
 musiColor: musicolor578.png
+track1:
+  title: Latin Playboys - Mustard
+  color: dreamy
+  link: https://sounds.mailta.pe/578/track1.mp3
+track2:
+  title: Catherine Ribeiro + Alpes - Âme debout
+  color: vibrant
+  link: https://sounds.mailta.pe/578/track2.mp3
+track3:
+  title: Baka Beyond / Baka Forest People - Venolouma
+  color: trippy
+  link: https://sounds.mailta.pe/578/track3.mp3
+track4:
+  title: Magic Tuber Stringband - Piney Woods Burn
+  color: vibrant
+  link: https://sounds.mailta.pe/578/track4.mp3
+track5:
+  title: Qwalia - Omega
+  color: vibrant
+  link: https://sounds.mailta.pe/578/track5.mp3
+track6:
+  title: Magic Tuber Stringband - Ghost Pipe
+  color: dreamy
+  link: https://sounds.mailta.pe/578/track6.mp3
+track7:
+  title: Weirs and Magic Tuber Stringband - Tunnel
+  color: trippy
+  link: https://sounds.mailta.pe/578/track7.mp3
 ---
 We're back ! This morning, we're absolutely delighted to welcome [Magic Tuber Stringband ](https://magictuberstringband.bandcamp.com/album/needlefall)for MailTape's first episode of the spring. Based in Durham, the band weaves itself into the Appalachian folk traditions, re-enchanting these practices with unexpected noise and experimental textures. Magic Tuber Stringband members Evan Morgan, Mike DeVito, and Courtney Werner join us following the release of their latest album, [Needlefall](https://magictuberstringband.bandcamp.com/album/needlefall). 
 

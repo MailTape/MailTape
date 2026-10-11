@@ -1,20 +1,27 @@
 ---
-pubDate: '2021-10-23'
-bigTitle_font_ratio: '6'
+pubDate: 2021-10-23
+bigTitle_font_ratio: "6"
 published: false
 author: Sarah
 illustrator: Jason Pridham
 writer: Sarah
-category: '467'
+category: "467"
 guest_name: Janko Nilović
 guest_color: vibrant
-track1_color: vibrant
-track2_color: bliss
-track3_color: vibrant
-track4_color: trippy
-track5_color: vibrant
-track6_color: bliss
-track7_color: vibrant
+track1:
+  color: vibrant
+track2:
+  color: bliss
+track3:
+  color: vibrant
+track4:
+  color: trippy
+track5:
+  color: vibrant
+track6:
+  color: bliss
+track7:
+  color: vibrant
 ---
 <p id="introduction"> This morning, the sun has never shone so brightly. Rotterdam-based musician and producer [Arp Frique](https://arpfrique.bandcamp.com/) is welcoming MailTape in his colourful world! 
 <br><br>

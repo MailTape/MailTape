@@ -1,40 +1,48 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Sanjay Mistry
 illustrator: Anthony Dujardin
 writer: Sanjay Mistry
-category: '340'
+category: "340"
 guest_name: Analog Tara
 guest_color: vibrant
-track1_link: https://sounds.mailta.pe/340/track1.mp3
-track2_link: https://sounds.mailta.pe/340/track2.mp3
-track3_link: https://sounds.mailta.pe/340/track3.mp3
-track4_link: https://sounds.mailta.pe/340/track4.mp3
-track5_link: https://sounds.mailta.pe/340/track5.mp3
-track6_link: https://sounds.mailta.pe/340/track6.mp3
-track7_link: https://sounds.mailta.pe/340/track7.mp3
-track1_title: 'Sarah Vaughan – Autumn Leaves '
-track1_color: bliss
-track2_title: Moodymann – Sunday Morning
-track2_color: dreamy
-track3_title: 'Spiral Deluxe – The Paris Roulette '
-track3_color: trippy
-track4_title: Analog Tara – Pulse and Light
-track4_color: vibrant
-track5_title: Dawn of Midi – Algol
-track5_color: trippy
-track6_title: Jlin – Blue i
-track6_color: vibrant
-track7_title: Moor Mother – Time Floats (King Britt remix)
-track7_color: dreamy
 episode_URL: http://mailta.pe/340/analog-tara/
 guestPic: guestPic340.jpg
-description: This morning we are delighted to welcome multi-instrumentalist composer and historian of electronic music and sound, Dr. Tara Rodgers (Analog Tara)
+description: This morning we are delighted to welcome multi-instrumentalist
+  composer and historian of electronic music and sound, Dr. Tara Rodgers (Analog
+  Tara)
 musiColor: musiColor340.png
 image: https://www.mailta.pe/img/fbPic340.jpg
-pubDate: '2019-01-13'
+pubDate: 2019-01-13
+track1:
+  title: "Sarah Vaughan – Autumn Leaves "
+  color: bliss
+  link: https://sounds.mailta.pe/340/track1.mp3
+track2:
+  title: Moodymann – Sunday Morning
+  color: dreamy
+  link: https://sounds.mailta.pe/340/track2.mp3
+track3:
+  title: "Spiral Deluxe – The Paris Roulette "
+  color: trippy
+  link: https://sounds.mailta.pe/340/track3.mp3
+track4:
+  title: Analog Tara – Pulse and Light
+  color: vibrant
+  link: https://sounds.mailta.pe/340/track4.mp3
+track5:
+  title: Dawn of Midi – Algol
+  color: trippy
+  link: https://sounds.mailta.pe/340/track5.mp3
+track6:
+  title: Jlin – Blue i
+  color: vibrant
+  link: https://sounds.mailta.pe/340/track6.mp3
+track7:
+  title: Moor Mother – Time Floats (King Britt remix)
+  color: dreamy
+  link: https://sounds.mailta.pe/340/track7.mp3
 ---
 This morning we are delighted to welcome multi-instrumentalist composer and historian of electronic music and sound, Dr. Tara Rodgers ([Analog Tara](http://www.analogtara.net/wp/)). 
 <br><br>

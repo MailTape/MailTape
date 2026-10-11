@@ -1,40 +1,47 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Sanjay Mistry
 illustrator: Camille Célestin
 writer: Sanjay Mistry
-category: '373'
+category: "373"
 guest_name: Shida Shahabi
 guest_color: dreamy
-track1_link: https://sounds.mailta.pe/373/track1.mp3
-track2_link: https://sounds.mailta.pe/373/track2.mp3
-track3_link: https://sounds.mailta.pe/373/track3.mp3
-track4_link: https://sounds.mailta.pe/373/track4.mp3
-track5_link: https://sounds.mailta.pe/373/track5.mp3
-track6_link: https://sounds.mailta.pe/373/track6.mp3
-track7_link: https://sounds.mailta.pe/373/track7.mp3
-track1_title: Mayumi Miyata – 双調調子
-track1_color: bliss
-track2_title: Lamine Konté – Dioula
-track2_color: dreamy
-track3_title: Lotic – Solace
-track3_color: trippy
-track4_title: ' Shida Shahabi – Pretty In Plums'
-track4_color: dreamy
-track5_title: Emilie Levienaise-Farrouch – Strelka
-track5_color: bliss
-track6_title: Jatinder Singh Durhailay and David Edren – Tulsi
-track6_color: dreamy
-track7_title: Vanessa Wagner – Struggle For Pleasure (GAS Rework)
-track7_color: trippy
 episode_URL: https://www.mailta.pe/373/shida-shahabi/
-description: This morning we welcome the intimate and homespun piano of Stockholm-based pianist and composer, Shida Shahabi.
+description: This morning we welcome the intimate and homespun piano of
+  Stockholm-based pianist and composer, Shida Shahabi.
 guestPic: guestPic373.jpg
 image: https://www.mailta.pe/img/fbPic373.jpg
 musiColor: musiColor373.png
-pubDate: '2019-09-29'
+pubDate: 2019-09-29
+track1:
+  title: Mayumi Miyata – 双調調子
+  color: bliss
+  link: https://sounds.mailta.pe/373/track1.mp3
+track2:
+  title: Lamine Konté – Dioula
+  color: dreamy
+  link: https://sounds.mailta.pe/373/track2.mp3
+track3:
+  title: Lotic – Solace
+  color: trippy
+  link: https://sounds.mailta.pe/373/track3.mp3
+track4:
+  title: " Shida Shahabi – Pretty In Plums"
+  color: dreamy
+  link: https://sounds.mailta.pe/373/track4.mp3
+track5:
+  title: Emilie Levienaise-Farrouch – Strelka
+  color: bliss
+  link: https://sounds.mailta.pe/373/track5.mp3
+track6:
+  title: Jatinder Singh Durhailay and David Edren – Tulsi
+  color: dreamy
+  link: https://sounds.mailta.pe/373/track6.mp3
+track7:
+  title: Vanessa Wagner – Struggle For Pleasure (GAS Rework)
+  color: trippy
+  link: https://sounds.mailta.pe/373/track7.mp3
 ---
 This morning we welcome the intimate and homespun piano of Stockholm-based pianist and composer, [Shida Shahabi](https://shida-shahabi.bandcamp.com/).
 <br><br>

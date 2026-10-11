@@ -1,40 +1,50 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Inès
 illustrator: Pierre-Julien Fieux
 writer: Inès
-category: '296'
+category: "296"
 guest_name: Musique Chienne
 guest_color: trippy
-track1_link: https://sounds.mailta.pe/296/track1.mp3
-track2_link: https://sounds.mailta.pe/296/track2.mp3
-track3_link: https://sounds.mailta.pe/296/track3.mp3
-track4_link: https://sounds.mailta.pe/296/track4.mp3
-track5_link: https://sounds.mailta.pe/296/track5.mp3
-track6_link: https://sounds.mailta.pe/296/track6.mp3
-track7_link: https://sounds.mailta.pe/296/track7.mp3
-track1_title: Klaus Johann Grobe - Geschichten aus erster Hand
-track1_color: vibrant
-track2_title: WORLD BRAIN - Made U Cry
-track2_color: dreamy
-track3_title: Mammane Sani et son Orgue - Bodo (Anatolian Weapons Rework)
-track3_color: trippy
-track4_title: Musique Chienne - Gâteau aux oiseaux
-track4_color: trippy
-track5_title: Waterfall Person - I Wanna Go To The Dog Park See All My Friends
-track5_color: dreamy
-track6_title: Tainsus - Can't make sense of it all, can you?
-track6_color: bliss
-track7_title: OH MU - TOUT LE MONDE EST CONTENT ET VA À SA MAISON
-track7_color: vibrant
 guestPic: guestPic296.jpg
 musiColor: musiColor296.png
 image: https://www.mailta.pe/img/fbPic296.png
 episode_URL: https://www.mailta.pe/296/musique-chienne/
-description: This morning, please welcome Musique Chienne's sparkly selection! Musique Chienne is Sarah-Louise Barbett, a musician making "music for people and dog". In other words, she makes synth-based, percussive electronic, naive weird-but-good-weird music. So enter the psychedelic world of Musique Chienne, we hope you'll enjoy the trip!
-pubDate: '2018-01-21'
+description: This morning, please welcome Musique Chienne's sparkly selection!
+  Musique Chienne is Sarah-Louise Barbett, a musician making "music for people
+  and dog". In other words, she makes synth-based, percussive electronic, naive
+  weird-but-good-weird music. So enter the psychedelic world of Musique Chienne,
+  we hope you'll enjoy the trip!
+pubDate: 2018-01-21
+track1:
+  title: Klaus Johann Grobe - Geschichten aus erster Hand
+  color: vibrant
+  link: https://sounds.mailta.pe/296/track1.mp3
+track2:
+  title: WORLD BRAIN - Made U Cry
+  color: dreamy
+  link: https://sounds.mailta.pe/296/track2.mp3
+track3:
+  title: Mammane Sani et son Orgue - Bodo (Anatolian Weapons Rework)
+  color: trippy
+  link: https://sounds.mailta.pe/296/track3.mp3
+track4:
+  title: Musique Chienne - Gâteau aux oiseaux
+  color: trippy
+  link: https://sounds.mailta.pe/296/track4.mp3
+track5:
+  title: Waterfall Person - I Wanna Go To The Dog Park See All My Friends
+  color: dreamy
+  link: https://sounds.mailta.pe/296/track5.mp3
+track6:
+  title: Tainsus - Can't make sense of it all, can you?
+  color: bliss
+  link: https://sounds.mailta.pe/296/track6.mp3
+track7:
+  title: OH MU - TOUT LE MONDE EST CONTENT ET VA À SA MAISON
+  color: vibrant
+  link: https://sounds.mailta.pe/296/track7.mp3
 ---
 This morning, please welcome [Musique Chienne](https://www.facebook.com/musiquechienne/)'s sparkly selection! [Musique Chienne](https://www.facebook.com/musiquechienne/) is Sarah-Louise Barbett, a musician based in Marseille making "music for people and dog". In other words, she makes synth-based, percussive electronic, not-so-naive weird-but-good-weird music.
 <p>Her latest release, ["La Maison de Billy"](https://cheptelrecords.bandcamp.com/album/chptl-025-la-maison-de-billy), tells the daily life of a dog named Billy—through his own eyes. So enter the psychedelic world of [Musique Chienne](https://www.facebook.com/musiquechienne/), we hope you'll enjoy the trip.

@@ -1,40 +1,49 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Jules
 illustrator: Pierre-Julien Fieux
 writer: Jules
-category: '364'
+category: "364"
 guest_name: Bobby Oroza
 guest_color: vibrant
-track1_link: https://sounds.mailta.pe/364/track1.mp3
-track2_link: https://sounds.mailta.pe/364/track2.mp3
-track4_link: https://sounds.mailta.pe/364/track4.mp3
-track5_link: https://sounds.mailta.pe/364/track5.mp3
-track6_link: https://sounds.mailta.pe/364/track6.mp3
-track7_link: https://sounds.mailta.pe/364/track7.mp3
-track1_title: Chico Buarque - Olê, Olá
-track2_title: Gloria Ann Taylor - World That’s Not Real
-track3_title: Johnnie Frierson - Have You Been Good To Yourself
-track4_title: Bobby Oroza - This Love
-track4_color: vibrant
-track5_title: Jonah Yano & BADBADNOTGOOD - Nervous
-track6_title: Nilüfer Yanya - Melt
-track7_title: Intellexual - Boca
-track7_color: bliss
-track6_color: vibrant
-track5_color: dreamy
-track1_color: dreamy
-track2_color: vibrant
-track3_color: rough
 episode_URL: https://www.mailta.pe/364/bobby-oroza/
-track3_link: https://sounds.mailta.pe/364/track3.mp3
-description: This morning, whether on sunny beaches, palm groves or lush oases, or just enjoying a fine breakfast in your bed, allow yourself to be soothed by a strange and unique shade of Soul born in Finland but balancing international influences, with Bobby Oroza.
+description: This morning, whether on sunny beaches, palm groves or lush oases,
+  or just enjoying a fine breakfast in your bed, allow yourself to be soothed by
+  a strange and unique shade of Soul born in Finland but balancing international
+  influences, with Bobby Oroza.
 guestPic: guestPic364-1.jpg
 image: https://www.mailta.pe/img/fbPic364.png
 musiColor: musiColor364.png
-pubDate: '2019-06-30'
+pubDate: 2019-06-30
+track1:
+  title: Chico Buarque - Olê, Olá
+  color: dreamy
+  link: https://sounds.mailta.pe/364/track1.mp3
+track2:
+  title: Gloria Ann Taylor - World That’s Not Real
+  color: vibrant
+  link: https://sounds.mailta.pe/364/track2.mp3
+track3:
+  title: Johnnie Frierson - Have You Been Good To Yourself
+  color: rough
+  link: https://sounds.mailta.pe/364/track3.mp3
+track4:
+  title: Bobby Oroza - This Love
+  color: vibrant
+  link: https://sounds.mailta.pe/364/track4.mp3
+track5:
+  title: Jonah Yano & BADBADNOTGOOD - Nervous
+  color: dreamy
+  link: https://sounds.mailta.pe/364/track5.mp3
+track6:
+  title: Nilüfer Yanya - Melt
+  color: vibrant
+  link: https://sounds.mailta.pe/364/track6.mp3
+track7:
+  title: Intellexual - Boca
+  color: bliss
+  link: https://sounds.mailta.pe/364/track7.mp3
 ---
  This morning, whether on sunny beaches, palm groves or lush oases, or just enjoying a fine breakfast in your bed, allow yourself to be soothed by a strange and unique shade of Soul born in Finland but balancing international influences.
 <br><br>

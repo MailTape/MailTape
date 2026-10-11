@@ -1,28 +1,8 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
-track1_link: https://sounds.mailta.pe/442/track1.mp3
-track2_link: https://sounds.mailta.pe/442/track2.mp3
-track3_link: https://sounds.mailta.pe/442/track3.mp3
-track1_title: Tom Zé - Toc
-track2_title: Peter Evans - Chorales
-track3_title: Jameszoo - Flake
-track1_color: vibrant
-track2_color: trippy
-track3_color: trippy
-track4_link: https://sounds.mailta.pe/442/track4.mp3
-track4_color: vibrant
-track4_title: Thijsenterprise - El Arriero
-track6_link: https://sounds.mailta.pe/442/track6.mp3
-track5_color: trippy
-track6_color: trippy
-track6_title: Triorität - Bonopo
-track5_link: https://sounds.mailta.pe/442/track5.mp3
-track5_title: Rahsaan Roland Kirk - Ain't No Sunshine
-track7_color: vibrant
 guest_name: Thijsenterprise
-category: '442'
+category: "442"
 illustrator: Camille Célestin
 author: Sarah
 writer: Sarah
@@ -30,11 +10,39 @@ guest_color: vibrant
 guestPic: guestPic442.jpg
 image: https://www.mailta.pe/img/fbPic442.png
 musiColor: musiColor442.png
-track7_link: https://sounds.mailta.pe/442/track7.mp3
-track7_title: Gábor Szabó - Fire Dance
 episode_URL: http://mailta.pe/442/Thijsenterprise/
-description: We are delighted to welcome Thijsenterprise to MailTape for a Sunday morning selection of tracks that explore non-traditional structures, each inspirations to Thijsenterprise in his life and projects.
-pubDate: '2021-03-14'
+description: We are delighted to welcome Thijsenterprise to MailTape for a
+  Sunday morning selection of tracks that explore non-traditional structures,
+  each inspirations to Thijsenterprise in his life and projects.
+pubDate: 2021-03-14
+track1:
+  title: Tom Zé - Toc
+  color: vibrant
+  link: https://sounds.mailta.pe/442/track1.mp3
+track2:
+  title: Peter Evans - Chorales
+  color: trippy
+  link: https://sounds.mailta.pe/442/track2.mp3
+track3:
+  title: Jameszoo - Flake
+  color: trippy
+  link: https://sounds.mailta.pe/442/track3.mp3
+track4:
+  title: Thijsenterprise - El Arriero
+  color: vibrant
+  link: https://sounds.mailta.pe/442/track4.mp3
+track5:
+  title: Rahsaan Roland Kirk - Ain't No Sunshine
+  color: trippy
+  link: https://sounds.mailta.pe/442/track5.mp3
+track6:
+  title: Triorität - Bonopo
+  color: trippy
+  link: https://sounds.mailta.pe/442/track6.mp3
+track7:
+  title: Gábor Szabó - Fire Dance
+  color: vibrant
+  link: https://sounds.mailta.pe/442/track7.mp3
 ---
 
 

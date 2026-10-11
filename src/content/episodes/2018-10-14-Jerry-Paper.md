@@ -1,40 +1,48 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Inès
 illustrator: Camille Célestin
 writer: Inès
-category: '327'
+category: "327"
 guest_name: Jerry Paper
 guest_color: trippy
-track1_link: https://sounds.mailta.pe/327/track1.mp3
-track3_link: https://sounds.mailta.pe/327/track3.mp3
-track4_link: https://sounds.mailta.pe/327/track4.mp3
-track5_link: https://sounds.mailta.pe/327/track5.mp3
-track6_link: https://sounds.mailta.pe/327/track6.mp3
-track7_link: https://sounds.mailta.pe/327/track7.mp3
-track1_title: Matty - Every Moment I Live to Come
-track1_color: bliss
-track2_title: Noah Wall - John Cage Laughing
-track2_color: trippy
-track3_title: Macula Dog - I Make Lake
-track3_color: trippy
-track4_title: Jerry Paper - Halfway Zen
-track4_color: trippy
-track5_title: yungatita - Bedroom
-track5_color: dreamy
-track6_title: Ross From Friends - John Cage
-track6_color: bliss
-track7_title: Avventur - Lise
-track7_color: trippy
 guestPic: guestPic327.jpg
-description: 'This morning, please welcome Jerry Paper''s eclectic selection. His music is multi-faceted. It''s witty and stays graceful at all times. Are you ready to enter Jerry Paper’s musical multiverse? '
+description: "This morning, please welcome Jerry Paper's eclectic selection. His
+  music is multi-faceted. It's witty and stays graceful at all times. Are you
+  ready to enter Jerry Paper’s musical multiverse? "
 episode_URL: https://www.mailta.pe/327/jerry-paper/
 image: https://www.mailta.pe/img/fbPic327.png
 musiColor: musiColor327.png
-track2_link: https://sounds.mailta.pe/327/track2.mp3
-pubDate: '2018-10-14'
+pubDate: 2018-10-14
+track1:
+  title: Matty - Every Moment I Live to Come
+  color: bliss
+  link: https://sounds.mailta.pe/327/track1.mp3
+track2:
+  title: Noah Wall - John Cage Laughing
+  color: trippy
+  link: https://sounds.mailta.pe/327/track2.mp3
+track3:
+  title: Macula Dog - I Make Lake
+  color: trippy
+  link: https://sounds.mailta.pe/327/track3.mp3
+track4:
+  title: Jerry Paper - Halfway Zen
+  color: trippy
+  link: https://sounds.mailta.pe/327/track4.mp3
+track5:
+  title: yungatita - Bedroom
+  color: dreamy
+  link: https://sounds.mailta.pe/327/track5.mp3
+track6:
+  title: Ross From Friends - John Cage
+  color: bliss
+  link: https://sounds.mailta.pe/327/track6.mp3
+track7:
+  title: Avventur - Lise
+  color: trippy
+  link: https://sounds.mailta.pe/327/track7.mp3
 ---
 This morning, please welcome [Jerry Paper](https://jerrypaper.bandcamp.com/)'s eclectic selection. Jerry Paper is Lucas Nathan, an American artist from Los Angeles. Jerry Paper's music is multi-faceted: quirky, cartoonish, dystopian, out-of-this-world, melancholic, ironic. It's witty and stays graceful at all times. Jerry Paper released their latest album two days ago, [check it out](https://www.stonesthrow.com/store/album/jerrypaper/like-a-baby). 
 <br><br>

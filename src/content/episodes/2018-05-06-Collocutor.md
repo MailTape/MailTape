@@ -1,40 +1,48 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Sanjay Mistry
 illustrator: Pierre-Julien Fieux
 writer: Sanjay Mistry
-category: '311'
+category: "311"
 guest_name: Tamar Osborn
 guest_color: dreamy
-track1_link: https://sounds.mailta.pe/311/track1.mp3
-track2_link: https://sounds.mailta.pe/311/track2.mp3
-track3_link: https://sounds.mailta.pe/311/track3.mp3
-track4_link: https://sounds.mailta.pe/311/track4.mp3
-track6_link: https://sounds.mailta.pe/311/track6.mp3
-track5_link: https://sounds.mailta.pe/311/track5.mp3
-track1_title: 'Khyam Allami – Tawazon I: Balance خيّام اللامي - توازن'
-track1_color: bliss
-track2_title: Aditya Prakash Ensemble – Untruth to Truth
-track2_color: dreamy
-track3_title: 'Hermeto Pascoal & Grupo Vice Versa – Dança Do Paje '
-track3_color: trippy
-track4_title: Collocutor – Archaic Morning
-track4_color: vibrant
-track5_title: Maya Youssef – The Sea
-track5_color: dreamy
-track6_title: Rishii Chowdhury & Roopa Panesar – Birdsong and Music Composition
-track6_color: dreamy
-track7_title: Cecil Taylor Quartet – African Violets
-track7_color: trippy
 episode_URL: http://mailta.pe/311/collocutor/
-track7_link: https://sounds.mailta.pe/311/track7.mp3
 guestPic: guestPic311.jpg
 musiColor: musiColor311.png
 image: https://www.mailta.pe/img/fbPic311.jpg
-description: This morning we welcome saxophonist and flautist, Tamar Osborn, who leads the seven-piece horn-led collective, Collocutor, in the vanguard of London’s thriving music scene.
-pubDate: '2018-05-06'
+description: This morning we welcome saxophonist and flautist, Tamar Osborn, who
+  leads the seven-piece horn-led collective, Collocutor, in the vanguard of
+  London’s thriving music scene.
+pubDate: 2018-05-06
+track1:
+  title: "Khyam Allami – Tawazon I: Balance خيّام اللامي - توازن"
+  color: bliss
+  link: https://sounds.mailta.pe/311/track1.mp3
+track2:
+  title: Aditya Prakash Ensemble – Untruth to Truth
+  color: dreamy
+  link: https://sounds.mailta.pe/311/track2.mp3
+track3:
+  title: "Hermeto Pascoal & Grupo Vice Versa – Dança Do Paje "
+  color: trippy
+  link: https://sounds.mailta.pe/311/track3.mp3
+track4:
+  title: Collocutor – Archaic Morning
+  color: vibrant
+  link: https://sounds.mailta.pe/311/track4.mp3
+track5:
+  title: Maya Youssef – The Sea
+  color: dreamy
+  link: https://sounds.mailta.pe/311/track5.mp3
+track6:
+  title: Rishii Chowdhury & Roopa Panesar – Birdsong and Music Composition
+  color: dreamy
+  link: https://sounds.mailta.pe/311/track6.mp3
+track7:
+  title: Cecil Taylor Quartet – African Violets
+  color: trippy
+  link: https://sounds.mailta.pe/311/track7.mp3
 ---
 This morning we welcome saxophonist and flautist, [Tamar Osborn](https://tamarosborn.com/), who leads the seven-piece horn-led collective, [Collocutor](https://collocutor.uk/), in the vanguard of London’s thriving music scene.
 <p>Their compositions draw inspiration from the many genres encountered over the course of a varied career, ranging from jazz, afrobeat, Indian classical and Ethiopian roots to polyphonic choral music and minimalism—the link being primarily modal music with a transportive effect.

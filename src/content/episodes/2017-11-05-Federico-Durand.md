@@ -1,40 +1,49 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: ImaCrea
-category: '285'
+category: "285"
 guest_name: Federico Durand
-track1_link: https://sounds.mailta.pe/285/track1.mp3
-track2_link: https://sounds.mailta.pe/285/track2.mp3
-track3_link: https://sounds.mailta.pe/285/track3.mp3
-track4_link: https://sounds.mailta.pe/285/track4.mp3
-track5_link: https://sounds.mailta.pe/285/track5.mp3
-track6_link: https://sounds.mailta.pe/285/track5.mp3
-track7_link: https://sounds.mailta.pe/285/track7.mp3
 guestPic: guestPic285b.jpg
-track1_color: bliss
-track2_color: dreamy
-track3_color: dreamy
-track4_color: dreamy
-track5_color: dreamy
-track6_color: bliss
-track7_color: vibrant
-track1_title: Reet Hendrikson - Meil aiaaarne tanavas
-track2_title: Chihei Hatakeyama - starlight and black echo
-track3_title: Steinbrüchel - 06
-track4_title: Federico Durand - La historia de la niña junco
-track5_title: Chapelier Fou - Oracle
-track6_title: Susumu Yokota - Zenmai
-track7_title: Geotic - Sunspell
 episode_URL: https://www.mailta.pe/285/federico-durand/
 illustrator: Camille Célestin
 writer: PS KY
 guest_color: dreamy
 image: https://www.mailta.pe/img/fbPic285.png
 musiColor: musiColor285.png
-description: This morning, our guest Federico Durand, from the New York-based music label 12k is inviting you to just “listen”, turn off the thinking box, let go of all interpretations. Do not attempt to analyze each sound. Just receive, simply. Let your eardrums engulf each note. Let go.
-pubDate: '2017-11-05'
+description: This morning, our guest Federico Durand, from the New York-based
+  music label 12k is inviting you to just “listen”, turn off the thinking box,
+  let go of all interpretations. Do not attempt to analyze each sound. Just
+  receive, simply. Let your eardrums engulf each note. Let go.
+pubDate: 2017-11-05
+track1:
+  title: Reet Hendrikson - Meil aiaaarne tanavas
+  color: bliss
+  link: https://sounds.mailta.pe/285/track1.mp3
+track2:
+  title: Chihei Hatakeyama - starlight and black echo
+  color: dreamy
+  link: https://sounds.mailta.pe/285/track2.mp3
+track3:
+  title: Steinbrüchel - 06
+  color: dreamy
+  link: https://sounds.mailta.pe/285/track3.mp3
+track4:
+  title: Federico Durand - La historia de la niña junco
+  color: dreamy
+  link: https://sounds.mailta.pe/285/track4.mp3
+track5:
+  title: Chapelier Fou - Oracle
+  color: dreamy
+  link: https://sounds.mailta.pe/285/track5.mp3
+track6:
+  title: Susumu Yokota - Zenmai
+  color: bliss
+  link: https://sounds.mailta.pe/285/track5.mp3
+track7:
+  title: Geotic - Sunspell
+  color: vibrant
+  link: https://sounds.mailta.pe/285/track7.mp3
 ---
 This morning, our guest [Federico Durand](https://federicodurand.bandcamp.com/), from the New York-based music label [12k](http://www.12k.com/about/) is inviting you to just “listen”, turn off the thinking box, let go of all interpretations. Do not attempt to analyze each sound. Just receive, simply. Let your eardrums engulf each note. Let go.
 

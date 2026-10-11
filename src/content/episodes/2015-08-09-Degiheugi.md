@@ -1,38 +1,49 @@
 ---
-
 published: true
 author: ImaCrea
 guest_color: vibrant
-bigTitle_font_ratio: '6'
-track1_color: dreamy
-track2_color: dreamy
-track3_color: vibrant
-track4_color: dreamy
-track5_color: trippy
-track6_color: bliss
-track7_color: vibrant
-category: '198'
+bigTitle_font_ratio: "6"
+category: "198"
 guest_name: Degiheugi
-track1_link: https://sounds.mailta.pe/198/track1.mp3
-track2_link: https://sounds.mailta.pe/198/track2.mp3
-track3_link: https://sounds.mailta.pe/198/track3.mp3
-track4_link: https://sounds.mailta.pe/198/track4.mp3
-track5_link: https://sounds.mailta.pe/198/track5.mp3
-track6_link: https://sounds.mailta.pe/198/track6.mp3
-track7_link: https://sounds.mailta.pe/198/track7.mp3
-track1_title: ' Jorge Ben Jor - Oba, la vem ela '
-track2_title: RJD2 - 420
-track3_title: Chinese Man - The Reminder
-track4_title: Degiheugi - Betty
-track5_title: Chick Corea - Armando's Rhumba
-track6_title: Joy! - Entrée
-track7_title: ' Fils Unique - My Girl(s)'
 guestPic: guestPic198.jpg
-description: 'This morning, get ready for a journey through a legendary wild forest known for its hidden gems. Let’s start our exploration with Degiheugi, master in the art of finding the best samples.   Keep your eyes opened, let the music flow feed your imagination and soon you’ll be able to see them. Shining from a little corner under a magic tree, these beats develop their full potential as your heart connects to their mystic waves. '
+description: "This morning, get ready for a journey through a legendary wild
+  forest known for its hidden gems. Let’s start our exploration with Degiheugi,
+  master in the art of finding the best samples.   Keep your eyes opened, let
+  the music flow feed your imagination and soon you’ll be able to see them.
+  Shining from a little corner under a magic tree, these beats develop their
+  full potential as your heart connects to their mystic waves. "
 musiColor: musiColor198.png
 image: https://www.mailta.pe/img/fbPic198.jpg
 episode_URL: http://mailta.pe/198/Degiheugi/
-pubDate: '2015-08-09'
+pubDate: 2015-08-09
+track1:
+  title: " Jorge Ben Jor - Oba, la vem ela "
+  color: dreamy
+  link: https://sounds.mailta.pe/198/track1.mp3
+track2:
+  title: RJD2 - 420
+  color: dreamy
+  link: https://sounds.mailta.pe/198/track2.mp3
+track3:
+  title: Chinese Man - The Reminder
+  color: vibrant
+  link: https://sounds.mailta.pe/198/track3.mp3
+track4:
+  title: Degiheugi - Betty
+  color: dreamy
+  link: https://sounds.mailta.pe/198/track4.mp3
+track5:
+  title: Chick Corea - Armando's Rhumba
+  color: trippy
+  link: https://sounds.mailta.pe/198/track5.mp3
+track6:
+  title: Joy! - Entrée
+  color: bliss
+  link: https://sounds.mailta.pe/198/track6.mp3
+track7:
+  title: " Fils Unique - My Girl(s)"
+  color: vibrant
+  link: https://sounds.mailta.pe/198/track7.mp3
 ---
 
 This morning, get ready for a journey through a legendary wild forest known for its hidden gems. Let’s start our exploration with [Degiheugi](https://www.facebook.com/degiheugi), master in the art of finding the best samples. <br><br>

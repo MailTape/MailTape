@@ -1,40 +1,58 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: ImaCrea
 illustrator: Meriam Kharbat
 writer: ImaCrea
-category: '528'
+category: "528"
 guest_name: The Humble Bee
 guest_color: bliss
 guestPic: guestPic528.png
-track1_title: Elisabeth Klinck - River
-track1_color: bliss
-track2_title: ROMANCE - Golden Slumbers
-track2_color: bliss
-track3_title: Clarice Jensen - BC
-track3_color: bliss
-track4_title: The Humble Bee - Murmur
-track4_color: bliss
-track5_title: Zonderwerk - Vuurfeest
-track5_color: bliss
-track6_title: De Leon - A4
-track6_color: bliss
-track7_title: Hania Rani - Mountains
-track7_color: bliss
 episode_URL: http://mailta.pe/528/the-humble-bee/
 image: https://www.mailta.pe/img/fbPic528.jpg
 musiColor: musiColor528.png
-track1_link: https://sounds.mailta.pe/528/track1.mp3
-track2_link: https://sounds.mailta.pe/528/track2.mp3
-track3_link: https://sounds.mailta.pe/528/track3.mp3
-track4_link: https://sounds.mailta.pe/528/track4.mp3
-track5_link: https://sounds.mailta.pe/528/track5.mp3
-track6_link: https://sounds.mailta.pe/528/track6.mp3
-track7_link: https://sounds.mailta.pe/528/track7.mp3
-description: This morning, I'd be delighted to continue our exploration of ambient music together, as you may have noticed my recent fascination with it. Lately, I find myself yearning for a serene and inviting atmosphere, a sanctuary from the chaos of everyday life. I'm honored we invite you to join us for a serene experience featuring our guest, The Humble Bee. This episode is filled with ambient music that will transport you to a place of calm and introspection. It's not just about listening; it's about truly immersing yourself in the moment. Whether you're admiring a beautiful landscape, taking a leisurely stroll through the countryside, expressing yourself through art, or simply enjoying the pleasure of cooking a delicious meal, each track acts as a gateway to a contemplative state of mind. It's a chance to reconnect with the world around us, to appreciate our place within it, and to find moments of peace and reflection.
-pubDate: '2023-05-28'
+description: This morning, I'd be delighted to continue our exploration of
+  ambient music together, as you may have noticed my recent fascination with it.
+  Lately, I find myself yearning for a serene and inviting atmosphere, a
+  sanctuary from the chaos of everyday life. I'm honored we invite you to join
+  us for a serene experience featuring our guest, The Humble Bee. This episode
+  is filled with ambient music that will transport you to a place of calm and
+  introspection. It's not just about listening; it's about truly immersing
+  yourself in the moment. Whether you're admiring a beautiful landscape, taking
+  a leisurely stroll through the countryside, expressing yourself through art,
+  or simply enjoying the pleasure of cooking a delicious meal, each track acts
+  as a gateway to a contemplative state of mind. It's a chance to reconnect with
+  the world around us, to appreciate our place within it, and to find moments of
+  peace and reflection.
+pubDate: 2023-05-28
+track1:
+  title: Elisabeth Klinck - River
+  color: bliss
+  link: https://sounds.mailta.pe/528/track1.mp3
+track2:
+  title: ROMANCE - Golden Slumbers
+  color: bliss
+  link: https://sounds.mailta.pe/528/track2.mp3
+track3:
+  title: Clarice Jensen - BC
+  color: bliss
+  link: https://sounds.mailta.pe/528/track3.mp3
+track4:
+  title: The Humble Bee - Murmur
+  color: bliss
+  link: https://sounds.mailta.pe/528/track4.mp3
+track5:
+  title: Zonderwerk - Vuurfeest
+  color: bliss
+  link: https://sounds.mailta.pe/528/track5.mp3
+track6:
+  title: De Leon - A4
+  color: bliss
+  link: https://sounds.mailta.pe/528/track6.mp3
+track7:
+  title: Hania Rani - Mountains
+  color: bliss
+  link: https://sounds.mailta.pe/528/track7.mp3
 ---
 
 This morning, I'd be delighted to continue our exploration of ambient music together, as you may have noticed my recent fascination with it. Lately, I find myself yearning for a serene and inviting atmosphere, a sanctuary from the chaos of everyday life.

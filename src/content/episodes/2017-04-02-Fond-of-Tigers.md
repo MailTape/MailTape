@@ -1,39 +1,46 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Sanjay Mistry
 illustrator: Pierre-Julien Fieux
-track1_link: https://sounds.mailta.pe/254/track1.mp3
-track2_link: https://sounds.mailta.pe/254/track2.mp3
-track3_link: https://sounds.mailta.pe/254/track3.mp3
-track4_link: https://sounds.mailta.pe/254/track4.mp3
-track5_link: https://sounds.mailta.pe/254/track5.mp3
-track7_link: https://sounds.mailta.pe/254/track7.mp3
-category: '254'
-track6_link: https://sounds.mailta.pe/254/track6.mp3
+category: "254"
 guest_name: Fond of Tigers
 guest_color: dreamy
-track1_title: Califone - Sunday Noises
-track1_color: bliss
-track2_title: Zammuto - Twelve Fold Chain
-track2_color: dreamy
-track3_title: Efterklang - Hollow Mountain
-track3_color: trippy
-track4_title: Fond of Tigers - Vitamin Meathawk
-track4_color: vibrant
-track5_title: Martin Arnold - The Coo-Coo Bird
-track5_color: dreamy
-track6_title: Saltland - Magnolia
-track6_color: bliss
-track7_title: Esmerine - The Neighbourhoods Rise
-track7_color: dreamy
 episode_URL: http://mailta.pe/254/Fond-of-Tigers/
 guestPic: guestPic254.jpg
 image: https://www.mailta.pe/img/fbPic254.jpg
 musiColor: musiColor254.png
-description: This morning Stephen Lyons of Vancouver-based septet, Fond of Tigers, lifts the fog and treats us to three unhurried and dreamy selections.
-pubDate: '2017-04-02'
+description: This morning Stephen Lyons of Vancouver-based septet, Fond of
+  Tigers, lifts the fog and treats us to three unhurried and dreamy selections.
+pubDate: 2017-04-02
+track1:
+  title: Califone - Sunday Noises
+  color: bliss
+  link: https://sounds.mailta.pe/254/track1.mp3
+track2:
+  title: Zammuto - Twelve Fold Chain
+  color: dreamy
+  link: https://sounds.mailta.pe/254/track2.mp3
+track3:
+  title: Efterklang - Hollow Mountain
+  color: trippy
+  link: https://sounds.mailta.pe/254/track3.mp3
+track4:
+  title: Fond of Tigers - Vitamin Meathawk
+  color: vibrant
+  link: https://sounds.mailta.pe/254/track4.mp3
+track5:
+  title: Martin Arnold - The Coo-Coo Bird
+  color: dreamy
+  link: https://sounds.mailta.pe/254/track5.mp3
+track6:
+  title: Saltland - Magnolia
+  color: bliss
+  link: https://sounds.mailta.pe/254/track6.mp3
+track7:
+  title: Esmerine - The Neighbourhoods Rise
+  color: dreamy
+  link: https://sounds.mailta.pe/254/track7.mp3
 ---
 This morning, Stephen Lyons of Vancouver-based septet, [Fond of Tigers](http://www.fondoftigers.com/), lifts the fog and treats us to three unhurried and dreamy selections. In his own words...
 <p>I generally start my days pretty slowly. The longer I can put off speaking, the better. No sudden movements.

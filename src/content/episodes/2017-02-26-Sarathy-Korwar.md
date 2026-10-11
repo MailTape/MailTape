@@ -1,39 +1,47 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
-track1_link: https://sounds.mailta.pe/249/track1.mp3
-track2_link: https://sounds.mailta.pe/249/track2.mp3
-track3_link: https://sounds.mailta.pe/249/track3.mp3
-track4_link: https://sounds.mailta.pe/249/track4.mp3
-track5_link: https://sounds.mailta.pe/249/track5.mp3
-track6_link: https://sounds.mailta.pe/249/track6.mp3
-track7_link: https://sounds.mailta.pe/249/track7.mp3
-category: '249'
+category: "249"
 author: Sanjay Mistry
 illustrator: Pierre-Julien Fieux
 guest_name: Sarathy Korwar
 guest_color: trippy
-track1_title: Cara Stacey - Dark Matter
-track1_color: dreamy
-track2_title: Maalem Mahmoud Guinia & Floating Points - Mimoun Marhaba
-track2_color: vibrant
-track3_title: Emanative - Hum Allah Hum Allah Hum Allah
-track3_color: trippy
-track4_title: Sarathy Korwar - Indefinite Leave to Remain
-track4_color: dreamy
-track5_title: Harriet Tubman - Probe
-track5_color: rough
-track6_title: Shabaka and the Ancestors - Natty
-track6_color: vibrant
-track7_title: Dafnis Prieto Si O Si Quaret - Si O Si
-track7_color: bliss
 episode_URL: https://www.mailta.pe/249/sarathy-korwar/
 guestPic: guestPic249.jpg
 image: https://www.mailta.pe/img/fbPic249.jpg
 musiColor: musiColor249.png
-description: This morning, transcend borders with mantras, untethered saxophones, keys, and an unfettered groove from our guest, percussionist and composer, Sarathy Korwar.
-pubDate: '2017-02-26'
+description: This morning, transcend borders with mantras, untethered
+  saxophones, keys, and an unfettered groove from our guest, percussionist and
+  composer, Sarathy Korwar.
+pubDate: 2017-02-26
+track1:
+  title: Cara Stacey - Dark Matter
+  color: dreamy
+  link: https://sounds.mailta.pe/249/track1.mp3
+track2:
+  title: Maalem Mahmoud Guinia & Floating Points - Mimoun Marhaba
+  color: vibrant
+  link: https://sounds.mailta.pe/249/track2.mp3
+track3:
+  title: Emanative - Hum Allah Hum Allah Hum Allah
+  color: trippy
+  link: https://sounds.mailta.pe/249/track3.mp3
+track4:
+  title: Sarathy Korwar - Indefinite Leave to Remain
+  color: dreamy
+  link: https://sounds.mailta.pe/249/track4.mp3
+track5:
+  title: Harriet Tubman - Probe
+  color: rough
+  link: https://sounds.mailta.pe/249/track5.mp3
+track6:
+  title: Shabaka and the Ancestors - Natty
+  color: vibrant
+  link: https://sounds.mailta.pe/249/track6.mp3
+track7:
+  title: Dafnis Prieto Si O Si Quaret - Si O Si
+  color: bliss
+  link: https://sounds.mailta.pe/249/track7.mp3
 ---
 This morning, transcend borders with mantras, untethered saxophones, keys, and an unfettered groove from our guest, percussionist and composer, [Sarathy Korwar](http://www.sarathykorwar.com/).
 

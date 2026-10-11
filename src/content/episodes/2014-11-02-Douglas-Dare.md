@@ -1,39 +1,49 @@
 ---
-
 published: true
 author: Ludovic
 guest_color: bliss
-bigTitle_font_ratio: '6'
-bigTitle_line_ratio: '1'
-track1_color: bliss
-track2_color: bliss
-track3_color: vibrant
-track4_color: bliss
-track5_color: vibrant
-track6_color: rough
-track7_color: rough
-category: '158'
+bigTitle_font_ratio: "6"
+bigTitle_line_ratio: "1"
+category: "158"
 guest_name: Douglas Dare
 guestPic: guestPic158.jpg
-track1_link: https://sounds.mailta.pe/158/track1.mp3
-track2_link: https://sounds.mailta.pe/158/track2.mp3
-track3_link: https://sounds.mailta.pe/158/track3.mp3
 episode_URL: http://mailta.pe/158/Douglas-Dare/
 image: https://www.mailta.pe/img/fbPic158.jpg
 musiColor: musiColor158.png
-track1_title: iamamiwhoami - Thin
-track2_title: Andy Stott - Violence
-track3_title: Buke and Gase - Seam Esteem
-track4_title: Douglas Dare - Caroline
-track4_link: https://sounds.mailta.pe/158/track4.mp3
-track5_title: Joy! - Utopia
-track5_link: https://sounds.mailta.pe/missingTrack.mp3
-track7_link: https://sounds.mailta.pe/158/track7.mp3
-track7_title: Audion Feat Troels Abrahamsen - Dem Howl
-track6_title: Hans Berg - Tucan Fever
-track6_link: https://sounds.mailta.pe/158/track6.mp3
-description: This morning, discover Douglas Dare. Douglas Dare grew up in the small coastal town of Bridport in South West England. Encouraged by his mother, a piano teacher, he began composing music at a very young age. He inspired us a dark and rough tape with with a few bright spots. Hope you'll like it.
-pubDate: '2014-11-02'
+description: This morning, discover Douglas Dare. Douglas Dare grew up in the
+  small coastal town of Bridport in South West England. Encouraged by his
+  mother, a piano teacher, he began composing music at a very young age. He
+  inspired us a dark and rough tape with with a few bright spots. Hope you'll
+  like it.
+pubDate: 2014-11-02
+track1:
+  title: iamamiwhoami - Thin
+  color: bliss
+  link: https://sounds.mailta.pe/158/track1.mp3
+track2:
+  title: Andy Stott - Violence
+  color: bliss
+  link: https://sounds.mailta.pe/158/track2.mp3
+track3:
+  title: Buke and Gase - Seam Esteem
+  color: vibrant
+  link: https://sounds.mailta.pe/158/track3.mp3
+track4:
+  title: Douglas Dare - Caroline
+  color: bliss
+  link: https://sounds.mailta.pe/158/track4.mp3
+track5:
+  title: Joy! - Utopia
+  color: vibrant
+  link: https://sounds.mailta.pe/missingTrack.mp3
+track6:
+  title: Hans Berg - Tucan Fever
+  color: rough
+  link: https://sounds.mailta.pe/158/track6.mp3
+track7:
+  title: Audion Feat Troels Abrahamsen - Dem Howl
+  color: rough
+  link: https://sounds.mailta.pe/158/track7.mp3
 ---
 
 

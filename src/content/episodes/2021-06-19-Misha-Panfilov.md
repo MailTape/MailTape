@@ -1,40 +1,50 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
-category: '456'
+category: "456"
 guest_name: Misha Panfilov
 guest_color: vibrant
 guestPic: guestPic456.jpg
 writer: Sarah
 illustrator: Jason Pridham
 author: Sarah
-track4_color: trippy
-track1_color: vibrant
-track2_color: dreamy
-track3_color: bliss
-track5_color: dreamy
-track6_color: vibrant
-track7_color: bliss
 musiColor: musiColor456.png
 image: https://www.mailta.pe/img/fbPic456.png
 episode_URL: http://mailta.pe/456/Misha-Panfilov/
-track1_title: Tim Hill - Payador
-track2_title: Jeffrey Silverstein - Door At The Top Of Your Head
-track3_title: Barry Walker Jr. - Shoulda Zenith
-track4_title: Misha Panfilov - Horizon
-track7_title: Paul Higgs & Chico Bernardes - Tramo Trompa
-track6_title: Thijsenterprise - YYY
-track5_title: Misha Panfilov - Belt Buckle
-track4_link: https://sounds.mailta.pe/456/track4.mp3
-track5_link: https://sounds.mailta.pe/456/track5.mp3
-track6_link: https://sounds.mailta.pe/456/track6.mp3
-track7_link: https://sounds.mailta.pe/456/track7.mp3
-track3_link: https://sounds.mailta.pe/456/track3.mp3
-track2_link: https://sounds.mailta.pe/456/track2.mp3
-track1_link: https://sounds.mailta.pe/456/track1.mp3
-description: We begin our Sunday morning with a cosmic cowboy selection of tracks led by our dear guest Misha Panfilov. Based in Tallinn, Estonia, Misha's music engages in the evolving cross section between folk, funk, jazz, and psychedelic music, not without influences from Soviet-era electronic music.
-pubDate: '2021-06-19'
+description: We begin our Sunday morning with a cosmic cowboy selection of
+  tracks led by our dear guest Misha Panfilov. Based in Tallinn, Estonia,
+  Misha's music engages in the evolving cross section between folk, funk, jazz,
+  and psychedelic music, not without influences from Soviet-era electronic
+  music.
+pubDate: 2021-06-19
+track1:
+  title: Tim Hill - Payador
+  color: vibrant
+  link: https://sounds.mailta.pe/456/track1.mp3
+track2:
+  title: Jeffrey Silverstein - Door At The Top Of Your Head
+  color: dreamy
+  link: https://sounds.mailta.pe/456/track2.mp3
+track3:
+  title: Barry Walker Jr. - Shoulda Zenith
+  color: bliss
+  link: https://sounds.mailta.pe/456/track3.mp3
+track4:
+  title: Misha Panfilov - Horizon
+  color: trippy
+  link: https://sounds.mailta.pe/456/track4.mp3
+track5:
+  title: Misha Panfilov - Belt Buckle
+  color: dreamy
+  link: https://sounds.mailta.pe/456/track5.mp3
+track6:
+  title: Thijsenterprise - YYY
+  color: vibrant
+  link: https://sounds.mailta.pe/456/track6.mp3
+track7:
+  title: Paul Higgs & Chico Bernardes - Tramo Trompa
+  color: bliss
+  link: https://sounds.mailta.pe/456/track7.mp3
 ---
 We begin our Sunday morning with a cosmic cowboy selection of tracks led by our dear guest [Misha Panfilov](https://mpsc.bandcamp.com/). Based in Tallinn, Estonia, Misha's music engages in the evolving cross section between folk, funk, jazz, and psychedelic music, not without influences from Soviet-era electronic music.
 

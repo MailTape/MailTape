@@ -8,30 +8,37 @@ guestPic: mp3_2.jpg
 author: Ling
 illustrator: Noémie Dijon
 writer: Ling
-track1_title: John Adams - The Chairman Dances (Foxtrot for Orchestra)
-track1_color: vibrant
-track1_link: https://sounds.mailta.pe/616/track1.mp3
-track2_title: Luis Bacalov - Il Grande Duello  (Parte Prima)
-track2_color: dreamy
-track2_link: https://sounds.mailta.pe/616/track2.mp3
-track3_title: The Sore Feet Song - Ally Kerr
-track3_color: bliss
-track3_link: https://sounds.mailta.pe/616/track3.mp3
-track4_title: Kings Of Convenience, Feist - Know How
-track4_color: bliss
-track4_link: https://sounds.mailta.pe/616/track4.mp3
-track5_title: 王菲 (Faye Wong) - Eyes On Me
-track5_color: dreamy
-track5_link: https://sounds.mailta.pe/616/track5.mp3
-track6_title: 王菲 (Faye Wong) - 香奈兒
-track6_color: trippy
-track6_link: https://sounds.mailta.pe/616/track6.mp3
-track7_title: Dakota Suite - All Your Hopes Gone Cold
-track7_color: dreamy
-track7_link: https://sounds.mailta.pe/616/track7.mp3
 description: ""
 episode_URL: https://www.mailta.pe/616/MP3-Nostalgia-2/
 musiColor: screenshot_2026-10-11_at_00.02.58.png
+track1:
+  title: John Adams - The Chairman Dances (Foxtrot for Orchestra)
+  color: vibrant
+  link: https://sounds.mailta.pe/616/track1.mp3
+track2:
+  title: Luis Bacalov - Il Grande Duello  (Parte Prima)
+  color: dreamy
+  link: https://sounds.mailta.pe/616/track2.mp3
+track3:
+  title: The Sore Feet Song - Ally Kerr
+  color: bliss
+  link: https://sounds.mailta.pe/616/track3.mp3
+track4:
+  title: Kings Of Convenience, Feist - Know How
+  color: bliss
+  link: https://sounds.mailta.pe/616/track4.mp3
+track5:
+  title: 王菲 (Faye Wong) - Eyes On Me
+  color: dreamy
+  link: https://sounds.mailta.pe/616/track5.mp3
+track6:
+  title: 王菲 (Faye Wong) - 香奈兒
+  color: trippy
+  link: https://sounds.mailta.pe/616/track6.mp3
+track7:
+  title: Dakota Suite - All Your Hopes Gone Cold
+  color: dreamy
+  link: https://sounds.mailta.pe/616/track7.mp3
 ---
 At Mailtape, we sometimes assume we're a bit old-fashioned, from the generation of Walkmans, those from the 90s, into which we'd put old cassettes, sometimes recorded ourselves. Then came portable CD players (with scratched CDs and those that skipped some parts), and then the first MP3 players. Since then, it's been a musical orgy. But some of us have kept the spirit of the MP3 player: carefully collecting fabulous tracks, downloading them, and listening to them on our little device, in various contexts, often intimate.
 

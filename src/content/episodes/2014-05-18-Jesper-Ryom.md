@@ -1,39 +1,48 @@
 ---
-
 published: true
 author: Ludovic
 guest_color: vibrant
-bigTitle_font_ratio: '6'
-bigTitle_line_ratio: '1'
-track1_color: dreamy
-track2_color: vibrant
-track3_color: rough
-track4_color: vibrant
-track5_color: bliss
-track6_color: vibrant
-track7_color: bliss
-category: '141'
+bigTitle_font_ratio: "6"
+bigTitle_line_ratio: "1"
+category: "141"
 guest_name: Jesper Ryom
 guestPic: guestPic141.jpg
-track1_link: https://sounds.mailta.pe/141/track1.mp3
-track2_link: https://sounds.mailta.pe/141/track2.mp3
-track3_link: https://sounds.mailta.pe/141/track3.mp3
-track4_link: https://sounds.mailta.pe/141/track4.mp3
-track5_link: https://sounds.mailta.pe/141/track5.mp3
-track6_link: https://sounds.mailta.pe/141/track6.mp3
-track7_link: https://sounds.mailta.pe/141/track7.mp3
-track1_title: Your Friend - Tame One
-track2_title: The War on Drugs - Red Eyes
-track3_title: Fort Romeau - Her Dream
-track4_title: Jesper Ryom - Viewpoint
-track5_title: Tom Misch - Understanding
-track6_title: Maudlin Strangers - Overdose
 episode_URL: http://mailta.pe/141/Jesper-Ryom/
-track7_title: Tom and Laura Misch - Follow
 image: https://www.mailta.pe/img/fbPic141.jpg
 musiColor: musiColor141.png
-description: his Morning, Jesper Ryom inspired us a mostly vibrant MailTape which we hope will help you enjoy your sunday morning. His selection is a combination of hidden indie jewels and a bit of heavy Berlin music. We've spiced it up with some bliss tracks. Enjoy!
-pubDate: '2014-05-18'
+description: his Morning, Jesper Ryom inspired us a mostly vibrant MailTape
+  which we hope will help you enjoy your sunday morning. His selection is a
+  combination of hidden indie jewels and a bit of heavy Berlin music. We've
+  spiced it up with some bliss tracks. Enjoy!
+pubDate: 2014-05-18
+track1:
+  title: Your Friend - Tame One
+  color: dreamy
+  link: https://sounds.mailta.pe/141/track1.mp3
+track2:
+  title: The War on Drugs - Red Eyes
+  color: vibrant
+  link: https://sounds.mailta.pe/141/track2.mp3
+track3:
+  title: Fort Romeau - Her Dream
+  color: rough
+  link: https://sounds.mailta.pe/141/track3.mp3
+track4:
+  title: Jesper Ryom - Viewpoint
+  color: vibrant
+  link: https://sounds.mailta.pe/141/track4.mp3
+track5:
+  title: Tom Misch - Understanding
+  color: bliss
+  link: https://sounds.mailta.pe/141/track5.mp3
+track6:
+  title: Maudlin Strangers - Overdose
+  color: vibrant
+  link: https://sounds.mailta.pe/141/track6.mp3
+track7:
+  title: Tom and Laura Misch - Follow
+  color: bliss
+  link: https://sounds.mailta.pe/141/track7.mp3
 ---
 
 

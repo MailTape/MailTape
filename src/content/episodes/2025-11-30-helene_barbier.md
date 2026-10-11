@@ -8,27 +8,6 @@ guestPic: helene_barbier.jpg
 author: Anto
 illustrator: Pierre-Julien Fieux
 writer: Anto
-track1_title: Melanie - People in the front row
-track1_color: vibrant
-track1_link: https://sounds.mailta.pe/599/track1.mp3
-track2_title: Randy Newman – Baltimore
-track2_color: bliss
-track2_link: https://sounds.mailta.pe/599/track2.mp3
-track3_title: Bilders - Wanganui With A White Face
-track3_color: trippy
-track3_link: https://sounds.mailta.pe/599/track3.mp3
-track4_title: Hélène Barbier – Water
-track4_color: bliss
-track4_link: https://sounds.mailta.pe/599/track4.mp3
-track5_title: Rozi Plain - Spot Thirteen
-track5_color: dreamy
-track5_link: https://sounds.mailta.pe/599/track5.mp3
-track6_title: Cindy Lee – Stone Faces
-track6_color: vibrant
-track6_link: https://sounds.mailta.pe/599/track6.mp3
-track7_title: Cate Le Bon – He’s leaving
-track7_color: bliss
-track7_link: https://sounds.mailta.pe/599/track7.mp3
 description: >
   This morning it’s the mist. We search in vain for a few rays of sunshine in a
   grey sky. And failing to find any, we listen to the latest MailTape selection,
@@ -36,10 +15,43 @@ description: >
   likely to brighten our day and give us good reasons to smile.
 
 
-  Today's weather woman is Hélène Barbier, a Montrealer who knows a thing or two about juggling melancholy and playfulness. A few days ago, she released her third, very personal album, an ode to these contrasting emotions. Emotions that stir us, as much as they make us feel alive, if only we listen. So, take a deep breath, and let's start by listening to this episode, made with lots of tenderness.
+  Today's weather woman is Hélène Barbier, a Montrealer who knows a thing or two
+  about juggling melancholy and playfulness. A few days ago, she released her
+  third, very personal album, an ode to these contrasting emotions. Emotions
+  that stir us, as much as they make us feel alive, if only we listen. So, take
+  a deep breath, and let's start by listening to this episode, made with lots of
+  tenderness.
 episode_URL: https://www.mailta.pe/599/Helene-Barbier/
 image: https://www.mailta.pe/img/fbPic599.png
 musiColor: musicolor599.png
+track1:
+  title: Melanie - People in the front row
+  color: vibrant
+  link: https://sounds.mailta.pe/599/track1.mp3
+track2:
+  title: Randy Newman – Baltimore
+  color: bliss
+  link: https://sounds.mailta.pe/599/track2.mp3
+track3:
+  title: Bilders - Wanganui With A White Face
+  color: trippy
+  link: https://sounds.mailta.pe/599/track3.mp3
+track4:
+  title: Hélène Barbier – Water
+  color: bliss
+  link: https://sounds.mailta.pe/599/track4.mp3
+track5:
+  title: Rozi Plain - Spot Thirteen
+  color: dreamy
+  link: https://sounds.mailta.pe/599/track5.mp3
+track6:
+  title: Cindy Lee – Stone Faces
+  color: vibrant
+  link: https://sounds.mailta.pe/599/track6.mp3
+track7:
+  title: Cate Le Bon – He’s leaving
+  color: bliss
+  link: https://sounds.mailta.pe/599/track7.mp3
 ---
 This morning it’s the mist. We search in vain for a few rays of sunshine in a grey sky. And failing to find any, we listen to the latest MailTape selection, because we know that there are bound to be some bright tracks hidden there, likely to brighten our day and give us good reasons to smile.
 

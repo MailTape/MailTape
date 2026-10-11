@@ -1,40 +1,49 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
-track1_link: https://sounds.mailta.pe/224/track1.mp3
-track2_link: https://sounds.mailta.pe/224/track2.mp3
-track3_link: https://sounds.mailta.pe/224/track3.mp3
-track4_link: https://sounds.mailta.pe/224/track4.mp3
 illustrator: Camille Célestin
 writer: PS KY
 author: Dimitri
 guest_name: Petit Biscuit
 guest_color: bliss
-category: '224'
+category: "224"
 episode_URL: https://www.mailta.pe/224/Petit-Biscuit/
 guestPic: guestPic224.jpg
-track1_title: Day Wave - Drag
-track1_color: bliss
-track2_title: Mura Masa - ...Girl
-track3_title: Flume - Take A Chance (ft. Little Dragon)
-track5_link: https://sounds.mailta.pe/224/track5.mp3
-track6_link: https://sounds.mailta.pe/224/track6.mp3
-track4_title: Petit Biscuit - Sunset Lover
-track6_title: VOLO - Shine
-track5_title: Opal - France
-track7_link: https://sounds.mailta.pe/224/track7.mp3
-track7_title: Polo & Pan - Nanä
-track7_color: trippy
-track3_color: vibrant
-track4_color: dreamy
-track2_color: trippy
-track6_color: vibrant
-track5_color: trippy
 musiColor: musiColor224.png
-description: This morning, we bring you the soundtrack to summer’s daydreams. Petit Biscuit is reminiscent of that glimpse of sunlight projected onto your favorite building at the end of the day. Something special, a contemplative melody powered by the genuine desire to create and share.
+description: This morning, we bring you the soundtrack to summer’s daydreams.
+  Petit Biscuit is reminiscent of that glimpse of sunlight projected onto your
+  favorite building at the end of the day. Something special, a contemplative
+  melody powered by the genuine desire to create and share.
 image: https://www.mailta.pe/img/fbPic224.jpg
-pubDate: '2016-07-10'
+pubDate: 2016-07-10
+track1:
+  title: Day Wave - Drag
+  color: bliss
+  link: https://sounds.mailta.pe/224/track1.mp3
+track2:
+  title: Mura Masa - ...Girl
+  color: trippy
+  link: https://sounds.mailta.pe/224/track2.mp3
+track3:
+  title: Flume - Take A Chance (ft. Little Dragon)
+  color: vibrant
+  link: https://sounds.mailta.pe/224/track3.mp3
+track4:
+  title: Petit Biscuit - Sunset Lover
+  color: dreamy
+  link: https://sounds.mailta.pe/224/track4.mp3
+track5:
+  title: Opal - France
+  color: trippy
+  link: https://sounds.mailta.pe/224/track5.mp3
+track6:
+  title: VOLO - Shine
+  color: vibrant
+  link: https://sounds.mailta.pe/224/track6.mp3
+track7:
+  title: Polo & Pan - Nanä
+  color: trippy
+  link: https://sounds.mailta.pe/224/track7.mp3
 ---
 This morning, we bring you the soundtrack to summer's daydreams. [Petit Biscuit](https://www.facebook.com/petitbiscuitsound/ "Petit Biscuit's Facebook") is reminiscent of that glimpse of sunlight projected onto your favorite building at the end of the day. Something special, a contemplative melody powered by the genuine desire to create and share.
 

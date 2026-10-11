@@ -1,40 +1,48 @@
 ---
-
 author: Olivier
 illustrator: Camille Célestin
 writer: PS KY
-category: '212'
+category: "212"
 guest_name: Stand Wise
 guest_color: vibrant
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 guestPic: guestPic212.jpg
-track1_link: https://sounds.mailta.pe/212/track1.mp3
-track2_link: https://sounds.mailta.pe/212/track2.mp3
-track3_link: https://sounds.mailta.pe/212/track3.mp3
-track4_link: https://sounds.mailta.pe/212/track4.mp3
-track5_link: https://sounds.mailta.pe/212/track5.mp3
-track6_link: https://sounds.mailta.pe/212/track6.mp3
-track7_link: https://sounds.mailta.pe/212/track7.mp3
-track1_title: Recondite - Robur
-track1_color: dreamy
-track2_title: Alma Construct - On the Edge, Surrounded with the Shores of Assudrey
-track2_color: rough
-track3_title: Colorado - Undisclosed
-track3_color: bliss
-track4_title: Stand Wise - Otherside
-track4_color: vibrant
-track5_title: The Acid - RA (David August remix)
-track5_color: vibrant
-track6_title: Slow Magic - Hold Still
-track6_color: vibrant
-track7_title: Ambassadeurs - Willows Lullaby
-track7_color: dreamy
 episode_URL: http://mailta.pe/212/Stand-Wise/
 image: https://www.mailta.pe/img/fbPic212.jpg
 musiColor: musiColor212.png
-description: This morning, let us keep you on the edge of new talent discovery with the latest essentiels. Introducing Stand Wise, an intriguing duo from Paris and their selection of fine tunes.
+description: This morning, let us keep you on the edge of new talent discovery
+  with the latest essentiels. Introducing Stand Wise, an intriguing duo from
+  Paris and their selection of fine tunes.
 published: true
-pubDate: '2016-04-10'
+pubDate: 2016-04-10
+track1:
+  title: Recondite - Robur
+  color: dreamy
+  link: https://sounds.mailta.pe/212/track1.mp3
+track2:
+  title: Alma Construct - On the Edge, Surrounded with the Shores of Assudrey
+  color: rough
+  link: https://sounds.mailta.pe/212/track2.mp3
+track3:
+  title: Colorado - Undisclosed
+  color: bliss
+  link: https://sounds.mailta.pe/212/track3.mp3
+track4:
+  title: Stand Wise - Otherside
+  color: vibrant
+  link: https://sounds.mailta.pe/212/track4.mp3
+track5:
+  title: The Acid - RA (David August remix)
+  color: vibrant
+  link: https://sounds.mailta.pe/212/track5.mp3
+track6:
+  title: Slow Magic - Hold Still
+  color: vibrant
+  link: https://sounds.mailta.pe/212/track6.mp3
+track7:
+  title: Ambassadeurs - Willows Lullaby
+  color: dreamy
+  link: https://sounds.mailta.pe/212/track7.mp3
 ---
 
 

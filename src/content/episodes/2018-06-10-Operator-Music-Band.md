@@ -1,40 +1,52 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Charlotte
 illustrator: Camille Célestin
 writer: Charlotte
-category: '316'
+category: "316"
 guest_name: Operator Music Band
 guest_color: rough
-track1_link: https://sounds.mailta.pe/316/track1.mp3
-track2_link: https://sounds.mailta.pe/316/track2.mp3
-track3_link: https://sounds.mailta.pe/316/track3.mp3
-track5_link: https://sounds.mailta.pe/316/track5.mp3
-track4_link: https://sounds.mailta.pe/316/track4.mp3
-track6_link: https://sounds.mailta.pe/316/track6.mp3
-track1_color: dreamy
-track2_color: vibrant
-track3_color: dreamy
-track4_color: vibrant
-track5_color: bliss
-track6_color: bliss
-track7_color: dreamy
-track7_link: https://sounds.mailta.pe/316/track7.mp3
-track1_title: Here We Go Magic - Over the Ocean
-track2_title: Washington Phillips - Lift Him Up That's All
-track3_title: Aye Aye - Wila Wila
-track4_title: Operator Music Band - Creative Tube Bending
-track5_title: Suzy Andrews - Teenage Iceage (Vermelho Edit)
-track6_title: Eye - Le Croquis de la Femme
-track7_title: Abner Jay - Saint James Infirmary Blues
 episode_URL: https://www.mailta.pe/316/operator-music-band/
-description: This morning, we are delighted to welcome Operator Music Band, an art-pop quartet from New York. Their music sounds like a tesseract, a nicely intriguing and quite complex geometric figure from the fourth dimension that can be very surrealistic at first sight. But then, among other things, you will perceive a deep love for analogue synths, an interesting sense of humor, a vocal and instrumental surgical precision, no matter if you suck at mathematics.
+description: This morning, we are delighted to welcome Operator Music Band, an
+  art-pop quartet from New York. Their music sounds like a tesseract, a nicely
+  intriguing and quite complex geometric figure from the fourth dimension that
+  can be very surrealistic at first sight. But then, among other things, you
+  will perceive a deep love for analogue synths, an interesting sense of humor,
+  a vocal and instrumental surgical precision, no matter if you suck at
+  mathematics.
 guestPic: GuestPic316ok.jpg
 musiColor: musiColor316.png
 image: https://www.mailta.pe/img/fbPic316.png
-pubDate: '2018-06-10'
+pubDate: 2018-06-10
+track1:
+  title: Here We Go Magic - Over the Ocean
+  color: dreamy
+  link: https://sounds.mailta.pe/316/track1.mp3
+track2:
+  title: Washington Phillips - Lift Him Up That's All
+  color: vibrant
+  link: https://sounds.mailta.pe/316/track2.mp3
+track3:
+  title: Aye Aye - Wila Wila
+  color: dreamy
+  link: https://sounds.mailta.pe/316/track3.mp3
+track4:
+  title: Operator Music Band - Creative Tube Bending
+  color: vibrant
+  link: https://sounds.mailta.pe/316/track4.mp3
+track5:
+  title: Suzy Andrews - Teenage Iceage (Vermelho Edit)
+  color: bliss
+  link: https://sounds.mailta.pe/316/track5.mp3
+track6:
+  title: Eye - Le Croquis de la Femme
+  color: bliss
+  link: https://sounds.mailta.pe/316/track6.mp3
+track7:
+  title: Abner Jay - Saint James Infirmary Blues
+  color: dreamy
+  link: https://sounds.mailta.pe/316/track7.mp3
 ---
 This morning, we are delighted to welcome [Operator Music Band](https://operatormusicband.bandcamp.com/), an art-pop quartet from New York.
 <p>Their music sounds like a tesseract, a nicely intriguing and quite complex geometric figure from the fourth dimension that can be very surrealistic at first sight. But then, among other things, you will perceive a deep love for analogue synths, an interesting sense of humor, a vocal and instrumental surgical precision, no matter if you suck at mathematics.

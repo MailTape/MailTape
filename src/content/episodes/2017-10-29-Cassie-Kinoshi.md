@@ -1,40 +1,49 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Sanjay Mistry
 illustrator: Anais Caura
 writer: Sanjay Mistry
-category: '284'
+category: "284"
 guest_name: Cassie Kinoshi
 guest_color: dreamy
-track1_link: https://sounds.mailta.pe/284/track1.mp3
-track2_link: https://sounds.mailta.pe/284/track2.mp3
-track3_link: https://sounds.mailta.pe/284/track3.mp3
-track4_link: https://sounds.mailta.pe/284/track4.mp3
-track5_link: https://sounds.mailta.pe/284/track5.mp3
-track6_link: https://sounds.mailta.pe/284/track6.mp3
-track7_link: https://sounds.mailta.pe/284/track7.mp3
-track1_title: Kiran Kai ft. Jordan Rakei & Bdrsk – FF
-track1_color: trippy
-track2_title: Andrew Poppy – Last Light
-track2_color: dreamy
-track3_title: Oscar Jerome – You Take Me
-track3_color: vibrant
-track4_title: Cassie Kinoshi ft. Heidi Heidelberg – The Dream Keeper
-track4_color: bliss
-track5_title: Mazz Swift – Invisible (Dedicated To Trayvon Martin And His Family)
-track5_color: dreamy
-track6_title: Collocutor – Arrival
-track6_color: trippy
-track7_title: Moses Boyd Exodus – Nocturne
-track7_color: dreamy
 episode_URL: http://mailta.pe/284/cassie-kinoshi/
 guestPic: guestPic284.jpg
 image: https://www.mailta.pe/img/fbPic284.jpg
-description: This morning’s guest, Cassie Kinoshi, is known primarily for her work with jazz septet Nérija, Afrobeat band Kokoroko and her own large ensemble, SEED. We are thrilled to present her Sunday morning jams in collaboration with MailTape!
+description: This morning’s guest, Cassie Kinoshi, is known primarily for her
+  work with jazz septet Nérija, Afrobeat band Kokoroko and her own large
+  ensemble, SEED. We are thrilled to present her Sunday morning jams in
+  collaboration with MailTape!
 musiColor: musiColor284.png
-pubDate: '2017-10-29'
+pubDate: 2017-10-29
+track1:
+  title: Kiran Kai ft. Jordan Rakei & Bdrsk – FF
+  color: trippy
+  link: https://sounds.mailta.pe/284/track1.mp3
+track2:
+  title: Andrew Poppy – Last Light
+  color: dreamy
+  link: https://sounds.mailta.pe/284/track2.mp3
+track3:
+  title: Oscar Jerome – You Take Me
+  color: vibrant
+  link: https://sounds.mailta.pe/284/track3.mp3
+track4:
+  title: Cassie Kinoshi ft. Heidi Heidelberg – The Dream Keeper
+  color: bliss
+  link: https://sounds.mailta.pe/284/track4.mp3
+track5:
+  title: Mazz Swift – Invisible (Dedicated To Trayvon Martin And His Family)
+  color: dreamy
+  link: https://sounds.mailta.pe/284/track5.mp3
+track6:
+  title: Collocutor – Arrival
+  color: trippy
+  link: https://sounds.mailta.pe/284/track6.mp3
+track7:
+  title: Moses Boyd Exodus – Nocturne
+  color: dreamy
+  link: https://sounds.mailta.pe/284/track7.mp3
 ---
 This morning's guest, [Cassie Kinoshi](http://www.cassiekinoshi.com/), is known primarily for her work with jazz septet [Nérija](http://www.nerijamusic.com/), Afrobeat band [Kokoroko](https://www.facebook.com/kokorokomusic/?fref=ts) and her own large ensemble, [SEED](https://www.facebook.com/seedensemble/?fref=ts). We are thrilled to present her Sunday morning jams in collaboration with MailTape!
 <p>Her most recent ventures include a Sound and Music funded series of events with her ensemble SEED (Driftglass), as well as the position of sole composer for The Old Vic Theatre's professional development programme 2016–17.

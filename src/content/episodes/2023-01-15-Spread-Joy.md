@@ -1,40 +1,49 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Inès
 illustrator: Meriam Kharbat
 writer: Inès
-category: '513'
+category: "513"
 guest_name: Spread Joy
 guest_color: rough
-track1_title: 'Marlene Dietrich - I''ve Been in Love Before '
-track1_color: dreamy
-track2_title: MIKAN MUKKU - Chin Dan
-track2_color: trippy
-track3_title: Devon Rexi - Human Snax
-track3_color: vibrant
-track4_title: Spread Joy - Repetition
-track4_color: vibrant
-track1_link: https://sounds.mailta.pe/513/track1.m4a
-track2_link: https://sounds.mailta.pe/513/track2.mp3
-track3_link: https://sounds.mailta.pe/513/track3.mp3
-track4_link: https://sounds.mailta.pe/513/track4.mp3
-track5_link: https://sounds.mailta.pe/513/track5.m4a
-track6_link: https://sounds.mailta.pe/513/track6.mp3
-track7_link: https://sounds.mailta.pe/513/track7.mp3
-track5_title: Shira Small - My Life's Alright
-track5_color: dreamy
-track6_title: Mandy, Indiana - Nike of Samothrace
-track6_color: rough
-track7_title: Grotto Terrazza - Der Zaubergeselle
-track7_color: trippy
 episode_URL: https://www.mailta.pe/513/Spread-Joy/
 guestPic: guestPic513.png
 musiColor: musiColor513.png
-description: This morning, please welcome Spread Joy! Post-punk band Spread Joy makes fast-paced, rythmically changing songs that make you want to run or dance or jump or maybe all of it together? In this episode, we are going through a bit of a rollercoaster for an episode full of life.
+description: This morning, please welcome Spread Joy! Post-punk band Spread Joy
+  makes fast-paced, rythmically changing songs that make you want to run or
+  dance or jump or maybe all of it together? In this episode, we are going
+  through a bit of a rollercoaster for an episode full of life.
 image: https://www.mailta.pe/img/fbPic_513.jpeg
-pubDate: '2023-01-15'
+pubDate: 2023-01-15
+track1:
+  title: "Marlene Dietrich - I've Been in Love Before "
+  color: dreamy
+  link: https://sounds.mailta.pe/513/track1.m4a
+track2:
+  title: MIKAN MUKKU - Chin Dan
+  color: trippy
+  link: https://sounds.mailta.pe/513/track2.mp3
+track3:
+  title: Devon Rexi - Human Snax
+  color: vibrant
+  link: https://sounds.mailta.pe/513/track3.mp3
+track4:
+  title: Spread Joy - Repetition
+  color: vibrant
+  link: https://sounds.mailta.pe/513/track4.mp3
+track5:
+  title: Shira Small - My Life's Alright
+  color: dreamy
+  link: https://sounds.mailta.pe/513/track5.m4a
+track6:
+  title: Mandy, Indiana - Nike of Samothrace
+  color: rough
+  link: https://sounds.mailta.pe/513/track6.mp3
+track7:
+  title: Grotto Terrazza - Der Zaubergeselle
+  color: trippy
+  link: https://sounds.mailta.pe/513/track7.mp3
 ---
  This morning, please welcome [Spread Joy](https://spreadjoy.bandcamp.com/) for an episode full of life. Post-punk band [Spread Joy](https://spreadjoy.bandcamp.com/) has released their second album in May last year and it is full of good energy. Fast-paced, rythmically changing songs that make you want to run or dance or jump or maybe all of it together? 
 <br><br>

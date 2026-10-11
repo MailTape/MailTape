@@ -1,39 +1,48 @@
 ---
-
 published: true
 author: Louise
 guest_color: dreamy
-bigTitle_font_ratio: '6'
-bigTitle_line_ratio: '1'
-track1_color: vibrant
-track2_color: dreamy
-track3_color: bliss
-track4_color: dreamy
-track5_color: vibrant
-track6_color: bliss
-track7_color: dreamy
-category: '166'
+bigTitle_font_ratio: "6"
+bigTitle_line_ratio: "1"
+category: "166"
 guest_name: Barney Artist
-track1_link: https://sounds.mailta.pe/166/track1.mp3
-track2_link: https://sounds.mailta.pe/166/track2.mp3
-track3_link: https://sounds.mailta.pe/166/track3.mp3
-track4_link: https://sounds.mailta.pe/166/track4.mp3
-track4_title: Barney Artist - Space
-track3_title: IDEH - Do Something
-track2_title: Alfa & Emmavie - Easily, I Forget
-track1_title: Jordan Rakei - Add The Bassline (Nehzuil Remix)
 episode_URL: http://mailta.pe/166/Barney-Artist/
-track5_link: https://sounds.mailta.pe/166/track5.mp3
-track6_link: https://sounds.mailta.pe/166/track6.mp3
-track7_link: https://sounds.mailta.pe/166/track7.mp3
-track6_title: Curtis Harding - Keep On Shining
-track5_title: Miguel - How Many Drinks? (Remix) ft. Kendrick Lamar
-track7_title: Cubby ft. Kwane and Chuck Ellis - Cold
 guestPic: guestPic166.jpg
 image: https://www.mailta.pe/img/fbPic166.jpg
 musiColor: musiColor166.png
-description: This morning, we bring you a Mailtape curated in collaboration with Barney Artist. Now, as you have eaten this week more than the combined total of what you will eat in the coming weeks, we thought you might desire a sweet tape to put an end to your insatiable Christmas craving.
-pubDate: '2014-12-28'
+description: This morning, we bring you a Mailtape curated in collaboration with
+  Barney Artist. Now, as you have eaten this week more than the combined total
+  of what you will eat in the coming weeks, we thought you might desire a sweet
+  tape to put an end to your insatiable Christmas craving.
+pubDate: 2014-12-28
+track1:
+  title: Jordan Rakei - Add The Bassline (Nehzuil Remix)
+  color: vibrant
+  link: https://sounds.mailta.pe/166/track1.mp3
+track2:
+  title: Alfa & Emmavie - Easily, I Forget
+  color: dreamy
+  link: https://sounds.mailta.pe/166/track2.mp3
+track3:
+  title: IDEH - Do Something
+  color: bliss
+  link: https://sounds.mailta.pe/166/track3.mp3
+track4:
+  title: Barney Artist - Space
+  color: dreamy
+  link: https://sounds.mailta.pe/166/track4.mp3
+track5:
+  title: Miguel - How Many Drinks? (Remix) ft. Kendrick Lamar
+  color: vibrant
+  link: https://sounds.mailta.pe/166/track5.mp3
+track6:
+  title: Curtis Harding - Keep On Shining
+  color: bliss
+  link: https://sounds.mailta.pe/166/track6.mp3
+track7:
+  title: Cubby ft. Kwane and Chuck Ellis - Cold
+  color: dreamy
+  link: https://sounds.mailta.pe/166/track7.mp3
 ---
 
 

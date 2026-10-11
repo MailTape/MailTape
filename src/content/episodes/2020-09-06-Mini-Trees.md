@@ -1,40 +1,55 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
-track1_link: https://sounds.mailta.pe/415/track1.mp3
-track1_color: vibrant
-category: '415'
+category: "415"
 guest_name: Mini Trees
 guest_color: dreamy
-track1_title: Porches - Do U Wanna
-track2_link: https://sounds.mailta.pe/415/track2.mp3
-track2_title: Lomelda - Out There
-track2_color: bliss
-track4_color: dreamy
-track3_title: Ásgeir - Trust
-track3_color: dreamy
 author: Sarah
 writer: Sarah
-track3_link: https://sounds.mailta.pe/415/track3.mp3
-track4_link: https://sounds.mailta.pe/415/track4.mp3
-track6_color: dreamy
-track6_title: Feng Suave - Maybe Another Time
-track6_link: https://sounds.mailta.pe/415/track6.mp3
-track5_link: https://sounds.mailta.pe/415/track5.mp3
-track5_title: Genevieve Stokes - Lonely and Bored
-track5_color: dreamy
-track4_title: Mini Trees - Honestly
-track7_link: https://sounds.mailta.pe/415/track7.mp3
-track7_title: Golden Daze - Lynard Bassman
-track7_color: bliss
 illustrator: Julie Wojtczak
 episode_URL: http://mailta.pe/415/Mini-Trees/
 musiColor: musiColor415.png
-description: This morning, we are thrilled to welcome Mini Trees to host the first MailTape episode of September! Lexi Vega played drums in the Los Angeles indie scene for many years before emerging as an artist with her solo project, Mini Trees. Mini Trees music is vibrant with emotional exploration, Vega creates a raw lyrical atmosphere wherein experiences are laid bare in a challenging and vulnerable way. Her newest EP, Slip Away, dives into all the turbulence and uncertainty of relationships, while also striving toward themes of self acceptance. Effortlessly, Mini Trees pairs this emotionally candid quality with a dreamy undercurrent. Listening to her second EP **Slip Away** feels like walking through the galleries of her very thoughts.
+description: This morning, we are thrilled to welcome Mini Trees to host the
+  first MailTape episode of September! Lexi Vega played drums in the Los Angeles
+  indie scene for many years before emerging as an artist with her solo project,
+  Mini Trees. Mini Trees music is vibrant with emotional exploration, Vega
+  creates a raw lyrical atmosphere wherein experiences are laid bare in a
+  challenging and vulnerable way. Her newest EP, Slip Away, dives into all the
+  turbulence and uncertainty of relationships, while also striving toward themes
+  of self acceptance. Effortlessly, Mini Trees pairs this emotionally candid
+  quality with a dreamy undercurrent. Listening to her second EP **Slip Away**
+  feels like walking through the galleries of her very thoughts.
 image: https://www.mailta.pe/img/fbPic415.png
 guestPic: guestPic415.jpg
-pubDate: '2020-09-06'
+pubDate: 2020-09-06
+track1:
+  title: Porches - Do U Wanna
+  color: vibrant
+  link: https://sounds.mailta.pe/415/track1.mp3
+track2:
+  title: Lomelda - Out There
+  color: bliss
+  link: https://sounds.mailta.pe/415/track2.mp3
+track3:
+  title: Ásgeir - Trust
+  color: dreamy
+  link: https://sounds.mailta.pe/415/track3.mp3
+track4:
+  title: Mini Trees - Honestly
+  color: dreamy
+  link: https://sounds.mailta.pe/415/track4.mp3
+track5:
+  title: Genevieve Stokes - Lonely and Bored
+  color: dreamy
+  link: https://sounds.mailta.pe/415/track5.mp3
+track6:
+  title: Feng Suave - Maybe Another Time
+  color: dreamy
+  link: https://sounds.mailta.pe/415/track6.mp3
+track7:
+  title: Golden Daze - Lynard Bassman
+  color: bliss
+  link: https://sounds.mailta.pe/415/track7.mp3
 ---
 This morning, we are thrilled to welcome [Mini Trees](https://minitrees.bandcamp.com) to host the first MailTape episode of September! 
 

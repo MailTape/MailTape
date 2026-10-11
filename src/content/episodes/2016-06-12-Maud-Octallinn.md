@@ -1,40 +1,46 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Maxime
 illustrator: Camille Célestin
 writer: Maxime
-category: '221'
+category: "221"
 guest_name: Maud Octallinn
 guest_color: dreamy
 guestPic: guestPic221.jpg
 episode_URL: https://www.mailta.pe/221/Maud-Octallinn/
-track1_link: https://sounds.mailta.pe/221/track1.mp3
-track2_link: https://sounds.mailta.pe/221/track2.mp3
-track3_link: https://sounds.mailta.pe/221/track3.mp3
-track4_link: https://sounds.mailta.pe/221/track4.mp3
-track5_link: https://sounds.mailta.pe/221/track5.mp3
-track6_link: https://sounds.mailta.pe/221/track6.mp3
-track7_link: https://sounds.mailta.pe/221/track7.mp3
-track1_title: Midget ! - Les Remparts
-track1_color: dreamy
-track2_title: Hyperclean - Gainsbourg
-track2_color: vibrant
-track3_title: François de Roubaix - Tempo
-track3_color: dreamy
-track4_title: Maud Octallinn - Pauvre Gasc
-track4_color: bliss
-track5_title: Andy Shauf - The Magician
-track5_color: dreamy
-track6_title: V. Vincent & A. Maboul - Je Pleure tout le Temps (Flavien Berger Cover)
-track6_color: dreamy
-track7_title: Flamingosis - Believe in Me
-track7_color: vibrant
 musiColor: musiColor221.png
 image: https://www.mailta.pe/img/fbPic221.jpg
 description: This morning, I introduce you to Maud Octallinn, a french psych-pop singer.
-pubDate: '2016-06-12'
+pubDate: 2016-06-12
+track1:
+  title: Midget ! - Les Remparts
+  color: dreamy
+  link: https://sounds.mailta.pe/221/track1.mp3
+track2:
+  title: Hyperclean - Gainsbourg
+  color: vibrant
+  link: https://sounds.mailta.pe/221/track2.mp3
+track3:
+  title: François de Roubaix - Tempo
+  color: dreamy
+  link: https://sounds.mailta.pe/221/track3.mp3
+track4:
+  title: Maud Octallinn - Pauvre Gasc
+  color: bliss
+  link: https://sounds.mailta.pe/221/track4.mp3
+track5:
+  title: Andy Shauf - The Magician
+  color: dreamy
+  link: https://sounds.mailta.pe/221/track5.mp3
+track6:
+  title: V. Vincent & A. Maboul - Je Pleure tout le Temps (Flavien Berger Cover)
+  color: dreamy
+  link: https://sounds.mailta.pe/221/track6.mp3
+track7:
+  title: Flamingosis - Believe in Me
+  color: vibrant
+  link: https://sounds.mailta.pe/221/track7.mp3
 ---
  This morning, I introduce you to [Maud Octallinn](https://maudoctallinn.bandcamp.com/), a french psych-pop singer. Her first album is a compilation of failed love songs. But it’s easy to fall in love with each song. Her beautiful impish voice is perfect to sing on her surrealistic lyrics full of metaphors. 
 

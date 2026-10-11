@@ -1,40 +1,51 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
-track3_link: https://sounds.mailta.pe/384/track3.mp3
-track3_title: Sufjan Steven - The Tallest Man, The Broadest Shoulders
-track2_title: Ryan Power - I Don't Want To Die
-track1_title: György Ligeti - Lux Aeterna (Wergo 1988)
-track1_link: https://sounds.mailta.pe/384/track1.mp3
-track2_link: https://sounds.mailta.pe/384/track2.mp3
-category: '384'
+category: "384"
 guest_name: Lucie Antunes
 guest_color: bliss
 author: ImaCrea
 illustrator: Thibault Daumain
 writer: PS KY
-track1_color: trippy
-track4_link: https://sounds.mailta.pe/384/track4.mp3
-track4_title: Lucie Antunes - Blue Child
-track5_link: https://sounds.mailta.pe/384/track5.mp3
-track5_title: Sentimental Rave - Never Asking Favours
-track5_color: rough
-track4_color: bliss
-track3_color: vibrant
-track2_color: dreamy
-track6_link: https://sounds.mailta.pe/384/track6.mp3
-track7_link: https://sounds.mailta.pe/384/track7.mp3
-track6_title: Sunni Colón - Strands of the Future
-track6_color: vibrant
-track7_title: Sandra Nkaké - River
-track7_color: bliss
 guestPic: guestPic384.jpg
 episode_URL: https://www.mailta.pe/384/Lucie-Antunes/
-description: This selection hums the voices of today. Comfort aside, just as we must stop listening to the common speech, it is time to expand our ears, clear our vision, navigate new realms and elevate from our habitual minds. A powerful and touching selection of tracks to ghost ourselves from the poison of illusions and hatred as we enter into a realm of hope wondering, as Sandra Nkaké says so well; what does it mean to be born?
+description: This selection hums the voices of today. Comfort aside, just as we
+  must stop listening to the common speech, it is time to expand our ears, clear
+  our vision, navigate new realms and elevate from our habitual minds. A
+  powerful and touching selection of tracks to ghost ourselves from the poison
+  of illusions and hatred as we enter into a realm of hope wondering, as Sandra
+  Nkaké says so well; what does it mean to be born?
 image: https://www.mailta.pe/img/fbPic384.png
 musiColor: musiColor384.png
-pubDate: '2019-12-15'
+pubDate: 2019-12-15
+track1:
+  title: György Ligeti - Lux Aeterna (Wergo 1988)
+  color: trippy
+  link: https://sounds.mailta.pe/384/track1.mp3
+track2:
+  title: Ryan Power - I Don't Want To Die
+  color: dreamy
+  link: https://sounds.mailta.pe/384/track2.mp3
+track3:
+  title: Sufjan Steven - The Tallest Man, The Broadest Shoulders
+  color: vibrant
+  link: https://sounds.mailta.pe/384/track3.mp3
+track4:
+  title: Lucie Antunes - Blue Child
+  color: bliss
+  link: https://sounds.mailta.pe/384/track4.mp3
+track5:
+  title: Sentimental Rave - Never Asking Favours
+  color: rough
+  link: https://sounds.mailta.pe/384/track5.mp3
+track6:
+  title: Sunni Colón - Strands of the Future
+  color: vibrant
+  link: https://sounds.mailta.pe/384/track6.mp3
+track7:
+  title: Sandra Nkaké - River
+  color: bliss
+  link: https://sounds.mailta.pe/384/track7.mp3
 ---
 Certainty is ephemeral. Noise. Make noise. In peace or with force. Convictions and needs, solutions and seeds? What must we shed, what must we feed?
 

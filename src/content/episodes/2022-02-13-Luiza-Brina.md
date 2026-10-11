@@ -1,41 +1,49 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Sarah
 illustrator: Camille Célestin
 writer: Sarah
-category: '481'
+category: "481"
 guest_name: Luiza Brina
 guest_color: vibrant
-track3_title: Helado Negro - Thank You Forever
-track1_title: Déa Trancoso - Tupinambá
-track1_color: vibrant
-track2_title: Jennifer Souza - Oração ao Sol
-track2_color: dreamy
-track3_color: bliss
-track4_color: vibrant
-track5_color: dreamy
-track6_color: bliss
-track7_color: vibrant
-track4_title: Luiza Brina, Ana Frango Elétrico - Somos Só
-track7_title: Luiza Brina - A Toada Vem É Pelo Vento
-track1_link: https://sounds.mailta.pe/481/track1.mp3
-track2_link: https://sounds.mailta.pe/481/track2.mp3
-track3_link: https://sounds.mailta.pe/481/track3.mp3
-track4_link: https://sounds.mailta.pe/481/track4.mp3
-track7_link: https://sounds.mailta.pe/481/track7.mp3
-track5_title: OKI - Kai Kai As To (Rippling Lake)
-track5_link: https://sounds.mailta.pe/481/track5.mp3
-track6_link: https://sounds.mailta.pe/481/track6.mp3
-track6_title: Jesse Adelman - Big Spaceship
 image: https://www.mailta.pe/img/fbPic481.png
 episode_URL: http://mailta.pe/481/Luiza-Brina/
 musiColor: musiColor481.png
 guestPic: guestPic481.jpg
-pubDate: '2022-02-13'
-description:  The week can bring so much to challenge and test us. This Sunday, we offer a reprieve. Together, let's exhale all that the past days have brought onto our shoulders and ease into the morning with our dear guest Luiza Brina.
-
+pubDate: 2022-02-13
+description: The week can bring so much to challenge and test us. This Sunday,
+  we offer a reprieve. Together, let's exhale all that the past days have
+  brought onto our shoulders and ease into the morning with our dear guest Luiza
+  Brina.
+track1:
+  title: Déa Trancoso - Tupinambá
+  color: vibrant
+  link: https://sounds.mailta.pe/481/track1.mp3
+track2:
+  title: Jennifer Souza - Oração ao Sol
+  color: dreamy
+  link: https://sounds.mailta.pe/481/track2.mp3
+track3:
+  title: Helado Negro - Thank You Forever
+  color: bliss
+  link: https://sounds.mailta.pe/481/track3.mp3
+track4:
+  title: Luiza Brina, Ana Frango Elétrico - Somos Só
+  color: vibrant
+  link: https://sounds.mailta.pe/481/track4.mp3
+track5:
+  title: OKI - Kai Kai As To (Rippling Lake)
+  color: dreamy
+  link: https://sounds.mailta.pe/481/track5.mp3
+track6:
+  title: Jesse Adelman - Big Spaceship
+  color: bliss
+  link: https://sounds.mailta.pe/481/track6.mp3
+track7:
+  title: Luiza Brina - A Toada Vem É Pelo Vento
+  color: vibrant
+  link: https://sounds.mailta.pe/481/track7.mp3
 ---
  The week can bring so much to challenge and test us. This Sunday, we offer a reprieve. Together, let's exhale all that the past days have brought onto our shoulders and ease into the morning with our dear guest [Luiza Brina](https://luizabrina.bandcamp.com/).
 <br><br>

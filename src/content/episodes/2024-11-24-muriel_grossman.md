@@ -8,27 +8,6 @@ guestPic: 567_murielgrossmann.jpg
 author: Anto
 illustrator: Camille Célestin
 writer: Anto
-track1_title: Dexter Gordon - Ca'Purange
-track1_color: vibrant
-track1_link: https://sounds.mailta.pe/567/track1.mp3
-track2_title: Cannonball Adderley - 74 Miles Away
-track2_color: rough
-track2_link: https://sounds.mailta.pe/567/track2.mp3
-track3_title: Wayne Shorter - Wind
-track3_color: trippy
-track3_link: https://sounds.mailta.pe/567/track3.mp3
-track4_title: Muriel Grossman - Unison Unveiled
-track4_color: bliss
-track4_link: https://sounds.mailta.pe/567/track4.mp3
-track5_title: Cochemea -Curandera
-track5_color: trippy
-track5_link: https://sounds.mailta.pe/567/track5.mp3
-track6_title: "Nubya Garcia - A Shade Of Jade "
-track6_color: bliss
-track6_link: https://sounds.mailta.pe/567/track6.mp3
-track7_title: Manu Dibango - Frozen Soul
-track7_color: vibrant
-track7_link: https://sounds.mailta.pe/567/track7.mp3
 description: >-
   This morning we're playing jazz! And to be more precise, we offer you
 
@@ -43,10 +22,40 @@ description: >-
   about to release a highly anticipated new album.
 
 
-  Accompanied by her quartet, Muriel explores the world of spiritual jazz and offers a sixteenth album, the result of slow maturation, resolutely full of a joy that she enjoys sharing wherever she has the pleasure to play. 
+  Accompanied by her quartet, Muriel explores the world of spiritual jazz and
+  offers a sixteenth album, the result of slow maturation, resolutely full of a
+  joy that she enjoys sharing wherever she has the pleasure to play. 
 episode_URL: https://www.mailta.pe/567/muriel-grossman/
 image: https://www.mailta.pe/img/fbPic567.jpg
 musiColor: musicolor567.png
+track1:
+  title: Dexter Gordon - Ca'Purange
+  color: vibrant
+  link: https://sounds.mailta.pe/567/track1.mp3
+track2:
+  title: Cannonball Adderley - 74 Miles Away
+  color: rough
+  link: https://sounds.mailta.pe/567/track2.mp3
+track3:
+  title: Wayne Shorter - Wind
+  color: trippy
+  link: https://sounds.mailta.pe/567/track3.mp3
+track4:
+  title: Muriel Grossman - Unison Unveiled
+  color: bliss
+  link: https://sounds.mailta.pe/567/track4.mp3
+track5:
+  title: Cochemea -Curandera
+  color: trippy
+  link: https://sounds.mailta.pe/567/track5.mp3
+track6:
+  title: "Nubya Garcia - A Shade Of Jade "
+  color: bliss
+  link: https://sounds.mailta.pe/567/track6.mp3
+track7:
+  title: Manu Dibango - Frozen Soul
+  color: vibrant
+  link: https://sounds.mailta.pe/567/track7.mp3
 ---
 This morning we're playing jazz! And to be more precise, we offer you
 a journey around the saxophone, this instrument whose vibration is

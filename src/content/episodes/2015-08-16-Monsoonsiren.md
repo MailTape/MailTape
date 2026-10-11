@@ -1,38 +1,48 @@
 ---
-
 published: true
 author: Olivier
 guest_color: dreamy
-bigTitle_font_ratio: '6'
-track1_color: trippy
-track2_color: bliss
-track3_color: trippy
-track4_color: dreamy
-track5_color: trippy
-track6_color: bliss
-track7_color: trippy
-category: '199'
+bigTitle_font_ratio: "6"
+category: "199"
 guest_name: Monsoonsiren
-track1_link: https://sounds.mailta.pe/199/track1.mp3
-track2_link: https://sounds.mailta.pe/199/track2.mp3
-track3_link: https://sounds.mailta.pe/199/track3.mp3
-track2_title: Kanye West - Monster (Teachers remix)
-track3_title: Colin Stetson - Among the sef
-track1_title: Nathan Johnson - Emelys Theme (Brick OST)
 episode_URL: http://mailta.pe/199/Monsoonsiren/
-track4_link: https://sounds.mailta.pe/199/track4.mp3
-track4_title: Monsoonsiren - Untitled (snippet)
-track5_link: https://sounds.mailta.pe/199/track5.mp3
-track6_link: https://sounds.mailta.pe/199/track6.mp3
-track7_link: https://sounds.mailta.pe/199/track7.mp3
-track5_title: Moses Sumney - Mumblin'
-track6_title: BADBADNOTGOOD - Boogie No. 69
-track7_title: Melanie De Biasio - I'm Gonna Leave You
 guestPic: guestPic199.jpg
 image: https://www.mailta.pe/img/fbPic199.png
 musiColor: musiColor199.png
-description: This Sunday, we bring you a breath of fresh air with a young and rejuvenating artist from India. Nathan Menon is a vibrant and budding artist who goes by the name of Monsoonsiren. His minimalist vocals are both spacey and captivating, combining a style of easy-going percussions flowing slowly through your veins.
-pubDate: '2015-08-16'
+description: This Sunday, we bring you a breath of fresh air with a young and
+  rejuvenating artist from India. Nathan Menon is a vibrant and budding artist
+  who goes by the name of Monsoonsiren. His minimalist vocals are both spacey
+  and captivating, combining a style of easy-going percussions flowing slowly
+  through your veins.
+pubDate: 2015-08-16
+track1:
+  title: Nathan Johnson - Emelys Theme (Brick OST)
+  color: trippy
+  link: https://sounds.mailta.pe/199/track1.mp3
+track2:
+  title: Kanye West - Monster (Teachers remix)
+  color: bliss
+  link: https://sounds.mailta.pe/199/track2.mp3
+track3:
+  title: Colin Stetson - Among the sef
+  color: trippy
+  link: https://sounds.mailta.pe/199/track3.mp3
+track4:
+  title: Monsoonsiren - Untitled (snippet)
+  color: dreamy
+  link: https://sounds.mailta.pe/199/track4.mp3
+track5:
+  title: Moses Sumney - Mumblin'
+  color: trippy
+  link: https://sounds.mailta.pe/199/track5.mp3
+track6:
+  title: BADBADNOTGOOD - Boogie No. 69
+  color: bliss
+  link: https://sounds.mailta.pe/199/track6.mp3
+track7:
+  title: Melanie De Biasio - I'm Gonna Leave You
+  color: trippy
+  link: https://sounds.mailta.pe/199/track7.mp3
 ---
 
 

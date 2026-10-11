@@ -1,39 +1,48 @@
 ---
-
 published: true
 author: Ludovic
 guest_color: bliss
-bigTitle_font_ratio: '6'
-bigTitle_line_ratio: '1'
-track1_color: bliss
-track2_color: dreamy
-track3_color: dreamy
-track4_color: bliss
-track5_color: bliss
-track6_color: vibrant
-track7_color: vibrant
-category: '140'
+bigTitle_font_ratio: "6"
+bigTitle_line_ratio: "1"
+category: "140"
 guest_name: David Douglas
 guestPic: guestPic140.jpg
-track1_link: https://sounds.mailta.pe/140/track1.mp3
-track2_link: https://sounds.mailta.pe/140/track2.mp3
-track3_link: https://sounds.mailta.pe/140/track3.mp3
-track4_link: https://sounds.mailta.pe/140/track4.mp3
-track5_link: https://sounds.mailta.pe/140/track5.mp3
-track6_link: https://sounds.mailta.pe/140/track6.mp3
-track7_link: https://sounds.mailta.pe/140/track7.mp3
-track1_title: Franz Schubert - Piano Trio In E-Flat
-track3_title: Air - Le Voyage de Pénélope
-track4_title: David Douglas - California Poppy
-track2_title: Midlake - Acts Of Man
-track5_title: Movement - Ivory
-track6_title: Mister Gavin - Kind Of Love
-track7_title: Turks & Caicos - Nice 'n' Slow
 episode_URL: http://mailta.pe/140/David-Douglas/
 image: https://www.mailta.pe/img/fbPic140.jpg
-description: 'This Morning, we are pleased to introduce you our guest David Douglas. David has selected three untemporary classics to start our session. We’ve then completed it with some more recent material. Result: a unique cross-generational bliss episode. Enjoy!'
+description: "This Morning, we are pleased to introduce you our guest David
+  Douglas. David has selected three untemporary classics to start our session.
+  We’ve then completed it with some more recent material. Result: a unique
+  cross-generational bliss episode. Enjoy!"
 musiColor: musiColor140.png
-pubDate: '2014-05-11'
+pubDate: 2014-05-11
+track1:
+  title: Franz Schubert - Piano Trio In E-Flat
+  color: bliss
+  link: https://sounds.mailta.pe/140/track1.mp3
+track2:
+  title: Midlake - Acts Of Man
+  color: dreamy
+  link: https://sounds.mailta.pe/140/track2.mp3
+track3:
+  title: Air - Le Voyage de Pénélope
+  color: dreamy
+  link: https://sounds.mailta.pe/140/track3.mp3
+track4:
+  title: David Douglas - California Poppy
+  color: bliss
+  link: https://sounds.mailta.pe/140/track4.mp3
+track5:
+  title: Movement - Ivory
+  color: bliss
+  link: https://sounds.mailta.pe/140/track5.mp3
+track6:
+  title: Mister Gavin - Kind Of Love
+  color: vibrant
+  link: https://sounds.mailta.pe/140/track6.mp3
+track7:
+  title: Turks & Caicos - Nice 'n' Slow
+  color: vibrant
+  link: https://sounds.mailta.pe/140/track7.mp3
 ---
 
 

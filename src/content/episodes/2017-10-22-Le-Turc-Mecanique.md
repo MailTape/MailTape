@@ -1,40 +1,52 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Inès
 illustrator: Camille Célestin
 writer: Inès
-category: '283'
+category: "283"
 guest_name: Le Turc Mécanique
 guest_color: rough
 guestPic: guestPic283.jpg
-track1_link: https://sounds.mailta.pe/283/track1.mp3
-track2_link: https://sounds.mailta.pe/283/track2.mp3
-track3_link: https://sounds.mailta.pe/283/track3.mp3
-track4_link: https://sounds.mailta.pe/283/track4.mp3
-track5_link: https://sounds.mailta.pe/283/track5.mp3
-track6_link: https://sounds.mailta.pe/283/track6.mp3
-track7_link: https://sounds.mailta.pe/283/track7.mp3
-track1_title: Colombey - La dernière 8.6 de la ville
-track1_color: trippy
-track2_title: Nina Harker - Crepuscùlo
-track2_color: dreamy
-track3_title: Sundae - Verano-Invierno
-track3_color: dreamy
-track4_title: Jardin - Mon amour n’a pas de sexe
-track4_color: trippy
-track5_title: Utro - Kak Zhe Ya Byl Slab V Te Dni
-track5_color: trippy
-track6_title: Police des Moeurs - Heure Bleue
-track6_color: vibrant
-track7_color: dreamy
-track7_title: Chris Rubeo - Lover’s Spit
 episode_URL: https://www.mailta.pe/283/le-turc-mecanique
 image: https://www.mailta.pe/img/fbPic283.png
 musiColor: musiColor283.png
-description: This morning, take some time to listen to Le Turc Mécanique’s delightful selection, for a morning that gets sweeter by every minute. Post-punk label Le Turc Mécanique is one of France’s best independent labels, with artists ranging from pop to post-punk to noise to techno and more. So even though autumn and its grey skies have arrived, it doesn’t mean we have to wallow in self pity. It takes a little less than 30 minutes to go from bleakness to comfort.
-pubDate: '2017-10-22'
+description: This morning, take some time to listen to Le Turc Mécanique’s
+  delightful selection, for a morning that gets sweeter by every minute.
+  Post-punk label Le Turc Mécanique is one of France’s best independent labels,
+  with artists ranging from pop to post-punk to noise to techno and more. So
+  even though autumn and its grey skies have arrived, it doesn’t mean we have to
+  wallow in self pity. It takes a little less than 30 minutes to go from
+  bleakness to comfort.
+pubDate: 2017-10-22
+track1:
+  title: Colombey - La dernière 8.6 de la ville
+  color: trippy
+  link: https://sounds.mailta.pe/283/track1.mp3
+track2:
+  title: Nina Harker - Crepuscùlo
+  color: dreamy
+  link: https://sounds.mailta.pe/283/track2.mp3
+track3:
+  title: Sundae - Verano-Invierno
+  color: dreamy
+  link: https://sounds.mailta.pe/283/track3.mp3
+track4:
+  title: Jardin - Mon amour n’a pas de sexe
+  color: trippy
+  link: https://sounds.mailta.pe/283/track4.mp3
+track5:
+  title: Utro - Kak Zhe Ya Byl Slab V Te Dni
+  color: trippy
+  link: https://sounds.mailta.pe/283/track5.mp3
+track6:
+  title: Police des Moeurs - Heure Bleue
+  color: vibrant
+  link: https://sounds.mailta.pe/283/track6.mp3
+track7:
+  title: Chris Rubeo - Lover’s Spit
+  color: dreamy
+  link: https://sounds.mailta.pe/283/track7.mp3
 ---
 This morning, take some time to listen to [Le Turc Mécanique](https://www.facebook.com/leturcmecanique/)'s delightful selection, for a morning that gets sweeter by every minute.<br>
 Post-punk label [Le Turc Mécanique](https://www.facebook.com/leturcmecanique/), created by Charles Crost in 2012, is one of France's best independent labels, with artists ranging from pop to post-punk to noise to techno and more.

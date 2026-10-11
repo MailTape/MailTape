@@ -1,40 +1,52 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Sarah
 illustrator: Julie Wojtczak
 writer: Sarah
-category: '469'
+category: "469"
 guest_name: The Soul Surfers
 guest_color: bliss
-track1_title: François de Roubaix - Poursuite Sur Les Dunes d'Ostende
-track2_title: Stringtronics - Dawn Mists
-track3_title: Whitefield Brothers - Joyful Exaltation
-track1_color: trippy
-track2_color: dreamy
-track3_color: trippy
-track4_color: vibrant
-track5_color: trippy
-track6_color: bliss
-track7_color: trippy
 musiColor: musiColor469.png
 guestPic: guestPic469.jpg
 image: https://www.mailta.pe/img/fbPic469.png
 episode_URL: http://mailta.pe/469/The-Soul-Surfers/
-track4_title: Janko Nilovic and The Soul Surfers - Maze of Sounds Alternate Take
-track1_link: https://sounds.mailta.pe/469/track1.mp3
-track2_link: https://sounds.mailta.pe/469/track2.mp3
-track3_link: https://sounds.mailta.pe/469/track3.mp3
-track4_link: https://sounds.mailta.pe/469/track4.mp3
-track5_link: https://sounds.mailta.pe/469/track5.mp3
-track5_title: The Soul Surfers, Shawn Lee - Time Is A Gun
-track7_title: Africa Express - Morals
-track6_title: The Natural Yogurt Band - 57 Lashes of the Mallet
-track6_link: https://sounds.mailta.pe/469/track6.mp3
-track7_link: https://sounds.mailta.pe/469/track7.mp3
-description: '  This morning, we are delighted to welcome The Soul Surfers to MailTape for a collection of experimental and exploratory tracks. Led by drummer Igor Zhukovsky, the modern funk band hails from Niznhny Novgorod, Russia. The Soul Surfers craft many exciting albums and collaborations, including with Janko Nilovic for the 2021 album, Maze of Sounds. Their selection mirrors much of their own music, exploring the interesting spaces of synth and funk fusions.'
-pubDate: '2021-11-07'
+description: "  This morning, we are delighted to welcome The Soul Surfers to
+  MailTape for a collection of experimental and exploratory tracks. Led by
+  drummer Igor Zhukovsky, the modern funk band hails from Niznhny Novgorod,
+  Russia. The Soul Surfers craft many exciting albums and collaborations,
+  including with Janko Nilovic for the 2021 album, Maze of Sounds. Their
+  selection mirrors much of their own music, exploring the interesting spaces of
+  synth and funk fusions."
+pubDate: 2021-11-07
+track1:
+  title: François de Roubaix - Poursuite Sur Les Dunes d'Ostende
+  color: trippy
+  link: https://sounds.mailta.pe/469/track1.mp3
+track2:
+  title: Stringtronics - Dawn Mists
+  color: dreamy
+  link: https://sounds.mailta.pe/469/track2.mp3
+track3:
+  title: Whitefield Brothers - Joyful Exaltation
+  color: trippy
+  link: https://sounds.mailta.pe/469/track3.mp3
+track4:
+  title: Janko Nilovic and The Soul Surfers - Maze of Sounds Alternate Take
+  color: vibrant
+  link: https://sounds.mailta.pe/469/track4.mp3
+track5:
+  title: The Soul Surfers, Shawn Lee - Time Is A Gun
+  color: trippy
+  link: https://sounds.mailta.pe/469/track5.mp3
+track6:
+  title: The Natural Yogurt Band - 57 Lashes of the Mallet
+  color: bliss
+  link: https://sounds.mailta.pe/469/track6.mp3
+track7:
+  title: Africa Express - Morals
+  color: trippy
+  link: https://sounds.mailta.pe/469/track7.mp3
 ---
  This morning, we are delighted to welcome [The Soul Surfers](https://soulsurfersubiq.bandcamp.com/) to MailTape for a collection of experimental and exploratory tracks. Led by drummer [Igor Zhukovsky](https://www.discogs.com/artist/2760785-Igor-Zhukovsky), the modern funk band hails from Niznhny Novgorod, Russia. The Soul Surfers craft many exciting albums and collaborations, including with Janko Nilovic for the 2021 album, [Maze of Sounds](https://brocrecordz.bandcamp.com/album/maze-of-sounds). Their selection mirrors much of their own discography, exploring the interesting spaces of synth and funk fusions.
   

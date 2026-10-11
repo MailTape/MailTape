@@ -1,40 +1,49 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Sarah
 illustrator: Meriam Kharbat
 writer: Sarah
-category: '498'
+category: "498"
 guest_name: INO hidefumi
 guest_color: bliss
-track3_color: bliss
-track4_title: INO hidefumi - IN DREAMS
-track1_title: Timmy Thomas - Why Can't We Live Together
-track2_title: INO hidefumi, Jean Touitou - It's All Over Now Baby Blue
-track3_title: William DeVaughn - Be Thankful For What You Got
-track1_color: dreamy
-track2_color: vibrant
-track4_color: vibrant
-track5_color: vibrant
-track6_color: dreamy
-track7_color: dreamy
 guestPic: guestPic498.jpg
 image: https://www.mailta.pe/img/fbPic498.png
-track1_link: https://sounds.mailta.pe/498/track1.mp3
-track2_link: https://sounds.mailta.pe/498/track2.mp3
-track3_link: https://sounds.mailta.pe/498/track3.mp3
-track6_title: Sachiko Kanenobu - Anata Kara Toku E (Far Away From You)
-track6_link: https://sounds.mailta.pe/498/track6.mp3
-track4_link: https://sounds.mailta.pe/498/track4.mp3
-track5_link: https://sounds.mailta.pe/498/track5.mp3
-track7_link: https://sounds.mailta.pe/498/track7.mp3
-track7_title: r mccarthy - Jyoti
-track5_title: Will Sprott - Psychic Lady
-description: '  Today, with a special joy we welcome Tokyo-based jazz and electronic artist INO hidefumi to MailTape for a morning of Sunday discoveries. Known for eclectic tastes and textured sounds, INO''s thoughtful selection offers an easy treading into the morning hours.'
+description: "  Today, with a special joy we welcome Tokyo-based jazz and
+  electronic artist INO hidefumi to MailTape for a morning of Sunday
+  discoveries. Known for eclectic tastes and textured sounds, INO's thoughtful
+  selection offers an easy treading into the morning hours."
 episode_URL: http://mailta.pe/498/INO-hidefumi/
 musiColor: musiColor498.png
-pubDate: '2022-06-26'
+pubDate: 2022-06-26
+track1:
+  title: Timmy Thomas - Why Can't We Live Together
+  color: dreamy
+  link: https://sounds.mailta.pe/498/track1.mp3
+track2:
+  title: INO hidefumi, Jean Touitou - It's All Over Now Baby Blue
+  color: vibrant
+  link: https://sounds.mailta.pe/498/track2.mp3
+track3:
+  title: William DeVaughn - Be Thankful For What You Got
+  color: bliss
+  link: https://sounds.mailta.pe/498/track3.mp3
+track4:
+  title: INO hidefumi - IN DREAMS
+  color: vibrant
+  link: https://sounds.mailta.pe/498/track4.mp3
+track5:
+  title: Will Sprott - Psychic Lady
+  color: vibrant
+  link: https://sounds.mailta.pe/498/track5.mp3
+track6:
+  title: Sachiko Kanenobu - Anata Kara Toku E (Far Away From You)
+  color: dreamy
+  link: https://sounds.mailta.pe/498/track6.mp3
+track7:
+  title: r mccarthy - Jyoti
+  color: dreamy
+  link: https://sounds.mailta.pe/498/track7.mp3
 ---
  This morning, with a special joy we welcome Tokyo-based jazz and electronic artist [INO hidefumi](https://www.innocentrecord.net/) to MailTape. Known for eclectic tastes and textured sounds, INO's thoughtful selection offers an easy treading into the morning hours.
   <br><br>

@@ -1,40 +1,53 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Charlotte
 illustrator: Camille Célestin
 writer: Charlotte
-category: '329'
+category: "329"
 guest_name: Keep Dancing Inc
 guest_color: dreamy
-track1_link: https://sounds.mailta.pe/329/track1.mp3
-track2_link: https://sounds.mailta.pe/329/track2.mp3
-track3_link: https://sounds.mailta.pe/329/track3.mp3
-track4_link: https://sounds.mailta.pe/329/track4.mp3
-track5_link: https://sounds.mailta.pe/329/track5.mp3
-track6_link: https://sounds.mailta.pe/329/track6.mp3
-track7_link: https://sounds.mailta.pe/329/track7.mp3
-track1_title: Porches - Country
-track1_color: dreamy
-track2_title: Donna Lewis – I Love You Always Forever
-track2_color: bliss
-track3_color: vibrant
-track3_title: Cleaners From Venus – Corridor of Dreams
-track4_title: Keep Dancing Inc – Back Against Yours
-track4_color: bliss
-track5_title: Black Marble – A Great Design
-track5_color: vibrant
-track6_title: Patience – White of An Eye
-track6_color: dreamy
-track7_title: Idiot Glee - Pinkwood
-track7_color: dreamy
 episode_URL: http://www.mailta.pe/329/keep-dancing-inc/
-description: This morning, we welcome Louis, Charles, Gabrielle and Joseph from Keep Dancing Inc to turn this MailTape into a Sunday ode to pop music.  Formed in 2014, the Parisian quartet released in June 2018 its second EP “Restructuration” on Un Plan Simple, where on the cover we can see a lonely photocopier on the dirty wine-red carpet of a random abandoned office. But far from the stiff world of impersonal open spaces and fake sick leave, Keep Dancing Inc’s music, lies somewhere between synth pop, new wave and cold zouk – it is warm and welcoming.
+description: This morning, we welcome Louis, Charles, Gabrielle and Joseph from
+  Keep Dancing Inc to turn this MailTape into a Sunday ode to pop music.  Formed
+  in 2014, the Parisian quartet released in June 2018 its second EP
+  “Restructuration” on Un Plan Simple, where on the cover we can see a lonely
+  photocopier on the dirty wine-red carpet of a random abandoned office. But far
+  from the stiff world of impersonal open spaces and fake sick leave, Keep
+  Dancing Inc’s music, lies somewhere between synth pop, new wave and cold zouk
+  – it is warm and welcoming.
 guestPic: guestPic329.jpg
 image: https://www.mailta.pe/img/fbPic329.jpg
 musiColor: musiColor329.png
-pubDate: '2018-10-28'
+pubDate: 2018-10-28
+track1:
+  title: Porches - Country
+  color: dreamy
+  link: https://sounds.mailta.pe/329/track1.mp3
+track2:
+  title: Donna Lewis – I Love You Always Forever
+  color: bliss
+  link: https://sounds.mailta.pe/329/track2.mp3
+track3:
+  title: Cleaners From Venus – Corridor of Dreams
+  color: vibrant
+  link: https://sounds.mailta.pe/329/track3.mp3
+track4:
+  title: Keep Dancing Inc – Back Against Yours
+  color: bliss
+  link: https://sounds.mailta.pe/329/track4.mp3
+track5:
+  title: Black Marble – A Great Design
+  color: vibrant
+  link: https://sounds.mailta.pe/329/track5.mp3
+track6:
+  title: Patience – White of An Eye
+  color: dreamy
+  link: https://sounds.mailta.pe/329/track6.mp3
+track7:
+  title: Idiot Glee - Pinkwood
+  color: dreamy
+  link: https://sounds.mailta.pe/329/track7.mp3
 ---
 
 This morning, we welcome Louis, Charles, Gabrielle and Joseph from [Keep Dancing Inc](https://www.facebook.com/keepdancinginc/) to turn this MailTape into a Sunday ode to pop music.

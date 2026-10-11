@@ -1,40 +1,47 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Sanjay Mistry
 illustrator: Pierre-Julien Fieux
 writer: Sanjay Mistry
-category: '330'
+category: "330"
 guest_name: Sissel Wincent
 guest_color: trippy
-track1_link: https://sounds.mailta.pe/330/track1.mp3
-track2_link: https://sounds.mailta.pe/330/track2.mp3
-track3_link: https://sounds.mailta.pe/330/track3.mp3
-track4_link: https://sounds.mailta.pe/330/track4.mp3
-track5_link: https://sounds.mailta.pe/330/track5.mp3
-track6_link: https://sounds.mailta.pe/330/track6.mp3
-track7_link: https://sounds.mailta.pe/330/track7.mp3
-track1_title: Ploy – =O
-track1_color: dreamy
-track2_title: Kali Malone – Locus Of Repetition
-track2_color: bliss
-track3_title: Mar-llena – Monrepos
-track3_color: dreamy
-track4_title: Sissel Wincent – Pearlescent Paint
-track4_color: trippy
-track5_title: Beatrice Dillon – Carrier and Mask
-track5_color: bliss
-track6_title: Akiko Kiyama – Gabriel
-track6_color: vibrant
-track7_title: Afrikan Sciences – 43
-track7_color: trippy
 episode_URL: http://mailta.pe/330/sissel-wincent/
-description: This morning we are delighted to welcome Stockholm-based electronic producer, Sissel Wincent, to MailTape.
+description: This morning we are delighted to welcome Stockholm-based electronic
+  producer, Sissel Wincent, to MailTape.
 musiColor: musiColor330.png
 guestPic: guestPic330.jpg
 image: https://www.mailta.pe/img/fbPic330.jpg
-pubDate: '2018-11-04'
+pubDate: 2018-11-04
+track1:
+  title: Ploy – =O
+  color: dreamy
+  link: https://sounds.mailta.pe/330/track1.mp3
+track2:
+  title: Kali Malone – Locus Of Repetition
+  color: bliss
+  link: https://sounds.mailta.pe/330/track2.mp3
+track3:
+  title: Mar-llena – Monrepos
+  color: dreamy
+  link: https://sounds.mailta.pe/330/track3.mp3
+track4:
+  title: Sissel Wincent – Pearlescent Paint
+  color: trippy
+  link: https://sounds.mailta.pe/330/track4.mp3
+track5:
+  title: Beatrice Dillon – Carrier and Mask
+  color: bliss
+  link: https://sounds.mailta.pe/330/track5.mp3
+track6:
+  title: Akiko Kiyama – Gabriel
+  color: vibrant
+  link: https://sounds.mailta.pe/330/track6.mp3
+track7:
+  title: Afrikan Sciences – 43
+  color: trippy
+  link: https://sounds.mailta.pe/330/track7.mp3
 ---
 This morning we are delighted to welcome Stockholm-based electronic producer, [Sissel Wincent](https://soundcloud.com/sissel), to MailTape. In her own music, as well as within the [Drömfakulteten collective](https://dromfakulteten.tumblr.com/), Sissel deals in a congruous style of spacious and crisply detailed studio action, exploring the spaces behind and after the notes as much as what comes in between. 
 <br><br>

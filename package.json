@@ -18,7 +18,8 @@
     "astro-pagefind": "^1.8.6",
     "slugify": "^1.6.9",
     "typescript": "^5.9.3",
-    "underscore": "^1.13.8"
+    "underscore": "^1.13.8",
+    "yaml": "^2.9.1"
   },
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.20",

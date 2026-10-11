@@ -8,27 +8,6 @@ guestPic: the_sorcerers.jpg
 author: Anto
 writer: Anto
 illustrator: Pierre-Julien Fieux
-track1_title: Saif Abu Bakr & The Scorpions - Nile Waves
-track1_color: vibrant
-track1_link: https://sounds.mailta.pe/595/track1.mp3
-track2_title: Mulatu Astatke - Ené Alantchie Alnorem
-track2_color: dreamy
-track2_link: https://sounds.mailta.pe/595/track2.mp3
-track3_title: Hailu Mergia & Dahlak Band - Migibima Moltual
-track3_color: bliss
-track3_link: https://sounds.mailta.pe/595/track3.mp3
-track4_title: The Sorcerers – The Great Belt
-track4_color: trippy
-track4_link: https://sounds.mailta.pe/595/track4.mp3
-track5_title: Sun Atlas – Wandering Around Haccika
-track5_color: bliss
-track5_link: https://sounds.mailta.pe/595/track5.mp3
-track6_title: Lord Paramour – East Color
-track6_color: trippy
-track6_link: https://sounds.mailta.pe/595/track6.mp3
-track7_title: Tasmin – The Bride Dance
-track7_color: trippy
-track7_link: https://sounds.mailta.pe/595/track7.mp3
 description: This morning, MailTape offers you the soundtrack of a thrilling
   film that could take place somewhere in East Africa, like an Ethiopian
   Tarantino, with real contemplative shots, incredible action scenes, languid
@@ -38,6 +17,34 @@ description: This morning, MailTape offers you the soundtrack of a thrilling
 episode_URL: https://www.mailta.pe/595/The-Sorcerers/
 image: https://www.mailta.pe/img/InstaPic595.png
 musiColor: musicolor595.png
+track1:
+  title: Saif Abu Bakr & The Scorpions - Nile Waves
+  color: vibrant
+  link: https://sounds.mailta.pe/595/track1.mp3
+track2:
+  title: Mulatu Astatke - Ené Alantchie Alnorem
+  color: dreamy
+  link: https://sounds.mailta.pe/595/track2.mp3
+track3:
+  title: Hailu Mergia & Dahlak Band - Migibima Moltual
+  color: bliss
+  link: https://sounds.mailta.pe/595/track3.mp3
+track4:
+  title: The Sorcerers – The Great Belt
+  color: trippy
+  link: https://sounds.mailta.pe/595/track4.mp3
+track5:
+  title: Sun Atlas – Wandering Around Haccika
+  color: bliss
+  link: https://sounds.mailta.pe/595/track5.mp3
+track6:
+  title: Lord Paramour – East Color
+  color: trippy
+  link: https://sounds.mailta.pe/595/track6.mp3
+track7:
+  title: Tasmin – The Bride Dance
+  color: trippy
+  link: https://sounds.mailta.pe/595/track7.mp3
 ---
 This morning, MailTape offers you the soundtrack of a thrilling film that could take place somewhere in East Africa, like an Ethiopian Tarantino, with real contemplative shots, incredible action scenes, languid moments... An adventure in 7 chapters, a fabulous journey between gems of a futuristic past and resolutely modern sounds, which draw from varied influences!
 

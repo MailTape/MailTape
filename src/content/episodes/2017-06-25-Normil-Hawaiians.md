@@ -1,39 +1,47 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
-category: '266'
+category: "266"
 author: Sanjay Mistry
 illustrator: Pierre-Julien Fieux
 guest_name: Normil Hawaiians
 guest_color: trippy
-track1_link: https://sounds.mailta.pe/266/track1.mp3
-track2_link: https://sounds.mailta.pe/266/track2.mp3
-track3_link: https://sounds.mailta.pe/266/track3.mp3
-track4_link: https://sounds.mailta.pe/266/track4.mp3
-track5_link: https://sounds.mailta.pe/266/track5.mp3
-track6_link: https://sounds.mailta.pe/266/track6.mp3
-track7_link: https://sounds.mailta.pe/266/track7.mp3
-track1_title: Fela Kuti - Power Show (Edit)
-track1_color: vibrant
-track2_title: Isao Tomita - Arabesque No. 1 (Debussy)
-track2_color: dreamy
-track3_title: NEU! - Hallo Gallo
-track3_color: trippy
-track4_title: Normil Hawaiians - Yellow Rain
-track4_color: bliss
-track5_title: Les Filles De Illighadad - Fatou
-track5_color: dreamy
-track6_title: Annette Peacock - Survival
-track6_color: bliss
-track7_title: A Silver Mt. Zion - The Triumph of our Tired Eyes
-track7_color: dreamy
 episode_URL: http://mailta.pe/266/normil-hawaiians/
 guestPic: guestPic266.jpg
-description: This morning, we are delighted to welcome Normil Hawaiians. Operating more like a collective than a band, the Normil Hawaiians formed in the austere post-punk permafrost of 1980s UK.
+description: This morning, we are delighted to welcome Normil Hawaiians.
+  Operating more like a collective than a band, the Normil Hawaiians formed in
+  the austere post-punk permafrost of 1980s UK.
 image: https://www.mailta.pe/img/fbPic266.jpg
 musiColor: musiColor266.png
-pubDate: '2017-06-25'
+pubDate: 2017-06-25
+track1:
+  title: Fela Kuti - Power Show (Edit)
+  color: vibrant
+  link: https://sounds.mailta.pe/266/track1.mp3
+track2:
+  title: Isao Tomita - Arabesque No. 1 (Debussy)
+  color: dreamy
+  link: https://sounds.mailta.pe/266/track2.mp3
+track3:
+  title: NEU! - Hallo Gallo
+  color: trippy
+  link: https://sounds.mailta.pe/266/track3.mp3
+track4:
+  title: Normil Hawaiians - Yellow Rain
+  color: bliss
+  link: https://sounds.mailta.pe/266/track4.mp3
+track5:
+  title: Les Filles De Illighadad - Fatou
+  color: dreamy
+  link: https://sounds.mailta.pe/266/track5.mp3
+track6:
+  title: Annette Peacock - Survival
+  color: bliss
+  link: https://sounds.mailta.pe/266/track6.mp3
+track7:
+  title: A Silver Mt. Zion - The Triumph of our Tired Eyes
+  color: dreamy
+  link: https://sounds.mailta.pe/266/track7.mp3
 ---
 This morning, we are delighted to welcome [Normil Hawaiians](http://normilhawaiians.com/). Operating more like a collective than a band, the Normil Hawaiians formed in the austere post-punk permafrost of 1980s UK.
 <p>Under the continuities of racial and economic imperialism and in the grip of another ruthless despot, freedom was in part personified by the widely vilified and brutally attacked people's Peace Convoy – a manifestation of idealism that was grotesquely smashed near Stonehenge on 1 June 1985; 537 arrested, children terrorised, idealism and hope stamped on with fear and violence.

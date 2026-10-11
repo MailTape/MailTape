@@ -1,30 +1,8 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
-track1_link: https://sounds.mailta.pe/435/track1.mp3
-track2_link: https://sounds.mailta.pe/435/track2.mp3
-track3_link: https://sounds.mailta.pe/435/track3.mp3
-track4_link: https://sounds.mailta.pe/435/track4.mp3
-track7_link: https://sounds.mailta.pe/435/track7.mp3
-track5_link: https://sounds.mailta.pe/435/track5.mp3
-track6_link: https://sounds.mailta.pe/435/track6.mp3
-track1_title: Chaz Jenkel - I can get over it (if you can get over here)
-track2_title: Pilar Zeta - Clouds to Remember
-track3_title: Syzygys - Fauna Grotesque
-track4_title: World Brain - Hypertext
-track5_title: Yves Tumor - Strawberry Privilege
-track6_title: Future Islands - Born in a War
-track7_title: Wardown - Lorem Ipsum
-track6_color: bliss
-track7_color: dreamy
-track5_color: bliss
-track4_color: dreamy
-track3_color: trippy
-track2_color: dreamy
-track1_color: vibrant
 guest_name: World Brain
-category: '435'
+category: "435"
 writer: Daisy
 author: ImaCrea
 illustrator: Anthony Dujardin
@@ -32,9 +10,40 @@ guestPic: guestPic435.jpg
 episode_URL: https://www.mailta.pe/435/world-brain/
 image: https://www.mailta.pe/img/fbPic435.png
 musiColor: musiColor435.png
-description: This morning, some delicious morsels of sonic data have found their way to us, beamed directly from the mind of World Brain (or Lucas Ufo IRL). These nifty signals hold secrets to be unravelled, spilling all around us and across the sky of an animated reality in pastel-perfect colours.
+description: This morning, some delicious morsels of sonic data have found their
+  way to us, beamed directly from the mind of World Brain (or Lucas Ufo IRL).
+  These nifty signals hold secrets to be unravelled, spilling all around us and
+  across the sky of an animated reality in pastel-perfect colours.
 guest_color: dreamy
-pubDate: '2021-01-24'
+pubDate: 2021-01-24
+track1:
+  title: Chaz Jenkel - I can get over it (if you can get over here)
+  color: vibrant
+  link: https://sounds.mailta.pe/435/track1.mp3
+track2:
+  title: Pilar Zeta - Clouds to Remember
+  color: dreamy
+  link: https://sounds.mailta.pe/435/track2.mp3
+track3:
+  title: Syzygys - Fauna Grotesque
+  color: trippy
+  link: https://sounds.mailta.pe/435/track3.mp3
+track4:
+  title: World Brain - Hypertext
+  color: dreamy
+  link: https://sounds.mailta.pe/435/track4.mp3
+track5:
+  title: Yves Tumor - Strawberry Privilege
+  color: bliss
+  link: https://sounds.mailta.pe/435/track5.mp3
+track6:
+  title: Future Islands - Born in a War
+  color: bliss
+  link: https://sounds.mailta.pe/435/track6.mp3
+track7:
+  title: Wardown - Lorem Ipsum
+  color: dreamy
+  link: https://sounds.mailta.pe/435/track7.mp3
 ---
 This morning, some delicious morsels of sonic data have found their way to us, beamed directly from the mind of World Brain (or Lucas Ufo IRL). These nifty signals hold secrets to be unravelled, spilling all around us and across the sky of an animated reality in pastel-perfect colours.<br><br>
 

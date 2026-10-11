@@ -1,39 +1,46 @@
 ---
-
 published: true
 author: Dimitri
 guest_color: vibrant
-bigTitle_font_ratio: '6'
-bigTitle_line_ratio: '1'
-track1_color: bliss
-track2_color: trippy
-track3_color: bliss
-track4_color: vibrant
-track5_color: vibrant
-track6_color: trippy
-track7_color: bliss
-category: '145'
+bigTitle_font_ratio: "6"
+bigTitle_line_ratio: "1"
+category: "145"
 guest_name: Pendentif
 guestPic: guestPic145.jpg
-track1_link: https://sounds.mailta.pe/145/track1.mp3
-track2_link: https://sounds.mailta.pe/145/track2.mp3
-track3_link: https://sounds.mailta.pe/145/track3.mp3
-track4_link: https://sounds.mailta.pe/145/track4.mp3
-track5_link: https://sounds.mailta.pe/145/track5.mp3
-track6_link: https://sounds.mailta.pe/145/track6.mp3
-track7_link: https://sounds.mailta.pe/145/track7.mp3
-track1_title: Blood Orange - You're Not Good Enough
-track2_title: Matthewdavid - In My World
-track3_title: Rhye - 3 Days
-track4_title: Pendentif - 1er Juillet
-track6_title: NICODXMVS - Im 2 Blame...
-track5_title: Turks And Caicos - Cars Outside
-track7_title: Caribou - Can't Do Without You
 episode_URL: http://mailta.pe/145/Pendentif
 image: https://www.mailta.pe/img/fbPic145.jpg
-description: This morning, the Bordeaux-based French pop band Pendentif has prepared you a musical cocktail to be enjoyed without reserve…
+description: This morning, the Bordeaux-based French pop band Pendentif has
+  prepared you a musical cocktail to be enjoyed without reserve…
 musiColor: musiColor145.png
-pubDate: '2014-06-15'
+pubDate: 2014-06-15
+track1:
+  title: Blood Orange - You're Not Good Enough
+  color: bliss
+  link: https://sounds.mailta.pe/145/track1.mp3
+track2:
+  title: Matthewdavid - In My World
+  color: trippy
+  link: https://sounds.mailta.pe/145/track2.mp3
+track3:
+  title: Rhye - 3 Days
+  color: bliss
+  link: https://sounds.mailta.pe/145/track3.mp3
+track4:
+  title: Pendentif - 1er Juillet
+  color: vibrant
+  link: https://sounds.mailta.pe/145/track4.mp3
+track5:
+  title: Turks And Caicos - Cars Outside
+  color: vibrant
+  link: https://sounds.mailta.pe/145/track5.mp3
+track6:
+  title: NICODXMVS - Im 2 Blame...
+  color: trippy
+  link: https://sounds.mailta.pe/145/track6.mp3
+track7:
+  title: Caribou - Can't Do Without You
+  color: bliss
+  link: https://sounds.mailta.pe/145/track7.mp3
 ---
 
 

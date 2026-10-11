@@ -1,40 +1,50 @@
 ---
-
-bigTitle_font_ratio: '6'
-track1_link: https://sounds.mailta.pe/387/track1.mp3
+bigTitle_font_ratio: "6"
 guestPic: guestPic387.jpg
 guest_color: trippy
 guest_name: Bobun Fever
-category: '387'
+category: "387"
 writer: Anaïs G
 illustrator: Pierre-Julien Fieux
 author: Anaïs G
 published: true
-track4_link: https://sounds.mailta.pe/387/track4.mp3
-track5_link: https://sounds.mailta.pe/387/track5.mp3
-track2_link: https://sounds.mailta.pe/387/track2.mp3
-track3_link: https://sounds.mailta.pe/387/track3.mp3
-track6_link: https://sounds.mailta.pe/387/track6.mp3
-track7_link: https://sounds.mailta.pe/387/track7.mp3
-track1_title: Rubin Steiner - Paradise
-track1_color: dreamy
-track2_title: Richard Dawson - Weaver
-track2_color: vibrant
-track3_title: 'Cat Power - Sun '
-track3_color: dreamy
-track4_title: Bobun Fever - Happy Banana
-track4_color: trippy
-track5_title: Lachinos - Alas Rotas
-track5_color: bliss
-track6_title: Cannibale - Do Not Love Me Too Much
-track6_color: trippy
-track7_title: Nubiyan Twist - Tell It To Me Slowly
-track7_color: bliss
 episode_URL: http://mailta.pe/387/bobun-fever/
 image: https://www.mailta.pe/img/fbPic387.png
 musiColor: musiColor387.png
-description: This morning, we are optimistic, it is a new year full of hope and discovery. It's one of the MailTape crew's promises, more music, always with the desire to share new bands, and to love your Sunday morning. To honour the year 2020, nothing better than Bobun Fever  to put chili instead of sugar in your coffee!
-pubDate: '2020-01-05'
+description: This morning, we are optimistic, it is a new year full of hope and
+  discovery. It's one of the MailTape crew's promises, more music, always with
+  the desire to share new bands, and to love your Sunday morning. To honour the
+  year 2020, nothing better than Bobun Fever  to put chili instead of sugar in
+  your coffee!
+pubDate: 2020-01-05
+track1:
+  title: Rubin Steiner - Paradise
+  color: dreamy
+  link: https://sounds.mailta.pe/387/track1.mp3
+track2:
+  title: Richard Dawson - Weaver
+  color: vibrant
+  link: https://sounds.mailta.pe/387/track2.mp3
+track3:
+  title: "Cat Power - Sun "
+  color: dreamy
+  link: https://sounds.mailta.pe/387/track3.mp3
+track4:
+  title: Bobun Fever - Happy Banana
+  color: trippy
+  link: https://sounds.mailta.pe/387/track4.mp3
+track5:
+  title: Lachinos - Alas Rotas
+  color: bliss
+  link: https://sounds.mailta.pe/387/track5.mp3
+track6:
+  title: Cannibale - Do Not Love Me Too Much
+  color: trippy
+  link: https://sounds.mailta.pe/387/track6.mp3
+track7:
+  title: Nubiyan Twist - Tell It To Me Slowly
+  color: bliss
+  link: https://sounds.mailta.pe/387/track7.mp3
 ---
 
  This morning, we are optimistic, it is a new year full of hope and discovery. It's one of the MailTape crew's promises, more music, always with the desire to share new bands, and to love your Sunday morning. To honour the year 2020, nothing better than [Bobun Fever](https://www.facebook.com/bobunfever/) to put chili instead of sugar in your coffee! 

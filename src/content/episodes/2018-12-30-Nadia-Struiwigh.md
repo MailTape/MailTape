@@ -1,40 +1,48 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Sanjay Mistry
 illustrator: Pierre-Julien Fieux
 writer: Sanjay Mistry
-category: '338'
+category: "338"
 guest_name: Nadia Struiwigh
 guest_color: dreamy
-track1_link: https://sounds.mailta.pe/338/track1.mp3
-track2_link: https://sounds.mailta.pe/338/track2.mp3
-track3_link: https://sounds.mailta.pe/338/track3.mp3
-track4_link: https://sounds.mailta.pe/338/track4.mp3
-track5_link: https://sounds.mailta.pe/338/track5.mp3
-track6_link: https://sounds.mailta.pe/338/track6.mp3
-track7_link: https://sounds.mailta.pe/338/track7.mp3
-track1_title: West Dylan Thordson – Meeting the Others
-track1_color: dreamy
-track2_title: Helios – It Was Warmer Then
-track2_color: bliss
-track3_title: Be Forest – Totem
-track3_color: trippy
-track4_title: Nadia Struiwigh – Roeiweijk
-track4_color: dreamy
-track5_title: Kara-Lis Coverdale – Vessels
-track5_color: bliss
-track6_title: Roslyn Steer – Busy Window
-track6_color: dreamy
-track7_title: Grouper – Being Her Shadow
-track7_color: dreamy
 episode_URL: http://mailta.pe/338/nadia-struiwigh/
-description: In this final episode of 2018, we are delighted to welcome Rotterdam-based DJ and electronic producer Nadia Struiwigh as she picks three meditative Sunday morning tunes.
+description: In this final episode of 2018, we are delighted to welcome
+  Rotterdam-based DJ and electronic producer Nadia Struiwigh as she picks three
+  meditative Sunday morning tunes.
 image: https://www.mailta.pe/img/fbPic338.jpg
 guestPic: guestPic338.jpg
 musiColor: musiColor338.png
-pubDate: '2018-12-30'
+pubDate: 2018-12-30
+track1:
+  title: West Dylan Thordson – Meeting the Others
+  color: dreamy
+  link: https://sounds.mailta.pe/338/track1.mp3
+track2:
+  title: Helios – It Was Warmer Then
+  color: bliss
+  link: https://sounds.mailta.pe/338/track2.mp3
+track3:
+  title: Be Forest – Totem
+  color: trippy
+  link: https://sounds.mailta.pe/338/track3.mp3
+track4:
+  title: Nadia Struiwigh – Roeiweijk
+  color: dreamy
+  link: https://sounds.mailta.pe/338/track4.mp3
+track5:
+  title: Kara-Lis Coverdale – Vessels
+  color: bliss
+  link: https://sounds.mailta.pe/338/track5.mp3
+track6:
+  title: Roslyn Steer – Busy Window
+  color: dreamy
+  link: https://sounds.mailta.pe/338/track6.mp3
+track7:
+  title: Grouper – Being Her Shadow
+  color: dreamy
+  link: https://sounds.mailta.pe/338/track7.mp3
 ---
 In this final episode of 2018, we are delighted to welcome Rotterdam-based DJ and electronic producer [Nadia Struiwigh](https://www.nadiastruiwigh.com/) as she picks three meditative Sunday morning tunes.
 <br><br>

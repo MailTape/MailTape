@@ -1,40 +1,49 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
-track1_title: Over The Rhine - Poughkeepsie
-category: '507'
+category: "507"
 guest_name: Soren Song
-track2_title: Sean Rowe - I'll Follow Your Trail
-track1_color: dreamy
-track2_color: bliss
 guest_color: vibrant
 illustrator: Meriam Kharbat
 author: Sarah
 writer: Sarah
-track3_title: The Beatles - A Day In The Life
-track3_color: trippy
-track4_title: Soren Song - Gentle Man
-track4_color: vibrant
-track1_link: https://sounds.mailta.pe/507/track1.mp3
-track2_link: https://sounds.mailta.pe/507/track2.mp3
-track3_link: https://sounds.mailta.pe/507/track3.mp3
-track5_color: dreamy
-track6_color: bliss
-track7_color: trippy
-track6_title: Soren Song - That Furious Rain
-track6_link: https://sounds.mailta.pe/507/track6.mp3
-track5_link: https://sounds.mailta.pe/507/track5.mp3
-track5_title: Adelyn Rose - Gone for Anything
 guestPic: guestPic507.jpg
 episode_URL: http://mailta.pe/507/Soren-Song/
 image: https://www.mailta.pe/img/fbPic507.png
-track4_link: https://sounds.mailta.pe/507/track4.mp3
-track7_link: https://sounds.mailta.pe/507/track7.mp3
-track7_title: Rainbow Kitten Surprise - Polite Company
-description: With lots of love, this morning we welcome Soren Song to MailTape. Based in Woodstock, NY, their work is brimming with striking descriptions and deeply perceptive lyricism. It's a true joy to welcome them for a collection of tracks to start your Sunday.
-musiColor: ''
-pubDate: '2022-11-27'
+description: With lots of love, this morning we welcome Soren Song to MailTape.
+  Based in Woodstock, NY, their work is brimming with striking descriptions and
+  deeply perceptive lyricism. It's a true joy to welcome them for a collection
+  of tracks to start your Sunday.
+musiColor: ""
+pubDate: 2022-11-27
+track1:
+  title: Over The Rhine - Poughkeepsie
+  color: dreamy
+  link: https://sounds.mailta.pe/507/track1.mp3
+track2:
+  title: Sean Rowe - I'll Follow Your Trail
+  color: bliss
+  link: https://sounds.mailta.pe/507/track2.mp3
+track3:
+  title: The Beatles - A Day In The Life
+  color: trippy
+  link: https://sounds.mailta.pe/507/track3.mp3
+track4:
+  title: Soren Song - Gentle Man
+  color: vibrant
+  link: https://sounds.mailta.pe/507/track4.mp3
+track5:
+  title: Adelyn Rose - Gone for Anything
+  color: dreamy
+  link: https://sounds.mailta.pe/507/track5.mp3
+track6:
+  title: Soren Song - That Furious Rain
+  color: bliss
+  link: https://sounds.mailta.pe/507/track6.mp3
+track7:
+  title: Rainbow Kitten Surprise - Polite Company
+  color: trippy
+  link: https://sounds.mailta.pe/507/track7.mp3
 ---
  With lots of love, this morning we welcome [Soren Song](https://www.sorensong.com/) to MailTape. Based in Rockland County, NY, their work spans indie folk and americana genres, and is absolutely brimming with striking descriptions and deeply perceptive lyricism. It's a true joy to welcome them for a collection of tracks to start your Sunday.
   <br><br>

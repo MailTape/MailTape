@@ -1,39 +1,47 @@
 ---
-
 published: true
 author: Maxime
 guest_color: dreamy
-bigTitle_font_ratio: '10'
-bigTitle_line_ratio: '1'
-track1_color: dreamy
-track2_color: vibrant
-track3_color: vibrant
-track4_color: dreamy
-track5_color: bliss
-track6_color: dreamy
-track7_color: vibrant
-category: '185'
+bigTitle_font_ratio: "10"
+bigTitle_line_ratio: "1"
+category: "185"
 guest_name: Trevor Dickson
-track1_link: https://sounds.mailta.pe/185/track1.mp3
-track3_link: https://sounds.mailta.pe/185/track3.mp3
-track4_link: https://sounds.mailta.pe/185/track4.mp3
-track5_link: https://sounds.mailta.pe/185/track5.mp3
-track6_link: https://sounds.mailta.pe/185/track6.mp3
-track7_link: https://sounds.mailta.pe/185/track7.mp3
-track2_link: https://sounds.mailta.pe/185/track2.mp3
-track1_title: Pete Drake and his Talking Steel Guitar - Forever
-track2_title: Gloomy Sunday - Billie Holiday
-track3_title: Novicat de Soeurs Missionaires - Yesu Ka Mkwebaze
-track4_title: Trevor Dickson - Power
-track5_title: Fool's Gold - Another Sun
-track6_title: Vendredi - Adonis
-track7_title: Ibo Combo - Mateau
 episode_URL: http://mailta.pe/185/Trevor-Dickson/
 guestPic: guestPic185.jpg
 image: https://www.mailta.pe/img/fbPic185.jpg
 musiColor: musiColor185.png
-description: This morning, enjoy the musical universe of a charming modern crooner. All this exotics percussions mixed with his crooner voice, sound to me as a fresh summer cocktail.
-pubDate: '2015-05-10'
+description: This morning, enjoy the musical universe of a charming modern
+  crooner. All this exotics percussions mixed with his crooner voice, sound to
+  me as a fresh summer cocktail.
+pubDate: 2015-05-10
+track1:
+  title: Pete Drake and his Talking Steel Guitar - Forever
+  color: dreamy
+  link: https://sounds.mailta.pe/185/track1.mp3
+track2:
+  title: Gloomy Sunday - Billie Holiday
+  color: vibrant
+  link: https://sounds.mailta.pe/185/track2.mp3
+track3:
+  title: Novicat de Soeurs Missionaires - Yesu Ka Mkwebaze
+  color: vibrant
+  link: https://sounds.mailta.pe/185/track3.mp3
+track4:
+  title: Trevor Dickson - Power
+  color: dreamy
+  link: https://sounds.mailta.pe/185/track4.mp3
+track5:
+  title: Fool's Gold - Another Sun
+  color: bliss
+  link: https://sounds.mailta.pe/185/track5.mp3
+track6:
+  title: Vendredi - Adonis
+  color: dreamy
+  link: https://sounds.mailta.pe/185/track6.mp3
+track7:
+  title: Ibo Combo - Mateau
+  color: vibrant
+  link: https://sounds.mailta.pe/185/track7.mp3
 ---
 
 This morning, step into the musical universe of a crooner called, Trevor Dickson. His debut album "Passion Fruit", was launched last year in November. His swooning lyrical ballads, when expressed in his crooning voice, give you a sense of journeying around the world. Whereas, the sounds produced by his percussions show off the best flavors of summer like a fresh exotic cocktail.

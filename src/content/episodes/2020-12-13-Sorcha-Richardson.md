@@ -1,40 +1,48 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Sarah
 illustrator: Jason Pridham
-category: '429'
+category: "429"
 guest_name: Sorcha Richardson
 guest_color: vibrant
-track1_link: https://sounds.mailta.pe/429/track1.mp3
-track3_link: https://sounds.mailta.pe/429/track3.mp3
-track2_link: https://sounds.mailta.pe/429/track2.mp3
-track3_color: dreamy
-track2_color: bliss
-track1_color: vibrant
-track2_title: Adrianne Lenker - Anything
-track1_title: Pillow Queens - Liffey
-track3_title: Q - Take Me Where Your Heart Is
-track4_title: Sorcha Richardson - Twisting The Knife
-track4_color: bliss
-track5_color: vibrant
-track6_color: bliss
-track7_color: dreamy
-track4_link: https://sounds.mailta.pe/429/track4.mp3
 writer: Sarah
 guestPic: guestPic429.jpg
 image: https://www.mailta.pe/img/fbPic429.png
 musiColor: musiColor429.png
 episode_URL: http://mailta.pe/429/Sorcha-Richardson
-track5_link: https://sounds.mailta.pe/429/track5.mp3
-track7_link: https://sounds.mailta.pe/429/track7.mp3
-track7_title: Michael Nau - Rides Through The Morning
-track5_title: Porridge Radio - 7 Seconds
-track6_link: https://sounds.mailta.pe/429/track6.mp3
-track6_title: Molly Parden - These Are The Times
-description: This morning, we wanted to give you plenty to daydream about. What else are Sundays for? Sorcha Richardson joins us with a varied and thoughtful selection to steady you for any kind of week that may lay ahead.
-pubDate: '2020-12-13'
+description: This morning, we wanted to give you plenty to daydream about. What
+  else are Sundays for? Sorcha Richardson joins us with a varied and thoughtful
+  selection to steady you for any kind of week that may lay ahead.
+pubDate: 2020-12-13
+track1:
+  title: Pillow Queens - Liffey
+  color: vibrant
+  link: https://sounds.mailta.pe/429/track1.mp3
+track2:
+  title: Adrianne Lenker - Anything
+  color: bliss
+  link: https://sounds.mailta.pe/429/track2.mp3
+track3:
+  title: Q - Take Me Where Your Heart Is
+  color: dreamy
+  link: https://sounds.mailta.pe/429/track3.mp3
+track4:
+  title: Sorcha Richardson - Twisting The Knife
+  color: bliss
+  link: https://sounds.mailta.pe/429/track4.mp3
+track5:
+  title: Porridge Radio - 7 Seconds
+  color: vibrant
+  link: https://sounds.mailta.pe/429/track5.mp3
+track6:
+  title: Molly Parden - These Are The Times
+  color: bliss
+  link: https://sounds.mailta.pe/429/track6.mp3
+track7:
+  title: Michael Nau - Rides Through The Morning
+  color: dreamy
+  link: https://sounds.mailta.pe/429/track7.mp3
 ---
  This morning, we wanted to give you plenty to daydream about. What else are Sundays for? [Sorcha Richardson](https://sorcharichardson.bandcamp.com/album/first-prize-bravery) joins us with a varied and thoughtful selection to steady you for any kind of week that may lay ahead.
 

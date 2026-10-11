@@ -8,32 +8,39 @@ guestPic: ola_szmidt.png
 author: ImaCrea
 illustrator: Noémie Dijon
 writer: ImaCrea
-track1_title: The Staple Singers - Uncloudy Day
-track1_color: bliss
-track1_link: https://sounds.mailta.pe/585/track1.mp3
-track2_title: Flora Purim - Open Your Eyes You Can Fly
-track2_color: trippy
-track2_link: https://sounds.mailta.pe/585/track2.mp3
-track3_title: Gary Burton Quartet feat. Eberhard Weber - B & G (Midwestern Night’s Dream)
-track3_color: dreamy
-track3_link: https://sounds.mailta.pe/585/track3.mp3
-track4_title: Ola Szmidt - Stillness
-track4_color: dreamy
-track4_link: https://sounds.mailta.pe/585/track4.mp3
-track5_title: Hiroshi Yoshimura - 水のささやき [Humming Water]
-track5_color: dreamy
-track5_link: https://sounds.mailta.pe/585/track5.mp3
-track6_title: Dustin Wong & Takako Minekawa - Benbelo
-track6_color: vibrant
-track6_link: https://sounds.mailta.pe/585/track6.mp3
-track7_title: Chassol - Music Is God My Love (Ménage à trois Love Edit)
-track7_color: bliss
-track7_link: https://sounds.mailta.pe/585/track7.mp3
 description: This morning, as we change seasons and the metamorphosis of life is
   in full swing, we are deeply enthusiastic to have Ola Szmidt as our guest.
 episode_URL: https://www.mailta.pe/585/ola-szmidt/
 image: https://www.mailta.pe/img/fbpic585.jpg
 musiColor: 1000003871.png
+track1:
+  title: The Staple Singers - Uncloudy Day
+  color: bliss
+  link: https://sounds.mailta.pe/585/track1.mp3
+track2:
+  title: Flora Purim - Open Your Eyes You Can Fly
+  color: trippy
+  link: https://sounds.mailta.pe/585/track2.mp3
+track3:
+  title: Gary Burton Quartet feat. Eberhard Weber - B & G (Midwestern Night’s Dream)
+  color: dreamy
+  link: https://sounds.mailta.pe/585/track3.mp3
+track4:
+  title: Ola Szmidt - Stillness
+  color: dreamy
+  link: https://sounds.mailta.pe/585/track4.mp3
+track5:
+  title: Hiroshi Yoshimura - 水のささやき [Humming Water]
+  color: dreamy
+  link: https://sounds.mailta.pe/585/track5.mp3
+track6:
+  title: Dustin Wong & Takako Minekawa - Benbelo
+  color: vibrant
+  link: https://sounds.mailta.pe/585/track6.mp3
+track7:
+  title: Chassol - Music Is God My Love (Ménage à trois Love Edit)
+  color: bliss
+  link: https://sounds.mailta.pe/585/track7.mp3
 ---
 This morning, as we change seasons and the metamorphosis of life is in full swing, we are deeply enthusiastic to have Ola Szmidt as our guest.
 

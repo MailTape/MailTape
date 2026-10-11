@@ -1,40 +1,50 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: ImaCrea
 illustrator: Thibault Daumain
 writer: ImaCrea
-category: '487'
+category: "487"
 guest_name: Vimala Pons
 guest_color: trippy
 guestPic: guestPic487.jpg
-track1_title: Mumbo Jumbo - Tierra Whack
-track2_title: Peaches - AA XXX
-track3_title: Das Kinn - Das Kinn
-track2_color: vibrant
-track3_color: rough
-track3_link: https://sounds.mailta.pe/487/track3.mp3
-track2_link: https://sounds.mailta.pe/487/track2.mp3
-track1_link: https://sounds.mailta.pe/487/track1.mp3
-track1_color: trippy
-track4_color: trippy
-track5_color: vibrant
-track6_color: bliss
-track7_color: dreamy
 musiColor: musiColor487.png
 image: https://www.mailta.pe/img/fbPic487.jpg
 episode_URL: http://mailta.pe/487/Vimala-Pons/
-track4_title: Vimala Pons - Eusapia Klane Remembers
-track6_title: Emily Wells - Love Saves The Day
-track5_title: Boy Harsher - Tears
-track4_link: https://sounds.mailta.pe/487/track4.mp3
-track5_link: https://sounds.mailta.pe/487/track5.mp3
-track6_link: https://sounds.mailta.pe/487/track6.mp3
-track7_title: Antoine Bellanger - Il se frotte contre l'écorce et de son bras coule l'étoile.
-track7_link: https://sounds.mailta.pe/487/track7.mp3
-description: This morning, we're very pleased to welcome Vimala Pons as our guest for a very eclectic selection. Expect here an energizing cocktail filled with all colors we have, exactly what's needed to start spring well and fully alive.
-pubDate: '2022-03-27'
+description: This morning, we're very pleased to welcome Vimala Pons as our
+  guest for a very eclectic selection. Expect here an energizing cocktail filled
+  with all colors we have, exactly what's needed to start spring well and fully
+  alive.
+pubDate: 2022-03-27
+track1:
+  title: Mumbo Jumbo - Tierra Whack
+  color: trippy
+  link: https://sounds.mailta.pe/487/track1.mp3
+track2:
+  title: Peaches - AA XXX
+  color: vibrant
+  link: https://sounds.mailta.pe/487/track2.mp3
+track3:
+  title: Das Kinn - Das Kinn
+  color: rough
+  link: https://sounds.mailta.pe/487/track3.mp3
+track4:
+  title: Vimala Pons - Eusapia Klane Remembers
+  color: trippy
+  link: https://sounds.mailta.pe/487/track4.mp3
+track5:
+  title: Boy Harsher - Tears
+  color: vibrant
+  link: https://sounds.mailta.pe/487/track5.mp3
+track6:
+  title: Emily Wells - Love Saves The Day
+  color: bliss
+  link: https://sounds.mailta.pe/487/track6.mp3
+track7:
+  title: Antoine Bellanger - Il se frotte contre l'écorce et de son bras coule
+    l'étoile.
+  color: dreamy
+  link: https://sounds.mailta.pe/487/track7.mp3
 ---
 This morning, we're very pleased to welcome [Vimala Pons](https://vimalapons.bandcamp.com/) as our guest for a very eclectic selection. Expect here an energizing cocktail filled with all colors we have, exactly what's needed to start spring well and fully alive.
 

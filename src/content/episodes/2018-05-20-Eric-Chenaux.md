@@ -1,40 +1,48 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Sanjay Mistry
 illustrator: Pierre-Julien Fieux
 writer: Sanjay Mistry
-category: '313'
+category: "313"
 guest_name: Eric Chenaux
 guest_color: dreamy
-track1_link: https://sounds.mailta.pe/313/track1.mp3
-track2_link: https://sounds.mailta.pe/313/track2.mp3
-track3_link: https://sounds.mailta.pe/313/track3.mp3
-track4_link: https://sounds.mailta.pe/313/track4.mp3
-track5_link: https://sounds.mailta.pe/313/track5.mp3
-track6_link: https://sounds.mailta.pe/313/track6.mp3
-track7_link: https://sounds.mailta.pe/313/track7.mp3
-track1_title: Martin Arnold – Stain Ballad
-track1_color: trippy
-track2_title: Allison Cameron – Tree Ferns (Performed by Wiek HIjmans)
-track2_color: bliss
-track3_title: Linda Catlin Smith – Moi Qui Tremblais
-track3_color: dreamy
-track4_title: Eric Chenaux – There's Our Love
-track4_color: dreamy
-track5_title: Tashi Dorji – Karma Lata
-track5_color: trippy
-track6_title: Marisa Anderson – Into The Light
-track6_color: bliss
-track7_title: Cara Stacey & Shh..Art Ensemble – Come Near Me
-track7_color: dreamy
 episode_URL: http://mailta.pe/313/eric-chenaux/
 guestPic: guestPic313.jpg
-description: Close your eyes and float away in a blissful auditory dream courtesy of Paris-based guitarist, Eric Chenaux. He provides us with a sweet Sunday morning glimpse into Canada’s contemporary music milieu.
+description: Close your eyes and float away in a blissful auditory dream
+  courtesy of Paris-based guitarist, Eric Chenaux. He provides us with a sweet
+  Sunday morning glimpse into Canada’s contemporary music milieu.
 image: https://www.mailta.pe/img/fbPic313.jpg
 musiColor: musiColor313.png
-pubDate: '2018-05-20'
+pubDate: 2018-05-20
+track1:
+  title: Martin Arnold – Stain Ballad
+  color: trippy
+  link: https://sounds.mailta.pe/313/track1.mp3
+track2:
+  title: Allison Cameron – Tree Ferns (Performed by Wiek HIjmans)
+  color: bliss
+  link: https://sounds.mailta.pe/313/track2.mp3
+track3:
+  title: Linda Catlin Smith – Moi Qui Tremblais
+  color: dreamy
+  link: https://sounds.mailta.pe/313/track3.mp3
+track4:
+  title: Eric Chenaux – There's Our Love
+  color: dreamy
+  link: https://sounds.mailta.pe/313/track4.mp3
+track5:
+  title: Tashi Dorji – Karma Lata
+  color: trippy
+  link: https://sounds.mailta.pe/313/track5.mp3
+track6:
+  title: Marisa Anderson – Into The Light
+  color: bliss
+  link: https://sounds.mailta.pe/313/track6.mp3
+track7:
+  title: Cara Stacey & Shh..Art Ensemble – Come Near Me
+  color: dreamy
+  link: https://sounds.mailta.pe/313/track7.mp3
 ---
 Close your eyes and float away in a blissful auditory dream courtesy of Paris-based guitarist, [Eric Chenaux](http://ericchenaux.com/). He provides us with a sweet Sunday morning glimpse into Canada's contemporary music milieu.
 <p>In his own music, melodies are teased out, textures repeat and the tempo often remains a leisurely stroll as he muses over motifs—love, moonlight, longing, intimacy, interdependence.

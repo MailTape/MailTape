@@ -1,39 +1,48 @@
 ---
-
 published: true
 guest_color: vibrant
-bigTitle_font_ratio: '6'
-bigTitle_line_ratio: '1'
-track1_color: vibrant
-track2_color: vibrant
-track3_color: vibrant
-track4_color: vibrant
-track5_color: vibrant
-track6_color: vibrant
-track7_color: vibrant
-description: 'This morning, discover a 100% MailTape Crew episode. The perfect occasion to celebrate the arrival of our two new curators : Julien and Dimitri. Spring is on its way, here’s our vibrant hymn to help Mother Nature in her slow awakening.'
-category: '131'
+bigTitle_font_ratio: "6"
+bigTitle_line_ratio: "1"
+description: "This morning, discover a 100% MailTape Crew episode. The perfect
+  occasion to celebrate the arrival of our two new curators : Julien and
+  Dimitri. Spring is on its way, here’s our vibrant hymn to help Mother Nature
+  in her slow awakening."
+category: "131"
 episode_URL: http://mailta.pe/131-Vibrant-Spring.html
 guest_name: Vibrant Spring
-track1_title: Willis Earl Beal - Coming Through (feat. Cat Power)
-track1_link: https://sounds.mailta.pe/131/track1.mp3
-track2_title: KID WISE - Hope
-track2_link: https://sounds.mailta.pe/131/track2.mp3
-track3_title: GLITCHES - RGB (VIMES Remix)
-track3_link: https://sounds.mailta.pe/131/track3.mp3
-track4_link: https://sounds.mailta.pe/131/track4.mp3
-track4_title: Georgio - A Tous les Coups
-track5_link: https://sounds.mailta.pe/131/track5.mp3
-track5_title: Flyte - We Are the Rain
-track6_title: Horse Feathers - Curs in the Weeds (oddlogic refix)
-track6_link: https://sounds.mailta.pe/131/track6.mp3
-track7_title: Yinyues - Zing Wezé Mama
-track7_link: https://sounds.mailta.pe/131/track7.mp3
 author: MailTape Crew
 guestPic: guestPic131.jpg
 musiColor: musiColor131.png
 image: https://www.mailta.pe/img/fbPic131.png
-pubDate: '2014-03-09'
+pubDate: 2014-03-09
+track1:
+  title: Willis Earl Beal - Coming Through (feat. Cat Power)
+  color: vibrant
+  link: https://sounds.mailta.pe/131/track1.mp3
+track2:
+  title: KID WISE - Hope
+  color: vibrant
+  link: https://sounds.mailta.pe/131/track2.mp3
+track3:
+  title: GLITCHES - RGB (VIMES Remix)
+  color: vibrant
+  link: https://sounds.mailta.pe/131/track3.mp3
+track4:
+  title: Georgio - A Tous les Coups
+  color: vibrant
+  link: https://sounds.mailta.pe/131/track4.mp3
+track5:
+  title: Flyte - We Are the Rain
+  color: vibrant
+  link: https://sounds.mailta.pe/131/track5.mp3
+track6:
+  title: Horse Feathers - Curs in the Weeds (oddlogic refix)
+  color: vibrant
+  link: https://sounds.mailta.pe/131/track6.mp3
+track7:
+  title: Yinyues - Zing Wezé Mama
+  color: vibrant
+  link: https://sounds.mailta.pe/131/track7.mp3
 ---
 
 

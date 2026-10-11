@@ -1,6 +1,5 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 musiColor: musiColor403.png
 image: https://www.mailta.pe/img/fbPic403.png
@@ -8,33 +7,45 @@ episode_URL: http://mailta.pe/403/quiet-dawn/
 guestPic: guestPic403.jpg
 guest_color: trippy
 guest_name: Quiet Dawn
-category: '403'
+category: "403"
 writer: Anaïs G
 illustrator: Anthony Dujardin
 author: Anaïs G
-track1_link: https://sounds.mailta.pe/403/track1.mp3
-track2_link: https://sounds.mailta.pe/403/track2.mp3
-track3_link: https://sounds.mailta.pe/403/track3.mp3
-track4_link: https://sounds.mailta.pe/403/track4.mp3
-track5_link: https://sounds.mailta.pe/403/track5.mp3
-track6_link: https://sounds.mailta.pe/403/track6.mp3
-track7_link: https://sounds.mailta.pe/403/track7.mp3
-track1_title: Bugz In The Attic - Red Handed
-track1_color: bliss
-track2_title: Ice - Reality
-track2_color: bliss
-track3_title: Antonio Carlos Jobim - Brazil
-track3_color: dreamy
-track4_title: Quiet Dawn - Being
-track4_color: trippy
-track5_title: 'Tigran Hamasyan - Vardavar '
-track5_color: bliss
-track6_title: Swarvy - Spam Grease (Feat Kiefer Shackelford)
-track6_color: dreamy
-track7_title: Hania Rani - Sun
-track7_color: vibrant
-description: This morning, we're away from the troubles. In our bed to wander around, or on our deckchair to be gilded in our garden for the lucky ones, our mind wanders elsewhere to find the inner peace we need. How can you think about tomorrow when it's far away or blurry? Enjoying the present moment is the best resolution as well as listening to this Sunday's selection made by the artist Quiet Dawn.
-pubDate: '2020-04-26'
+description: This morning, we're away from the troubles. In our bed to wander
+  around, or on our deckchair to be gilded in our garden for the lucky ones, our
+  mind wanders elsewhere to find the inner peace we need. How can you think
+  about tomorrow when it's far away or blurry? Enjoying the present moment is
+  the best resolution as well as listening to this Sunday's selection made by
+  the artist Quiet Dawn.
+pubDate: 2020-04-26
+track1:
+  title: Bugz In The Attic - Red Handed
+  color: bliss
+  link: https://sounds.mailta.pe/403/track1.mp3
+track2:
+  title: Ice - Reality
+  color: bliss
+  link: https://sounds.mailta.pe/403/track2.mp3
+track3:
+  title: Antonio Carlos Jobim - Brazil
+  color: dreamy
+  link: https://sounds.mailta.pe/403/track3.mp3
+track4:
+  title: Quiet Dawn - Being
+  color: trippy
+  link: https://sounds.mailta.pe/403/track4.mp3
+track5:
+  title: "Tigran Hamasyan - Vardavar "
+  color: bliss
+  link: https://sounds.mailta.pe/403/track5.mp3
+track6:
+  title: Swarvy - Spam Grease (Feat Kiefer Shackelford)
+  color: dreamy
+  link: https://sounds.mailta.pe/403/track6.mp3
+track7:
+  title: Hania Rani - Sun
+  color: vibrant
+  link: https://sounds.mailta.pe/403/track7.mp3
 ---
  This morning, we’re away from the troubles. In our bed to wander around, or on our deckchair to be gilded in our garden for the lucky ones, our mind wanders elsewhere to find the inner peace we need. How can you think about tomorrow when it’s far away or blurry? Enjoying the present moment is the best resolution as well as listening to this Sunday’s selection made by the artist [Quiet Dawn](https://quietdawn.bandcamp.com/). 
 <br><br>

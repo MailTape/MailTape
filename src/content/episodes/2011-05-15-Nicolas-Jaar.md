@@ -1,40 +1,48 @@
 ---
-
 author: ImaCrea
 illustrator: William Girault
 writer: ImaCrea
-category: '3'
+category: "3"
 guest_name: Nicolas Jaar
 guest_color: dreamy
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 guestPic: guestPic3.jpg
-track1_link: https://sounds.mailta.pe/3/track1.mp3
-track2_link: https://sounds.mailta.pe/3/track2.mp3
-track3_link: https://sounds.mailta.pe/3/track3.mp3
-track4_link: https://sounds.mailta.pe/3/track4.mp3
-track5_link: https://sounds.mailta.pe/3/track5.mp3
-track6_link: https://sounds.mailta.pe/3/track6.mp3
-track7_link: https://sounds.mailta.pe/3/track7.mp3
-track1_title: The Electric Prunes - Holy Are You
-track1_color: trippy
-track2_title: Al Green - Simply Beautiful
-track2_color: bliss
-track3_title: Nas - Get Down
-track3_color: vibrant
-track4_title: Laid Back - Bakerman
-track4_color: vibrant
-track5_title: Erykah Badu - Gone Baby, Don't Be Long
-track5_color: dreamy
-track6_title: Man Man - Life is Fantastic
-track6_color: dreamy
-track7_title: Danger Mouse & Daniele Lupi - Two Against One (feat. Jack White)
-track7_color: bliss
 episode_URL: http://mailta.pe/3/Nicolas-Jaar/
 image: https://www.mailta.pe/img/fbPic3.png
 musiColor: musiColor3.png
-description: This morning, Nicolas Jaar is inviting you to embark on a psychedelic journey with “The Electric Prunes”. In reality, we are still dreaming, and this is only the start of our journey...
+description: This morning, Nicolas Jaar is inviting you to embark on a
+  psychedelic journey with “The Electric Prunes”. In reality, we are still
+  dreaming, and this is only the start of our journey...
 published: true
-pubDate: '2011-05-15'
+pubDate: 2011-05-15
+track1:
+  title: The Electric Prunes - Holy Are You
+  color: trippy
+  link: https://sounds.mailta.pe/3/track1.mp3
+track2:
+  title: Al Green - Simply Beautiful
+  color: bliss
+  link: https://sounds.mailta.pe/3/track2.mp3
+track3:
+  title: Nas - Get Down
+  color: vibrant
+  link: https://sounds.mailta.pe/3/track3.mp3
+track4:
+  title: Laid Back - Bakerman
+  color: vibrant
+  link: https://sounds.mailta.pe/3/track4.mp3
+track5:
+  title: Erykah Badu - Gone Baby, Don't Be Long
+  color: dreamy
+  link: https://sounds.mailta.pe/3/track5.mp3
+track6:
+  title: Man Man - Life is Fantastic
+  color: dreamy
+  link: https://sounds.mailta.pe/3/track6.mp3
+track7:
+  title: Danger Mouse & Daniele Lupi - Two Against One (feat. Jack White)
+  color: bliss
+  link: https://sounds.mailta.pe/3/track7.mp3
 ---
 This morning, [Nicolas Jaar](https://www.facebook.com/Nicolas-Jaar-15727540611/) is inviting you to embark on a psychedelic journey with “The Electric Prunes”.
 In reality, we are still dreaming, and this is only the start of our journey. “Al Green” is now taking your hand, painting the most idyllic, eye-catching scenery. To the sound of “Nas” our eyes finally open, allowing us to slowly motion out of bed to some samples of “James Brown”.

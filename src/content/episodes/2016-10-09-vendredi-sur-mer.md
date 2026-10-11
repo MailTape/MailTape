@@ -1,40 +1,48 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Maxime
 illustrator: Pierre-Julien Fieux
 writer: Maxime
-category: '229'
+category: "229"
 guest_name: Vendredi Sur Mer
 guest_color: dreamy
 guestPic: guestPic229.jpg
-track1_link: https://sounds.mailta.pe/229/track1.mp3
-track2_link: https://sounds.mailta.pe/229/track2.mp3
-track3_link: https://sounds.mailta.pe/229/track3.mp3
-track4_link: https://sounds.mailta.pe/229/track4.mp3
-track5_link: https://sounds.mailta.pe/229/track5.mp3
-track6_link: https://sounds.mailta.pe/229/track6.mp3
-track7_link: https://sounds.mailta.pe/229/track7.mp3
-track1_title: Claude Violante - I Kill By Night
-track1_color: rough
-track2_title: Octav - Man from the Stars
-track2_color: vibrant
-track3_title: Bengale - Je Danse le Mia (Iam cover)
-track3_color: vibrant
-track4_title: Vendredi Sur Mer - La Femme à la Peau Bleue
-track4_color: dreamy
-track5_title: Puma Blue - Want Me
-track5_color: dreamy
-track6_title: Drugdealer - Suddenly
-track6_color: vibrant
-track7_color: vibrant
-track7_title: Pépite - Eviter les Naufrages
 episode_URL: https://www.mailta.pe/229/vendredi-sur-mer/
 image: https://www.mailta.pe/img/fbPic229.jpg
 musiColor: musiColor229.png
-description: This morning, we're not far away from next week's shores. So, it's the perfect moment to chill, discover and adopt the seaside musical atmosphere of Vendredi Sur Mer. Where pop and psychedelism make a unexpected melt.  
-pubDate: '2016-10-09'
+description: This morning, we're not far away from next week's shores. So, it's
+  the perfect moment to chill, discover and adopt the seaside musical atmosphere
+  of Vendredi Sur Mer. Where pop and psychedelism make a unexpected melt.
+pubDate: 2016-10-09
+track1:
+  title: Claude Violante - I Kill By Night
+  color: rough
+  link: https://sounds.mailta.pe/229/track1.mp3
+track2:
+  title: Octav - Man from the Stars
+  color: vibrant
+  link: https://sounds.mailta.pe/229/track2.mp3
+track3:
+  title: Bengale - Je Danse le Mia (Iam cover)
+  color: vibrant
+  link: https://sounds.mailta.pe/229/track3.mp3
+track4:
+  title: Vendredi Sur Mer - La Femme à la Peau Bleue
+  color: dreamy
+  link: https://sounds.mailta.pe/229/track4.mp3
+track5:
+  title: Puma Blue - Want Me
+  color: dreamy
+  link: https://sounds.mailta.pe/229/track5.mp3
+track6:
+  title: Drugdealer - Suddenly
+  color: vibrant
+  link: https://sounds.mailta.pe/229/track6.mp3
+track7:
+  title: Pépite - Eviter les Naufrages
+  color: vibrant
+  link: https://sounds.mailta.pe/229/track7.mp3
 ---
 This morning, we're not far away from next week's shores. So, it's the perfect moment to chill, discover and adopt the seaside musical atmosphere of Vendredi Sur Mer. Where pop and psychedelism make a unexpected melt.  
  

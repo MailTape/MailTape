@@ -1,40 +1,52 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
-track1_link: https://sounds.mailta.pe/265/track1.mp3
-track2_link: https://sounds.mailta.pe/265/track2.mp3
-track3_link: https://sounds.mailta.pe/265/track3.mp3
-category: '265'
+category: "265"
 author: Laura
 illustrator: Pierre-Julien Fieux
 writer: Laura
 guest_name: Roche Musique
 guest_color: vibrant
-track4_link: https://sounds.mailta.pe/265/track4.mp3
-track5_link: https://sounds.mailta.pe/265/track5.mp3
-track6_link: https://sounds.mailta.pe/265/track6.mp3
-track7_link: https://sounds.mailta.pe/265/track7.mp3
-track1_title: Tennyson x Mr. Carmack - Tuesday
-track1_color: vibrant
-track2_title: DJ Windows XP – I Cried Last Night
-track2_color: trippy
-track3_title: Sasac – Return to Earth
-track3_color: dreamy
-track4_title: Crayon x Gracy Hopkins – Ocean 7 Pt. 2
-track4_color: dreamy
-track5_title: Kraak & Smaak – Way Back Home
-track5_color: trippy
-track6_title: Les Loups – Elephant & Ivory
-track6_color: dreamy
-track7_title: Aaron Taylor – Easy
-track7_color: trippy
 episode_URL: https://www.mailta.pe/265/roche-musique/
 musiColor: musiColor265.png
-description: This morning, wake up with our very special guests, the pioneers of French Touch 2.0. Roche Musique label was created exactly 5 years ago by Jean Janin a.k.a Cézaire who surrounded himself with the cream of the French DJs such as FKJ, Dabeull, Kartell, Zimmer, Darius, Crayon and many more amazing discoveries. Together they set in motion the renewal of electronic music with their very own sound, multiple, indefinable yet always groovy. Enjoy the trip folks !
+description: This morning, wake up with our very special guests, the pioneers of
+  French Touch 2.0. Roche Musique label was created exactly 5 years ago by Jean
+  Janin a.k.a Cézaire who surrounded himself with the cream of the French DJs
+  such as FKJ, Dabeull, Kartell, Zimmer, Darius, Crayon and many more amazing
+  discoveries. Together they set in motion the renewal of electronic music with
+  their very own sound, multiple, indefinable yet always groovy. Enjoy the trip
+  folks !
 guestPic: guestPic265.jpg
 image: https://www.mailta.pe/img/fbPic265.jpg
-pubDate: '2017-06-18'
+pubDate: 2017-06-18
+track1:
+  title: Tennyson x Mr. Carmack - Tuesday
+  color: vibrant
+  link: https://sounds.mailta.pe/265/track1.mp3
+track2:
+  title: DJ Windows XP – I Cried Last Night
+  color: trippy
+  link: https://sounds.mailta.pe/265/track2.mp3
+track3:
+  title: Sasac – Return to Earth
+  color: dreamy
+  link: https://sounds.mailta.pe/265/track3.mp3
+track4:
+  title: Crayon x Gracy Hopkins – Ocean 7 Pt. 2
+  color: dreamy
+  link: https://sounds.mailta.pe/265/track4.mp3
+track5:
+  title: Kraak & Smaak – Way Back Home
+  color: trippy
+  link: https://sounds.mailta.pe/265/track5.mp3
+track6:
+  title: Les Loups – Elephant & Ivory
+  color: dreamy
+  link: https://sounds.mailta.pe/265/track6.mp3
+track7:
+  title: Aaron Taylor – Easy
+  color: trippy
+  link: https://sounds.mailta.pe/265/track7.mp3
 ---
 This morning, wake up with our very special guests, the pioneers of French Touch 2.0. [Roche Musique](https://www.facebook.com/rochemusique/) label was created exactly 5 years ago by Jean Janin a.k.a Cézaire who surrounded himself with the cream of the French DJs such as [FKJ](https://soundcloud.com/fkj-2), [Dabeull](http://soundcloud.com/dabeull), [Kartell](https://soundcloud.com/kartell), [Zimmer](https://soundcloud.com/zimmermusic), [Darius](https://soundcloud.com/dariusofficial), [Crayon](https://soundcloud.com/crayonoff) and many more amazing discoveries. Together they set in motion the renewal of electronic music with their very own sound, multiple, indefinable yet always groovy. Enjoy the trip folks !
 

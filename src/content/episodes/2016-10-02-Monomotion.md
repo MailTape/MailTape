@@ -1,45 +1,50 @@
 ---
-pubDate: '2016-10-02'
-bigTitle_font_ratio: '6'
+pubDate: 2016-10-02
+bigTitle_font_ratio: "6"
 published: true
 author: Louise
 illustrator: Pierre-Julien Fieux
-category: '228'
+category: "228"
 guest_name: Monomotion
 guestPic: guestPic228.jpg
-track2_title: Edyth - Agua Verde
-track4_link: 'https://mtsounds.eu-central-1.wasabisys.com/228/track4.mp3'
-track4_title: Monomotion - Blue Hell Island
-episode_URL: 'https://www.mailta.pe/228/Monomotion/'
+episode_URL: https://www.mailta.pe/228/Monomotion/
 image: https://www.mailta.pe/img/fbPic228.jpg
 musiColor: musiColor228.png
-track1_link: 'https://sounds.mailta.pe/228/track1.mp3'
-track1_title: Stormzy - Shut Up
-track3_title: FEYNMAN - The Farewell Courtyard
-track1_color: bliss
-track3_link: 'https://sounds.mailta.pe/228/track3.mp3'
-track2_link: 'https://mtsounds.eu-central-1.wasabisys.com/228/track2.mp3'
-track2_color: bliss
-track3_color: rough
-track4_color: bliss
-track5_link: 'https://sounds.mailta.pe/missingTrack.mp3'
-track5_title: aetherworld. - Aeon of Aether
-track5_color: dreamy
-track6_link: 'https://mtsounds.eu-central-1.wasabisys.com/228/track6.mp3'
-track6_title: Nym - Come Back
-track6_color: dreamy
-track7_link: 'https://mtsounds.eu-central-1.wasabisys.com/228/track7.mp3'
-track7_title: Roméo Elvix x Le Motel - La Voiture
-track7_color: bliss
 writer: Louise
 guest_color: bliss
-description: >-
-  This morning, we're back and on fire! Our guest is parisian producer,
-  Monomotion. His last EP Behind the moon is pure magic. One year after its
-  release, it's always a delight to dive into its organic songs. There's a force
-  in it that surround your heart and soul to give you power. We tried to live up
-  to this in today's episode.
-  
+description: This morning, we're back and on fire! Our guest is parisian
+  producer, Monomotion. His last EP Behind the moon is pure magic. One year
+  after its release, it's always a delight to dive into its organic songs.
+  There's a force in it that surround your heart and soul to give you power. We
+  tried to live up to this in today's episode.
+track1:
+  title: Stormzy - Shut Up
+  color: bliss
+  link: https://sounds.mailta.pe/228/track1.mp3
+track2:
+  title: Edyth - Agua Verde
+  color: bliss
+  link: https://mtsounds.eu-central-1.wasabisys.com/228/track2.mp3
+track3:
+  title: FEYNMAN - The Farewell Courtyard
+  color: rough
+  link: https://sounds.mailta.pe/228/track3.mp3
+track4:
+  title: Monomotion - Blue Hell Island
+  color: bliss
+  link: https://mtsounds.eu-central-1.wasabisys.com/228/track4.mp3
+track5:
+  title: aetherworld. - Aeon of Aether
+  color: dreamy
+  link: https://sounds.mailta.pe/missingTrack.mp3
+track6:
+  title: Nym - Come Back
+  color: dreamy
+  link: https://mtsounds.eu-central-1.wasabisys.com/228/track6.mp3
+track7:
+  title: Roméo Elvix x Le Motel - La Voiture
+  color: bliss
+  link: https://mtsounds.eu-central-1.wasabisys.com/228/track7.mp3
 ---
 This morning, we're back and on fire! Our guest is parisian producer, **[Monomotion](https://www.facebook.com/monomotionmusic/?fref=ts "Monomotion's Facebook page")**. His last EP _Behind the moon_ is pure magic. One year after its release, it's always a delight to dive into its organic songs. There's a force in it that surround your heart and soul to give you power. We tried to live up to this in today's episode.
  

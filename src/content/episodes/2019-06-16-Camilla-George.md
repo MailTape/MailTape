@@ -1,40 +1,49 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Sanjay Mistry
 illustrator: Anthony Dujardin
 writer: Sanjay Mistry
-category: '362'
+category: "362"
 guest_name: Camilla George
 guest_color: dreamy
-track1_link: https://sounds.mailta.pe/362/track1.mp3
-track2_link: https://sounds.mailta.pe/362/track2.Mp3
-track3_link: https://sounds.mailta.pe/362/track3.mp3
-track4_link: https://sounds.mailta.pe/362/track4.mp3
-track5_link: https://sounds.mailta.pe/362/track5.mp3
-track6_link: https://sounds.mailta.pe/362/track6.mp3
-track7_link: https://sounds.mailta.pe/362/track7.mp3
-track1_title: Kenny Garrett – Charlie Brown Goes to South Africa
-track1_color: vibrant
-track2_title: Dizzy Gillespie, Sonny Rollins & Sonny Stitt – On the Sunny Side of the Street
-track2_color: bliss
-track3_title: Zara McFarlane –  Silhouette
-track3_color: bliss
-track4_title: Camilla George Quartet – Polkadots and Moonbeams
-track4_color: dreamy
-track5_title: 'Nicholas Payton – #BAMboula'
-track5_color: trippy
-track6_title: Sarah Tandy – Timelord
-track6_color: dreamy
-track7_title: Sarathy Korwar & Upaj Collective – Journey in Satchidananda
-track7_color: trippy
 guestPic: guestPic362.jpg
 musiColor: musiColor362.png
 image: https://www.mailta.pe/img/fbPic362.jpg
-description: This morning we welcome London-based saxophonist and composer, Camilla George, to select three Sunday morning tunes that include some of her inspirations and collaborations.
+description: This morning we welcome London-based saxophonist and composer,
+  Camilla George, to select three Sunday morning tunes that include some of her
+  inspirations and collaborations.
 episode_URL: https://www.mailta.pe/362/camilla-george/
-pubDate: '2019-06-16'
+pubDate: 2019-06-16
+track1:
+  title: Kenny Garrett – Charlie Brown Goes to South Africa
+  color: vibrant
+  link: https://sounds.mailta.pe/362/track1.mp3
+track2:
+  title: Dizzy Gillespie, Sonny Rollins & Sonny Stitt – On the Sunny Side of the
+    Street
+  color: bliss
+  link: https://sounds.mailta.pe/362/track2.Mp3
+track3:
+  title: Zara McFarlane –  Silhouette
+  color: bliss
+  link: https://sounds.mailta.pe/362/track3.mp3
+track4:
+  title: Camilla George Quartet – Polkadots and Moonbeams
+  color: dreamy
+  link: https://sounds.mailta.pe/362/track4.mp3
+track5:
+  title: "Nicholas Payton – #BAMboula"
+  color: trippy
+  link: https://sounds.mailta.pe/362/track5.mp3
+track6:
+  title: Sarah Tandy – Timelord
+  color: dreamy
+  link: https://sounds.mailta.pe/362/track6.mp3
+track7:
+  title: Sarathy Korwar & Upaj Collective – Journey in Satchidananda
+  color: trippy
+  link: https://sounds.mailta.pe/362/track7.mp3
 ---
  This morning we welcome London-based saxophonist and composer, [Camilla George](http://camillageorge.com/), to select three Sunday morning tunes that include some of her inspirations and collaborations.
 <br><br>

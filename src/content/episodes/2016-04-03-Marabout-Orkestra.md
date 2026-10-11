@@ -1,40 +1,48 @@
 ---
-
 author: ImaCrea
 illustrator: William Girault
 writer: ImaCrea
-category: '211'
+category: "211"
 guest_name: Marabout Orkestra
 guest_color: vibrant
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 guestPic: guestPic211.jpg
-track1_link: https://sounds.mailta.pe/211/track1.mp3
-track2_link: https://sounds.mailta.pe/211/track2.mp3
-track3_link: https://sounds.mailta.pe/211/track3.mp3
-track4_link: https://sounds.mailta.pe/211/track4.mp3
-track5_link: https://sounds.mailta.pe/211/track5.mp3
-track6_link: https://sounds.mailta.pe/211/track6.mp3
-track7_link: https://sounds.mailta.pe/211/track7.mp3
-track1_title: Herbie Hancock - Wiggle Waggle (Mr. Scruff Remix)
-track1_color: vibrant
-track2_title: Kyenkyen Bi Adi M'awu - Alhaji K Frimpong & His Cubano Fiestas
-track2_color: vibrant
-track3_title: Geraldo Pino - Shake Hands
-track3_color: vibrant
-track4_title: Marabout Orkestra - Warteef Jigeen
-track4_color: vibrant
-track5_title: ' Freddie Joachim - To Remind Us Feat Miles Bonny '
-track5_color: bliss
-track6_title: 'Zuper -  Too Early.. '
-track6_color: dreamy
-track7_title: ' All Flows Reach Out - Animal Kingdom'
-track7_color: vibrant
 episode_URL: http://mailta.pe/211/Marabout-Orkestra/
 image: https://www.mailta.pe/img/fbPic211.jpg
 musiColor: musiColor211.png
-description: This morning, we're bringing you a soulful selection made in collaboration with Marabout Orkestra. Their afro jazz-funk inspiration is a sure bet to get you in a great mood and open your musical horizon.
+description: This morning, we're bringing you a soulful selection made in
+  collaboration with Marabout Orkestra. Their afro jazz-funk inspiration is a
+  sure bet to get you in a great mood and open your musical horizon.
 published: true
-pubDate: '2016-04-03'
+pubDate: 2016-04-03
+track1:
+  title: Herbie Hancock - Wiggle Waggle (Mr. Scruff Remix)
+  color: vibrant
+  link: https://sounds.mailta.pe/211/track1.mp3
+track2:
+  title: Kyenkyen Bi Adi M'awu - Alhaji K Frimpong & His Cubano Fiestas
+  color: vibrant
+  link: https://sounds.mailta.pe/211/track2.mp3
+track3:
+  title: Geraldo Pino - Shake Hands
+  color: vibrant
+  link: https://sounds.mailta.pe/211/track3.mp3
+track4:
+  title: Marabout Orkestra - Warteef Jigeen
+  color: vibrant
+  link: https://sounds.mailta.pe/211/track4.mp3
+track5:
+  title: " Freddie Joachim - To Remind Us Feat Miles Bonny "
+  color: bliss
+  link: https://sounds.mailta.pe/211/track5.mp3
+track6:
+  title: "Zuper -  Too Early.. "
+  color: dreamy
+  link: https://sounds.mailta.pe/211/track6.mp3
+track7:
+  title: " All Flows Reach Out - Animal Kingdom"
+  color: vibrant
+  link: https://sounds.mailta.pe/211/track7.mp3
 ---
 
 

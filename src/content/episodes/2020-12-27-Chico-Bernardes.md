@@ -1,40 +1,53 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Sarah
 illustrator: Camille Célestin
 writer: Sarah
-category: '431'
+category: "431"
 guest_name: Chico Bernardes
 guest_color: bliss
-track3_title: Maria Bethânia – Olhe o Tempo Passando
-track2_title: Molly Drake – I Remember
-track1_title: Harry Nilsson – Miss Butter's Lament
-track1_link: https://sounds.mailta.pe/431/track1.mp3
-track2_link: https://sounds.mailta.pe/431/track2.mp3
-track3_link: https://sounds.mailta.pe/431/track3.mp3
-track1_color: vibrant
-track2_color: dreamy
-track3_color: bliss
-track4_link: https://sounds.mailta.pe/431/track4.mp3
-track4_title: Chico Bernardes - Em Meu Lugar
-track4_color: dreamy
-track5_link: https://sounds.mailta.pe/431/track5.mp3
-track5_color: bliss
-track5_title: Elan Noon - Modern Blues
-track7_link: https://sounds.mailta.pe/431/track7.mp3
-track7_title: Gábor Szabó - San Franciscan Nights
-track7_color: vibrant
-track6_color: dreamy
 image: https://www.mailta.pe/img/fbPic431.png
 musiColor: musiColor431.png
 episode_URL: http://mailta.pe/431/Chico-Bernardes/
 guestPic: guestPic431.jpg
-track6_title: Piry Reis - Chão Vermelho
-track6_link: https://sounds.mailta.pe/431/track6.mp3
-description: The last Sunday morning of 2020 has arrived, and so does our last MailTape episode of this year. For our reflections and sighs that accompany leaving this year, we take comfort in the music that has buoyed us through this strange time to be alive. We are thrilled that Brazilian multi-instrumentalist, singer, and songwriter Chico Bernardes joins us for our year's last episode.  Studying classical guitar and in the process of releasing a second album, Chico levels a carefully curated selection to give you another breath of musical beauty in 2020.
-pubDate: '2020-12-27'
+description: The last Sunday morning of 2020 has arrived, and so does our last
+  MailTape episode of this year. For our reflections and sighs that accompany
+  leaving this year, we take comfort in the music that has buoyed us through
+  this strange time to be alive. We are thrilled that Brazilian
+  multi-instrumentalist, singer, and songwriter Chico Bernardes joins us for our
+  year's last episode.  Studying classical guitar and in the process of
+  releasing a second album, Chico levels a carefully curated selection to give
+  you another breath of musical beauty in 2020.
+pubDate: 2020-12-27
+track1:
+  title: Harry Nilsson – Miss Butter's Lament
+  color: vibrant
+  link: https://sounds.mailta.pe/431/track1.mp3
+track2:
+  title: Molly Drake – I Remember
+  color: dreamy
+  link: https://sounds.mailta.pe/431/track2.mp3
+track3:
+  title: Maria Bethânia – Olhe o Tempo Passando
+  color: bliss
+  link: https://sounds.mailta.pe/431/track3.mp3
+track4:
+  title: Chico Bernardes - Em Meu Lugar
+  color: dreamy
+  link: https://sounds.mailta.pe/431/track4.mp3
+track5:
+  title: Elan Noon - Modern Blues
+  color: bliss
+  link: https://sounds.mailta.pe/431/track5.mp3
+track6:
+  title: Piry Reis - Chão Vermelho
+  color: dreamy
+  link: https://sounds.mailta.pe/431/track6.mp3
+track7:
+  title: Gábor Szabó - San Franciscan Nights
+  color: vibrant
+  link: https://sounds.mailta.pe/431/track7.mp3
 ---
 The last Sunday morning of 2020 has arrived, and so does our last MailTape episode of this year. For our reflections and sighs that accompany leaving 2020 behind us, we take comfort in the music that has buoyed us through this strange time to be alive.
   

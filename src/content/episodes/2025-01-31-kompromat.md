@@ -8,27 +8,6 @@ guestPic: guestpic575-min.jpg
 author: ImaCrea
 illustrator: Camille Lemeunier
 writer: ImaCrea
-track1_title: Vimala Pons - Piper
-track1_color: trippy
-track1_link: https://sounds.mailta.pe/575/track1.mp3
-track2_title: Farah - Into Eternity
-track2_color: rough
-track2_link: https://sounds.mailta.pe/575/track2.mp3
-track3_title: D.A.F. - Als war's das letzte mal
-track3_color: rough
-track3_link: https://sounds.mailta.pe/575/track3.mp3
-track4_title: KOMPROMAT - ONLY IN YOUR ARMS
-track4_color: bliss
-track4_link: https://sounds.mailta.pe/575/track4.mp3
-track5_title: Bound By Endogamy - Withered Flowers
-track5_color: trippy
-track5_link: https://sounds.mailta.pe/575/track5.mp3
-track6_title: John Maus - Rarities for the road - V1 T3
-track6_color: dreamy
-track6_link: https://sounds.mailta.pe/575/track6.mp3
-track7_title: KOMPROMAT - I LET MYSELF GO BLIND (feat. Vimala Pons & Sonia DeVille)
-track7_color: rough
-track7_link: https://sounds.mailta.pe/575/track7.mp3
 description: This morning, we are deeply honored and excited to share with you
   an episode featuring KOMPROMAT as our guest. The duo, consisting of Rebeka
   Warrior and Vitalic, is back with a new album, and their selection has
@@ -39,6 +18,34 @@ episode_URL: https://www.mailta.pe/575/kompromat/
 image: https://www.mailta.pe/img/fbPic575.jpg
 musiColor: musicolor575.png
 alignY: "0.22"
+track1:
+  title: Vimala Pons - Piper
+  color: trippy
+  link: https://sounds.mailta.pe/575/track1.mp3
+track2:
+  title: Farah - Into Eternity
+  color: rough
+  link: https://sounds.mailta.pe/575/track2.mp3
+track3:
+  title: D.A.F. - Als war's das letzte mal
+  color: rough
+  link: https://sounds.mailta.pe/575/track3.mp3
+track4:
+  title: KOMPROMAT - ONLY IN YOUR ARMS
+  color: bliss
+  link: https://sounds.mailta.pe/575/track4.mp3
+track5:
+  title: Bound By Endogamy - Withered Flowers
+  color: trippy
+  link: https://sounds.mailta.pe/575/track5.mp3
+track6:
+  title: John Maus - Rarities for the road - V1 T3
+  color: dreamy
+  link: https://sounds.mailta.pe/575/track6.mp3
+track7:
+  title: KOMPROMAT - I LET MYSELF GO BLIND (feat. Vimala Pons & Sonia DeVille)
+  color: rough
+  link: https://sounds.mailta.pe/575/track7.mp3
 ---
 This morning, we are deeply honored and excited to share with you an episode featuring [KOMPROMAT](https://kompromat-official.bandcamp.com/album/pl-ying-pr-ying) as our guest. The duo, consisting of Rebeka Warrior and Vitalic, is back with a new album, and their selection has inspired us to complement it with tracks infused with sensual, vibrant, and powerful synth waves to energize you. Allow yourself to be intoxicated by the energy of desire and movement; trust your wild side and dance with the chaos.
 

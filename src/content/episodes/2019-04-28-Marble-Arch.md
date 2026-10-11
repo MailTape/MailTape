@@ -1,40 +1,48 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
-track2_link: https://sounds.mailta.pe/355/track2.mp3
-track4_link: https://sounds.mailta.pe/355/track4.mp3
-track1_link: https://sounds.mailta.pe/355/Track1.mp3
-track1_color: bliss
-track1_title: Deerhunter - Helicopter
-track3_link: https://sounds.mailta.pe/355/Track3.mp3
-track2_title: 'Muddy Monk - Si l''on ride '
-track2_color: dreamy
-track3_title: Simply Red - Holding back the years
-track3_color: vibrant
-track4_title: 'Marble Arch - Moonstruck '
-track4_color: dreamy
-track5_title: BadBadNotGood - Time Moves Slow feat Sam Herring
-track5_color: vibrant
-track6_color: dreamy
-track6_title: Lenny Pistol - Ashamed
-track7_title: 'Bauhaus - Bela Lugosi''s Dead '
-track7_color: trippy
 author: Anaïs G
 illustrator: Camille Célestin
 writer: Anaïs G
-category: '355'
-guest_name: 'Marble Arch '
+category: "355"
+guest_name: "Marble Arch "
 guest_color: dreamy
-track5_link: https://sounds.mailta.pe/355/Track5.mp3
-track6_link: https://sounds.mailta.pe/355/Track6.mp3
-track7_link: https://sounds.mailta.pe/355/Track7.mp3
 episode_URL: http://mailta.pe/355/marble-arch
 image: https://www.mailta.pe/img/fbPic355.png
 musiColor: musiColor355.jpg
 guestPic: guestPic355.jpg
-description: This morning, we are giving way to a wave of ambient melancholy, soft and light. As time playing on roller coasters , Marble Arch’s pop accompanies us this morning in this musical fog with many facets.
-pubDate: '2019-04-28'
+description: This morning, we are giving way to a wave of ambient melancholy,
+  soft and light. As time playing on roller coasters , Marble Arch’s pop
+  accompanies us this morning in this musical fog with many facets.
+pubDate: 2019-04-28
+track1:
+  title: Deerhunter - Helicopter
+  color: bliss
+  link: https://sounds.mailta.pe/355/Track1.mp3
+track2:
+  title: "Muddy Monk - Si l'on ride "
+  color: dreamy
+  link: https://sounds.mailta.pe/355/track2.mp3
+track3:
+  title: Simply Red - Holding back the years
+  color: vibrant
+  link: https://sounds.mailta.pe/355/Track3.mp3
+track4:
+  title: "Marble Arch - Moonstruck "
+  color: dreamy
+  link: https://sounds.mailta.pe/355/track4.mp3
+track5:
+  title: BadBadNotGood - Time Moves Slow feat Sam Herring
+  color: vibrant
+  link: https://sounds.mailta.pe/355/Track5.mp3
+track6:
+  title: Lenny Pistol - Ashamed
+  color: dreamy
+  link: https://sounds.mailta.pe/355/Track6.mp3
+track7:
+  title: "Bauhaus - Bela Lugosi's Dead "
+  color: trippy
+  link: https://sounds.mailta.pe/355/Track7.mp3
 ---
 
 

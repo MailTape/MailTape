@@ -4,35 +4,46 @@ author: Julien
 guest_color: vibrant
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
-track1_color: vibrant
-track2_color: vibrant
-track3_color: trippy
-track4_color: vibrant
-track5_color: trippy
-track6_color: bliss
-track7_color: trippy
 category: "162"
 guest_name: Fellini Félin
 guestPic: guestPic162.jpg
-episode_URL: "http://mailta.pe/162/Fellini-Felin/"
+episode_URL: http://mailta.pe/162/Fellini-Felin/
 image: https://www.mailta.pe/img/fbPic162.jpg
 musiColor: musiColor162.png
-track1_title: "Soft Rocks - Talking Jungle (Justin Vandervolgen Remix)"
-track2_title: "Adam Kesher - Local Girl (The Shoes Remix)"
-track3_title: "Tornado Wallace - Insect Overlords"
-track1_link: "https://sounds.mailta.pe/162/track1.mp3"
-track2_link: "https://sounds.mailta.pe/162/track2.mp3"
-track3_link: "https://sounds.mailta.pe/162/track3.mp3"
-track4_link: "https://sounds.mailta.pe/162/track4.mp3"
-track4_title: "Fellini Félin - On The Way Home"
-track6_link: "https://sounds.mailta.pe/162/track6.mp3"
-track7_link: "https://sounds.mailta.pe/missingTrack.mp3"
-track7_title: "Aela Ezct - Bubble Tea Tree"
-track5_title: "Low Leaf - Slaveless Master"
-track6_title: "Sylvain Esso - Coffee"
-track5_link: "https://sounds.mailta.pe/162/track5.mp3"
-description: "This morning, discover Fellini Félin. Everything started in the Fellini’s Club in Barcelona. We were in the 2000 and Sébastien Coutureau, together with a bunch of friends, decided to create his first band : Fellini. Ten years later, after the band had split up, Sébastien decided to start a solo project. Fellini Félin was born."
-pubDate: '2014-11-30'
+description: "This morning, discover Fellini Félin. Everything started in the
+  Fellini’s Club in Barcelona. We were in the 2000 and Sébastien Coutureau,
+  together with a bunch of friends, decided to create his first band : Fellini.
+  Ten years later, after the band had split up, Sébastien decided to start a
+  solo project. Fellini Félin was born."
+pubDate: 2014-11-30
+track1:
+  title: Soft Rocks - Talking Jungle (Justin Vandervolgen Remix)
+  color: vibrant
+  link: https://sounds.mailta.pe/162/track1.mp3
+track2:
+  title: Adam Kesher - Local Girl (The Shoes Remix)
+  color: vibrant
+  link: https://sounds.mailta.pe/162/track2.mp3
+track3:
+  title: Tornado Wallace - Insect Overlords
+  color: trippy
+  link: https://sounds.mailta.pe/162/track3.mp3
+track4:
+  title: Fellini Félin - On The Way Home
+  color: vibrant
+  link: https://sounds.mailta.pe/162/track4.mp3
+track5:
+  title: Low Leaf - Slaveless Master
+  color: trippy
+  link: https://sounds.mailta.pe/162/track5.mp3
+track6:
+  title: Sylvain Esso - Coffee
+  color: bliss
+  link: https://sounds.mailta.pe/162/track6.mp3
+track7:
+  title: Aela Ezct - Bubble Tea Tree
+  color: trippy
+  link: https://sounds.mailta.pe/missingTrack.mp3
 ---
 
 This morning, discover [Fellini Félin](https://soundcloud.com/fellinifelin "Fellini Félin's SoundCloud"). Everything started in the Fellini’s Club in Barcelona. We were in the 2000' and Sébastien Coutureau, together with a bunch of friends, decided to create his first band : Fellini. Ten years later, after the band had split up, Sébastien decided to start a solo project. Fellini Félin was born.
