@@ -29,9 +29,16 @@ track6_link: https://sounds.mailta.pe/616/track6.mp3
 track7_title: Dakota Suite - All Your Hopes Gone Cold
 track7_color: dreamy
 track7_link: https://sounds.mailta.pe/616/track7.mp3
-description: ""
-episode_URL: https://www.mailta.pe/616/MP3-Nostalgia-2/
-musiColor: screenshot_2026-10-11_at_00.02.58.png
+description: Growing up in Shanghai, China, Ling received his first SONY MP3
+  player from his parents on his thirteenth birthday. In the early 2000s,
+  mainstream Chinese music media offered limited exposure to niche sounds, while
+  access to music downloads remained scarce. Yet, somehow, the handful of tracks
+  he managed to load onto that small device would go on to leave a lasting
+  impression, quietly shaping the musical sensibilities that define him as a DJ
+  today.
+episode_URL: https://www.mailta.pe/616/mp3-nostalgia-2/
+image: https://www.mailta.pe/img/fbpib616.jpg
+musiColor: musicolor616.png
 ---
 At Mailtape, we sometimes assume we're a bit old-fashioned, from the generation of Walkmans, those from the 90s, into which we'd put old cassettes, sometimes recorded ourselves. Then came portable CD players (with scratched CDs and those that skipped some parts), and then the first MP3 players. Since then, it's been a musical orgy. But some of us have kept the spirit of the MP3 player: carefully collecting fabulous tracks, downloading them, and listening to them on our little device, in various contexts, often intimate.
 
