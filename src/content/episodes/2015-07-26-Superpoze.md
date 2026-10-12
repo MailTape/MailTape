@@ -10,7 +10,7 @@ description: This Sunday, let yourself dive into a universe of musical
   selection of blissful tunes. Waking peacefully to the sound of indulgence
   followed by an explosion of temptation filed with surprises
 musiColor: /img/musiColor196.png
-image: https://www.mailta.pe/img/fbPic196.jpg
+image: /img/fbPic196.jpg
 pubDate: 2015-07-26
 track1:
   title: Hundred Waters - Cavity (Shigeto Remix)

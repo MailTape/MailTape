@@ -6,7 +6,7 @@ illustrator: Lucie Fléty
 writer: Anaïs G
 guest_name: Spelterini
 guest_color: trippy
-image: https://www.mailta.pe/img/fbPic506.png
+image: /img/fbPic506.png
 guestPic: /img/guestPic506.jpg
 musiColor: /img/musiColor505.png
 description: "  This morning, we shake up codes, habits and routine. We will

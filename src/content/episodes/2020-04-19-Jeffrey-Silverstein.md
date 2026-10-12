@@ -12,7 +12,7 @@ description: This morning we are still confined and condemned to look at the sky
   slowly, and start drawing the landscapes that will allow you to escape.
 guestPic: /img/guestPic402.jpg
 musiColor: /img/musiColor402.png
-image: https://www.mailta.pe/img/fbPic402.png
+image: /img/fbPic402.png
 pubDate: 2020-04-19
 track1:
   title: Ted Lucas - It's So Easy

@@ -1,7 +1,7 @@
 ---
 bigTitle_font_ratio: "6"
 published: true
-image: https://www.mailta.pe/img/fbPic304.jpg
+image: /img/fbPic304.jpg
 musiColor: /img/musiColor304.png
 author: Louise
 illustrator: William Girault

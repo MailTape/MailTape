@@ -8,7 +8,7 @@ guest_name: Vimala Pons
 guest_color: trippy
 guestPic: /img/guestPic487.jpg
 musiColor: /img/musiColor487.png
-image: https://www.mailta.pe/img/fbPic487.jpg
+image: /img/fbPic487.jpg
 description: This morning, we're very pleased to welcome Vimala Pons as our
   guest for a very eclectic selection. Expect here an energizing cocktail filled
   with all colors we have, exactly what's needed to start spring well and fully

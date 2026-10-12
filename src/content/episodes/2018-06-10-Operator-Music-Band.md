@@ -15,7 +15,7 @@ description: This morning, we are delighted to welcome Operator Music Band, an
   mathematics.
 guestPic: /img/GuestPic316ok.jpg
 musiColor: /img/musiColor316.png
-image: https://www.mailta.pe/img/fbPic316.png
+image: /img/fbPic316.png
 pubDate: 2018-06-10
 track1:
   title: Here We Go Magic - Over the Ocean

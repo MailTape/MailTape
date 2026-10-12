@@ -1,6 +1,6 @@
 ---
 musiColor: /img/musiColor401.png
-image: https://www.mailta.pe/img/fbPic401.png
+image: /img/fbPic401.png
 bigTitle_font_ratio: "6"
 guestPic: /img/guestPic401.jpg
 guest_color: vibrant

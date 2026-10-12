@@ -7,7 +7,7 @@ writer: Sarah
 guest_name: Bolis Pupul
 guest_color: trippy
 guestPic: /img/guestPic499.jpg
-image: https://www.mailta.pe/img/fbPic499.png
+image: /img/fbPic499.png
 description: "This morning, we're overjoyed to welcome Bolis Pupul to MailTape.
   Based in Belgium, Bolis joins us after releasing his debut album with
   Charlotte Adigéry, Tropical Dancer. Blending house, rock, RnB, and techno, the

@@ -11,7 +11,7 @@ description: This morning we welcome Michal Turtle to select some Sunday morning
   tunes with us—a musician and producer who spent the heart of the 1980s making
   subtle, enlightened music.
 musiColor: /img/musiColor408.png
-image: https://www.mailta.pe/img/fbPic408.jpg
+image: /img/fbPic408.jpg
 pubDate: 2020-05-31
 track1:
   title: Gaussian Curve – Impossible Island

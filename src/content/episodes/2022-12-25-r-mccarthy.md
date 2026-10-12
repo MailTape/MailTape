@@ -7,7 +7,7 @@ illustrator: Meriam Kharbat
 guest_name: r mccarthy
 guest_color: dreamy
 guestPic: /img/guestPic511.jpg
-image: https://www.mailta.pe/img/fbPic511.png
+image: /img/fbPic511.png
 description: "  We are overjoyed to welcome r mccarthy to MailTape this Sunday
   morning :) His selection embraces new worlds of new age music, stretching time
   and sound into spaces unknown -- carrying creativity into these early morning

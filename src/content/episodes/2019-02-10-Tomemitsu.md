@@ -7,7 +7,7 @@ writer: Anaïs G
 guest_name: Tomemitsu
 guest_color: dreamy
 guestPic: /img/guestPic344.jpg
-image: https://www.mailta.pe/img/fbPic344.png
+image: /img/fbPic344.png
 description: "This morning, like a divine light coming from nowhere, caressing
   our bodies, music moves us, borders us with our fingertips and astonishes us.
   Differentiated by its infinity, by these genres and multiple styles, it

@@ -6,7 +6,7 @@ bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
 guest_name: Barney Artist
 guestPic: /img/guestPic166.jpg
-image: https://www.mailta.pe/img/fbPic166.jpg
+image: /img/fbPic166.jpg
 musiColor: /img/musiColor166.png
 description: This morning, we bring you a Mailtape curated in collaboration with
   Barney Artist. Now, as you have eaten this week more than the combined total

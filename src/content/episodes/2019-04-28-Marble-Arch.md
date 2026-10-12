@@ -6,7 +6,7 @@ illustrator: Camille Célestin
 writer: Anaïs G
 guest_name: "Marble Arch "
 guest_color: dreamy
-image: https://www.mailta.pe/img/fbPic355.png
+image: /img/fbPic355.png
 musiColor: /img/musiColor355.jpg
 guestPic: /img/guestPic355.jpg
 description: This morning, we are giving way to a wave of ambient melancholy,

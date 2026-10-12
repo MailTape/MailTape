@@ -1,7 +1,7 @@
 ---
 bigTitle_font_ratio: "6"
 published: true
-image: https://www.mailta.pe/img/fbPic217.jpg
+image: /img/fbPic217.jpg
 musiColor: /img/musiColor217.png
 author: Louise
 illustrator: Anais Caura

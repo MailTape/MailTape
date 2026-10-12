@@ -15,7 +15,7 @@ description: This morning, we welcome Louis, Charles, Gabrielle and Joseph from
   Dancing Inc’s music, lies somewhere between synth pop, new wave and cold zouk
   – it is warm and welcoming.
 guestPic: /img/guestPic329.jpg
-image: https://www.mailta.pe/img/fbPic329.jpg
+image: /img/fbPic329.jpg
 musiColor: /img/musiColor329.png
 pubDate: 2018-10-28
 track1:

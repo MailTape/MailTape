@@ -9,7 +9,7 @@ guestPic: /img/guestPic266.jpg
 description: This morning, we are delighted to welcome Normil Hawaiians.
   Operating more like a collective than a band, the Normil Hawaiians formed in
   the austere post-punk permafrost of 1980s UK.
-image: https://www.mailta.pe/img/fbPic266.jpg
+image: /img/fbPic266.jpg
 musiColor: /img/musiColor266.png
 pubDate: 2017-06-25
 track1:

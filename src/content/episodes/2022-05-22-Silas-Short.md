@@ -13,7 +13,7 @@ description: This morning we’re in excellent company with Silas Short from the
   “Drawing”, develops a rich soundscape carved with his very own signature.
   We’re very honored to have him with us today and pleased to share that
   pleasure with you. Let’s groove.
-image: https://www.mailta.pe/img/fbPic494.jpg
+image: /img/fbPic494.jpg
 pubDate: 2022-05-22
 track1:
   title: Whatnauts - I’ll Erase Away Your Pain

@@ -10,7 +10,7 @@ musiColor: /img/musiColor410.png
 guestPic: /img/guestPic410.jpg
 description: Today, we welcome Klô Pelgag for a sweet sunday morning made of
   fantastic stories.
-image: https://www.mailta.pe/img/fbPic410.png
+image: /img/fbPic410.png
 pubDate: 2020-06-14
 track1:
   title: Rufus Wainwright - Cigarettes and Chocolate Milk

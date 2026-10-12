@@ -6,7 +6,7 @@ bigTitle_font_ratio: "8"
 bigTitle_line_ratio: "1"
 guest_name: Matthew Halsall
 guestPic: /img/guestPic150.jpg
-image: https://www.mailta.pe/img/fbPic150.jpg
+image: /img/fbPic150.jpg
 description: This morning, our guest' selection will probably widen your morning
   musical horizon! Please welcome on stage the Manchester based trumpeter
   Matthew Halsall.

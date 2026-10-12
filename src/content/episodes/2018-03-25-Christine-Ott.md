@@ -8,7 +8,7 @@ guest_name: Christine Ott
 guest_color: dreamy
 guestPic: /img/guestPic305.jpg
 musiColor: /img/musiColor305.png
-image: https://www.mailta.pe/img/fbPic305.jpg
+image: /img/fbPic305.jpg
 description: Based in Strasbourg and only one of a tiny handful of performers on
   the ondes Martenot, this Sunday morning we welcome Christine Ott to
   collaborate with us on MailTape.

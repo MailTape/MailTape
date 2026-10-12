@@ -10,7 +10,7 @@ guestPic: /img/guestPic333.jpg
 musiColor: /img/musiColor333.png
 description: This morning we are delighted to welcome Atlanta-based music
   producer Fit of Body to MailTape.
-image: https://www.mailta.pe/img/fbPic333new.jpg
+image: /img/fbPic333new.jpg
 pubDate: 2018-11-25
 track1:
   title: C. Memi + Neo Matisse - Dream's Dream

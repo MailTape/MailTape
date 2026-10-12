@@ -13,7 +13,7 @@ description: This morning, we are deeply honored and excited to share with you
   inspired us to complement it with tracks infused with sensual, vibrant, and
   powerful synth waves to energize you. Allow yourself to be intoxicated by the
   energy of desire and movement; trust your wild side and dance with the chaos.
-image: https://www.mailta.pe/img/fbPic575.jpg
+image: /img/fbPic575.jpg
 musiColor: /img/musicolor575.png
 alignY: "0.22"
 track1:

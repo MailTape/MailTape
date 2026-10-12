@@ -11,7 +11,7 @@ guest_name: Vibrant Spring
 author: MailTape Crew
 guestPic: /img/guestPic131.jpg
 musiColor: /img/musiColor131.png
-image: https://www.mailta.pe/img/fbPic131.png
+image: /img/fbPic131.png
 pubDate: 2014-03-09
 track1:
   title: Willis Earl Beal - Coming Through (feat. Cat Power)

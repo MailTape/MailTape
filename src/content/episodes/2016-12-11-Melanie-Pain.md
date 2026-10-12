@@ -7,7 +7,7 @@ writer: Louise
 guest_name: Mélanie Pain
 guest_color: bliss
 guestPic: /img/guestPic238.jpg
-image: https://www.mailta.pe/img/FBPic238.jpg
+image: /img/FBPic238.jpg
 musiColor: /img/musiColor238.png
 description: This morning, we will enjoy a tasty breakfast prepared with love by
   our guest Mélanie Pain.

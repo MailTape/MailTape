@@ -11,7 +11,7 @@ description: This morning, we’ve crafted a soothing episode featuring our gues
   Tiago Caetano. It’s the ideal soundtrack for cozying up under the covers or
   savoring a delightful brunch with friends. With Brazilian influences, pop
   elements, and a sense of lightness, it’s sure to uplift your spirits!
-image: https://www.mailta.pe/img/fbPic562.jpg
+image: /img/fbPic562.jpg
 musiColor: /img/musicolor562.png
 track1:
   title: Sessa - Gostar do Mundo

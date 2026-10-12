@@ -12,7 +12,7 @@ description: "This morning, we welcome Finland-based Ursula's Cartridges to
   electronic aesthetics, Ursula's Cartridges pieces samplework into releases
   both novel and nostalgic. "
 musiColor: /img/musiColor488.png
-image: https://www.mailta.pe/img/fbPic488.png
+image: /img/fbPic488.png
 pubDate: 2022-04-03
 track1:
   title: VHS Head - Body Magic

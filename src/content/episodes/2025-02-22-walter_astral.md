@@ -15,7 +15,7 @@ description: This morning our dream tapestries cross into the sunlight, letting
   meditation and dance, the duo moves swiftly from folk to psychedelic rock to
   effervescent techno, with rich and unexpected marriages across genre and
   instruments.
-image: https://www.mailta.pe/img/fbpic577.jpg
+image: /img/fbpic577.jpg
 musiColor: /img/musicolor577.png
 track1:
   title: Jacco Gardner - Descent

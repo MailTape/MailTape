@@ -8,7 +8,7 @@ guest_name: Camilla George
 guest_color: dreamy
 guestPic: /img/guestPic362.jpg
 musiColor: /img/musiColor362.png
-image: https://www.mailta.pe/img/fbPic362.jpg
+image: /img/fbPic362.jpg
 description: This morning we welcome London-based saxophonist and composer,
   Camilla George, to select three Sunday morning tunes that include some of her
   inspirations and collaborations.

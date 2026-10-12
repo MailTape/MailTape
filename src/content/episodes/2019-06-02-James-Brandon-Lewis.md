@@ -10,7 +10,7 @@ description: This morning we are pleased to welcome saxophonist and composer,
   James Brandon Lewis, to select three church-inspired Sunday morning tunes with
   us.
 guestPic: /img/guestPic360.jpg
-image: https://www.mailta.pe/img/fbPic360.jpg
+image: /img/fbPic360.jpg
 musiColor: /img/musiColor360.png
 pubDate: 2019-06-02
 track1:

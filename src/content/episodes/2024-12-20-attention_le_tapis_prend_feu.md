@@ -7,7 +7,7 @@ guestPic: /img/guestpic571.jpg
 author: Jules
 illustrator: Noémie Dijon
 writer: Jules
-image: https://www.mailta.pe/img/fbPic571.png
+image: /img/fbPic571.png
 musiColor: /img/musicolor571.png
 track1:
   title: Jockstrap - Concrete Over Water

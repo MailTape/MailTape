@@ -7,7 +7,7 @@ writer: PS KY
 guest_name: Mansfield.TYA
 guest_color: trippy
 guestPic: /img/guestPic445.jpg
-image: https://www.mailta.pe/img/fbPic445.png
+image: /img/fbPic445.png
 musiColor: /img/musiColor445.png
 description: This morning, we welcome Mansfield.TYA, a surprisingly raw music
   duo from Nantes. Their music will both illuminate and sometimes somber your

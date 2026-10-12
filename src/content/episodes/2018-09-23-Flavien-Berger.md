@@ -7,7 +7,7 @@ author: ImaCrea
 writer: ImaCrea
 guestPic: /img/guestPic324.jpg
 illustrator: Pierre-Julien Fieux
-image: https://www.mailta.pe/img/fbPic324.png
+image: /img/fbPic324.png
 musiColor: /img/musiColor324.png
 description: This morning, we have the immense pleasure to invite Flavien
   Berger. Following his work since a while, at the occasion of his new album he

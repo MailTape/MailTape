@@ -12,7 +12,7 @@ description: This morning, we're gonna celebrate summer together with our great
   Like a sound wave, move your body to the beat and feel happiness filling your
   soul. Be the moment, join the movement.
 musiColor: /img/musiColor191.png
-image: https://www.mailta.pe/img/fbPic191.jpg
+image: /img/fbPic191.jpg
 pubDate: 2015-06-21
 track1:
   title: Balmorhea - Bowsprit

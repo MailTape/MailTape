@@ -7,7 +7,7 @@ illustrator: Camille Célestin
 writer: Sarah
 guest_color: vibrant
 guestPic: /img/guestPic516.jpg
-image: https://www.mailta.pe/img/fbPic516.png
+image: /img/fbPic516.png
 musiColor: /img/musiColor516.png
 description: The dancefloor energy is bleeding into the morning hours this
   Sunday as we welcome Lecomte de Brégeot to MailTape :) Based in Lyon, the

@@ -6,7 +6,7 @@ guest_name: "Guru Fiction "
 guest_color: vibrant
 bigTitle_font_ratio: "6"
 guestPic: /img/guestPic215.jpg
-image: https://www.mailta.pe/img/fbPic215.jpg
+image: /img/fbPic215.jpg
 musiColor: /img/musiColor215.png
 description: This morning, I am not quite sure how to say it, but even if the
   sun's not yet on your side of the world or, if you've felt any hints of

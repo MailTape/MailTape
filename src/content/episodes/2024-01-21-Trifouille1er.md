@@ -7,7 +7,7 @@ writer: Anto
 guest_name: Trifouille1er
 guest_color: vibrant
 guestPic: /img/guestPic544.png
-image: https://www.mailta.pe/img/fbPic544.jpg
+image: /img/fbPic544.jpg
 musiColor: /img/musiColor544.png
 description: Patchwork! This morning we offer you a fun activity with this new
   Sunday playlist. All you have to do is 1- settle into your best sofa, 2- plug

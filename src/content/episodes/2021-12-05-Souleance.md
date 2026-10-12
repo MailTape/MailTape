@@ -1,7 +1,7 @@
 ---
 bigTitle_font_ratio: "6"
 published: true
-image: https://www.mailta.pe/img/fbPic473.png
+image: /img/fbPic473.png
 musiColor: /img/musiColor473.png
 writer: Anaïs G
 illustrator: Camille Célestin

@@ -6,7 +6,7 @@ illustrator: Pierre-Julien Fieux
 writer: Sanjay Mistry
 guest_name: Gaelynn Lea
 guest_color: vibrant
-image: https://www.mailta.pe/img/fbPic307.jpg
+image: /img/fbPic307.jpg
 guestPic: /img/guestPic307.jpg
 musiColor: /img/musiColor307.png
 description: This morning we are delighted to welcome Duluth-based violinist,

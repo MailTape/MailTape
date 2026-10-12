@@ -7,7 +7,7 @@ writer: ImaCrea
 guest_name: Uzi Freyja
 guest_color: rough
 guestPic: /img/guestPic476.jpg
-image: https://www.mailta.pe/img/fbPic476.png
+image: /img/fbPic476.png
 musiColor: /img/musiColor476.png
 description: This Sunday, we're extremely happy to start a new year of music
   discoveries with you and with Uzi Freyja. Coming from the house of

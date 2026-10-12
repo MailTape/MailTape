@@ -13,7 +13,7 @@ description: "This morning, whether you’re on holidays enjoying the sun or
   She-Devils our punk friends from Argentina, will shake you up, surprise you
   and make you dance. As they say: “put your trust on me, I won’t let you
   fall”."
-image: https://www.mailta.pe/img/fbPic270.png
+image: /img/fbPic270.png
 musiColor: /img/musiColor270.png
 pubDate: 2017-07-23
 track1:

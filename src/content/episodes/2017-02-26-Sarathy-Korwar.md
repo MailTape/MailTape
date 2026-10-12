@@ -6,7 +6,7 @@ illustrator: Pierre-Julien Fieux
 guest_name: Sarathy Korwar
 guest_color: trippy
 guestPic: /img/guestPic249.jpg
-image: https://www.mailta.pe/img/fbPic249.jpg
+image: /img/fbPic249.jpg
 musiColor: /img/musiColor249.png
 description: This morning, transcend borders with mantras, untethered
   saxophones, keys, and an unfettered groove from our guest, percussionist and

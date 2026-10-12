@@ -11,7 +11,7 @@ description: This morning, let yourself dive into complete blissfulness with the
   rhythmic musical selection that highlights the return of soul in hip-hop.
 guestPic: /img/guestPic244.jpg
 musiColor: /img/musiColor244new.png
-image: https://www.mailta.pe/img/fbPic244.png
+image: /img/fbPic244.png
 pubDate: 2017-01-22
 track1:
   title: A Tribe Called Quest - Whateva Will Be

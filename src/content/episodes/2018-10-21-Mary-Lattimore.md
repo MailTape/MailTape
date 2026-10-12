@@ -8,7 +8,7 @@ guest_name: Mary Lattimore
 guest_color: dreamy
 guestPic: /img/guestPic328.jpg
 musiColor: /img/musiColor328.png
-image: https://www.mailta.pe/img/fbPic328.jpg
+image: /img/fbPic328.jpg
 description: This Sunday morning we are delighted to welcome harpist Mary
   Lattimore to MailTape.
 pubDate: 2018-10-21

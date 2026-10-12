@@ -6,7 +6,7 @@ illustrator: Patricia Barros De Miranda
 writer: Anaïs G
 guest_name: Grand Public
 guestPic: /img/guestPic527.jpg
-image: https://www.mailta.pe/img/fbPic527.png
+image: /img/fbPic527.png
 musiColor: /img/musicolor527.png
 description: 'This morning, We take advantage of this month of May to breathe,
   relax and take advantage of the many public holidays to get away with it. One

@@ -15,7 +15,7 @@ description: "This morning we welcome Fragrance., Matthieu Roche’s solo projec
   you listen them."
 guestPic: /img/guestPic318okok.jpg
 musiColor: /img/musiColor318.png
-image: https://www.mailta.pe/img/fbPic318.jpg
+image: /img/fbPic318.jpg
 pubDate: 2018-06-24
 track1:
   title: Galatée - Ne Sois Pas Triste

@@ -5,7 +5,7 @@ author: Sanjay Mistry
 illustrator: Pierre-Julien Fieux
 guest_name: Olimpia Splendid
 guest_color: trippy
-image: https://www.mailta.pe/img/fbPic263.jpg
+image: /img/fbPic263.jpg
 musiColor: /img/musiColor263.png
 description: This morning, we enter a hypnotic and dreamy world with Heta
   Bilaletdin, Jonna Karanka and Katri Sipiläinen of Finland-based trio, Olimpia

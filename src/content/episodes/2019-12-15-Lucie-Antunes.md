@@ -13,7 +13,7 @@ description: This selection hums the voices of today. Comfort aside, just as we
   powerful and touching selection of tracks to ghost ourselves from the poison
   of illusions and hatred as we enter into a realm of hope wondering, as Sandra
   Nkaké says so well; what does it mean to be born?
-image: https://www.mailta.pe/img/fbPic384.png
+image: /img/fbPic384.png
 musiColor: /img/musiColor384.png
 pubDate: 2019-12-15
 track1:

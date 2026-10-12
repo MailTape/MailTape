@@ -7,7 +7,7 @@ writer: ImaCrea
 guest_name: Holy Tongue
 guest_color: trippy
 guestPic: /img/guestPic548.jpg
-image: https://www.mailta.pe/img/fbPic548.jpg
+image: /img/fbPic548.jpg
 musiColor: /img/musiColor548.png
 description: We're overjoyed to welcome Holy Tongue as our guests today. Their
   ethereal, entrancing music has captivated audiences worldwide, and we're

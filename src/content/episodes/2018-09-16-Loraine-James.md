@@ -10,7 +10,7 @@ guestPic: /img/guestPic323.jpg
 description: This week we are delighted to welcome London-based electronic
   musician, Loraine James, who selects some groovy Sunday morning chops for us.
 musiColor: /img/musiColor323.png
-image: https://www.mailta.pe/img/fbPic323.jpg
+image: /img/fbPic323.jpg
 pubDate: 2018-09-16
 track1:
   title: iLU – It's DOPE!!

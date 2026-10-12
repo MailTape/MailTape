@@ -12,7 +12,7 @@ description: This morning, let's have a mellow Sunday morning thanks to Gorgeous
   striking, and welcomed in current times.
 musiColor: /img/musiColor264.png
 guestPic: /img/guestPic264.jpg
-image: https://www.mailta.pe/img/fbPic264.png
+image: /img/fbPic264.png
 pubDate: 2017-06-11
 track1:
   title: Spinning Coin - Albany

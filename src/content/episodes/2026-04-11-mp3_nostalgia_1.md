@@ -15,7 +15,7 @@ description: "At Mailtape, we sometimes assume we're a bit old-fashioned. We are
   spirit of the MP3 player: carefully collecting fabulous tracks, downloading
   them, and listening to them on our little device, in various contexts, often
   intimate."
-image: https://www.mailta.pe/img/fbpic609.png
+image: /img/fbpic609.png
 musiColor: /img/musicolor609.png
 track1:
   title: Gilbert Bécaud - Contre Vous

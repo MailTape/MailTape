@@ -7,7 +7,7 @@ writer: Anto
 guest_name: Tommy Guerrero
 guest_color: trippy
 guestPic: /img/guestPic536.png
-image: https://www.mailta.pe/img/fbPic536.jpg
+image: /img/fbPic536.jpg
 musiColor: /img/musiColor536.png
 description: This morning, we're riding with Tommy Guerrero on the road to good vibes.
 pubDate: 2023-10-01

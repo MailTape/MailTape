@@ -7,7 +7,7 @@ writer: Sanjay Mistry
 guest_name: Siêm Folknomade
 guest_color: bliss
 guestPic: /img/guestPic358.jpg
-image: https://www.mailta.pe/img/fbPic358.jpg
+image: /img/fbPic358.jpg
 musiColor: /img/musiColor358.png
 description: This morning we are pleased to welcome a long time MailTape
   listener and Marseille-based vocalist and composer, Siêm Folknomade.

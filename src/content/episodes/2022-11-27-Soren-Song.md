@@ -7,7 +7,7 @@ illustrator: Meriam Kharbat
 author: Sarah
 writer: Sarah
 guestPic: /img/guestPic507.jpg
-image: https://www.mailta.pe/img/fbPic507.png
+image: /img/fbPic507.png
 description: With lots of love, this morning we welcome Soren Song to MailTape.
   Based in Woodstock, NY, their work is brimming with striking descriptions and
   deeply perceptive lyricism. It's a true joy to welcome them for a collection

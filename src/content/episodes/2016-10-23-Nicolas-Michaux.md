@@ -7,7 +7,7 @@ illustrator: William Girault
 writer: Maxime
 guest_name: Nicolas Michaux
 guest_color: vibrant
-image: https://www.mailta.pe/img/fbPic231.jpg
+image: /img/fbPic231.jpg
 musiColor: /img/musiColor231.png
 description: This morning, we offer you a romantic Mailtape, and a romantic
   artist. Nicolas Michaux is a Belgian singer who remind us the glory days of

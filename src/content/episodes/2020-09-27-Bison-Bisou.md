@@ -7,7 +7,7 @@ writer: Anaïs G
 illustrator: Anthony Dujardin
 author: Anaïs G
 published: true
-image: https://www.mailta.pe/img/fbPic418.png
+image: /img/fbPic418.png
 musiColor: /img/musiColor418.png
 description: This morning, we are in transition from remembering the warmth of
   our summer to the coolness of the rainy days. It's all about fighting the

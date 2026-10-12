@@ -22,7 +22,7 @@ description: >+
   he's an artist to keep an eye on! 
 
 
-image: https://www.mailta.pe/img/fbPic557.jpeg
+image: /img/fbPic557.jpeg
 musiColor: /img/musicolor557.png
 track1:
   title: Timber Timbre - Black Water

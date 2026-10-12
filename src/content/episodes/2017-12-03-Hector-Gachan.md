@@ -7,7 +7,7 @@ writer: Inès
 guest_name: Hector Gachan
 guest_color: dreamy
 guestPic: /img/guestPic289-2.jpg
-image: https://www.mailta.pe/img/fbPic289.png
+image: /img/fbPic289.png
 musiColor: /img/musiColor289.png
 description: This morning, kickstart your day with Hector Gachan’s warm and
   lively selection. Let this selection take you out of your lethargy and be the

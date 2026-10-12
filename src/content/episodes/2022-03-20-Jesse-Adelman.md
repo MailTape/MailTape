@@ -8,7 +8,7 @@ guest_name: Jesse Adelman
 guest_color: dreamy
 guestPic: /img/guestPic486.jpg
 musiColor: /img/musiColor486.png
-image: https://www.mailta.pe/img/fbPic486.png
+image: /img/fbPic486.png
 description: Today, we welcome Jesse Adelman for a collection of easy moving
   tracks to start your Sunday. Multi-instrumentalist songwriter based in the
   Bronx, Jesse released his solo debut album, Strangers, in December of last

@@ -7,7 +7,7 @@ writer: Sanjay Mistry
 guest_name: The Gentleman Losers
 guest_color: dreamy
 guestPic: /img/guestPic390.jpg
-image: https://www.mailta.pe/img/fbPic390.jpg
+image: /img/fbPic390.jpg
 musiColor: /img/musiColor390.png
 description: This morning we are delighted to welcome brothers Samu and Ville
   Kuukka from Helsinki, who have been making music together as The Gentleman

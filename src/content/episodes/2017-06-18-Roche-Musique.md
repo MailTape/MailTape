@@ -15,7 +15,7 @@ description: This morning, wake up with our very special guests, the pioneers of
   their very own sound, multiple, indefinable yet always groovy. Enjoy the trip
   folks !
 guestPic: /img/guestPic265.jpg
-image: https://www.mailta.pe/img/fbPic265.jpg
+image: /img/fbPic265.jpg
 pubDate: 2017-06-18
 track1:
   title: Tennyson x Mr. Carmack - Tuesday

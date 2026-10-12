@@ -7,7 +7,7 @@ author: Sarah
 writer: Sarah
 guest_color: vibrant
 guestPic: /img/guestPic442.jpg
-image: https://www.mailta.pe/img/fbPic442.png
+image: /img/fbPic442.png
 musiColor: /img/musiColor442.png
 description: We are delighted to welcome Thijsenterprise to MailTape for a
   Sunday morning selection of tracks that explore non-traditional structures,

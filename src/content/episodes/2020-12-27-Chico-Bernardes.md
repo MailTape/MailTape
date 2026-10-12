@@ -6,7 +6,7 @@ illustrator: Camille Célestin
 writer: Sarah
 guest_name: Chico Bernardes
 guest_color: bliss
-image: https://www.mailta.pe/img/fbPic431.png
+image: /img/fbPic431.png
 musiColor: /img/musiColor431.png
 guestPic: /img/guestPic431.jpg
 description: The last Sunday morning of 2020 has arrived, and so does our last

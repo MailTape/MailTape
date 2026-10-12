@@ -8,7 +8,7 @@ guestPic: /img/guestPic119.jpg
 description: This morning, My Summer Bee brings their joy and energy ! No
   excuses to stay in your bed, let this vibrant episode shine and fill your soul
   with great vibes. Wake up, live with passion and have an amazing sunday!
-image: https://www.mailta.pe/img/fbPic119.png
+image: /img/fbPic119.png
 musiColor: /img/musiColor119.png
 pubDate: 2013-12-08
 track1:

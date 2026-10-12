@@ -8,7 +8,7 @@ guest_name: Emily Wells
 guest_color: bliss
 guestPic: /img/guestPic497.jpg
 musiColor: /img/musiColor497.png
-image: https://www.mailta.pe/img/fbPic497.jpg
+image: /img/fbPic497.jpg
 description: This morning, I am very thrilled to unveil an episode co-curated
   with Emily Wells. As she's on tour, playing Regards to the End around the
   world, she took a moment to share with us some of her music gems. With this

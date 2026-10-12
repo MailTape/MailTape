@@ -7,7 +7,7 @@ writer: ImaCrea
 guest_name: Diamanda La Berge Dramm
 guest_color: bliss
 guestPic: /img/guestPic543.jpg
-image: https://www.mailta.pe/img/fbPic543.jpg
+image: /img/fbPic543.jpg
 musiColor: /img/musiColor543.png
 description: This morning, we're honored to welcome Diamanda La Berge Dramm as
   our guest. Known as one of the leading contemporary classical music performers

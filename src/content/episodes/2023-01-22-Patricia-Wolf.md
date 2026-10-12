@@ -12,7 +12,7 @@ description: This morning, we are delighted to welcome Patricia Wolf to
   draws on her natural surroundings to compose her music. Embark on a pure
   dreamy experience, sit back, and enjoy.
 musiColor: /img/musiColor514.png
-image: https://www.mailta.pe/img/fbPic514.png
+image: /img/fbPic514.png
 pubDate: 2023-01-22
 track1:
   title: Carmen Villain - Portals

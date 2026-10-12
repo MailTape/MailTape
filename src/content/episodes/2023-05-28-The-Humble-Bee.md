@@ -7,7 +7,7 @@ writer: ImaCrea
 guest_name: The Humble Bee
 guest_color: bliss
 guestPic: /img/guestPic528.png
-image: https://www.mailta.pe/img/fbPic528.jpg
+image: /img/fbPic528.jpg
 musiColor: /img/musiColor528.png
 description: This morning, I'd be delighted to continue our exploration of
   ambient music together, as you may have noticed my recent fascination with it.

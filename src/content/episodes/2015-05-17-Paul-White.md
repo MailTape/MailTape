@@ -6,7 +6,7 @@ bigTitle_font_ratio: "5"
 bigTitle_line_ratio: "0.6"
 guest_name: Paul White
 guestPic: /img/guestPic186.jpg
-image: https://www.mailta.pe/img/fbPic186.jpg
+image: /img/fbPic186.jpg
 musiColor: /img/musiColor186.png
 description: This morning, enjoy a selection filled with great positive vibes.
   Paul White inspired us a beautiful and soulful playlist that will warm you up

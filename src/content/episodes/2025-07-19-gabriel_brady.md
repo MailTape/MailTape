@@ -12,7 +12,7 @@ description: This morning, we're onto a very chill selection with our guest
   and warm intentions. There's a variety of situations where this episode could
   be excellent at rejoicing the soul and inviting desire to the table of your
   imagination.
-image: https://www.mailta.pe/img/fbpic588.jpg
+image: /img/fbpic588.jpg
 musiColor: /img/musicolor588.png
 alignY: "0.4"
 track1:

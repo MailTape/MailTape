@@ -7,7 +7,7 @@ writer: ImaCrea
 guest_name: Nicola Cruz
 guest_color: dreamy
 guestPic: /img/guestPic218.jpg
-image: https://www.mailta.pe/img/fbPic218.jpg
+image: /img/fbPic218.jpg
 musiColor: /img/musiColor218.png
 description: This morning, we’re taking you on a walk in the forest. Our guest
   Nicola Cruz shared with us his visionary tracks where electronic sounds bring

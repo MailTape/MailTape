@@ -7,7 +7,7 @@ writer: PS KY
 guest_name: Ménage à Trois
 guestPic: /img/guestPic2601.jpg
 guest_color: dreamy
-image: https://www.mailta.pe/img/fbPic260.JPG
+image: /img/fbPic260.JPG
 description: Bright and delightful morning to the masses and the listeners, to
   the frequency lovers and addicted souls of the music empire. Today, Ménage à
   Trois  will tickle you with their harmonious selection and singular sound.

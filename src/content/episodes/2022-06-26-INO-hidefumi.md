@@ -7,7 +7,7 @@ writer: Sarah
 guest_name: INO hidefumi
 guest_color: bliss
 guestPic: /img/guestPic498.jpg
-image: https://www.mailta.pe/img/fbPic498.png
+image: /img/fbPic498.png
 description: "  Today, with a special joy we welcome Tokyo-based jazz and
   electronic artist INO hidefumi to MailTape for a morning of Sunday
   discoveries. Known for eclectic tastes and textured sounds, INO's thoughtful

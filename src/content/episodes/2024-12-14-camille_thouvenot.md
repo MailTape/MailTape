@@ -15,7 +15,7 @@ description: This morning, Mail Tape invites you to revisit some classics and to
   have taken care to lay down fervently on their instruments. And fervor is
   particularly discussed in this episode because it's the fruit of our passion,
   it's what we take pleasure in sharing with you, every Sunday!
-image: https://www.mailta.pe/img/fbPic570.jpg
+image: /img/fbPic570.jpg
 musiColor: /img/musicolor570.png
 track1:
   title: Bob Marley - Concrete Jungle

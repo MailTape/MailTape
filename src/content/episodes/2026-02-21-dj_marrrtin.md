@@ -10,7 +10,7 @@ writer: Anto
 description: This morning we have the privilege of welcoming an artist whose
   work you've probably heard if you've attended a breakdance battle in the last
   fifteen years.
-image: https://www.mailta.pe/img/fbPic605.png
+image: /img/fbPic605.png
 musiColor: /img/musicolor605.png
 track1:
   title: Eddie Drennon & The B.B.S. Unlimited - Do what You gotta Do

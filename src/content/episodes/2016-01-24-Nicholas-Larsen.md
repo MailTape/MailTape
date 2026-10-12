@@ -4,7 +4,7 @@ guest_name: Nicholas Larsen
 guest_color: vibrant
 bigTitle_font_ratio: "7"
 guestPic: /img/guestPic201.jpg
-image: https://www.mailta.pe/img/fbPic201.png
+image: /img/fbPic201.png
 musiColor: /img/musiColor201.png
 description: This morning, let’s play a bit with this untamed selection from our
   guest Nicholas Larsen. It won’t be without a few head nods that you will find

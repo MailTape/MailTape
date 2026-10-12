@@ -6,7 +6,7 @@ bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
 guest_name: Christian Löffler
 guestPic: /img/guestPic155.jpg
-image: https://www.mailta.pe/img/fbPic155.png
+image: /img/fbPic155.png
 musiColor: /img/musiColor155.png
 description: This morning, discover Christian Löffler. The extraordinary
   capacities of this young producer have kept numerous eyes and ears closely

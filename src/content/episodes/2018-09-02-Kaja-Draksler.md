@@ -11,7 +11,7 @@ description: Welcome back to a new season of MailTape. This morning we welcome
   dreamy Sunday morning selection of chorales and solo piano.
 guestPic: /img/guestPic321.jpg
 musiColor: /img/musiColor321.png
-image: https://www.mailta.pe/img/fbPic321.jpg
+image: /img/fbPic321.jpg
 pubDate: 2018-09-02
 track1:
   title: The Tahitian Choir – Tahiti Choir Music

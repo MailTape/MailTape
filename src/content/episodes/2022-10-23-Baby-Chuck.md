@@ -13,7 +13,7 @@ description: This morning, we're delighted to welcome Baby Chuck to MailTape for
   Warm Infinity. The release examines the essence of memories and the varied
   nostalgia they bring.
 musiColor: /img/musiColor502.png
-image: https://www.mailta.pe/img/fbPic502.png
+image: /img/fbPic502.png
 pubDate: 2022-10-23
 track1:
   title: Ryan Sambol - You're Still Lovable to Someone

@@ -6,7 +6,7 @@ illustrator: Pierre-Julien Fieux
 guest_name: Fond of Tigers
 guest_color: dreamy
 guestPic: /img/guestPic254.jpg
-image: https://www.mailta.pe/img/fbPic254.jpg
+image: /img/fbPic254.jpg
 musiColor: /img/musiColor254.png
 description: This morning Stephen Lyons of Vancouver-based septet, Fond of
   Tigers, lifts the fog and treats us to three unhurried and dreamy selections.

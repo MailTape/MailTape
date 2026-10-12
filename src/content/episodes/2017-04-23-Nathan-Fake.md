@@ -7,7 +7,7 @@ guest_name: Nathan Fake
 guest_color: trippy
 writer: ImaCrea
 guestPic: /img/guestPic257.jpg
-image: https://www.mailta.pe/img/fbPic257.png
+image: /img/fbPic257.png
 musiColor: /img/musiColor257.png
 description: This morning let's welcome Nathan Fake. He just released a new
   album with our dear folks from Ninja Tune. Known for his innovative and

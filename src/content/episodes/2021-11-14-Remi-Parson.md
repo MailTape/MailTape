@@ -7,7 +7,7 @@ writer: Anaïs G
 guest_name: Rémi Parson
 guestPic: /img/guestPic470.jpg
 guest_color: rough
-image: https://www.mailta.pe/img/fbPic470.png
+image: /img/fbPic470.png
 musiColor: /img/musiColor470.png
 description: This morning, We sneak into the city, at the first hour, with the
   partygoers coming back from their afternoons but also market gardeners

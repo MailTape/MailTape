@@ -8,7 +8,7 @@ guest_name: Jermango Dreaming
 guest_color: bliss
 guestPic: /img/guestPic374.jpg
 musiColor: /img/musiColor374.png
-image: https://www.mailta.pe/img/fbPic374.png
+image: /img/fbPic374.png
 description: This morning, please welcome Jermango Dreaming and his popping
   selection as our guest for this episode.  Jermango Dreaming is the project of
   Jermaine Sakr, an Australian artist making dreamy pop music, groovy and laid

@@ -6,7 +6,7 @@ bigTitle_font_ratio: "9"
 bigTitle_line_ratio: "1"
 guest_name: Mammal Hands
 guestPic: /img/guestPic159.jpg
-image: https://www.mailta.pe/img/fbPic159.jpg
+image: /img/fbPic159.jpg
 musiColor: /img/musiColor159.png
 description: This Morning, we will communicate with something truly
   inspirational; a band whose music can be best described as novelty; a trio who

@@ -11,7 +11,7 @@ description: This morning I'm super excited to present the Sunday morning
   jukebox of Pretoria-based guitarist and generally beautiful human being,
   Sibusile Xaba, chosen especially for MailTape.
 musiColor: /img/musiColor275.png
-image: https://www.mailta.pe/img/fbPic275.jpg
+image: /img/fbPic275.jpg
 pubDate: 2017-08-27
 track1:
   title: Nono Nkoane — Nomad

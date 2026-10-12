@@ -15,7 +15,7 @@ description: This morning, we invite you to celebrate surprise and wild
   buzzing with life and sound, if only one knows how to shift one’s attention
   toward the ever-magical world of the non-human. Be prepared to reassess some
   of your assumptions about what a MailTape episode can be.
-image: https://www.mailta.pe/img/fbPic614.jpg
+image: /img/fbPic614.jpg
 musiColor: /img/musiColor614.png
 track1:
   title: Albert Marcœur - Une belle mort

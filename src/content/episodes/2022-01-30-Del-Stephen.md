@@ -8,7 +8,7 @@ illustrator: Thibault Daumain
 writer: ImaCrea
 guestPic: /img/guestPic479.jpg
 musiColor: /img/musiColor479.png
-image: https://www.mailta.pe/img/fbPic479.png
+image: /img/fbPic479.png
 description: This morning, we are floating in the air with Del Stephen. Coming
   from Toronto, his eclectic and blissful selection opens the doors to a
   magnificent Sunday. Warm and subtle, perfect to close this first month of the

@@ -7,7 +7,7 @@ writer: Daisy
 guest_name: Linda Buckley
 guest_color: dreamy
 guestPic: /img/guestPic236.jpg
-image: https://www.mailta.pe/img/fbPic236.jpg
+image: /img/fbPic236.jpg
 musiColor: /img/musiColor236.png
 description: This morning, let yourself be cocooned in the beautiful strands of
   sound woven together by our guest, Linda Buckley. Resist the day for just a

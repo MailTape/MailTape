@@ -13,7 +13,7 @@ description: "This morning, we are delighted to welcome Zeid Hamdan for a
   feel light and dense, tender, melancholic, but always full of light, pushing
   through the cracks. You’ll also be able to hear it live in Paris, at La Flèche
   d’Or on October 23."
-image: https://www.mailta.pe/img/fbPic593.png
+image: /img/fbPic593.png
 musiColor: /img/musicolor593.png
 alignY: "0.5"
 track1:

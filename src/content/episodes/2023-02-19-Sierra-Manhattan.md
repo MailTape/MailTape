@@ -6,7 +6,7 @@ illustrator: Meriam Kharbat
 guest_name: Sierra Manhattan
 guest_color: bliss
 guestPic: /img/guestPic518.jpg
-image: https://www.mailta.pe/img/fbPic518.png
+image: /img/fbPic518.png
 musiColor: /img/musiColor518.png
 description: This morning, you need to rest, to let yourself go to other
   sensations, or to rediscover simple pleasures such as enjoying your loved

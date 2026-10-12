@@ -13,7 +13,7 @@ description: This morning, please welcome Camille & Margaux from Écran Total.
   and groovy, today's episode is an ode to sunshine and love. Let the music
   play!
 musiColor: /img/musiColor466.png
-image: https://www.mailta.pe/img/fbPic466.jpg
+image: /img/fbPic466.jpg
 pubDate: 2021-10-17
 track1:
   title: Robert Wyatt - Sea Song

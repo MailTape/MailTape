@@ -6,7 +6,7 @@ illustrator: Jason Pridham
 guest_name: Sarah Maison
 guest_color: vibrant
 guestPic: /img/guestPic443.jpg
-image: https://www.mailta.pe/img/fbPic443.png
+image: /img/fbPic443.png
 musiColor: /img/musiColor443.png
 description: This morning, we leave in the sun with a one-way trip to the
   Eastern countries. The beauty of language, culture and scenery... In this

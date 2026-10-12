@@ -7,7 +7,7 @@ writer: Sanjay Mistry
 guest_name: Glockenspiel
 guest_color: dreamy
 guestPic: /img/guestPic342.jpg
-image: https://www.mailta.pe/img/fbPic342.jpg
+image: /img/fbPic342.jpg
 musiColor: /img/musiColor342.png
 description: This morning we are delighted to welcome Adrian Dollemore of
   Glockenspiel to select three Sunday morning tunes for us on MailTape.

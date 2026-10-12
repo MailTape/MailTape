@@ -6,7 +6,7 @@ illustrator: Camille Célestin
 guest_name: Maud Geffray
 guest_color: bliss
 guestPic: /img/guestPic281.jpg
-image: https://www.mailta.pe/img/fbPic281.png
+image: /img/fbPic281.png
 musiColor: /img/musiColor281.png
 writer: Louise
 description: Today's MailTape is a rollercoaster of emotions and feelings melted

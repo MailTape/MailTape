@@ -7,7 +7,7 @@ writer: Sanjay Mistry
 guest_name: Fran & Flora
 guest_color: dreamy
 guestPic: /img/guestPic382.jpg
-image: https://www.mailta.pe/img/fbPic382.jpg
+image: /img/fbPic382.jpg
 musiColor: /img/musiColor382.png
 description: This morning we are delighted to welcome Fran and Flora, the
   London-based string duo of Francesca Ter-Berg and Flora Curzon, to select some

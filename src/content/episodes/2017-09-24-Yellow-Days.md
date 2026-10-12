@@ -11,7 +11,7 @@ description: "This morning, we keep it smooth and easy with this delicate indie
   selection made with the talented 17 years old Yellow Days, aka George Van Den
   Broek. Autumn just started 3 days ago, let’s stay in bed a little longer and
   plan our next vacation... "
-image: https://www.mailta.pe/img/fbPic279.png
+image: /img/fbPic279.png
 musiColor: /img/musiColor279.png
 pubDate: 2017-09-24
 track1:

@@ -7,7 +7,7 @@ writer: Jules
 guest_name: Corey King
 guest_color: vibrant
 guestPic: /img/guestPic376.jpg
-image: https://www.mailta.pe/img/fbPic376.png
+image: /img/fbPic376.png
 musiColor: /img/musiColor376.png
 description: This morning, we are delighted to welcome Corey King to select
   three inspiring Sunday morning tunes for us. The New-York-based

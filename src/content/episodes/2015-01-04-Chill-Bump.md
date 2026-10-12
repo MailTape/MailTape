@@ -6,7 +6,7 @@ bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
 guest_name: Chill Bump
 guestPic: /img/guestPic167.jpg
-image: https://www.mailta.pe/img/fbPic167.jpg
+image: /img/fbPic167.jpg
 musiColor: /img/musiColor167.png
 description: This morning, let's dance and celebrate 2015 to the selection of
   the powerful duo Chill Bump.

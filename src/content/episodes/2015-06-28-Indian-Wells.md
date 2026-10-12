@@ -7,7 +7,7 @@ bigTitle_line_ratio: "1"
 guest_name: Indian Wells
 guestPic: /img/guestPic192.jpg
 musiColor: /img/musiColor192.png
-image: https://www.mailta.pe/img/fbPic192.jpg
+image: /img/fbPic192.jpg
 description: This morning, our italian guest Indian Wells brings us to a
   captivating and overpowering world. Night sweatiness and rising morning are
   his kingdom. No matter what you did last night, he's gonna transform your

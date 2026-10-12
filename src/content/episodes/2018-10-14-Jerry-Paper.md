@@ -10,7 +10,7 @@ guestPic: /img/guestPic327.jpg
 description: "This morning, please welcome Jerry Paper's eclectic selection. His
   music is multi-faceted. It's witty and stays graceful at all times. Are you
   ready to enter Jerry Paper’s musical multiverse? "
-image: https://www.mailta.pe/img/fbPic327.png
+image: /img/fbPic327.png
 musiColor: /img/musiColor327.png
 pubDate: 2018-10-14
 track1:

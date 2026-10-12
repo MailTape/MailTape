@@ -6,7 +6,7 @@ bigTitle_font_ratio: "3"
 bigTitle_line_ratio: "1"
 guest_name: Godbless computers
 guestPic: /img/guestPic171.jpg
-image: https://www.mailta.pe/img/fbPic171.jpg
+image: /img/fbPic171.jpg
 description: We like to think that Lorenzo Nada is a genius who knows how to
   utilize computers to the best of their utility. His sounds are fresh, but
   familiar. For those of you open to versatility, Godblesscomputers is a

@@ -6,7 +6,7 @@ guest_name: Stand Wise
 guest_color: vibrant
 bigTitle_font_ratio: "6"
 guestPic: /img/guestPic212.jpg
-image: https://www.mailta.pe/img/fbPic212.jpg
+image: /img/fbPic212.jpg
 musiColor: /img/musiColor212.png
 description: This morning, let us keep you on the edge of new talent discovery
   with the latest essentiels. Introducing Stand Wise, an intriguing duo from

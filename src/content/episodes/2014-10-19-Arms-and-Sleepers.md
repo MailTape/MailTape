@@ -6,7 +6,7 @@ bigTitle_font_ratio: "8"
 bigTitle_line_ratio: "1"
 guest_name: Arms and Sleepers
 guestPic: /img/guestPic156.jpg
-image: https://www.mailta.pe/img/fbPic156.jpg
+image: /img/fbPic156.jpg
 musiColor: /img/musiColor156.png
 description: A time when we were all one and free,  and we stood, with our hands
   in hands with a blue sky on top and countless shades of trees.   Let’s unite

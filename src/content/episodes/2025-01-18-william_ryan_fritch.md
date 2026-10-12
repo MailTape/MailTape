@@ -12,7 +12,7 @@ description: "This morning, I'm excited to share with you a new episode that
   immersive and evocative soundscapes that transport us to otherworldly realms.
   He's curated a selection of tracks that take us on a journey through the
   realms of ambient, jazz, and experimental soundscapes. "
-image: https://www.mailta.pe/img/fbPic573.jpg
+image: /img/fbPic573.jpg
 musiColor: /img/musicolor573.png
 track1:
   title: Mabe Fratti - Enfrente

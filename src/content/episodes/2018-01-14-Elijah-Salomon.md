@@ -7,7 +7,7 @@ writer: Sanjay Mistry
 guest_name: Elijah Salomon
 guest_color: trippy
 guestPic: /img/guestPic295.jpg
-image: https://www.mailta.pe/img/fbPic295.jpg
+image: /img/fbPic295.jpg
 musiColor: /img/musiColor295.png
 description: This morning we welcome multilingual singer, songwriter and
   musician, Elijah Salomon. With songs in Swiss German, English, Jamaican

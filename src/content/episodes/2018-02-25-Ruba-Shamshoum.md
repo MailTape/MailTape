@@ -11,7 +11,7 @@ description: This morning we are delighted to welcome Dublin-based musician,
   Sunday morning playlist.
 guestPic: /img/guestPic301.jpg
 musiColor: /img/musiColor301.png
-image: https://www.mailta.pe/img/fbPic301.jpg
+image: /img/fbPic301.jpg
 pubDate: 2018-02-25
 track1:
   title: Ella Fitzgerald – Blue Skies

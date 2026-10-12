@@ -5,7 +5,7 @@ author: ImaCrea
 writer: ImaCrea
 guest_name: La Fine Équipe
 guestPic: /img/guestPic6.jpg
-image: https://www.mailta.pe/img/fbPic6.jpg
+image: /img/fbPic6.jpg
 musiColor: /img/musiColor6.png
 guest_color: rough
 illustrator: William Girault

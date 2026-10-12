@@ -7,7 +7,7 @@ writer: Inès
 guest_name: Le Turc Mécanique
 guest_color: rough
 guestPic: /img/guestPic283.jpg
-image: https://www.mailta.pe/img/fbPic283.png
+image: /img/fbPic283.png
 musiColor: /img/musiColor283.png
 description: This morning, take some time to listen to Le Turc Mécanique’s
   delightful selection, for a morning that gets sweeter by every minute.

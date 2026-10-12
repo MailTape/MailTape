@@ -22,7 +22,7 @@ description: This morning, we are setting sail again at the very first light of
   infinity of the ocean, and express joy and homesickness at the same time. This
   morning we are embarking with him, get prepared to be soothed by melancholic
   waves, overwhelmed by the sea spray and the wind of adventure!
-image: https://www.mailta.pe/img/fbPic380.png
+image: /img/fbPic380.png
 guestPic: /img/guestPic380.jpg
 pubDate: 2019-11-17
 track1:

@@ -7,7 +7,7 @@ writer: Jules
 guest_name: Binary Digit
 guest_color: trippy
 guestPic: /img/guestPic421.jpg
-image: https://www.mailta.pe/img/fbPic421.png
+image: /img/fbPic421.png
 musiColor: /img/musiColor421.png
 description: "This morning, the alarm clock tastes acid and sour, that kind of
   unpleasant sensation at first glance but which you eventually get used to,

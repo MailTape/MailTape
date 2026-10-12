@@ -11,7 +11,7 @@ description: This morning we are delighted to welcome multi-instrumentalist
   composer and historian of electronic music and sound, Dr. Tara Rodgers (Analog
   Tara)
 musiColor: /img/musiColor340.png
-image: https://www.mailta.pe/img/fbPic340.jpg
+image: /img/fbPic340.jpg
 pubDate: 2019-01-13
 track1:
   title: "Sarah Vaughan – Autumn Leaves "

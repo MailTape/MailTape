@@ -19,7 +19,7 @@ description: "For this last MailTape before our summer break, we welcome Damon
   Coady (Beach House), Panoram, Parker Kindred (Antony and The Johnsons),
   Delicate Steve …"
 guestPic: /img/guestPic320.jpg
-image: https://www.mailta.pe/img/fbPic320.jpg
+image: /img/fbPic320.jpg
 musiColor: /img/musiColor320.png
 pubDate: 2018-07-08
 track1:

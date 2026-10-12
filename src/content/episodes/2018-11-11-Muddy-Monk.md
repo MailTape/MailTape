@@ -8,7 +8,7 @@ writer: Manon
 guest_color: dreamy
 guestPic: /img/guestPic331.jpg
 description: This morning, we are delighted to welcome Muddy Monk to Mailtape.
-image: https://www.mailta.pe/img/fbPic331.png
+image: /img/fbPic331.png
 musiColor: /img/musiColor331.png
 pubDate: 2018-11-11
 track1:

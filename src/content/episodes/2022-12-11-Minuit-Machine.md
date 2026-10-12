@@ -12,7 +12,7 @@ description: This morning, we're not letting winter take our energy. It's cold
   prepare for a journey through a selection of energetic and cathartic tracks.
   Open, open, open, make a big O and keep searching.
 musiColor: /img/musiColor509.png
-image: https://www.mailta.pe/img/fbPic509.png
+image: /img/fbPic509.png
 pubDate: 2022-12-11
 track1:
   title: Doppelhandel - Billy

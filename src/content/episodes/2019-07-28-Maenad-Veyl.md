@@ -13,7 +13,7 @@ description: This morning, let's revel in the lush universe of Maenad Veyl, one
   sunday is no exception to that, a stroll through fresh ambient layers, a warm
   jazzy afrobeat piece or even a trension-building drum-and-bass track, all in
   restraint.
-image: https://www.mailta.pe/img/fbPic368.png
+image: /img/fbPic368.png
 musiColor: /img/musiColor368.png
 guestPic: /img/guestPic368.jpg
 pubDate: 2019-07-28

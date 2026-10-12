@@ -16,7 +16,7 @@ description: >-
   today sparks moments of reflection, surprise, and joy, just like his latest
   album, Proteus, released this summer. A boundless universe to explore as your
   morning unfolds.
-image: https://www.mailta.pe/img/fbpic591.jpg
+image: /img/fbpic591.jpg
 musiColor: /img/musicolor591.png
 alignY: "0.4"
 track1:

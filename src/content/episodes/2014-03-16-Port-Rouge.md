@@ -10,7 +10,7 @@ description: Randomly browsing the web often ends up with nice discoveries. If
   sweet, clean and suttle deep music.
 guest_name: Port Rouge
 guestPic: /img/guestPic132.jpg
-image: https://www.mailta.pe/img/fbPic132.jpg
+image: /img/fbPic132.jpg
 musiColor: /img/musiColor132.png
 pubDate: 2014-03-16
 track1:

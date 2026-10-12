@@ -11,7 +11,7 @@ description: This morning, here's a Mailtape inspired by Fragments. You're bound
   to wake up in a good mood by the end of this sunday selection. Enjoy the
   lively rhythms of these tracks and you will be powered for the rest of the
   day.
-image: https://www.mailta.pe/img/fbPic163.jpg
+image: /img/fbPic163.jpg
 pubDate: 2014-12-07
 track1:
   title: Maps - A.M.A

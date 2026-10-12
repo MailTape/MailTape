@@ -7,7 +7,7 @@ writer: Louise
 guest_name: Aloïse Sauvage
 guest_color: dreamy
 guestPic: /img/guestPic293-1.jpg
-image: https://www.mailta.pe/img/fbPic293.png
+image: /img/fbPic293.png
 musiColor: /img/musiColor293.png
 description: "This morning, it's time to reflect on the past year. It's a new
   milestone for MailTape: one more year of introducing you to the music we love,

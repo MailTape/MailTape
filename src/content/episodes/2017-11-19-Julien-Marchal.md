@@ -13,7 +13,7 @@ description: "Our artist of the week, Julien Marchal, has something unique to
   art. Melancholic and yet uplifting, here’s an artist whose harmony will lend
   you the peace of mind you so deserve as you touch upon on the world of modern
   classical. "
-image: https://www.mailta.pe/img/fbPic287.png
+image: /img/fbPic287.png
 musiColor: /img/musiColor287.png
 pubDate: 2017-11-19
 track1:

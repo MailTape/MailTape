@@ -9,7 +9,7 @@ guest_color: bliss
 guestPic: /img/guestPic317.jpg
 description: Today we are delighted to welcome kora player Jally Kebba Susso as
   he picks a soothing suite of Sunday morning jams for MailTape.
-image: https://www.mailta.pe/img/fbPic317.jpg
+image: /img/fbPic317.jpg
 musiColor: /img/musiColor317.png
 pubDate: 2018-06-17
 track1:

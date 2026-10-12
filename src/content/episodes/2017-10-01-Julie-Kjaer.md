@@ -6,7 +6,7 @@ illustrator: Camille Célestin
 writer: Sanjay Mistry
 guest_name: Julie Kjær
 guest_color: trippy
-image: https://www.mailta.pe/img/fbPic280.jpg
+image: /img/fbPic280.jpg
 guestPic: /img/guestPic280.jpg
 musiColor: /img/musiColor280.png
 description: This morning we welcome the infectious enthusiasm and unbridled

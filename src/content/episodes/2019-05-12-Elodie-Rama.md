@@ -7,7 +7,7 @@ writer: Anaïs G
 guest_name: Elodie Rama
 guest_color: bliss
 guestPic: /img/guestPic357.jpg
-image: https://www.mailta.pe/img/fbPic357.png
+image: /img/fbPic357.png
 musiColor: /img/musiColor357.png
 description: This morning, we walk through the deserted streets of a city (of
   your choice). Whether we return from the evening or we decide to buy

@@ -7,7 +7,7 @@ writer: Sanjay Mistry
 guest_name: Julia Biel
 guest_color: bliss
 guestPic: /img/guestPic348.jpg
-image: https://www.mailta.pe/img/fbPic348.jpg
+image: /img/fbPic348.jpg
 musiColor: /img/musiColor348.png
 description: This morning we are thrilled to welcome London-based vocalist,
   guitarist and pianist, Julia Biel, who selects three swaying Sunday tunes for

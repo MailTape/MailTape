@@ -2,7 +2,7 @@
 bigTitle_font_ratio: "6"
 published: true
 musiColor: /img/musiColor423.png
-image: https://www.mailta.pe/img/fbPic423.png
+image: /img/fbPic423.png
 guestPic: /img/guestPic423.jpg
 guest_color: vibrant
 guest_name: Schérazade

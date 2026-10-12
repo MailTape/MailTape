@@ -10,7 +10,7 @@ description: This morning, we are embarking on a year filled with joy, love and
   surprises. It shall also astonish us with many musical discoveries and
   auditory newness. Our journey, headed by captain Cam Maclean, promises a
   Sunday filled with hope and sweetness.
-image: https://www.mailta.pe/img/fbPic339.png
+image: /img/fbPic339.png
 writer: Anaïs G
 musiColor: /img/musiColor339.png
 pubDate: 2019-01-06

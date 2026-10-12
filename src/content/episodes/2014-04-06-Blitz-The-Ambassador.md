@@ -6,7 +6,7 @@ bigTitle_font_ratio: "9"
 bigTitle_line_ratio: "0.5"
 guest_name: Blitz The Ambassador
 guestPic: /img/guestPic135.jpg
-image: https://www.mailta.pe/img/fbPic135.jpg
+image: /img/fbPic135.jpg
 description: This morning, wake up with a soulful selection inspired by monsieur
   Blitz The Ambassador. Starting with a classic sampled all over the hip-hop
   universe and finishing with some rough deep jazz, each track reveals a new

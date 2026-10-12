@@ -9,7 +9,7 @@ guest_color: trippy
 description: This morning we are excited to welcome MALFNKTION, the electronic
   music project of Bengaluru-based musician, Aditya Alamuru.
 guestPic: /img/guestPic315.jpg
-image: https://www.mailta.pe/img/fbPic315.jpg
+image: /img/fbPic315.jpg
 musiColor: /img/musiColor315.png
 pubDate: 2018-06-03
 track1:

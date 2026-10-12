@@ -6,7 +6,7 @@ guest_color: trippy
 guest_name: Nate Wooley
 guestPic: /img/guestPic261.jpg
 illustrator: William Girault
-image: https://www.mailta.pe/img/fbPic261.jpg
+image: /img/fbPic261.jpg
 musiColor: /img/musiColor261.png
 description: We are super happy to welcome experimental trumpeter, Nate Wooley,
   in this week's issue. Nate recalls the rain-soaked Pacific Northwest he once

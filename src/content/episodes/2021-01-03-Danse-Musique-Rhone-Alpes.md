@@ -1,6 +1,6 @@
 ---
 musiColor: /img/musiColor432.png
-image: https://www.mailta.pe/img/fbPic432.png
+image: /img/fbPic432.png
 bigTitle_font_ratio: "6"
 guestPic: /img/guestPic432.jpg
 guest_name: Danse Musique Rhône-Alpes

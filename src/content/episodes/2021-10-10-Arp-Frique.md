@@ -8,7 +8,7 @@ guest_name: Arp Frique
 guest_color: trippy
 musiColor: /img/musiColor465.png
 guestPic: /img/guestPic465.jpeg
-image: https://www.mailta.pe/img/fbPic465.png
+image: /img/fbPic465.png
 description: This morning, the sun has never shone so brightly. Rotterdam-based
   musician and producer Arp Frique is welcoming MailTape in his colourful
   world!  Niels Nieuborg, the genius mind behind Arp Frique, has been actively

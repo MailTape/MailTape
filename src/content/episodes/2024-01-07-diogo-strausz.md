@@ -23,7 +23,7 @@ description: This morning, as I opened my eyes in bed and let my gaze glide
   Paulo, Paris and many other fantastic lands, between retro and neo, always
   with a sunny groove.
 guestPic: /img/guestPic542.jpeg
-image: https://www.mailta.pe/img/fbPic542.png
+image: /img/fbPic542.png
 pubDate: 2024-01-07
 track1:
   title: The Beatles - Here Comes The Sun

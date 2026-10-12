@@ -10,7 +10,7 @@ description: This morning we are delighted to welcome the French singer
   of Summer, Paris was still warm and welcoming.
 guestPic: /img/guestPic335new.jpg
 musiColor: /img/musiColor335.png
-image: https://www.mailta.pe/img/fbPic335.jpg
+image: /img/fbPic335.jpg
 illustrator: William Girault
 pubDate: 2018-12-09
 track1:

@@ -7,7 +7,7 @@ guest_name: Ratamard Clan
 guest_color: trippy
 guestPic: /img/guestPic458.jpg
 musiColor: /img/musiColor458.png
-image: https://www.mailta.pe/img/fbPic458.png
+image: /img/fbPic458.png
 illustrator: Noémie Dijon
 description: This morning,we are tired, exhausted and washed away by this
   complicated year but finally ready for his much-deserved great holiday. It is

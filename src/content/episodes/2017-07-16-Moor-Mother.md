@@ -9,7 +9,7 @@ guestPic: /img/guestPic269.jpg
 musiColor: /img/musiColor269.png
 description: This morning we welcome Philadelphia-based interdisciplinary
   artist, Camae Ayewa (Moor Mother).
-image: https://www.mailta.pe/img/fbPic269.jpg
+image: /img/fbPic269.jpg
 pubDate: 2017-07-16
 track1:
   title: Madam Data - Miniature Neurocosmos 28

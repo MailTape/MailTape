@@ -6,7 +6,7 @@ bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
 guest_name: Douglas Dare
 guestPic: /img/guestPic158.jpg
-image: https://www.mailta.pe/img/fbPic158.jpg
+image: /img/fbPic158.jpg
 musiColor: /img/musiColor158.png
 description: This morning, discover Douglas Dare. Douglas Dare grew up in the
   small coastal town of Bridport in South West England. Encouraged by his

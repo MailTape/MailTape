@@ -12,7 +12,7 @@ description: "This morning, let's all stay in a hazy state thanks to Johnny
   soundtracks for Sundays: long, slow, and dreamy, just what is needed to wrap
   up the week beautifully. So stay still, close your eyes, don't turn on the
   lights. Take this episode as being an excuse to do nothing for some time."
-image: https://www.mailta.pe/img/fbPic256.png
+image: /img/fbPic256.png
 musiColor: /img/musiColor256.png
 pubDate: 2017-04-16
 track1:

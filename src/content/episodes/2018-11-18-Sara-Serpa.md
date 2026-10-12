@@ -10,7 +10,7 @@ description: This morning we welcome vocalist and composer Sara Serpa to pick
   three Sunday morning musical selections for us.
 guestPic: /img/guestPic332.jpg
 musiColor: /img/musiColor332.png
-image: https://www.mailta.pe/img/fbPic332.jpg
+image: /img/fbPic332.jpg
 pubDate: 2018-11-18
 track1:
   title: Béla Bartók – Violin Duets, N.28 — Sorrow

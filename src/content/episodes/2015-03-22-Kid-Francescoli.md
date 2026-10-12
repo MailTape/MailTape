@@ -6,7 +6,7 @@ bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
 guest_name: Kid Francescoli
 guestPic: /img/guestPic178.jpg
-image: https://www.mailta.pe/img/fbPic178.jpg
+image: /img/fbPic178.jpg
 musiColor: /img/musiColor178.png
 description: This morning, our playlist curated with Kid Francescoli is like a
   perennial river as it is meant to flow round the clock. The first track serves

@@ -2,7 +2,7 @@
 bigTitle_font_ratio: "6"
 published: true
 musiColor: /img/musiColor403.png
-image: https://www.mailta.pe/img/fbPic403.png
+image: /img/fbPic403.png
 guestPic: /img/guestPic403.jpg
 guest_color: trippy
 guest_name: Quiet Dawn

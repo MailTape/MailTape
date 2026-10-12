@@ -6,7 +6,7 @@ illustrator: Camille Célestin
 writer: Sarah
 guest_name: Luiza Brina
 guest_color: vibrant
-image: https://www.mailta.pe/img/fbPic481.png
+image: /img/fbPic481.png
 musiColor: /img/musiColor481.png
 guestPic: /img/guestPic481.jpg
 pubDate: 2022-02-13

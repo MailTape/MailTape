@@ -8,7 +8,7 @@ guest_name: Félicia Atkinson
 guest_color: trippy
 guestPic: /img/guestPic294.jpg
 musiColor: /img/musiColor294.png
-image: https://www.mailta.pe/img/fbPic294.jpg
+image: /img/fbPic294.jpg
 description: This morning we welcome preeminent Rennes-based avant-garde
   composer Félicia Atkinson to collaborate with us on MailTape. She weaves
   myriad, filigree electro-acoustic and non-musical metanarratives into a sonic
