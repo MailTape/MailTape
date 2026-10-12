@@ -1,19 +1,13 @@
 ---
 published: true
 pubDate: 2026-10-04
+release: 615
 guest_name: The Bernadette Maries
 guest_color: rough
 guestPic: /img/guest615.jpg
 author: Anto
 illustrator: Pierre-Julien Fieux
 writer: Anto
-description: Damn planet, out of whack. Damn humans, making a mess of things and
-  becoming more and more pathetic. Damn existence, whose meaning we still
-  haven't grasped… Today our emotions are restless. Between bizarre dreams and
-  muffled screams, we're creating a bubbling playlist to exorcise our dark
-  introspections.
-image: /img/fbPic615.png
-musiColor: /img/musicolor615.png
 track1:
   title: Winter (feat. Sasami) – Good
   color: dreamy
@@ -42,8 +36,12 @@ track7:
   title: Lambrini Girls – Big dick energy
   color: rough
   link: https://sounds.mailta.pe/615/track7.mp3
-release: 615
+description: Damn planet, out of whack. Damn humans, making a mess of things and becoming more and more pathetic. Damn existence, whose meaning we still haven't grasped… Today our emotions are restless. Between bi...
+image: /img/fbpic615.png
+musiColor: /img/musicolor615.png
+alignY: ''
 ---
+
 Damn planet, out of whack. Damn humans, making a mess of things and becoming more and more pathetic. Damn existence, whose meaning we still haven't grasped… Today our emotions are restless. Between bizarre dreams and muffled screams, we're creating a bubbling playlist to exorcise our dark introspections.
 
 To that end, we welcome [The Bernadette Maries](https://geographie.bandcamp.com/album/soft), a trio of artists from Brussels who have just released [an intriguing debut album](https://geographie.bandcamp.com/album/soft), somewhere between shoegaze and indie-pop which allows itself to vary the contrasts, to explore some areas of shadow, while also possessing a disarming and luminous lightness. The melodies are sometimes catchy, sometimes disturbing, but always refined. So today's selection also plays on contrasts. In this 615 episode, you'll find plenty to enjoy and challenge your curious ears.
