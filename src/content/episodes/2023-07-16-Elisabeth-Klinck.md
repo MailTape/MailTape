@@ -4,7 +4,6 @@ published: true
 author: ImaCrea
 illustrator: Julie Wojtczak
 writer: ImaCrea
-category: "532"
 guest_name: Elisabeth Klinck
 guest_color: dreamy
 guestPic: guestPic532.jpg
@@ -44,6 +43,7 @@ track7:
   title: Lucie Antunes - Elliott
   color: bliss
   link: https://sounds.mailta.pe/532/track7.mp3
+release: 532
 ---
 
 

@@ -5,7 +5,6 @@ author: Dimitri
 illustrator: William Girault
 guest_name: The Holydrug Couple
 guest_color: dreamy
-category: "239"
 guestPic: guestPic239.jpg
 episode_URL: https://www.mailta.pe/239/The-Holydrug-Couple/
 image: https://www.mailta.pe/img/fbPic239.jpg
@@ -42,6 +41,7 @@ track7:
   title: Mick Jenkins - Drowning feat. BadBadNotGood
   color: trippy
   link: https://sounds.mailta.pe/239/track7.mp3
+release: 239
 ---
 This morning, we will explore a variety of psychedelic territories with our guests [The Holydrug Couple](https://www.facebook.com/Holydrugcouple/). Cosmic, oniric and tastily psychedelic, their music bring us in an parallel dimension where dreams and reality are one. Perfect destination for a Sunday morning. Hope this experimental trip will make you float as high as the Andean mountains from their native Chili.
 

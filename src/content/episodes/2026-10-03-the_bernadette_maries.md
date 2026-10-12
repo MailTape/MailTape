@@ -1,7 +1,6 @@
 ---
 published: true
 pubDate: 2026-10-04
-category: "615"
 guest_name: The Bernadette Maries
 guest_color: rough
 guestPic: guest615.jpg
@@ -44,6 +43,7 @@ track7:
   title: Lambrini Girls – Big dick energy
   color: rough
   link: https://sounds.mailta.pe/615/track7.mp3
+release: 615
 ---
 Damn planet, out of whack. Damn humans, making a mess of things and becoming more and more pathetic. Damn existence, whose meaning we still haven't grasped… Today our emotions are restless. Between bizarre dreams and muffled screams, we're creating a bubbling playlist to exorcise our dark introspections.
 

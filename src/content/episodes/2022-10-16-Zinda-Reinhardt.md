@@ -4,7 +4,6 @@ published: true
 author: ImaCrea
 illustrator: Meriam Kharbat
 writer: ImaCrea
-category: "501"
 guest_name: Zinda Reinhardt
 guest_color: vibrant
 guestPic: guestPic501.jpg
@@ -45,6 +44,7 @@ track7:
   title: Sudan Archives - Home Maker
   color: vibrant
   link: https://sounds.mailta.pe/501/track7.mp3
+release: 501
 ---
 This morning, we're thrilled to be back for this 11th season of music discoveries! The world has greatly changed in these 11 years. More polarized than ever and facing critical issues, we believe music is essential to a world deeply in need of human bonding and love. It's a universal language speaking to our shared consciousness and then translated through our body as dance, and movement.
 <br><br>

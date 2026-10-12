@@ -2,7 +2,6 @@
 bigTitle_font_ratio: "6"
 published: true
 guest_name: Lael Neale
-category: "471"
 writer: PS KY
 author: ImaCrea
 illustrator: Meriam Kharbat
@@ -47,6 +46,7 @@ track7:
   title: Eddy de Pretto - Val de Larmes
   color: bliss
   link: https://sounds.mailta.pe/471/track7.mp3
+release: 471
 ---
  This morning, we welcome our guest [Lael Neale](https://laelneale.bandcamp.com/album/acquainted-with-night) with a delicate and pacifying MailTape. This calming selection is an invitation to slow down, a guided introspection as we truly listen to both the music and ourselves.
 <br><br>

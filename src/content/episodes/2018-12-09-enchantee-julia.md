@@ -5,7 +5,6 @@ author: Manon
 writer: Manon
 guest_name: Enchantée Julia
 guest_color: dreamy
-category: "335"
 description: This morning we are delighted to welcome the French singer
   Enchantée Julia to MailTape. I discovered her a few months ago. It was the end
   of Summer, Paris was still warm and welcoming.
@@ -43,6 +42,7 @@ track7:
   title: LXTR – WWL (feat. CARME)
   color: dreamy
   link: https://sounds.mailta.pe/335/track7.mp3
+release: 335
 ---
 
 This morning we are delighted to welcome the French singer [Enchantée Julia](https://www.facebook.com/enchanteejulia/) to MailTape.

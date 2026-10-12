@@ -5,7 +5,6 @@ guest_color: bliss
 bigTitle_font_ratio: "7"
 bigTitle_line_ratio: "1"
 guest_name: Project Pablo
-category: "188"
 episode_URL: http://mailta.pe/188/Project-Pablo/
 guestPic: guestPic188.jpg
 image: https://www.mailta.pe/img/fbPic188.jpg
@@ -45,6 +44,7 @@ track7:
   title: Fouk ~ Kill Frenzy
   color: rough
   link: https://sounds.mailta.pe/188/track7.mp3
+release: 188
 ---
 
 

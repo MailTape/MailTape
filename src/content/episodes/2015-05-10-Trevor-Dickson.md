@@ -4,7 +4,6 @@ author: Maxime
 guest_color: dreamy
 bigTitle_font_ratio: "10"
 bigTitle_line_ratio: "1"
-category: "185"
 guest_name: Trevor Dickson
 episode_URL: http://mailta.pe/185/Trevor-Dickson/
 guestPic: guestPic185.jpg
@@ -42,6 +41,7 @@ track7:
   title: Ibo Combo - Mateau
   color: vibrant
   link: https://sounds.mailta.pe/185/track7.mp3
+release: 185
 ---
 
 This morning, step into the musical universe of a crooner called, Trevor Dickson. His debut album "Passion Fruit", was launched last year in November. His swooning lyrical ballads, when expressed in his crooning voice, give you a sense of journeying around the world. Whereas, the sounds produced by his percussions show off the best flavors of summer like a fresh exotic cocktail.

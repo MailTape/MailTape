@@ -4,7 +4,6 @@ published: true
 author: Sanjay Mistry
 illustrator: Thibault Daumain
 writer: Sanjay Mistry
-category: "390"
 guest_name: The Gentleman Losers
 guest_color: dreamy
 episode_URL: http://mailta.pe/390/the-gentleman-losers/
@@ -43,6 +42,7 @@ track7:
   title: WaqWaq Kingdom – Koko Says
   color: dreamy
   link: https://sounds.mailta.pe/390/track7.mp3
+release: 390
 ---
 This morning we are delighted to welcome brothers Samu and Ville Kuukka from Helsinki, who have been making music together as [The Gentleman Losers](https://www.gentlemanlosers.com/) since their early teens.
 <br><br>

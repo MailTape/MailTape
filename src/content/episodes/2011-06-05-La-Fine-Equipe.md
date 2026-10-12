@@ -3,7 +3,6 @@ bigTitle_font_ratio: "6"
 published: true
 author: ImaCrea
 writer: ImaCrea
-category: "6"
 guest_name: La Fine Équipe
 guestPic: guestPic6.jpg
 episode_URL: http://mailta.pe/6/La-Fine-Equipe/
@@ -46,6 +45,7 @@ track7:
   title: Classixx - Into the Valley (Julio Bashmore remix)
   color: bliss
   link: https://sounds.mailta.pe/6/track7.mp3
+release: 6
 ---
 This morning, [La Fine Équipe](https://www.facebook.com/lafineequipebeats/) are off to a great start with Stevie Wonder who lights up our bedroom early in the morning as the first sunbeams. Off to take a shower listening to Amon Tobin, water dripping from the shower head in slow-motion and our skin feels every drop of it. Time passes, we don't know since how long we have been under the hot water stream. Back to reality, Madvillain sets his rythmn, his flow, it's time to brew some coffee.
 

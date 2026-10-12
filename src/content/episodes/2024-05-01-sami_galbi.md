@@ -1,7 +1,6 @@
 ---
 published: true
 pubDate: 2024-05-05
-category: "557"
 guest_name: Sami Galbi
 guest_color: trippy
 guestPic: guestpic557.png
@@ -54,6 +53,7 @@ track7:
   title: Teno Afrika - Smooth Criminal (Main Mix)
   color: vibrant
   link: https://sounds.mailta.pe/557/track7.mp3
+release: 557
 ---
 This morning we're delighted to welcome Swiss-Moroccan musician and singer [Sami Galbi](https://samigalbi.bandcamp.com/) who has just released his first EP <i>Dakchi Hani / Rruina</i> to MailTape!
 

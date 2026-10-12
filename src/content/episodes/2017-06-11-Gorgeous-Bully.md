@@ -4,7 +4,6 @@ published: true
 author: Inès
 illustrator: Camille Célestin
 writer: Inès
-category: "264"
 guest_name: Gorgeous Bully
 guest_color: dreamy
 episode_URL: https://www.mailta.pe/264/gorgeous-bully
@@ -44,6 +43,7 @@ track7:
   title: Aldous RH - Feelin Blue
   color: bliss
   link: https://sounds.mailta.pe/264/track7.mp3
+release: 264
 ---
 This morning, let's have a mellow Sunday morning thanks to [Gorgeous Bully](https://www.facebook.com/gorgeousbullyband/ "Facebook")'s heartwarming selection.
 Manchester based Gorgeous Bully makes lo-fi, DIY bedroom grunge-pop tracks. Catchy, minimal and sincere, Gorgeous Bully's music is striking, and welcomed in current times.

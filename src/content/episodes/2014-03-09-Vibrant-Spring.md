@@ -7,7 +7,6 @@ description: "This morning, discover a 100% MailTape Crew episode. The perfect
   occasion to celebrate the arrival of our two new curators : Julien and
   Dimitri. Spring is on its way, here’s our vibrant hymn to help Mother Nature
   in her slow awakening."
-category: "131"
 episode_URL: http://mailta.pe/131-Vibrant-Spring.html
 guest_name: Vibrant Spring
 author: MailTape Crew
@@ -43,6 +42,7 @@ track7:
   title: Yinyues - Zing Wezé Mama
   color: vibrant
   link: https://sounds.mailta.pe/131/track7.mp3
+release: 131
 ---
 
 

@@ -4,7 +4,6 @@ published: true
 author: Laura
 illustrator: William Girault
 writer: Laura
-category: "244"
 guest_name: Detroit Swindle
 guest_color: bliss
 episode_URL: https://www.mailta.pe/244/Detroit-Swindle/
@@ -43,6 +42,7 @@ track7:
   title: The Bamboos – Get in the Scene
   color: trippy
   link: https://sounds.mailta.pe/244/track7.mp3
+release: 244
 ---
 This morning, let yourself dive into complete blissfulness with the soulful beat of our guests [Detroit Swindle](https://soundcloud.com/detroitswindle "Soundcloud"). Awake with their chilled out yet rhythmic musical selection that highlights the return of soul in hip-hop symbolized by three great artists. Detroit Swindle is a Dutch duo of DJs, renown for connecting an incredibly wide variety of musical genres into their work, making their style one of a kind and quite unpredictable. One of their masterpieces "You, Me, Here, Now" will make you want to discover more so push the volume up folks and enjoy!
 

@@ -2,7 +2,6 @@
 bigTitle_font_ratio: "6"
 published: true
 author: Anaïs G
-category: "372"
 guest_name: Lenny Pistol
 guest_color: dreamy
 guestPic: guestPic372.jpg
@@ -44,6 +43,7 @@ track7:
   title: Angelo De Augustine - I Could Be Wrong
   color: dreamy
   link: https://sounds.mailta.pe/372/Track7.mp3
+release: 372
 ---
 This morning, we are entering a lovely and floating retro Sunday vibe. Fondling in vitamin induced subtilties, this selection of tracks will pull you out of this morning’s hazy fog. [Lenny Pistol](https://www.facebook.com/LennyPistol/) will be your guide for this morning’s episode. 
 <br><br>

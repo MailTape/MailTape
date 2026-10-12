@@ -8,7 +8,6 @@ episode_URL: https://www.mailta.pe/223/Fatima-Yamaha/
 image: https://www.mailta.pe/img/fbPic223.png
 musiColor: musiColor223.png
 guest_name: Fatima Yamaha
-category: "223"
 guestPic: guestPic223.jpg
 guest_color: rough
 description: "This morning is sunnier than ever. Nights are getting shorter and
@@ -45,6 +44,7 @@ track7:
   title: Jacques - Tout Est Magnifique
   color: rough
   link: https://sounds.mailta.pe/223/track7.mp3
+release: 223
 ---
 This morning is sunnier than ever. Nights are getting shorter and parties longer. As he did on the latest WeLoveGreen festival, [Fatima Yamaha](https://www.facebook.com/FatimaYamaha/) brings rays of sun with his energetic and trippy selection. Enjoy a lazy sunbath on the poolside with our complementary chill selection. Yes darling, it is for real: Summer is here.
 

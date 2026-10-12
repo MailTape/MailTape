@@ -5,7 +5,6 @@ guestPic: guestPic231.jpg
 author: Maxime
 illustrator: William Girault
 writer: Maxime
-category: "231"
 guest_name: Nicolas Michaux
 guest_color: vibrant
 episode_URL: https://www.mailta.pe/231/Nicolas-Michaux/
@@ -49,6 +48,7 @@ track7:
   title: Weekend Affair - Duel Part. 2
   color: bliss
   link: https://sounds.mailta.pe/231/track7.mp3
+release: 231
 ---
  This morning, we offer you a romantic Mailtape, and a romantic artist. Nicolas Michaux is a Belgian singer who remind us the glory days of cheezy french or Italian pop songs. In "A la Vie, à la Mort", the romantism of Nicolas Michaux is tinted of melancolic mood, with falsely naive lyrics. [Dominique A.](https://www.youtube.com/watch?v=nNtSijP4yaQ) et Etienne Daho resonate in Nicolas Michaux's music. (For all our non-french followers, I also recommand you to listen those two legendary french singer.) Poetry and lo-fi instrumental is the perfect blend in "A la Vie, à la mort", the blend that transform this song in a heady treasure that you'll cherish for a long time. 
 

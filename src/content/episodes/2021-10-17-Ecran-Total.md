@@ -1,7 +1,6 @@
 ---
 bigTitle_font_ratio: "6"
 published: true
-category: "466"
 guest_name: Écran Total
 writer: ImaCrea
 illustrator: Thibault Daumain
@@ -45,6 +44,7 @@ track7:
   title: Black Moth Super Rainbow - Melody For Color Spectrum
   color: trippy
   link: https://sounds.mailta.pe/466/track7.mp3
+release: 466
 ---
 This morning, please welcome Camille & Margaux from [Écran Total](https://ecrantotalmusique.bandcamp.com). With their first album, [Schaerbeek Love](https://ecrantotalmusique.bandcamp.com/album/schaerbeek-love), they share with us this gentle vibe so particular in the early days following the meeting of two spirits. Innocent and groovy, today's episode is an ode to sunshine and love. Let the music play!
 

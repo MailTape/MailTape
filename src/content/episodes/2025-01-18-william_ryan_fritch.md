@@ -1,7 +1,6 @@
 ---
 published: true
 pubDate: 2025-01-19
-category: "573"
 guest_name: William Ryan Fritch
 guest_color: dreamy
 guestPic: william_ryan_fritch.jpg
@@ -44,6 +43,7 @@ track7:
   title: Patricia Wolf - Nocturnal Migration
   color: dreamy
   link: https://sounds.mailta.pe/573/track7.mp3
+release: 573
 ---
 This morning, I'm excited to share with you a new episode that showcases the musical tastes of [William Ryan Fritch](https://williamryanfritch.bandcamp.com/album/adhesion), a master of crafting immersive and evocative soundscapes that transport us to otherworldly realms. He's curated a selection of tracks that take us on a journey through the realms of ambient, jazz, and experimental soundscapes. 
 

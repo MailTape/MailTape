@@ -1,7 +1,6 @@
 ---
 published: true
 pubDate: 2025-10-05
-category: "592"
 guest_name: Annie-Claude Deschênes
 guest_color: rough
 guestPic: 1820-1024.jpg
@@ -44,6 +43,7 @@ track7:
   title: "Alek Lee - Cold Feet "
   color: vibrant
   link: https://sounds.mailta.pe/592/track7.mp3
+release: 592
 ---
 There's a bit of everything in today's selection: a good dose of Cold Wave, some wacky Electro, a regressive Pop, some Punk style that stains and even a little tropical vibe. Yes yes, it seems completely disjointed said like that and yet, this autumnal MailTape is consistent with the season: full of colors that are a feast for the eyes (or the ears).
 

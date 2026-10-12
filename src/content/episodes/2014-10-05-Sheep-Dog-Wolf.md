@@ -4,7 +4,6 @@ author: ImaCrea
 guest_color: bliss
 bigTitle_font_ratio: "7.7"
 bigTitle_line_ratio: "1"
-category: "154"
 guest_name: Sheep, Dog & Wolf
 guestPic: guestPic154.jpg
 episode_URL: http://mailta.pe/154/Sheep-Dog-Wolf/
@@ -42,6 +41,7 @@ track7:
   title: Gap Dream - Strong Love
   color: dreamy
   link: https://sounds.mailta.pe/154/track7.mp3
+release: 154
 ---
 
 <p id="introduction">

@@ -4,7 +4,6 @@ published: true
 author: Anaïs G
 illustrator: Camille Célestin
 writer: Anaïs G
-category: "344"
 guest_name: Tomemitsu
 guest_color: dreamy
 episode_URL: https://www.mailta.pe/344/tomemitsu
@@ -46,6 +45,7 @@ track7:
   title: Xenoula - Caramello
   color: trippy
   link: https://sounds.mailta.pe/344/track7.mp3
+release: 344
 ---
 This morning, like a divine light coming from nowhere, caressing our bodies, music moves us, borders us with our fingertips and astonishes us. Differentiated by its infinity, by these genres and multiple styles, it transports the spirits to take them into parallel worlds, this is what [Tomemitsu](https://tomemitsu.bandcamp.com/) shares with us this Sunday morning through a high selection in musical color. 
 <br><br>

@@ -4,7 +4,6 @@ published: true
 author: ImaCrea
 illustrator: Camille Célestin
 writer: ImaCrea
-category: "218"
 guest_name: Nicola Cruz
 guest_color: dreamy
 episode_URL: http://mailta.pe/218/Nicola-Cruz/
@@ -45,6 +44,7 @@ track7:
   title: Grynpyret - A Song About Naps
   color: trippy
   link: https://sounds.mailta.pe/218/track7.mp3
+release: 218
 ---
 This morning, we’re taking you on a walk in the forest. Our guest [Nicola Cruz](https://www.facebook.com/nicolacruzz/) shared with us his visionary tracks where electronic sounds bring us to Nature. He collaborated with [Nicolas Jaar](http://mailta.pe/3/Nicolas-Jaar/) and has just released his debut album on the underground record label ZZK from Buenos Aires. Thought you knew “world music”? Well, think again.
 

@@ -4,7 +4,6 @@ published: true
 author: Sanjay Mistry
 illustrator: Camille Célestin
 writer: Sanjay Mistry
-category: "301"
 guest_name: Ruba Shamshoum
 guest_color: bliss
 episode_URL: http://mailta.pe/301/ruba-shamshoum/
@@ -43,6 +42,7 @@ track7:
   title: Zara McFarlane – Chiaroscuro
   color: trippy
   link: https://sounds.mailta.pe/301/track7.mp3
+release: 301
 ---
 This morning we are delighted to welcome Dublin-based musician, [Ruba Shamshoum](http://ruba.land/), who collaborates with us to provide a beautifully laid-back Sunday morning playlist.
 <p>Ruba released her debut album ‘Shamat’ (Beauty Spots) in May last year. The musicality of the Arabic language—and subtle shifts of weight in her own phrasing—percolate throughout the compositions that are supported by Aleka Potinga's cello, Matthew Jacobson's percussion, Orlando Molina's guitar and Barry Rycraft's double bass.

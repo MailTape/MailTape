@@ -2,7 +2,6 @@
 author: ImaCrea
 illustrator: William Girault
 writer: ImaCrea
-category: "3"
 guest_name: Nicolas Jaar
 guest_color: dreamy
 bigTitle_font_ratio: "6"
@@ -43,6 +42,7 @@ track7:
   title: Danger Mouse & Daniele Lupi - Two Against One (feat. Jack White)
   color: bliss
   link: https://sounds.mailta.pe/3/track7.mp3
+release: 3
 ---
 This morning, [Nicolas Jaar](https://www.facebook.com/Nicolas-Jaar-15727540611/) is inviting you to embark on a psychedelic journey with “The Electric Prunes”.
 In reality, we are still dreaming, and this is only the start of our journey. “Al Green” is now taking your hand, painting the most idyllic, eye-catching scenery. To the sound of “Nas” our eyes finally open, allowing us to slowly motion out of bed to some samples of “James Brown”.

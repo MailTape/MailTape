@@ -3,7 +3,6 @@ bigTitle_font_ratio: "6"
 published: true
 author: Anaïs G
 illustrator: Jason Pridham
-category: "443"
 guest_name: Sarah Maison
 guest_color: vibrant
 guestPic: guestPic443.jpg
@@ -43,6 +42,7 @@ track7:
   title: "Cyril Cyril - Al Boustane "
   color: trippy
   link: https://sounds.mailta.pe/443/track7.mp3
+release: 443
 ---
 This morning, we leave in the sun with a one-way trip to the Eastern countries. The beauty of language, culture and scenery. . . In this episode, [Sarah Maison](https://sarahmaison.bandcamp.com/) will bring back some sunshine to our homes and apartments while waiting for better days. 
 <br><br>

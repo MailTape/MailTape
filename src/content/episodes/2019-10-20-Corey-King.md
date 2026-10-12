@@ -4,7 +4,6 @@ published: true
 author: Jules
 illustrator: Anthony Dujardin
 writer: Jules
-category: "376"
 guest_name: Corey King
 guest_color: vibrant
 guestPic: guestPic376.jpg
@@ -44,6 +43,7 @@ track7:
   title: BEA1991 - the dream
   color: dreamy
   link: https://sounds.mailta.pe/376/track7.mp3
+release: 376
 ---
  This morning, we are delighted to welcome [Corey King](https://corey-king.bandcamp.com/) to select three inspiring Sunday morning tunes for us. The New-York-based multi-instrumentist has recently released a new album, "[A Loveless Sunken Sun](https://corey-king.bandcamp.com/album/a-loveless-sunken-sun)", he describes as "a testament to the power of angst to foster growth".
 <br><br>

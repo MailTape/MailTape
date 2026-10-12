@@ -4,7 +4,6 @@ published: true
 author: Inès
 illustrator: Camille Célestin
 writer: Inès
-category: "283"
 guest_name: Le Turc Mécanique
 guest_color: rough
 guestPic: guestPic283.jpg
@@ -47,6 +46,7 @@ track7:
   title: Chris Rubeo - Lover’s Spit
   color: dreamy
   link: https://sounds.mailta.pe/283/track7.mp3
+release: 283
 ---
 This morning, take some time to listen to [Le Turc Mécanique](https://www.facebook.com/leturcmecanique/)'s delightful selection, for a morning that gets sweeter by every minute.<br>
 Post-punk label [Le Turc Mécanique](https://www.facebook.com/leturcmecanique/), created by Charles Crost in 2012, is one of France's best independent labels, with artists ranging from pop to post-punk to noise to techno and more.

@@ -3,7 +3,6 @@ bigTitle_font_ratio: "6"
 published: true
 author: ImaCrea
 writer: ImaCrea
-category: "424"
 guest_name: Natalie Greffel
 guest_color: vibrant
 episode_URL: https://www.mailta.pe/424/Natalie-Greffel/
@@ -46,6 +45,7 @@ track7:
   title: Teno Afrika - Lerato La Bass
   color: trippy
   link: https://sounds.mailta.pe/424/track7.mp3
+release: 424
 ---
 
 This morning, we're serving you a comfy episode. A selection curated with great care for a chill morning at home spent alone or with your loved ones sipping a warm hot chocolate. From blues, to bossa nova, Bowie's vibes and amapiano, we're honored to share this episode with [Natalie Greffel](https://nataliegreffel.bandcamp.com/) as our dear guest.

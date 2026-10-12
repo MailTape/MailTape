@@ -1,7 +1,6 @@
 ---
 bigTitle_font_ratio: "6"
 published: true
-category: "415"
 guest_name: Mini Trees
 guest_color: dreamy
 author: Sarah
@@ -50,6 +49,7 @@ track7:
   title: Golden Daze - Lynard Bassman
   color: bliss
   link: https://sounds.mailta.pe/415/track7.mp3
+release: 415
 ---
 This morning, we are thrilled to welcome [Mini Trees](https://minitrees.bandcamp.com) to host the first MailTape episode of September! 
 

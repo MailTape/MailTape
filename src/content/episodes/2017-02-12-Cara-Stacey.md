@@ -1,7 +1,6 @@
 ---
 bigTitle_font_ratio: "5"
 published: true
-category: "247"
 author: Sanjay Mistry
 illustrator: Isabelle Escande
 writer: Daisy
@@ -43,6 +42,7 @@ track7:
   title: Nérija - The Fisherman
   color: vibrant
   link: https://sounds.mailta.pe/247/track7.mp3
+release: 247
 ---
 This morning, let your curiosity about the world and all its corners run wild, with an intriguing selection from our guest [Cara Stacey](http://www.carastacey.com/ "Cara Stacey") - composer, researcher, improviser and multi-instrumentalist.
 

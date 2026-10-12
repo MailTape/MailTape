@@ -1,7 +1,6 @@
 ---
 published: true
 pubDate: 2025-11-09
-category: "597"
 guest_name: Antoine Bellanger
 guest_color: trippy
 guestPic: guestpic597.jpg
@@ -44,6 +43,7 @@ track7:
   title: Sessa - Revolução Interior
   color: bliss
   link: https://sounds.mailta.pe/597/track7.mp3
+release: 597
 ---
 This morning, we are excited and honored to welcome Antoine Bellanger as our guest. You may remember his unique sound from some of his tracks featured in episodes [\#588](https://www.mailta.pe/588/gabriel-brady/) and [\#487](https://www.mailta.pe/487/vimala-pons/).
 

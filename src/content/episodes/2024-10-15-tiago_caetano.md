@@ -1,7 +1,6 @@
 ---
 published: true
 pubDate: 2024-10-20
-category: "562"
 guest_name: Tiago Caetano
 guest_color: bliss
 guestPic: guestpic562.jpg
@@ -43,6 +42,7 @@ track7:
   title: Badsista - Sem Der Tchau
   color: dreamy
   link: https://sounds.mailta.pe/562/track7.mp3
+release: 562
 ---
 This morning, we’ve crafted a soothing episode featuring our guest Tiago Caetano. It’s the ideal soundtrack for cozying up under the covers or savoring a delightful brunch with friends. With Brazilian influences, pop elements, and a sense of lightness, it’s sure to uplift your spirits!
 

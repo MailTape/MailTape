@@ -4,7 +4,6 @@ author: Julien
 guest_color: vibrant
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
-category: "162"
 guest_name: Fellini Félin
 guestPic: guestPic162.jpg
 episode_URL: http://mailta.pe/162/Fellini-Felin/
@@ -44,6 +43,7 @@ track7:
   title: Aela Ezct - Bubble Tea Tree
   color: trippy
   link: https://sounds.mailta.pe/missingTrack.mp3
+release: 162
 ---
 
 This morning, discover [Fellini Félin](https://soundcloud.com/fellinifelin "Fellini Félin's SoundCloud"). Everything started in the Fellini’s Club in Barcelona. We were in the 2000' and Sébastien Coutureau, together with a bunch of friends, decided to create his first band : Fellini. Ten years later, after the band had split up, Sébastien decided to start a solo project. Fellini Félin was born.

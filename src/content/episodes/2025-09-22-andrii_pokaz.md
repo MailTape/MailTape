@@ -1,7 +1,6 @@
 ---
 published: true
 pubDate: 2025-09-28
-category: "591"
 guest_name: Andrii Pokaz
 guest_color: bliss
 guestPic: guestpic591.jpg
@@ -49,6 +48,7 @@ track7:
   title: Donny McCaslin - Celestial
   color: dreamy
   link: https://sounds.mailta.pe/591/track7.mp3
+release: 591
 ---
 This morning, we are thrilled to have [Andrii Pokaz](https://pokaz.bandcamp.com/album/voices) bring the sunshine we all need to our speakers.
 

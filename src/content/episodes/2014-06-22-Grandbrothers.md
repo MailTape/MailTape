@@ -4,7 +4,6 @@ author: Julien
 guest_color: trippy
 bigTitle_font_ratio: "8"
 bigTitle_line_ratio: "1"
-category: "146"
 guest_name: Grandbrothers
 guestPic: guestPic146.jpg
 episode_URL: http://mailta.pe/146/Grandbrothers/
@@ -41,6 +40,7 @@ track7:
   title: alt-J - Hunger Of The Pine
   color: bliss
   link: https://sounds.mailta.pe/146/track7.mp3
+release: 146
 ---
 
 

@@ -4,7 +4,6 @@ published: true
 author: Sarah
 writer: Sarah
 illustrator: Meriam Kharbat
-category: "511"
 guest_name: r mccarthy
 guest_color: dreamy
 guestPic: guestPic511.jpg
@@ -44,6 +43,7 @@ track7:
   title: Ellori Saxl - Moss II
   color: bliss
   link: https://sounds.mailta.pe/511/track7.mp3
+release: 511
 ---
  We are overjoyed to welcome [r mccarthy](https://infinitebisous.bandcamp.com/album/any-day-now) to MailTape this Sunday morning :) His selection embraces new worlds of new age music, stretching time and sound into spaces unknown -- carrying creativity into these early morning hours.  
   <br><br>

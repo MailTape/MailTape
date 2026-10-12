@@ -2,7 +2,6 @@
 bigTitle_font_ratio: "6"
 published: true
 guestPic: guestPic361.jpg
-category: "361"
 illustrator: Camille Célestin
 author: Anaïs G
 writer: Anaïs G
@@ -44,6 +43,7 @@ track7:
   title: "Exit Someone - Mickeal K ( version 1) "
   color: dreamy
   link: https://sounds.mailta.pe/361/track7.mp3
+release: 361
 ---
 
  This morning, the voice of women is resounding, it is growing and is fighting against multiple inequalities... Whether gentle or strong, frail or assertive, there must be no differences. Our guest this Sunday to this need to defend his values.

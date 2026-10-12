@@ -4,7 +4,6 @@ published: true
 author: Louise
 illustrator: Anais Caura
 writer: Louise
-category: "293"
 guest_name: Aloïse Sauvage
 guest_color: dreamy
 guestPic: guestPic293-1.jpg
@@ -43,6 +42,7 @@ track7:
   title: rAHHH — Ends
   color: dreamy
   link: https://sounds.mailta.pe/293/track7.mp3
+release: 293
 ---
 This morning, it's time to reflect on the past year. 6 years that MailTape exists. One more year of introducing you to the music we love, the music that inspires us — and hopefully, that inspires you.
 <p>I'm delighted to offer you the last tape of 2017, especially with [Aloïse Sauvage](https://www.facebook.com/aloisesauvage/ "Aloïse Sauvage's Facebook page") as our guest. Aloïse Sauvage is my own revelation of the year. She released her first track in September, and her music has cast a spell on my brain. I'm glad to introduce you to this amazing artist.

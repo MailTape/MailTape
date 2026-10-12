@@ -4,7 +4,6 @@ published: true
 author: Anaïs G
 illustrator: Julie Wojtczak
 writer: Anaïs G
-category: "508"
 guest_name: Tachycardie
 guestPic: guestPic508.jpg
 guest_color: trippy
@@ -44,6 +43,7 @@ track7:
   title: Loya - Zenfant
   color: trippy
   link: https://sounds.mailta.pe/508/track7.mp3
+release: 508
 ---
  This morning, we explore, we dematerialize, we deconstruct the music. We beat it to find inspiration, we saturate it to its fullest, we look for the unknown, the astonishing, the shocking, the disconcerting in order to touch. This is what Tachycardie offers us through this playlist.
 <br><br>

@@ -4,7 +4,6 @@ published: true
 author: Jules
 illustrator: Jason Pridham
 writer: Jules
-category: "421"
 guest_name: Binary Digit
 guest_color: trippy
 episode_URL: http://www.mailta.pe/421/binary-digit/
@@ -53,6 +52,7 @@ track7:
   title: chris††† - より良い場所
   color: bliss
   link: https://sounds.mailta.pe/421/track7.mp3
+release: 421
 ---
  This morning, the alarm clock tastes acid and sour, that kind of unpleasant sensation at first glance but which you eventually get used to, before asking for more. [Binary Digit](https://binarydigit.bandcamp.com/)'s selection goes straight to the point, somewhere between this unexpected ray of sunshine that pierces a gray autumn sky and the cold of winter that comes under our covers to tickle our feet.
 <br><br>

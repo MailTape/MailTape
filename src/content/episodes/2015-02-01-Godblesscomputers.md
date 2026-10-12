@@ -5,7 +5,6 @@ guest_color: trippy
 bigTitle_font_ratio: "3"
 bigTitle_line_ratio: "1"
 guest_name: Godbless computers
-category: "171"
 episode_URL: http://mailta.pe/171/Godblesscomputers/
 guestPic: guestPic171.jpg
 image: https://www.mailta.pe/img/fbPic171.jpg
@@ -43,6 +42,7 @@ track7:
   title: iZem - Sadeo (feat. Feather)
   color: vibrant
   link: https://sounds.mailta.pe/171/track7.mp3
+release: 171
 ---
 
 

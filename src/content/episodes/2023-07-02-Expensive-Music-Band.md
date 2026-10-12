@@ -1,7 +1,6 @@
 ---
 bigTitle_font_ratio: "6"
 published: true
-category: "531"
 guest_name: Expensive Music Band
 author: Sarah
 writer: Sarah
@@ -44,6 +43,7 @@ track7:
   title: Munan - Once Upon a Time
   color: trippy
   link: https://sounds.mailta.pe/531/track7.mp3
+release: 531
 ---
  This Sunday we welcome [Expensive Music Band](https://expensivemusicband.bandcamp.com/) for Episode 531 :) The project of multi-instrumentalist Troon Lienad, the band is based in Illawarra. They join us after the release of their latest album, [Things to Say at a Barbecue](https://permanentslump.bandcamp.com/album/things-to-say-at-a-bbq).
 

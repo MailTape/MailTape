@@ -4,7 +4,6 @@ published: true
 author: Sanjay Mistry
 illustrator: Anthony Dujardin
 writer: Sanjay Mistry
-category: "328"
 guest_name: Mary Lattimore
 guest_color: dreamy
 episode_URL: http://mailta.pe/328/mary-lattimore/
@@ -42,6 +41,7 @@ track7:
   title: United Bible Studies – Hazlehurst
   color: trippy
   link: https://sounds.mailta.pe/328/track7.mp3
+release: 328
 ---
 This Sunday morning we are delighted to welcome harpist [Mary Lattimore](http://marylattimoreharpist.tumblr.com/) to MailTape. By now I've forgotten the summer. I don’t remember what the morning is. It has merged into a fading white light, when that morning has awakened and too quickly ceased. Mary's own sound on her latest album, [Hundreds of Days](https://marylattimoreharpist.bandcamp.com/album/hundreds-of-days), as well as her selections this morning capture this mournfulness plainly.
 <br><br>

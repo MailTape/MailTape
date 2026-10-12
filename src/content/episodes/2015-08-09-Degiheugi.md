@@ -3,7 +3,6 @@ published: true
 author: ImaCrea
 guest_color: vibrant
 bigTitle_font_ratio: "6"
-category: "198"
 guest_name: Degiheugi
 guestPic: guestPic198.jpg
 description: "This morning, get ready for a journey through a legendary wild
@@ -44,6 +43,7 @@ track7:
   title: " Fils Unique - My Girl(s)"
   color: vibrant
   link: https://sounds.mailta.pe/198/track7.mp3
+release: 198
 ---
 
 This morning, get ready for a journey through a legendary wild forest known for its hidden gems. Let’s start our exploration with [Degiheugi](https://www.facebook.com/degiheugi), master in the art of finding the best samples. <br><br>

@@ -1,7 +1,6 @@
 ---
 bigTitle_font_ratio: "6"
 published: true
-category: "331"
 guest_name: Muddy Monk
 author: Manon
 illustrator: William Girault
@@ -41,6 +40,7 @@ track7:
   title: Kokoroko - Abusey Junction
   color: bliss
   link: https://sounds.mailta.pe/331/track7.mp3
+release: 331
 ---
 This morning we are delighted to welcome [Muddy Monk](https://www.facebook.com/muddymonk/) to MailTape.
 <br><br>

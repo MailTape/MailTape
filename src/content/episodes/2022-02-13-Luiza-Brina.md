@@ -4,7 +4,6 @@ published: true
 author: Sarah
 illustrator: Camille Célestin
 writer: Sarah
-category: "481"
 guest_name: Luiza Brina
 guest_color: vibrant
 image: https://www.mailta.pe/img/fbPic481.png
@@ -44,6 +43,7 @@ track7:
   title: Luiza Brina - A Toada Vem É Pelo Vento
   color: vibrant
   link: https://sounds.mailta.pe/481/track7.mp3
+release: 481
 ---
  The week can bring so much to challenge and test us. This Sunday, we offer a reprieve. Together, let's exhale all that the past days have brought onto our shoulders and ease into the morning with our dear guest [Luiza Brina](https://luizabrina.bandcamp.com/).
 <br><br>

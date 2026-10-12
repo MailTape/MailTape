@@ -4,7 +4,6 @@ published: true
 author: Sanjay Mistry
 illustrator: Pierre-Julien Fieux
 writer: Sanjay Mistry
-category: "360"
 guest_name: James Brandon Lewis
 guest_color: dreamy
 episode_URL: http://mailta.pe/360/james-brandon-lewis/
@@ -43,6 +42,7 @@ track7:
   title: Casimir Liberski, Tyshawn Sorey & Thomas Morgan – Evanescence I
   color: dreamy
   link: https://sounds.mailta.pe/360/track7.mp3
+release: 360
 ---
  This morning we are pleased to welcome saxophonist and composer, [James Brandon Lewis](http://www.jblewis.com), to select three church-inspired Sunday morning tunes with us.
 <br><br>

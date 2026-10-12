@@ -1,6 +1,5 @@
 ---
 author: Ludovic
-category: "201"
 guest_name: Nicholas Larsen
 guest_color: vibrant
 bigTitle_font_ratio: "7"
@@ -44,6 +43,7 @@ track7:
   title: Frankey & Sandrino - Acamar
   color: rough
   link: https://sounds.mailta.pe/201/track7.mp3
+release: 201
 ---
 
 

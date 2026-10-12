@@ -4,7 +4,6 @@ published: true
 author: Sanjay Mistry
 illustrator: Camille Célestin
 writer: Sanjay Mistry
-category: "358"
 guest_name: Siêm Folknomade
 guest_color: bliss
 guestPic: guestPic358.jpg
@@ -42,6 +41,7 @@ track7:
   title: The Last Poets – If We Only Knew What We Could Do
   color: vibrant
   link: https://sounds.mailta.pe/358/track7.mp3
+release: 358
 ---
 This morning we are pleased to welcome a long time MailTape listener and Marseille-based vocalist and composer, [Siêm Folknomade](https://linktr.ee/siemfolknomade).
 <br><br>

@@ -4,7 +4,6 @@ published: true
 author: ImaCrea
 illustrator: Thibault Daumain
 writer: ImaCrea
-category: "487"
 guest_name: Vimala Pons
 guest_color: trippy
 guestPic: guestPic487.jpg
@@ -45,6 +44,7 @@ track7:
     l'étoile.
   color: dreamy
   link: https://sounds.mailta.pe/487/track7.mp3
+release: 487
 ---
 This morning, we're very pleased to welcome [Vimala Pons](https://vimalapons.bandcamp.com/) as our guest for a very eclectic selection. Expect here an energizing cocktail filled with all colors we have, exactly what's needed to start spring well and fully alive.
 

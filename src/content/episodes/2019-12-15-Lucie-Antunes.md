@@ -1,7 +1,6 @@
 ---
 bigTitle_font_ratio: "6"
 published: true
-category: "384"
 guest_name: Lucie Antunes
 guest_color: bliss
 author: ImaCrea
@@ -46,6 +45,7 @@ track7:
   title: Sandra Nkaké - River
   color: bliss
   link: https://sounds.mailta.pe/384/track7.mp3
+release: 384
 ---
 Certainty is ephemeral. Noise. Make noise. In peace or with force. Convictions and needs, solutions and seeds? What must we shed, what must we feed?
 

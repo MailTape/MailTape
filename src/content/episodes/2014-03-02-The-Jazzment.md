@@ -4,7 +4,6 @@ author: Julien
 guest_color: dreamy
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
-category: "130"
 guest_name: The Jazzment
 guestPic: guestPic130.jpg
 episode_URL: http://mailta.pe/130-The-Jazzment.html
@@ -44,6 +43,7 @@ track7:
   title: Nujabes - Tsurugi No Mai
   color: dreamy
   link: https://sounds.mailta.pe/130/track7.mp3
+release: 130
 ---
 
 

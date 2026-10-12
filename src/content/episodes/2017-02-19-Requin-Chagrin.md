@@ -2,7 +2,6 @@
 bigTitle_font_ratio: "6"
 published: true
 author: Inès
-category: "248"
 guest_name: Requin Chagrin
 guest_color: vibrant
 episode_URL: https://www.mailta.pe/248/requin-chagrin/
@@ -44,6 +43,7 @@ track7:
   title: Vundabar - Darla
   color: vibrant
   link: https://sounds.mailta.pe/248/track7.mp3
+release: 248
 ---
 This morning, juggle the calm and energetic moments thrown your way by [Requin Chagrin](https://www.facebook.com/chagrin.requin/ "Facebook")’s eclectic selection. Requin Chagrin, a French band born from singer Marion’s mind, mixes surf-ish reverb guitars with a melancholic vibe, creating a warm and languid sound.
 <p>During this precisely 30-minute selection, travel through France, Norway, the US and the UK, feel both warmth and coldness, take a few breaths and dance (alone) in your room. Sunnier days don’t seem that far away now.

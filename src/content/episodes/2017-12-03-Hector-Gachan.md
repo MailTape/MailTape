@@ -6,7 +6,6 @@ illustrator: Isabelle Escande
 writer: Inès
 guest_name: Hector Gachan
 guest_color: dreamy
-category: "289"
 episode_URL: https://www.mailta.pe/289/hector-gachan
 guestPic: guestPic289-2.jpg
 image: https://www.mailta.pe/img/fbPic289.png
@@ -44,6 +43,7 @@ track7:
   title: Maison de Retraite - today i am a piece of shit
   color: trippy
   link: https://sounds.mailta.pe/289/track7.mp3
+release: 289
 ---
 This morning, kickstart your day with Hector Gachan’s warm and lively selection. Hector Gachan, who grew up between Australia and Bosnia, makes catchy lo-fi dream pop songs, influenced by his upbringing in between these two countries. He released his [debut album](https://lnk.to/hectorgachan_untitled91) two days ago.
 <p>Let this selection take you out of your lethargy, help you fight the coldness of winter, be the soundtrack of what you want your morning to be. Get cosy or get busy, your call. 

@@ -2,7 +2,6 @@
 bigTitle_font_ratio: "6"
 published: true
 guest_name: World Brain
-category: "435"
 writer: Daisy
 author: ImaCrea
 illustrator: Anthony Dujardin
@@ -44,6 +43,7 @@ track7:
   title: Wardown - Lorem Ipsum
   color: dreamy
   link: https://sounds.mailta.pe/435/track7.mp3
+release: 435
 ---
 This morning, some delicious morsels of sonic data have found their way to us, beamed directly from the mind of World Brain (or Lucas Ufo IRL). These nifty signals hold secrets to be unravelled, spilling all around us and across the sky of an animated reality in pastel-perfect colours.<br><br>
 

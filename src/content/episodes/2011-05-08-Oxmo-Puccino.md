@@ -1,7 +1,6 @@
 ---
 published: true
 pubDate: 2011-05-08
-category: "2"
 guest_name: Oxmo Puccino
 guest_color: vibrant
 guestPic: guestPic2.jpg
@@ -44,6 +43,7 @@ track7:
   title: Blacklips - Modern Art
   color: vibrant
   link: https://sounds.mailta.pe/2/track7.mp3
+release: 2
 ---
 This morning, [Oxmo](https://www.facebook.com/OxmoPuccinoOfficiel/) offers us a round-trip ticket to Brazil, where we’ll get to attend a concert of the magnificent Seu Jorge. Incredible! It’s the sound of an elevator awaiting to propel us to the top of a New York sky scrapper, listening to jazz with Billy Joel. After this beautiful concert, light headed, wandering in the streets, the sound emerging from the ghetto blaster of a dark street catches our attention: Welcome to Harlem with G-Dep.
 

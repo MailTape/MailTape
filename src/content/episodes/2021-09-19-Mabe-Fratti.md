@@ -1,7 +1,6 @@
 ---
 bigTitle_font_ratio: "6"
 published: true
-category: "462"
 guest_name: Mabe Fratti
 guest_color: dreamy
 guestPic: guestPic462.jpg
@@ -45,6 +44,7 @@ track7:
   title: Lucky Lo - Supercarry
   color: vibrant
   link: https://sounds.mailta.pe/462/track7.mp3
+release: 462
 ---
 
 This morning, we're thrilled to welcome Guatemalan cellist and composer [Mabe Fratti](https://mabefratti1.bandcamp.com/) to MailTape for a Sunday selection of experimental instrumentals and melodies :) Mabe Fratti consistently pushes our expectations of classical and melodic standards, treading into territories of provocative dissonance across all of her albums :)

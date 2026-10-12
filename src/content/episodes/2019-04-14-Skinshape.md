@@ -4,7 +4,6 @@ published: true
 author: Jules
 illustrator: Camille Célestin
 writer: Jules
-category: "353"
 guest_name: Skinshape
 guest_color: dreamy
 episode_URL: http://mailta.pe/353/skinshape/
@@ -46,6 +45,7 @@ track7:
   title: Corte Real - Opium
   color: dreamy
   link: https://sounds.mailta.pe/353/track7.mp3
+release: 353
 ---
  This morning, [Skinshape](https://skinshape.bandcamp.com/) is welcoming us aboard his creative ship, you'd better be ready to weigh the anchor, sailor boys! From the Horn of Africa to foggy pirate havens, from the peaceful lands of England to the abyssal depths of the oceans, let yourself be guided by our guest, through awesome storms and mysterious sea creatures, all down to faraway places. Set sail!
 <br><br>

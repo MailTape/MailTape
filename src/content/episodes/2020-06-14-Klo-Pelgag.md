@@ -4,7 +4,6 @@ published: true
 author: Marion
 illustrator: Thibault Daumain
 writer: Marion
-category: "410"
 guest_name: Klô Pelgag
 guest_color: dreamy
 musiColor: musiColor410.png
@@ -42,6 +41,7 @@ track7:
   title: The Districts -  Velour and Velcro
   color: vibrant
   link: https://sounds.mailta.pe/410/track7.mp3
+release: 410
 ---
 This morning we welcome [Klô Pelgag](https://www.klopelgag.com/) to select three Sunday morning songs.
 <br><br>

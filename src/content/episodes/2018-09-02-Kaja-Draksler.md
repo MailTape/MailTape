@@ -4,7 +4,6 @@ published: true
 author: Sanjay Mistry
 illustrator: Anais Caura
 writer: Sanjay Mistry
-category: "321"
 guest_name: Kaja Draksler
 guest_color: dreamy
 episode_URL: http://mailta.pe/321/kaja-draksler/
@@ -43,6 +42,7 @@ track7:
   title: Central Australian Aboriginal Women’s Choir – Jesu Nganalala
   color: bliss
   link: https://sounds.mailta.pe/321/track7.mp3
+release: 321
 ---
 Welcome back to a new season of MailTape. In our first episode since July we welcome one of my favourite pianist-composers, [Kaja Draksler](http://kajadraksler.com/), who replenishes us with a dreamy Sunday morning selection of chorales and solo piano.
 <p>Kaja has a large sonic vision of her instrument. She creates balladic quasi-stride with harmonically rich modern overtones. She drums on the piano in ways drummers would feel at home listening to. And she has a feel for intervallic relations, harmonic and melodic patterning that put her in a special category of improvisers.

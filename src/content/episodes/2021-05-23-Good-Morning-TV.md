@@ -7,7 +7,6 @@ illustrator: Julie Wojtczak
 writer: Anaïs G
 guest_name: Good Morning TV
 guestPic: guestPic452.jpg
-category: "452"
 guest_color: dreamy
 episode_URL: http://mailta.pe/452/good-morning-tv/
 image: https://www.mailta.pe/img/fbPic452.png
@@ -45,6 +44,7 @@ track7:
   title: "Poni Hoax - Tropical Suite : São Paulo "
   color: vibrant
   link: https://sounds.mailta.pe/missingTrack.mp3
+release: 452
 ---
 <p id="introduction">This morning, we’re back to a pretty normal life. We can plan to have brunches at the local restaurant, or join some friends at the bar downstairs and enjoy every moment that life gives us. It is with this exaggerated optimism that we left the group Good Morning TV ran the playlist this Sunday. 
 <br> <br>

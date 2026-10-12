@@ -1,7 +1,6 @@
 ---
 bigTitle_font_ratio: "6"
 published: true
-category: "279"
 author: ImaCrea
 illustrator: Pierre-Julien Fieux
 guest_name: Yellow Days
@@ -44,6 +43,7 @@ track7:
   title: Ambar Cruz - Psychedelic Candy
   color: dreamy
   link: https://sounds.mailta.pe/279/track7.mp3
+release: 279
 ---
 This morning, we keep it smooth and easy with this delicate indie selection made with the talented 17 years old [Yellow Days](https://soundcloud.com/yellow-days), aka George Van Den Broek. Autumn just started 3 days ago, let’s stay in bed a little longer and plan our next vacation... 
 

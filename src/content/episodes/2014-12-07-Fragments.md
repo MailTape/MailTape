@@ -5,7 +5,6 @@ guest_color: dreamy
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
 episode_URL: http://mailta.pe/163/Fragments/
-category: "163"
 guest_name: Fragments
 guestPic: guestPic163.jpg
 musiColor: musiColor163.png
@@ -43,6 +42,7 @@ track7:
   title: The Pandamonium - Waiting for Summer
   color: vibrant
   link: https://sounds.mailta.pe/163/track7.mp3
+release: 163
 ---
 
 

@@ -3,7 +3,6 @@ bigTitle_font_ratio: "6"
 published: true
 author: Marion
 writer: Marion
-category: "412"
 guest_name: Marc Desse
 guest_color: bliss
 guestPic: guestPic412.jpg
@@ -43,6 +42,7 @@ track7:
   title: Cass McCombs & Steve Gunn – Sweet Lucy
   color: bliss
   link: https://sounds.mailta.pe/412/track7.mp3
+release: 412
 ---
 This morning, we are pleased to welcome [Marc Desse](https://www.instagram.com/marc.desse/) to select three Sunday morning songs. 
 

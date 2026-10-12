@@ -4,7 +4,6 @@ published: true
 author: ImaCrea
 illustrator: Camille Lemeunier
 writer: ImaCrea
-category: "535"
 guest_name: Cindy Pooch
 guest_color: bliss
 guestPic: guestPic535.jpg
@@ -47,6 +46,7 @@ track7:
   title: Natural Wonder Beauty Concept - Driving
   color: trippy
   link: https://sounds.mailta.pe/535/track7.mp3
+release: 535
 ---
 
 This morning, we embark on a gentle and ethereal journey with the delightful presence of [Cindy Pooch](https://cindypooch.bandcamp.com/album/issemou) as our esteemed guest. She's leading us into a realm where music transcends its mere auditory form, serving as a gateway to alternate dimensions.

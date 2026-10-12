@@ -1,7 +1,6 @@
 ---
 bigTitle_font_ratio: "6"
 published: true
-category: "516"
 guest_name: Lecomte de Brégeot
 author: Sarah
 illustrator: Camille Célestin
@@ -45,6 +44,7 @@ track7:
   title: Lecomte de Brégeot - Nerves
   color: trippy
   link: https://sounds.mailta.pe/516/track7.mp3
+release: 516
 ---
  The dancefloor energy is bleeding into the morning hours this Sunday as we welcome Lecomte de Brégeot to MailTape :) Based in Lyon, the discography of Lecomte de Brégeot (aka Yannick Lecomte) graces runways across the world, curating fashion spectacles (with names including Yves Saint Laurent, Balenciaga, Armani, and many more) and Ballrooms alike. 
   <br><br>

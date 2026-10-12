@@ -2,7 +2,6 @@
 author: ImaCrea
 illustrator: William Girault
 writer: ImaCrea
-category: "211"
 guest_name: Marabout Orkestra
 guest_color: vibrant
 bigTitle_font_ratio: "6"
@@ -43,6 +42,7 @@ track7:
   title: " All Flows Reach Out - Animal Kingdom"
   color: vibrant
   link: https://sounds.mailta.pe/211/track7.mp3
+release: 211
 ---
 
 

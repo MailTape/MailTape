@@ -1,7 +1,6 @@
 ---
 published: true
 pubDate: 2025-07-27
-category: "589"
 guest_name: Maya Dhondt
 guest_color: trippy
 guestPic: maya_dhondt.jpg
@@ -46,6 +45,7 @@ track7:
   title: Sault - Bow feat Michael Kiwanuka
   color: vibrant
   link: https://sounds.mailta.pe/589/track7.mp3
+release: 589
 ---
 Woohoo, it’s the last episode of season 14!\
 To finish on a high note, we invited [Maya Dhondt](https://mayadhondt.bandcamp.com/album/wow-x), with whom we prepared a sonic fireworks that we hope will be joyful, intense, and memorable! A beautiful mess made of strange and fascinating sounds. Some unclassifiable melodies, some wild herbs that grow where you least expect them...

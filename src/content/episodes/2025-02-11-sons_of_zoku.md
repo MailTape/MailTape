@@ -1,7 +1,6 @@
 ---
 published: true
 pubDate: 2025-02-16
-category: "576"
 guest_name: Sons Of Zöku
 guest_color: trippy
 guestPic: sons_of_zoku.jpg
@@ -48,6 +47,7 @@ track7:
   title: Jenny Hval - Cemetary of Splendour
   color: dreamy
   link: https://sounds.mailta.pe/576/track7.mp3
+release: 576
 ---
 This morning is smooth, smoother than a banana-mango smoothie blended by a pro. Let these songs wrap you like a blanket and mellow out this Sunday morning with the delicate selection of [Sons Of Zöku](https://sonsofzoku.bandcamp.com/). Their music blends influences from psychedelic rock, experimental sounds, and world music, and they manage to make it all come together beautifully. They are taking us on a beautiful trip. 
 

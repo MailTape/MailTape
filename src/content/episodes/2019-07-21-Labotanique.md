@@ -4,7 +4,6 @@ published: true
 episode_URL: http://www.mailta.pe/367/labotanique/
 musiColor: musiColor367.png
 guest_name: Labotanique
-category: "367"
 guestPic: guestPic367.jpg
 description: This morning we leave in the forest far from the city, far from
   pollution, far from the crowded streets of tourists... A moment to get green,
@@ -44,6 +43,7 @@ track7:
   title: "Le Flegmatic - L'autre rive "
   color: bliss
   link: https://sounds.mailta.pe/367/track7.mp3
+release: 367
 ---
 
 

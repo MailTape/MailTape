@@ -4,7 +4,6 @@ published: true
 author: Maxime
 illustrator: Pierre-Julien Fieux
 writer: Maxime
-category: "229"
 guest_name: Vendredi Sur Mer
 guest_color: dreamy
 guestPic: guestPic229.jpg
@@ -43,6 +42,7 @@ track7:
   title: Pépite - Eviter les Naufrages
   color: vibrant
   link: https://sounds.mailta.pe/229/track7.mp3
+release: 229
 ---
 This morning, we're not far away from next week's shores. So, it's the perfect moment to chill, discover and adopt the seaside musical atmosphere of Vendredi Sur Mer. Where pop and psychedelism make a unexpected melt.  
  

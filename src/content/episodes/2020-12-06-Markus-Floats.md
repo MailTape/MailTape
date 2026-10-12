@@ -4,7 +4,6 @@ published: true
 author: Sanjay Mistry
 illustrator: Anthony Dujardin
 writer: Sanjay Mistry
-category: "428"
 guest_name: Markus Floats
 guest_color: bliss
 episode_URL: https://www.mailta.pe/428/markus-floats/
@@ -42,6 +41,7 @@ track7:
   title: Cubie Burke – Down for Double
   color: vibrant
   link: https://sounds.mailta.pe/428/track7.mp3
+release: 428
 ---
 This morning we welcome [Markus Floats](https://markusfloats.bandcamp.com/) to select three snake-hipped Sunday morning tunes with us on MailTape. 
 <br><br>

@@ -3,7 +3,6 @@ bigTitle_font_ratio: "6"
 published: true
 author: Sarah
 writer: Sarah
-category: "472"
 guest_name: Maxine Funke
 guest_color: bliss
 image: https://www.mailta.pe/img/fbPic472.png
@@ -45,6 +44,7 @@ track7:
   title: Maxine Funke - Homage
   color: bliss
   link: https://sounds.mailta.pe/472/track7.mp3
+release: 472
 ---
  This morning, we are delighted to welcome [Maxine Funke](https://maxinefunke1.bandcamp.com/music) to MailTape for a peaceful selection, crafted carefully to lift you on your way this Sunday. 
 <br><br>

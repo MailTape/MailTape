@@ -4,7 +4,6 @@ author: Louise
 guest_color: dreamy
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
-category: "166"
 guest_name: Barney Artist
 episode_URL: http://mailta.pe/166/Barney-Artist/
 guestPic: guestPic166.jpg
@@ -43,6 +42,7 @@ track7:
   title: Cubby ft. Kwane and Chuck Ellis - Cold
   color: dreamy
   link: https://sounds.mailta.pe/166/track7.mp3
+release: 166
 ---
 
 

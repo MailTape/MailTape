@@ -4,7 +4,6 @@ published: true
 author: ImaCrea
 illustrator: Anais Caura
 writer: Siddhartha
-category: "287"
 guest_name: Julien Marchal
 guest_color: dreamy
 episode_URL: https://www.mailta.pe/287/julien-marchal/
@@ -46,6 +45,7 @@ track7:
   title: " Porya Hatami - Land Remixed - Snow (Pleq Remix) "
   color: dreamy
   link: https://sounds.mailta.pe/287/track7.mp3
+release: 287
 ---
 This morning, [Julien Marchal](https://julienmarchal.bandcamp.com/) has something unique to share. A contemporary pianist and composer from Bordeaux, France. His contemplative and minimalist pieces seem to be an invocation of the classical art. Melancholic and yet uplifting, here’s an artist whose harmony will lend you the peace of mind you so deserve as you touch upon on the world of modern classical. 
 

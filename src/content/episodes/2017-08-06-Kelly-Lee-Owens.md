@@ -3,7 +3,6 @@ bigTitle_font_ratio: "6"
 published: true
 author: Louise
 illustrator: Pierre-Julien Fieux
-category: "272"
 guest_name: Kelly Lee Owens
 guest_color: bliss
 guestPic: guestPic272.jpg
@@ -45,6 +44,7 @@ track7:
   title: Sophia Kennedy - Build Me A House
   color: rough
   link: https://sounds.mailta.pe/272/track7.mp3
+release: 272
 ---
 This morning, slip into cruise control. [Kelly Lee Owens](https://www.facebook.com/kellyleeowens/ "Kelly Lee Owens' FB page") is here, and the listening is easy. Travel a new map along roads that you thought you knew, experiencing everything and nothing as each moment glides by. Explore their interstitial spaces, escaping invisible limits and paths too well travelled. Feel the colours, the beauty, the motion.
 

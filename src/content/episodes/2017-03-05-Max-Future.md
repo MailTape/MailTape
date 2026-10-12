@@ -10,7 +10,6 @@ guestPic: guestPic250.jpg
 episode_URL: https://www.mailta.pe/250/Max-Future/
 image: https://www.mailta.pe/img/fbPic250.jpg
 musiColor: musiColor250.png
-category: "250"
 description: This morning, let's have a glimpse of today's music and Max Future.
 pubDate: 2017-03-05
 track1:
@@ -41,6 +40,7 @@ track7:
   title: Ryder the Eagle - It's All About The Music
   color: bliss
   link: https://sounds.mailta.pe/250/track7.mp3
+release: 250
 ---
 This morning, let's have a glimpse of today's music and Max Future. It's maybe with artists like Max future that french pop will jump over the next step. With producers like him that country borders in music will definetly disappear. Surfing around electronic french Touch, naive sun-pop, or even hip-hop (just listen his selection below), the quality of his EP is very rare for a first shot.
 

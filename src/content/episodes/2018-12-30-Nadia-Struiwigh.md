@@ -4,7 +4,6 @@ published: true
 author: Sanjay Mistry
 illustrator: Pierre-Julien Fieux
 writer: Sanjay Mistry
-category: "338"
 guest_name: Nadia Struiwigh
 guest_color: dreamy
 episode_URL: http://mailta.pe/338/nadia-struiwigh/
@@ -43,6 +42,7 @@ track7:
   title: Grouper – Being Her Shadow
   color: dreamy
   link: https://sounds.mailta.pe/338/track7.mp3
+release: 338
 ---
 In this final episode of 2018, we are delighted to welcome Rotterdam-based DJ and electronic producer [Nadia Struiwigh](https://www.nadiastruiwigh.com/) as she picks three meditative Sunday morning tunes.
 <br><br>

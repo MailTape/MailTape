@@ -4,7 +4,6 @@ published: true
 author: ImaCrea
 illustrator: Meriam Kharbat
 writer: ImaCrea
-category: "434"
 guest_name: Mourning [A] BLKstar
 guest_color: vibrant
 guestPic: guestPic434.jpg
@@ -45,6 +44,7 @@ track7:
   title: "Chanel Tres  - unfinished business "
   color: dreamy
   link: https://sounds.mailta.pe/434/track7.mp3
+release: 434
 ---
  This morning, we're honored to introduce you to [Mourning \[A\] BLKstar](https://mourningablkstar.com/), a fantastic band formed by RA Washington from Cleveland, Ohio. A soulful jazzy selection made with care for a delicious Sunday at home. Click on play, close your eyes and let the music speak to your spirit. Music is, has always been, and will ever be what unites us.
 

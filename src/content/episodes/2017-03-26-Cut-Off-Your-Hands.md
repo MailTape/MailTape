@@ -3,7 +3,6 @@ bigTitle_font_ratio: "6"
 published: true
 author: Inès
 illustrator: Anais Caura
-category: "253"
 guest_name: Cut Off Your Hands
 guest_color: vibrant
 guestPic: guestPic253new2.jpg
@@ -44,6 +43,7 @@ track7:
   title: Caandides - Rio
   color: vibrant
   link: https://sounds.mailta.pe/253/track7.mp3
+release: 253
 ---
 This morning, let's enjoy the comeback of sunnier days while listening to [Cut Off Your Hands](https://www.facebook.com/cutoffyourhands/ "Facebook")’ kaleidoscopic selection. Cut Off Your Hands' dreamy yet energetic tracks combine cheerful indie rock with post punk influences, always feeling very sincere. 
 <p>Open your windows, put on your sunglasses, make yourself a nice coffee, and get ready for a fulfilling day with their selection! All Sundays do not have to be lazy.

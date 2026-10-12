@@ -1,7 +1,6 @@
 ---
 published: true
 pubDate: 2025-02-09
-category: "575"
 guest_name: KOMPROMAT
 guest_color: rough
 guestPic: guestpic575-min.jpg
@@ -46,6 +45,7 @@ track7:
   title: KOMPROMAT - I LET MYSELF GO BLIND (feat. Vimala Pons & Sonia DeVille)
   color: rough
   link: https://sounds.mailta.pe/575/track7.mp3
+release: 575
 ---
 This morning, we are deeply honored and excited to share with you an episode featuring [KOMPROMAT](https://kompromat-official.bandcamp.com/album/pl-ying-pr-ying) as our guest. The duo, consisting of Rebeka Warrior and Vitalic, is back with a new album, and their selection has inspired us to complement it with tracks infused with sensual, vibrant, and powerful synth waves to energize you. Allow yourself to be intoxicated by the energy of desire and movement; trust your wild side and dance with the chaos.
 

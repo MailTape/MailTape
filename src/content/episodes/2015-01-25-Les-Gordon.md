@@ -4,7 +4,6 @@ author: Olivier
 guest_color: vibrant
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
-category: "170"
 guest_name: Les Gordon
 episode_URL: http://mailta.pe/170/Les-Gordon/
 description: "This Sunday, we bring you an amalgam of ambient  and downtempo
@@ -41,6 +40,7 @@ track7:
   title: Monsoonsiren - Sullen Fables
   color: dreamy
   link: https://sounds.mailta.pe/170/track7.mp3
+release: 170
 ---
 
 This Sunday, we bring you an amalgam of ambient  and downtempo with our newly found French artist, [Les Gordon](https://fr-fr.facebook.com/pages/Les-Gordon/279442925425521 "Les Gordon on Facebook").

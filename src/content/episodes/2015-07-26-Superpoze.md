@@ -3,7 +3,6 @@ published: true
 author: ImaCrea
 guest_color: dreamy
 bigTitle_font_ratio: "6"
-category: "196"
 guest_name: Superpoze
 guestPic: guestPic196.jpg
 description: This Sunday, let yourself dive into a universe of musical
@@ -42,6 +41,7 @@ track7:
   title: JeF ZeRo - Arcade Funke
   color: trippy
   link: https://sounds.mailta.pe/196/track7.mp3
+release: 196
 ---
 
 

@@ -2,7 +2,6 @@
 bigTitle_font_ratio: "6"
 published: true
 author: Sarah
-category: "419"
 guest_name: Salarymen
 guest_color: vibrant
 guestPic: guestPic419.jpg
@@ -45,6 +44,7 @@ track7:
   title: Chico Bernardes - Me Encontrar
   color: dreamy
   link: https://sounds.mailta.pe/419/track7.mp3
+release: 419
 ---
 We are delighted  to welcome [Salarymen](https://salarymen.bandcamp.com/) to host the first MailTape episode of October! Based in Sydney, Salarymen effortlessly blends retro influences into their music, never scraping on their own authentic sound. Salarymen brings to MailTape a dynamic selection sure to energize and refresh your Sunday morning. 
 

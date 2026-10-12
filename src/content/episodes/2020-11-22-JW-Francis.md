@@ -2,7 +2,6 @@
 bigTitle_font_ratio: "6"
 published: true
 guestPic: guestPic426.jpg
-category: "426"
 writer: Sarah
 illustrator: Camille Célestin
 author: Sarah
@@ -48,6 +47,7 @@ track7:
   title: lyam. - Pretty Pretty
   color: bliss
   link: https://sounds.mailta.pe/426/track7.mp3
+release: 426
 ---
 This morning, we are delighted to welcome ray of sunshine JW Francis to MailTape for a playlist of flowing instrumentals and gentle melodies to ease into your Sunday morning. 
   Two weeks ago, JW Francis released his full album, [We Share a Similar Joy](https://jwfrancis.bandcamp.com/album/we-share-a-similar-joy), describing it as the introduction to himself. Full of unique guitar melodies, striking lyrics, and an engaging melange of sampling, the album makes a little world of JW's self reflections. It is truly a proper introduction to what walking around his brain must be like.  The following carefully curated episode gifts you a space of musical comfort to meditate and let your mind wander. 

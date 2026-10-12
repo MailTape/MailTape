@@ -1,7 +1,6 @@
 ---
 published: true
 pubDate: 2025-02-23
-category: "577"
 guest_name: Walter Astral
 guest_color: trippy
 guestPic: guestpic577.jpg
@@ -47,6 +46,7 @@ track7:
   title: Walter Astral - Aube
   color: trippy
   link: https://sounds.mailta.pe/577/track7.mp3
+release: 577
 ---
 This morning our dream tapestries cross into the sunlight, letting us revel in the shining contours of these threads and tangles. In these gentle morning hours, the druids [Walter Astral](https://walterastral.bandcamp.com/) are our guides, weaving this textured trance journey through sound. Based in Paris, the group joins us following the release of their odyssey-like album, [Éclipse](https://walterastral.bandcamp.com/album/clipse-2). With releases offering both meditation and dance, the duo moves swiftly from folk to psychedelic rock to effervescent techno, with rich and unexpected marriages across genre and instruments.
 

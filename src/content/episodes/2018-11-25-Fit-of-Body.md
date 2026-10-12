@@ -4,7 +4,6 @@ published: true
 author: Jules
 illustrator: Camille Célestin
 writer: Jules
-category: "333"
 guest_name: Fit of Body
 guest_color: bliss
 episode_URL: http://mailta.pe/333/fit-of-body/
@@ -42,6 +41,7 @@ track7:
   title: Tirzah - Devotion (feat. Coby Sey)
   color: vibrant
   link: https://sounds.mailta.pe/333/track7.mp3
+release: 333
 ---
 This morning we are delighted to welcome Atlanta-based music producer [Fit of Body](https://fitofbody.bandcamp.com/) to MailTape.
 <br><br>

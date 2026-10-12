@@ -1,7 +1,6 @@
 ---
 bigTitle_font_ratio: "6"
 published: true
-category: "324"
 guest_name: Flavien Berger
 guest_color: trippy
 author: ImaCrea
@@ -47,6 +46,7 @@ track7:
   title: Tessela - Glisten
   color: rough
   link: https://sounds.mailta.pe/324/track7.mp3
+release: 324
 ---
 This morning, we have the immense pleasure to invite [Flavien Berger](https://paneuropeanrecording.bandcamp.com/album/contre-temps-2). Following his work since a while, at the occasion of his new album he takes the time to share with us a somewhat of a nostalgic morning trip. 
 <br><br>

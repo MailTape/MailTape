@@ -4,7 +4,6 @@ published: true
 author: Maxime
 illustrator: Camille Célestin
 writer: Maxime
-category: "221"
 guest_name: Maud Octallinn
 guest_color: dreamy
 guestPic: guestPic221.jpg
@@ -41,6 +40,7 @@ track7:
   title: Flamingosis - Believe in Me
   color: vibrant
   link: https://sounds.mailta.pe/221/track7.mp3
+release: 221
 ---
  This morning, I introduce you to [Maud Octallinn](https://maudoctallinn.bandcamp.com/), a french psych-pop singer. Her first album is a compilation of failed love songs. But it’s easy to fall in love with each song. Her beautiful impish voice is perfect to sing on her surrealistic lyrics full of metaphors. 
 

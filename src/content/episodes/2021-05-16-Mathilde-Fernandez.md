@@ -3,7 +3,6 @@ bigTitle_font_ratio: "6"
 published: true
 author: ImaCrea
 illustrator: Thibault Daumain
-category: "451"
 guest_name: Mathilde Fernandez
 guest_color: bliss
 writer: ImaCrea
@@ -43,6 +42,7 @@ track7:
   title: Deena Abdelwahed - Lila Fi Tounes
   color: vibrant
   link: https://sounds.mailta.pe/451/track7.mp3
+release: 451
 ---
 This morning, we're glad to have [Mathilde Fernandez](https://mathildefernandez.bandcamp.com/) with us, this time to share her inspiration gravitating around her solo project. Last time, our [episode 388](https://www.mailta.pe/388/ascendant-vierge/) featured her duo with [Paul Seul](https://soundcloud.com/paulseul) : [Ascendant Vierge](https://soundcloud.com/viergeascendant).
 

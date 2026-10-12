@@ -4,7 +4,6 @@ published: true
 author: ImaCrea
 illustrator: Noémie
 writer: ImaCrea
-category: "509"
 guest_name: Minuit Machine
 guest_color: rough
 guestPic: guestPic509.png
@@ -44,6 +43,7 @@ track7:
   title: Dawuna - Baby Boy
   color: trippy
   link: https://sounds.mailta.pe/509/track7.mp3
+release: 509
 ---
 This morning, we're not letting winter take our energy. It's cold but our hearts are warmer than ever. And with Minuit Machine as our guests, prepare for a journey through a selection of energetic and cathartic tracks. Open, open, open, make a big O and keep searching.
 

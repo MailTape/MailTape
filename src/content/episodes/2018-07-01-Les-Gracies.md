@@ -4,7 +4,6 @@ published: true
 author: Sanjay Mistry
 illustrator: Anthony Dujardin
 writer: Sanjay Mistry
-category: "319"
 guest_name: Les Graciés
 guest_color: trippy
 episode_URL: http://mailta.pe/319/les-gracies/
@@ -44,6 +43,7 @@ track7:
   title: Kate Bush – Army Dreamers
   color: bliss
   link: https://sounds.mailta.pe/319/track7.mp3
+release: 319
 ---
 This morning we welcome the lyrical, dreamy and funky Sunday morning selections of [Les Graciés](https://soundcloud.com/les-gracies)—a French-American tandem of a brother and a sister in sound, an evident and karmic encounter of free spirit music makers in full sympathy with the unknown.
 <p>Les Graciés is the conjunction of Eric Douglas Porter ([Afrikan Sciences](https://soundcloud.com/afrikan-sciences)) and Gaël Segalen ([IhearU](http://ihearu.org/)). In their own music, they transcend styles with a deceptive effortlessness conflating sheets of street noise and organic pastoral location recordings with rhythms that seem to have spilled from the field to the club via decades of cryptic encoding.

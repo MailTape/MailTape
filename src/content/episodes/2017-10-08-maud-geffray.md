@@ -3,7 +3,6 @@ bigTitle_font_ratio: "6"
 published: true
 author: Louise
 illustrator: Camille Célestin
-category: "281"
 guest_name: Maud Geffray
 guest_color: bliss
 guestPic: guestPic281.jpg
@@ -42,6 +41,7 @@ track7:
   title: Hiroshi Yoshimura (吉村弘) — Dance PM
   color: dreamy
   link: https://sounds.mailta.pe/281/track7.mp3
+release: 281
 ---
 This morning we welcome the amazing producer [Maud Geffray](https://www.facebook.com/maudgeffray75/) on MailTape. Her [solo album 'POLAAR'](https://paneuropeanrecording.bandcamp.com/album/polaar) is a multi-layered gem of cold electronic music. Today’s episode is a rollercoaster of emotions and feelings melted in electronic sounds. I hope you're ready for the ride! I’m really proud of this episode, and I'd love to hear your thoughts on this.
 

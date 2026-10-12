@@ -4,7 +4,6 @@ published: true
 author: Jules
 illustrator: Thibault Daumain
 writer: Jules
-category: "425"
 guest_name: Sabrina Bellaouel
 guest_color: vibrant
 episode_URL: https://www.mailta.pe/425/sabrina-bellaouel/
@@ -52,6 +51,7 @@ track7:
   title: DJ Lycox - Red Lights
   color: bliss
   link: https://sounds.mailta.pe/425/track7.mp3
+release: 425
 ---
  This morning, we are delighted to welcome Franco-Algerian singer and producer, [Sabrina Bellaouel](https://sabrinabellaouel.bandcamp.com/), to share a sensitive selection of her favorite Sunday morning tunes with us.
 <br><br>

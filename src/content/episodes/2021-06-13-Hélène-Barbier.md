@@ -5,7 +5,6 @@ published: true
 author: Anaïs G
 illustrator: Camille Célestin
 writer: Anaïs G
-category: "455"
 guest_name: Hélène Barbier
 guest_color: dreamy
 guestPic: guestPic455.jpg
@@ -40,6 +39,7 @@ track7:
   title: Phern - I Sold The House
   color: trippy
   link: https://sounds.mailta.pe/missingTrack.mp3
+release: 455
 ---
 
 <p id="introduction">This morning, the birds are singing, the sun is shining, and can’t shatter our joy of life. To be able to resume a “normal” life, prepare for summer holidays and stroll in the sun. It is with [Hélène Barbier](https://helenebarbier.bandcamp.com/) that we will do all those things indispensable for the survival of all.

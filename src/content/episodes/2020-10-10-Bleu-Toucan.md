@@ -7,7 +7,6 @@ episode_URL: http://mailta.pe/420/bleu-toucan/
 guestPic: guestPic420.jpg
 guest_color: dreamy
 guest_name: Bleu Toucan
-category: "420"
 writer: Anaïs G
 illustrator: Camille Célestin
 author: Anaïs G
@@ -44,6 +43,7 @@ track7:
   title: Février - La montagne
   color: bliss
   link: https://sounds.mailta.pe/420/track7.mp3
+release: 420
 ---
 
 This morning, we fly away, we take to the open sea, to faraway places where the heat reigns supreme. We're not alone to accompany us on this journey, it's in good company with the [Bleu Toucan](https://soundcloud.com/bleutoucan) group that we're going to have a good time.

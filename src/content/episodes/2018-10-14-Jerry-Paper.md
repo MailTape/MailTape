@@ -4,7 +4,6 @@ published: true
 author: Inès
 illustrator: Camille Célestin
 writer: Inès
-category: "327"
 guest_name: Jerry Paper
 guest_color: trippy
 guestPic: guestPic327.jpg
@@ -43,6 +42,7 @@ track7:
   title: Avventur - Lise
   color: trippy
   link: https://sounds.mailta.pe/327/track7.mp3
+release: 327
 ---
 This morning, please welcome [Jerry Paper](https://jerrypaper.bandcamp.com/)'s eclectic selection. Jerry Paper is Lucas Nathan, an American artist from Los Angeles. Jerry Paper's music is multi-faceted: quirky, cartoonish, dystopian, out-of-this-world, melancholic, ironic. It's witty and stays graceful at all times. Jerry Paper released their latest album two days ago, [check it out](https://www.stonesthrow.com/store/album/jerrypaper/like-a-baby). 
 <br><br>

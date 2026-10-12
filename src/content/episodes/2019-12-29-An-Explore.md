@@ -4,7 +4,6 @@ published: true
 author: Jules
 illustrator: Julie Wojtczak
 writer: Jules
-category: "386"
 guest_name: An Explore
 guest_color: bliss
 episode_URL: http://mailta.pe/386/an-explore/
@@ -50,6 +49,7 @@ track7:
   title: Maksim - Untitled (A2)
   color: dreamy
   link: https://sounds.mailta.pe/386/track7.mp3
+release: 386
 ---
  This morning, it's finally time to slow down, stay awake for eternity in bed before enjoying a hot coffee contemplating the sky behind your window. Prepare for an exploratory musical morning journey with [An Explore](https://anexplore.bandcamp.com/).
 <br><br>

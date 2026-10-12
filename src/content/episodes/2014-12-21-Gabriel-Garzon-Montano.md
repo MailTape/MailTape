@@ -4,7 +4,6 @@ author: Maxime
 guest_color: dreamy
 bigTitle_font_ratio: "10"
 bigTitle_line_ratio: "1"
-category: "165"
 guest_name: Gabriel Garzón-Montano
 episode_URL: http://mailta.pe/165/Gabriel-Garzon-Montano/
 guestPic: guestPic165.jpg
@@ -42,6 +41,7 @@ track7:
   title: Jabru feat. Joel Culpepper - Church
   color: bliss
   link: https://sounds.mailta.pe/165/track7.mp3
+release: 165
 ---
 
 

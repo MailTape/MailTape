@@ -4,7 +4,6 @@ published: true
 author: Sanjay Mistry
 illustrator: Anais Caura
 writer: Sanjay Mistry
-category: "348"
 guest_name: Julia Biel
 guest_color: bliss
 episode_URL: http://mailta.pe/348/julia-biel/
@@ -43,6 +42,7 @@ track7:
   title: Keyvan Chemirani & Pandit Anindo Chatterjee – Bhairavi
   color: bliss
   link: https://sounds.mailta.pe/348/track7.mp3
+release: 348
 ---
 This morning we are thrilled to welcome London-based vocalist, guitarist and pianist, [Julia Biel](http://www.juliabiel.com/), who selects three swaying Sunday tunes for us.
 <br><br>

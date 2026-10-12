@@ -1,7 +1,6 @@
 ---
 published: true
 pubDate: 2024-10-27
-category: "563"
 guest_name: Yassin Keetan
 guest_color: vibrant
 guestPic: guestpic563.png
@@ -39,6 +38,7 @@ track7:
   title: Ellinor Jackson - De Se Trouver
   color: bliss
   link: https://sounds.mailta.pe/563/track7.mp3
+release: 563
 ---
 This morning we're delighted to welcome Paris-based music producer [Yassin Keetan](https://www.instagram.com/yassinkeetan/) to MailTape!
 

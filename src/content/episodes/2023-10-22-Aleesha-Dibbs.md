@@ -1,7 +1,6 @@
 ---
 bigTitle_font_ratio: "6"
 published: true
-category: "538"
 guest_name: Aleesha Dibbs
 writer: Sarah
 illustrator: Camille Célestin
@@ -45,6 +44,7 @@ track7:
   title: Vanishing Twin - Afternoon X
   color: trippy
   link: https://sounds.mailta.pe/538/track7.mp3
+release: 538
 ---
 
 This Sunday morning we welcome Aleesha Dibbs for MailTape's Episode 538. Based in Sydney, Aleesha Dibbs joins us after the release of her debut solo EP, [Paradise Lost](https://soundcloud.com/aleeshadibbs) - produced and co-written by [Tom Crandles](https://www.instagram.com/____prudence/). Marked by eccentric synthwork and rich vocals, the release often treads into darker, haunting tones with exceptional inventiveness. 

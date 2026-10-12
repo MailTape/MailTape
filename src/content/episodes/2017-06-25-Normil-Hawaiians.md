@@ -1,7 +1,6 @@
 ---
 bigTitle_font_ratio: "6"
 published: true
-category: "266"
 author: Sanjay Mistry
 illustrator: Pierre-Julien Fieux
 guest_name: Normil Hawaiians
@@ -42,6 +41,7 @@ track7:
   title: A Silver Mt. Zion - The Triumph of our Tired Eyes
   color: dreamy
   link: https://sounds.mailta.pe/266/track7.mp3
+release: 266
 ---
 This morning, we are delighted to welcome [Normil Hawaiians](http://normilhawaiians.com/). Operating more like a collective than a band, the Normil Hawaiians formed in the austere post-punk permafrost of 1980s UK.
 <p>Under the continuities of racial and economic imperialism and in the grip of another ruthless despot, freedom was in part personified by the widely vilified and brutally attacked people's Peace Convoy – a manifestation of idealism that was grotesquely smashed near Stonehenge on 1 June 1985; 537 arrested, children terrorised, idealism and hope stamped on with fear and violence.

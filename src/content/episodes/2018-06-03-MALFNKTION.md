@@ -4,7 +4,6 @@ published: true
 author: Sanjay Mistry
 illustrator: Pierre-Julien Fieux
 writer: Sanjay Mistry
-category: "315"
 guest_name: MALFNKTION
 guest_color: trippy
 episode_URL: http://mailta.pe/315/malfnktion/
@@ -42,6 +41,7 @@ track7:
   title: Tigue – .......
   color: bliss
   link: https://sounds.mailta.pe/315/track7.mp3
+release: 315
 ---
 This morning we are excited to welcome [MALFNKTION](https://malfnktion.bandcamp.com/), the electronic music project of Bengaluru-based musician, Aditya Alamuru.
 <p>The project derives its sound from hip-hop compositions, classical Indian music, old Indian film music, audio recordings taken from the streets of Mumbai and sounds collected in remote parts of the country. His debut EP ‘[Hindustani Rascal](https://soundcloud.com/malfnktion/sets/hindustani-rascal-ep)’, released in 2015, was a homage to the golden age of Indian cinema and his second EP, ‘[Vote for Worms](https://soundcloud.com/malfnktion/sets/vote-for-worms)’, was released in December 2016.

@@ -4,7 +4,6 @@ author: ImaCrea
 guest_color: dreamy
 bigTitle_font_ratio: "8"
 bigTitle_line_ratio: "1"
-category: "156"
 guest_name: Arms and Sleepers
 guestPic: guestPic156.jpg
 episode_URL: http://mailta.pe/156/Arms-and-Sleepers/
@@ -44,6 +43,7 @@ track7:
   title: Oldtoy - Fountains
   color: bliss
   link: https://sounds.mailta.pe/156/track7.mp3
+release: 156
 ---
 
 

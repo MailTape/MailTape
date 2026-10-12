@@ -4,7 +4,6 @@ published: true
 author: Sanjay Mistry
 illustrator: Camille Célestin
 writer: Sanjay Mistry
-category: "292"
 guest_name: Oiseaux-Tempête
 guest_color: dreamy
 episode_URL: http://mailta.pe/292/oiseaux-tempete/
@@ -43,6 +42,7 @@ track7:
   title: Jerusalem In My Heart – 7ebr El 3oyoun
   color: dreamy
   link: https://sounds.mailta.pe/292/track7.mp3
+release: 292
 ---
 This morning we attempt to provide you with a soundtrack to the water crystallising under freezing temperatures by welcoming the Paris-based collective, [Oiseaux-Tempête](http://www.oiseaux-tempete.com/), to MailTape.
 <p>Following the release of AL-‘AN ! الآن (And your night is your shadow — a fairy-tale piece of land to make our dreams) this year, Oiseaux-Tempête will be releasing a new live album in 2018 entitled TARAB طَرَبٌ. And if that doesn't satisfy you, they'll also be [on tour](http://www.oiseaux-tempete.com/tour.html) for most of January and February.

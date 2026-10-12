@@ -4,7 +4,6 @@ published: true
 author: Jules
 illustrator: Noémie Dijon
 writer: Jules
-category: "465"
 guest_name: Arp Frique
 guest_color: trippy
 episode_URL: https://www.mailta.pe/465/arp-frique/
@@ -49,6 +48,7 @@ track7:
   title: Florence Adooni - Mam Pe'ela Su'ure
   color: vibrant
   link: https://sounds.mailta.pe/465/track7.mp3
+release: 465
 ---
  This morning, the sun has never shone so brightly. Rotterdam-based musician and producer [Arp Frique](https://arpfrique.bandcamp.com/) is welcoming MailTape in his colourful world! 
 <br><br>

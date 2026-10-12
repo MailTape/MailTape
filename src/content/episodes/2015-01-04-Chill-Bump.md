@@ -4,7 +4,6 @@ author: Louise
 guest_color: vibrant
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
-category: "167"
 guest_name: Chill Bump
 guestPic: guestPic167.jpg
 episode_URL: http://mailta.pe/167/Chill-Bump/
@@ -41,6 +40,7 @@ track7:
   title: Raury - God's Whisper
   color: vibrant
   link: https://sounds.mailta.pe/167/track7.mp3
+release: 167
 ---
 
 

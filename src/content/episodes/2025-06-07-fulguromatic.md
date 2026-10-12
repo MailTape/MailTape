@@ -1,7 +1,6 @@
 ---
 published: true
 pubDate: 2025-06-08
-category: "583"
 guest_name: Fulguromatic
 guest_color: trippy
 guestPic: guestpic583.jpg
@@ -45,6 +44,7 @@ track7:
   title: Mad Curry -Music, The Reason Of Our Happiness
   color: trippy
   link: https://sounds.mailta.pe/583/track7.mp3
+release: 583
 ---
 As you know, Mail Tape loves to highlight unusual artists, those who are not afraid to flirt with extravagance to propel music towards joyful and new horizons. This is the case for our guests today, a singular duo who seem to make music like a crazy chemistry professor would have fun mixing various dangerous substances, even if it means blowing everything up. And BOOM! There it is: Fulguromatic!
 

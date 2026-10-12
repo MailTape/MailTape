@@ -4,7 +4,6 @@ published: true
 author: Sanjay Mistry
 illustrator: Camille Célestin
 writer: Sanjay Mistry
-category: "373"
 guest_name: Shida Shahabi
 guest_color: dreamy
 episode_URL: https://www.mailta.pe/373/shida-shahabi/
@@ -42,6 +41,7 @@ track7:
   title: Vanessa Wagner – Struggle For Pleasure (GAS Rework)
   color: trippy
   link: https://sounds.mailta.pe/373/track7.mp3
+release: 373
 ---
 This morning we welcome the intimate and homespun piano of Stockholm-based pianist and composer, [Shida Shahabi](https://shida-shahabi.bandcamp.com/).
 <br><br>

@@ -3,7 +3,6 @@ bigTitle_font_ratio: "6"
 published: true
 author: Sanjay Mistry
 illustrator: Pierre-Julien Fieux
-category: "254"
 guest_name: Fond of Tigers
 guest_color: dreamy
 episode_URL: http://mailta.pe/254/Fond-of-Tigers/
@@ -41,6 +40,7 @@ track7:
   title: Esmerine - The Neighbourhoods Rise
   color: dreamy
   link: https://sounds.mailta.pe/254/track7.mp3
+release: 254
 ---
 This morning, Stephen Lyons of Vancouver-based septet, [Fond of Tigers](http://www.fondoftigers.com/), lifts the fog and treats us to three unhurried and dreamy selections. In his own words...
 <p>I generally start my days pretty slowly. The longer I can put off speaking, the better. No sudden movements.

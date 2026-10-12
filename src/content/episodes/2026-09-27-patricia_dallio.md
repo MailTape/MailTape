@@ -1,7 +1,6 @@
 ---
 published: true
 pubDate: 2026-09-27
-category: "614"
 guest_name: Patricia Dallio
 guest_color: trippy
 guestPic: guestPic614.jpg
@@ -47,6 +46,7 @@ track7:
   title: Porta's - Saccage dit
   color: bliss
   link: https://sounds.mailta.pe/614/track7.mp3
+release: 614
 ---
 This morning, we invite you to celebrate surprise and wild curiosity. Our dear guest, [Patricia Dallio](https://patriciadallio.bandcamp.com/album/transmissions-fongist-re-001), is a French experimental electronic musician who began her career in the ’80s and spent three decades as a member of the now-cult band Art Zoyd. You might find her improvising and creating music somewhere in the forests of Haute-Marne. The vegetal world is buzzing with life and sound, if only one knows how to shift one’s attention toward the ever-magical world of the non-human. Be prepared to reassess some of your assumptions about what a MailTape episode can be.
 

@@ -4,7 +4,6 @@ published: true
 author: Sanjay Mistry
 illustrator: Pierre-Julien Fieux
 writer: Sanjay Mistry
-category: "330"
 guest_name: Sissel Wincent
 guest_color: trippy
 episode_URL: http://mailta.pe/330/sissel-wincent/
@@ -42,6 +41,7 @@ track7:
   title: Afrikan Sciences – 43
   color: trippy
   link: https://sounds.mailta.pe/330/track7.mp3
+release: 330
 ---
 This morning we are delighted to welcome Stockholm-based electronic producer, [Sissel Wincent](https://soundcloud.com/sissel), to MailTape. In her own music, as well as within the [Drömfakulteten collective](https://dromfakulteten.tumblr.com/), Sissel deals in a congruous style of spacious and crisply detailed studio action, exploring the spaces behind and after the notes as much as what comes in between. 
 <br><br>

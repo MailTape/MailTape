@@ -3,7 +3,6 @@ bigTitle_font_ratio: "6"
 published: true
 author: Sanjay Mistry
 illustrator: Anais Caura
-category: "269"
 guest_name: Moor Mother
 guest_color: rough
 episode_URL: http://mailta.pe/269/moor-mother/
@@ -42,6 +41,7 @@ track7:
     Democracy"
   color: trippy
   link: https://sounds.mailta.pe/269/track7.mp3
+release: 269
 ---
 This morning we welcome someone who has been on my wish list for a while: Philadelphia-based interdisciplinary artist, Camae Ayewa ([Moor Mother](http://moormother.com/)).
 <p>As well as having many other talents, Camae is also co-founder and organiser of [Rockers! Philly](https://www.facebook.com/thegoodfolksatrockers), a 10-year-long event series and festival focused on marginalised musicians and artists spanning multiple genres of music. She has shared the stage with King Britt, Islam Chipsy, Claudia Rankine (whose latest book, [Citizen: An American Lyric](https://en.wikipedia.org/wiki/Citizen:_An_American_Lyric), you should definitely read) and bell hooks, and has opened on tour for [Screaming Females](http://www.screamingfemales.com/).

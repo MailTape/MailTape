@@ -4,7 +4,6 @@ published: true
 author: ImaCrea
 illustrator: Julie Wojtczak
 writer: ImaCrea
-category: "482"
 guest_name: Alligator
 guest_color: vibrant
 image: https://www.mailta.pe/img/fbPic482.jpg
@@ -46,6 +45,7 @@ track7:
   title: Ibibio Sound Machine - Electricity
   color: vibrant
   link: https://sounds.mailta.pe/482/track7.mp3
+release: 482
 ---
 This morning, we stop reading the news and start dancing. Did you know the oldest proof of dancing comes from 9000 years old cave paintings that were found in India? Also, we're not the only one dancing on this planet, it's a behaviour we actually share with many other species. Music is a universal language, and in this episode co-curated with [Alligator](https://almost-discos.bandcamp.com/album/torrents), we're telling a story of joy, adventure, courage, beauty and hope.
 

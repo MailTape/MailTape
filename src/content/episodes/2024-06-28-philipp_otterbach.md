@@ -1,7 +1,6 @@
 ---
 published: true
 pubDate: 2024-06-30
-category: "559"
 guest_name: Philipp Otterbach
 guest_color: vibrant
 guestPic: guestpic559.png
@@ -39,6 +38,7 @@ track7:
   title: Duval Timothy - Mutate
   color: vibrant
   link: https://sounds.mailta.pe/559/track7.mp3
+release: 559
 ---
 This morning we're delighted to welcome Krefeld-born, Berlin-based DJ and producer [Philipp Otterbach](https://www.instagram.com/philippotterbach/) to MailTape!
 

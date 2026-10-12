@@ -4,7 +4,6 @@ published: true
 author: Sanjay Mistry
 illustrator: Thibault Daumain
 writer: Sanjay Mistry
-category: "408"
 guest_name: Michal Turtle
 guest_color: dreamy
 episode_URL: https://www.mailta.pe/408/michal-turtle/
@@ -43,6 +42,7 @@ track7:
   title: Anarchist Mountains – Lift
   color: dreamy
   link: https://sounds.mailta.pe/408/track7.mp3
+release: 408
 ---
 This morning we welcome [Michal Turtle](https://soundcloud.com/music-from-memory/mfm-mix-010-michal-turtle) to select three Sunday morning tunes with us—a musician and producer who spent the heart of the 1980s making subtle, enlightened music. 
 <br><br>

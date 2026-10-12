@@ -4,7 +4,6 @@ published: true
 author: Inès
 illustrator: Pierre-Julien Fieux
 writer: PS KY
-category: "298"
 guest_name: JOEY FOURR
 guest_color: bliss
 episode_URL: https://www.mailta.pe/298/joey-fourr/
@@ -43,6 +42,7 @@ track7:
   title: Aegean Sun - Feel Real
   color: bliss
   link: https://sounds.mailta.pe/298/track7.mp3
+release: 298
 ---
 This morning, we bring you an electrifying and magnetic MailTape. Our guest [Joey Fourr](https://www.facebook.com/joeyfourr) will thrust you out of your comfort zone with their poignant selection of moving vibrations with touching lyrics.
 <p>Living for the finer things indeed. Striving for diamonds and pearls? Looking for love and fame? Just accept it. But just as there is no shame in wanting it all, there should be no shame in losing it all also.

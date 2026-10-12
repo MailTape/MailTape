@@ -1,7 +1,6 @@
 ---
 bigTitle_font_ratio: "6"
 published: true
-category: "381"
 author: ImaCrea
 illustrator: Pierre-Julien Fieux
 writer: Daisy
@@ -43,6 +42,7 @@ track7:
   title: Philip Glass - Vessels
   color: bliss
   link: https://sounds.mailta.pe/381/track7.mp3
+release: 381
 ---
 This morning there's no rush to decide which side of consciousness you're on. Pianist, composer and producer [Mischa Blanos](https://mischablanos.com/) is here to be your weightless anchor between states and realities.
   

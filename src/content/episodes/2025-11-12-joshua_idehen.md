@@ -1,7 +1,6 @@
 ---
 published: true
 pubDate: 2025-11-16
-category: "598"
 guest_name: Joshua Idehen
 guest_color: vibrant
 guestPic: guestpic598.jpg
@@ -42,6 +41,7 @@ track7:
   title: Nightmares on Wax, Yasiin Bey - Bang Bien
   color: trippy
   link: https://sounds.mailta.pe/598/track7.mp3
+release: 598
 ---
 We are full of joy to welcome musician, spoken-word artist, and dear guest [Joshua Idehen](https://joshuaidehen.bandcamp.com/) to MailTape this morning ! Based in Stockholm, he gifts us today with a Sunday selection crafted with care -- just the right mix to start the day with some dancing ;)  
 

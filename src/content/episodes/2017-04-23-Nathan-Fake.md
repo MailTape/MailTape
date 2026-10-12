@@ -3,7 +3,6 @@ bigTitle_font_ratio: "6"
 published: true
 author: ImaCrea
 illustrator: Pierre-Julien Fieux
-category: "257"
 guest_name: Nathan Fake
 guest_color: trippy
 writer: ImaCrea
@@ -45,6 +44,7 @@ track7:
   title: William Basinski - For David Robert Jones
   color: dreamy
   link: https://sounds.mailta.pe/257/track7.mp3
+release: 257
 ---
 This morning let's welcome [Nathan Fake](http://www.nathanfake.com/). He just released a new album with our dear folks from [Ninja Tune](https://ninjatune.net). Known for his innovative and smoothly provocative work in electronic music, be prepared to embark on a mesmerizing trip towards clarity and peace of mind, two things well needed... especially today in France.
 

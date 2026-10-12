@@ -1,7 +1,6 @@
 ---
 published: true
 pubDate: 2025-06-22
-category: "585"
 guest_name: Ola Szmidt
 guest_color: dreamy
 guestPic: ola_szmidt.png
@@ -41,6 +40,7 @@ track7:
   title: Chassol - Music Is God My Love (Ménage à trois Love Edit)
   color: bliss
   link: https://sounds.mailta.pe/585/track7.mp3
+release: 585
 ---
 This morning, as we change seasons and the metamorphosis of life is in full swing, we are deeply enthusiastic to have Ola Szmidt as our guest.
 

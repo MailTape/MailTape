@@ -7,7 +7,6 @@ musiColor: musiColor217.png
 author: Louise
 illustrator: Anais Caura
 writer: Louise
-category: "217"
 guest_name: Kikagaku Moyo
 guestPic: guestPic217.jpg
 description: This morning, enjoy a walk through the mind with a psyche selection
@@ -42,6 +41,7 @@ track7:
   title: Reptile Youth - Keep On Moving
   color: rough
   link: https://sounds.mailta.pe/217/track7.mp3
+release: 217
 ---
 This morning, enjoy a walk through the mind with a psyche selection by our guest of the week, [Kikagaku Moyo](https://www.facebook.com/kikagakumoyo/?fref=ts). Let the songs overwhelm your soul, once more, you will be amazed by the power of music to stop time and submerge your thoughts.
 

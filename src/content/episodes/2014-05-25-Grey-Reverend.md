@@ -4,7 +4,6 @@ author: Julien
 guest_color: dreamy
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
-category: "142"
 guest_name: Grey Reverend
 episode_URL: http://mailta.pe/142/Grey-Reverend/
 guestPic: guestPic142.jpg
@@ -42,6 +41,7 @@ track7:
   title: Sixto Rodriguez - Inner City Blues
   color: vibrant
   link: https://sounds.mailta.pe/142/track7.mp3
+release: 142
 ---
 
 

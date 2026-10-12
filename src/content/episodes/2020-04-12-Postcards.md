@@ -6,7 +6,6 @@ bigTitle_font_ratio: "6"
 guestPic: guestPic401.jpg
 guest_color: vibrant
 guest_name: Postcards
-category: "401"
 writer: Anaïs G
 illustrator: Julie Wojtczak
 author: Anaïs G
@@ -48,6 +47,7 @@ track7:
   title: Georgia Mulligan - So Long
   color: vibrant
   link: https://sounds.mailta.pe/401/track7.mp3
+release: 401
 ---
 
 This morning, re-learning to live, we are faced with that. Take a break, and enjoy what nature has to offer, and deal with a daily challenge we face with an uncertain future. In this infernal whirlwind, transformed into a remake of "[Un Jour sans fin](https://fr.wikipedia.org/wiki/Un_jour_sans_fin)" without Bill Murray and the groundhog, we adapt, we use our knowledge, we cook, we talk, we relax, we observe and above all we try to keep smiling despite the chain of announcements and information. Music, again and again with MailTape, with a selection full of sweetness this Sunday signed [Postcards](https://www.postcardsmusic.com/). 

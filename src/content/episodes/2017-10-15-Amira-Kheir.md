@@ -4,7 +4,6 @@ published: true
 author: Sanjay Mistry
 illustrator: William Girault
 writer: Sanjay Mistry
-category: "282"
 guest_name: Amira Kheir
 guest_color: vibrant
 episode_URL: http://mailta.pe/282/amira-kheir/
@@ -43,6 +42,7 @@ track7:
   title: Lhasa De Sela – Rising
   color: dreamy
   link: https://sounds.mailta.pe/282/track7.mp3
+release: 282
 ---
 Described by Songlines magazine as ‘bold and poetic… beautiful and fearless', we are delighted to share vocalist [Amira Kheir's](http://amirakheir.com/) Sunday morning listening for MailTape.
 <p>As a young singer, musician and composer, Amira draws from her own multicultural background to create music that explores themes of home, belonging, love, and unity. Within this soudscape, East African rhythms blend with North African ambience, through hints of Afro-Latin grooves and Neo-Soul, expressing themselves through a soulful explosion of jazz improvisation. Amira’s music possesses within it ancient musical traditions, yet is delivered with a contemporary vibrancy reflective of London’s multicultural music scene.

@@ -4,7 +4,6 @@ published: true
 author: Sanjay Mistry
 illustrator: Camille Célestin
 writer: Sanjay Mistry
-category: "305"
 guest_name: Christine Ott
 guest_color: dreamy
 episode_URL: http://mailta.pe/305/christine-ott/
@@ -43,6 +42,7 @@ track7:
   title: " Saltland – ICA"
   color: dreamy
   link: https://sounds.mailta.pe/305/track7.mp3
+release: 305
 ---
 Based in Strasbourg and only one of a tiny handful of performers on the ondes Martenot, this Sunday morning we welcome [Christine Ott](http://www.christineott.fr/) to collaborate with us on MailTape.
 <p>Toying with mood and tone with practiced ease in her own work, Christine has also been an integral part of Yann Tiersen's band and has collaborated with the likes of Radiohead, Tindersticks, Syd Matters, Daau, Raphelson, Noir Désir, Vénus, Oiseaux-Tempête and Foudre! over the past two decades.

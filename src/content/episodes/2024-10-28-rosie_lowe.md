@@ -1,7 +1,6 @@
 ---
 published: true
 pubDate: 2024-11-03
-category: "564"
 guest_name: Rosie Lowe
 guest_color: dreamy
 guestPic: guestpic564.jpg
@@ -44,6 +43,7 @@ track7:
   title: Rosie Lowe, Duval Timothy - Son
   color: bliss
   link: https://sounds.mailta.pe/564/track7.mp3
+release: 564
 ---
 Your Sunday in all its softness :) This morning, MailTape is delighted to welcome singer [Rosie Lowe](https://rosielowe.bandcamp.com/) for a selection of sweeping soulful deep listening. The London-based singer joins us following the release of her album [Lover, Other](https://rosielowe.bandcamp.com/album/lover-other). Rosie Lowe's releases are marked by swells of intricate choral patchworks, a capella avant-garde, and jazz-funk harmonies -- every listen hints at more to discover. A gift for you this morning !
 

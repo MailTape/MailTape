@@ -4,7 +4,6 @@ published: true
 author: Anaïs G
 illustrator: Patricia Barros De Miranda
 writer: Anaïs G
-category: "527"
 guest_name: Grand Public
 guestPic: guestPic527.jpg
 episode_URL: http://mailta.pe/527/grand-public/
@@ -45,6 +44,7 @@ track7:
   title: Thus Owls - I Forget What I Remenbered
   color: dreamy
   link: https://sounds.mailta.pe/527/track7.mp3
+release: 527
 ---
 This morning, We take advantage of this month of May to breathe, relax and take advantage of the many public holidays to get away with it. One watchword: do nothing, just enjoy the present time! It is with the musical selection of the band [Grand Public](https://grandpublic.bandcamp.com/music) that we will put in off mode. "[Ideal Tempo](https://grandpublic.bandcamp.com/album/id-al-tempo-2)", released on March 24th, is the only tempo to have this weekend.
 

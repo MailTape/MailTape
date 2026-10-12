@@ -4,7 +4,6 @@ published: true
 author: Sarah
 illustrator: Camille Célestin
 writer: Sarah
-category: "431"
 guest_name: Chico Bernardes
 guest_color: bliss
 image: https://www.mailta.pe/img/fbPic431.png
@@ -48,6 +47,7 @@ track7:
   title: Gábor Szabó - San Franciscan Nights
   color: vibrant
   link: https://sounds.mailta.pe/431/track7.mp3
+release: 431
 ---
 The last Sunday morning of 2020 has arrived, and so does our last MailTape episode of this year. For our reflections and sighs that accompany leaving 2020 behind us, we take comfort in the music that has buoyed us through this strange time to be alive.
   

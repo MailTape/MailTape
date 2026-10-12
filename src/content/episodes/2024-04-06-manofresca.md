@@ -1,7 +1,6 @@
 ---
 published: true
 pubDate: 2024-04-07
-category: "553"
 guest_name: Manofresca
 guest_color: bliss
 guestPic: 553_manofresco.png
@@ -48,6 +47,7 @@ track7:
   title: The Palms - Push Off
   color: bliss
   link: https://sounds.mailta.pe/553/track7.mp3
+release: 553
 ---
 This morning we invite you to explore a particular vibe. It is not easy to describe it. It's a certain idea of ​​refinement, someting that we can call pretension but not like you’re used to hearing. Rather something undeniably sustained, never haughty, something which places itself a little above the fray, which shines with its talent, with impetuous virtuosity, with pretension. And after all, why not? Don’t you need a bit of this pretension to dare to explore certain corners of musical creativity knowing that you will inevitably create wonders from them? Isn’t it necessary to then dare to take the plunge and share your work with the public?
 

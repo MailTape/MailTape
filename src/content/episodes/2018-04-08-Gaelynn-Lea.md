@@ -4,7 +4,6 @@ published: true
 author: Sanjay Mistry
 illustrator: Pierre-Julien Fieux
 writer: Sanjay Mistry
-category: "307"
 guest_name: Gaelynn Lea
 guest_color: vibrant
 episode_URL: http://mailta.pe/307/gaelynn-lea/
@@ -43,6 +42,7 @@ track7:
   title: Trio Da Kali – Yirimadjo
   color: trippy
   link: https://sounds.mailta.pe/307/track7.mp3
+release: 307
 ---
 This morning we are delighted to welcome Duluth-based violinist, [Gaelynn Lea](https://violinscratches.com/). She chooses an easy breezy Sunday morning playlist in collaboration with MailTape.
 <p>She plays a mix of traditional and original tunes on her violin, which is layered using a live-looping pedal. And if that wasn't enough, she's a spellbinding singer with a real knack for the lyric and an uncanny understanding of how to conjure a mood.

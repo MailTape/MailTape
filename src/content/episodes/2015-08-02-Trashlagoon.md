@@ -3,7 +3,6 @@ published: true
 author: Ludovic
 guest_color: rough
 bigTitle_font_ratio: "6"
-category: "197"
 guest_name: Trashlagoon
 guestPic: guestPic197.jpg
 image: https://www.mailta.pe/img/fbPic197.jpg
@@ -43,6 +42,7 @@ track7:
   title: Lone - Banyan Drive
   color: trippy
   link: https://sounds.mailta.pe/197/track7.mp3
+release: 197
 ---
 
 

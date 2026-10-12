@@ -1,7 +1,6 @@
 ---
 bigTitle_font_ratio: "6"
 published: true
-category: "479"
 guest_name: Del Stephen
 guest_color: dreamy
 episode_URL: https://www.mailta.pe/479/Del-Stephen/
@@ -45,6 +44,7 @@ track7:
   title: Tiny Leaves - View From Here
   color: bliss
   link: https://sounds.mailta.pe/479/track7.mp3
+release: 479
 ---
  This morning, we're floating in the air with [Del Stephen](https://delstephen.bandcamp.com/). Coming from Toronto, his eclectic and blissful selection opens the doors to a magnificent Sunday. Warm and subtle, perfect to close this first month of the year (which has already been quiet intense !). Caring has never been so important and vital, see this episode as a heartful hug.
 

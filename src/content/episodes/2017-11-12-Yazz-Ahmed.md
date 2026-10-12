@@ -4,7 +4,6 @@ published: true
 author: Sanjay Mistry
 illustrator: Pierre-Julien Fieux
 writer: Sanjay Mistry
-category: "286"
 guest_name: Yazz Ahmed
 guest_color: trippy
 episode_URL: http://mailta.pe/286/yazz-ahmed/
@@ -43,6 +42,7 @@ track7:
   title: Vijay Iyer Trio – Break Stuff
   color: trippy
   link: https://sounds.mailta.pe/286/track7.mp3
+release: 286
 ---
 This morning we are delighted to collaborate with trumpeter and composer [Yazz Ahmed](http://yazzahmed.com/) and get a glimpse into her Sunday morning jukebox with MailTape.
 <p>As well as leading her own quartet and septet, Yazz has also recorded and performed with Radiohead, Max Romeo, Lee ‘Scratch’ Perry, ABC, Swing Out Sister, Joan as Police Woman and Amel Zen.

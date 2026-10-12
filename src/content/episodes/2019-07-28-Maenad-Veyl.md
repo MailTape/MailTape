@@ -4,7 +4,6 @@ published: true
 author: Luc
 illustrator: Camille Célestin
 writer: Luc
-category: "368"
 guest_name: Maenad Veyl
 guest_color: rough
 episode_URL: https://www.mailta.pe/368/maenad-veyl/
@@ -47,6 +46,7 @@ track7:
   title: Simo Cell - As Long As We Have Those Things
   color: dreamy
   link: https://sounds.mailta.pe/368/track7.mp3
+release: 368
 ---
 
 

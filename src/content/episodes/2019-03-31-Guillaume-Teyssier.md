@@ -1,7 +1,6 @@
 ---
 bigTitle_font_ratio: "6"
 published: true
-category: "351"
 guest_name: Guillaume Teyssier
 author: ImaCrea
 illustrator: Camille Célestin
@@ -48,6 +47,7 @@ track7:
   title: Wolf Müller meets the Nile Project - Mabomba Dance
   color: vibrant
   link: https://sounds.mailta.pe/351/track7.mp3
+release: 351
 ---
 This morning we welcome [Guillaume Teyssier](https://guillaumeteyssier.bandcamp.com/) from the great [Tigersushi Record](//tigersushi.com) label. He accepted our invitation to come and play live at our [MailTape Live 3rd edition](https://www.facebook.com/events/423163478488715/) at the Popup... on next Saturday! ([tickets almost sold out!](https://www.helloasso.com/associations/mailtape/evenements/mailtape-live-3))
   

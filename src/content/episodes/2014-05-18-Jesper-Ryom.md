@@ -4,7 +4,6 @@ author: Ludovic
 guest_color: vibrant
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
-category: "141"
 guest_name: Jesper Ryom
 guestPic: guestPic141.jpg
 episode_URL: http://mailta.pe/141/Jesper-Ryom/
@@ -43,6 +42,7 @@ track7:
   title: Tom and Laura Misch - Follow
   color: bliss
   link: https://sounds.mailta.pe/141/track7.mp3
+release: 141
 ---
 
 

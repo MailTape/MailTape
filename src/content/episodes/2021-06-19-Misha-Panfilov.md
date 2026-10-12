@@ -1,7 +1,6 @@
 ---
 bigTitle_font_ratio: "6"
 published: true
-category: "456"
 guest_name: Misha Panfilov
 guest_color: vibrant
 guestPic: guestPic456.jpg
@@ -45,6 +44,7 @@ track7:
   title: Paul Higgs & Chico Bernardes - Tramo Trompa
   color: bliss
   link: https://sounds.mailta.pe/456/track7.mp3
+release: 456
 ---
 We begin our Sunday morning with a cosmic cowboy selection of tracks led by our dear guest [Misha Panfilov](https://mpsc.bandcamp.com/). Based in Tallinn, Estonia, Misha's music engages in the evolving cross section between folk, funk, jazz, and psychedelic music, not without influences from Soviet-era electronic music.
 

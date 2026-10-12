@@ -3,7 +3,6 @@ bigTitle_font_ratio: "6"
 published: true
 author: Anaïs G
 illustrator: Meriam Kharbat
-category: "518"
 guest_name: Sierra Manhattan
 guest_color: bliss
 guestPic: guestPic518.jpg
@@ -44,6 +43,7 @@ track7:
   title: Nilufer Yanya - Midnight Sun
   color: bliss
   link: https://sounds.mailta.pe/518/track7.mp3
+release: 518
 ---
  This morning, you need to rest, to let yourself go to other sensations, or to rediscover simple pleasures such as enjoying your loved ones, the rays of the sun, bird watching or even feeling the wind in your neck. The band [Sierra Manhattan](https://soundcloud.com/sierra-manhattan) accompanies us in this playlist of quiet and let live.
 <br><br>

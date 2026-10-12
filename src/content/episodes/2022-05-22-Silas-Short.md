@@ -4,7 +4,6 @@ published: true
 author: ImaCrea
 writer: ImaCrea
 illustrator: Noémie Dijon
-category: "494"
 guest_name: Silas Short
 guest_color: bliss
 guestPic: guestPic494.jpg
@@ -45,6 +44,7 @@ track7:
   title: Georgia Anne Muldrow - Slow Drag
   color: bliss
   link: https://sounds.mailta.pe/494/track7.mp3
+release: 494
 ---
 This morning we’re in excellent company with [Silas Short](https://silasshort.bandcamp.com/) from the legendary Stones Throw Record family. Young and very talented, his debut EP, ["Drawing"](https://silasshort.bandcamp.com/), develops a rich soundscape carved with his very own signature. We’re very honored to have him with us today and pleased to share that pleasure with you. Let’s groove.
 

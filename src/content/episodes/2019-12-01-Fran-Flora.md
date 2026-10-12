@@ -4,7 +4,6 @@ published: true
 author: Sanjay Mistry
 illustrator: Julie Wojtczak
 writer: Sanjay Mistry
-category: "382"
 guest_name: Fran & Flora
 guest_color: dreamy
 episode_URL: https://www.mailta.pe/382/fran-flora/
@@ -44,6 +43,7 @@ track7:
   title: Soumik Datta – Jangal
   color: trippy
   link: https://sounds.mailta.pe/382/track7.mp3
+release: 382
 ---
 This morning we are delighted to welcome [Fran and Flora](https://www.franandflora.com/), the London-based string duo of Francesca Ter-Berg and Flora Curzon, to select some Sunday morning tunes with us on MailTape.
 <br><br>

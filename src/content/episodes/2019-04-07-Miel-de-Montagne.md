@@ -5,7 +5,6 @@ author: Anaïs G
 illustrator: Anthony Dujardin
 writer: Anaïs G
 guest_name: Miel de Montagne
-category: "352"
 episode_URL: http://mailta.pe/352/Miel-de-Montagne
 guest_color: dreamy
 guestPic: guestPic352.jpg
@@ -45,6 +44,7 @@ track7:
   title: Pion - Déluge ( Iñigo Montoya Remix)
   color: trippy
   link: https://sounds.mailta.pe/352/track7.mp3
+release: 352
 ---
  This morning, the atmosphere is light almost aerial, like the whipped cream that is on my boyfriend’s birthday cake. With imagination we could almost find ourselves hovering and swimming inside surrounded by love and voluptuousness. Actually, the universe of our guest this morning, Miel de Montagne, is a bit like this whipped cream, where I enjoy cake.
   

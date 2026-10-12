@@ -3,7 +3,6 @@ bigTitle_font_ratio: "6"
 guestPic: guestPic406.jpg
 guest_color: trippy
 guest_name: "Iñigo Montoya "
-category: "406"
 writer: Anaïs G
 illustrator: Thibault Daumain
 author: Anaïs G
@@ -44,6 +43,7 @@ track7:
   title: "Ricky Hollywood - Le sens du sens "
   color: dreamy
   link: https://sounds.mailta.pe/406/track7.mp3
+release: 406
 ---
 
  

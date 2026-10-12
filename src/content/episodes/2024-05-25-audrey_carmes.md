@@ -1,7 +1,6 @@
 ---
 published: true
 pubDate: 2024-05-26
-category: "558"
 guest_name: Audrey Carmes
 guest_color: dreamy
 guestPic: guestpic558.jpg
@@ -44,6 +43,7 @@ track7:
   title: Billie Eilish - Chihiro
   color: dreamy
   link: https://sounds.mailta.pe/558/track7.mp3
+release: 558
 ---
 This morning, we will continue to dream gently with our guest [Audrey Carmes](https://audreycarmes.bandcamp.com/album/quelque-chose-sest-dissip). Let's embark on an ambient journey to ethereal lands where music takes us on an inner voyage. Let the soothing melodies guide us through a realm of tranquility and introspection, as we explore the depths of our imagination together.
 

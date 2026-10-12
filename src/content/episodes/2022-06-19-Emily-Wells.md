@@ -4,7 +4,6 @@ published: true
 author: ImaCrea
 illustrator: Julie Wojtczak
 writer: ImaCrea
-category: "497"
 guest_name: Emily Wells
 guest_color: bliss
 episode_URL: https://www.mailta.pe/497/Emily-Wells/
@@ -45,6 +44,7 @@ track7:
   title: Hamid El-Shaeri - Reet
   color: vibrant
   link: https://sounds.mailta.pe/497/track7.mp3
+release: 497
 ---
 This morning, I am very thrilled to unveil an episode co-curated with Emily Wells. As she's on tour, playing ["Regards to the End"](https://emilywells.bandcamp.com/album/regards-to-the-end) around the world, she took a moment to share with us some of her music gems. With this selection, embark on a positive and deep journey filled with moving energy. Dance, love, care. 
 

@@ -4,7 +4,6 @@ bigTitle_font_ratio: "6"
 published: true
 author: Louise
 illustrator: Pierre-Julien Fieux
-category: "228"
 guest_name: Monomotion
 guestPic: guestPic228.jpg
 episode_URL: https://www.mailta.pe/228/Monomotion/
@@ -45,6 +44,7 @@ track7:
   title: Roméo Elvix x Le Motel - La Voiture
   color: bliss
   link: https://mtsounds.eu-central-1.wasabisys.com/228/track7.mp3
+release: 228
 ---
 This morning, we're back and on fire! Our guest is parisian producer, **[Monomotion](https://www.facebook.com/monomotionmusic/?fref=ts "Monomotion's Facebook page")**. His last EP _Behind the moon_ is pure magic. One year after its release, it's always a delight to dive into its organic songs. There's a force in it that surround your heart and soul to give you power. We tried to live up to this in today's episode.
  

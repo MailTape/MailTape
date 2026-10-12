@@ -4,7 +4,6 @@ published: true
 author: Inès
 illustrator: Pierre-Julien Fieux
 writer: Inès
-category: "296"
 guest_name: Musique Chienne
 guest_color: trippy
 guestPic: guestPic296.jpg
@@ -45,6 +44,7 @@ track7:
   title: OH MU - TOUT LE MONDE EST CONTENT ET VA À SA MAISON
   color: vibrant
   link: https://sounds.mailta.pe/296/track7.mp3
+release: 296
 ---
 This morning, please welcome [Musique Chienne](https://www.facebook.com/musiquechienne/)'s sparkly selection! [Musique Chienne](https://www.facebook.com/musiquechienne/) is Sarah-Louise Barbett, a musician based in Marseille making "music for people and dog". In other words, she makes synth-based, percussive electronic, not-so-naive weird-but-good-weird music.
 <p>Her latest release, ["La Maison de Billy"](https://cheptelrecords.bandcamp.com/album/chptl-025-la-maison-de-billy), tells the daily life of a dog named Billy—through his own eyes. So enter the psychedelic world of [Musique Chienne](https://www.facebook.com/musiquechienne/), we hope you'll enjoy the trip.

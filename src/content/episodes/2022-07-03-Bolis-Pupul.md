@@ -4,7 +4,6 @@ published: true
 author: Sarah
 illustrator: Camille Célestin
 writer: Sarah
-category: "499"
 guest_name: Bolis Pupul
 guest_color: trippy
 guestPic: guestPic499.jpg
@@ -45,6 +44,7 @@ track7:
   title: Walter Astral - L'eau
   color: vibrant
   link: https://sounds.mailta.pe/499/track7.mp3
+release: 499
 ---
  This morning, we're overjoyed to welcome Bolis Pupul to MailTape. Based in Belgium, Bolis joins us after releasing his debut album with Charlotte Adigéry, Tropical Dancer. Blending house, rock, RnB, and techno, the duo uses their music as a vehicle to ignite conversations on heavier topics, particularly in their commentaries on racism, homophobia, and misogyny.
     <br><br>

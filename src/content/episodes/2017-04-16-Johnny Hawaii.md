@@ -4,7 +4,6 @@ published: true
 author: Inès
 illustrator: Anais Caura
 writer: Inès
-category: "256"
 guest_name: Johnny Hawaii
 guest_color: bliss
 episode_URL: https://www.mailta.pe/256/Johnny-Hawaii/
@@ -46,6 +45,7 @@ track7:
   title: The Brian Jonestown Massacre - Viholliseni Maalla
   color: bliss
   link: https://sounds.mailta.pe/256/track7.mp3
+release: 256
 ---
 This morning, let's all stay in a hazy state thanks to [Johnny Hawaii](https://www.facebook.com/johnnyhawaiiband/ "Facebook")’s trippy selection. Johnny Hawaii's psychedelic surf tracks are amazing soundtracks for Sundays: long, slow, and dreamy, just what is needed to wrap up the week beautifully.
 <p>So just stay still, close your eyes, don't turn on the lights. Take this episode as an excuse to do nothing for some time.

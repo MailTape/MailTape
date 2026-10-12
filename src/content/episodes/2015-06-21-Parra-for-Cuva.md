@@ -3,7 +3,6 @@ published: true
 author: ImaCrea
 guest_color: vibrant
 bigTitle_font_ratio: "6"
-category: "191"
 guest_name: Parra for Cuva
 guestPic: guestPic191.jpg
 episode_URL: http://mailta.pe/191/Parra-for-Cuva/
@@ -44,6 +43,7 @@ track7:
   title: Thundercat  - Them Changes
   color: bliss
   link: https://sounds.mailta.pe/191/track7.mp3
+release: 191
 ---
 
 

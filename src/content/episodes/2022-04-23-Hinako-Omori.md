@@ -4,7 +4,6 @@ published: true
 author: ImaCrea
 illustrator: Meriam
 writer: ImaCrea
-category: "490"
 guest_name: Hinako Omori
 guest_color: dreamy
 guestPic: guestPic490.jpg
@@ -44,6 +43,7 @@ track7:
   title: Healion - About Breathing
   color: trippy
   link: https://sounds.mailta.pe/490/track7.mp3
+release: 490
 ---
 This morning, we're taking you into an atmosphere of balance, softness, and harmony. With our dear guest, [Hinako Omori](https://hinakoomori.bandcamp.com/album/a-journey), we curated meditative and restorative tracks to help you ease into the day with a refreshed view. Remember there's always blue sky waiting for you above the clouds.
 

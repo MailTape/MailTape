@@ -4,7 +4,6 @@ published: true
 author: Sarah
 illustrator: Jason Pridham
 writer: Sarah
-category: "467"
 guest_name: Janko Nilovic
 guest_color: vibrant
 image: https://www.mailta.pe/img/fbPic467.png
@@ -48,6 +47,7 @@ track7:
   title: Nino Nardini, Roger Roger, Eddie Warner - Beyond the Clouds
   color: vibrant
   link: https://sounds.mailta.pe/467/track7.mp3
+release: 467
 ---
  This morning, we are wading through worlds of color, shrouded on all sides by an entire kaleidoscope of sound. To craft this experience, we are beyond thrilled to welcome composer and multi-instrumentalist [Janko Nilović](https://www.jankonilovic.com/) to MailTape this Sunday. 
     <br><br>

@@ -4,7 +4,6 @@ author: Julien
 guest_color: dreamy
 bigTitle_font_ratio: "8"
 bigTitle_line_ratio: "1"
-category: "150"
 guest_name: Matthew Halsall
 episode_URL: http://mailta.pe/150/Matthew-Halsall/
 guestPic: guestPic150.jpg
@@ -42,6 +41,7 @@ track7:
   title: Roy Hargrove Quintet - Strasbourg Saint Denis (Live Performance)
   color: vibrant
   link: https://sounds.mailta.pe/150/track7.mp3
+release: 150
 ---
 
 

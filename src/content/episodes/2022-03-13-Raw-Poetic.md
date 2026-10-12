@@ -4,7 +4,6 @@ published: true
 author: Sarah
 illustrator: Noémie Dijon
 writer: Sarah
-category: "485"
 guest_name: Raw Poetic
 guest_color: dreamy
 image: https://www.mailta.pe/img/fbPic485.png
@@ -47,6 +46,7 @@ track7:
   title: India Blue - Magpie
   color: dreamy
   link: https://sounds.mailta.pe/485/track7.mp3
+release: 485
 ---
 This morning, we're ringing in the day with smooth sunshine tracks introduced by our dear guest, [Raw Poetic](https://rawpoetic.bandcamp.com/). The project of Jason Moore, Raw Poetic's music dips into treadings of hip hop, jazz, folk, and soul. Instead of categorizing his work, Jason simply says, "what it sounds like is what it sounds like." His production style follows this free form and flowing process, where finished products are not hindered by any certain categorical distinction.  
   <br><br>

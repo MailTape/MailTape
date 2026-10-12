@@ -4,7 +4,6 @@ published: true
 author: Inès
 illustrator: Meriam Kharbat
 writer: Inès
-category: "513"
 guest_name: Spread Joy
 guest_color: rough
 episode_URL: https://www.mailta.pe/513/Spread-Joy/
@@ -44,6 +43,7 @@ track7:
   title: Grotto Terrazza - Der Zaubergeselle
   color: trippy
   link: https://sounds.mailta.pe/513/track7.mp3
+release: 513
 ---
  This morning, please welcome [Spread Joy](https://spreadjoy.bandcamp.com/) for an episode full of life. Post-punk band [Spread Joy](https://spreadjoy.bandcamp.com/) has released their second album in May last year and it is full of good energy. Fast-paced, rythmically changing songs that make you want to run or dance or jump or maybe all of it together? 
 <br><br>

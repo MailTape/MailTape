@@ -4,7 +4,6 @@ published: true
 author: Louise
 illustrator: Anais Caura
 writer: Louise
-category: "238"
 guest_name: Mélanie Pain
 guest_color: bliss
 guestPic: guestPic238.jpg
@@ -42,6 +41,7 @@ track7:
   title: Tom Misch & FKJ - Losing My Way
   color: vibrant
   link: https://sounds.mailta.pe/238/track7.mp3
+release: 238
 ---
 This morning, we will enjoy a tasty breakfast prepared with love by our guest Mélanie Pain. The more I listen to French music that comes out theses days, the more I'm proud of the artists we have. Mélanie Pain is one of them.
 Her new album, 'Parachute', came out in October. She unveils her fears and thoughts with such poetry, it made me shiver. Today's tape is full of surprises and risks.

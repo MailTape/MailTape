@@ -5,7 +5,6 @@ published: true
 author: Anaïs G
 illustrator: Julie Wojtczak
 writer: Anaïs G
-category: "448"
 guest_name: Northwest
 guest_color: vibrant
 guestPic: guestPic448.jpg
@@ -44,6 +43,7 @@ track7:
   title: "Foxtrott - Intuition "
   color: vibrant
   link: https://sounds.mailta.pe/missingTrack.mp3
+release: 448
 ---
 
 <p id="introduction">

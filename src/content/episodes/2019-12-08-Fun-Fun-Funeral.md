@@ -3,7 +3,6 @@ bigTitle_font_ratio: "6"
 published: true
 illustrator: Camille Célestin
 writer: Anaïs G
-category: "383"
 guest_name: Fun Fun Funeral
 guest_color: dreamy
 guestPic: guestPic383.jpg
@@ -45,6 +44,7 @@ track7:
   title: "Samana - Harvest "
   color: vibrant
   link: https://sounds.mailta.pe/383/track7.mp3
+release: 383
 ---
 This morning, the climate is one of grumbling and discontent. Voices are being raised in the streets to try to make things happen, to have a decent life and above all to respecte as such and according to our professions. Fortunately, we have the [Fun Fun Funeral](https://funfunfuneral.bandcamp.com/) selection to soo the tensions and put some balm to the heart. 
 <br><br>

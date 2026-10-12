@@ -3,7 +3,6 @@ bigTitle_font_ratio: "6"
 guestPic: guestPic387.jpg
 guest_color: trippy
 guest_name: Bobun Fever
-category: "387"
 writer: Anaïs G
 illustrator: Pierre-Julien Fieux
 author: Anaïs G
@@ -45,6 +44,7 @@ track7:
   title: Nubiyan Twist - Tell It To Me Slowly
   color: bliss
   link: https://sounds.mailta.pe/387/track7.mp3
+release: 387
 ---
 
  This morning, we are optimistic, it is a new year full of hope and discovery. It's one of the MailTape crew's promises, more music, always with the desire to share new bands, and to love your Sunday morning. To honour the year 2020, nothing better than [Bobun Fever](https://www.facebook.com/bobunfever/) to put chili instead of sugar in your coffee! 

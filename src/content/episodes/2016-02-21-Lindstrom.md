@@ -2,7 +2,6 @@
 curator: Maxime
 illustrator: William Girault
 writer: Maxime
-category: "205"
 guest_name: Lindstrøm
 guest_color: trippy
 bigTitle_font_ratio: "6"
@@ -42,6 +41,7 @@ track7:
   title: Social Lovers - Can't Let It Go
   color: vibrant
   link: https://sounds.mailta.pe/205/track7.mp3
+release: 205
 ---
 
 

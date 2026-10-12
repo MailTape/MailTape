@@ -1,7 +1,6 @@
 ---
 bigTitle_font_ratio: "6"
 published: true
-category: "261"
 author: Sanjay Mistry
 guest_color: trippy
 episode_URL: http://mailta.pe/261/Nate-Wooley/
@@ -42,6 +41,7 @@ track7:
   title: Susana Santos Silva & Kaja Draksler - Hymn to the Unknown
   color: bliss
   link: https://sounds.mailta.pe/261/track7.mp3
+release: 261
 ---
 We are super happy to welcome experimental trumpeter, [Nate Wooley](http://natewooley.com/), in this week's issue. His previous albums range from abstract renditions of Wynton Marsalis tunes to particularly harsh versions of free jazz with obscure multi-phonic trumpet chops juxtaposed with distorted extended techniques.
 <p>This morning, Nate recalls the rain-soaked Pacific Northwest he once called home and provides a glimpse into his gentler Sunday morning listening.

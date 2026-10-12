@@ -4,7 +4,6 @@ author: Julien
 guest_color: vibrant
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
-category: "144"
 guest_name: Clément Bazin
 episode_URL: http://mailta.pe/144/Clement-Bazin/
 guestPic: guestPic144.jpg
@@ -42,6 +41,7 @@ track7:
   title: Taylor McFerrin - The Antidote (feat. Nai Palm)
   color: bliss
   link: https://sounds.mailta.pe/144/track7.mp3
+release: 144
 ---
 
 

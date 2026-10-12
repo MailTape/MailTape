@@ -1,7 +1,6 @@
 ---
 published: true
 pubDate: 2025-10-12
-category: "593"
 guest_name: Zeid Hamdan
 guest_color: vibrant
 guestPic: guestpic593.jpg
@@ -46,6 +45,7 @@ track7:
   title: TootArd - Syrian Blues
   color: bliss
   link: https://sounds.mailta.pe/593/track7.mp3
+release: 593
 ---
 This morning, we are delighted to welcome [Zeid Hamdan](https://soundcloud.com/zeidhamdan) for a playlist shaped by sounds both fragile and powerful. His music moves in a space of contrasts: minimal beats that leave room for silence, layered textures that feel light and dense, tender, melancholic, but always full of light, pushing through the cracks. From his early work with [Soapkills](https://soapkills.bandcamp.com/album/the-best-of) to his more recent projects, Zeid Hamdan continues to create unforgettable soundscapes.You’ll also be able to hear it live in Paris, at La Flèche d’Or on October 23.
 

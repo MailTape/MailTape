@@ -4,7 +4,6 @@ published: true
 author: Sanjay Mistry
 illustrator: Anais Caura
 writer: Sanjay Mistry
-category: "284"
 guest_name: Cassie Kinoshi
 guest_color: dreamy
 episode_URL: http://mailta.pe/284/cassie-kinoshi/
@@ -44,6 +43,7 @@ track7:
   title: Moses Boyd Exodus – Nocturne
   color: dreamy
   link: https://sounds.mailta.pe/284/track7.mp3
+release: 284
 ---
 This morning's guest, [Cassie Kinoshi](http://www.cassiekinoshi.com/), is known primarily for her work with jazz septet [Nérija](http://www.nerijamusic.com/), Afrobeat band [Kokoroko](https://www.facebook.com/kokorokomusic/?fref=ts) and her own large ensemble, [SEED](https://www.facebook.com/seedensemble/?fref=ts). We are thrilled to present her Sunday morning jams in collaboration with MailTape!
 <p>Her most recent ventures include a Sound and Music funded series of events with her ensemble SEED (Driftglass), as well as the position of sole composer for The Old Vic Theatre's professional development programme 2016–17.

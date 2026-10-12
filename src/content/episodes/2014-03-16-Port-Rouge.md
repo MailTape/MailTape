@@ -8,7 +8,6 @@ description: Randomly browsing the web often ends up with nice discoveries. If
   you've been lucky enough, you may have already crossed Port Rouge's path. If
   not, let us introduce you to this talented 21 years old swedish dude who makes
   sweet, clean and suttle deep music.
-category: "132"
 guest_name: Port Rouge
 episode_URL: http://mailta.pe/132/Port-Rouge/
 guestPic: guestPic132.jpg
@@ -43,6 +42,7 @@ track7:
   title: Nils Frahm - You (Teen Daze Rework)
   color: dreamy
   link: https://sounds.mailta.pe/132/track7.mp3
+release: 132
 ---
 
 

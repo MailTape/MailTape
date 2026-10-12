@@ -4,7 +4,6 @@ published: true
 author: Charlotte
 illustrator: Pierre-Julien Fieux
 writer: Charlotte
-category: "318"
 guest_name: Fragrance.
 guest_color: dreamy
 episode_URL: https://www.mailta.pe/318/fragrance/
@@ -47,6 +46,7 @@ track7:
   title: Sputnik Beeping
   color: bliss
   link: https://sounds.mailta.pe/318/track7.mp3
+release: 318
 ---
 This morning we welcome [Fragrance.](https://fragrancemusic.bandcamp.com/album/dust-disorders-ep), Matthieu Roche’s solo project for a MailTape between the coast of Saint-Malo and somewhere in the infinite space.
 <p>Quite ambiguous, Fragrance.’s synth pop songs oscillate between asserted mainstream influences (he released an amazing cover of Gala’s Freed From Desire) and lo-fi music, in the same way that his melancholic voice and dancing beats are mixed: you never really know how you should feel when you listen them.

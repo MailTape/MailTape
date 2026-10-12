@@ -2,7 +2,6 @@
 bigTitle_font_ratio: "6"
 published: true
 author: Sanjay Mistry
-category: "258"
 guest_name: Alexander Hawkins
 guest_color: dreamy
 episode_URL: http://mailta.pe/258/Alexander-Hawkins/
@@ -42,6 +41,7 @@ track7:
   title: Stefan Christoff & David Parker - Beyond Injustice
   color: dreamy
   link: https://sounds.mailta.pe/258/track7.mp3
+release: 258
 ---
 This morning, we are thrilled to welcome pianist, organist, composer and bandleader, [Alexander Hawkins](http://www.alexanderhawkinsmusic.com/index.html), who is ‘unlike anything else in modern creative music’ (Ni Kantu).
 <p>Operating in myriad creative contexts (including [Convergence Quartet](http://www.alexanderhawkinsmusic.com/the-convergence-quartet.html), [Decoy](http://www.alexanderhawkinsmusic.com/decoy.html) and the [Alexander Hawkins Ensemble](http://www.alexanderhawkinsmusic.com/alexander-hawkins-ensemble.html)), his own highly distinctive soundworld is forged through the search to reconcile both his love of free improvisation and his profound fascination with composition and structure.

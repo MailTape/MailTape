@@ -4,7 +4,6 @@ published: true
 author: ImaCrea
 illustrator: Meriam Kharbat
 writer: ImaCrea
-category: "520"
 guest_name: Alexi Shell
 guest_color: vibrant
 guestPic: guestPic520.png
@@ -45,6 +44,7 @@ track7:
   title: DJ Python - I'm Tired
   color: trippy
   link: https://sounds.mailta.pe/520/track7.mp3
+release: 520
 ---
 This morning, we're very excited to have [Alexi Shell](https://alexishell.bandcamp.com/album/sirens) with us. Her selection full of positive vibes and raw energy is simply perfect to start the new month. Spring is coming, let's dance to welcome the 23rd spring of the millennium! And for our friends who live on the other side of the planet, this will make a great one to keep the summer going on solid. With much love.
 

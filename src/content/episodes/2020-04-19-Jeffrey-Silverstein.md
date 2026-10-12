@@ -4,7 +4,6 @@ published: true
 author: Jules
 illustrator: Thibault Daumain
 writer: Jules
-category: "402"
 guest_name: Jeffrey Silverstein
 guest_color: bliss
 episode_URL: https://www.mailta.pe/402/jeffrey-silverstein/
@@ -44,6 +43,7 @@ track7:
   title: Rideau - Le Ciel, le Soleil et la Mer
   color: trippy
   link: https://sounds.mailta.pe/402/track7.mp3
+release: 402
 ---
  This morning we are still confined and condemned to look at the sky behind our windows. Luckily, [Jeffrey Silverstein](https://jeffreysilverstein.bandcamp.com/) is here to guide us on a peaceful hike in the heart of our inner mountain. Time to lie down, breathe slowly, and start drawing the landscapes that will allow you to escape. 
 <br><br>

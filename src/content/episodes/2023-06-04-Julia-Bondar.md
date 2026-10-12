@@ -4,7 +4,6 @@ published: true
 author: Anto
 illustrator: Lucie Fléty
 writer: Anto
-category: "529"
 guest_name: Julia Bondar
 guest_color: rough
 guestPic: guestPic529.jpg
@@ -43,6 +42,7 @@ track7:
   title: Dampa – Clubs
   color: vibrant
   link: https://sounds.mailta.pe/529/track7.mp3
+release: 529
 ---
 
 This morning... Oh wait ! It’s morning already ?

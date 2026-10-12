@@ -4,7 +4,6 @@ author: Julien
 guest_color: trippy
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
-category: "192"
 guest_name: Indian Wells
 episode_URL: http://mailta.pe/192/Indian-Wells/
 guestPic: guestPic192.jpg
@@ -43,6 +42,7 @@ track7:
   title: The Soul Motivators - Aftermath
   color: vibrant
   link: https://sounds.mailta.pe/192/track7.mp3
+release: 192
 ---
 
 

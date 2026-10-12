@@ -10,7 +10,6 @@ episode_URL: http://mailta.pe/458/ratamard-clan/
 musiColor: musiColor458.png
 image: https://www.mailta.pe/img/fbPic458.png
 illustrator: Noémie Dijon
-category: "458"
 description: This morning,we are tired, exhausted and washed away by this
   complicated year but finally ready for his much-deserved great holiday. It is
   with the joy of the world before that we will spend this Sunday with the
@@ -44,6 +43,7 @@ track7:
   title: Lombre - Espoir Noir
   color: vibrant
   link: https://sounds.mailta.pe/458/track7.mp3
+release: 458
 ---
 
 This morning,we are tired, exhausted and washed away by this complicated year but finally ready for his much-deserved great holiday. It is with the joy of the world before that we will spend this Sunday with the [Ratamard Clan](https://www.facebook.com/Ratamardclan/) group. 

@@ -4,7 +4,6 @@ published: true
 author: Sanjay Mistry
 illustrator: Camille Célestin
 writer: Sanjay Mistry
-category: "332"
 guest_name: Sara Serpa
 guest_color: bliss
 episode_URL: http://mailta.pe/332/sara-serpa/
@@ -42,6 +41,7 @@ track7:
   title: Meeta Pandit – Thumri Pilu (Live)
   color: dreamy
   link: https://sounds.mailta.pe/332/track7.mp3
+release: 332
 ---
 This morning we welcome vocalist and composer [Sara Serpa](https://www.saraserpa.com/) to pick three Sunday morning musical selections for us.
 <br><br>

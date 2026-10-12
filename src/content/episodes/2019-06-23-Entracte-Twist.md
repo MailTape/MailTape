@@ -4,7 +4,6 @@ published: true
 author: Anaïs G
 illustrator: Camille Célestin
 writer: Anaïs G
-category: "363"
 guest_name: Entracte Twist
 episode_URL: http://mailta.pe/363/Entracte-Twist/
 guestPic: guestPic363.jpg
@@ -45,6 +44,7 @@ track7:
   title: The Fat White Family - Tastes Good With The Money
   color: trippy
   link: https://sounds.mailta.pe/363/Track7.mp3
+release: 363
 ---
  This morning, we take out the guitars, adjust our strings test the sound with the amp in boring neighbors...  And let our fingers slide so that we can wake up our faithful on Sunday morning.
 <br><br>

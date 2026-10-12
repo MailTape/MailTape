@@ -6,7 +6,6 @@ illustrator: Aoife Comey
 writer: Daisy
 guest_name: Linda Buckley
 guest_color: dreamy
-category: "236"
 episode_URL: https://www.mailta.pe/236/Linda-Buckley/
 guestPic: guestPic236.jpg
 image: https://www.mailta.pe/img/fbPic236.jpg
@@ -47,6 +46,7 @@ track7:
   title: Allison Cameron - 3rds, 4ths & 5ths
   color: bliss
   link: https://sounds.mailta.pe/236/track7.mp3
+release: 236
 ---
 
 This morning, let yourself be cocooned in the beautiful strands of sound woven together by our guest, [Linda Buckley](http://www.lindabuckley.org/). Resist the day for just a few minutes longer, as your consciousness oscillates with the ebb and flow of each track. Linda Buckley knows just how to tap into the dreamy ether, gently pulling opening doors to sonic worlds whose tendrils reach out, imploring you to join them. Close your eyes, slow your breathing, and let the sound vortex move you.

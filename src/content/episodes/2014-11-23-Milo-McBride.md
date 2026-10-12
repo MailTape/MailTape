@@ -4,7 +4,6 @@ author: ImaCrea
 guest_color: trippy
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "0.6"
-category: "161"
 guest_name: Milo McBride
 guestPic: guestPic161.jpg
 image: https://www.mailta.pe/img/fbPic161.jpg
@@ -44,6 +43,7 @@ track7:
   title: David Douglas - Moon Observations (Henry Saiz Remix)
   color: bliss
   link: https://sounds.mailta.pe/161/track7.mp3
+release: 161
 ---
 
 With this week’s MailTape we have made yet another discovery, featuring an inspired music producer from New York who, along with his groundbreaking selection, is all set to take you on an oracular journey of beats and rhythms, so fasten up your seatbelts and get ready because this Sunday we will be onboard and flying with [Milo McBride](https://soundcloud.com/milomcbride "Milo's SoundCloud").   

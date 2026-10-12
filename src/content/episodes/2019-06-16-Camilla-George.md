@@ -4,7 +4,6 @@ published: true
 author: Sanjay Mistry
 illustrator: Anthony Dujardin
 writer: Sanjay Mistry
-category: "362"
 guest_name: Camilla George
 guest_color: dreamy
 guestPic: guestPic362.jpg
@@ -44,6 +43,7 @@ track7:
   title: Sarathy Korwar & Upaj Collective – Journey in Satchidananda
   color: trippy
   link: https://sounds.mailta.pe/362/track7.mp3
+release: 362
 ---
  This morning we welcome London-based saxophonist and composer, [Camilla George](http://camillageorge.com/), to select three Sunday morning tunes that include some of her inspirations and collaborations.
 <br><br>

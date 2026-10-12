@@ -2,7 +2,6 @@
 author: PS KY
 illustrator: Camille Célestin
 writer: PS KY
-category: "215"
 guest_name: "Guru Fiction "
 guest_color: vibrant
 bigTitle_font_ratio: "6"
@@ -48,6 +47,7 @@ track7:
   title: Octave Lissner - Silver Rain
   color: dreamy
   link: https://sounds.mailta.pe/215/track7.mp3
+release: 215
 ---
 
 

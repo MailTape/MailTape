@@ -3,7 +3,6 @@ bigTitle_font_ratio: "6"
 author: Anto
 illustrator: Camille Lemeunier
 writer: Anto
-category: "547"
 guest_name: Le Véritable Ariel Toko
 guest_color: bliss
 guestPic: guestPic547.jpg
@@ -44,6 +43,7 @@ track7:
   title: Black Masters Band - Wonnim A Bisa
   color: bliss
   link: https://sounds.mailta.pe/547/track7.mp3
+release: 547
 ---
 
 This morning, we follow in the footsteps of irresistible music synonymous with softness and heat. If Africa is the birthplace of humankind, we will see in this episode that it has also pampered some rhythms which continue to inspire artists from around the world.

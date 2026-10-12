@@ -2,7 +2,6 @@
 author: Maxime
 illustrator: William Girault
 writer: Maxime
-category: "214"
 guest_name: Michelle Blades
 guest_color: dreamy
 bigTitle_font_ratio: "6"
@@ -44,6 +43,7 @@ track7:
   title: Fatnotronic & In Flagranti - Botoque
   color: vibrant
   link: https://sounds.mailta.pe/214/track7.mp3
+release: 214
 ---
  Hello there, this morning we're gonna talk about the world. I mean, talk about Michelle Blades, a mexicano-Panamanian woman who lived in the USA, then moved to Paris since 2012. It's quite the same than talking about globalization. Let's talk about the world of Michelle Blades. 
 

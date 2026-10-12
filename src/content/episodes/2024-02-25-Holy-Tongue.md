@@ -4,7 +4,6 @@ published: true
 author: ImaCrea
 illustrator: Patricia de Miranda
 writer: ImaCrea
-category: "548"
 guest_name: Holy Tongue
 guest_color: trippy
 guestPic: guestPic548.jpg
@@ -46,6 +45,7 @@ track7:
   title: Chafouin - En mode Glass
   color: bliss
   link: https://sounds.mailta.pe/548/track7.mp3
+release: 548
 ---
 
 We're overjoyed to welcome [Holy Tongue](https://amidahrecords.bandcamp.com/album/deliveTongue) as our guests 

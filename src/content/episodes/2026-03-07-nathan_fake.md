@@ -1,7 +1,6 @@
 ---
 published: true
 pubDate: 2026-03-08
-category: "606"
 guest_name: Nathan Fake
 guest_color: trippy
 guestPic: guestpic606.jpg
@@ -46,6 +45,7 @@ track7:
   title: Nuevos Rios - Si Yo Fuera
   color: trippy
   link: https://sounds.mailta.pe/606/track7.mp3
+release: 606
 ---
 This morning, we dive into a collection curated by our dear guest [Nathan Fake](https://nathanfake.bandcamp.com/album/evaporator). You'll experience a rich tapestry of sounds that evoke the warmth of the coming spring days and the exploration of otherworldly landscapes. This episode includes tracks that showcase not only artistic brilliance but also personal and soulful evocations.
 

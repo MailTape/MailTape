@@ -1,7 +1,6 @@
 ---
 bigTitle_font_ratio: "6"
 published: true
-category: "249"
 author: Sanjay Mistry
 illustrator: Pierre-Julien Fieux
 guest_name: Sarathy Korwar
@@ -42,6 +41,7 @@ track7:
   title: Dafnis Prieto Si O Si Quaret - Si O Si
   color: bliss
   link: https://sounds.mailta.pe/249/track7.mp3
+release: 249
 ---
 This morning, transcend borders with mantras, untethered saxophones, keys, and an unfettered groove from our guest, percussionist and composer, [Sarathy Korwar](http://www.sarathykorwar.com/).
 

@@ -1,7 +1,6 @@
 ---
 bigTitle_font_ratio: "6"
 published: true
-category: "478"
 guest_name: Temple Rat
 guest_color: bliss
 episode_URL: https://www.mailta.pe/478/Temple-Rat/
@@ -41,6 +40,7 @@ track7:
   title: Kaishandao - To the East Coast
   color: bliss
   link: https://sounds.mailta.pe/478/track7.mp3
+release: 478
 ---
  This morning, we wake up with some grooves with [Temple Rat](https://www.instagram.com/meiyuxinmay).
 <br><br>

@@ -4,7 +4,6 @@ published: true
 author: Anaïs G
 illustrator: Camille Célestin
 writer: Anaïs G
-category: "470"
 guest_name: Rémi Parson
 guestPic: guestPic470.jpg
 guest_color: rough
@@ -46,6 +45,7 @@ track7:
   title: Francoiz Breut - Juste de passage
   color: vibrant
   link: https://sounds.mailta.pe/470/track7.mp3
+release: 470
 ---
  This morning, We sneak into the city, at the first hour, with the partygoers coming back from their afternoons but also market gardeners preparing their stalls. Later in the morning, we get intoxicated by the smell of early morning coffee and the discussions of the little old people on the terraces of the cafés. It is with this emulsion of people on the move that we are driven to listen to [Rémi Parson’s](https://remiparson.bandcamp.com/album/pour-un-empire) selection.
 <br><br>

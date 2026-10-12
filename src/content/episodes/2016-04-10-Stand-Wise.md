@@ -2,7 +2,6 @@
 author: Olivier
 illustrator: Camille Célestin
 writer: PS KY
-category: "212"
 guest_name: Stand Wise
 guest_color: vibrant
 bigTitle_font_ratio: "6"
@@ -43,6 +42,7 @@ track7:
   title: Ambassadeurs - Willows Lullaby
   color: dreamy
   link: https://sounds.mailta.pe/212/track7.mp3
+release: 212
 ---
 
 

@@ -4,7 +4,6 @@ published: true
 author: Sanjay Mistry
 illustrator: Camille Célestin
 writer: Sanjay Mistry
-category: "323"
 guest_name: Loraine James
 guest_color: trippy
 episode_URL: http://mailta.pe/323/loraine-james/
@@ -42,6 +41,7 @@ track7:
   title: Secret Mommy – Clothing Racks (Sears)
   color: trippy
   link: https://sounds.mailta.pe/323/track7.mp3
+release: 323
 ---
 This week we are delighted to welcome London-based electronic musician [Loraine James](https://soundcloud.com/lorainejames), who selects some groovy Sunday morning chops for us.
 <p>Influenced by artists such as Aoki Takamasa, Telefon Tel Aviv and Circa Survive, Loraine crafts organic textures through inorganic means. In her own words, she's making music that is 'sometimes glitch, sometimes ambient—and sometimes in-between electronic music'. Her debut 2017 album, [Detail](https://lorainejames.bandcamp.com/album/detail), is also out now.

@@ -4,7 +4,6 @@ published: true
 author: Sanjay Mistry
 illustrator: Camille Célestin
 writer: Sanjay Mistry
-category: "369"
 guest_name: Maria Chiara Argirò
 guest_color: bliss
 episode_URL: http://mailta.pe/369/maria-chiara-argiro/
@@ -43,6 +42,7 @@ track7:
   title: Lifted – Rose 31
   color: bliss
   link: https://sounds.mailta.pe/369/track7.mp3
+release: 369
 ---
 Welcome back to another season of MailTape! This morning we introduce the London-based pianist and composer, [Maria Chiara Argirò](https://www.mariachiaramusic.com/), who kicks things off again with three Sunday morning tunes.
 <br><br>

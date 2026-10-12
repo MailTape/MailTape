@@ -4,7 +4,6 @@ published: true
 author: Charlotte
 illustrator: Camille Célestin
 writer: Charlotte
-category: "316"
 guest_name: Operator Music Band
 guest_color: rough
 episode_URL: https://www.mailta.pe/316/operator-music-band/
@@ -47,6 +46,7 @@ track7:
   title: Abner Jay - Saint James Infirmary Blues
   color: dreamy
   link: https://sounds.mailta.pe/316/track7.mp3
+release: 316
 ---
 This morning, we are delighted to welcome [Operator Music Band](https://operatormusicband.bandcamp.com/), an art-pop quartet from New York.
 <p>Their music sounds like a tesseract, a nicely intriguing and quite complex geometric figure from the fourth dimension that can be very surrealistic at first sight. But then, among other things, you will perceive a deep love for analogue synths, an interesting sense of humor, a vocal and instrumental surgical precision, no matter if you suck at mathematics.

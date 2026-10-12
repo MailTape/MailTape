@@ -4,7 +4,6 @@ published: true
 author: Sarah
 illustrator: Julie Wojtczak
 writer: Sarah
-category: "486"
 guest_name: Jesse Adelman
 guest_color: dreamy
 guestPic: guestPic486.jpg
@@ -45,6 +44,7 @@ track7:
   title: Johanna Samuels, Ohtis - Via Chicago
   color: vibrant
   link: https://sounds.mailta.pe/486/track7.mp3
+release: 486
 ---
 Today, we welcome [Jesse Adelman](https://jesseadelman.bandcamp.com/) for a collection of easy moving tracks to start your Sunday. Multi-instrumentalist songwriter based in the Bronx, Jesse released his solo debut album, [Strangers](https://jesseadelman.bandcamp.com/album/strangers), in December of last year. Influenced by classic 70's rock, folk, and alt-Western music, this album is a world of sound to listen through, a pleasure to the end.
   <br><br>

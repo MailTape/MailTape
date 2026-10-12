@@ -108,7 +108,7 @@ const members = sortByName(crew);
             posts.map((episode:any)=>(
                 <div class="w-fit flex flex-col gap-1">
                     <a href=`/${ slugEp(episode) }` 
-                    title=`Écouter l'épisode #${episode.data.category} avec ${episode.data.guest_name}`
+                    title=`Écouter l'épisode #${episode.data.release} avec ${episode.data.guest_name}`
                     class="drop-shadow-lg relative rounded-md bg-gray-200 w-56 min-h-56 mb-3 hover:-translate-y-0.5 hover:drop-shadow-xl active:translate-y-0.5 active:drop-shadow-none transition-all">
                         <div>
                             <Picture 
@@ -123,7 +123,7 @@ const members = sortByName(crew);
                             <Picture
                             class="absolute w-full -bottom-1 border-t-2 border-b-2 bg-white rounded-b-md"
                             src=`//wsrv.nl/?url=ssl:www.mailta.pe/img/${episode.data.musiColor}&w=230&fit=contain&il&output=webp`
-                            alt=`MusiColor of the episode ${episode.data.category}`
+                            alt=`MusiColor of the episode ${episode.data.release}`
                             width="230"
                             height="20"
                             loading='lazy'
@@ -133,7 +133,7 @@ const members = sortByName(crew);
                         </div>
                     </a>
                     
-                    <p class="text-center text-xl text-grey font-heading">EPISODE #{ episode.data.category }
+                    <p class="text-center text-xl text-grey font-heading">EPISODE #{ episode.data.release }
                         <br>{ stringifyPubDate(episode.data.pubDate,"compact") }
                     </p>
                     <p class="text-center font-body font-light text-sm italic">
@@ -161,10 +161,10 @@ const members = sortByName(crew);
 
         {
             posts.map((episode:any)=>(
-                episode.data.category === "558" ? (
+                episode.data.release === "558" ? (
                     <div class="w-fit flex flex-col gap-1 max-lg:order-2">
                         <a href=`/${ slugEp(episode) }` 
-                        title=`Écouter l'épisode #${episode.data.category} avec ${episode.data.guest_name}`
+                        title=`Écouter l'épisode #${episode.data.release} avec ${episode.data.guest_name}`
                         class="drop-shadow-lg w-60 lg:w-96 rounded-md relative bg-gray-200 min-h-60 lg:min-h-96 mb-3 hover:-translate-y-0.5 hover:drop-shadow-xl active:translate-y-0.5 active:drop-shadow-none transition-all">
                             <div>
                                 <Picture 
@@ -178,7 +178,7 @@ const members = sortByName(crew);
                                 <Picture
                                 class="w-full absolute -bottom-1 border-t-2 border-b-2 bg-white rounded-b-md"
                                 src=`//wsrv.nl/?url=ssl:www.mailta.pe/img/${episode.data.musiColor}&w=380&fit=contain&il&output=webp`
-                                alt=`MusiColor of the episode ${episode.data.category}`
+                                alt=`MusiColor of the episode ${episode.data.release}`
                                 width="380"
                                 height="30"
                                 loading='lazy'
@@ -213,10 +213,10 @@ const members = sortByName(crew);
 
             {
                 posts.map((episode:any)=>(
-                    episode.data.category === "552" ? (
+                    episode.data.release === "552" ? (
                         <div class="w-fit flex flex-col gap-1 max-lg:order-2">
                             <a href=`/${ slugEp(episode) }`
-                            title=`Écouter l'épisode #${episode.data.category} avec ${episode.data.guest_name}`
+                            title=`Écouter l'épisode #${episode.data.release} avec ${episode.data.guest_name}`
                             class="drop-shadow-lg w-60 lg:w-72 rounded-md relative bg-gray-200 min-h-60 lg:min-h-72 mb-3 hover:-translate-y-0.5 hover:drop-shadow-xl active:translate-y-0.5 active:drop-shadow-none transition-all">
                                 <div>
                                 <Picture 
@@ -230,7 +230,7 @@ const members = sortByName(crew);
                                 <Picture
                                 class="w-full absolute -bottom-1 border-t-2 border-b-2 bg-white rounded-b-md"
                                 src=`//wsrv.nl/?url=ssl:www.mailta.pe/img/${episode.data.musiColor}&w=380&fit=contain&il&output=webp`
-                                alt=`MusiColor of the episode ${episode.data.category}`
+                                alt=`MusiColor of the episode ${episode.data.release}`
                                 width="380"
                                 height="30"
                                 loading='lazy'
@@ -264,10 +264,10 @@ const members = sortByName(crew);
 
             {
                 posts.map((episode:any)=>(
-                    episode.data.category === "545" ? (
+                    episode.data.release === "545" ? (
                         <div class="w-fit flex flex-col gap-1 max-lg:order-2">
                             <a href=`/${ slugEp(episode) }` 
-                            title=`Écouter l'épisode #${episode.data.category} avec ${episode.data.guest_name}`
+                            title=`Écouter l'épisode #${episode.data.release} avec ${episode.data.guest_name}`
                             class="drop-shadow-lg w-60 lg:w-72 rounded-md relative bg-gray-200 min-h-60 lg:min-h-72 mb-3 hover:-translate-y-0.5 hover:drop-shadow-xl active:translate-y-0.5 active:drop-shadow-none transition-all">
                                 <div>
                                 <Picture 
@@ -281,7 +281,7 @@ const members = sortByName(crew);
                                 <Picture
                                 class="w-full absolute -bottom-1 border-t-2 border-b-2 bg-white rounded-b-md"
                                 src=`//wsrv.nl/?url=ssl:www.mailta.pe/img/${episode.data.musiColor}&w=380&fit=contain&il&output=webp`
-                                alt=`MusiColor of the episode ${episode.data.category}`
+                                alt=`MusiColor of the episode ${episode.data.release}`
                                 width="380"
                                 height="30"
                                 loading='lazy'

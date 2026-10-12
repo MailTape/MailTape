@@ -1,7 +1,6 @@
 ---
 published: true
 pubDate: 2024-12-08
-category: "569"
 guest_name: Polygonia
 guest_color: dreamy
 guestPic: guestpic569.jpg
@@ -39,6 +38,7 @@ track7:
   title: Polygonia - Inhaler
   color: dreamy
   link: https://sounds.mailta.pe/569/track7.mp3
+release: 569
 ---
 Polygonia joins us for Episode 569, gifting MailTape some immersive textures for Sunday listening :) Headed by multi-disciplinary artist Lindsey Wang, Polygonia's releases tread seamlessly between ethereal ambient and deep techno. The Munich-based artist joins us following the release of her latest album, [Dermatology](https://rrose.bandcamp.com/album/dermatology).
 

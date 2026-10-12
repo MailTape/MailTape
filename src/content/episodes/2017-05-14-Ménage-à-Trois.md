@@ -4,7 +4,6 @@ published: true
 author: Dimitri
 illustrator: Camille Célestin
 writer: PS KY
-category: "260"
 guest_name: Ménage à Trois
 guestPic: guestPic2601.jpg
 episode_URL: https://www.mailta.pe/260/Ménage-à-Trois/
@@ -43,6 +42,7 @@ track7:
   title: Dave Depper - Do You Want Love?
   color: trippy
   link: https://sounds.mailta.pe/260/track7.mp3
+release: 260
 ---
 Bright and delightful morning to the masses and the listeners, to the frequency lovers and addicted souls of the music empire. Today, [Ménage à Trois](https://www.facebook.com/threesistersinlove/) will tickle you with their harmonious selection and singular sound.
 

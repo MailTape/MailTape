@@ -4,7 +4,6 @@ published: true
 author: ImaCrea
 illustrator: Camille Célestin
 writer: ImaCrea
-category: "543"
 guest_name: Diamanda La Berge Dramm
 guest_color: bliss
 guestPic: guestPic543.jpg
@@ -45,6 +44,7 @@ track7:
   title: KONG - Yellow King Walking to Take Revenge
   color: vibrant
   link: https://sounds.mailta.pe/543/track7.mp3
+release: 543
 ---
 
 This morning, we're welcoming [Diamanda La Berge Dramm](https://diamandadramm.com/) as our guest. Known as one of the leading contemporary classical music performers of her generation, I had the chance to discover her performing in recent pieces by Susanne Kennedy showcased in Paris. Her portrayal of Einstein in the famous opera piece *Einstein on the Beach*, composed by Philip Glass, was one of my musical highlights of 2023.

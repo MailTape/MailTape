@@ -4,7 +4,6 @@ published: true
 author: Sanjay Mistry
 illustrator: Anthony Dujardin
 writer: Sanjay Mistry
-category: "340"
 guest_name: Analog Tara
 guest_color: vibrant
 episode_URL: http://mailta.pe/340/analog-tara/
@@ -43,6 +42,7 @@ track7:
   title: Moor Mother – Time Floats (King Britt remix)
   color: dreamy
   link: https://sounds.mailta.pe/340/track7.mp3
+release: 340
 ---
 This morning we are delighted to welcome multi-instrumentalist composer and historian of electronic music and sound, Dr. Tara Rodgers ([Analog Tara](http://www.analogtara.net/wp/)). 
 <br><br>

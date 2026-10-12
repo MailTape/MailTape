@@ -1,7 +1,6 @@
 ---
 published: true
 pubDate: 2026-02-22
-category: "605"
 guest_name: Dj Marrrtin
 guest_color: bliss
 guestPic: dj_marrrtin.jpg
@@ -42,6 +41,7 @@ track7:
   title: Sababa 5 & Yurika - Tokyo Midnight – 東京ミッドナイト
   color: trippy
   link: https://sounds.mailta.pe/605/track7.mp3
+release: 605
 ---
 This morning we have the privilege of welcoming an artist whose work you've probably heard if you've attended a breakdance battle in the last fifteen years. The man is called DJ Marrrtin, but he can also be found hidden behind the suave and psychedelic beats of [Lord Paramour](https://stereophonk.bandcamp.com/album/doom-2), behind the high-energy house of [Aktshun](https://stereophonk.bandcamp.com/album/reloaded), in hip-hop boom-bap style with [Tino](https://stereophonk.bandcamp.com/album/la-pie-bavarde), and obviously within the legendary duo [Funky Bijou](https://stereophonk.bandcamp.com/album/five-2). 
 

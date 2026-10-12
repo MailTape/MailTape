@@ -4,7 +4,6 @@ published: true
 author: ImaCrea
 illustrator: Julie Wojtczak
 writer: ImaCrea
-category: "476"
 guest_name: Uzi Freyja
 guest_color: rough
 guestPic: guestPic476.jpg
@@ -47,6 +46,7 @@ track7:
   title: Blarf - I Dunno
   color: trippy
   link: https://sounds.mailta.pe/476/track7.mp3
+release: 476
 ---
  
 This Sunday, we're extremely happy to start a new year of music discoveries with you and with [Uzi Freyja](https://uzifreyja.bandcamp.com/album/stand). Coming from the house of [WARRIORECCORDS](https://www.warriorecords.com/) ([Mansfield.TYA](https://www.mailta.pe/445/mansfield-tya/), [Maud Geffray](https://www.mailta.pe/281/maud-geffray/)...), prepare for an intense session, a crescendo of energy and vivacity. Music is a universal language from hearts to hearts. A vibration in the air, a light in the darkness. Let's keep that fire strong and alive, here and present. D a n c e. D  a  n   c     e. Dnce. Dce. D. DaNcE* d ddd daa ddA n Cccc ē.

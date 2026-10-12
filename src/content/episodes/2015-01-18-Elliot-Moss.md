@@ -4,7 +4,6 @@ author: ImaCrea
 guest_color: dreamy
 bigTitle_font_ratio: "5"
 bigTitle_line_ratio: "0.7"
-category: "169"
 guest_name: Elliot Moss
 guestPic: guestPic169.jpg
 image: https://www.mailta.pe/img/fbPic169b.jpg
@@ -42,6 +41,7 @@ track7:
   title: Sean Nicholas Savage - Naturally
   color: dreamy
   link: https://sounds.mailta.pe/169/track7.mp3
+release: 169
 ---
 
 This morning, let the young talented [Elliot Moss](https://www.facebook.com/elliotmossmusic "Elliot's on Facebook") and his dreamy inspiration help us in our attempt to get over this hangover we’re all feeling since the 7th. The human brain is a strange thing filled with many secrets, sometimes capable of spreading beautiful light other times capable

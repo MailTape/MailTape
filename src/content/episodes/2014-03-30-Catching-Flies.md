@@ -4,7 +4,6 @@ author: Julien
 guest_color: dreamy
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
-category: "134"
 guest_name: Catching Flies
 episode_URL: http://mailta.pe/134/Catching-Flies/
 guestPic: guestPic134.jpg
@@ -43,6 +42,7 @@ track7:
   title: Ages - mermeladas de barbacoa
   color: vibrant
   link: https://sounds.mailta.pe/134/track7.mp3
+release: 134
 ---
 
 

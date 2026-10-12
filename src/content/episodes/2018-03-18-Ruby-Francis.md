@@ -6,7 +6,6 @@ image: https://www.mailta.pe/img/fbPic304.jpg
 musiColor: musiColor304.png
 author: Louise
 illustrator: William Girault
-category: "304"
 guest_name: Ruby Francis
 guest_color: dreamy
 guestPic: guestpic304ter.jpg
@@ -44,6 +43,7 @@ track7:
   title: King Princess — Sunburn
   color: vibrant
   link: https://sounds.mailta.pe/304/track7.mp3
+release: 304
 ---
 This morning, we welcome London-based singer/songwriter, [Ruby Francis](https://www.instagram.com/ruby_francis/ "Ruby's Instagram feed"), to collaborate with us on MailTape. Merging R&B, 80s & 90s soundscapes and incorporating traces of soul music, we hope you’re just as taken with her infectious sound as we are!
 

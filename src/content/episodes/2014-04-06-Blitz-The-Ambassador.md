@@ -4,7 +4,6 @@ author: ImaCrea
 guest_color: vibrant
 bigTitle_font_ratio: "9"
 bigTitle_line_ratio: "0.5"
-category: "135"
 guest_name: Blitz The Ambassador
 guestPic: guestPic135.jpg
 image: https://www.mailta.pe/img/fbPic135.jpg
@@ -45,6 +44,7 @@ track7:
   title: Simba - Jaywalking (Redsoul remix)
   color: rough
   link: https://sounds.mailta.pe/135/track7.mp3
+release: 135
 ---
 
 

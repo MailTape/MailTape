@@ -9,7 +9,7 @@ const episodes = defineCollection({
 		author: z.string(),
 		illustrator: z.string().optional().nullable(),
 		writer: z.string().optional().nullable(),
-		category: z.string(),
+		release: z.int(),
 		guest_name: z.string(),
 		guest_color: z.string().optional(),
 		guestPic: z.string().optional(),

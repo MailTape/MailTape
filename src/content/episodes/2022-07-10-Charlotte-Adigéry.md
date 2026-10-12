@@ -4,7 +4,6 @@ published: true
 author: Sarah
 illustrator: Anthony Dujardin
 writer: Sarah
-category: "500"
 guest_name: Charlotte Adigéry
 guest_color: vibrant
 guestPic: guestPic500.jpg
@@ -45,6 +44,7 @@ track7:
   title: "Charlotte Adigéry & Bolis Pupul - Reappropriate "
   color: bliss
   link: https://sounds.mailta.pe/500/track7.mp3
+release: 500
 ---
  Our 500th episode of MailTape this morning!! This year and since 2012, we've welcomed so many wonderful guests, sharing love for music with our loyal listeners every Sunday. It's hard not to feel sentimental with this special project of bringing music into peoples' hearts. We hope you've loved these moments as much as we have, cheers to the next 500 :) 
     <br><br>

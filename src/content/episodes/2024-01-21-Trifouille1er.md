@@ -4,7 +4,6 @@ published: true
 author: Anto
 illustrator: Meriam Kharbat
 writer: Anto
-category: "544"
 guest_name: Trifouille1er
 guest_color: vibrant
 guestPic: guestPic544.png
@@ -47,6 +46,7 @@ track7:
   title: Robert le Magnifique – Reulf
   color: bliss
   link: https://sounds.mailta.pe/544/track7.mp3
+release: 544
 ---
 
 Patchwork! This morning we offer you a fun activity with this new Sunday playlist. All you have to do is 1- settle into your best sofa, 2- plug in your headset (since this is the best way to listen a Mail Tape selection) and 3- start playback of today's episode. Well, actually it also works if you play it on your amp while you make yourself a coffee or you put on your running shoes. We are not sectarian at Mail Tape. All means are good to swallow your rations of good vibes.

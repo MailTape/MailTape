@@ -1,7 +1,6 @@
 ---
 bigTitle_font_ratio: "6"
 published: true
-category: "252"
 guest_name: Juliette Armanet
 guest_color: dreamy
 guestPic: guestPic2524.jpg
@@ -42,6 +41,7 @@ track7:
   title: Antenna - Love 66
   color: trippy
   link: https://sounds.mailta.pe/252/track7.mp3
+release: 252
 ---
 This morning, our guest [Juliette Armanet](https://www.facebook.com/JulietteArmanet/) accompanies us on a journey of heart felt tempos and spiced sentiments. "Douceur", if there is one word any non -native French speaker needs to know, it truly is that one. Douceur is the DNA of Juliette Armanet’s voice, like an opium injection distributed at the entrance of a feathered festival hosted by a unicorn floating on a cloud.
 

@@ -4,7 +4,6 @@ published: true
 author: Sarah
 writer: Sarah
 illustrator: Thibault Daumain
-category: "491"
 guest_name: Noon Garden
 guest_color: trippy
 guestPic: guestPic491.jpg
@@ -44,6 +43,7 @@ track7:
   title: Korng phnao , Pan Ron - Pnhaeu samnieng
   color: dreamy
   link: https://sounds.mailta.pe/491/track7.mp3
+release: 491
 ---
 Today, we present a delightful selection of eclectic discoveries to welcome you into your Sunday morning. For this awakening, our dear guest [Noon Garden](https://noon-garden.bandcamp.com/) curates a pass of vibrant tracks to add bouts of energy into these early hours. 
   <br><br>

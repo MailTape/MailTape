@@ -1,7 +1,6 @@
 ---
 bigTitle_font_ratio: "6"
 published: true
-category: "507"
 guest_name: Soren Song
 guest_color: vibrant
 illustrator: Meriam Kharbat
@@ -44,6 +43,7 @@ track7:
   title: Rainbow Kitten Surprise - Polite Company
   color: trippy
   link: https://sounds.mailta.pe/507/track7.mp3
+release: 507
 ---
  With lots of love, this morning we welcome [Soren Song](https://www.sorensong.com/) to MailTape. Based in Rockland County, NY, their work spans indie folk and americana genres, and is absolutely brimming with striking descriptions and deeply perceptive lyricism. It's a true joy to welcome them for a collection of tracks to start your Sunday.
   <br><br>

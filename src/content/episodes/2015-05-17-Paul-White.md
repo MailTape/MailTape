@@ -4,7 +4,6 @@ author: ImaCrea
 guest_color: dreamy
 bigTitle_font_ratio: "5"
 bigTitle_line_ratio: "0.6"
-category: "186"
 guest_name: Paul White
 guestPic: guestPic186.jpg
 episode_URL: http://mailta.pe/186/Paul-White/
@@ -42,6 +41,7 @@ track7:
   title: µ-Ziq - XT
   color: bliss
   link: https://sounds.mailta.pe/186/track7.mp3
+release: 186
 ---
 
 

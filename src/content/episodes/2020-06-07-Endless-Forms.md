@@ -4,7 +4,6 @@ published: true
 author: Sarah
 illustrator: Anthony Dujardin
 writer: Sarah
-category: "409"
 guest_name: Endless Forms
 guest_color: dreamy
 guestPic: guestPic409.jpg
@@ -47,6 +46,7 @@ track7:
   title: Nina Simone - Feelings (Live 1976 Montreux Jazz Festival)
   color: vibrant
   link: https://sounds.mailta.pe/409/track7.mp3
+release: 409
 ---
 We are so excited to welcome [Endless Forms](https://soundcloud.com/endlessforms) to select a Sunday morning playlist with us. 
 

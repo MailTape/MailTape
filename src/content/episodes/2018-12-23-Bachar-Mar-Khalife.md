@@ -1,7 +1,6 @@
 ---
 bigTitle_font_ratio: "6"
 published: true
-category: "337"
 guest_name: Bachar Mar-Khalifé
 guest_color: vibrant
 author: Manon
@@ -45,6 +44,7 @@ track7:
   title: Hamid Al Shaeri - Ayonha
   color: dreamy
   link: https://sounds.mailta.pe/337/track7.mp3
+release: 337
 ---
 This morning we are delighted to welcome Franco-Lebanese singer, songwriter and multi-instrumentalist [Bachar Mar-Khalifé](https://www.facebook.com/bmkhalife/) to pick three Sunday morning musical selections for us.
 <br><br>

@@ -1,7 +1,6 @@
 ---
 published: true
 pubDate: 2024-11-24
-category: "567"
 guest_name: Muriel Grossman
 guest_color: bliss
 guestPic: 567_murielgrossmann.jpg
@@ -56,6 +55,7 @@ track7:
   title: Manu Dibango - Frozen Soul
   color: vibrant
   link: https://sounds.mailta.pe/567/track7.mp3
+release: 567
 ---
 This morning we're playing jazz! And to be more precise, we offer you
 a journey around the saxophone, this instrument whose vibration is

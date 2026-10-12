@@ -4,7 +4,6 @@ author: Julien
 guest_color: vibrant
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
-category: "152"
 guest_name: Harleighblu
 episode_URL: http://mailta.pe/152/Harleighblu/
 guestPic: guestPic152.jpg
@@ -40,6 +39,7 @@ track7:
   title: Sango - Ago (Rvdical Remix)
   color: bliss
   link: https://sounds.mailta.pe/152/track7.mp3
+release: 152
 ---
 
 

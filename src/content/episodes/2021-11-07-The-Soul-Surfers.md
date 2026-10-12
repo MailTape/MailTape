@@ -4,7 +4,6 @@ published: true
 author: Sarah
 illustrator: Julie Wojtczak
 writer: Sarah
-category: "469"
 guest_name: The Soul Surfers
 guest_color: bliss
 musiColor: musiColor469.png
@@ -47,6 +46,7 @@ track7:
   title: Africa Express - Morals
   color: trippy
   link: https://sounds.mailta.pe/469/track7.mp3
+release: 469
 ---
  This morning, we are delighted to welcome [The Soul Surfers](https://soulsurfersubiq.bandcamp.com/) to MailTape for a collection of experimental and exploratory tracks. Led by drummer [Igor Zhukovsky](https://www.discogs.com/artist/2760785-Igor-Zhukovsky), the modern funk band hails from Niznhny Novgorod, Russia. The Soul Surfers craft many exciting albums and collaborations, including with Janko Nilovic for the 2021 album, [Maze of Sounds](https://brocrecordz.bandcamp.com/album/maze-of-sounds). Their selection mirrors much of their own discography, exploring the interesting spaces of synth and funk fusions.
   

@@ -4,7 +4,6 @@ published: true
 author: Jules
 illustrator: Camille Célestin
 writer: Jules
-category: "380"
 guest_name: Corte Real
 guest_color: dreamy
 episode_URL: https://www.mailta.pe/380/corte-real/
@@ -55,6 +54,7 @@ track7:
   title: The Velvet Underground - I Found A Reason
   color: bliss
   link: https://sounds.mailta.pe/380/track7.mp3
+release: 380
 ---
  This morning, we are setting sail again at the very first light of dawn with [Corte Real](https://www.facebook.com/corterealmusic/), without knowing when we will come back. The Versailles-based group is finally releasing its first album "Pays Vaincus" on November 22nd, it includes the track "Opium" that we already featured in our dreamy [353rd episode](https://www.mailta.pe/353/skinshape/).
 <br><br>

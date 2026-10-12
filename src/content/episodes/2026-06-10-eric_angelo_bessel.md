@@ -1,7 +1,6 @@
 ---
 published: true
 pubDate: 2026-06-13
-category: "611"
 guest_name: Eric Angelo Bessel
 guest_color: dreamy
 guestPic: guestpic611.jpg
@@ -44,6 +43,7 @@ track7:
   title: Eric Angelo Bessel - Tendons
   color: bliss
   link: https://sounds.mailta.pe/611/track7.mp3
+release: 611
 ---
 This Sunday we welcome [Eric Angelo Bessel](https://lorecity.bandcamp.com/) to MailTape for a meditative morning. Based in Portland, the composer joins us just after the release of his album, [Mirror at Night](https://lorecity.bandcamp.com/album/mirror-at-night) (as well as the most recent release of the album's [B-Sides](https://lorecity.bandcamp.com/album/mirror-at-night-b-sides) !). 
 

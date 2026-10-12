@@ -4,7 +4,6 @@ published: true
 author: ImaCrea
 illustrator: Camille Célestin
 writer: ImaCrea
-category: "526"
 guest_name: Adela Mede
 guest_color: dreamy
 guestPic: guestPic526.jpg
@@ -45,6 +44,7 @@ track7:
   title: PVAS - Dream Resumption ft. PS
   color: vibrant
   link: https://sounds.mailta.pe/526/track7.mp3
+release: 526
 ---
 
 This morning, we're embarking on a dreamy journey with [Adela Mede](https://adelamede.bandcamp.com/album/szabads-g-3). Her carefully selected tracks take us deep into a smooth and blissful soundscape, allowing us to wake up gently while keeping the dream alive throughout the day. Join us now, and let's set sail on this tranquil musical adventure.

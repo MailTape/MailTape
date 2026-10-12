@@ -4,7 +4,6 @@ published: true
 author: Sanjay Mistry
 illustrator: Pierre-Julien Fieux
 writer: Sanjay Mistry
-category: "302"
 guest_name: Miryam Solomon
 guest_color: bliss
 episode_URL: http://mailta.pe/302/miryam-solomon/
@@ -44,6 +43,7 @@ track7:
   title: Kokoroko – Abusey Junction
   color: bliss
   link: https://sounds.mailta.pe/302/track7.mp3
+release: 302
 ---
 By way of Sweden and Eritrea we welcome London-based singer/songwriter, [Miryam Solomon](https://miryamsolomonmusic.bandcamp.com/), who joins us to provide an eclectic Sunday morning playlist that promises, with any luck, to accompany our sapling-like emergence from the extended winter.
 <p>Merging folk textures with jazz melodies, Miryam followed her debut 2014 EP, [Evergreen](https://miryamsolomonmusic.bandcamp.com/album/evergreen), with her second EP, [Magnolia](https://miryamsolomonmusic.bandcamp.com/album/magnolia), last year. Inspired by feminist psychoanalysis, vocal improvisation, Ghanaian high life and dreams of Scandinavia, Miryam's music is also conjugated by  polyrhythms from drummer Seb Rochford. Shabaka Hutchings on clarinet, bassist Jean Berthon and drummer Tansay Omar also feature.

@@ -4,7 +4,6 @@ published: true
 author: ImaCrea
 illustrator: Lucie Fléty
 writer: ImaCrea
-category: "514"
 guest_name: Patricia Wolf
 guest_color: dreamy
 guestPic: guestPic514.png
@@ -44,6 +43,7 @@ track7:
   title: Félicia Atkinson - Image Langage
   color: dreamy
   link: https://sounds.mailta.pe/514/track7.mp3
+release: 514
 ---
 This morning, we are delighted to welcome [Patricia Wolf](https://patriciawolf.bandcamp.com/) to MailTape. Patricia is a multi-instrumentalist, composer, and producer who draws on her natural surroundings to compose her music. Embark on a pure dreamy experience, sit back, and enjoy.
 

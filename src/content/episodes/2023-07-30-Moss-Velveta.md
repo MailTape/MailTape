@@ -2,7 +2,6 @@
 bigTitle_font_ratio: "6"
 published: true
 guestPic: guestPic533.jpg
-category: "533"
 guest_name: Moss Velveta
 author: Sarah
 illustrator: Nella Papelita
@@ -44,6 +43,7 @@ track7:
   title: "Caroline Shaw & Attaca Quartet - The Evergreen: I. Moss"
   color: dreamy
   link: https://sounds.mailta.pe/533/track7.mp3
+release: 533
 ---
  This Sunday, we take the tread into morning's mist as we welcome the elusive [Moss Velveta](https://www.mossvelveta.com/home) for Episode 533. Presently anonymous, the group's releases strike cinematic intensity, dipping into both baroque dissonances and delicate melodies at once.
 

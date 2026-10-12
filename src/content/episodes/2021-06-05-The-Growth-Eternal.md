@@ -2,7 +2,6 @@
 bigTitle_font_ratio: "6"
 published: true
 guest_name: The Growth Eternal
-category: "454"
 writer: Sarah
 illustrator: Noémie Dijon
 author: Sarah
@@ -43,6 +42,7 @@ track7:
   title: Sam Gendel - Goodbye Pork Pie Hat
   color: trippy
   link: https://sounds.mailta.pe/454/track7.mp3
+release: 454
 ---
 This Sunday, we welcome [The Growth Eternal](https://thegrowtheternal.bandcamp.com/) to MailTape for an eclectic collection to jumpstart your morning :) Based in Los Angeles, [The Growth Eternal](https://thegrowtheternal.bandcamp.com/) is headed by multi-instrumentalist Byron Crenshaw. 
   <br><br>

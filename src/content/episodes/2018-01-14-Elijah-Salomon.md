@@ -4,7 +4,6 @@ published: true
 author: Sanjay Mistry
 illustrator: William Girault
 writer: Sanjay Mistry
-category: "295"
 guest_name: Elijah Salomon
 guest_color: trippy
 episode_URL: http://mailta.pe/295/elijah-salomon/
@@ -44,6 +43,7 @@ track7:
   title: Kabaka Pyramid – No Capitalist
   color: bliss
   link: https://sounds.mailta.pe/295/track7.mp3
+release: 295
 ---
 This morning we welcome multilingual singer, songwriter and musician, [Elijah Salomon](https://www.elijah.ch). With songs in Swiss German, English, Jamaican Patois, Spanish and French, he represents a culture of co-existence without boundaries based on language, religion or nationality.
 <p>While his music has its origins in roots reggae, he has recently complemented it with dub, bossa nova, rap and blues elements. His latest remix album, [Dub Ripe Fruit](https://soundcloud.com/ariwasounds/sets/dub-ripe-fruits-elijah-rajing-fyah-joe-ariwa), is a collaboration with the Jamaican band [Raging Fyah](http://ragingfyah.com/) and [Joe Ariwa](http://ariwa.com/), the son of dub and reggae legend Mad Professor.

@@ -1,7 +1,6 @@
 ---
 published: true
 pubDate: 2025-12-14
-category: "600"
 guest_name: Antoine Ferris
 guest_color: trippy
 guestPic: guestpic600.jpg
@@ -47,6 +46,7 @@ track7:
   title: Tortoise - Works and Days
   color: dreamy
   link: https://sounds.mailta.pe/600/track7.mp3
+release: 600
 ---
 This morning, we're extremely grateful to celebrate our **600th episode**! We're humbled to have you with us for our weekly musical rendezvous. Recently, we’ve received messages from many of you sharing that you've been onboard for years, and what a heartwarming feeling that is!
 

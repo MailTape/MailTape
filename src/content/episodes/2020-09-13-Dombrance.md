@@ -6,7 +6,6 @@ bigTitle_font_ratio: "6"
 guestPic: guestPic416.jpg
 guest_color: trippy
 guest_name: Dombrance
-category: "416"
 illustrator: Jason Pridham
 author: Anaïs G
 published: true
@@ -43,6 +42,7 @@ track7:
   title: Weval - The Weight
   color: vibrant
   link: https://sounds.mailta.pe/416/track7.mp3
+release: 416
 ---
 
 This morning, we don’t know if it’s madness or provocation, but what’s certain is that the love of music, party and politics (yes, you don’t dream, it’s possible) of our guest, doesn’t leave us indifferent. 

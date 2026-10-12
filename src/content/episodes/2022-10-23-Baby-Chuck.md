@@ -4,7 +4,6 @@ published: true
 author: Sarah
 illustrator: Meriam Kharbat
 writer: Sarah
-category: "502"
 guest_name: Baby Chuck
 guest_color: dreamy
 guestPic: guestPic502.jpg
@@ -45,6 +44,7 @@ track7:
   title: JayWood - Shine (feat Mckinley Dixon)
   color: vibrant
   link: https://sounds.mailta.pe/502/track7.mp3
+release: 502
 ---
  This morning, we're delighted to welcome Baby Chuck to MailTape for an eclectic Sunday selection. Based in Los Angeles, Baby Chuck (Matt O'Keefe) joins us a month after releasing his most recent album, [Warm Infinity](https://babychuck.bandcamp.com/album/warm-infinity). The release explores and examines the essence of memories and the varied nostalgia that they bring.
   <br><br>

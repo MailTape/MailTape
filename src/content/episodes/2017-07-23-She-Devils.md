@@ -3,7 +3,6 @@ bigTitle_font_ratio: "6"
 published: true
 author: ImaCrea
 illustrator: Camille Célestin
-category: "270"
 guest_name: She-Devils
 writer: ImaCrea
 guest_color: trippy
@@ -46,6 +45,7 @@ track7:
   title: " Tabu Ley Rochereau - Hafi Deo "
   color: vibrant
   link: https://sounds.mailta.pe/270/track7.mp3
+release: 270
 ---
 
 This morning, whether you’re on holidays enjoying the sun or trekking on a mountain or still recovering from a hangover or on a regular Sunday at home, we got you covered. This kaleidoscopic selection inspired by [She-Devils](https://she-devilsinc.bandcamp.com), our punk-pop friends from Montreal, will shake you up, surprise you and make you dance. As they say: “put your trust on me, I won’t let you fall”.

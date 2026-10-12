@@ -6,7 +6,6 @@ illustrator: Camille Célestin
 guest_name: "Cam Maclean "
 guest_color: dreamy
 episode_URL: https://www.mailta.pe/339/cam-maclean
-category: "339"
 guestPic: guestPic339.jpg
 description: This morning, we are embarking on a year filled with joy, love and
   surprises. It shall also astonish us with many musical discoveries and
@@ -44,6 +43,7 @@ track7:
   title: Connan Mockasin - Momo's (feat James Blake)
   color: vibrant
   link: https://sounds.mailta.pe/339/Track%207.mp3
+release: 339
 ---
 
 This morning, we are embarking on a year filled with joy, love and surprises. It shall also astonish us with many musical discoveries and auditory newness. Our journey, headed by captain [Cam Maclean](https://atelierciseaux.bandcamp.com/album/cam-maclean-wait-for-love), promises a Sunday filled with hope and sweetness.

@@ -8,7 +8,6 @@ musiColor: musiColor510.png
 author: Sarah
 illustrator: Camille Célestin
 writer: Sarah
-category: "510"
 guest_name: Will Sprott
 guest_color: vibrant
 description: This Sunday, we welcome in the morning with Will Sprott. His dreamy
@@ -44,6 +43,7 @@ track7:
   title: Lizette & Quentin - Grow Forever
   color: dreamy
   link: https://sounds.mailta.pe/510/track7.mp3
+release: 510
 ---
  This Sunday, we welcome in the morning with Will Sprott. His dreamy selection brings in a lot of light with it, gifting us some surprising finds with winding melodies. Based in California, [Will Sprott](https://willsprott.bandcamp.com/)'s music stretches from folk to rock n roll to soul to space country. He is an active vocalist and keyboardist in the wonderful group [Shannon and the Clams](https://shannonandtheclams.bandcamp.com/album/year-of-the-spider). His most recent solo album was entitled [Ten Fingers](https://willsprott.bandcamp.com/album/ten-fingers), leaving us eager for what he releases next. 
 

@@ -2,7 +2,6 @@
 pubDate: 2021-05-30
 bigTitle_font_ratio: "6"
 published: true
-category: "453"
 author: ImaCrea
 illustrator: Thibault Daumain
 writer: ImaCrea
@@ -47,6 +46,7 @@ track7:
   title: PDP III - Calendar of Days
   color: dreamy
   link: https://sounds.mailta.pe/453/track7.mp3
+release: 453
 ---
 <p id="introduction">This morning, let's go for a walk outside. We're joined by [Mike Slott](https://mikeslott.bandcamp.com) who made us an honor to accept our invitation. 
   

@@ -4,7 +4,6 @@ published: true
 author: Jules
 illustrator: Camille Célestin
 writer: Jules
-category: "407"
 guest_name: Fantastic Twins
 episode_URL: https://www.mailta.pe/407/fantastic-twins/
 guest_color: trippy
@@ -50,6 +49,7 @@ track7:
   title: Perel - Die Dimension (Jayda G remix)
   color: bliss
   link: https://sounds.mailta.pe/407/track7.mp3
+release: 407
 ---
  This morning, we're feeling fantastic. The days are getting longer, summer is almost here and life is gradually resuming. We discover resources, qualities and desires hitherto unsuspected that we now long to explore. It is with a new eye that we now wish to glimpse the future, the one of a sensitive, complex and caring alter-ego.
 <br><br>

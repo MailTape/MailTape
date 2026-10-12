@@ -4,7 +4,6 @@ bigTitle_font_ratio: "6"
 guestPic: guestPic418.jpg
 guest_color: rough
 guest_name: Bison Bisou
-category: "418"
 writer: Anaïs G
 illustrator: Anthony Dujardin
 author: Anaïs G
@@ -44,6 +43,7 @@ track7:
   title: "Map of Africa - Bone "
   color: trippy
   link: https://sounds.mailta.pe/416/track7.mp3
+release: 418
 ---
 This morning, we are in transition from remembering the warmth of our summer to the coolness of the rainy days. It's all about fighting the outside elements with big guitar riffs, big sounds that tap and accompany the musical selection of the band Bison Bisou to warm up the atmosphere.
 <br><br>

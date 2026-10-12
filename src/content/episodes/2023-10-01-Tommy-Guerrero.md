@@ -4,7 +4,6 @@ published: true
 author: Anto
 illustrator: Meriam Kharbat
 writer: Anto
-category: "536"
 guest_name: Tommy Guerrero
 guest_color: trippy
 guestPic: guestPic536.png
@@ -41,6 +40,7 @@ track7:
   title: Boris Gardiner Happening – Breezin’
   color: dreamy
   link: https://sounds.mailta.pe/536/track7.mp3
+release: 536
 ---
 
 This morning, we're riding with [Tommy Guerrero](https://tommyguerrero.bandcamp.com/) on the road to good vibes.

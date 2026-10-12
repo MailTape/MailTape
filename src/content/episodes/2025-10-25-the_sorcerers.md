@@ -1,7 +1,6 @@
 ---
 published: true
 pubDate: 2025-10-26
-category: "595"
 guest_name: The Sorcerers
 guest_color: trippy
 guestPic: the_sorcerers.jpg
@@ -45,6 +44,7 @@ track7:
   title: Tasmin – The Bride Dance
   color: trippy
   link: https://sounds.mailta.pe/595/track7.mp3
+release: 595
 ---
 This morning, MailTape offers you the soundtrack of a thrilling film that could take place somewhere in East Africa, like an Ethiopian Tarantino, with real contemplative shots, incredible action scenes, languid moments... An adventure in 7 chapters, a fabulous journey between gems of a futuristic past and resolutely modern sounds, which draw from varied influences!
 

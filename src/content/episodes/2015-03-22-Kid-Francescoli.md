@@ -4,7 +4,6 @@ author: ImaCrea
 guest_color: vibrant
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
-category: "178"
 guest_name: Kid Francescoli
 guestPic: guestPic178.jpg
 episode_URL: http://mailta.pe/178/Kid-Francescoli/
@@ -46,6 +45,7 @@ track7:
   title: Spongemagnet - Voyage To Cyborn907
   color: trippy
   link: https://sounds.mailta.pe/178/track7.mp3
+release: 178
 ---
 
 This morning, our playlist curated with [Kid Francescoli](https://www.facebook.com/kidfrancescoli) is like a perennial river as it is meant to flow round the clock. The first track serves as a point of origin with the second track tuning in to help determine its course. And as soon as Whitey’s Made in the night tunes in, the river changes its course in a very sinister yet playful way.  But then, gradually gravitates towards its primal state—which is where “Blow up” by Francescoli unfurls its mystery. And keeps the playlist flowing until it immerses in the ocean.

@@ -4,7 +4,6 @@ author: Ludovic
 guest_color: bliss
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
-category: "155"
 guest_name: Christian Löffler
 guestPic: guestPic155.jpg
 episode_URL: http://mailta.pe/155/Christian-Loeffler/
@@ -44,6 +43,7 @@ track7:
   title: Kazy Lambist - Doing Yoga
   color: vibrant
   link: https://sounds.mailta.pe/155/track7.mp3
+release: 155
 ---
 
 

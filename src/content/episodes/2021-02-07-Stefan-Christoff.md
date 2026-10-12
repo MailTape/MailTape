@@ -4,7 +4,6 @@ published: true
 author: Sanjay Mistry
 illustrator: Jason Pridham
 writer: Sanjay Mistry
-category: "437"
 guest_name: Stefan Christoff
 guest_color: dreamy
 episode_URL: https://www.mailta.pe/437/stefan-christoff/
@@ -42,6 +41,7 @@ track7:
   title: Talvin Singh & Niladri Kumar – Ananta
   color: bliss
   link: https://sounds.mailta.pe/437/track7.mp3
+release: 437
 ---
 This morning we welcome [Stefan Christoff](https://soundcloud.com/spirodon) to select three groovy Sunday morning tunes with us on MailTape. 
 <br><br>

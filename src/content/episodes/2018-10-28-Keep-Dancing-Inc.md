@@ -4,7 +4,6 @@ published: true
 author: Charlotte
 illustrator: Camille Célestin
 writer: Charlotte
-category: "329"
 guest_name: Keep Dancing Inc
 guest_color: dreamy
 episode_URL: http://www.mailta.pe/329/keep-dancing-inc/
@@ -48,6 +47,7 @@ track7:
   title: Idiot Glee - Pinkwood
   color: dreamy
   link: https://sounds.mailta.pe/329/track7.mp3
+release: 329
 ---
 
 This morning, we welcome Louis, Charles, Gabrielle and Joseph from [Keep Dancing Inc](https://www.facebook.com/keepdancinginc/) to turn this MailTape into a Sunday ode to pop music.

@@ -1,7 +1,6 @@
 ---
 published: true
 pubDate: 2025-04-06
-category: "578"
 guest_name: Magic Tuber Stringband
 guest_color: bliss
 guestPic: guestpic578.jpg
@@ -45,6 +44,7 @@ track7:
   title: Weirs and Magic Tuber Stringband - Tunnel
   color: trippy
   link: https://sounds.mailta.pe/578/track7.mp3
+release: 578
 ---
 We're back ! This morning, we're absolutely delighted to welcome [Magic Tuber Stringband ](https://magictuberstringband.bandcamp.com/album/needlefall)for MailTape's first episode of the spring. Based in Durham, the band weaves itself into the Appalachian folk traditions, re-enchanting these practices with unexpected noise and experimental textures. Magic Tuber Stringband members Evan Morgan, Mike DeVito, and Courtney Werner join us following the release of their latest album, [Needlefall](https://magictuberstringband.bandcamp.com/album/needlefall). 
 

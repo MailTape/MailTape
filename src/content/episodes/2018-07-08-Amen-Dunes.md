@@ -4,7 +4,6 @@ published: true
 author: Charlotte
 illustrator: Pierre-Julien Fieux
 writer: Charlotte
-category: "320"
 guest_name: Amen Dunes
 guest_color: vibrant
 episode_URL: https://www.mailta.pe/320/amen-dunes/
@@ -52,6 +51,7 @@ track7:
   title: Lee Hazlewood - Your Sweet Love
   color: vibrant
   link: https://sounds.mailta.pe/320/track7.mp3
+release: 320
 ---
 For this last MailTape before our summer break, we welcome Damon McMahan, songwriter and New York-based founder of [Amen Dunes](https://amendunes.bandcamp.com/).
 <p>In 2006, he locked himself in an isolated trailer and within a month, recorded his first album, “D.I.A“. Since then, critics haven’t seemed to reach a common agreement about how to categorise his music: mutant folk, dark psyche, post-modern soul, cosmic rock… but whatever. It has been consistently exciting to see the band evolve over the years.

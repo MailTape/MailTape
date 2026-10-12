@@ -5,7 +5,6 @@ guest_name: Dharma Bum
 writer: Anaïs G
 author: Anaïs G
 illustrator: Camille Célestin
-category: "393"
 guestPic: guestPic393.jpg
 episode_URL: http://mailta.pe/393/dharma-bum/
 image: https://www.mailta.pe/img/fbPic393.png
@@ -46,6 +45,7 @@ track7:
     Maison)
   color: vibrant
   link: https://sounds.mailta.pe/393/track7.mp3
+release: 393
 ---
 
 This morning, it is madness that takes us, that puts us in a trance, that makes us do anything, but that allows us to take things as they come and to see life differently. It is this same madness that we find again this Sunday with the group Dharma Bum, a measured, beautiful and energetic madness!

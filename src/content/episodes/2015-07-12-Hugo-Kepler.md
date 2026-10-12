@@ -3,7 +3,6 @@ published: true
 author: ImaCrea
 guest_color: dreamy
 bigTitle_font_ratio: "6"
-category: "194"
 guest_name: Hugo Kepler
 guestPic: guestPic194.jpg
 image: https://www.mailta.pe/img/fbPic194.jpg
@@ -44,6 +43,7 @@ track7:
   title: Tilman - Eruption (Klamauk)
   color: rough
   link: https://sounds.mailta.pe/194/track7.mp3
+release: 194
 ---
 
 

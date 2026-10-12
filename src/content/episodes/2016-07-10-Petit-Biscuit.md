@@ -6,7 +6,6 @@ writer: PS KY
 author: Dimitri
 guest_name: Petit Biscuit
 guest_color: bliss
-category: "224"
 episode_URL: https://www.mailta.pe/224/Petit-Biscuit/
 guestPic: guestPic224.jpg
 musiColor: musiColor224.png
@@ -44,6 +43,7 @@ track7:
   title: Polo & Pan - Nanä
   color: trippy
   link: https://sounds.mailta.pe/224/track7.mp3
+release: 224
 ---
 This morning, we bring you the soundtrack to summer's daydreams. [Petit Biscuit](https://www.facebook.com/petitbiscuitsound/ "Petit Biscuit's Facebook") is reminiscent of that glimpse of sunlight projected onto your favorite building at the end of the day. Something special, a contemplative melody powered by the genuine desire to create and share.
 

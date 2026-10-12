@@ -4,7 +4,6 @@ published: true
 author: ImaCrea
 illustrator: Camille Célestin
 writer: PS KY
-category: "299"
 guest_name: Run Child Run
 guest_color: vibrant
 guestPic: guestPic299.jpg
@@ -42,6 +41,7 @@ track7:
   title: "Sign Libra -  Intro / Tropical plantarum "
   color: bliss
   link: https://sounds.mailta.pe/299/track7.mp3
+release: 299
 ---
 This morning, our guest [Run Child Run](https://runchildrun.bandcamp.com/album/vanishing-point) has blessed us with a distinctive selection of timeless tracks.
 

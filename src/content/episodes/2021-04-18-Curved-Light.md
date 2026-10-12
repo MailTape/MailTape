@@ -1,7 +1,6 @@
 ---
 bigTitle_font_ratio: "6"
 published: true
-category: "447"
 guest_name: Curved Light
 guest_color: bliss
 musiColor: musiColor447.png
@@ -46,6 +45,7 @@ track7:
   title: YOM - Celebration
   color: bliss
   link: https://sounds.mailta.pe/447/track7.mp3
+release: 447
 ---
 
 <p id="introduction">

@@ -1,7 +1,6 @@
 ---
 published: true
 pubDate: 2024-12-15
-category: "570"
 guest_name: Camille Thouvenot
 guest_color: vibrant
 guestPic: ct.jpg
@@ -47,6 +46,7 @@ track7:
   title: "Rouge (Madeleine Cazenave) - Louves "
   color: bliss
   link: https://sounds.mailta.pe/570/track7.mp3
+release: 570
 ---
 This morning, Mail Tape invites you to revisit some classics and to
 continue the discovery of artistic works from other times or that

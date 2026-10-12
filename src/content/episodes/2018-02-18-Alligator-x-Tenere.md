@@ -4,7 +4,6 @@ published: true
 author: ImaCrea
 illustrator: Anais Caura
 writer: ImaCrea
-category: "300"
 guest_name: Alligator x Ténéré
 guest_color: vibrant
 episode_URL: https://www.mailta.pe/300/alligator-x-tenere/
@@ -44,6 +43,7 @@ track7:
   title: Shadow - Let's Get It Together
   color: vibrant
   link: https://sounds.mailta.pe/300/track7.mp3
+release: 300
 ---
 This morning is special, you are going to listen to our 300th episode. Today's release represent a high point in the MailTape adventure which marks 6 years dedicated to sharing with you the very best of our music discoveries each Sunday morning in the name of music, love and inspiration.
   

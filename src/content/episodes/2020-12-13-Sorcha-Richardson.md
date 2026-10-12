@@ -3,7 +3,6 @@ bigTitle_font_ratio: "6"
 published: true
 author: Sarah
 illustrator: Jason Pridham
-category: "429"
 guest_name: Sorcha Richardson
 guest_color: vibrant
 writer: Sarah
@@ -43,6 +42,7 @@ track7:
   title: Michael Nau - Rides Through The Morning
   color: dreamy
   link: https://sounds.mailta.pe/429/track7.mp3
+release: 429
 ---
  This morning, we wanted to give you plenty to daydream about. What else are Sundays for? [Sorcha Richardson](https://sorcharichardson.bandcamp.com/album/first-prize-bravery) joins us with a varied and thoughtful selection to steady you for any kind of week that may lay ahead.
 

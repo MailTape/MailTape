@@ -4,7 +4,6 @@ published: true
 author: ImaCrea
 illustrator: Meriam Kharbat
 writer: ImaCrea
-category: "528"
 guest_name: The Humble Bee
 guest_color: bliss
 guestPic: guestPic528.png
@@ -53,6 +52,7 @@ track7:
   title: Hania Rani - Mountains
   color: bliss
   link: https://sounds.mailta.pe/528/track7.mp3
+release: 528
 ---
 
 This morning, I'd be delighted to continue our exploration of ambient music together, as you may have noticed my recent fascination with it. Lately, I find myself yearning for a serene and inviting atmosphere, a sanctuary from the chaos of everyday life.

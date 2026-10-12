@@ -4,7 +4,6 @@ published: true
 author: Jules
 illustrator: Camille Célestin
 writer: Jules
-category: "396"
 guest_name: Philémon Cimon
 guest_color: vibrant
 episode_URL: https://www.mailta.pe/396/philemon-cimon/
@@ -51,6 +50,7 @@ track7:
   title: Helado Negro - Todo Lo Que Me Falta
   color: bliss
   link: https://sounds.mailta.pe/396/track7.mp3
+release: 396
 ---
  This morning, we are going back to where we grew up, to the land of our teenage years, with Montreal-based singer-songwriter [Philémon Cimon](https://philemoncimon.bandcamp.com/).
 <br><br>

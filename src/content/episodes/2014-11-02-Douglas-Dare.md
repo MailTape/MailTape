@@ -4,7 +4,6 @@ author: Ludovic
 guest_color: bliss
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
-category: "158"
 guest_name: Douglas Dare
 guestPic: guestPic158.jpg
 episode_URL: http://mailta.pe/158/Douglas-Dare/
@@ -44,6 +43,7 @@ track7:
   title: Audion Feat Troels Abrahamsen - Dem Howl
   color: rough
   link: https://sounds.mailta.pe/158/track7.mp3
+release: 158
 ---
 
 

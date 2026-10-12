@@ -4,7 +4,6 @@ author: Dimitri
 guest_color: vibrant
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
-category: "145"
 guest_name: Pendentif
 guestPic: guestPic145.jpg
 episode_URL: http://mailta.pe/145/Pendentif
@@ -41,6 +40,7 @@ track7:
   title: Caribou - Can't Do Without You
   color: bliss
   link: https://sounds.mailta.pe/145/track7.mp3
+release: 145
 ---
 
 

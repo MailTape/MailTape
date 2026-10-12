@@ -4,7 +4,6 @@ published: true
 author: Sanjay Mistry
 illustrator: Camille Célestin
 writer: Sanjay Mistry
-category: "317"
 guest_name: Jally Kebba Susso
 guest_color: bliss
 episode_URL: http://mailta.pe/317/jally-kebba-susso/
@@ -42,6 +41,7 @@ track7:
   title: Sona Jobarteh – Saya
   color: dreamy
   link: https://sounds.mailta.pe/317/track7.mp3
+release: 317
 ---
 Today we are delighted to welcome kora player [Jally Kebba Susso](http://jallykebbasusso.com/) as he picks a soothing suite of Sunday morning jams for MailTape.
 <p>Expanding the boundaries of kora traditions, Jally blends West African music with jazz, funk and sounds from London’s multitudinous music scenes. His most recent album, [Banjul-London](https://jallykebbasusso.bandcamp.com/album/banjul-london), released in 2017, will be a  thoroughly uplifting and positive 48 minutes of your time!

@@ -2,7 +2,6 @@
 bigTitle_font_ratio: "6"
 published: true
 author: Louise
-category: "226"
 guest_name: Talitres Records
 guest_color: dreamy
 guestPic: guestPic226.jpg
@@ -45,6 +44,7 @@ track7:
   title: Will Samson - Pyrton Bells
   color: dreamy
   link: https://sounds.mailta.pe/226/track7.mp3
+release: 226
 ---
 This morning, Mailtape presents a brand new kind of issues! Did you notice this "Records" thing in the title? We've decided to start inviting record labels every now and then! As you know, we aspire to discover new inspiring music every Sunday; with labels guests, we will be able to introduce you to an entire catalog each time! Hope you'll enjoy. 
 

@@ -2,7 +2,6 @@
 bigTitle_font_ratio: "6"
 published: true
 guest_name: Thijsenterprise
-category: "442"
 illustrator: Camille Célestin
 author: Sarah
 writer: Sarah
@@ -43,6 +42,7 @@ track7:
   title: Gábor Szabó - Fire Dance
   color: vibrant
   link: https://sounds.mailta.pe/442/track7.mp3
+release: 442
 ---
 
 

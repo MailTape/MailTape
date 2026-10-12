@@ -4,7 +4,6 @@ published: true
 author: Sanjay Mistry
 illustrator: Pierre-Julien Fieux
 writer: Sanjay Mistry
-category: "311"
 guest_name: Tamar Osborn
 guest_color: dreamy
 episode_URL: http://mailta.pe/311/collocutor/
@@ -43,6 +42,7 @@ track7:
   title: Cecil Taylor Quartet – African Violets
   color: trippy
   link: https://sounds.mailta.pe/311/track7.mp3
+release: 311
 ---
 This morning we welcome saxophonist and flautist, [Tamar Osborn](https://tamarosborn.com/), who leads the seven-piece horn-led collective, [Collocutor](https://collocutor.uk/), in the vanguard of London’s thriving music scene.
 <p>Their compositions draw inspiration from the many genres encountered over the course of a varied career, ranging from jazz, afrobeat, Indian classical and Ethiopian roots to polyphonic choral music and minimalism—the link being primarily modal music with a transportive effect.

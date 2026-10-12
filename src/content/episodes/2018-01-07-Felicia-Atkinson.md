@@ -4,7 +4,6 @@ published: true
 author: Sanjay Mistry
 illustrator: Camille Célestin
 writer: Sanjay Mistry
-category: "294"
 guest_name: Félicia Atkinson
 guest_color: trippy
 episode_URL: http://mailta.pe/294/felicia-atkinson/
@@ -44,6 +43,7 @@ track7:
   title: Murcof & Vanessa Wagner – Variations For The Healing Of Arinushka
   color: dreamy
   link: https://sounds.mailta.pe/294/track7.mp3
+release: 294
 ---
 This morning we welcome preeminent Rennes-based avant-garde composer [Félicia Atkinson](http://feliciaatkinson.com/) to collaborate with us on MailTape. She weaves myriad, filigree electro-acoustic and non-musical metanarratives into a sonic lucid dream.
 <p>Félicia Atkinson is a musician with many more strings to her bow. On her latest album 'Hand in Hand', however, the atmosphere of reflective anticipation is the main sonic theme—where a sense of the otherworldly is paired with the familiar and the macabre with the sensual.

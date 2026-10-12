@@ -4,7 +4,6 @@ published: true
 author: ImaCrea
 illustrator: Meriam Kharbat
 writer: PS KY
-category: "445"
 guest_name: Mansfield.TYA
 guest_color: trippy
 guestPic: guestPic445.jpg
@@ -45,6 +44,7 @@ track7:
   title: TYGAPAW - In Their Fear They Plotted Her Destruction
   color: rough
   link: https://sounds.mailta.pe/445/track7.mp3
+release: 445
 ---
 This morning, we welcome [Mansfield.TYA](https://mansfieldtya.bandcamp.com/), a surprisingly raw music duo from Nantes. Their music will both illuminate and sometimes somber your journey. With their sensitive and sensible songs composed of accessible yet very dense lyrics, Mansfield.TYA will take you on a poetic journey bathed in electronic sounds.
 

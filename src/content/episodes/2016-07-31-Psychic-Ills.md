@@ -4,7 +4,6 @@ published: true
 author: ImaCrea
 illustrator: Anais Caura
 writer: ImaCrea
-category: "227"
 guest_name: Psychic Ills
 guest_color: dreamy
 guestPic: guestPic227.jpg
@@ -44,6 +43,7 @@ track7:
   title: Beaty Heart - Flora
   color: rough
   link: https://sounds.mailta.pe/227/track7.mp3
+release: 227
 ---
 This morning, discover a warm and indie selection made by our guest [Psychic Ills](https://www.facebook.com/psychicills). Packed with love and caring lyrics, this issue is perfect to accompany a little poem of yours for your secret lover or one of your special friends.
 

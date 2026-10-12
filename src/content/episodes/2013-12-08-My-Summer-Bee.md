@@ -2,7 +2,6 @@
 bigTitle_font_ratio: "6"
 published: true
 author: ImaCrea
-category: "119"
 guest_name: My Summer Bee
 guest_color: vibrant
 guestPic: guestPic119.jpg
@@ -41,6 +40,7 @@ track7:
   title: Erol Alkan - A Hold On Love
   color: vibrant
   link: https://sounds.mailta.pe/119/track7.mp3
+release: 119
 ---
 This morning, My Summer Bee brings their joy and energy ! No excuses to stay in your bed, let this vibrant episode shine and fill your soul with great vibes. Wake up, live with passion and have an amazing sunday!
 

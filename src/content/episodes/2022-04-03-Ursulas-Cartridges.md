@@ -4,7 +4,6 @@ published: true
 illustrator: Thibault Daumain
 author: Sarah
 writer: Sarah
-category: "488"
 guest_name: Ursula's Cartridges
 guest_color: trippy
 episode_URL: http://mailta.pe/488/Ursulas-Cartridges/
@@ -44,6 +43,7 @@ track7:
   title: Windows 96 - Edenic Green Plus
   color: bliss
   link: https://sounds.mailta.pe/488/track7.mp3
+release: 488
 ---
 This morning, we welcome Finland-based [Ursula's Cartridges](https://ursulascartridges.bandcamp.com/) to MailTape for an electro vaporwave selection. Combining 80's and 90's rave and electronic aesthetics, Ursula's Cartridges pieces samplework into releases both novel and nostalgic. In his production process, Ursula's Cartridges strives to avoid the consumerism to which so much of music has fallen victim, cultivating pieces he finds to be genuine expressions, approaching works of "art" rather than "product." 
   <br><br>

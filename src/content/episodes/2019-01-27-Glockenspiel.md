@@ -4,7 +4,6 @@ published: true
 author: Sanjay Mistry
 illustrator: Camille Célestin
 writer: Sanjay Mistry
-category: "342"
 guest_name: Glockenspiel
 guest_color: dreamy
 episode_URL: http://mailta.pe/342/glockenspiel/
@@ -42,6 +41,7 @@ track7:
   title: Maisha – Welcome To A New Welcome
   color: trippy
   link: https://sounds.mailta.pe/342/track7.mp3
+release: 342
 ---
 This morning we are delighted to welcome Adrian Dollemore of [Glockenspiel](https://babel-label.bandcamp.com/album/dupleix) to select three Sunday morning tunes for us on MailTape.
 <br><br>

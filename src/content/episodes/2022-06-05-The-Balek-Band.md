@@ -4,7 +4,6 @@ published: true
 author: Jules
 illustrator: Thibault Daumain
 writer: Jules
-category: "496"
 guest_name: The Balek Band
 guest_color: trippy
 episode_URL: https://www.mailta.pe/496/the-balek-band/
@@ -43,6 +42,7 @@ track7:
   title: Wau Wau Collectif - Salamaleikoum
   color: vibrant
   link: https://sounds.mailta.pe/496/track7.mp3
+release: 496
 ---
  This morning, we are delighted to welcome Nantes-based group [The Balek Band](https://thebalekband.bandcamp.com/album/m-decines?fbclid=IwAR1PV_q4gHxw9JSDMam3MOnjfmvC2vDlYqtDzRdf5HgEQcboptdU7toVggM). Their very first album, <i>"Médecines"</i>, was freshly released last Friday, and they can't wait to share their musical universe with us!
 <br><br>

@@ -4,7 +4,6 @@ published: true
 author: Sanjay Mistry
 illustrator: Camille Célestin
 writer: Sanjay Mistry
-category: "280"
 guest_name: Julie Kjær
 guest_color: trippy
 episode_URL: http://mailta.pe/280/julie-kjaer/
@@ -42,6 +41,7 @@ track7:
   title: Matana Roberts & Stefan Christoff – Duet for Abdelrazik
   color: dreamy
   link: https://sounds.mailta.pe/280/track7.mp3
+release: 280
 ---
 This morning we welcome the infectious enthusiasm and unbridled energy of London-based multi-reed player, [Julie Kjær](https://juliekjaer.com/).
 <p>She has toured internationally and recorded with Django Bates and StoRMChaser. She also plays with [London Improvisers Orchestra](http://www.londonimprovisersorchestra.co.uk/) and is a leader and side-woman of several other ensembles – including her latest trio, Julie Kjær 3, with bass player John Edwards and drummer Steve Noble. Their debut album ‘[Dobbeltgænger](https://cleanfeed-records.com/product/dobbeltgaeenger/)’ was released in March last year on Lisbon's Clean Feed Records.

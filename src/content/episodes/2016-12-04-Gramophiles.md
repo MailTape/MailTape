@@ -3,7 +3,6 @@ bigTitle_font_ratio: "6"
 published: true
 author: Maxime
 writer: Maxime
-category: "237"
 guest_name: Gramophiles
 guest_color: vibrant
 guestPic: guestPic237.jpg
@@ -41,6 +40,7 @@ track7:
   title: Les Yeux Oranges - Coco
   color: dreamy
   link: https://sounds.mailta.pe/237/track7.mp3
+release: 237
 ---
  This morning, we welcome you in the world of edits and universal music. In this parralel world, productor fell in love of old musics heritages, and decide to bring them back to life. As magicians or gods, they bring back to us their deep inspiration. We can only admire them, because without those gold diggers, our local musical scenes would be much more ethnocentric. In a way they contribute to restore our world heritage.
 

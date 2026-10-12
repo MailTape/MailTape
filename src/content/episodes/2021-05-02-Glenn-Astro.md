@@ -3,7 +3,6 @@ bigTitle_font_ratio: "6"
 published: true
 author: ImaCrea
 illustrator: Meriam Kharbat
-category: "449"
 guest_name: Glenn Astro
 writer: ImaCrea
 image: https://www.mailta.pe/img/fbPic449.png
@@ -44,6 +43,7 @@ track7:
   title: Khalab & M'berra Ensemble - Skit Guit
   color: bliss
   link: https://sounds.mailta.pe/449/track7.mp3
+release: 449
 ---
 
 This morning, let's have some actively collected intuitions distilled from love. Experimental, mystic, and joyful vibes as we start our trip with a colorful selection curated by [Glenn Astro](https://glennastro.bandcamp.com "Glenn's bandcamp"). Time to get out of the loop darling!

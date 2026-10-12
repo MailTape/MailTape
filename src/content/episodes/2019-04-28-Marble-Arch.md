@@ -4,7 +4,6 @@ published: true
 author: Anaïs G
 illustrator: Camille Célestin
 writer: Anaïs G
-category: "355"
 guest_name: "Marble Arch "
 guest_color: dreamy
 episode_URL: http://mailta.pe/355/marble-arch
@@ -43,6 +42,7 @@ track7:
   title: "Bauhaus - Bela Lugosi's Dead "
   color: trippy
   link: https://sounds.mailta.pe/355/Track7.mp3
+release: 355
 ---
 
 

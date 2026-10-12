@@ -7,7 +7,6 @@ episode_URL: http://mailta.pe/423/scherazade/
 guestPic: guestPic423.jpg
 guest_color: vibrant
 guest_name: Schérazade
-category: "423"
 writer: Anaïs G
 illustrator: Thibault Daumain
 author: Anaïs G
@@ -45,6 +44,7 @@ track7:
   title: Space Captain - Secret Garden
   color: vibrant
   link: https://sounds.mailta.pe/423/track7.mp3
+release: 423
 ---
 
 

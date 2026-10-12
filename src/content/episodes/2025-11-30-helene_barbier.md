@@ -1,7 +1,6 @@
 ---
 published: true
 pubDate: 2025-11-30
-category: "599"
 guest_name: Hélène Barbier
 guest_color: bliss
 guestPic: helene_barbier.jpg
@@ -52,6 +51,7 @@ track7:
   title: Cate Le Bon – He’s leaving
   color: bliss
   link: https://sounds.mailta.pe/599/track7.mp3
+release: 599
 ---
 This morning it’s the mist. We search in vain for a few rays of sunshine in a grey sky. And failing to find any, we listen to the latest MailTape selection, because we know that there are bound to be some bright tracks hidden there, likely to brighten our day and give us good reasons to smile.
 

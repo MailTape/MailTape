@@ -1,7 +1,6 @@
 ---
 published: true
 pubDate: 2025-07-06
-category: "587"
 guest_name: Laurie Torres
 guest_color: bliss
 guestPic: guestpic587.jpg
@@ -46,6 +45,7 @@ track7:
   title: Chicago Underground Duo - Click Song
   color: vibrant
   link: https://sounds.mailta.pe/587/track7.mp3
+release: 587
 ---
 This morning, I'm excited to share a blissful and uplifting episode curated with [Laurie Torres](laurietorres.bandcamp.com). This selection invites you to step outside on a sunny day, to reawaken your eyes and spirit, and to let the beauty of the unknown amaze you. Laurie's album "*[Après Coup](https://laurietorres.bandcamp.com/album/apr-s-coup)*" has been a wonderful companion for me as I embraced the last spring season, and I hope today's MailTape will lead you to great discoveries that will enrich the soundtrack of your summer. So, let’s be excellent to each other and enjoy the journey!
 

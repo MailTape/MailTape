@@ -3,7 +3,6 @@ bigTitle_font_ratio: "6"
 published: true
 illustrator: William Girault
 author: Luc
-category: "322"
 guest_name: Nihiloxica
 guest_color: rough
 episode_URL: https://www.mailta.pe/322/nihiloxica/
@@ -48,6 +47,7 @@ track7:
   title: Mbongwana Star – Malukayi
   color: dreamy
   link: https://sounds.mailta.pe/322/track7.mp3
+release: 322
 ---
 If defeating torpor is ever on your agenda, Ugandan’s own [Nihiloxica](https://nyegenyegetapes.bandcamp.com/album/nihiloxica), with their tribal percussions and visceral arrangements, should prove tremendously helpful.
 <p>Their eponymous debut, recorded live in single takes, revolves around seven Ugandan percussionists – members of the Nilotika Cultural Ensemble – and combines their Bugandan drumming traditions with Western kit drumming and brooding synth layers.

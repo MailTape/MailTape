@@ -4,7 +4,6 @@ published: true
 author: Sanjay Mistry
 illustrator: William Girault
 writer: Daisy
-category: "271"
 guest_name: Emanative
 guest_color: vibrant
 episode_URL: http://mailta.pe/271/emanative/
@@ -42,6 +41,7 @@ track7:
   title: Burnt Sugar Arkestra - If There's A Hell Below
   color: trippy
   link: https://sounds.mailta.pe/271/track7.mp3
+release: 271
 ---
 This morning long-time jazz wayfarer Nick Woodmansey's [Emanative](https://emanative.bandcamp.com/) picks his three tracks for MailTape, to start our day with a groove-laden selection of sounds.
 <p>Three years after the brilliant [Light Years of Darkness](https://stevereidfoundation.bandcamp.com/album/the-light-years-of-the-darkness) LP on Brownswood Recordings, Emanative makes a welcome return on the self-released limited 7″, [Ominous Shanti/Black Enchantment](https://emanative.bandcamp.com/album/ominous-shanti). As usual, Nick performs with some of the finest musicians on the London scene at the moment – this time with another MailTape guest, [Sarathy Korwar](https://www.mailta.pe/249/sarathy-korwar/), as well as Tamar (Collocutor) Osborn, Suman Joshi, Ben Hadwen, Simon Finch and Jessica Lauren.

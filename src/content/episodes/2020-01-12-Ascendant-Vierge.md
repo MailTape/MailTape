@@ -1,7 +1,6 @@
 ---
 bigTitle_font_ratio: "6"
 published: true
-category: "388"
 guest_name: ascendant vierge
 author: ImaCrea
 illustrator: Julie Wojtczak
@@ -51,6 +50,7 @@ track7:
   title: Overmono - Salt Mix
   color: rough
   link: https://sounds.mailta.pe/388/track7.mp3
+release: 388
 ---
 
  

@@ -3,7 +3,6 @@ bigTitle_font_ratio: "6"
 published: true
 author: Sanjay Mistry
 illustrator: Pierre-Julien Fieux
-category: "263"
 guest_name: Olimpia Splendid
 episode_URL: http://mailta.pe/263/olimpia-splendid/
 guest_color: trippy
@@ -42,6 +41,7 @@ track7:
   title: Carla dal Forno — You Know What It's Like
   color: dreamy
   link: https://sounds.mailta.pe/263/track7.mp3
+release: 263
 ---
 This morning, we enter a hypnotic world with Heta Bilaletdin, Jonna Karanka and Katri Sipiläinen of Finland-based trio, [Olimpia Splendid](https://www.facebook.com/Olimpia-Splendid-197293963659766/).
 <p>Named after a brand of air conditioners, they make wiry, hypnotic and out-of-tune DIY punk with guitars, bass and a drum machine; an 'uptempo rattle of no-note guitar licks and no-brain bass riffs that kicks and jerks like a barracuda on a bait line' ([The Wire](https://www.thewire.co.uk/)).

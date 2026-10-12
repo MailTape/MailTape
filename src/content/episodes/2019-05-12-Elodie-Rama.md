@@ -4,7 +4,6 @@ published: true
 author: Anaïs G
 illustrator: Anthony Dujardin
 writer: Anaïs G
-category: "357"
 guest_name: Elodie Rama
 guest_color: bliss
 guestPic: guestPic357.jpg
@@ -43,6 +42,7 @@ track7:
   title: "Yazmin Lacey - Black Moon "
   color: bliss
   link: https://sounds.mailta.pe/357/track7.mp3
+release: 357
 ---
 
 This morning, we walk through the deserted streets of a city (of your choice). Whether we return from the evening or we decide to buy croissants, we listen to the musical selection of [Elodie Rama](https://elodierama.fr/) in the ears.

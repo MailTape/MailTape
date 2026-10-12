@@ -4,7 +4,6 @@ author: Ludovic
 guest_color: bliss
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
-category: "140"
 guest_name: David Douglas
 guestPic: guestPic140.jpg
 episode_URL: http://mailta.pe/140/David-Douglas/
@@ -43,6 +42,7 @@ track7:
   title: Turks & Caicos - Nice 'n' Slow
   color: vibrant
   link: https://sounds.mailta.pe/140/track7.mp3
+release: 140
 ---
 
 

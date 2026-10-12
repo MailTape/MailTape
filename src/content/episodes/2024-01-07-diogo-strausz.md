@@ -3,7 +3,6 @@ bigTitle_font_ratio: "6"
 published: true
 author: Jules
 writer: Jules
-category: "542"
 guest_name: Diogo Strausz
 guest_color: trippy
 illustrator: Camille Lemeunier
@@ -55,6 +54,7 @@ track7:
   title: Frantz Tuernal - Koultans
   color: vibrant
   link: https://sounds.mailta.pe/542/track7.mp3
+release: 542
 ---
 
 This morning, as I opened my eyes in bed and let my gaze glide across the ceiling of my bedroom, it seemed to me that something was missing. Was it a little warmth, a few rays of sunshine to pierce the grey winter sky? Was it a bit of music to wake up my muscles, or the smell of coffee to get me out of bed? In the end, it was a bit of all of the above, everything I love about MailTape. So it's with great pleasure that we welcome you back for the first episode of this new year.

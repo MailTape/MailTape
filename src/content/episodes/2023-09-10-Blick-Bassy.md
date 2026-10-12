@@ -4,7 +4,6 @@ published: true
 author: ImaCrea
 illustrator: Noémie Dijon
 writer: ImaCrea
-category: "534"
 guest_name: Blick Bassy
 guest_color: vibrant
 guestPic: guestPic534.png
@@ -47,6 +46,7 @@ track7:
   title: Beverly Glenn-Copeland - People of the Loon
   color: bliss
   link: https://sounds.mailta.pe/534/track7.mp3
+release: 534
 ---
 
 On this Sunday morning of the new season, we've curated a musical selection that gently caresses the ears and brims with uplifting vibes to usher in a cheerful and inspiring start to the season. We are delighted to commence this 12th season of MailTape with [Blick Bassy](https://blickbassy.bandcamp.com/album/m-dib), whose soulful melodies and captivating rhythms promise to be the perfect companion for your day. May your hearts be filled with sunshine, your bodies dance with joy, and your souls be illuminated.

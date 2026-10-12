@@ -4,7 +4,6 @@ published: true
 author: Inès
 illustrator: Anthony Dujardin
 writer: Inès
-category: "374"
 guest_name: Jermango Dreaming
 guest_color: bliss
 guestPic: guestPic374.jpg
@@ -46,6 +45,7 @@ track7:
   title: MUNYA - Dove
   color: dreamy
   link: https://sounds.mailta.pe/374/track7.mp3
+release: 374
 ---
 This morning, please welcome Jermango Dreaming and his popping selection as our guest for this episode. 
 <br><br>

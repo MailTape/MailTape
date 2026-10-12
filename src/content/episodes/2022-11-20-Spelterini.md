@@ -4,7 +4,6 @@ published: true
 author: Anaïs G
 illustrator: Lucie Fléty
 writer: Anaïs G
-category: "506"
 guest_name: Spelterini
 guest_color: trippy
 image: https://www.mailta.pe/img/fbPic506.png
@@ -43,6 +42,7 @@ track7:
   title: "La Colonie De Vacances - Alex Weir "
   color: rough
   link: https://sounds.mailta.pe/506/track7.mp3
+release: 506
 ---
  This morning, we shake up codes, habits and routine. We will experience music in different ways, touch it, feel it, see it in such a way that it transcends us, disturbs us, shakes us...
 <br><br>

@@ -3,7 +3,6 @@ published: true
 author: Maxime
 guest_color: bliss
 bigTitle_font_ratio: "6"
-category: "195"
 guest_name: Crackazat
 guestPic: guestPic195.jpg
 episode_URL: http://mailta.pe/195/Crackazat/
@@ -42,6 +41,7 @@ track7:
   title: SG Lewis - No Less (Kartell Remix)
   color: dreamy
   link: https://sounds.mailta.pe/195/track7.mp3
+release: 195
 ---
 
 

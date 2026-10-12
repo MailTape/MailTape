@@ -4,7 +4,6 @@ published: true
 author: Jules
 illustrator: Jason Pridham
 writer: Jules
-category: "461"
 guest_name: The Mauskovic Dance Band
 guest_color: trippy
 episode_URL: https://www.mailta.pe/461/the-mauskovic-dance-band/
@@ -54,6 +53,7 @@ track7:
   title: N'Draman-Blintch - Cosmic Sounds
   color: trippy
   link: https://sounds.mailta.pe/461/track7.mp3
+release: 461
 ---
  This morning something strange is floating in the air. The sky takes on psychedelic colors; the sun hits the windows like percussions. Can't you see [The Mauskovic Dance Band](https://mauskovicdanceband.bandcamp.com/) slowly emerging from the clouds to join us for a new MailTape episode?
 <br><br>

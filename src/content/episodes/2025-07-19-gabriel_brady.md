@@ -1,7 +1,6 @@
 ---
 published: true
 pubDate: 2025-07-20
-category: "588"
 guest_name: Gabriel Brady
 guest_color: dreamy
 guestPic: guestpic588.jpg
@@ -45,6 +44,7 @@ track7:
   title: Elkotsh - Mwlid Elgorn
   color: dreamy
   link: https://sounds.mailta.pe/588/track7.mp3
+release: 588
 ---
 This morning, we're onto a very chill selection with our guest [Gabriel Brady](https://gabrielbrady.bandcamp.com/album/day-blind). Each track is a world in itself, made of delicate vibrations and warm intentions. There's a variety of situations where this episode could be excellent at rejoicing the soul and inviting desire to the table of your imagination. Allow me to share one I find would be greatly welcoming: I'd go for a walk out of town, let's say in the Pyrenees, and look for a tree to sit under. The view is enchanting, the sun rays are caressing my skin, and then I'd pull out a great pair of headphones and click play for a dreamy trip as I lean back against a beech.
 

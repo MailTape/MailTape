@@ -4,7 +4,6 @@ published: true
 author: Sarah
 illustrator: Meriam Kharbat
 writer: Sarah
-category: "498"
 guest_name: INO hidefumi
 guest_color: bliss
 guestPic: guestPic498.jpg
@@ -44,6 +43,7 @@ track7:
   title: r mccarthy - Jyoti
   color: dreamy
   link: https://sounds.mailta.pe/498/track7.mp3
+release: 498
 ---
  This morning, with a special joy we welcome Tokyo-based jazz and electronic artist [INO hidefumi](https://www.innocentrecord.net/) to MailTape. Known for eclectic tastes and textured sounds, INO's thoughtful selection offers an easy treading into the morning hours.
   <br><br>

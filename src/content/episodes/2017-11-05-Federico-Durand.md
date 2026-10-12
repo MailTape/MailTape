@@ -2,7 +2,6 @@
 bigTitle_font_ratio: "6"
 published: true
 author: ImaCrea
-category: "285"
 guest_name: Federico Durand
 guestPic: guestPic285b.jpg
 episode_URL: https://www.mailta.pe/285/federico-durand/
@@ -44,6 +43,7 @@ track7:
   title: Geotic - Sunspell
   color: vibrant
   link: https://sounds.mailta.pe/285/track7.mp3
+release: 285
 ---
 This morning, our guest [Federico Durand](https://federicodurand.bandcamp.com/), from the New York-based music label [12k](http://www.12k.com/about/) is inviting you to just “listen”, turn off the thinking box, let go of all interpretations. Do not attempt to analyze each sound. Just receive, simply. Let your eardrums engulf each note. Let go.
 

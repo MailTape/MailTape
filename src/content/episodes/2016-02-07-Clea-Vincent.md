@@ -2,7 +2,6 @@
 author: Maxime
 illustrator: Camille Célestin
 writer: Maxime
-category: "203"
 guest_name: Cléa Vincent
 guest_color: vibrant
 bigTitle_font_ratio: "6"
@@ -42,6 +41,7 @@ track7:
   title: O - Mon Echos
   color: dreamy
   link: https://sounds.mailta.pe/203/track7.mp3
+release: 203
 ---
 
 

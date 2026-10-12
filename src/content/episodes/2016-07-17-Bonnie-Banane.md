@@ -3,7 +3,6 @@ bigTitle_font_ratio: "6"
 published: true
 author: Louise
 illustrator: William Girault
-category: "225"
 guest_name: Bonnie Banane
 guest_color: dreamy
 guestPic: guestPic225.jpg
@@ -40,6 +39,7 @@ track7:
   title: D.K. - Play On
   color: dreamy
   link: https://sounds.mailta.pe/225/track7.mp3
+release: 225
 ---
 This morning, we will have you experience the steadily progressive sound of a Parisian artist called [**Bonnie Banane**](https://www.facebook.com/bonniebananemusique/). Having launched, “Soeur Nature,” a few months ago, she’s left quite an indelible impression on the independent RnB scene. 
 

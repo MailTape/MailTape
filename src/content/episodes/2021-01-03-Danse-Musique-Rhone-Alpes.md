@@ -5,7 +5,6 @@ episode_URL: http://mailta.pe/432/danse-musique-rhone-alpes/
 bigTitle_font_ratio: "6"
 guestPic: guestPic432.jpg
 guest_name: Danse Musique Rhône-Alpes
-category: "432"
 writer: Anaïs G
 author: Anaïs G
 published: true
@@ -45,6 +44,7 @@ track7:
   title: Louisahhh - Trap
   color: rough
   link: https://sounds.mailta.pe/432/track7.mp3
+release: 432
 ---
 
 This morning, it is FINALLY 2021. What can we wish for this year? Health, already the most important one compared to the others but above all the reopening of all its places of culture, music and events... And of course full of beautiful things to all those who follow us, hoping to surprise you, amaze you and please you again every Sunday.
