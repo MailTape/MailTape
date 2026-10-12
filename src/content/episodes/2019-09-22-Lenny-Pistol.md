@@ -5,7 +5,7 @@ author: Anaïs G
 guest_name: Lenny Pistol
 guest_color: dreamy
 guestPic: /img/guestPic372.jpg
-musiColor: musiColor372.png
+musiColor: /img/musiColor372.png
 illustrator: William Girault
 writer: Anaïs G
 image: http://mailta.pe/img/fbPic372.png

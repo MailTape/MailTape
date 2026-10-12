@@ -6,7 +6,7 @@ illustrator: Camille Célestin
 writer: Jules
 guest_name: Corte Real
 guest_color: dreamy
-musiColor: musiColor380.png
+musiColor: /img/musiColor380.png
 description: This morning, we are setting sail again at the very first light of
   dawn with Corte Real, without knowing where or when we will come back. The
   Versailles-based group is finally releasing its first album "Pays Vaincus" on

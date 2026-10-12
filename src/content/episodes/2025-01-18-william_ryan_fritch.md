@@ -13,7 +13,7 @@ description: "This morning, I'm excited to share with you a new episode that
   He's curated a selection of tracks that take us on a journey through the
   realms of ambient, jazz, and experimental soundscapes. "
 image: https://www.mailta.pe/img/fbPic573.jpg
-musiColor: musicolor573.png
+musiColor: /img/musicolor573.png
 track1:
   title: Mabe Fratti - Enfrente
   color: bliss

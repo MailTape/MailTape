@@ -7,7 +7,7 @@ author: Anaïs G
 writer: Anaïs G
 guest_name: Yael Miller
 guest_color: vibrant
-musiColor: musiColor361.png
+musiColor: /img/musiColor361.png
 description: This morning, the voice of women is resounding, it is growing and
   is fighting against multiple inequalities... Whether gentle or strong, frail
   or assertive, there must be no differences. Our guest this Sunday to this need

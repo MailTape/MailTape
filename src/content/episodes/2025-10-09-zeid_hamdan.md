@@ -14,7 +14,7 @@ description: "This morning, we are delighted to welcome Zeid Hamdan for a
   through the cracks. You’ll also be able to hear it live in Paris, at La Flèche
   d’Or on October 23."
 image: https://www.mailta.pe/img/fbPic593.png
-musiColor: musicolor593.png
+musiColor: /img/musicolor593.png
 alignY: "0.5"
 track1:
   title: Koast - Belek

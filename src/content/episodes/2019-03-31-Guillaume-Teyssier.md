@@ -8,7 +8,7 @@ writer: ImaCrea
 guest_color: bliss
 guestPic: /img/guestPic351.jpg
 image: https://www.mailta.pe/img/fbPic351.png
-musiColor: musiColor351.png
+musiColor: /img/musiColor351.png
 description: This morning we welcome Guillaume Teyssier, who accepted our
   invitation to come and play live at our MailTape Live 3rd edition at the
   Popup… on next Saturday! (tickets almost sold out!). Even though my memory can

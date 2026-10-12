@@ -8,7 +8,7 @@ guest_name: Skinshape
 guest_color: dreamy
 guestPic: /img/guestPic353.jpg
 image: https://www.mailta.pe/img/fbPic353new.png
-musiColor: musiColor353.png
+musiColor: /img/musiColor353.png
 description: This morning, Skinshape is welcoming us aboard his creative ship,
   you'd better be ready to weigh the anchor, sailor boys! From the Horn of
   Africa to foggy pirate havens, from the peaceful lands of England to the

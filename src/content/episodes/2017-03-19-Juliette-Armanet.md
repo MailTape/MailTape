@@ -10,7 +10,7 @@ writer: PS KY
 description: This morning, our guest Juliette Armanet accompanies us on a
   journey of heart felt tempos and spiced sentiments.
 image: https://www.mailta.pe/img/fbPic252.JPG
-musiColor: musicColor252.jpg
+musiColor: /img/musicColor252.jpg
 pubDate: 2017-03-19
 track1:
   title: Ricky Hollywood - Prie Pour Moi

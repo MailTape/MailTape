@@ -7,7 +7,7 @@ illustrator: Pierre-Julien Fieux
 guest_name: Monomotion
 guestPic: /img/guestPic228.jpg
 image: https://www.mailta.pe/img/fbPic228.jpg
-musiColor: musiColor228.png
+musiColor: /img/musiColor228.png
 writer: Louise
 guest_color: bliss
 description: This morning, we're back and on fire! Our guest is parisian

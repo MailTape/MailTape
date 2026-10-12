@@ -6,7 +6,7 @@ writer: Jules
 guest_name: Diogo Strausz
 guest_color: trippy
 illustrator: Camille Lemeunier
-musiColor: musiColor542.png
+musiColor: /img/musiColor542.png
 description: This morning, as I opened my eyes in bed and let my gaze glide
   across the ceiling of my bedroom, it seemed to me that something was missing.
   Was it a little warmth, a few rays of sunshine to pierce the grey winter sky?

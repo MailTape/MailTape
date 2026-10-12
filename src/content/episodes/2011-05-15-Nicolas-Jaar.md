@@ -7,7 +7,7 @@ guest_color: dreamy
 bigTitle_font_ratio: "6"
 guestPic: /img/guestPic3.jpg
 image: https://www.mailta.pe/img/fbPic3.png
-musiColor: musiColor3.png
+musiColor: /img/musiColor3.png
 description: This morning, Nicolas Jaar is inviting you to embark on a
   psychedelic journey with “The Electric Prunes”. In reality, we are still
   dreaming, and this is only the start of our journey...

@@ -14,7 +14,7 @@ guestPic: /img/guestPic314.jpg
 image: https://www.mailta.pe/img/fbPic314.jpg
 writer: Charlotte
 illustrator: Camille Célestin
-musiColor: musiColor314.png
+musiColor: /img/musiColor314.png
 pubDate: 2018-05-27
 track1:
   title: Electrelane - The Greater Times

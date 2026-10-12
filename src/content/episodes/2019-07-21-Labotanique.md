@@ -1,7 +1,7 @@
 ---
 bigTitle_font_ratio: "6"
 published: true
-musiColor: musiColor367.png
+musiColor: /img/musiColor367.png
 guest_name: Labotanique
 guestPic: /img/guestPic367.jpg
 description: This morning we leave in the forest far from the city, far from

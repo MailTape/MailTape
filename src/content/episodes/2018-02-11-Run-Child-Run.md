@@ -8,7 +8,7 @@ guest_name: Run Child Run
 guest_color: vibrant
 guestPic: /img/guestPic299.jpg
 image: https://www.mailta.pe/img/fbPic299.png
-musiColor: musiColor299.png
+musiColor: /img/musiColor299.png
 description: This morning, our guest Run Child Run has blessed us with a
   distinctive selection of timeless tracks.
 pubDate: 2018-02-11

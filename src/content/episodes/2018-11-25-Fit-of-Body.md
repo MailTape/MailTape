@@ -7,7 +7,7 @@ writer: Jules
 guest_name: Fit of Body
 guest_color: bliss
 guestPic: /img/guestPic333.jpg
-musiColor: musiColor333.png
+musiColor: /img/musiColor333.png
 description: This morning we are delighted to welcome Atlanta-based music
   producer Fit of Body to MailTape.
 image: https://www.mailta.pe/img/fbPic333new.jpg

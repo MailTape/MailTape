@@ -16,7 +16,7 @@ description: This morning, Mail Tape invites you to revisit some classics and to
   particularly discussed in this episode because it's the fruit of our passion,
   it's what we take pleasure in sharing with you, every Sunday!
 image: https://www.mailta.pe/img/fbPic570.jpg
-musiColor: musicolor570.png
+musiColor: /img/musicolor570.png
 track1:
   title: Bob Marley - Concrete Jungle
   color: vibrant

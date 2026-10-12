@@ -6,7 +6,7 @@ illustrator: Thibault Daumain
 writer: Jules
 guest_name: Sabrina Bellaouel
 guest_color: vibrant
-musiColor: musiColo425.png
+musiColor: /img/musiColo425.png
 guestPic: /img/guestPic425.jpg
 image: https://www.mailta.pe/img/fbPic425.png
 description: This morning, we are delighted to welcome Franco-Algerian singer

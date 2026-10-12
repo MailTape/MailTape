@@ -7,7 +7,7 @@ writer: Jules
 guest_name: Philémon Cimon
 guest_color: vibrant
 image: https://www.mailta.pe/img/fbPic396.png
-musiColor: musiColor396.png
+musiColor: /img/musiColor396.png
 guestPic: /img/guestPic396.jpg
 description: It took a while for Philémon Cimon’s songs to cross the Atlantic
   Ocean and reach my ears. I discovered him with his sixth album “PAYS”.

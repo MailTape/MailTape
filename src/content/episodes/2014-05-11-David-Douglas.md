@@ -11,7 +11,7 @@ description: "This Morning, we are pleased to introduce you our guest David
   Douglas. David has selected three untemporary classics to start our session.
   We’ve then completed it with some more recent material. Result: a unique
   cross-generational bliss episode. Enjoy!"
-musiColor: musiColor140.png
+musiColor: /img/musiColor140.png
 pubDate: 2014-05-11
 track1:
   title: Franz Schubert - Piano Trio In E-Flat

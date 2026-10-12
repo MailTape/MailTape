@@ -16,7 +16,7 @@ description: This morning, we're extremely grateful to celebrate our 600th
   mentioned he’s about to release an album soon, so be sure to keep an eye out
   for it.
 image: https://www.mailta.pe/img/fbPic600.jpg
-musiColor: musicolor600.png
+musiColor: /img/musicolor600.png
 track1:
   title: Lukas Koenig - Full Mantis (ft. Guilty Simpson)
   color: rough

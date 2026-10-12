@@ -10,7 +10,7 @@ writer: ImaCrea
 description: This morning, as we change seasons and the metamorphosis of life is
   in full swing, we are deeply enthusiastic to have Ola Szmidt as our guest.
 image: https://www.mailta.pe/img/fbpic585.jpg
-musiColor: 1000003871.png
+musiColor: /img/1000003871.png
 track1:
   title: The Staple Singers - Uncloudy Day
   color: bliss

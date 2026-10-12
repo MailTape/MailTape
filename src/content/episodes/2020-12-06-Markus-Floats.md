@@ -10,7 +10,7 @@ guestPic: /img/guestPic428.jpg
 image: https://www.mailta.pe/img/fbPic428.png
 description: This morning we welcome Markus Floats to select three snake-hipped
   Sunday morning tunes with us on MailTape.
-musiColor: musiColor428.png
+musiColor: /img/musiColor428.png
 pubDate: 2020-12-06
 track1:
   title: Ma$e (ft. Billy Lawrence) – Love U So

@@ -8,7 +8,7 @@ illustrator: Thibault Daumain
 author: Anaïs G
 published: true
 image: https://www.mailta.pe/img/fbPic406.png
-musiColor: musiColor406.png
+musiColor: /img/musiColor406.png
 description: This morning, we're everyday superheroes. We're trying to get back
   to a more "normal" life, little by little. Resume good habits by protecting
   yourself and others. And to accompany us in this new life, nothing like the

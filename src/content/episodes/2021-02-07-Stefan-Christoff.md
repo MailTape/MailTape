@@ -10,7 +10,7 @@ description: This morning we welcome Stefan Christoff to select three groovy
   Sunday morning tunes with us on MailTape.
 guestPic: /img/guestPic437.jpg
 image: https://www.mailta.pe/img/fbPic437.png
-musiColor: musiColor437.png
+musiColor: /img/musiColor437.png
 pubDate: 2021-02-07
 track1:
   title: Nyathela ft. Luqua – TNS

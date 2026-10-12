@@ -10,7 +10,7 @@ description: This morning we are delighted to welcome Dublin-based musician,
   Ruba Shamshoum, who collaborates with us to provide a beautifully laid-back
   Sunday morning playlist.
 guestPic: /img/guestPic301.jpg
-musiColor: musiColor301.png
+musiColor: /img/musiColor301.png
 image: https://www.mailta.pe/img/fbPic301.jpg
 pubDate: 2018-02-25
 track1:

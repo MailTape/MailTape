@@ -14,7 +14,7 @@ description: "Our artist of the week, Julien Marchal, has something unique to
   you the peace of mind you so deserve as you touch upon on the world of modern
   classical. "
 image: https://www.mailta.pe/img/fbPic287.png
-musiColor: musiColor287.png
+musiColor: /img/musiColor287.png
 pubDate: 2017-11-19
 track1:
   title: Novo Amor & Ed Tullett - Faux

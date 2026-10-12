@@ -12,7 +12,7 @@ description: With lots of love, this morning we welcome Soren Song to MailTape.
   Based in Woodstock, NY, their work is brimming with striking descriptions and
   deeply perceptive lyricism. It's a true joy to welcome them for a collection
   of tracks to start your Sunday.
-musiColor: ""
+musiColor: /img/""
 pubDate: 2022-11-27
 track1:
   title: Over The Rhine - Poughkeepsie

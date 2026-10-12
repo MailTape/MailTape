@@ -13,7 +13,7 @@ description: "There's a bit of everything in today's selection: a good dose of
   like that and yet, this autumnal MailTape is consistent with the season: full
   of colors that are a feast for the eyes (or the ears)."
 image: https://www.mailta.pe/img/fbPic592.png
-musiColor: musicolor592.png
+musiColor: /img/musicolor592.png
 track1:
   title: Charlotte Adigéry & Bolis Pupul - HAHA
   color: trippy

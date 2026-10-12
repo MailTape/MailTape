@@ -6,7 +6,7 @@ illustrator: Pierre-Julien Fieux
 writer: Laura
 guest_name: Roche Musique
 guest_color: vibrant
-musiColor: musiColor265.png
+musiColor: /img/musiColor265.png
 description: This morning, wake up with our very special guests, the pioneers of
   French Touch 2.0. Roche Musique label was created exactly 5 years ago by Jean
   Janin a.k.a Cézaire who surrounded himself with the cream of the French DJs

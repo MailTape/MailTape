@@ -9,7 +9,7 @@ guest_name: Mike Slott
 guest_color: dreamy
 guestPic: /img/guestPic453.jpg
 image: https://www.mailta.pe/img/fbPic453.png
-musiColor: musiColor453.png
+musiColor: /img/musiColor453.png
 description: This morning, let's go for a walk outside. We're joined by Mike
   Slott who made us an honor to accept our invitation.  Being one of the
   founders of LuckyMe, the legendary record label which released, among other

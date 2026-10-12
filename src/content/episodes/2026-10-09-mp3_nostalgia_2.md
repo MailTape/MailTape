@@ -38,7 +38,7 @@ track7:
   link: https://sounds.mailta.pe/616/track7.mp3
 description: At Mailtape, we sometimes assume we're a bit old-fashioned, from the generation of Walkmans, those from the 90s, into which we'd put old cassettes, sometimes recorded ourselves. Then came portable CD...
 image: ''
-musiColor: screenshot_2026-10-11_at_00.02.58.png
+musiColor: /img/screenshot_2026-10-11_at_00.02.58.png
 alignY: ''
 ---
 

@@ -7,7 +7,7 @@ bigTitle_line_ratio: "1"
 guest_name: Fellini Félin
 guestPic: /img/guestPic162.jpg
 image: https://www.mailta.pe/img/fbPic162.jpg
-musiColor: musiColor162.png
+musiColor: /img/musiColor162.png
 description: "This morning, discover Fellini Félin. Everything started in the
   Fellini’s Club in Barcelona. We were in the 2000 and Sébastien Coutureau,
   together with a bunch of friends, decided to create his first band : Fellini.

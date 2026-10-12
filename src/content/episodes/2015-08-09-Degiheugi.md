@@ -11,7 +11,7 @@ description: "This morning, get ready for a journey through a legendary wild
   the music flow feed your imagination and soon you’ll be able to see them.
   Shining from a little corner under a magic tree, these beats develop their
   full potential as your heart connects to their mystic waves. "
-musiColor: musiColor198.png
+musiColor: /img/musiColor198.png
 image: https://www.mailta.pe/img/fbPic198.jpg
 pubDate: 2015-08-09
 track1:

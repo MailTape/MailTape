@@ -8,7 +8,7 @@ guest_color: rough
 guestPic: /img/guestPic322.jpg
 writer: Luc
 image: https://www.mailta.pe/img/fbPic322.JPG
-musiColor: musicColor322.JPG
+musiColor: /img/musicColor322.JPG
 description: If defeating torpor is ever on your agenda, Ugandan’s own
   Nihiloxica, with their tribal percussions and visceral arrangements, should
   prove tremendously helpful. Their eponymous debut, recorded live in single

@@ -8,7 +8,7 @@ guest_color: vibrant
 writer: Sarah
 guestPic: /img/guestPic429.jpg
 image: https://www.mailta.pe/img/fbPic429.png
-musiColor: musiColor429.png
+musiColor: /img/musiColor429.png
 description: This morning, we wanted to give you plenty to daydream about. What
   else are Sundays for? Sorcha Richardson joins us with a varied and thoughtful
   selection to steady you for any kind of week that may lay ahead.

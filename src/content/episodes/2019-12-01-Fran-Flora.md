@@ -8,7 +8,7 @@ guest_name: Fran & Flora
 guest_color: dreamy
 guestPic: /img/guestPic382.jpg
 image: https://www.mailta.pe/img/fbPic382.jpg
-musiColor: musiColor382.png
+musiColor: /img/musiColor382.png
 description: This morning we are delighted to welcome Fran and Flora, the
   London-based string duo of Francesca Ter-Berg and Flora Curzon, to select some
   Sunday morning tunes with us on MailTape.

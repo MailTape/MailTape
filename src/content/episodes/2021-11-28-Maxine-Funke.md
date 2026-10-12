@@ -13,7 +13,7 @@ description: This morning, we are delighted to welcome Maxine Funk to MailTape
   album with meditative care. Every release in the discography lands its own
   distinctive emotional exploration, at once tender and consuming.
 illustrator: Meriam Kharbat
-musiColor: ""
+musiColor: /img/""
 pubDate: 2021-11-28
 track1:
   title: Joan Baez - A Simple Twist of Fate

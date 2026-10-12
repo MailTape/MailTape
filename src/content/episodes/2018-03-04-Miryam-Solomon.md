@@ -12,7 +12,7 @@ description: By way of Sweden and Eritrea we welcome London-based
   morning playlist that promises, with any luck, to accompany our sapling-like
   emergence from the extended winter.
 image: https://www.mailta.pe/img/fbPic302.jpg
-musiColor: musiColor302.png
+musiColor: /img/musiColor302.png
 pubDate: 2018-03-04
 track1:
   title: Grand Puba – I Like It

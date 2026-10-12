@@ -7,7 +7,7 @@ bigTitle_line_ratio: "1"
 guest_name: Project Pablo
 guestPic: /img/guestPic188.jpg
 image: https://www.mailta.pe/img/fbPic188.jpg
-musiColor: musiColor188.png
+musiColor: /img/musiColor188.png
 description: This morning, we’ve got the pleasure to welcome Project Pablo as a
   special guest for A tribute to the House Music of the beginning of the 90s !
   As an eighties and nineties’s House Music lover, it was a great surprise to

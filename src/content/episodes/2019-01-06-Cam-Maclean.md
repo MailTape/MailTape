@@ -12,7 +12,7 @@ description: This morning, we are embarking on a year filled with joy, love and
   Sunday filled with hope and sweetness.
 image: https://www.mailta.pe/img/fbPic339.png
 writer: Anaïs G
-musiColor: musiColor339.png
+musiColor: /img/musiColor339.png
 pubDate: 2019-01-06
 track1:
   title: Cadence Weapon - Five Roses (feat. Blue Hawaii)

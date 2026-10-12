@@ -6,7 +6,7 @@ guest_name: Alexander Hawkins
 guest_color: dreamy
 guestPic: /img/guestPic258.jpg
 image: https://www.mailta.pe/img/fbPic258.jpg
-musiColor: musiColor258.png
+musiColor: /img/musiColor258.png
 illustrator: Camille Célestin
 description: This morning, we are thrilled to welcome pianist, organist,
   composer and bandleader, Alexander Hawkins, who is ‘unlike anything else in

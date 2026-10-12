@@ -6,7 +6,7 @@ guest_name: Talitres Records
 guest_color: dreamy
 guestPic: /img/guestPic226.jpg
 image: https://www.mailta.pe/img/fbPic226.jpg
-musiColor: musiColor226.png
+musiColor: /img/musiColor226.png
 illustrator: William Girault
 writer: Louise
 description: This morning, Mailtape presents a brand new kind of episodes! Did

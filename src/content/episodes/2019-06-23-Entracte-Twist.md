@@ -6,7 +6,7 @@ illustrator: Camille Célestin
 writer: Anaïs G
 guest_name: Entracte Twist
 guestPic: /img/guestPic363.jpg
-musiColor: musiColor363.png
+musiColor: /img/musiColor363.png
 description: This morning, we take out the guitars, adjust our strings test the
   sound with the amp in boring neighbors...  And let our fingers slide so that
   we can wake up our faithful on Sunday morning. New-wave and post punk for your

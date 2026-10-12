@@ -16,7 +16,7 @@ description: "This morning, we are wading through worlds of color, shrouded on
   beloved arrangements. In addition to commissions for classical compositions,
   Janko is frequently sampled by hip hop, rap, and rhythm and blues artists
   (including Jay-Z and Dr Dre). "
-musiColor: musiColor467.png
+musiColor: /img/musiColor467.png
 pubDate: 2021-10-23
 track1:
   title: Steely Dan - Do It Again

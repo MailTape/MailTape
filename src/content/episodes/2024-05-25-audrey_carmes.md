@@ -13,7 +13,7 @@ description: This morning, we will continue to dream gently with our guest
   a realm of tranquility and introspection, as we explore the depths of our
   imagination together.
 image: https://www.mailta.pe/img/fbpic558.png
-musiColor: musicolor558.png
+musiColor: /img/musicolor558.png
 track1:
   title: Ana Roxanne - Suite pour l'invisible
   color: dreamy

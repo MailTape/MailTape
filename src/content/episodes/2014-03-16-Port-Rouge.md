@@ -11,7 +11,7 @@ description: Randomly browsing the web often ends up with nice discoveries. If
 guest_name: Port Rouge
 guestPic: /img/guestPic132.jpg
 image: https://www.mailta.pe/img/fbPic132.jpg
-musiColor: musiColor132.png
+musiColor: /img/musiColor132.png
 pubDate: 2014-03-16
 track1:
   title: Jurny - Only When I'm Dreaming (NMH025)

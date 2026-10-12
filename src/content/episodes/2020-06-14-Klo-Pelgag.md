@@ -6,7 +6,7 @@ illustrator: Thibault Daumain
 writer: Marion
 guest_name: Klô Pelgag
 guest_color: dreamy
-musiColor: musiColor410.png
+musiColor: /img/musiColor410.png
 guestPic: /img/guestPic410.jpg
 description: Today, we welcome Klô Pelgag for a sweet sunday morning made of
   fantastic stories.

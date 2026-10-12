@@ -7,7 +7,7 @@ bigTitle_line_ratio: "1"
 guest_name: Trevor Dickson
 guestPic: /img/guestPic185.jpg
 image: https://www.mailta.pe/img/fbPic185.jpg
-musiColor: musiColor185.png
+musiColor: /img/musiColor185.png
 description: This morning, enjoy the musical universe of a charming modern
   crooner. All this exotics percussions mixed with his crooner voice, sound to
   me as a fresh summer cocktail.

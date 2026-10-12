@@ -6,7 +6,7 @@ writer: Anaïs G
 guest_name: Fun Fun Funeral
 guest_color: dreamy
 guestPic: /img/guestPic383.jpg
-musiColor: musiColor383.png
+musiColor: /img/musiColor383.png
 image: http://mailta.pe/img/fbPic383.png
 description: This morning, the climate is one of grumbling and discontent.
   Voices are being raised in the streets to try to make things happen, to have a

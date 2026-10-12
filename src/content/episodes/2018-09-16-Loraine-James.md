@@ -9,7 +9,7 @@ guest_color: trippy
 guestPic: /img/guestPic323.jpg
 description: This week we are delighted to welcome London-based electronic
   musician, Loraine James, who selects some groovy Sunday morning chops for us.
-musiColor: musiColor323.png
+musiColor: /img/musiColor323.png
 image: https://www.mailta.pe/img/fbPic323.jpg
 pubDate: 2018-09-16
 track1:

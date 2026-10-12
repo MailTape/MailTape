@@ -14,7 +14,7 @@ description: This selection hums the voices of today. Comfort aside, just as we
   of illusions and hatred as we enter into a realm of hope wondering, as Sandra
   Nkaké says so well; what does it mean to be born?
 image: https://www.mailta.pe/img/fbPic384.png
-musiColor: musiColor384.png
+musiColor: /img/musiColor384.png
 pubDate: 2019-12-15
 track1:
   title: György Ligeti - Lux Aeterna (Wergo 1988)

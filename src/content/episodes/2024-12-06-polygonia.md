@@ -8,7 +8,7 @@ author: Sarah
 illustrator: Noémie Dijon
 writer: Sarah
 image: ""
-musiColor: musicolor569.png
+musiColor: /img/musicolor569.png
 track1:
   title: SALOMEA - Truth Is Queen, Kindness Is King
   color: dreamy

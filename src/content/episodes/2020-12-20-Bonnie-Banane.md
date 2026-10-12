@@ -13,7 +13,7 @@ description: This morning, we think about Christmas, shopping in crowded stores,
   button that you pop at the end of the evening...Fortunately to relax during
   its preparations, Bonnie Banane has made a playlist worthy of her parties!
 image: http://mailta.pe/img/fbPic430.png
-musiColor: musiColor430.png
+musiColor: /img/musiColor430.png
 track1:
   title: MonoNeon – I'm a raggedy bitch but my heart is amazing
   color: bliss

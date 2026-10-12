@@ -4,7 +4,7 @@ bigTitle_font_ratio: "6"
 published: true
 guest_color: dreamy
 image: https://www.mailta.pe/img/fbPic377.png
-musiColor: musiColor377.png
+musiColor: /img/musiColor377.png
 guestPic: /img/guestPic377.jpg
 guest_name: River Into Lake
 writer: Anaïs G

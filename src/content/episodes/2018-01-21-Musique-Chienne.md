@@ -7,7 +7,7 @@ writer: Inès
 guest_name: Musique Chienne
 guest_color: trippy
 guestPic: /img/guestPic296.jpg
-musiColor: musiColor296.png
+musiColor: /img/musiColor296.png
 image: https://www.mailta.pe/img/fbPic296.png
 description: This morning, please welcome Musique Chienne's sparkly selection!
   Musique Chienne is Sarah-Louise Barbett, a musician making "music for people

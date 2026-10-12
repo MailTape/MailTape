@@ -8,7 +8,7 @@ guest_name: Holy Tongue
 guest_color: trippy
 guestPic: /img/guestPic548.jpg
 image: https://www.mailta.pe/img/fbPic548.jpg
-musiColor: musiColor548.png
+musiColor: /img/musiColor548.png
 description: We're overjoyed to welcome Holy Tongue as our guests today. Their
   ethereal, entrancing music has captivated audiences worldwide, and we're
   honored to have them share their picks from some of their most cherished

@@ -25,7 +25,7 @@ description: >-
   offers a sixteenth album, the result of slow maturation, resolutely full of a
   joy that she enjoys sharing wherever she has the pleasure to play. 
 image: https://www.mailta.pe/img/fbPic567.jpg
-musiColor: musicolor567.png
+musiColor: /img/musicolor567.png
 track1:
   title: Dexter Gordon - Ca'Purange
   color: vibrant

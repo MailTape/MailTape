@@ -7,7 +7,7 @@ writer: Sanjay Mistry
 guest_name: Félicia Atkinson
 guest_color: trippy
 guestPic: /img/guestPic294.jpg
-musiColor: musiColor294.png
+musiColor: /img/musiColor294.png
 image: https://www.mailta.pe/img/fbPic294.jpg
 description: This morning we welcome preeminent Rennes-based avant-garde
   composer Félicia Atkinson to collaborate with us on MailTape. She weaves

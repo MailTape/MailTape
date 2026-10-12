@@ -14,7 +14,7 @@ description: This morning, we are delighted to welcome Operator Music Band, an
   a vocal and instrumental surgical precision, no matter if you suck at
   mathematics.
 guestPic: /img/GuestPic316ok.jpg
-musiColor: musiColor316.png
+musiColor: /img/musiColor316.png
 image: https://www.mailta.pe/img/fbPic316.png
 pubDate: 2018-06-10
 track1:

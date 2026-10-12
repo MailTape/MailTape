@@ -12,8 +12,8 @@ description: Damn planet, out of whack. Damn humans, making a mess of things and
   haven't grasped… Today our emotions are restless. Between bizarre dreams and
   muffled screams, we're creating a bubbling playlist to exorcise our dark
   introspections.
-image: " https://www.mailta.pe/img/fbPic615.png"
-musiColor: musicolor615.png
+image: /img/fbPic615.png
+musiColor: /img/musicolor615.png
 track1:
   title: Winter (feat. Sasami) – Good
   color: dreamy

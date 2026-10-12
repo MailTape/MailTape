@@ -21,7 +21,7 @@ description: >
   a deep breath, and let's start by listening to this episode, made with lots of
   tenderness.
 image: https://www.mailta.pe/img/fbPic599.png
-musiColor: musicolor599.png
+musiColor: /img/musicolor599.png
 track1:
   title: Melanie - People in the front row
   color: vibrant

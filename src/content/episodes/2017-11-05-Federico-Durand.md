@@ -8,7 +8,7 @@ illustrator: Camille Célestin
 writer: PS KY
 guest_color: dreamy
 image: https://www.mailta.pe/img/fbPic285.png
-musiColor: musiColor285.png
+musiColor: /img/musiColor285.png
 description: This morning, our guest Federico Durand, from the New York-based
   music label 12k is inviting you to just “listen”, turn off the thinking box,
   let go of all interpretations. Do not attempt to analyze each sound. Just

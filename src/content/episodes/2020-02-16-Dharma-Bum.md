@@ -7,7 +7,7 @@ author: Anaïs G
 illustrator: Camille Célestin
 guestPic: /img/guestPic393.jpg
 image: https://www.mailta.pe/img/fbPic393.png
-musiColor: musiColor393.png
+musiColor: /img/musiColor393.png
 guest_color: bliss
 description: This morning, it is madness that takes us, that puts us in a
   trance, that makes us do anything, but that allows us to take things as they

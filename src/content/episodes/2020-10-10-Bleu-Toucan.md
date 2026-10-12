@@ -1,7 +1,7 @@
 ---
 bigTitle_font_ratio: "6"
 published: true
-musiColor: musiColor420.png
+musiColor: /img/musiColor420.png
 image: https://www.mailta.pe/img/fbPic420.png
 guestPic: /img/guestPic420.jpg
 guest_color: dreamy

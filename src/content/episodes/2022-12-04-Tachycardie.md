@@ -8,7 +8,7 @@ guest_name: Tachycardie
 guestPic: /img/guestPic508.jpg
 guest_color: trippy
 image: https://www.mailta.pe/img/fbPic508.png
-musiColor: musiColor508.png
+musiColor: /img/musiColor508.png
 description: This morning, we explore, we dematerialize, we deconstruct the
   music. We beat it to find inspiration, we saturate it to its fullest, we look
   for the unknown, the astonishing, the shocking, the disconcerting in order to

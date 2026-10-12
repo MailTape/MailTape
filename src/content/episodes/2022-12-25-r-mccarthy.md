@@ -12,7 +12,7 @@ description: "  We are overjoyed to welcome r mccarthy to MailTape this Sunday
   morning :) His selection embraces new worlds of new age music, stretching time
   and sound into spaces unknown -- carrying creativity into these early morning
   hours. "
-musiColor: musiColor511.png
+musiColor: /img/musiColor511.png
 pubDate: 2022-12-25
 track1:
   title: Operating Theatre - Elation After Hours

@@ -7,7 +7,7 @@ writer: Sanjay Mistry
 guest_name: Tamar Osborn
 guest_color: dreamy
 guestPic: /img/guestPic311.jpg
-musiColor: musiColor311.png
+musiColor: /img/musiColor311.png
 image: https://www.mailta.pe/img/fbPic311.jpg
 description: This morning we welcome saxophonist and flautist, Tamar Osborn, who
   leads the seven-piece horn-led collective, Collocutor, in the vanguard of

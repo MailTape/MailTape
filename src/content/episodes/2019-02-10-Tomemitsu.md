@@ -14,7 +14,7 @@ description: "This morning, like a divine light coming from nowhere, caressing
   transports the spirits to take them into parallel worlds, this is what
   Tomemitsu shares with us this Sunday morning through a high selection in
   musical color.  "
-musiColor: musiColor344.png
+musiColor: /img/musiColor344.png
 pubDate: 2019-02-10
 track1:
   title: Sam Cooke and The Soul Stirrers - Christ it All

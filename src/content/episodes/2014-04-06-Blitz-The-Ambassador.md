@@ -13,7 +13,7 @@ description: This morning, wake up with a soulful selection inspired by monsieur
   surprise. Some may say we’re going into circle, to them we say it’s a spiral
   and this episode is to remind them we’ll keep digging the best to wake you up
   every sunday with a big smile on your face.
-musiColor: musiColor135.png
+musiColor: /img/musiColor135.png
 pubDate: 2014-04-06
 track1:
   title: Bob James - Nautilus

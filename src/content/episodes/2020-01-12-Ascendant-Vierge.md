@@ -8,7 +8,7 @@ writer: ImaCrea
 guest_color: rough
 guestPic: /img/guestPic388.jpg
 image: https://www.mailta.pe/img/fbPic388.png
-musiColor: musiColor388.png
+musiColor: /img/musiColor388.png
 description: This morning, we are extremely thrilled to have ascendant vierge as
   our dear guests. This duo gathers two rebel spirits, Mathilde Fernandez and
   Paul Seul. Trying to describe their music with words would only reduce it.

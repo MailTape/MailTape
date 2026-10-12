@@ -8,7 +8,7 @@ author: Jules
 illustrator: Marie Alléguède
 writer: Jules
 image: https://www.mailta.pe/img/fbPic563.png
-musiColor: musicolor563.png
+musiColor: /img/musicolor563.png
 track1:
   title: Beach House - Space Song
   color: dreamy

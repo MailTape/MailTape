@@ -13,7 +13,7 @@ description: Your Sunday in all its softness :) This morning, MailTape is
   album Lover, Other. With releases marked by swells of choral patchworks, a
   capella avant-garde, and jazz-funk harmonies, every listen from Rosie Lowe is
   a mosaic to discover. A gift for you this morning !
-musiColor: musicolor_564.png
+musiColor: /img/musicolor_564.png
 track1:
   title: Pete Josef - Sunny Side Up
   color: bliss

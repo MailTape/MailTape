@@ -6,7 +6,7 @@ illustrator: Anais Caura
 guest_name: Moor Mother
 guest_color: rough
 guestPic: /img/guestPic269.jpg
-musiColor: musiColor269.png
+musiColor: /img/musiColor269.png
 description: This morning we welcome Philadelphia-based interdisciplinary
   artist, Camae Ayewa (Moor Mother).
 image: https://www.mailta.pe/img/fbPic269.jpg

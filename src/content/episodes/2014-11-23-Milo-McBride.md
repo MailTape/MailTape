@@ -7,7 +7,7 @@ bigTitle_line_ratio: "0.6"
 guest_name: Milo McBride
 guestPic: /img/guestPic161.jpg
 image: https://www.mailta.pe/img/fbPic161.jpg
-musiColor: musiColor161.png
+musiColor: /img/musiColor161.png
 description: With this week’s MailTape we have made yet another discovery,
   featuring an inspired music producer from New York who, along with his
   groundbreaking selection, is all set to take you on an oracular journey of

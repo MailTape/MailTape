@@ -7,7 +7,7 @@ writer: Inès
 guest_name: Spread Joy
 guest_color: rough
 guestPic: /img/guestPic513.png
-musiColor: musiColor513.png
+musiColor: /img/musiColor513.png
 description: This morning, please welcome Spread Joy! Post-punk band Spread Joy
   makes fast-paced, rythmically changing songs that make you want to run or
   dance or jump or maybe all of it together? In this episode, we are going

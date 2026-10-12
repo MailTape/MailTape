@@ -11,7 +11,7 @@ description: This morning we are still confined and condemned to look at the sky
   peaceful hike in the heart of our inner mountain. Time to lie down, breathe
   slowly, and start drawing the landscapes that will allow you to escape.
 guestPic: /img/guestPic402.jpg
-musiColor: musiColor402.png
+musiColor: /img/musiColor402.png
 image: https://www.mailta.pe/img/fbPic402.png
 pubDate: 2020-04-19
 track1:

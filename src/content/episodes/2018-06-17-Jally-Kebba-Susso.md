@@ -10,7 +10,7 @@ guestPic: /img/guestPic317.jpg
 description: Today we are delighted to welcome kora player Jally Kebba Susso as
   he picks a soothing suite of Sunday morning jams for MailTape.
 image: https://www.mailta.pe/img/fbPic317.jpg
-musiColor: musiColor317.png
+musiColor: /img/musiColor317.png
 pubDate: 2018-06-17
 track1:
   title: " Ballaké Sissoko & Vincent Ségal – Chamber Music"

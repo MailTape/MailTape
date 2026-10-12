@@ -15,7 +15,7 @@ description: "This morning, it seems as we're entering the final stage of grief:
   beating. Now is no time to stop the rhythm but to let go and keep dancing with
   the unknown."
 image: https://www.mailta.pe/img/fbPic404.png
-musiColor: musiColor404.png
+musiColor: /img/musiColor404.png
 pubDate: 2020-05-03
 track1:
   title: Orior - Feels Like Summer

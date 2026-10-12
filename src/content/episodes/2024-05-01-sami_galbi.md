@@ -23,7 +23,7 @@ description: >+
 
 
 image: https://www.mailta.pe/img/fbPic557.jpeg
-musiColor: musicolor557.png
+musiColor: /img/musicolor557.png
 track1:
   title: Timber Timbre - Black Water
   color: dreamy

@@ -11,7 +11,7 @@ image: https://www.mailta.pe/img/fbPic282.jpg
 description: Described by Songlines magazine as ‘bold and poetic… beautiful and
   fearless’, we are delighted to share vocalist Amira Kheir’s Sunday morning
   listening for MailTape.
-musiColor: musiColor282.png
+musiColor: /img/musiColor282.png
 pubDate: 2017-10-15
 track1:
   title: Sarah Vaughan – All of Me

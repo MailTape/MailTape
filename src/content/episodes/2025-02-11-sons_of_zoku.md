@@ -16,7 +16,7 @@ description: >
 
   Let’s dive in.
 image: https://www.mailta.pe/img/fbPic576.jpg
-musiColor: musicolor576.png
+musiColor: /img/musicolor576.png
 alignY: "0.2"
 track1:
   title: " Fabiano Do Nascimento, Sam Gendel - Poeira"

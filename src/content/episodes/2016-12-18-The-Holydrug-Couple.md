@@ -7,7 +7,7 @@ guest_name: The Holydrug Couple
 guest_color: dreamy
 guestPic: /img/guestPic239.jpg
 image: https://www.mailta.pe/img/fbPic239.jpg
-musiColor: musiColor239.JPG
+musiColor: /img/musiColor239.JPG
 description: This morning, we will explore a variety of psychedelic territories
   with our guests The Holydrug Couple.
 writer: Dimitri

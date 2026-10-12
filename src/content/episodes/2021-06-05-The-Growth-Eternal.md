@@ -5,7 +5,7 @@ guest_name: The Growth Eternal
 writer: Sarah
 illustrator: Noémie Dijon
 author: Sarah
-musiColor: musiColor454.png
+musiColor: /img/musiColor454.png
 guestPic: /img/guestPic454.jpg
 image: https://www.mailta.pe/img/fbPic454.png
 guest_color: dreamy

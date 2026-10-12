@@ -6,7 +6,7 @@ illustrator: Noémie Dijon
 writer: Jules
 guest_name: NxQuantize
 guest_color: trippy
-musiColor: musiColor540.png
+musiColor: /img/musiColor540.png
 guestPic: /img/guestPic540.jpg
 image: https://www.mailta.pe/img/fbPic540.png
 description: This morning, we welcome Marseille-based artist and electronic

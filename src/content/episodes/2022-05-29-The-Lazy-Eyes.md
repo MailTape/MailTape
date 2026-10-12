@@ -14,7 +14,7 @@ description: "This morning, we're delighted to welcome The Lazy Eyes to MailTape
   keyboard; Italy Sasha on vocals and guitar; Leon Karagic on bass; and Noah
   Martin on drums. The band joins us following the release of their 2022 debut
   album SongBook, a world warp of smooth and experimental psychedelic grooves. "
-musiColor: musiColor495.png
+musiColor: /img/musiColor495.png
 pubDate: 2022-05-29
 track1:
   title: Grandaddy - The Crystal Lake

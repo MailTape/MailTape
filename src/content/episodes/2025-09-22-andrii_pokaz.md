@@ -17,7 +17,7 @@ description: >-
   album, Proteus, released this summer. A boundless universe to explore as your
   morning unfolds.
 image: https://www.mailta.pe/img/fbpic591.jpg
-musiColor: musicolor591.png
+musiColor: /img/musicolor591.png
 alignY: "0.4"
 track1:
   title: Esbjörn Svensson Trio - Serenade for the Renegade

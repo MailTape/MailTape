@@ -6,7 +6,7 @@ guest_name: Requin Chagrin
 guest_color: vibrant
 illustrator: Camille Célestin
 writer: Inès
-musiColor: musiColor248.png
+musiColor: /img/musiColor248.png
 description: This morning, juggle the calm and energetic moments thrown your way
   by Requin Chagrin’s eclectic selection. During this 30-minutes selection,
   travel all over the world, feel both warmth and coldness or just dance (alone)

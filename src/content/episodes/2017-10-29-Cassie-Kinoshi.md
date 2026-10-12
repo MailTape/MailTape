@@ -12,7 +12,7 @@ description: This morning’s guest, Cassie Kinoshi, is known primarily for her
   work with jazz septet Nérija, Afrobeat band Kokoroko and her own large
   ensemble, SEED. We are thrilled to present her Sunday morning jams in
   collaboration with MailTape!
-musiColor: musiColor284.png
+musiColor: /img/musiColor284.png
 pubDate: 2017-10-29
 track1:
   title: Kiran Kai ft. Jordan Rakei & Bdrsk – FF

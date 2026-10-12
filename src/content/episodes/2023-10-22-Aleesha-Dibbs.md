@@ -8,7 +8,7 @@ author: Sarah
 guest_color: dreamy
 guestPic: /img/guestPic538.jpg
 image: " https://www.mailta.pe/img/fbPic538.png"
-musiColor: musiColor538.png
+musiColor: /img/musiColor538.png
 description: This Sunday morning we welcome Aleesha Dibbs for MailTape's Episode
   538. Based in Sydney, Aleesha Dibbs joins us after the release of her debut
   solo EP, Paradise Lost - produced and co-written by Tom Crandles. Marked by

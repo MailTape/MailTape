@@ -6,7 +6,7 @@ bigTitle_font_ratio: "6"
 guest_name: Monsoonsiren
 guestPic: /img/guestPic199.jpg
 image: https://www.mailta.pe/img/fbPic199.png
-musiColor: musiColor199.png
+musiColor: /img/musiColor199.png
 description: This Sunday, we bring you a breath of fresh air with a young and
   rejuvenating artist from India. Nathan Menon is a vibrant and budding artist
   who goes by the name of Monsoonsiren. His minimalist vocals are both spacey

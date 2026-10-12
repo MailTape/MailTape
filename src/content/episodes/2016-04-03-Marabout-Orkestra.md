@@ -7,7 +7,7 @@ guest_color: vibrant
 bigTitle_font_ratio: "6"
 guestPic: /img/guestPic211.jpg
 image: https://www.mailta.pe/img/fbPic211.jpg
-musiColor: musiColor211.png
+musiColor: /img/musiColor211.png
 description: This morning, we're bringing you a soulful selection made in
   collaboration with Marabout Orkestra. Their afro jazz-funk inspiration is a
   sure bet to get you in a great mood and open your musical horizon.

@@ -15,7 +15,7 @@ description: >-
   landscapes. This episode includes tracks that showcase not only artistic
   brilliance but also personal and soulful evocations.
 image: https://www.mailta.pe/img/fbPic606.jpg
-musiColor: musicolor606.png
+musiColor: /img/musicolor606.png
 track1:
   title: Chemical Brothers & Hope Sandoval - Asleep from Day
   color: dreamy

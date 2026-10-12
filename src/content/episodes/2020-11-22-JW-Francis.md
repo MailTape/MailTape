@@ -6,7 +6,7 @@ writer: Sarah
 illustrator: Camille Célestin
 author: Sarah
 guest_color: vibrant
-musiColor: musiColor426.png
+musiColor: /img/musiColor426.png
 image: https://www.mailta.pe/img/fbPic426.png
 guest_name: JW Francis
 description: This morning, we are delighted to welcome JW Francis to MailTape

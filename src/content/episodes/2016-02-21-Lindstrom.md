@@ -7,7 +7,7 @@ guest_color: trippy
 bigTitle_font_ratio: "6"
 guestPic: /img/guestPic205.jpg
 image: https://www.mailta.pe/img/fbPic205.jpg
-musiColor: musiColor205.png
+musiColor: /img/musiColor205.png
 description: ""
 published: true
 author: Maxime

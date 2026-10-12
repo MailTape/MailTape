@@ -7,7 +7,7 @@ writer: Anaïs G
 guest_name: Grand Public
 guestPic: /img/guestPic527.jpg
 image: https://www.mailta.pe/img/fbPic527.png
-musiColor: musicolor527.png
+musiColor: /img/musicolor527.png
 description: 'This morning, We take advantage of this month of May to breathe,
   relax and take advantage of the many public holidays to get away with it. One
   watchword: do nothing, just enjoy the present time! It is with the musical

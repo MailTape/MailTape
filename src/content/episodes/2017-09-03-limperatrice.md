@@ -8,7 +8,7 @@ guest_name: L'impératrice
 guest_color: vibrant
 guestPic: /img/guestPic276.jpg
 image: https://www.mailta.pe/img/fbPic276.jpg
-musiColor: musiColor276.png
+musiColor: /img/musiColor276.png
 description: This morning, the glitter balls are spinning a little slower and
   our limbs swaying more gently in the dark. L'Impératrice is here to help us
   close out the summer, in the soft shadows of a long expected sunrise.

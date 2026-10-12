@@ -9,7 +9,7 @@ guest_name: Hélène Barbier
 guest_color: dreamy
 guestPic: /img/guestPic455.jpg
 image: https://www.mailta.pe/img/fbPic455.png
-musiColor: musiColor455.png
+musiColor: /img/musiColor455.png
 track1:
   title: Carole King - Beautiful
   color: vibrant

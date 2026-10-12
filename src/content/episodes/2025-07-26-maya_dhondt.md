@@ -15,7 +15,7 @@ description: >-
   beautiful mess made of strange and fascinating sounds. Some unclassifiable
   melodies, some wild herbs that grow where you least expect them...
 image: https://www.mailta.pe/img/fbpic589.png
-musiColor: musicolor589.png
+musiColor: /img/musicolor589.png
 track1:
   title: Nihiloxica  - Choir Chops
   color: vibrant

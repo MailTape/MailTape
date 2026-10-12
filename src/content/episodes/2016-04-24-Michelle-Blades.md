@@ -7,7 +7,7 @@ guest_color: dreamy
 bigTitle_font_ratio: "6"
 guestPic: /img/guestPic214.jpg
 image: https://www.mailta.pe/img/fbPic214.jpg
-musiColor: musiColor214.png
+musiColor: /img/musiColor214.png
 description: Hello there, this morning we gonna talk about the world. I mean,
   talk about Michelle Blades, a mexicano-Panamanian woman who lived in USA, then
   moved to Paris since 2012. It's quite the same than talking about

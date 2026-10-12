@@ -8,7 +8,7 @@ guest_name: Alligator x Ténéré
 guest_color: vibrant
 guestPic: /img/guestPic300.jpg
 image: https://www.mailta.pe/img/fbPic300.png
-musiColor: musiColor300.png
+musiColor: /img/musiColor300.png
 description: This morning is special, you are going to listen to our 300th
   episode. Today's release represent a high point in the MailTape adventure
   which marks 6 years dedicated to sharing with you the very best of our music

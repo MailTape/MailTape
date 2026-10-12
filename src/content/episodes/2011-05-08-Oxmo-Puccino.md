@@ -13,7 +13,7 @@ description: This morning, Oxmo offers us a round-trip ticket to Brazil, where
   the sound of an elevator awaiting to propel us to the top of a New York sky
   scrapper, listening to jazz with...
 image: https://www.mailta.pe/img/fbPic2.png
-musiColor: musiColor2.png
+musiColor: /img/musiColor2.png
 track1:
   title: Seu Jorge - Zé do Caroço (live)
   color: bliss

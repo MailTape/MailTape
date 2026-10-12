@@ -8,7 +8,7 @@ guest_name: Harleighblu
 guestPic: /img/guestPic152.jpg
 image: https://www.mailta.pe/img/fbPic152.jpg
 description: "This morning, we're back and with a Lady: please welcome Harleighblu !"
-musiColor: musiColor152.png
+musiColor: /img/musiColor152.png
 pubDate: 2014-09-21
 track1:
   title: Bilal - When will you call

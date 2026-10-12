@@ -6,7 +6,7 @@ illustrator: Jason Pridham
 writer: Jules
 guest_name: The Mauskovic Dance Band
 guest_color: trippy
-musiColor: " musiColor461.png"
+musiColor: /img/" musiColor461.png"
 guestPic: /img/guestPic461.jpg
 image: https://www.mailta.pe/img/fbPic461.png
 description: This morning something strange is floating in the air. The sky

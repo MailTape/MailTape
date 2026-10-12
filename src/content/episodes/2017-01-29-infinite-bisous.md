@@ -6,7 +6,7 @@ author: Inès
 illustrator: Pierre-Julien Fieux
 guest_name: infinite bisous
 guestPic: /img/guestPic245.jpg
-musiColor: musiColor245.png
+musiColor: /img/musiColor245.png
 image: https://www.mailta.pe/img/fbPic245.png
 description: This morning, take the time to slowly wake up with Infinite Bisous'
   selection. Stay a little bit longer in bed and enjoy a blissful journey

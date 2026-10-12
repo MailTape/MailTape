@@ -9,7 +9,7 @@ author: Ling
 illustrator: Meriam Kharbat
 writer: Ling
 guestPic: /img/guestPic478.jpg
-musiColor: ""
+musiColor: /img/""
 pubDate: 2022-01-23
 track1:
   title: Chromatics - In The City

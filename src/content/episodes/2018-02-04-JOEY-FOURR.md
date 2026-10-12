@@ -7,7 +7,7 @@ writer: PS KY
 guest_name: JOEY FOURR
 guest_color: bliss
 guestPic: /img/guestPic298.jpg
-musiColor: musiColor298.png
+musiColor: /img/musiColor298.png
 image: https://www.mailta.pe/img/fbPic298.png
 description: This morning, we bring you an electrifying and magnetic MailTape.
   Our guest Joey Fourr will thrust you out of your comfort zone with their

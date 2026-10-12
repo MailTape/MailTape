@@ -11,7 +11,7 @@ image: https://www.mailta.pe/img/fbPic260.JPG
 description: Bright and delightful morning to the masses and the listeners, to
   the frequency lovers and addicted souls of the music empire. Today, Ménage à
   Trois  will tickle you with their harmonious selection and singular sound.
-musiColor: musiColor260.jpg
+musiColor: /img/musiColor260.jpg
 pubDate: 2017-05-14
 track1:
   title: Rod Stewart - This Old Heart Of Mine (Ocean Edits)

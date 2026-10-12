@@ -9,7 +9,7 @@ guest_name: Good Morning TV
 guestPic: /img/guestPic452.jpg
 guest_color: dreamy
 image: https://www.mailta.pe/img/fbPic452.png
-musiColor: musiColor452
+musiColor: /img/musiColor452
 description: This morning, we’re back to a pretty normal life. We can plan to
   have brunches at the local restaurant, or join some friends at the bar
   downstairs and enjoy every moment that life gives us. It is with this

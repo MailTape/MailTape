@@ -15,7 +15,7 @@ description: This morning, I'm excited to share a blissful and uplifting episode
   lead you to great discoveries that will enrich the soundtrack of your summer.
   So, let’s be excellent to each other and enjoy the journey!
 image: https://www.mailta.pe/img/fbPic587.png
-musiColor: musicolor587.png
+musiColor: /img/musicolor587.png
 track1:
   title: Time Wharp - East River Dusk
   color: bliss

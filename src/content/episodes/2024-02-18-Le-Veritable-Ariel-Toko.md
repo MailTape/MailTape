@@ -7,7 +7,7 @@ guest_name: Le Véritable Ariel Toko
 guest_color: bliss
 guestPic: /img/guestPic547.jpg
 image: https://www.mailta.pe/img/fbPic547.png
-musiColor: musiColor547.png
+musiColor: /img/musiColor547.png
 description: This morning, we follow in the footsteps of irresistible music
   synonymous with softness and heat. If Africa is the birthplace of humankind,
   we will see in this episode that it has also pampered some rhythms which

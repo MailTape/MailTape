@@ -7,7 +7,7 @@ guestPic: /img/guestpic559.png
 author: Jules
 illustrator: Babi Brunelio
 writer: Jules
-musiColor: musicolor559.png
+musiColor: /img/musicolor559.png
 image: https://www.mailta.pe/img/fbpic559.jpg
 track1:
   title: Water Pistol Cowboys - I’m Sorry I Was Ignoring You

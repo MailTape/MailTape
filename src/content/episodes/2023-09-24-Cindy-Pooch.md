@@ -8,7 +8,7 @@ guest_name: Cindy Pooch
 guest_color: bliss
 guestPic: /img/guestPic535.jpg
 image: https://www.mailta.pe/img/fbPic535.jpg
-musiColor: musiColor535.png
+musiColor: /img/musiColor535.png
 description: This morning, we embark on a gentle and ethereal journey with the
   delightful presence of Cindy Pooch as our esteemed guest. She's leading us
   into a realm where music transcends its mere auditory form, serving as a

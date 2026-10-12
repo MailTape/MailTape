@@ -8,7 +8,7 @@ guest_name: Psychic Ills
 guest_color: dreamy
 guestPic: /img/guestPic227.jpg
 image: https://www.mailta.pe/img/fbPic227.png
-musiColor: musiColor227.png
+musiColor: /img/musiColor227.png
 description: This morning, discover a warm and indie selection made by our guest
   Psychic Ills. Packed with love and caring lyrics, this issue is perfect to
   accompagny a little poem of yours for your secret lover or one of your special

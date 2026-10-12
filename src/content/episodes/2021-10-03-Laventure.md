@@ -7,7 +7,7 @@ guest_name: Laventure
 guest_color: dreamy
 guestPic: /img/guestPic464.jpg
 image: https://www.mailta.pe/img/fbPic464.png
-musiColor: musiColor464.png
+musiColor: /img/musiColor464.png
 description: "This morning, it feels like the return of the long Sundays under
   the blanket watching the rain fall. The heat and sun of this summer gives way
   to the coolness of the morning. Depressed, but here at MailTape, we have the

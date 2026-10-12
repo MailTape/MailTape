@@ -5,7 +5,7 @@ author: Ludovic
 illustrator: Camille Célestin
 writer: ImaCrea
 image: https://www.mailta.pe/img/fbPic223.png
-musiColor: musiColor223.png
+musiColor: /img/musiColor223.png
 guest_name: Fatima Yamaha
 guestPic: /img/guestPic223.jpg
 guest_color: rough

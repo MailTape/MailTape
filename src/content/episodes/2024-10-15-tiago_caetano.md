@@ -12,7 +12,7 @@ description: This morning, we’ve crafted a soothing episode featuring our gues
   savoring a delightful brunch with friends. With Brazilian influences, pop
   elements, and a sense of lightness, it’s sure to uplift your spirits!
 image: https://www.mailta.pe/img/fbPic562.jpg
-musiColor: musicolor562.png
+musiColor: /img/musicolor562.png
 track1:
   title: Sessa - Gostar do Mundo
   color: dreamy

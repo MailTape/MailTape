@@ -15,7 +15,7 @@ description: "This morning, we're ringing in the day with some smooth sunshine
   it sounds like.\" His production style follows this free form and flowing
   process, where the end result is not hindered by any certain categorical
   distinction. "
-musiColor: musiColor485.png
+musiColor: /img/musiColor485.png
 pubDate: 2022-03-13
 track1:
   title: The Bongo Band - Apache

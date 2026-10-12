@@ -8,7 +8,7 @@ guest_name: Hinako Omori
 guest_color: dreamy
 guestPic: /img/guestPic490.jpg
 image: https://www.mailta.pe/img/fbPic490.jpg
-musiColor: musiColor489.png
+musiColor: /img/musiColor489.png
 description: This morning, we're taking you into an atmosphere of balance,
   softness and harmony. With our dear guest, Hinako Omori, we curated meditative
   and restorative tracks to help you ease into the day with a refreshed view.

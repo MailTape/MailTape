@@ -6,7 +6,7 @@ illustrator: Meriam Kharbat
 guest_name: Glenn Astro
 writer: ImaCrea
 image: https://www.mailta.pe/img/fbPic449.png
-musiColor: musiColor449.png
+musiColor: /img/musiColor449.png
 description: This morning, let's have some actively collected intuitions
   distilled from love. Experimental, mystic, and joyful vibes as we start our
   trip with a colorful selection curated by Glenn Astro. Time to get out of the

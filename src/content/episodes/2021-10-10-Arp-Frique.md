@@ -6,7 +6,7 @@ illustrator: Noémie Dijon
 writer: Jules
 guest_name: Arp Frique
 guest_color: trippy
-musiColor: musiColor465.png
+musiColor: /img/musiColor465.png
 guestPic: /img/guestPic465.jpeg
 image: https://www.mailta.pe/img/fbPic465.png
 description: This morning, the sun has never shone so brightly. Rotterdam-based

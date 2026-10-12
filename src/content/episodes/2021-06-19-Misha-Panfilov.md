@@ -7,7 +7,7 @@ guestPic: /img/guestPic456.jpg
 writer: Sarah
 illustrator: Jason Pridham
 author: Sarah
-musiColor: musiColor456.png
+musiColor: /img/musiColor456.png
 image: https://www.mailta.pe/img/fbPic456.png
 description: We begin our Sunday morning with a cosmic cowboy selection of
   tracks led by our dear guest Misha Panfilov. Based in Tallinn, Estonia,

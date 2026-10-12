@@ -8,7 +8,7 @@ illustrator: Pierre-Julien Fieux
 author: Anaïs G
 published: true
 image: https://www.mailta.pe/img/fbPic387.png
-musiColor: musiColor387.png
+musiColor: /img/musiColor387.png
 description: This morning, we are optimistic, it is a new year full of hope and
   discovery. It's one of the MailTape crew's promises, more music, always with
   the desire to share new bands, and to love your Sunday morning. To honour the

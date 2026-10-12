@@ -51,7 +51,7 @@ const episodes = defineCollection({
 		description: z.string().optional(),
 		// Transform string to Date object
 		pubDate: z.coerce.date(),
-		image: z.string().optional().optional(),
+		image: z.string().optional(),
 		musiColor: z.string().optional(),
 		alignY: z.string().optional(),
 	}),

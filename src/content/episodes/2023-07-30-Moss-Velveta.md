@@ -8,7 +8,7 @@ illustrator: Nella Papelita
 writer: Sarah
 guest_color: trippy
 image: https://www.mailta.pe/img/fbPic533.png
-musiColor: musiColor533.png
+musiColor: /img/musiColor533.png
 description: This Sunday, we take the tread into morning's mist as we welcome
   the elusive Moss Velveta for Episode 533. Presently anonymous, the group's
   releases strike cinematic intensity, dipping into both baroque dissonances and

@@ -16,7 +16,7 @@ description: This morning our dream tapestries cross into the sunlight, letting
   effervescent techno, with rich and unexpected marriages across genre and
   instruments.
 image: https://www.mailta.pe/img/fbpic577.jpg
-musiColor: musicolor577.png
+musiColor: /img/musicolor577.png
 track1:
   title: Jacco Gardner - Descent
   color: vibrant

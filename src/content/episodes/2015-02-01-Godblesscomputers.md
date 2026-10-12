@@ -11,7 +11,7 @@ description: We like to think that Lorenzo Nada is a genius who knows how to
   utilize computers to the best of their utility. His sounds are fresh, but
   familiar. For those of you open to versatility, Godblesscomputers is a
   must-listen.
-musiColor: musiColor171.png
+musiColor: /img/musiColor171.png
 pubDate: 2015-02-01
 track1:
   title: Ifan Dafydd - Celwydd (feat. Alys Williams)

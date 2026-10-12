@@ -7,7 +7,7 @@ author: ImaCrea
 illustrator: Meriam Kharbat
 guestPic: /img/guestPic471.jpg
 image: https://www.mailta.pe/img/fbPic471.jpg
-musiColor: musiColor471.png
+musiColor: /img/musiColor471.png
 description: This morning, we welcome our guest Lael Neale with a delicate and
   pacifying MailTape. This calming selection is an invitation to slow down, a
   guided introspection as we truly listen to both the music and ourselves.  As

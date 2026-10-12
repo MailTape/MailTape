@@ -11,7 +11,7 @@ description: Close your eyes and float away in a blissful auditory dream
   courtesy of Paris-based guitarist, Eric Chenaux. He provides us with a sweet
   Sunday morning glimpse into Canada’s contemporary music milieu.
 image: https://www.mailta.pe/img/fbPic313.jpg
-musiColor: musiColor313.png
+musiColor: /img/musiColor313.png
 pubDate: 2018-05-20
 track1:
   title: Martin Arnold – Stain Ballad

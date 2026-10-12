@@ -11,7 +11,7 @@ description: This morning, we're not letting winter take our energy. It's cold
   but our hearts are warmer than ever. And with Minuit Machine as our guests,
   prepare for a journey through a selection of energetic and cathartic tracks.
   Open, open, open, make a big O and keep searching.
-musiColor: musiColor509.png
+musiColor: /img/musiColor509.png
 image: https://www.mailta.pe/img/fbPic509.png
 pubDate: 2022-12-11
 track1:

@@ -8,7 +8,7 @@ guest_name: Adela Mede
 guest_color: dreamy
 guestPic: /img/guestPic526.jpg
 image: https://www.mailta.pe/img/fbPic526.png
-musiColor: musiColor526.png
+musiColor: /img/musiColor526.png
 description: This morning, we're embarking on a dreamy journey with Adela Mede.
   Her carefully selected tracks take us deep into a smooth and blissful
   soundscape, allowing us to wake up gently while keeping the dream alive

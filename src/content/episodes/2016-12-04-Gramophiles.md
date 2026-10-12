@@ -7,7 +7,7 @@ guest_name: Gramophiles
 guest_color: vibrant
 guestPic: /img/guestPic237.jpg
 image: https://www.mailta.pe/img/fbPic237.jpg
-musiColor: muciColor237.png
+musiColor: /img/muciColor237.png
 description: This morning, we welcome you in the vintage universe of music.
 illustrator: Isabelle Escande
 pubDate: 2016-12-04

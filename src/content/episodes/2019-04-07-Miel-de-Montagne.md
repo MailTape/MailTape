@@ -8,7 +8,7 @@ guest_name: Miel de Montagne
 guest_color: dreamy
 guestPic: /img/guestPic352.jpg
 image: https://www.mailta.pe/img/fbPic352.png
-musiColor: musiColor352.png
+musiColor: /img/musiColor352.png
 description: This morning, the atmosphere is light almost aerial, like the
   whipped cream that is on my boyfriend’s birthday cake. With imagination we
   could almost find ourselves hovering and swimming inside surrounded by love

@@ -8,7 +8,7 @@ author: Jules
 illustrator: Noémie Dijon
 writer: Jules
 image: https://www.mailta.pe/img/fbPic571.png
-musiColor: musicolor571.png
+musiColor: /img/musicolor571.png
 track1:
   title: Jockstrap - Concrete Over Water
   color: dreamy

@@ -11,7 +11,7 @@ description: "This morning, please welcome Jerry Paper's eclectic selection. His
   music is multi-faceted. It's witty and stays graceful at all times. Are you
   ready to enter Jerry Paper’s musical multiverse? "
 image: https://www.mailta.pe/img/fbPic327.png
-musiColor: musiColor327.png
+musiColor: /img/musiColor327.png
 pubDate: 2018-10-14
 track1:
   title: Matty - Every Moment I Live to Come

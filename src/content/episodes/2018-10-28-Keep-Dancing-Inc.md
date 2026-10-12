@@ -16,7 +16,7 @@ description: This morning, we welcome Louis, Charles, Gabrielle and Joseph from
   – it is warm and welcoming.
 guestPic: /img/guestPic329.jpg
 image: https://www.mailta.pe/img/fbPic329.jpg
-musiColor: musiColor329.png
+musiColor: /img/musiColor329.png
 pubDate: 2018-10-28
 track1:
   title: Porches - Country

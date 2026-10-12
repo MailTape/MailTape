@@ -7,7 +7,7 @@ writer: ImaCrea
 guest_name: Alligator
 guest_color: vibrant
 image: https://www.mailta.pe/img/fbPic482.jpg
-musiColor: musiColor482.png
+musiColor: /img/musiColor482.png
 guestPic: /img/guestPic482.jpg
 description: This morning, we stop reading the news and start dancing. Did you
   know the oldest proof of dancing comes from 9000 years old cave paintings that

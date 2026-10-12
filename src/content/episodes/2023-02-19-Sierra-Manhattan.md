@@ -7,7 +7,7 @@ guest_name: Sierra Manhattan
 guest_color: bliss
 guestPic: /img/guestPic518.jpg
 image: https://www.mailta.pe/img/fbPic518.png
-musiColor: musiColor518.png
+musiColor: /img/musiColor518.png
 description: This morning, you need to rest, to let yourself go to other
   sensations, or to rediscover simple pleasures such as enjoying your loved
   ones, the rays of the sun, bird watching or even feeling the wind in your

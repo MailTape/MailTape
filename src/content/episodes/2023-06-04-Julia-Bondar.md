@@ -8,7 +8,7 @@ guest_name: Julia Bondar
 guest_color: rough
 guestPic: /img/guestPic529.jpg
 image: fbPic529.jpg
-musiColor: musiColor529.png
+musiColor: /img/musiColor529.png
 description: This morning... Oh wait ! It’s morning already ? We didn't see it
   coming. It’s   like we got stuck in that club, where we lived a thousand lives
   in a single   night.

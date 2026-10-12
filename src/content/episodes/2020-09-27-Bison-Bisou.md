@@ -8,7 +8,7 @@ illustrator: Anthony Dujardin
 author: Anaïs G
 published: true
 image: https://www.mailta.pe/img/fbPic418.png
-musiColor: musiColor418.png
+musiColor: /img/musiColor418.png
 description: This morning, we are in transition from remembering the warmth of
   our summer to the coolness of the rainy days. It's all about fighting the
   outside elements with big guitar riffs, big sounds that tap and accompany the

@@ -7,7 +7,7 @@ guest_name: Kelly Lee Owens
 guest_color: bliss
 guestPic: /img/guestPic272.jpg
 image: https://www.mailta.pe/img/fbPic272.png
-musiColor: musiColor272.png
+musiColor: /img/musiColor272.png
 writer: Daisy
 description: This morning, slip into cruise control. Kelly Lee Owens is here,
   and the listening is easy. Travel a new map along roads that you thought you

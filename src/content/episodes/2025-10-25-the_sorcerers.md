@@ -14,7 +14,7 @@ description: This morning, MailTape offers you the soundtrack of a thrilling
   futuristic past and resolutely modern sounds, which draw from varied
   influences!
 image: https://www.mailta.pe/img/InstaPic595.png
-musiColor: musicolor595.png
+musiColor: /img/musicolor595.png
 track1:
   title: Saif Abu Bakr & The Scorpions - Nile Waves
   color: vibrant

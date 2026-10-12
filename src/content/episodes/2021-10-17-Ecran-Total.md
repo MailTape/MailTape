@@ -12,7 +12,7 @@ description: This morning, please welcome Camille & Margaux from Écran Total.
   so particular in the early days following the meeting of two spirits. Innocent
   and groovy, today's episode is an ode to sunshine and love. Let the music
   play!
-musiColor: musiColor466.png
+musiColor: /img/musiColor466.png
 image: https://www.mailta.pe/img/fbPic466.jpg
 pubDate: 2021-10-17
 track1:

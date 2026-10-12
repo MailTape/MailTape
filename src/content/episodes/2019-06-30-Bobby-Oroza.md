@@ -12,7 +12,7 @@ description: This morning, whether on sunny beaches, palm groves or lush oases,
   influences, with Bobby Oroza.
 guestPic: /img/guestPic364-1.jpg
 image: https://www.mailta.pe/img/fbPic364.png
-musiColor: musiColor364.png
+musiColor: /img/musiColor364.png
 pubDate: 2019-06-30
 track1:
   title: Chico Buarque - Olê, Olá

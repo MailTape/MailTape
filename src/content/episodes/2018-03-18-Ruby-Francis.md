@@ -2,7 +2,7 @@
 bigTitle_font_ratio: "6"
 published: true
 image: https://www.mailta.pe/img/fbPic304.jpg
-musiColor: musiColor304.png
+musiColor: /img/musiColor304.png
 author: Louise
 illustrator: William Girault
 guest_name: Ruby Francis

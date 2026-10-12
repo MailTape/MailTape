@@ -6,7 +6,7 @@ bigTitle_font_ratio: "6"
 guest_name: Crackazat
 guestPic: /img/guestPic195.jpg
 image: https://www.mailta.pe/img/fbPic195.jpg
-musiColor: musiColor195.png
+musiColor: /img/musiColor195.png
 description: This morning, you deserve an effective awakening of the senses. The
   kind of awakening that make you smile, the head buried in the pillow. And,
   slowly, it's your hand taping, then your foot wagging... here we are ! Coffee

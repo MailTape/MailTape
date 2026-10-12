@@ -7,7 +7,7 @@ guest_color: vibrant
 bigTitle_font_ratio: "6"
 guestPic: /img/guestPic203.jpg
 image: https://www.mailta.pe/img/fbPic203.jpg
-musiColor: musiColor203.png
+musiColor: /img/musiColor203.png
 description: ""
 published: true
 curator: Maxime

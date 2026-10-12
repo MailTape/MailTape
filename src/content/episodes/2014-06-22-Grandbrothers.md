@@ -6,7 +6,7 @@ bigTitle_font_ratio: "8"
 bigTitle_line_ratio: "1"
 guest_name: Grandbrothers
 guestPic: /img/guestPic146.jpg
-musiColor: musiColor146.png
+musiColor: /img/musiColor146.png
 image: https://www.mailta.pe/img/fbPic146.jpg
 description: "This morning, two special guests invite you to their universe.
   Please enter the world of the duo Grandbrothers. "

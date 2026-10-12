@@ -7,7 +7,7 @@ guest_name: Cut Off Your Hands
 guest_color: vibrant
 guestPic: /img/guestPic253new2.jpg
 writer: Inès
-musiColor: musiColor253.png
+musiColor: /img/musiColor253.png
 image: https://www.mailta.pe/img/fbPic253.png
 description: This morning, let's enjoy the comeback of sunnier days while
   listening to Cut Off Your Hands' kaleidoscopic selection. Open your windows,

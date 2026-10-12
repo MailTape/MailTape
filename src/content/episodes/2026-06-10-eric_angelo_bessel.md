@@ -12,7 +12,7 @@ description: "This Sunday we welcome Eric Angelo Bessel to MailTape for a
   release of his album, Mirror at Night (as well as the most recent release of
   the album's B-Sides !). "
 image: https://www.mailta.pe/img/fbPic611.jpg
-musiColor: musicolor611.png
+musiColor: /img/musicolor611.png
 alignY: ""
 track1:
   title: Faten Kanaan - Alcoyana-Capri

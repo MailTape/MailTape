@@ -7,7 +7,7 @@ guest_name: Mathilde Fernandez
 guest_color: bliss
 writer: ImaCrea
 guestPic: /img/guestPic451.jpg
-musiColor: musiColor451.png
+musiColor: /img/musiColor451.png
 image: https://www.mailta.pe/img/fbPic451.png
 description: "This morning, we're glad to have Mathilde Fernandez with us, this
   time to share her inspiration gravitating around her solo project. Last time,

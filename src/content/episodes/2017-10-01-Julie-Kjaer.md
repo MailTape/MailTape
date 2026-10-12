@@ -8,7 +8,7 @@ guest_name: Julie Kjær
 guest_color: trippy
 image: https://www.mailta.pe/img/fbPic280.jpg
 guestPic: /img/guestPic280.jpg
-musiColor: musiColor280.png
+musiColor: /img/musiColor280.png
 description: This morning we welcome the infectious enthusiasm and unbridled
   energy of London-based multi-reed player, Julie Kjær.
 pubDate: 2017-10-01

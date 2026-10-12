@@ -8,7 +8,7 @@ guest_name: Martin Dupont
 guest_color: vibrant
 guestPic: /img/guestPic525.png
 image: https://www.mailta.pe/img/fbPic525.jpg
-musiColor: musiColor525.png
+musiColor: /img/musiColor525.png
 description: This morning, get ready to start your day with a heartfelt and
   captivating episode of MailTape with Martin Dupont! We're thrilled to share
   with you a special selection of hidden gems that we've curated after

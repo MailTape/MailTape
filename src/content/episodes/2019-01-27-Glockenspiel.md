@@ -8,7 +8,7 @@ guest_name: Glockenspiel
 guest_color: dreamy
 guestPic: /img/guestPic342.jpg
 image: https://www.mailta.pe/img/fbPic342.jpg
-musiColor: musiColor342.png
+musiColor: /img/musiColor342.png
 description: This morning we are delighted to welcome Adrian Dollemore of
   Glockenspiel to select three Sunday morning tunes for us on MailTape.
 pubDate: 2019-01-27

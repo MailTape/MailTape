@@ -7,7 +7,7 @@ writer: Jules
 guest_name: The Balek Band
 guest_color: trippy
 guestPic: /img/guestPic496.jpeg
-musiColor: musiColor496.png
+musiColor: /img/musiColor496.png
 image: https://www.mailta.pe/img/fbPic496.png
 description: This morning, we are delighted to welcome Nantes-based group The
   Balek Band. Their very first album, Médecines, was freshly released last

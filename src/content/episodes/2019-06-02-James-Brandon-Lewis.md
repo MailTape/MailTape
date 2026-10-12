@@ -11,7 +11,7 @@ description: This morning we are pleased to welcome saxophonist and composer,
   us.
 guestPic: /img/guestPic360.jpg
 image: https://www.mailta.pe/img/fbPic360.jpg
-musiColor: musiColor360.png
+musiColor: /img/musiColor360.png
 pubDate: 2019-06-02
 track1:
   title: Ornette Coleman – The Blessing

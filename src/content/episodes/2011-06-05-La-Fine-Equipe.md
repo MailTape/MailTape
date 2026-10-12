@@ -6,7 +6,7 @@ writer: ImaCrea
 guest_name: La Fine Équipe
 guestPic: /img/guestPic6.jpg
 image: https://www.mailta.pe/img/fbPic6.jpg
-musiColor: musiColor6.png
+musiColor: /img/musiColor6.png
 guest_color: rough
 illustrator: William Girault
 description: This morning, La Fine Équipe are off to a great start with Stevie

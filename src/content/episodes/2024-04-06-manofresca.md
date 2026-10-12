@@ -17,7 +17,7 @@ description: This morning we invite you to explore a particular vibe. It is not
   inevitably create wonders from them? Isn’t it necessary to then dare to take
   the plunge and share your work with the public?
 image: " https://www.mailta.pe/img/fbPic553.png"
-musiColor: musicolor.png
+musiColor: /img/musicolor.png
 track1:
   title: "Brad Behldau - After Bach: Flux"
   color: bliss

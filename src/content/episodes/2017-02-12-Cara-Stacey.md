@@ -8,7 +8,7 @@ guest_name: Cara Stacey
 guest_color: dreamy
 guestPic: /img/guestPic247.jpg
 image: https://www.mailta.pe/img/fbPic247.jpg
-musiColor: musiColor247.png
+musiColor: /img/musiColor247.png
 description: This morning, let your curiosity about the world and all its
   corners run wild, with an intriguing selection from our guest Cara Stacey -
   composer, researcher, improviser and multi-instrumentalist.

@@ -7,7 +7,7 @@ bigTitle_line_ratio: "1"
 guest_name: Kid Francescoli
 guestPic: /img/guestPic178.jpg
 image: https://www.mailta.pe/img/fbPic178.jpg
-musiColor: musiColor178.png
+musiColor: /img/musiColor178.png
 description: This morning, our playlist curated with Kid Francescoli is like a
   perennial river as it is meant to flow round the clock. The first track serves
   as a point of origin. And subsequently, the second track is where the river

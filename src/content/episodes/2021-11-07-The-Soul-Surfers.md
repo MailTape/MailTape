@@ -6,7 +6,7 @@ illustrator: Julie Wojtczak
 writer: Sarah
 guest_name: The Soul Surfers
 guest_color: bliss
-musiColor: musiColor469.png
+musiColor: /img/musiColor469.png
 guestPic: /img/guestPic469.jpg
 image: https://www.mailta.pe/img/fbPic469.png
 description: "  This morning, we are delighted to welcome The Soul Surfers to

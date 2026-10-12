@@ -8,7 +8,7 @@ guest_name: Emanative
 guest_color: vibrant
 guestPic: /img/guestPic271.jpg
 image: https://www.mailta.pe/img/fbPic271.jpg
-musiColor: musiColor271.png
+musiColor: /img/musiColor271.png
 description: This morning long-time jazz wayfarer Nick Woodmansey’s Emanative
   picks his three Sunday morning tunes for MailTape.
 pubDate: 2017-07-30

@@ -16,7 +16,7 @@ description: "At Mailtape, we sometimes assume we're a bit old-fashioned. We are
   them, and listening to them on our little device, in various contexts, often
   intimate."
 image: https://www.mailta.pe/img/fbpic609.png
-musiColor: musicolor609.png
+musiColor: /img/musicolor609.png
 track1:
   title: Gilbert Bécaud - Contre Vous
   color: vibrant

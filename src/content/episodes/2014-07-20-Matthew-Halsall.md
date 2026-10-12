@@ -10,7 +10,7 @@ image: https://www.mailta.pe/img/fbPic150.jpg
 description: This morning, our guest' selection will probably widen your morning
   musical horizon! Please welcome on stage the Manchester based trumpeter
   Matthew Halsall.
-musiColor: musiColor150.png
+musiColor: /img/musiColor150.png
 pubDate: 2014-07-20
 track1:
   title: Harpista - He Has a Name (Awareness)

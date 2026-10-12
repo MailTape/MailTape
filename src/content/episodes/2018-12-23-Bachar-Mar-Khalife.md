@@ -8,7 +8,7 @@ writer: Manon
 guestPic: /img/guestPic337.jpg
 illustrator: Anthony Dujardin
 image: https://www.mailta.pe/img/fbPic337.jpg
-musiColor: musiColor337.jpg
+musiColor: /img/musiColor337.jpg
 description: This morning we are delighted to welcome Franco-Lebanese singer,
   songwriter and multi-instrumentalist Bachar Mar-Khalifé to pick three Sunday
   morning musical selections for us. Accomplished artist and son of the

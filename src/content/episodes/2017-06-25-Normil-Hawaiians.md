@@ -10,7 +10,7 @@ description: This morning, we are delighted to welcome Normil Hawaiians.
   Operating more like a collective than a band, the Normil Hawaiians formed in
   the austere post-punk permafrost of 1980s UK.
 image: https://www.mailta.pe/img/fbPic266.jpg
-musiColor: musiColor266.png
+musiColor: /img/musiColor266.png
 pubDate: 2017-06-25
 track1:
   title: Fela Kuti - Power Show (Edit)

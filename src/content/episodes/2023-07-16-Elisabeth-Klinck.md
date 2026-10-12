@@ -8,7 +8,7 @@ guest_name: Elisabeth Klinck
 guest_color: dreamy
 guestPic: /img/guestPic532.jpg
 image: https://www.mailta.pe/img/fbPic532.jpg
-musiColor: musiColor532.png
+musiColor: /img/musiColor532.png
 description: On this Sunday morning, let's venture far from the city with our
   guest, Elisabeth Klinck. This selection has been curated for wide open spaces,
   contemplation, and walking in unknown lands. It's an invitation to shift our

@@ -7,7 +7,7 @@ bigTitle_line_ratio: "1"
 guest_name: The Jazzment
 guestPic: /img/guestPic130.jpg
 image: https://www.mailta.pe/img/fbPic130.jpg
-musiColor: musiColor130.png
+musiColor: /img/musiColor130.png
 description: This morning, please welcome, smoothly, The Jazzment. Most of us
   stick to some artists over the years, coming back listening to them for they
   carry some special feeling and memories. That's the case for me with The

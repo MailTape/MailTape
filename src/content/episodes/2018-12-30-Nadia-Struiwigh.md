@@ -11,7 +11,7 @@ description: In this final episode of 2018, we are delighted to welcome
   meditative Sunday morning tunes.
 image: https://www.mailta.pe/img/fbPic338.jpg
 guestPic: /img/guestPic338.jpg
-musiColor: musiColor338.png
+musiColor: /img/musiColor338.png
 pubDate: 2018-12-30
 track1:
   title: West Dylan Thordson – Meeting the Others

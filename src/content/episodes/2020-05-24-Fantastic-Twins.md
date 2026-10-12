@@ -7,7 +7,7 @@ writer: Jules
 guest_name: Fantastic Twins
 guest_color: trippy
 guestPic: /img/guestPic407.jpg
-musiColor: musiColor407.png
+musiColor: /img/musiColor407.png
 image: https://www.mailta.pe/img/fbPic407.png
 description: This morning, we're feeling fantastic. The days are getting longer,
   summer is almost here and life is gradually resuming. We discover resources,
