@@ -6,7 +6,7 @@ illustrator: Meriam Kharbat
 writer: PS KY
 guest_name: Mansfield.TYA
 guest_color: trippy
-guestPic: guestPic445.jpg
+guestPic: /img/guestPic445.jpg
 image: https://www.mailta.pe/img/fbPic445.png
 musiColor: musiColor445.png
 description: This morning, we welcome Mansfield.TYA, a surprisingly raw music

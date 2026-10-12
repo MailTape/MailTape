@@ -3,7 +3,7 @@ published: true
 pubDate: 2025-07-20
 guest_name: Gabriel Brady
 guest_color: dreamy
-guestPic: guestpic588.jpg
+guestPic: /img/guestpic588.jpg
 author: ImaCrea
 illustrator: Camille Lemeunier
 writer: ImaCrea

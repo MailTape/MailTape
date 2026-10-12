@@ -3,7 +3,7 @@ published: true
 pubDate: 2025-11-09
 guest_name: Antoine Bellanger
 guest_color: trippy
-guestPic: guestpic597.jpg
+guestPic: /img/guestpic597.jpg
 author: ImaCrea
 illustrator: Julie Wojtczak
 writer: ImaCrea

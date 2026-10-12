@@ -6,7 +6,7 @@ writer: Sarah
 illustrator: Meriam Kharbat
 guest_name: r mccarthy
 guest_color: dreamy
-guestPic: guestPic511.jpg
+guestPic: /img/guestPic511.jpg
 image: https://www.mailta.pe/img/fbPic511.png
 description: "  We are overjoyed to welcome r mccarthy to MailTape this Sunday
   morning :) His selection embraces new worlds of new age music, stretching time

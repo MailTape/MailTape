@@ -7,7 +7,7 @@ writer: Sarah
 guest_name: The Soul Surfers
 guest_color: bliss
 musiColor: musiColor469.png
-guestPic: guestPic469.jpg
+guestPic: /img/guestPic469.jpg
 image: https://www.mailta.pe/img/fbPic469.png
 description: "  This morning, we are delighted to welcome The Soul Surfers to
   MailTape for a collection of experimental and exploratory tracks. Led by

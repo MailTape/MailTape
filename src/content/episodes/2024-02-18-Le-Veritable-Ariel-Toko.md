@@ -5,7 +5,7 @@ illustrator: Camille Lemeunier
 writer: Anto
 guest_name: Le Véritable Ariel Toko
 guest_color: bliss
-guestPic: guestPic547.jpg
+guestPic: /img/guestPic547.jpg
 image: https://www.mailta.pe/img/fbPic547.png
 musiColor: musiColor547.png
 description: This morning, we follow in the footsteps of irresistible music

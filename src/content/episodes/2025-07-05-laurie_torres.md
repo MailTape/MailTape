@@ -3,7 +3,7 @@ published: true
 pubDate: 2025-07-06
 guest_name: Laurie Torres
 guest_color: bliss
-guestPic: guestpic587.jpg
+guestPic: /img/guestpic587.jpg
 author: ImaCrea
 illustrator: Julie Wojtczak
 writer: ImaCrea

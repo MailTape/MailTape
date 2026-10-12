@@ -6,7 +6,7 @@ guest_color: dreamy
 author: ImaCrea
 illustrator: Thibault Daumain
 writer: ImaCrea
-guestPic: guestPic479.jpg
+guestPic: /img/guestPic479.jpg
 musiColor: musiColor479.png
 image: https://www.mailta.pe/img/fbPic479.png
 description: This morning, we are floating in the air with Del Stephen. Coming

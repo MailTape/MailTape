@@ -5,7 +5,7 @@ guest_name: Flavien Berger
 guest_color: trippy
 author: ImaCrea
 writer: ImaCrea
-guestPic: guestPic324.jpg
+guestPic: /img/guestPic324.jpg
 illustrator: Pierre-Julien Fieux
 image: https://www.mailta.pe/img/fbPic324.png
 musiColor: musiColor324.png

@@ -3,7 +3,7 @@ published: true
 pubDate: 2024-11-03
 guest_name: Rosie Lowe
 guest_color: dreamy
-guestPic: guestpic564.jpg
+guestPic: /img/guestpic564.jpg
 author: Sarah
 illustrator: Thibault Daumain
 writer: Sarah

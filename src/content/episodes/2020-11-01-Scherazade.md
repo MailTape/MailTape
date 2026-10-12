@@ -3,7 +3,7 @@ bigTitle_font_ratio: "6"
 published: true
 musiColor: musiColor423.png
 image: https://www.mailta.pe/img/fbPic423.png
-guestPic: guestPic423.jpg
+guestPic: /img/guestPic423.jpg
 guest_color: vibrant
 guest_name: Schérazade
 writer: Anaïs G

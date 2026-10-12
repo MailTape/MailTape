@@ -6,7 +6,7 @@ illustrator: Julie Wojtczak
 writer: Jules
 guest_name: An Explore
 guest_color: bliss
-guestPic: guestPic386.jpg
+guestPic: /img/guestPic386.jpg
 image: " https://www.mailta.pe/img/fbPic386.png"
 musiColor: musiColor386.png
 description: This morning, it's finally time to slow down, stay awake for

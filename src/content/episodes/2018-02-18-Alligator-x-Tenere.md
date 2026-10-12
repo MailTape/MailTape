@@ -6,7 +6,7 @@ illustrator: Anais Caura
 writer: ImaCrea
 guest_name: Alligator x Ténéré
 guest_color: vibrant
-guestPic: guestPic300.jpg
+guestPic: /img/guestPic300.jpg
 image: https://www.mailta.pe/img/fbPic300.png
 musiColor: musiColor300.png
 description: This morning is special, you are going to listen to our 300th

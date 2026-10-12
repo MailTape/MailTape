@@ -4,7 +4,7 @@ published: true
 author: Sarah
 guest_name: Salarymen
 guest_color: vibrant
-guestPic: guestPic419.jpg
+guestPic: /img/guestPic419.jpg
 image: https://www.mailta.pe/img/fbPic419.png
 musiColor: musiColor419.png
 illustrator: Pierre-Julien Fieux

@@ -6,7 +6,7 @@ illustrator: Jason Pridham
 guest_name: Sorcha Richardson
 guest_color: vibrant
 writer: Sarah
-guestPic: guestPic429.jpg
+guestPic: /img/guestPic429.jpg
 image: https://www.mailta.pe/img/fbPic429.png
 musiColor: musiColor429.png
 description: This morning, we wanted to give you plenty to daydream about. What

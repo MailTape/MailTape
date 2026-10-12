@@ -5,7 +5,7 @@ guest_color: vibrant
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
 guest_name: Fellini Félin
-guestPic: guestPic162.jpg
+guestPic: /img/guestPic162.jpg
 image: https://www.mailta.pe/img/fbPic162.jpg
 musiColor: musiColor162.png
 description: "This morning, discover Fellini Félin. Everything started in the

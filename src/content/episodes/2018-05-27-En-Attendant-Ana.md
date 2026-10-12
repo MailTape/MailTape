@@ -10,7 +10,7 @@ description: This morning, we are delighted to welcome the garage pop band En
   in April. And while the RATP’s (transport company for Paris) lost property
   offices handle over 500 000 items a year, the 13 powerful and faux-naïf songs
   of the LP are enough to place En Attendant Ana as a very promising band.
-guestPic: guestPic314.jpg
+guestPic: /img/guestPic314.jpg
 image: https://www.mailta.pe/img/fbPic314.jpg
 writer: Charlotte
 illustrator: Camille Célestin

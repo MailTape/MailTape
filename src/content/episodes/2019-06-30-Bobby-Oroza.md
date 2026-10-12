@@ -10,7 +10,7 @@ description: This morning, whether on sunny beaches, palm groves or lush oases,
   or just enjoying a fine breakfast in your bed, allow yourself to be soothed by
   a strange and unique shade of Soul born in Finland but balancing international
   influences, with Bobby Oroza.
-guestPic: guestPic364-1.jpg
+guestPic: /img/guestPic364-1.jpg
 image: https://www.mailta.pe/img/fbPic364.png
 musiColor: musiColor364.png
 pubDate: 2019-06-30

@@ -5,7 +5,7 @@ guest_name: Dharma Bum
 writer: Anaïs G
 author: Anaïs G
 illustrator: Camille Célestin
-guestPic: guestPic393.jpg
+guestPic: /img/guestPic393.jpg
 image: https://www.mailta.pe/img/fbPic393.png
 musiColor: musiColor393.png
 guest_color: bliss

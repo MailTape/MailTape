@@ -3,7 +3,7 @@ published: true
 pubDate: 2024-04-07
 guest_name: Manofresca
 guest_color: bliss
-guestPic: 553_manofresco.png
+guestPic: /img/553_manofresco.png
 author: Anto
 illustrator: Meriam Kharbat
 writer: Anto

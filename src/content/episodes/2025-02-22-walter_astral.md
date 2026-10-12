@@ -3,7 +3,7 @@ published: true
 pubDate: 2025-02-23
 guest_name: Walter Astral
 guest_color: trippy
-guestPic: guestpic577.jpg
+guestPic: /img/guestpic577.jpg
 author: Sarah
 illustrator: Camille Lemeunier
 writer: Sarah

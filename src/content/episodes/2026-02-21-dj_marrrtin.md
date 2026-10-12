@@ -3,7 +3,7 @@ published: true
 pubDate: 2026-02-22
 guest_name: Dj Marrrtin
 guest_color: bliss
-guestPic: dj_marrrtin.jpg
+guestPic: /img/dj_marrrtin.jpg
 author: Anto
 illustrator: Antoine Gaudin
 writer: Anto

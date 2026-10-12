@@ -5,7 +5,7 @@ author: Maxime
 writer: Maxime
 guest_name: Gramophiles
 guest_color: vibrant
-guestPic: guestPic237.jpg
+guestPic: /img/guestPic237.jpg
 image: https://www.mailta.pe/img/fbPic237.jpg
 musiColor: muciColor237.png
 description: This morning, we welcome you in the vintage universe of music.

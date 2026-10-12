@@ -3,7 +3,7 @@ bigTitle_font_ratio: "6"
 published: true
 musiColor: musiColor420.png
 image: https://www.mailta.pe/img/fbPic420.png
-guestPic: guestPic420.jpg
+guestPic: /img/guestPic420.jpg
 guest_color: dreamy
 guest_name: Bleu Toucan
 writer: Anaïs G

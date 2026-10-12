@@ -6,7 +6,7 @@ illustrator: Camille Lemeunier
 writer: ImaCrea
 guest_name: Cindy Pooch
 guest_color: bliss
-guestPic: guestPic535.jpg
+guestPic: /img/guestPic535.jpg
 image: https://www.mailta.pe/img/fbPic535.jpg
 musiColor: musiColor535.png
 description: This morning, we embark on a gentle and ethereal journey with the

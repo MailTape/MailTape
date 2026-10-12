@@ -6,7 +6,7 @@ illustrator: Camille Célestin
 guest_name: She-Devils
 writer: ImaCrea
 guest_color: trippy
-guestPic: guestPic270.jpg
+guestPic: /img/guestPic270.jpg
 description: "This morning, whether you’re on holidays enjoying the sun or
   trekking on a mountain or still recovering from a hangover or on a regular
   Sunday at home, we got you covered. This kaleidoscopic selection inspired by

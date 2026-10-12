@@ -6,7 +6,7 @@ illustrator: William Girault
 writer: Sanjay Mistry
 guest_name: Amira Kheir
 guest_color: vibrant
-guestPic: guestPic282.jpg
+guestPic: /img/guestPic282.jpg
 image: https://www.mailta.pe/img/fbPic282.jpg
 description: Described by Songlines magazine as ‘bold and poetic… beautiful and
   fearless’, we are delighted to share vocalist Amira Kheir’s Sunday morning

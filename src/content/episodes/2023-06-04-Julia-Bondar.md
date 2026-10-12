@@ -6,7 +6,7 @@ illustrator: Lucie Fléty
 writer: Anto
 guest_name: Julia Bondar
 guest_color: rough
-guestPic: guestPic529.jpg
+guestPic: /img/guestPic529.jpg
 image: fbPic529.jpg
 musiColor: musiColor529.png
 description: This morning... Oh wait ! It’s morning already ? We didn't see it

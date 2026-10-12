@@ -1,7 +1,7 @@
 ---
 bigTitle_font_ratio: "6"
 published: true
-guestPic: guestPic426.jpg
+guestPic: /img/guestPic426.jpg
 writer: Sarah
 illustrator: Camille Célestin
 author: Sarah

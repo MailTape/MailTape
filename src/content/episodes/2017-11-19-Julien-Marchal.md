@@ -6,7 +6,7 @@ illustrator: Anais Caura
 writer: Siddhartha
 guest_name: Julien Marchal
 guest_color: dreamy
-guestPic: guestPic287.jpg
+guestPic: /img/guestPic287.jpg
 description: "Our artist of the week, Julien Marchal, has something unique to
   share. A contemporary pianist and composer from Bordeaux, France. His
   contemplative and minimalist pieces seem to be an invocation of the classical

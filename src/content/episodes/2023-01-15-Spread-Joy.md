@@ -6,7 +6,7 @@ illustrator: Meriam Kharbat
 writer: Inès
 guest_name: Spread Joy
 guest_color: rough
-guestPic: guestPic513.png
+guestPic: /img/guestPic513.png
 musiColor: musiColor513.png
 description: This morning, please welcome Spread Joy! Post-punk band Spread Joy
   makes fast-paced, rythmically changing songs that make you want to run or

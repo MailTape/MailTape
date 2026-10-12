@@ -5,7 +5,7 @@ author: ImaCrea
 illustrator: Pierre-Julien Fieux
 guest_name: Yellow Days
 guest_color: bliss
-guestPic: guestPic279.jpg
+guestPic: /img/guestPic279.jpg
 writer: ImaCrea
 description: "This morning, we keep it smooth and easy with this delicate indie
   selection made with the talented 17 years old Yellow Days, aka George Van Den

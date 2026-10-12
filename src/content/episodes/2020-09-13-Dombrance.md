@@ -2,7 +2,7 @@
 musiColor: musiColor416.png
 image: https://www.mailta.pe/img/fbPic416.png
 bigTitle_font_ratio: "6"
-guestPic: guestPic416.jpg
+guestPic: /img/guestPic416.jpg
 guest_color: trippy
 guest_name: Dombrance
 illustrator: Jason Pridham

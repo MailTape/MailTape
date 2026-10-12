@@ -6,7 +6,7 @@ illustrator: Meriam
 writer: ImaCrea
 guest_name: Hinako Omori
 guest_color: dreamy
-guestPic: guestPic490.jpg
+guestPic: /img/guestPic490.jpg
 image: https://www.mailta.pe/img/fbPic490.jpg
 musiColor: musiColor489.png
 description: This morning, we're taking you into an atmosphere of balance,

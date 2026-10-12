@@ -3,7 +3,7 @@ published: true
 pubDate: 2026-09-27
 guest_name: Patricia Dallio
 guest_color: trippy
-guestPic: guestPic614.jpg
+guestPic: /img/guestPic614.jpg
 author: ImaCrea
 illustrator: Noémie Dijon
 writer: ImaCrea

@@ -7,7 +7,7 @@ writer: Sanjay Mistry
 guest_name: Julie Kjær
 guest_color: trippy
 image: https://www.mailta.pe/img/fbPic280.jpg
-guestPic: guestPic280.jpg
+guestPic: /img/guestPic280.jpg
 musiColor: musiColor280.png
 description: This morning we welcome the infectious enthusiasm and unbridled
   energy of London-based multi-reed player, Julie Kjær.

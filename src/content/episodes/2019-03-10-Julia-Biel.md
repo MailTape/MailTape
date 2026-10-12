@@ -6,7 +6,7 @@ illustrator: Anais Caura
 writer: Sanjay Mistry
 guest_name: Julia Biel
 guest_color: bliss
-guestPic: guestPic348.jpg
+guestPic: /img/guestPic348.jpg
 image: https://www.mailta.pe/img/fbPic348.jpg
 musiColor: musiColor348.png
 description: This morning we are thrilled to welcome London-based vocalist,

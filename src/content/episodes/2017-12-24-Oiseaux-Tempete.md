@@ -6,7 +6,7 @@ illustrator: Camille Célestin
 writer: Sanjay Mistry
 guest_name: Oiseaux-Tempête
 guest_color: dreamy
-guestPic: guestPic292.jpg
+guestPic: /img/guestPic292.jpg
 image: https://www.mailta.pe/img/fbPic292.jpg
 musiColor: musiColor292.png
 description: This morning we attempt to provide you with a soundtrack to the

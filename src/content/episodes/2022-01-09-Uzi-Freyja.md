@@ -6,7 +6,7 @@ illustrator: Julie Wojtczak
 writer: ImaCrea
 guest_name: Uzi Freyja
 guest_color: rough
-guestPic: guestPic476.jpg
+guestPic: /img/guestPic476.jpg
 image: https://www.mailta.pe/img/fbPic476.png
 musiColor: musiColor476.png
 description: This Sunday, we're extremely happy to start a new year of music

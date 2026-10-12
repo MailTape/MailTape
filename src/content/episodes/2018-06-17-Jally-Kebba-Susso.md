@@ -6,7 +6,7 @@ illustrator: Camille Célestin
 writer: Sanjay Mistry
 guest_name: Jally Kebba Susso
 guest_color: bliss
-guestPic: guestPic317.jpg
+guestPic: /img/guestPic317.jpg
 description: Today we are delighted to welcome kora player Jally Kebba Susso as
   he picks a soothing suite of Sunday morning jams for MailTape.
 image: https://www.mailta.pe/img/fbPic317.jpg

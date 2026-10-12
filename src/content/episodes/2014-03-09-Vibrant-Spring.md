@@ -9,7 +9,7 @@ description: "This morning, discover a 100% MailTape Crew episode. The perfect
   in her slow awakening."
 guest_name: Vibrant Spring
 author: MailTape Crew
-guestPic: guestPic131.jpg
+guestPic: /img/guestPic131.jpg
 musiColor: musiColor131.png
 image: https://www.mailta.pe/img/fbPic131.png
 pubDate: 2014-03-09

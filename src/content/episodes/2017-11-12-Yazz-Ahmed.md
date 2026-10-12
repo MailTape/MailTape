@@ -6,7 +6,7 @@ illustrator: Pierre-Julien Fieux
 writer: Sanjay Mistry
 guest_name: Yazz Ahmed
 guest_color: trippy
-guestPic: guestPic286.jpg
+guestPic: /img/guestPic286.jpg
 musiColor: musiColor286.png
 image: https://www.mailta.pe/img/fbPic286.jpg
 description: This morning we are delighted to collaborate with trumpeter and

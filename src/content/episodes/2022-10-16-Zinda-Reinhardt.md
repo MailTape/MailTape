@@ -6,7 +6,7 @@ illustrator: Meriam Kharbat
 writer: ImaCrea
 guest_name: Zinda Reinhardt
 guest_color: vibrant
-guestPic: guestPic501.jpg
+guestPic: /img/guestPic501.jpg
 musiColor: musiColor501.png
 image: https://www.mailta.pe/img/fbPic501.jpg
 description: This morning, we're thrilled to be back for this 11th season of

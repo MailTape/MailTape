@@ -10,7 +10,7 @@ description: In this final episode of 2018, we are delighted to welcome
   Rotterdam-based DJ and electronic producer Nadia Struiwigh as she picks three
   meditative Sunday morning tunes.
 image: https://www.mailta.pe/img/fbPic338.jpg
-guestPic: guestPic338.jpg
+guestPic: /img/guestPic338.jpg
 musiColor: musiColor338.png
 pubDate: 2018-12-30
 track1:

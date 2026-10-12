@@ -4,7 +4,7 @@ author: ImaCrea
 guest_color: vibrant
 bigTitle_font_ratio: "6"
 guest_name: Parra for Cuva
-guestPic: guestPic191.jpg
+guestPic: /img/guestPic191.jpg
 description: This morning, we're gonna celebrate summer together with our great
   guest from Berlin, Parra for Cuva. You've waited so long for it to come, now
   is the moment to finally shine with confidence and share your love around you.

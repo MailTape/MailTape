@@ -7,7 +7,7 @@ writer: Sarah
 guest_name: Raw Poetic
 guest_color: dreamy
 image: https://www.mailta.pe/img/fbPic485.png
-guestPic: guestPic485.jpg
+guestPic: /img/guestPic485.jpg
 description: "This morning, we're ringing in the day with some smooth sunshine
   tracks, introduced by our dear guest, Raw Poetic. The project of Jason Moore,
   Raw Poetic's music dips into treadings of hip hop, jazz, folk, and soul.

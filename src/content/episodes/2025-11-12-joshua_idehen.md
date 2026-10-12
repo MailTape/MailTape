@@ -3,7 +3,7 @@ published: true
 pubDate: 2025-11-16
 guest_name: Joshua Idehen
 guest_color: vibrant
-guestPic: guestpic598.jpg
+guestPic: /img/guestpic598.jpg
 author: Sarah
 illustrator: Thibault Daumain
 description: We are full of joy to welcome musician, spoken-word artist, and

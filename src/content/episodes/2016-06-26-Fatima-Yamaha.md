@@ -7,7 +7,7 @@ writer: ImaCrea
 image: https://www.mailta.pe/img/fbPic223.png
 musiColor: musiColor223.png
 guest_name: Fatima Yamaha
-guestPic: guestPic223.jpg
+guestPic: /img/guestPic223.jpg
 guest_color: rough
 description: "This morning is sunnier than ever. Nights are getting shorter and
   parties longer. As he did on the latest WeLoveGreen festival, Fatima Yamaha

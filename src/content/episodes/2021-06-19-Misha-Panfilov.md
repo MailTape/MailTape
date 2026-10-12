@@ -3,7 +3,7 @@ bigTitle_font_ratio: "6"
 published: true
 guest_name: Misha Panfilov
 guest_color: vibrant
-guestPic: guestPic456.jpg
+guestPic: /img/guestPic456.jpg
 writer: Sarah
 illustrator: Jason Pridham
 author: Sarah

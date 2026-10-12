@@ -5,7 +5,7 @@ author: Dimitri
 illustrator: Camille Célestin
 writer: PS KY
 guest_name: Ménage à Trois
-guestPic: guestPic2601.jpg
+guestPic: /img/guestPic2601.jpg
 guest_color: dreamy
 image: https://www.mailta.pe/img/fbPic260.JPG
 description: Bright and delightful morning to the masses and the listeners, to

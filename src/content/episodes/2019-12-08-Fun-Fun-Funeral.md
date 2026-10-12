@@ -5,7 +5,7 @@ illustrator: Camille Célestin
 writer: Anaïs G
 guest_name: Fun Fun Funeral
 guest_color: dreamy
-guestPic: guestPic383.jpg
+guestPic: /img/guestPic383.jpg
 musiColor: musiColor383.png
 image: http://mailta.pe/img/fbPic383.png
 description: This morning, the climate is one of grumbling and discontent.

@@ -6,7 +6,7 @@ illustrator: Pierre-Julien Fieux
 writer: Daisy
 guest_name: Mischa Blanos
 guest_color: dreamy
-guestPic: guestPic381.jpg
+guestPic: /img/guestPic381.jpg
 description: This morning there's no rush to decide which side of consciousness
   you're on. Pianist, composer and producer Mischa Blanos is here to be your
   weightless anchor between states and realities.

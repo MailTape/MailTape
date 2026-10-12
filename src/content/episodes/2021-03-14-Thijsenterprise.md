@@ -6,7 +6,7 @@ illustrator: Camille Célestin
 author: Sarah
 writer: Sarah
 guest_color: vibrant
-guestPic: guestPic442.jpg
+guestPic: /img/guestPic442.jpg
 image: https://www.mailta.pe/img/fbPic442.png
 musiColor: musiColor442.png
 description: We are delighted to welcome Thijsenterprise to MailTape for a

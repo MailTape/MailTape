@@ -3,7 +3,7 @@ published: true
 pubDate: 2025-07-27
 guest_name: Maya Dhondt
 guest_color: trippy
-guestPic: maya_dhondt.jpg
+guestPic: /img/maya_dhondt.jpg
 author: Anto
 illustrator: null
 writer: Anto

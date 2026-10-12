@@ -8,7 +8,7 @@ guest_name: Luiza Brina
 guest_color: vibrant
 image: https://www.mailta.pe/img/fbPic481.png
 musiColor: musiColor481.png
-guestPic: guestPic481.jpg
+guestPic: /img/guestPic481.jpg
 pubDate: 2022-02-13
 description: The week can bring so much to challenge and test us. This Sunday,
   we offer a reprieve. Together, let's exhale all that the past days have

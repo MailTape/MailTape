@@ -5,7 +5,7 @@ author: Anaïs G
 writer: Anaïs G
 guest_name: Laventure
 guest_color: dreamy
-guestPic: guestPic464.jpg
+guestPic: /img/guestPic464.jpg
 image: https://www.mailta.pe/img/fbPic464.png
 musiColor: musiColor464.png
 description: "This morning, it feels like the return of the long Sundays under

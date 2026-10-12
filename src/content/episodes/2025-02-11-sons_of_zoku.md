@@ -3,7 +3,7 @@ published: true
 pubDate: 2025-02-16
 guest_name: Sons Of Zöku
 guest_color: trippy
-guestPic: sons_of_zoku.jpg
+guestPic: /img/sons_of_zoku.jpg
 author: Aloyse
 illustrator: Noémie Dijon
 writer: Aloyse

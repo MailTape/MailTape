@@ -5,7 +5,7 @@ guest_color: bliss
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
 guest_name: David Douglas
-guestPic: guestPic140.jpg
+guestPic: /img/guestPic140.jpg
 image: https://www.mailta.pe/img/fbPic140.jpg
 description: "This Morning, we are pleased to introduce you our guest David
   Douglas. David has selected three untemporary classics to start our session.

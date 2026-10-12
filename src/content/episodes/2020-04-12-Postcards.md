@@ -2,7 +2,7 @@
 musiColor: musiColor401.png
 image: https://www.mailta.pe/img/fbPic401.png
 bigTitle_font_ratio: "6"
-guestPic: guestPic401.jpg
+guestPic: /img/guestPic401.jpg
 guest_color: vibrant
 guest_name: Postcards
 writer: Anaïs G

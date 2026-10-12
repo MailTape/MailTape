@@ -3,7 +3,7 @@ published: true
 pubDate: 2026-04-12
 guest_name: "MP3 Nostalgia #1"
 guest_color: vibrant
-guestPic: guest609.jpg
+guestPic: /img/guest609.jpg
 author: Anto
 illustrator: Noémie Dijon
 writer: Anto

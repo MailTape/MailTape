@@ -1,6 +1,6 @@
 ---
 bigTitle_font_ratio: "6"
-guestPic: guestPic418.jpg
+guestPic: /img/guestPic418.jpg
 guest_color: rough
 guest_name: Bison Bisou
 writer: Anaïs G

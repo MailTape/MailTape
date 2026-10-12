@@ -1,7 +1,7 @@
 ---
 bigTitle_font_ratio: "6"
 published: true
-guestPic: guestPic231.jpg
+guestPic: /img/guestPic231.jpg
 author: Maxime
 illustrator: William Girault
 writer: Maxime

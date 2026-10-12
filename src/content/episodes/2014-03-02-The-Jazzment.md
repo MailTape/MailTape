@@ -5,7 +5,7 @@ guest_color: dreamy
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
 guest_name: The Jazzment
-guestPic: guestPic130.jpg
+guestPic: /img/guestPic130.jpg
 image: https://www.mailta.pe/img/fbPic130.jpg
 musiColor: musiColor130.png
 description: This morning, please welcome, smoothly, The Jazzment. Most of us

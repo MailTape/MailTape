@@ -9,7 +9,7 @@ guest_color: bliss
 description: This morning we are delighted to welcome Dublin-based musician,
   Ruba Shamshoum, who collaborates with us to provide a beautifully laid-back
   Sunday morning playlist.
-guestPic: guestPic301.jpg
+guestPic: /img/guestPic301.jpg
 musiColor: musiColor301.png
 image: https://www.mailta.pe/img/fbPic301.jpg
 pubDate: 2018-02-25

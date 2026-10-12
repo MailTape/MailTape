@@ -3,7 +3,7 @@ published: true
 pubDate: 2025-04-06
 guest_name: Magic Tuber Stringband
 guest_color: bliss
-guestPic: guestpic578.jpg
+guestPic: /img/guestpic578.jpg
 author: Sarah
 illustrator: Noémie Dijon
 writer: Sarah

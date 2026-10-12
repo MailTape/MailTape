@@ -6,7 +6,7 @@ illustrator: Camille Célestin
 writer: ImaCrea
 guest_name: Adela Mede
 guest_color: dreamy
-guestPic: guestPic526.jpg
+guestPic: /img/guestPic526.jpg
 image: https://www.mailta.pe/img/fbPic526.png
 musiColor: musiColor526.png
 description: This morning, we're embarking on a dreamy journey with Adela Mede.

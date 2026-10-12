@@ -5,7 +5,7 @@ writer: PS KY
 guest_name: "Guru Fiction "
 guest_color: vibrant
 bigTitle_font_ratio: "6"
-guestPic: guestPic215.jpg
+guestPic: /img/guestPic215.jpg
 image: https://www.mailta.pe/img/fbPic215.jpg
 musiColor: musiColor215.png
 description: This morning, I am not quite sure how to say it, but even if the

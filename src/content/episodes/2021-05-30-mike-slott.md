@@ -7,7 +7,7 @@ illustrator: Thibault Daumain
 writer: ImaCrea
 guest_name: Mike Slott
 guest_color: dreamy
-guestPic: guestPic453.jpg
+guestPic: /img/guestPic453.jpg
 image: https://www.mailta.pe/img/fbPic453.png
 musiColor: musiColor453.png
 description: This morning, let's go for a walk outside. We're joined by Mike

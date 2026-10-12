@@ -6,7 +6,7 @@ illustrator: Pierre-Julien Fieux
 guest_name: Nathan Fake
 guest_color: trippy
 writer: ImaCrea
-guestPic: guestPic257.jpg
+guestPic: /img/guestPic257.jpg
 image: https://www.mailta.pe/img/fbPic257.png
 musiColor: musiColor257.png
 description: This morning let's welcome Nathan Fake. He just released a new

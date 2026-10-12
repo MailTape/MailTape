@@ -3,7 +3,7 @@ published: true
 pubDate: 2025-10-12
 guest_name: Zeid Hamdan
 guest_color: vibrant
-guestPic: guestpic593.jpg
+guestPic: /img/guestpic593.jpg
 author: Aloyse
 illustrator: Antoine Gaudin
 writer: Aloyse

@@ -6,7 +6,7 @@ writer: Sarah
 author: Sarah
 guest_name: The Lazy Eyes
 guest_color: trippy
-guestPic: guestPic495.jpg
+guestPic: /img/guestPic495.jpg
 image: https://www.mailta.pe/img/fbPic495.png
 description: "This morning, we're delighted to welcome The Lazy Eyes to MailTape
   for a Sunday selection of smooth moving tracks. Based in Sydney, the

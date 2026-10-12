@@ -6,7 +6,7 @@ illustrator: Meriam Kharbat
 writer: ImaCrea
 guest_name: The Humble Bee
 guest_color: bliss
-guestPic: guestPic528.png
+guestPic: /img/guestPic528.png
 image: https://www.mailta.pe/img/fbPic528.jpg
 musiColor: musiColor528.png
 description: This morning, I'd be delighted to continue our exploration of

@@ -6,7 +6,7 @@ writer: Sarah
 illustrator: Noémie Dijon
 author: Sarah
 musiColor: musiColor454.png
-guestPic: guestPic454.jpg
+guestPic: /img/guestPic454.jpg
 image: https://www.mailta.pe/img/fbPic454.png
 guest_color: dreamy
 description: This Sunday, we welcome The Growth Eternal to MailTape for an

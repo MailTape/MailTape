@@ -5,7 +5,7 @@ published: true
 author: Louise
 illustrator: Pierre-Julien Fieux
 guest_name: Monomotion
-guestPic: guestPic228.jpg
+guestPic: /img/guestPic228.jpg
 image: https://www.mailta.pe/img/fbPic228.jpg
 musiColor: musiColor228.png
 writer: Louise

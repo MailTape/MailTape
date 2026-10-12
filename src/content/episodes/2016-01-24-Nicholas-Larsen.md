@@ -3,7 +3,7 @@ author: Ludovic
 guest_name: Nicholas Larsen
 guest_color: vibrant
 bigTitle_font_ratio: "7"
-guestPic: guestPic201.jpg
+guestPic: /img/guestPic201.jpg
 image: https://www.mailta.pe/img/fbPic201.png
 musiColor: musiColor201.png
 description: This morning, let’s play a bit with this untamed selection from our

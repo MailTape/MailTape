@@ -6,7 +6,7 @@ illustrator: Anais Caura
 writer: Sanjay Mistry
 guest_name: Cassie Kinoshi
 guest_color: dreamy
-guestPic: guestPic284.jpg
+guestPic: /img/guestPic284.jpg
 image: https://www.mailta.pe/img/fbPic284.jpg
 description: This morning’s guest, Cassie Kinoshi, is known primarily for her
   work with jazz septet Nérija, Afrobeat band Kokoroko and her own large

@@ -6,7 +6,7 @@ illustrator: Anthony Dujardin
 writer: Sanjay Mistry
 guest_name: Markus Floats
 guest_color: bliss
-guestPic: guestPic428.jpg
+guestPic: /img/guestPic428.jpg
 image: https://www.mailta.pe/img/fbPic428.png
 description: This morning we welcome Markus Floats to select three snake-hipped
   Sunday morning tunes with us on MailTape.

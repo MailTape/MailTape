@@ -6,7 +6,7 @@ guest_color: vibrant
 writer: ImaCrea
 author: Manon
 illustrator: William Girault
-guestPic: guestpic303.jpg
+guestPic: /img/guestpic303.jpg
 image: https://www.mailta.pe/img/fbpic303.png
 musiColor: musiColor303.png
 description: This morning in our new episode, we enter into the world of

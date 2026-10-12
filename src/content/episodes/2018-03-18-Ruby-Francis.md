@@ -7,7 +7,7 @@ author: Louise
 illustrator: William Girault
 guest_name: Ruby Francis
 guest_color: dreamy
-guestPic: guestpic304ter.jpg
+guestPic: /img/guestpic304ter.jpg
 description: This morning, we welcome London-based singer/songwriter, Ruby
   Francis, to collaborate with us on MailTape. Merging R&B, 80s & 90s
   soundscapes and incorporating traces of soul music, we hope you’re just as

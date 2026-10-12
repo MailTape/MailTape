@@ -4,7 +4,7 @@ published: true
 author: Louise
 guest_name: Talitres Records
 guest_color: dreamy
-guestPic: guestPic226.jpg
+guestPic: /img/guestPic226.jpg
 image: https://www.mailta.pe/img/fbPic226.jpg
 musiColor: musiColor226.png
 illustrator: William Girault

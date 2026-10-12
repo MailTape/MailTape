@@ -5,7 +5,7 @@ illustrator: William Girault
 author: Luc
 guest_name: Nihiloxica
 guest_color: rough
-guestPic: guestPic322.jpg
+guestPic: /img/guestPic322.jpg
 writer: Luc
 image: https://www.mailta.pe/img/fbPic322.JPG
 musiColor: musicColor322.JPG

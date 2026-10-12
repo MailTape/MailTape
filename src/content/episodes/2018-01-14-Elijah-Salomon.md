@@ -6,7 +6,7 @@ illustrator: William Girault
 writer: Sanjay Mistry
 guest_name: Elijah Salomon
 guest_color: trippy
-guestPic: guestPic295.jpg
+guestPic: /img/guestPic295.jpg
 image: https://www.mailta.pe/img/fbPic295.jpg
 musiColor: musiColor295.png
 description: This morning we welcome multilingual singer, songwriter and

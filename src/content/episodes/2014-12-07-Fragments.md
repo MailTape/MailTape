@@ -5,7 +5,7 @@ guest_color: dreamy
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
 guest_name: Fragments
-guestPic: guestPic163.jpg
+guestPic: /img/guestPic163.jpg
 musiColor: musiColor163.png
 description: This morning, here's a Mailtape inspired by Fragments. You're bound
   to wake up in a good mood by the end of this sunday selection. Enjoy the

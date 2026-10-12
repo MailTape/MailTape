@@ -4,7 +4,7 @@ author: ImaCrea
 guest_color: dreamy
 bigTitle_font_ratio: "6"
 guest_name: Superpoze
-guestPic: guestPic196.jpg
+guestPic: /img/guestPic196.jpg
 description: This Sunday, let yourself dive into a universe of musical
   indulgence powered by softness. Pleasure to welcome Superpoze and his
   selection of blissful tunes. Waking peacefully to the sound of indulgence

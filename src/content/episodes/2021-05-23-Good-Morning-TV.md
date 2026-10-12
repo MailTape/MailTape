@@ -6,7 +6,7 @@ author: Anaïs G
 illustrator: Julie Wojtczak
 writer: Anaïs G
 guest_name: Good Morning TV
-guestPic: guestPic452.jpg
+guestPic: /img/guestPic452.jpg
 guest_color: dreamy
 image: https://www.mailta.pe/img/fbPic452.png
 musiColor: musiColor452

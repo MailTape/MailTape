@@ -5,7 +5,7 @@ guest_color: trippy
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "0.6"
 guest_name: Milo McBride
-guestPic: guestPic161.jpg
+guestPic: /img/guestPic161.jpg
 image: https://www.mailta.pe/img/fbPic161.jpg
 musiColor: musiColor161.png
 description: With this week’s MailTape we have made yet another discovery,

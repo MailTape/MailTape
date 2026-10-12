@@ -5,7 +5,7 @@ author: Marion
 writer: Marion
 guest_name: Marc Desse
 guest_color: bliss
-guestPic: guestPic412.jpg
+guestPic: /img/guestPic412.jpg
 musiColor: musiColor412.png
 image: https://www.mailta.pe/img/fbPic412.png
 description: This morning, we are pleased to welcome Marc Desse to select 3

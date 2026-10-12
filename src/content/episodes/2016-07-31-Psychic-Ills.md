@@ -6,7 +6,7 @@ illustrator: Anais Caura
 writer: ImaCrea
 guest_name: Psychic Ills
 guest_color: dreamy
-guestPic: guestPic227.jpg
+guestPic: /img/guestPic227.jpg
 image: https://www.mailta.pe/img/fbPic227.png
 musiColor: musiColor227.png
 description: This morning, discover a warm and indie selection made by our guest

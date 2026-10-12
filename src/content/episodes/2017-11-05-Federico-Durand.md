@@ -3,7 +3,7 @@ bigTitle_font_ratio: "6"
 published: true
 author: ImaCrea
 guest_name: Federico Durand
-guestPic: guestPic285b.jpg
+guestPic: /img/guestPic285b.jpg
 illustrator: Camille Célestin
 writer: PS KY
 guest_color: dreamy

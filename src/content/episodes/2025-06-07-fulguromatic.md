@@ -3,7 +3,7 @@ published: true
 pubDate: 2025-06-08
 guest_name: Fulguromatic
 guest_color: trippy
-guestPic: guestpic583.jpg
+guestPic: /img/guestpic583.jpg
 author: Anto
 illustrator: Camille Célestin
 writer: Anto

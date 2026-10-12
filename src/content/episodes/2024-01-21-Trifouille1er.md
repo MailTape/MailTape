@@ -6,7 +6,7 @@ illustrator: Meriam Kharbat
 writer: Anto
 guest_name: Trifouille1er
 guest_color: vibrant
-guestPic: guestPic544.png
+guestPic: /img/guestPic544.png
 image: https://www.mailta.pe/img/fbPic544.jpg
 musiColor: musiColor544.png
 description: Patchwork! This morning we offer you a fun activity with this new

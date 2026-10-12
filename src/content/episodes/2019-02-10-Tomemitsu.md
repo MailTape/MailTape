@@ -6,7 +6,7 @@ illustrator: Camille Célestin
 writer: Anaïs G
 guest_name: Tomemitsu
 guest_color: dreamy
-guestPic: guestPic344.jpg
+guestPic: /img/guestPic344.jpg
 image: https://www.mailta.pe/img/fbPic344.png
 description: "This morning, like a divine light coming from nowhere, caressing
   our bodies, music moves us, borders us with our fingertips and astonishes us.

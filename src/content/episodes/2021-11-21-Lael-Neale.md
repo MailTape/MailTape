@@ -5,7 +5,7 @@ guest_name: Lael Neale
 writer: PS KY
 author: ImaCrea
 illustrator: Meriam Kharbat
-guestPic: guestPic471.jpg
+guestPic: /img/guestPic471.jpg
 image: https://www.mailta.pe/img/fbPic471.jpg
 musiColor: musiColor471.png
 description: This morning, we welcome our guest Lael Neale with a delicate and

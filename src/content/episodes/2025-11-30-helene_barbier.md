@@ -3,7 +3,7 @@ published: true
 pubDate: 2025-11-30
 guest_name: Hélène Barbier
 guest_color: bliss
-guestPic: helene_barbier.jpg
+guestPic: /img/helene_barbier.jpg
 author: Anto
 illustrator: Pierre-Julien Fieux
 writer: Anto

@@ -3,7 +3,7 @@ published: true
 pubDate: 2024-10-20
 guest_name: Tiago Caetano
 guest_color: bliss
-guestPic: guestpic562.jpg
+guestPic: /img/guestpic562.jpg
 author: ImaCrea
 illustrator: Camille Lemeunier
 writer: ImaCrea

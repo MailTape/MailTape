@@ -4,7 +4,7 @@ published: true
 author: Sanjay Mistry
 guest_name: Alexander Hawkins
 guest_color: dreamy
-guestPic: guestPic258.jpg
+guestPic: /img/guestPic258.jpg
 image: https://www.mailta.pe/img/fbPic258.jpg
 musiColor: musiColor258.png
 illustrator: Camille Célestin

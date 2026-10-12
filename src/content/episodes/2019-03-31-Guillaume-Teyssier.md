@@ -6,7 +6,7 @@ author: ImaCrea
 illustrator: Camille Célestin
 writer: ImaCrea
 guest_color: bliss
-guestPic: guestPic351.jpg
+guestPic: /img/guestPic351.jpg
 image: https://www.mailta.pe/img/fbPic351.png
 musiColor: musiColor351.png
 description: This morning we welcome Guillaume Teyssier, who accepted our

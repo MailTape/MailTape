@@ -1,7 +1,7 @@
 ---
 bigTitle_font_ratio: "6"
 published: true
-guestPic: guestPic404c.jpg
+guestPic: /img/guestPic404c.jpg
 author: ImaCrea
 illustrator: Thibault Daumain
 writer: ImaCrea

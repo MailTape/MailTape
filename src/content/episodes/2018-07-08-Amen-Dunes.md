@@ -18,7 +18,7 @@ description: "For this last MailTape before our summer break, we welcome Damon
   outward record that he produced surrounded with musicians and friends: Chris
   Coady (Beach House), Panoram, Parker Kindred (Antony and The Johnsons),
   Delicate Steve …"
-guestPic: guestPic320.jpg
+guestPic: /img/guestPic320.jpg
 image: https://www.mailta.pe/img/fbPic320.jpg
 musiColor: musiColor320.png
 pubDate: 2018-07-08

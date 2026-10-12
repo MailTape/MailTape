@@ -8,7 +8,7 @@ guest_name: "Marble Arch "
 guest_color: dreamy
 image: https://www.mailta.pe/img/fbPic355.png
 musiColor: musiColor355.jpg
-guestPic: guestPic355.jpg
+guestPic: /img/guestPic355.jpg
 description: This morning, we are giving way to a wave of ambient melancholy,
   soft and light. As time playing on roller coasters , Marble Arch’s pop
   accompanies us this morning in this musical fog with many facets.

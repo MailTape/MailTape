@@ -5,7 +5,7 @@ guest_color: dreamy
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
 guest_name: Catching Flies
-guestPic: guestPic134.jpg
+guestPic: /img/guestPic134.jpg
 image: https://www.mailta.pe/img/fbPic134.jpg
 musiColor: musiColor134.png
 description: This morning, we're going to remind you that sometimes it's

@@ -6,7 +6,7 @@ writer: Sarah
 illustrator: Camille Célestin
 author: Sarah
 guest_color: dreamy
-guestPic: guestPic538.jpg
+guestPic: /img/guestPic538.jpg
 image: " https://www.mailta.pe/img/fbPic538.png"
 musiColor: musiColor538.png
 description: This Sunday morning we welcome Aleesha Dibbs for MailTape's Episode

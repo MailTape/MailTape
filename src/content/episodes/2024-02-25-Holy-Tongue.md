@@ -6,7 +6,7 @@ illustrator: Patricia de Miranda
 writer: ImaCrea
 guest_name: Holy Tongue
 guest_color: trippy
-guestPic: guestPic548.jpg
+guestPic: /img/guestPic548.jpg
 image: https://www.mailta.pe/img/fbPic548.jpg
 musiColor: musiColor548.png
 description: We're overjoyed to welcome Holy Tongue as our guests today. Their

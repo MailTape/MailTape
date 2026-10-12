@@ -7,7 +7,7 @@ writer: Sarah
 guest_name: Janko Nilovic
 guest_color: vibrant
 image: https://www.mailta.pe/img/fbPic467.png
-guestPic: guestPic467.jpg
+guestPic: /img/guestPic467.jpg
 description: "This morning, we are wading through worlds of color, shrouded on
   all sides by an entire kaleidescope of sound. To craft this experience, we are
   beyond thrilled to welcome composer and multi-instrumentalist Janko Nilović to

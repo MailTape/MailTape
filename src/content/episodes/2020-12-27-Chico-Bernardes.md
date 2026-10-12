@@ -8,7 +8,7 @@ guest_name: Chico Bernardes
 guest_color: bliss
 image: https://www.mailta.pe/img/fbPic431.png
 musiColor: musiColor431.png
-guestPic: guestPic431.jpg
+guestPic: /img/guestPic431.jpg
 description: The last Sunday morning of 2020 has arrived, and so does our last
   MailTape episode of this year. For our reflections and sighs that accompany
   leaving this year, we take comfort in the music that has buoyed us through

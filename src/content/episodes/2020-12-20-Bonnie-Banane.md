@@ -3,7 +3,7 @@ published: true
 pubDate: 2020-12-20
 guest_name: Bonnie Banane
 guest_color: trippy
-guestPic: guestPic430.jpg
+guestPic: /img/guestPic430.jpg
 author: Anaïs G
 illustrator: Thibault Daumain
 writer: Anaïs G

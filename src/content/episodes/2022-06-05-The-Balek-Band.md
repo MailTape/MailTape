@@ -6,7 +6,7 @@ illustrator: Thibault Daumain
 writer: Jules
 guest_name: The Balek Band
 guest_color: trippy
-guestPic: guestPic496.jpeg
+guestPic: /img/guestPic496.jpeg
 musiColor: musiColor496.png
 image: https://www.mailta.pe/img/fbPic496.png
 description: This morning, we are delighted to welcome Nantes-based group The

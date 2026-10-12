@@ -5,7 +5,7 @@ author: Anaïs G
 illustrator: Camille Célestin
 guest_name: "Cam Maclean "
 guest_color: dreamy
-guestPic: guestPic339.jpg
+guestPic: /img/guestPic339.jpg
 description: This morning, we are embarking on a year filled with joy, love and
   surprises. It shall also astonish us with many musical discoveries and
   auditory newness. Our journey, headed by captain Cam Maclean, promises a

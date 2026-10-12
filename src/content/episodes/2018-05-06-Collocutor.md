@@ -6,7 +6,7 @@ illustrator: Pierre-Julien Fieux
 writer: Sanjay Mistry
 guest_name: Tamar Osborn
 guest_color: dreamy
-guestPic: guestPic311.jpg
+guestPic: /img/guestPic311.jpg
 musiColor: musiColor311.png
 image: https://www.mailta.pe/img/fbPic311.jpg
 description: This morning we welcome saxophonist and flautist, Tamar Osborn, who

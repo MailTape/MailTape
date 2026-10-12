@@ -5,7 +5,7 @@ guest_color: dreamy
 bigTitle_font_ratio: "8"
 bigTitle_line_ratio: "1"
 guest_name: Arms and Sleepers
-guestPic: guestPic156.jpg
+guestPic: /img/guestPic156.jpg
 image: https://www.mailta.pe/img/fbPic156.jpg
 musiColor: musiColor156.png
 description: A time when we were all one and free,  and we stood, with our hands

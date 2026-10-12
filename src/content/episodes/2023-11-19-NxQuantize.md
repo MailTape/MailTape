@@ -7,7 +7,7 @@ writer: Jules
 guest_name: NxQuantize
 guest_color: trippy
 musiColor: musiColor540.png
-guestPic: guestPic540.jpg
+guestPic: /img/guestPic540.jpg
 image: https://www.mailta.pe/img/fbPic540.png
 description: This morning, we welcome Marseille-based artist and electronic
   music producer NxQuantize to MailTape! After welcoming label boss Goldie B in

@@ -6,7 +6,7 @@ illustrator: Camille Célestin
 writer: Sarah
 guest_name: Bolis Pupul
 guest_color: trippy
-guestPic: guestPic499.jpg
+guestPic: /img/guestPic499.jpg
 image: https://www.mailta.pe/img/fbPic499.png
 description: "This morning, we're overjoyed to welcome Bolis Pupul to MailTape.
   Based in Belgium, Bolis joins us after releasing his debut album with

@@ -5,7 +5,7 @@ guest_color: dreamy
 bigTitle_font_ratio: "5"
 bigTitle_line_ratio: "0.7"
 guest_name: Elliot Moss
-guestPic: guestPic169.jpg
+guestPic: /img/guestPic169.jpg
 image: https://www.mailta.pe/img/fbPic169b.jpg
 musiColor: musiColor169.png
 description: This morning, let the young talented Elliot Moss and his dreamy

@@ -4,7 +4,7 @@ published: true
 author: Anaïs G
 guest_name: Lenny Pistol
 guest_color: dreamy
-guestPic: guestPic372.jpg
+guestPic: /img/guestPic372.jpg
 musiColor: musiColor372.png
 illustrator: William Girault
 writer: Anaïs G

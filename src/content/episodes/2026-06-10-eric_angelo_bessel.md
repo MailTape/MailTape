@@ -3,7 +3,7 @@ published: true
 pubDate: 2026-06-13
 guest_name: Eric Angelo Bessel
 guest_color: dreamy
-guestPic: guestpic611.jpg
+guestPic: /img/guestpic611.jpg
 author: Sarah
 illustrator: Noémie Dijon
 writer: Sarah

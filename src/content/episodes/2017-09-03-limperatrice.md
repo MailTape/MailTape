@@ -6,7 +6,7 @@ illustrator: Camille Célestin
 writer: Daisy
 guest_name: L'impératrice
 guest_color: vibrant
-guestPic: guestPic276.jpg
+guestPic: /img/guestPic276.jpg
 image: https://www.mailta.pe/img/fbPic276.jpg
 musiColor: musiColor276.png
 description: This morning, the glitter balls are spinning a little slower and

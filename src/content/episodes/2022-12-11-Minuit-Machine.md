@@ -6,7 +6,7 @@ illustrator: Noémie
 writer: ImaCrea
 guest_name: Minuit Machine
 guest_color: rough
-guestPic: guestPic509.png
+guestPic: /img/guestPic509.png
 description: This morning, we're not letting winter take our energy. It's cold
   but our hearts are warmer than ever. And with Minuit Machine as our guests,
   prepare for a journey through a selection of energetic and cathartic tracks.

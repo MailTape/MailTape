@@ -3,7 +3,7 @@ published: true
 pubDate: 2011-05-08
 guest_name: Oxmo Puccino
 guest_color: vibrant
-guestPic: guestPic2.jpg
+guestPic: /img/guestPic2.jpg
 author: ImaCrea
 illustrator: Anais Caura
 writer: ImaCrea

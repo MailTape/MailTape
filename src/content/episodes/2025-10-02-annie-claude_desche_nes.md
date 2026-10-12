@@ -3,7 +3,7 @@ published: true
 pubDate: 2025-10-05
 guest_name: Annie-Claude Deschênes
 guest_color: rough
-guestPic: 1820-1024.jpg
+guestPic: /img/1820-1024.jpg
 author: Anto
 illustrator: Antoine Gaudin
 writer: Anto

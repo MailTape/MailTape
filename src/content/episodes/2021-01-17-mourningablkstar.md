@@ -6,7 +6,7 @@ illustrator: Meriam Kharbat
 writer: ImaCrea
 guest_name: Mourning [A] BLKstar
 guest_color: vibrant
-guestPic: guestPic434.jpg
+guestPic: /img/guestPic434.jpg
 image: https://www.mailta.pe/img/fbPic434.png
 musiColor: musiColor434.jpg
 description: This morning, we're honored to introduce you to Mourning [A]

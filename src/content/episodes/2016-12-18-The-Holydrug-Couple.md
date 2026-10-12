@@ -5,7 +5,7 @@ author: Dimitri
 illustrator: William Girault
 guest_name: The Holydrug Couple
 guest_color: dreamy
-guestPic: guestPic239.jpg
+guestPic: /img/guestPic239.jpg
 image: https://www.mailta.pe/img/fbPic239.jpg
 musiColor: musiColor239.JPG
 description: This morning, we will explore a variety of psychedelic territories

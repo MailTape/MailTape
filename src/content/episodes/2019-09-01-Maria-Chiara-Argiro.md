@@ -9,7 +9,7 @@ guest_color: bliss
 description: Welcome back to another season of MailTape! This morning we
   introduce the London-based pianist and composer, Maria Chiara Argirò, who
   kicks things off again with three Sunday morning tunes.
-guestPic: guestPic369.jpg
+guestPic: /img/guestPic369.jpg
 image: https://www.mailta.pe/img/fbPic369.jpg
 musiColor: musiColor369.png
 pubDate: 2019-09-01

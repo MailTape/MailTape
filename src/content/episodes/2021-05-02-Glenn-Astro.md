@@ -12,7 +12,7 @@ description: This morning, let's have some actively collected intuitions
   trip with a colorful selection curated by Glenn Astro. Time to get out of the
   loop darling!
 guest_color: trippy
-guestPic: guestPic449.png
+guestPic: /img/guestPic449.png
 pubDate: 2021-05-02
 track1:
   title: Amaarae - SAD GIRLZ LUV MONEY (feat. Moliy)

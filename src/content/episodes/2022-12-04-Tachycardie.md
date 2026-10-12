@@ -5,7 +5,7 @@ author: Anaïs G
 illustrator: Julie Wojtczak
 writer: Anaïs G
 guest_name: Tachycardie
-guestPic: guestPic508.jpg
+guestPic: /img/guestPic508.jpg
 guest_color: trippy
 image: https://www.mailta.pe/img/fbPic508.png
 musiColor: musiColor508.png

@@ -1,6 +1,6 @@
 ---
 bigTitle_font_ratio: "6"
-guestPic: guestPic387.jpg
+guestPic: /img/guestPic387.jpg
 guest_color: trippy
 guest_name: Bobun Fever
 writer: Anaïs G

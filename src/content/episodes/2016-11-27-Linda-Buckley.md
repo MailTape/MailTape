@@ -6,7 +6,7 @@ illustrator: Aoife Comey
 writer: Daisy
 guest_name: Linda Buckley
 guest_color: dreamy
-guestPic: guestPic236.jpg
+guestPic: /img/guestPic236.jpg
 image: https://www.mailta.pe/img/fbPic236.jpg
 musiColor: musiColor236.png
 description: This morning, let yourself be cocooned in the beautiful strands of

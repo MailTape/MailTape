@@ -6,7 +6,7 @@ illustrator: Julie Wojtczak
 writer: ImaCrea
 guest_name: Elisabeth Klinck
 guest_color: dreamy
-guestPic: guestPic532.jpg
+guestPic: /img/guestPic532.jpg
 image: https://www.mailta.pe/img/fbPic532.jpg
 musiColor: musiColor532.png
 description: On this Sunday morning, let's venture far from the city with our

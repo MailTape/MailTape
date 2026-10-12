@@ -23,7 +23,7 @@ description: This morning, we are setting sail again at the very first light of
   morning we are embarking with him, get prepared to be soothed by melancholic
   waves, overwhelmed by the sea spray and the wind of adventure!
 image: https://www.mailta.pe/img/fbPic380.png
-guestPic: guestPic380.jpg
+guestPic: /img/guestPic380.jpg
 pubDate: 2019-11-17
 track1:
   title: Leonard Cohen - I Left A Woman Waiting

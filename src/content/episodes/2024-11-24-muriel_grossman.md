@@ -3,7 +3,7 @@ published: true
 pubDate: 2024-11-24
 guest_name: Muriel Grossman
 guest_color: bliss
-guestPic: 567_murielgrossmann.jpg
+guestPic: /img/567_murielgrossmann.jpg
 author: Anto
 illustrator: Camille Célestin
 writer: Anto

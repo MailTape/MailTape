@@ -3,7 +3,7 @@ published: true
 pubDate: 2024-12-15
 guest_name: Camille Thouvenot
 guest_color: vibrant
-guestPic: ct.jpg
+guestPic: /img/ct.jpg
 author: Anto
 illustrator: Jan Henrik
 writer: Anto

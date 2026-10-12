@@ -3,7 +3,7 @@ published: true
 pubDate: 2024-12-22
 guest_name: Attention Le Tapis Prend Feu
 guest_color: trippy
-guestPic: guestpic571.jpg
+guestPic: /img/guestpic571.jpg
 author: Jules
 illustrator: Noémie Dijon
 writer: Jules

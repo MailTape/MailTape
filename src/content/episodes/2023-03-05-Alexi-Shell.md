@@ -6,7 +6,7 @@ illustrator: Meriam Kharbat
 writer: ImaCrea
 guest_name: Alexi Shell
 guest_color: vibrant
-guestPic: guestPic520.png
+guestPic: /img/guestPic520.png
 image: https://www.mailta.pe/img/fbPic520.jpg
 musiColor: musiColor520.png
 description: This morning, we're very excited to have Alexi Shell with us. Her

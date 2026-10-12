@@ -3,7 +3,7 @@ published: true
 pubDate: 2026-10-04
 guest_name: The Bernadette Maries
 guest_color: rough
-guestPic: guest615.jpg
+guestPic: /img/guest615.jpg
 author: Anto
 illustrator: Pierre-Julien Fieux
 writer: Anto

@@ -6,7 +6,7 @@ writer: Sarah
 illustrator: Thibault Daumain
 guest_name: Noon Garden
 guest_color: trippy
-guestPic: guestPic491.jpg
+guestPic: /img/guestPic491.jpg
 musiColor: musiColor491.png
 description: Today, we present a delightful selection of eclectic discoveries to
   welcome you into your Sunday morning. For this awakening, our dear guest Noon

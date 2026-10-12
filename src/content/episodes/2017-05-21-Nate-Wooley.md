@@ -4,7 +4,7 @@ published: true
 author: Sanjay Mistry
 guest_color: trippy
 guest_name: Nate Wooley
-guestPic: guestPic261.jpg
+guestPic: /img/guestPic261.jpg
 illustrator: William Girault
 image: https://www.mailta.pe/img/fbPic261.jpg
 musiColor: musiColor261.png

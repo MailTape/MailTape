@@ -5,7 +5,7 @@ author: Anaïs G
 illustrator: Camille Célestin
 writer: Anaïs G
 guest_name: Entracte Twist
-guestPic: guestPic363.jpg
+guestPic: /img/guestPic363.jpg
 musiColor: musiColor363.png
 description: This morning, we take out the guitars, adjust our strings test the
   sound with the amp in boring neighbors...  And let our fingers slide so that

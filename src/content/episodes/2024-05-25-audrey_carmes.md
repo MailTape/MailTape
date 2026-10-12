@@ -3,7 +3,7 @@ published: true
 pubDate: 2024-05-26
 guest_name: Audrey Carmes
 guest_color: dreamy
-guestPic: guestpic558.jpg
+guestPic: /img/guestpic558.jpg
 author: ImaCrea
 illustrator: Patricia Barros De Miranda
 writer: ImaCrea

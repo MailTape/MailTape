@@ -6,7 +6,7 @@ illustrator: Camille Célestin
 writer: Sanjay Mistry
 guest_name: Christine Ott
 guest_color: dreamy
-guestPic: guestPic305.jpg
+guestPic: /img/guestPic305.jpg
 musiColor: musiColor305.png
 image: https://www.mailta.pe/img/fbPic305.jpg
 description: Based in Strasbourg and only one of a tiny handful of performers on

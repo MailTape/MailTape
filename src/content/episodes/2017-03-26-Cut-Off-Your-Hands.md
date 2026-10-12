@@ -5,7 +5,7 @@ author: Inès
 illustrator: Anais Caura
 guest_name: Cut Off Your Hands
 guest_color: vibrant
-guestPic: guestPic253new2.jpg
+guestPic: /img/guestPic253new2.jpg
 writer: Inès
 musiColor: musiColor253.png
 image: https://www.mailta.pe/img/fbPic253.png

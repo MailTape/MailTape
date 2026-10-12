@@ -6,7 +6,7 @@ illustrator: Anthony Dujardin
 writer: Inès
 guest_name: Jermango Dreaming
 guest_color: bliss
-guestPic: guestPic374.jpg
+guestPic: /img/guestPic374.jpg
 musiColor: musiColor374.png
 image: https://www.mailta.pe/img/fbPic374.png
 description: This morning, please welcome Jermango Dreaming and his popping

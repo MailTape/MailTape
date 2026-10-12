@@ -4,7 +4,7 @@ author: ImaCrea
 guest_color: dreamy
 bigTitle_font_ratio: "6"
 guest_name: Hugo Kepler
-guestPic: guestPic194.jpg
+guestPic: /img/guestPic194.jpg
 image: https://www.mailta.pe/img/fbPic194.jpg
 musiColor: musiColor194.png
 description: "This morning, be prepared for a shower of heart throbbing words

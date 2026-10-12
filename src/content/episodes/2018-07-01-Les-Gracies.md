@@ -6,7 +6,7 @@ illustrator: Anthony Dujardin
 writer: Sanjay Mistry
 guest_name: Les Graciés
 guest_color: trippy
-guestPic: guestPic319.jpg
+guestPic: /img/guestPic319.jpg
 musiColor: musiColor319.png
 image: https://www.mailta.pe/img/fbPic319.jpg
 description: This morning we welcome the lyrical and funky Sunday morning

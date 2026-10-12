@@ -6,7 +6,7 @@ illustrator: Camille Célestin
 writer: Inès
 guest_name: Jerry Paper
 guest_color: trippy
-guestPic: guestPic327.jpg
+guestPic: /img/guestPic327.jpg
 description: "This morning, please welcome Jerry Paper's eclectic selection. His
   music is multi-faceted. It's witty and stays graceful at all times. Are you
   ready to enter Jerry Paper’s musical multiverse? "

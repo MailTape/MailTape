@@ -14,7 +14,7 @@ description: This morning, wake up with our very special guests, the pioneers of
   discoveries. Together they set in motion the renewal of electronic music with
   their very own sound, multiple, indefinable yet always groovy. Enjoy the trip
   folks !
-guestPic: guestPic265.jpg
+guestPic: /img/guestPic265.jpg
 image: https://www.mailta.pe/img/fbPic265.jpg
 pubDate: 2017-06-18
 track1:

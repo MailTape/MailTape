@@ -2,7 +2,7 @@
 musiColor: musiColor432.png
 image: https://www.mailta.pe/img/fbPic432.png
 bigTitle_font_ratio: "6"
-guestPic: guestPic432.jpg
+guestPic: /img/guestPic432.jpg
 guest_name: Danse Musique Rhône-Alpes
 writer: Anaïs G
 author: Anaïs G

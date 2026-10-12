@@ -5,7 +5,7 @@ guest_color: dreamy
 bigTitle_font_ratio: "5"
 bigTitle_line_ratio: "0.6"
 guest_name: Paul White
-guestPic: guestPic186.jpg
+guestPic: /img/guestPic186.jpg
 image: https://www.mailta.pe/img/fbPic186.jpg
 musiColor: musiColor186.png
 description: This morning, enjoy a selection filled with great positive vibes.

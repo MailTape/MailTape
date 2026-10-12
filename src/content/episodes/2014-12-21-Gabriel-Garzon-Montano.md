@@ -5,7 +5,7 @@ guest_color: dreamy
 bigTitle_font_ratio: "10"
 bigTitle_line_ratio: "1"
 guest_name: Gabriel Garzón-Montano
-guestPic: guestPic165.jpg
+guestPic: /img/guestPic165.jpg
 image: https://www.mailta.pe/img/fbPic165.jpg
 description: This morning, please welcome our new delighted guest who is half
   Colombian and half French but born and brought up in Brooklyn. Gabriel

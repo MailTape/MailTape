@@ -22,7 +22,7 @@ description: This morning, as I opened my eyes in bed and let my gaze glide
   to be taken on a journey through a kaleidoscopic soundscape, between São
   Paulo, Paris and many other fantastic lands, between retro and neo, always
   with a sunny groove.
-guestPic: guestPic542.jpeg
+guestPic: /img/guestPic542.jpeg
 image: https://www.mailta.pe/img/fbPic542.png
 pubDate: 2024-01-07
 track1:

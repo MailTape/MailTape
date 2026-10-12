@@ -6,7 +6,7 @@ illustrator: Camille Célestin
 writer: Sanjay Mistry
 guest_name: Loraine James
 guest_color: trippy
-guestPic: guestPic323.jpg
+guestPic: /img/guestPic323.jpg
 description: This week we are delighted to welcome London-based electronic
   musician, Loraine James, who selects some groovy Sunday morning chops for us.
 musiColor: musiColor323.png

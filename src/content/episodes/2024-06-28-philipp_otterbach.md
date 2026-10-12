@@ -3,7 +3,7 @@ published: true
 pubDate: 2024-06-30
 guest_name: Philipp Otterbach
 guest_color: vibrant
-guestPic: guestpic559.png
+guestPic: /img/guestpic559.png
 author: Jules
 illustrator: Babi Brunelio
 writer: Jules

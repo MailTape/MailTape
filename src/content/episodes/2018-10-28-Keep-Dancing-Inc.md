@@ -14,7 +14,7 @@ description: This morning, we welcome Louis, Charles, Gabrielle and Joseph from
   from the stiff world of impersonal open spaces and fake sick leave, Keep
   Dancing Inc’s music, lies somewhere between synth pop, new wave and cold zouk
   – it is warm and welcoming.
-guestPic: guestPic329.jpg
+guestPic: /img/guestPic329.jpg
 image: https://www.mailta.pe/img/fbPic329.jpg
 musiColor: musiColor329.png
 pubDate: 2018-10-28

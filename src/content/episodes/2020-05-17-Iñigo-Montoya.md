@@ -1,6 +1,6 @@
 ---
 bigTitle_font_ratio: "6"
-guestPic: guestPic406.jpg
+guestPic: /img/guestPic406.jpg
 guest_color: trippy
 guest_name: "Iñigo Montoya "
 writer: Anaïs G

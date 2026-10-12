@@ -3,7 +3,7 @@ published: true
 pubDate: 2025-01-19
 guest_name: William Ryan Fritch
 guest_color: dreamy
-guestPic: william_ryan_fritch.jpg
+guestPic: /img/william_ryan_fritch.jpg
 author: ImaCrea
 illustrator: Noémie Dijon
 writer: ImaCrea

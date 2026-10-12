@@ -5,7 +5,7 @@ author: Sanjay Mistry
 illustrator: Pierre-Julien Fieux
 guest_name: Sarathy Korwar
 guest_color: trippy
-guestPic: guestPic249.jpg
+guestPic: /img/guestPic249.jpg
 image: https://www.mailta.pe/img/fbPic249.jpg
 musiColor: musiColor249.png
 description: This morning, transcend borders with mantras, untethered

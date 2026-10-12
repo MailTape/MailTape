@@ -3,7 +3,7 @@ published: true
 pubDate: 2025-12-14
 guest_name: Antoine Ferris
 guest_color: trippy
-guestPic: guestpic600.jpg
+guestPic: /img/guestpic600.jpg
 author: ImaCrea
 illustrator: Noémie Dijon
 writer: ImaCrea

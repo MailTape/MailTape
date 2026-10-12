@@ -5,7 +5,7 @@ author: Anaïs G
 illustrator: Camille Célestin
 writer: Anaïs G
 guest_name: Rémi Parson
-guestPic: guestPic470.jpg
+guestPic: /img/guestPic470.jpg
 guest_color: rough
 image: https://www.mailta.pe/img/fbPic470.png
 musiColor: musiColor470.png

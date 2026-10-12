@@ -6,7 +6,7 @@ illustrator: Thibault Daumain
 writer: Sanjay Mistry
 guest_name: The Gentleman Losers
 guest_color: dreamy
-guestPic: guestPic390.jpg
+guestPic: /img/guestPic390.jpg
 image: https://www.mailta.pe/img/fbPic390.jpg
 musiColor: musiColor390.png
 description: This morning we are delighted to welcome brothers Samu and Ville

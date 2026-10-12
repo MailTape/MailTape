@@ -6,7 +6,7 @@ illustrator: Meriam Kharbat
 writer: Sarah
 guest_name: Baby Chuck
 guest_color: dreamy
-guestPic: guestPic502.jpg
+guestPic: /img/guestPic502.jpg
 description: This morning, we're delighted to welcome Baby Chuck to MailTape for
   an eclectic collection that'll jump start your day. Based in Los Angeles, Baby
   Chuck (Matt O'Keefe) joins us a month after releasing his most recent album,

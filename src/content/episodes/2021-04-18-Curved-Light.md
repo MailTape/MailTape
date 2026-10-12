@@ -5,7 +5,7 @@ guest_name: Curved Light
 guest_color: bliss
 musiColor: musiColor447.png
 image: https://www.mailta.pe/img/fbPic447.png
-guestPic: guestPic447.jpg
+guestPic: /img/guestPic447.jpg
 description: "This morning, we embrace the abstract in the ambient: the
   otherworldly and the primal. The tracks in the following playlist reach for
   any lingering emptiness sitting within us, offering a moment of calm and

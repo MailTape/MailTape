@@ -6,7 +6,7 @@ illustrator: Thibault Daumain
 writer: ImaCrea
 guest_name: Vimala Pons
 guest_color: trippy
-guestPic: guestPic487.jpg
+guestPic: /img/guestPic487.jpg
 musiColor: musiColor487.png
 image: https://www.mailta.pe/img/fbPic487.jpg
 description: This morning, we're very pleased to welcome Vimala Pons as our

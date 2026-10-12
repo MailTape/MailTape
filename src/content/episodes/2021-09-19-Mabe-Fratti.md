@@ -3,7 +3,7 @@ bigTitle_font_ratio: "6"
 published: true
 guest_name: Mabe Fratti
 guest_color: dreamy
-guestPic: guestPic462.jpg
+guestPic: /img/guestPic462.jpg
 image: https://www.mailta.pe/img/fbPic462.png
 musiColor: musiColor462.png
 description: This morning, we're thrilled to welcome Guatemalan cellist and

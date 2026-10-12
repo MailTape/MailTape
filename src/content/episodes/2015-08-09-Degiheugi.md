@@ -4,7 +4,7 @@ author: ImaCrea
 guest_color: vibrant
 bigTitle_font_ratio: "6"
 guest_name: Degiheugi
-guestPic: guestPic198.jpg
+guestPic: /img/guestPic198.jpg
 description: "This morning, get ready for a journey through a legendary wild
   forest known for its hidden gems. Let’s start our exploration with Degiheugi,
   master in the art of finding the best samples.   Keep your eyes opened, let

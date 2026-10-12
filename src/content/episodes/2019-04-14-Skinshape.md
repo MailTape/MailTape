@@ -6,7 +6,7 @@ illustrator: Camille Célestin
 writer: Jules
 guest_name: Skinshape
 guest_color: dreamy
-guestPic: guestPic353.jpg
+guestPic: /img/guestPic353.jpg
 image: https://www.mailta.pe/img/fbPic353new.png
 musiColor: musiColor353.png
 description: This morning, Skinshape is welcoming us aboard his creative ship,

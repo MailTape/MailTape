@@ -6,7 +6,7 @@ author: Sarah
 illustrator: Camille Célestin
 writer: Sarah
 guest_color: vibrant
-guestPic: guestPic516.jpg
+guestPic: /img/guestPic516.jpg
 image: https://www.mailta.pe/img/fbPic516.png
 musiColor: musiColor516.png
 description: The dancefloor energy is bleeding into the morning hours this

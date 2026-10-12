@@ -3,7 +3,7 @@ bigTitle_font_ratio: "6"
 published: true
 musiColor: musiColor367.png
 guest_name: Labotanique
-guestPic: guestPic367.jpg
+guestPic: /img/guestPic367.jpg
 description: This morning we leave in the forest far from the city, far from
   pollution, far from the crowded streets of tourists... A moment to get green,
   to recharge one's batteries in the country, is the philosophy of the

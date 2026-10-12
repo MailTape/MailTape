@@ -4,7 +4,7 @@ published: true
 author: ImaCrea
 writer: ImaCrea
 guest_name: La Fine Équipe
-guestPic: guestPic6.jpg
+guestPic: /img/guestPic6.jpg
 image: https://www.mailta.pe/img/fbPic6.jpg
 musiColor: musiColor6.png
 guest_color: rough

@@ -6,7 +6,7 @@ illustrator: Anais Caura
 writer: Inès
 guest_name: Johnny Hawaii
 guest_color: bliss
-guestPic: guestPic256.jpg
+guestPic: /img/guestPic256.jpg
 description: "This morning, let's all stay in a hazy state thanks to Johnny
   Hawaii’s trippy selection. Johnny Hawaii's psychedelic surf tracks are amazing
   soundtracks for Sundays: long, slow, and dreamy, just what is needed to wrap

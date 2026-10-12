@@ -5,7 +5,7 @@ guest_name: Bachar Mar-Khalifé
 guest_color: vibrant
 author: Manon
 writer: Manon
-guestPic: guestPic337.jpg
+guestPic: /img/guestPic337.jpg
 illustrator: Anthony Dujardin
 image: https://www.mailta.pe/img/fbPic337.jpg
 musiColor: musiColor337.jpg

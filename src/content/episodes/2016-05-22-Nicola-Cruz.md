@@ -6,7 +6,7 @@ illustrator: Camille Célestin
 writer: ImaCrea
 guest_name: Nicola Cruz
 guest_color: dreamy
-guestPic: guestPic218.jpg
+guestPic: /img/guestPic218.jpg
 image: https://www.mailta.pe/img/fbPic218.jpg
 musiColor: musiColor218.png
 description: This morning, we’re taking you on a walk in the forest. Our guest

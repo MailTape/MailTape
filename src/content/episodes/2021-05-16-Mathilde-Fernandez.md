@@ -6,7 +6,7 @@ illustrator: Thibault Daumain
 guest_name: Mathilde Fernandez
 guest_color: bliss
 writer: ImaCrea
-guestPic: guestPic451.jpg
+guestPic: /img/guestPic451.jpg
 musiColor: musiColor451.png
 image: https://www.mailta.pe/img/fbPic451.png
 description: "This morning, we're glad to have Mathilde Fernandez with us, this

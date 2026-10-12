@@ -8,7 +8,7 @@ illustrator: Camille Célestin
 author: Anaïs G
 guest_name: Souleance
 guest_color: bliss
-guestPic: guestPic473.jpg
+guestPic: /img/guestPic473.jpg
 description: This morning, the cold freezes our minds and the rain makes us feel
   bad. Fortunately, to chase away all its negative waves, we have the selection
   of the group Souleance. Smoothie, sunshine and good vibes in abundance to

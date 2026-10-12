@@ -3,7 +3,7 @@ published: true
 pubDate: 2026-03-08
 guest_name: Nathan Fake
 guest_color: trippy
-guestPic: guestpic606.jpg
+guestPic: /img/guestpic606.jpg
 author: ImaCrea
 illustrator: Pierre-Julien Fieux
 writer: ImaCrea

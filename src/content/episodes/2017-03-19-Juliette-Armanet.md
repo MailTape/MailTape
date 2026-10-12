@@ -3,7 +3,7 @@ bigTitle_font_ratio: "6"
 published: true
 guest_name: Juliette Armanet
 guest_color: dreamy
-guestPic: guestPic2524.jpg
+guestPic: /img/guestPic2524.jpg
 author: Dimitri
 illustrator: Camille Célestin
 writer: PS KY

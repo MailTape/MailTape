@@ -7,7 +7,7 @@ writer: Marion
 guest_name: Klô Pelgag
 guest_color: dreamy
 musiColor: musiColor410.png
-guestPic: guestPic410.jpg
+guestPic: /img/guestPic410.jpg
 description: Today, we welcome Klô Pelgag for a sweet sunday morning made of
   fantastic stories.
 image: https://www.mailta.pe/img/fbPic410.png

@@ -15,7 +15,7 @@ description: This morning, let's revel in the lush universe of Maenad Veyl, one
   restraint.
 image: https://www.mailta.pe/img/fbPic368.png
 musiColor: musiColor368.png
-guestPic: guestPic368.jpg
+guestPic: /img/guestPic368.jpg
 pubDate: 2019-07-28
 track1:
   title: MY DISCO - Exercise in Sacrifice

@@ -1,7 +1,7 @@
 ---
 bigTitle_font_ratio: "6"
 published: true
-guestPic: guestPic361.jpg
+guestPic: /img/guestPic361.jpg
 illustrator: Camille Célestin
 author: Anaïs G
 writer: Anaïs G

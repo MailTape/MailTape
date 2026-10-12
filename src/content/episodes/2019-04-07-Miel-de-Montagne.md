@@ -6,7 +6,7 @@ illustrator: Anthony Dujardin
 writer: Anaïs G
 guest_name: Miel de Montagne
 guest_color: dreamy
-guestPic: guestPic352.jpg
+guestPic: /img/guestPic352.jpg
 image: https://www.mailta.pe/img/fbPic352.png
 musiColor: musiColor352.png
 description: This morning, the atmosphere is light almost aerial, like the

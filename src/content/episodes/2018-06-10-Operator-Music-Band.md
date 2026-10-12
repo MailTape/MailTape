@@ -13,7 +13,7 @@ description: This morning, we are delighted to welcome Operator Music Band, an
   will perceive a deep love for analogue synths, an interesting sense of humor,
   a vocal and instrumental surgical precision, no matter if you suck at
   mathematics.
-guestPic: GuestPic316ok.jpg
+guestPic: /img/GuestPic316ok.jpg
 musiColor: musiColor316.png
 image: https://www.mailta.pe/img/fbPic316.png
 pubDate: 2018-06-10

@@ -3,7 +3,7 @@ published: true
 pubDate: 2024-10-27
 guest_name: Yassin Keetan
 guest_color: vibrant
-guestPic: guestpic563.png
+guestPic: /img/guestpic563.png
 author: Jules
 illustrator: Marie Alléguède
 writer: Jules

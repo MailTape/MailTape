@@ -6,7 +6,7 @@ writer: ImaCrea
 illustrator: Noémie Dijon
 guest_name: Silas Short
 guest_color: bliss
-guestPic: guestPic494.jpg
+guestPic: /img/guestPic494.jpg
 musiColor: musiColor494.png
 description: This morning we’re in excellent company with Silas Short from the
   legendary Stones Throw Record family. Young and very talented, his debut EP,

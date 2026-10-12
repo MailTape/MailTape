@@ -6,7 +6,7 @@ illustrator: Anthony Dujardin
 writer: Sanjay Mistry
 guest_name: Mary Lattimore
 guest_color: dreamy
-guestPic: guestPic328.jpg
+guestPic: /img/guestPic328.jpg
 musiColor: musiColor328.png
 image: https://www.mailta.pe/img/fbPic328.jpg
 description: This Sunday morning we are delighted to welcome harpist Mary

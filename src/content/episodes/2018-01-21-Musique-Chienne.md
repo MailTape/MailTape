@@ -6,7 +6,7 @@ illustrator: Pierre-Julien Fieux
 writer: Inès
 guest_name: Musique Chienne
 guest_color: trippy
-guestPic: guestPic296.jpg
+guestPic: /img/guestPic296.jpg
 musiColor: musiColor296.png
 image: https://www.mailta.pe/img/fbPic296.png
 description: This morning, please welcome Musique Chienne's sparkly selection!

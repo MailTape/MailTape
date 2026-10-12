@@ -6,7 +6,7 @@ illustrator: William Girault
 writer: Daisy
 guest_name: Emanative
 guest_color: vibrant
-guestPic: guestPic271.jpg
+guestPic: /img/guestPic271.jpg
 image: https://www.mailta.pe/img/fbPic271.jpg
 musiColor: musiColor271.png
 description: This morning long-time jazz wayfarer Nick Woodmansey’s Emanative

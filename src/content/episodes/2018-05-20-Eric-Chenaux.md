@@ -6,7 +6,7 @@ illustrator: Pierre-Julien Fieux
 writer: Sanjay Mistry
 guest_name: Eric Chenaux
 guest_color: dreamy
-guestPic: guestPic313.jpg
+guestPic: /img/guestPic313.jpg
 description: Close your eyes and float away in a blissful auditory dream
   courtesy of Paris-based guitarist, Eric Chenaux. He provides us with a sweet
   Sunday morning glimpse into Canada’s contemporary music milieu.

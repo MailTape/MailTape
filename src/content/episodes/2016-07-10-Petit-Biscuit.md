@@ -6,7 +6,7 @@ writer: PS KY
 author: Dimitri
 guest_name: Petit Biscuit
 guest_color: bliss
-guestPic: guestPic224.jpg
+guestPic: /img/guestPic224.jpg
 musiColor: musiColor224.png
 description: This morning, we bring you the soundtrack to summer’s daydreams.
   Petit Biscuit is reminiscent of that glimpse of sunlight projected onto your

@@ -5,7 +5,7 @@ guest_color: dreamy
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
 guest_name: Grey Reverend
-guestPic: guestPic142.jpg
+guestPic: /img/guestPic142.jpg
 image: https://www.mailta.pe/img/fbPic142.jpg
 musiColor: musiColor142.png
 description: This Morning, a warm voice will wake you up. We are very pleased to

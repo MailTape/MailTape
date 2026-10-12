@@ -6,7 +6,7 @@ illustrator: Pierre-Julien Fieux
 writer: Sanjay Mistry
 guest_name: Sibusile Xaba
 guest_color: bliss
-guestPic: guestPic275.jpg
+guestPic: /img/guestPic275.jpg
 description: This morning I'm super excited to present the Sunday morning
   jukebox of Pretoria-based guitarist and generally beautiful human being,
   Sibusile Xaba, chosen especially for MailTape.

@@ -6,7 +6,7 @@ illustrator: Lucie Fléty
 writer: ImaCrea
 guest_name: Patricia Wolf
 guest_color: dreamy
-guestPic: guestPic514.png
+guestPic: /img/guestPic514.png
 description: This morning, we are delighted to welcome Patricia Wolf to
   MailTape. Patricia is a multi-instrumentalist, composer, and producer who
   draws on her natural surroundings to compose her music. Embark on a pure

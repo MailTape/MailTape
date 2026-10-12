@@ -3,7 +3,7 @@ published: true
 pubDate: 2025-06-22
 guest_name: Ola Szmidt
 guest_color: dreamy
-guestPic: ola_szmidt.png
+guestPic: /img/ola_szmidt.png
 author: ImaCrea
 illustrator: Noémie Dijon
 writer: ImaCrea

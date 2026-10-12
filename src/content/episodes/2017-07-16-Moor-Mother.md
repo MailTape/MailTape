@@ -5,7 +5,7 @@ author: Sanjay Mistry
 illustrator: Anais Caura
 guest_name: Moor Mother
 guest_color: rough
-guestPic: guestPic269.jpg
+guestPic: /img/guestPic269.jpg
 musiColor: musiColor269.png
 description: This morning we welcome Philadelphia-based interdisciplinary
   artist, Camae Ayewa (Moor Mother).

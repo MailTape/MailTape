@@ -6,7 +6,7 @@ illustrator: Julie Wojtczak
 writer: Sarah
 guest_name: Jesse Adelman
 guest_color: dreamy
-guestPic: guestPic486.jpg
+guestPic: /img/guestPic486.jpg
 musiColor: musiColor486.png
 image: https://www.mailta.pe/img/fbPic486.png
 description: Today, we welcome Jesse Adelman for a collection of easy moving

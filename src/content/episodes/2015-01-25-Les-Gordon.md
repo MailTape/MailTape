@@ -7,7 +7,7 @@ bigTitle_line_ratio: "1"
 guest_name: Les Gordon
 description: "This Sunday, we bring you an amalgam of ambient  and downtempo
   with our newly found French artist, Les Gordon. "
-guestPic: guestPic170.jpg
+guestPic: /img/guestPic170.jpg
 image: https://www.mailta.pe/img/fbPic170.jpg
 musiColor: musiColor170.png
 pubDate: 2015-01-25

@@ -3,7 +3,7 @@ published: true
 pubDate: 2024-05-05
 guest_name: Sami Galbi
 guest_color: trippy
-guestPic: guestpic557.png
+guestPic: /img/guestpic557.png
 author: Jules
 illustrator: Noémie Dijon
 writer: Jules

@@ -3,7 +3,7 @@ bigTitle_font_ratio: "6"
 published: true
 musiColor: musiColor403.png
 image: https://www.mailta.pe/img/fbPic403.png
-guestPic: guestPic403.jpg
+guestPic: /img/guestPic403.jpg
 guest_color: trippy
 guest_name: Quiet Dawn
 writer: Anaïs G

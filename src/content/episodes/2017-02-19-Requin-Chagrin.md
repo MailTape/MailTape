@@ -11,7 +11,7 @@ description: This morning, juggle the calm and energetic moments thrown your way
   by Requin Chagrin’s eclectic selection. During this 30-minutes selection,
   travel all over the world, feel both warmth and coldness or just dance (alone)
   in your room. Sunnier days don’t seem so far away now!
-guestPic: guestPic248new2.jpg
+guestPic: /img/guestPic248new2.jpg
 image: https://www.mailta.pe/img/fbPic248.jpg
 pubDate: 2017-02-19
 track1:

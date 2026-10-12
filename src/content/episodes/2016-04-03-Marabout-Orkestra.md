@@ -5,7 +5,7 @@ writer: ImaCrea
 guest_name: Marabout Orkestra
 guest_color: vibrant
 bigTitle_font_ratio: "6"
-guestPic: guestPic211.jpg
+guestPic: /img/guestPic211.jpg
 image: https://www.mailta.pe/img/fbPic211.jpg
 musiColor: musiColor211.png
 description: This morning, we're bringing you a soulful selection made in

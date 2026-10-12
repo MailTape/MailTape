@@ -6,7 +6,7 @@ illustrator: Anthony Dujardin
 writer: Jules
 guest_name: Corey King
 guest_color: vibrant
-guestPic: guestPic376.jpg
+guestPic: /img/guestPic376.jpg
 image: https://www.mailta.pe/img/fbPic376.png
 musiColor: musiColor376.png
 description: This morning, we are delighted to welcome Corey King to select

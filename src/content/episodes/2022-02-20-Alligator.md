@@ -8,7 +8,7 @@ guest_name: Alligator
 guest_color: vibrant
 image: https://www.mailta.pe/img/fbPic482.jpg
 musiColor: musiColor482.png
-guestPic: guestPic482.jpg
+guestPic: /img/guestPic482.jpg
 description: This morning, we stop reading the news and start dancing. Did you
   know the oldest proof of dancing comes from 9000 years old cave paintings that
   were found in India? Also, we’re not the only one dancing on this planet, it’s

@@ -5,7 +5,7 @@ guest_color: vibrant
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
 guest_name: Jesper Ryom
-guestPic: guestPic141.jpg
+guestPic: /img/guestPic141.jpg
 image: https://www.mailta.pe/img/fbPic141.jpg
 musiColor: musiColor141.png
 description: his Morning, Jesper Ryom inspired us a mostly vibrant MailTape

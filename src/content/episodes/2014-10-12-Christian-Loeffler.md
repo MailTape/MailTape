@@ -5,7 +5,7 @@ guest_color: bliss
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
 guest_name: Christian Löffler
-guestPic: guestPic155.jpg
+guestPic: /img/guestPic155.jpg
 image: https://www.mailta.pe/img/fbPic155.png
 musiColor: musiColor155.png
 description: This morning, discover Christian Löffler. The extraordinary

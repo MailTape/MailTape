@@ -6,7 +6,7 @@ illustrator: Anais Caura
 writer: Louise
 guest_name: Aloïse Sauvage
 guest_color: dreamy
-guestPic: guestPic293-1.jpg
+guestPic: /img/guestPic293-1.jpg
 image: https://www.mailta.pe/img/fbPic293.png
 musiColor: musiColor293.png
 description: "This morning, it's time to reflect on the past year. It's a new

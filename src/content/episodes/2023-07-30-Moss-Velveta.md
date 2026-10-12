@@ -1,7 +1,7 @@
 ---
 bigTitle_font_ratio: "6"
 published: true
-guestPic: guestPic533.jpg
+guestPic: /img/guestPic533.jpg
 guest_name: Moss Velveta
 author: Sarah
 illustrator: Nella Papelita

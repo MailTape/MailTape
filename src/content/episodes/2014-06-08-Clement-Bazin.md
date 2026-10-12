@@ -5,7 +5,7 @@ guest_color: vibrant
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
 guest_name: Clément Bazin
-guestPic: guestPic144.jpg
+guestPic: /img/guestPic144.jpg
 image: https://www.mailta.pe/img/fbPic144.jpg
 musiColor: musiColor144.png
 description: This morning, the french beatmaker Clément Bazin will carry you on

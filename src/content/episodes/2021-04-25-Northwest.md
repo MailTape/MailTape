@@ -7,7 +7,7 @@ illustrator: Julie Wojtczak
 writer: Anaïs G
 guest_name: Northwest
 guest_color: vibrant
-guestPic: guestPic448.jpg
+guestPic: /img/guestPic448.jpg
 image: https://www.mailta.pe/img/fbPic448.png
 musiColor: musiColor448.png
 description: This morning,we enter into a contemplative meditation. We enter

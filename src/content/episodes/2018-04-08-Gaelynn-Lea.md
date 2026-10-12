@@ -7,7 +7,7 @@ writer: Sanjay Mistry
 guest_name: Gaelynn Lea
 guest_color: vibrant
 image: https://www.mailta.pe/img/fbPic307.jpg
-guestPic: guestPic307.jpg
+guestPic: /img/guestPic307.jpg
 musiColor: musiColor307.png
 description: This morning we are delighted to welcome Duluth-based violinist,
   Gaelynn Lea. She chooses an easy breezy Sunday morning playlist in

@@ -6,7 +6,7 @@ illustrator: Jason Pridham
 writer: Sanjay Mistry
 guest_name: Beau Wanzer
 guest_color: trippy
-guestPic: guestPic414.jpg
+guestPic: /img/guestPic414.jpg
 description: Welcome back to a new season of MailTape! This morning we welcome
   Chicago-based woozy noodler Beau Wanzer to select three contorted Sunday
   morning tunes with us.

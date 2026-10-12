@@ -5,7 +5,7 @@ author: ImaCrea
 writer: ImaCrea
 guest_name: Natalie Greffel
 guest_color: vibrant
-guestPic: guestPic424.jpg
+guestPic: /img/guestPic424.jpg
 musiColor: musiColor424.png
 image: https://www.mailta.pe/img/fbPic424.png
 illustrator: Meriam Kharbat

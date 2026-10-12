@@ -6,7 +6,7 @@ illustrator: Thibault Daumain
 writer: Sanjay Mistry
 guest_name: Michal Turtle
 guest_color: dreamy
-guestPic: guestPic408.jpg
+guestPic: /img/guestPic408.jpg
 description: This morning we welcome Michal Turtle to select some Sunday morning
   tunes with us—a musician and producer who spent the heart of the 1980s making
   subtle, enlightened music.

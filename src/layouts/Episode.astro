@@ -51,8 +51,8 @@ track1_title={track1?.title} track2_title={track2?.title} track3_title={track3?.
         </div> -->
     <TopBar />
 
-    <img src=`/img/${guestPic}` style="display:none;"/>
-    <div id="bigHeader" class="stretchMe notPlaying" data-stretch=`/img/${guestPic}` data-stretchAlignY=`${alignY}` data-pagefind-meta=`image:https://www.mailta.pe/img/${guestPic}` data-pagefind-meta=`image_alt:Episode ${ release } - ${ guest_name }`>
+    <img src=`${guestPic}` style="display:none;"/>
+    <div id="bigHeader" class="stretchMe notPlaying" data-stretch=`${guestPic}` data-stretchAlignY=`${alignY}` data-pagefind-meta=`image:${SITE_BASE_URL}${guestPic}` data-pagefind-meta=`image_alt:Episode ${ release } - ${ guest_name }`>
     
         <div class="container">
             <!-- desktop header -->
@@ -238,7 +238,7 @@ track1_title={track1?.title} track2_title={track2?.title} track3_title={track3?.
         <div id="similarEpisodes" class="d-flex flex-column flex-md-row" data-pagefind-ignore> 
             { similarEpisodes.map((similarEpisode) =>
                 <div class="col-lg-4 similarEpisode" > 
-                    <a href=`/${slugEp(similarEpisode)}` class="stretchMe" data-stretch=`/img/${similarEpisode.data.guestPic}`>
+                    <a href=`/${slugEp(similarEpisode)}` class="stretchMe" data-stretch=`${similarEpisode.data.guestPic}`>
                         <h2>{ similarEpisode.data.guest_name }</h2>
                         <img src=`/img/${similarEpisode.data.musiColor}` class="img-fluid re-musiColor"/>
                     </a>

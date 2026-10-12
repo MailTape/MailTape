@@ -5,7 +5,7 @@ author: Louise
 illustrator: Camille Célestin
 guest_name: Maud Geffray
 guest_color: bliss
-guestPic: guestPic281.jpg
+guestPic: /img/guestPic281.jpg
 image: https://www.mailta.pe/img/fbPic281.png
 musiColor: musiColor281.png
 writer: Louise

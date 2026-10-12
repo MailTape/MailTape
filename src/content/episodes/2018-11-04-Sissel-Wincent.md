@@ -9,7 +9,7 @@ guest_color: trippy
 description: This morning we are delighted to welcome Stockholm-based electronic
   producer, Sissel Wincent, to MailTape.
 musiColor: musiColor330.png
-guestPic: guestPic330.jpg
+guestPic: /img/guestPic330.jpg
 image: https://www.mailta.pe/img/fbPic330.jpg
 pubDate: 2018-11-04
 track1:

@@ -6,7 +6,7 @@ illustrator: Anthony Dujardin
 writer: Sanjay Mistry
 guest_name: Camilla George
 guest_color: dreamy
-guestPic: guestPic362.jpg
+guestPic: /img/guestPic362.jpg
 musiColor: musiColor362.png
 image: https://www.mailta.pe/img/fbPic362.jpg
 description: This morning we welcome London-based saxophonist and composer,

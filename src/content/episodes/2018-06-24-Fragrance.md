@@ -13,7 +13,7 @@ description: "This morning we welcome Fragrance., Matthieu Roche’s solo projec
   Freed From Desire) and lo-fi music, in the same way that his melancholic voice
   and dancing beats are mixed: you never really know how you should feel when
   you listen them."
-guestPic: guestPic318okok.jpg
+guestPic: /img/guestPic318okok.jpg
 musiColor: musiColor318.png
 image: https://www.mailta.pe/img/fbPic318.jpg
 pubDate: 2018-06-24

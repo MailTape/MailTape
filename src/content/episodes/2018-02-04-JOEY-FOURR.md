@@ -6,7 +6,7 @@ illustrator: Pierre-Julien Fieux
 writer: PS KY
 guest_name: JOEY FOURR
 guest_color: bliss
-guestPic: guestPic298.jpg
+guestPic: /img/guestPic298.jpg
 musiColor: musiColor298.png
 image: https://www.mailta.pe/img/fbPic298.png
 description: This morning, we bring you an electrifying and magnetic MailTape.

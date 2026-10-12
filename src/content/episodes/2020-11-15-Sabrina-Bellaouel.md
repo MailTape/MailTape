@@ -7,7 +7,7 @@ writer: Jules
 guest_name: Sabrina Bellaouel
 guest_color: vibrant
 musiColor: musiColo425.png
-guestPic: guestPic425.jpg
+guestPic: /img/guestPic425.jpg
 image: https://www.mailta.pe/img/fbPic425.png
 description: This morning, we are delighted to welcome Franco-Algerian singer
   and producer, Sabrina Bellaouel, to share a sensitive selection of her

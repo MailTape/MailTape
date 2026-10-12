@@ -3,7 +3,7 @@ published: true
 pubDate: 2025-10-26
 guest_name: The Sorcerers
 guest_color: trippy
-guestPic: the_sorcerers.jpg
+guestPic: /img/the_sorcerers.jpg
 author: Anto
 writer: Anto
 illustrator: Pierre-Julien Fieux
