@@ -7,7 +7,6 @@ description: "This morning, discover a 100% MailTape Crew episode. The perfect
   occasion to celebrate the arrival of our two new curators : Julien and
   Dimitri. Spring is on its way, here’s our vibrant hymn to help Mother Nature
   in her slow awakening."
-episode_URL: http://mailta.pe/131-Vibrant-Spring.html
 guest_name: Vibrant Spring
 author: MailTape Crew
 guestPic: guestPic131.jpg

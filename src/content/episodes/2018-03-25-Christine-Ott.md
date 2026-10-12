@@ -6,7 +6,6 @@ illustrator: Camille Célestin
 writer: Sanjay Mistry
 guest_name: Christine Ott
 guest_color: dreamy
-episode_URL: http://mailta.pe/305/christine-ott/
 guestPic: guestPic305.jpg
 musiColor: musiColor305.png
 image: https://www.mailta.pe/img/fbPic305.jpg

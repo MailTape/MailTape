@@ -3,7 +3,6 @@ bigTitle_font_ratio: "6"
 published: true
 guest_name: Temple Rat
 guest_color: bliss
-episode_URL: https://www.mailta.pe/478/Temple-Rat/
 description: This morning, we cast away the misty, chilly air for a moment, and
   step inside the warm greenery that’s filled by a nostalgic sunbeam.
 author: Ling

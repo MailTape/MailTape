@@ -5,7 +5,6 @@ guest_color: dreamy
 author: Inès
 illustrator: Pierre-Julien Fieux
 guest_name: infinite bisous
-episode_URL: https://www.mailta.pe/245/infinite-bisous/
 guestPic: guestPic245.jpg
 musiColor: musiColor245.png
 image: https://www.mailta.pe/img/fbPic245.png

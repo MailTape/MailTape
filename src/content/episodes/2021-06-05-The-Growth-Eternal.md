@@ -8,7 +8,6 @@ author: Sarah
 musiColor: musiColor454.png
 guestPic: guestPic454.jpg
 image: https://www.mailta.pe/img/fbPic454.png
-episode_URL: http://mailta.pe/454/The-Growth-Eternal/
 guest_color: dreamy
 description: This Sunday, we welcome The Growth Eternal to MailTape for an
   eclectic collection to jumpstart your morning :) Based in Los Angeles, The

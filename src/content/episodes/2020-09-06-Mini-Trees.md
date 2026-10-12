@@ -6,7 +6,6 @@ guest_color: dreamy
 author: Sarah
 writer: Sarah
 illustrator: Julie Wojtczak
-episode_URL: http://mailta.pe/415/Mini-Trees/
 musiColor: musiColor415.png
 description: This morning, we are thrilled to welcome Mini Trees to host the
   first MailTape episode of September! Lexi Vega played drums in the Los Angeles

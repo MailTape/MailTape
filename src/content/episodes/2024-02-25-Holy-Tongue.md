@@ -7,7 +7,6 @@ writer: ImaCrea
 guest_name: Holy Tongue
 guest_color: trippy
 guestPic: guestPic548.jpg
-episode_URL: http://mailta.pe/548/Holy-Tongue/
 image: https://www.mailta.pe/img/fbPic548.jpg
 musiColor: musiColor548.png
 description: We're overjoyed to welcome Holy Tongue as our guests today. Their

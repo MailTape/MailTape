@@ -6,7 +6,6 @@ guest_name: Michelle Blades
 guest_color: dreamy
 bigTitle_font_ratio: "6"
 guestPic: guestPic214.jpg
-episode_URL: http://mailta.pe/214/Michelle-Blades/
 image: https://www.mailta.pe/img/fbPic214.jpg
 musiColor: musiColor214.png
 description: Hello there, this morning we gonna talk about the world. I mean,

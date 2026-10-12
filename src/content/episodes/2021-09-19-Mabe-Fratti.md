@@ -6,7 +6,6 @@ guest_color: dreamy
 guestPic: guestPic462.jpg
 image: https://www.mailta.pe/img/fbPic462.png
 musiColor: musiColor462.png
-episode_URL: http://mailta.pe/462/Mabe-Fratti/
 description: This morning, we're thrilled to welcome Guatemalan cellist and
   composer Mabe Fratti to MailTape for a Sunday selection of experimental
   instrumentals and melodies :) Mabe Fratti consistently pushes our expectations

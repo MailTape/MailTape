@@ -6,7 +6,6 @@ writer: PS KY
 author: Dimitri
 guest_name: Petit Biscuit
 guest_color: bliss
-episode_URL: https://www.mailta.pe/224/Petit-Biscuit/
 guestPic: guestPic224.jpg
 musiColor: musiColor224.png
 description: This morning, we bring you the soundtrack to summer’s daydreams.

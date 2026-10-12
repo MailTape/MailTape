@@ -7,7 +7,6 @@ writer: Anaïs G
 guest_name: Rémi Parson
 guestPic: guestPic470.jpg
 guest_color: rough
-episode_URL: http://mailta.pe/470/remi-parson/
 image: https://www.mailta.pe/img/fbPic470.png
 musiColor: musiColor470.png
 description: This morning, We sneak into the city, at the first hour, with the

@@ -7,7 +7,6 @@ writer: Sarah
 guest_name: Baby Chuck
 guest_color: dreamy
 guestPic: guestPic502.jpg
-episode_URL: http://mailta.pe/502/Baby-Chuck/
 description: This morning, we're delighted to welcome Baby Chuck to MailTape for
   an eclectic collection that'll jump start your day. Based in Los Angeles, Baby
   Chuck (Matt O'Keefe) joins us a month after releasing his most recent album,

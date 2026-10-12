@@ -6,7 +6,6 @@ illustrator: Anthony Dujardin
 writer: Sanjay Mistry
 guest_name: Analog Tara
 guest_color: vibrant
-episode_URL: http://mailta.pe/340/analog-tara/
 guestPic: guestPic340.jpg
 description: This morning we are delighted to welcome multi-instrumentalist
   composer and historian of electronic music and sound, Dr. Tara Rodgers (Analog

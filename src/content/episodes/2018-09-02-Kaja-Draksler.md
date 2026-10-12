@@ -6,7 +6,6 @@ illustrator: Anais Caura
 writer: Sanjay Mistry
 guest_name: Kaja Draksler
 guest_color: dreamy
-episode_URL: http://mailta.pe/321/kaja-draksler/
 description: Welcome back to a new season of MailTape. This morning we welcome
   one of my favourite pianist-composers, Kaja Draksler, who supplies us with a
   dreamy Sunday morning selection of chorales and solo piano.

@@ -7,7 +7,6 @@ writer: ImaCrea
 guest_name: Martin Dupont
 guest_color: vibrant
 guestPic: guestPic525.png
-episode_URL: http://mailta.pe/525/martin-dupont/
 image: https://www.mailta.pe/img/fbPic525.jpg
 musiColor: musiColor525.png
 description: This morning, get ready to start your day with a heartfelt and

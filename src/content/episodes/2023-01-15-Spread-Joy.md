@@ -6,7 +6,6 @@ illustrator: Meriam Kharbat
 writer: Inès
 guest_name: Spread Joy
 guest_color: rough
-episode_URL: https://www.mailta.pe/513/Spread-Joy/
 guestPic: guestPic513.png
 musiColor: musiColor513.png
 description: This morning, please welcome Spread Joy! Post-punk band Spread Joy

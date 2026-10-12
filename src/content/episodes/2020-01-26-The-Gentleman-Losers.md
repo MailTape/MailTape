@@ -6,7 +6,6 @@ illustrator: Thibault Daumain
 writer: Sanjay Mistry
 guest_name: The Gentleman Losers
 guest_color: dreamy
-episode_URL: http://mailta.pe/390/the-gentleman-losers/
 guestPic: guestPic390.jpg
 image: https://www.mailta.pe/img/fbPic390.jpg
 musiColor: musiColor390.png

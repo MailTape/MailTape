@@ -6,7 +6,6 @@ illustrator: Julie Wojtczak
 writer: Sanjay Mistry
 guest_name: Fran & Flora
 guest_color: dreamy
-episode_URL: https://www.mailta.pe/382/fran-flora/
 guestPic: guestPic382.jpg
 image: https://www.mailta.pe/img/fbPic382.jpg
 musiColor: musiColor382.png

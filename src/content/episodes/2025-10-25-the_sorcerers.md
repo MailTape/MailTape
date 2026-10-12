@@ -13,7 +13,6 @@ description: This morning, MailTape offers you the soundtrack of a thrilling
   moments... An adventure in 7 chapters, a fabulous journey between gems of a
   futuristic past and resolutely modern sounds, which draw from varied
   influences!
-episode_URL: https://www.mailta.pe/595/The-Sorcerers/
 image: https://www.mailta.pe/img/InstaPic595.png
 musiColor: musicolor595.png
 track1:

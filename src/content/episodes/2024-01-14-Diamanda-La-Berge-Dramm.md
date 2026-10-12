@@ -7,7 +7,6 @@ writer: ImaCrea
 guest_name: Diamanda La Berge Dramm
 guest_color: bliss
 guestPic: guestPic543.jpg
-episode_URL: http://mailta.pe/543/Diamanda-La-Berge-Dramm/
 image: https://www.mailta.pe/img/fbPic543.jpg
 musiColor: musiColor543.png
 description: This morning, we're honored to welcome Diamanda La Berge Dramm as

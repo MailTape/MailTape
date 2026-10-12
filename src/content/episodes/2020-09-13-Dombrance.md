@@ -1,7 +1,6 @@
 ---
 musiColor: musiColor416.png
 image: https://www.mailta.pe/img/fbPic416.png
-episode_URL: http://mailta.pe/416/dombrance/
 bigTitle_font_ratio: "6"
 guestPic: guestPic416.jpg
 guest_color: trippy

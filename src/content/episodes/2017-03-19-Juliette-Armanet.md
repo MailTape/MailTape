@@ -7,7 +7,6 @@ guestPic: guestPic2524.jpg
 author: Dimitri
 illustrator: Camille Célestin
 writer: PS KY
-episode_URL: http://mailta.pe/252/Juliette-Armanet/
 description: This morning, our guest Juliette Armanet accompanies us on a
   journey of heart felt tempos and spiced sentiments.
 image: https://www.mailta.pe/img/fbPic252.JPG

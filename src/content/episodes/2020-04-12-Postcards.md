@@ -1,7 +1,6 @@
 ---
 musiColor: musiColor401.png
 image: https://www.mailta.pe/img/fbPic401.png
-episode_URL: http://mailta.pe/401/postcards/
 bigTitle_font_ratio: "6"
 guestPic: guestPic401.jpg
 guest_color: vibrant

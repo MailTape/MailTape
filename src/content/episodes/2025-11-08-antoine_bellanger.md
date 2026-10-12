@@ -12,7 +12,6 @@ description: "This morning, we are excited and honored to welcome Antoine
   surprising, eclectic, quirky, yet sublime like a forest in autumn. Prepare to
   immerse yourself in the woods from the very first moments of listening, and
   join us as we venture to the mountains in search of the living."
-episode_URL: https://www.mailta.pe/597/antoine-bellanger/
 image: https://www.mailta.pe/img/fbPic507.jpg
 musiColor: musicolor597.png
 track1:

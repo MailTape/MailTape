@@ -6,7 +6,6 @@ illustrator: Anais Caura
 writer: Inès
 guest_name: Johnny Hawaii
 guest_color: bliss
-episode_URL: https://www.mailta.pe/256/Johnny-Hawaii/
 guestPic: guestPic256.jpg
 description: "This morning, let's all stay in a hazy state thanks to Johnny
   Hawaii’s trippy selection. Johnny Hawaii's psychedelic surf tracks are amazing

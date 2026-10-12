@@ -7,7 +7,6 @@ writer: Sarah
 guest_name: Luiza Brina
 guest_color: vibrant
 image: https://www.mailta.pe/img/fbPic481.png
-episode_URL: http://mailta.pe/481/Luiza-Brina/
 musiColor: musiColor481.png
 guestPic: guestPic481.jpg
 pubDate: 2022-02-13

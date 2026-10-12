@@ -6,7 +6,6 @@ illustrator: Noémie Dijon
 writer: Jules
 guest_name: NxQuantize
 guest_color: trippy
-episode_URL: https://www.mailta.pe/540/nxquantize/
 musiColor: musiColor540.png
 guestPic: guestPic540.jpg
 image: https://www.mailta.pe/img/fbPic540.png

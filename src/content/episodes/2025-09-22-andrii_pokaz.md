@@ -16,7 +16,6 @@ description: >-
   today sparks moments of reflection, surprise, and joy, just like his latest
   album, Proteus, released this summer. A boundless universe to explore as your
   morning unfolds.
-episode_URL: https://www.mailta.pe/591/Andrii-Pokaz/
 image: https://www.mailta.pe/img/fbpic591.jpg
 musiColor: musicolor591.png
 alignY: "0.4"

@@ -9,7 +9,6 @@ guest_color: dreamy
 guestPic: guestPic486.jpg
 musiColor: musiColor486.png
 image: https://www.mailta.pe/img/fbPic486.png
-episode_URL: http://mailta.pe/486/Jesse-Adelman/
 description: Today, we welcome Jesse Adelman for a collection of easy moving
   tracks to start your Sunday. Multi-instrumentalist songwriter based in the
   Bronx, Jesse released his solo debut album, Strangers, in December of last

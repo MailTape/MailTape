@@ -15,7 +15,6 @@ description: This morning, we're extremely grateful to celebrate our 600th
   abstract mental landscapes that remind me of Gerhard Richter's paintings. He
   mentioned he’s about to release an album soon, so be sure to keep an eye out
   for it.
-episode_URL: https://www.mailta.pe/600/antoine-ferris/
 image: https://www.mailta.pe/img/fbPic600.jpg
 musiColor: musicolor600.png
 track1:

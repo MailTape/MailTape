@@ -5,7 +5,6 @@ author: Sanjay Mistry
 illustrator: Anais Caura
 guest_name: Moor Mother
 guest_color: rough
-episode_URL: http://mailta.pe/269/moor-mother/
 guestPic: guestPic269.jpg
 musiColor: musiColor269.png
 description: This morning we welcome Philadelphia-based interdisciplinary

@@ -6,7 +6,6 @@ illustrator: Thibault Daumain
 writer: Jules
 guest_name: Sabrina Bellaouel
 guest_color: vibrant
-episode_URL: https://www.mailta.pe/425/sabrina-bellaouel/
 musiColor: musiColo425.png
 guestPic: guestPic425.jpg
 image: https://www.mailta.pe/img/fbPic425.png

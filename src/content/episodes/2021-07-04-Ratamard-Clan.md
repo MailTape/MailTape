@@ -6,7 +6,6 @@ writer: Anaïs G
 guest_name: Ratamard Clan
 guest_color: trippy
 guestPic: guestPic458.jpg
-episode_URL: http://mailta.pe/458/ratamard-clan/
 musiColor: musiColor458.png
 image: https://www.mailta.pe/img/fbPic458.png
 illustrator: Noémie Dijon

@@ -9,7 +9,6 @@ guest_color: vibrant
 guestPic: guestPic500.jpg
 musiColor: musiColor500.png
 image: https://www.mailta.pe/img/fbPic500.png
-episode_URL: http://mailta.pe/500/Charlotte-Adigéry/
 description: Our 500th episode of MailTape this morning!! This year and since
   2012, we've welcomed so many wonderful guests, sharing love for music with our
   loyal listeners every Sunday. It's hard not to feel sentimental with this

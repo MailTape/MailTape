@@ -7,7 +7,6 @@ illustrator: Julie Wojtczak
 writer: ImaCrea
 guest_color: rough
 guestPic: guestPic388.jpg
-episode_URL: https://www.mailta.pe/388/ascendant-vierge/
 image: https://www.mailta.pe/img/fbPic388.png
 musiColor: musiColor388.png
 description: This morning, we are extremely thrilled to have ascendant vierge as

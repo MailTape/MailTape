@@ -6,7 +6,6 @@ illustrator: Camille Célestin
 writer: Sanjay Mistry
 guest_name: Julie Kjær
 guest_color: trippy
-episode_URL: http://mailta.pe/280/julie-kjaer/
 image: https://www.mailta.pe/img/fbPic280.jpg
 guestPic: guestPic280.jpg
 musiColor: musiColor280.png

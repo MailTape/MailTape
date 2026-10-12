@@ -6,7 +6,6 @@ illustrator: Camille Célestin
 writer: Anaïs G
 guest_name: "Marble Arch "
 guest_color: dreamy
-episode_URL: http://mailta.pe/355/marble-arch
 image: https://www.mailta.pe/img/fbPic355.png
 musiColor: musiColor355.jpg
 guestPic: guestPic355.jpg

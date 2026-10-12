@@ -12,7 +12,6 @@ description: This morning, we think about Christmas, shopping in crowded stores,
   those endless meals around a turkey and many logs, indigestion and the famous
   button that you pop at the end of the evening...Fortunately to relax during
   its preparations, Bonnie Banane has made a playlist worthy of her parties!
-episode_URL: http://mailta.pe/430/bonnie-banane/
 image: http://mailta.pe/img/fbPic430.png
 musiColor: musiColor430.png
 track1:

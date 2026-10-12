@@ -7,7 +7,6 @@ writer: ImaCrea
 guest_name: Elisabeth Klinck
 guest_color: dreamy
 guestPic: guestPic532.jpg
-episode_URL: http://mailta.pe/532/elisabeth-klinck/
 image: https://www.mailta.pe/img/fbPic532.jpg
 musiColor: musiColor532.png
 description: On this Sunday morning, let's venture far from the city with our

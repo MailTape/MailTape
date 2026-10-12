@@ -6,7 +6,6 @@ illustrator: Pierre-Julien Fieux
 writer: Sanjay Mistry
 guest_name: Yazz Ahmed
 guest_color: trippy
-episode_URL: http://mailta.pe/286/yazz-ahmed/
 guestPic: guestPic286.jpg
 musiColor: musiColor286.png
 image: https://www.mailta.pe/img/fbPic286.jpg

@@ -7,7 +7,6 @@ author: Anaïs G
 writer: Anaïs G
 guest_name: Yael Miller
 guest_color: vibrant
-episode_URL: http://mailta.pe/361/Yael-Miller
 musiColor: musiColor361.png
 description: This morning, the voice of women is resounding, it is growing and
   is fighting against multiple inequalities... Whether gentle or strong, frail

@@ -6,7 +6,6 @@ illustrator: Camille Célestin
 writer: PS KY
 guest_name: Ménage à Trois
 guestPic: guestPic2601.jpg
-episode_URL: https://www.mailta.pe/260/Ménage-à-Trois/
 guest_color: dreamy
 image: https://www.mailta.pe/img/fbPic260.JPG
 description: Bright and delightful morning to the masses and the listeners, to

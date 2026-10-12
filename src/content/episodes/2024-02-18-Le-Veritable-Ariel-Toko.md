@@ -6,7 +6,6 @@ writer: Anto
 guest_name: Le Véritable Ariel Toko
 guest_color: bliss
 guestPic: guestPic547.jpg
-episode_URL: https://www.mailta.pe/547/le-veritable-ariel-toko/
 image: https://www.mailta.pe/img/fbPic547.png
 musiColor: musiColor547.png
 description: This morning, we follow in the footsteps of irresistible music

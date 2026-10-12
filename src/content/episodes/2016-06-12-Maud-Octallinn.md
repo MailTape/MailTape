@@ -7,7 +7,6 @@ writer: Maxime
 guest_name: Maud Octallinn
 guest_color: dreamy
 guestPic: guestPic221.jpg
-episode_URL: https://www.mailta.pe/221/Maud-Octallinn/
 musiColor: musiColor221.png
 image: https://www.mailta.pe/img/fbPic221.jpg
 description: This morning, I introduce you to Maud Octallinn, a french psych-pop singer.

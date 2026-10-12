@@ -5,7 +5,6 @@ author: Louise
 guest_name: Talitres Records
 guest_color: dreamy
 guestPic: guestPic226.jpg
-episode_URL: https://www.mailta.pe/226/Talitres-Records/
 image: https://www.mailta.pe/img/fbPic226.jpg
 musiColor: musiColor226.png
 illustrator: William Girault

@@ -6,7 +6,6 @@ illustrator: Anais Caura
 guest_name: Cut Off Your Hands
 guest_color: vibrant
 guestPic: guestPic253new2.jpg
-episode_URL: https://www.mailta.pe/253/cut-off-your-hands/
 writer: Inès
 musiColor: musiColor253.png
 image: https://www.mailta.pe/img/fbPic253.png

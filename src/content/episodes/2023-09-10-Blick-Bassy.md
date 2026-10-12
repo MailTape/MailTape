@@ -7,7 +7,6 @@ writer: ImaCrea
 guest_name: Blick Bassy
 guest_color: vibrant
 guestPic: guestPic534.png
-episode_URL: http://mailta.pe/534/blick-bassy/
 image: https://www.mailta.pe/img/fbPic534.png
 musiColor: musiColor534.png
 description: On this Sunday morning of the new season, we've curated a musical

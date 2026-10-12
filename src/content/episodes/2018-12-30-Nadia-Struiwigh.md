@@ -6,7 +6,6 @@ illustrator: Pierre-Julien Fieux
 writer: Sanjay Mistry
 guest_name: Nadia Struiwigh
 guest_color: dreamy
-episode_URL: http://mailta.pe/338/nadia-struiwigh/
 description: In this final episode of 2018, we are delighted to welcome
   Rotterdam-based DJ and electronic producer Nadia Struiwigh as she picks three
   meditative Sunday morning tunes.

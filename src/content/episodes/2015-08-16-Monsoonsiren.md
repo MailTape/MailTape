@@ -4,7 +4,6 @@ author: Olivier
 guest_color: dreamy
 bigTitle_font_ratio: "6"
 guest_name: Monsoonsiren
-episode_URL: http://mailta.pe/199/Monsoonsiren/
 guestPic: guestPic199.jpg
 image: https://www.mailta.pe/img/fbPic199.png
 musiColor: musiColor199.png

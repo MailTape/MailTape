@@ -5,7 +5,6 @@ author: Jules
 illustrator: Camille Célestin
 writer: Jules
 guest_name: Fantastic Twins
-episode_URL: https://www.mailta.pe/407/fantastic-twins/
 guest_color: trippy
 guestPic: guestPic407.jpg
 musiColor: musiColor407.png

@@ -6,7 +6,6 @@ illustrator: Pierre-Julien Fieux
 writer: Sanjay Mistry
 guest_name: Eric Chenaux
 guest_color: dreamy
-episode_URL: http://mailta.pe/313/eric-chenaux/
 guestPic: guestPic313.jpg
 description: Close your eyes and float away in a blissful auditory dream
   courtesy of Paris-based guitarist, Eric Chenaux. He provides us with a sweet

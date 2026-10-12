@@ -6,7 +6,6 @@ guest_color: trippy
 author: ImaCrea
 writer: ImaCrea
 guestPic: guestPic324.jpg
-episode_URL: https://www.mailta.pe/324/flavien-berger/
 illustrator: Pierre-Julien Fieux
 image: https://www.mailta.pe/img/fbPic324.png
 musiColor: musiColor324.png

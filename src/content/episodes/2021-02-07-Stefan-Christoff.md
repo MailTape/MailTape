@@ -6,7 +6,6 @@ illustrator: Jason Pridham
 writer: Sanjay Mistry
 guest_name: Stefan Christoff
 guest_color: dreamy
-episode_URL: https://www.mailta.pe/437/stefan-christoff/
 description: This morning we welcome Stefan Christoff to select three groovy
   Sunday morning tunes with us on MailTape.
 guestPic: guestPic437.jpg

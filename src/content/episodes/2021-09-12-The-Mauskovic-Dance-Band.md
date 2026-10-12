@@ -6,7 +6,6 @@ illustrator: Jason Pridham
 writer: Jules
 guest_name: The Mauskovic Dance Band
 guest_color: trippy
-episode_URL: https://www.mailta.pe/461/the-mauskovic-dance-band/
 musiColor: " musiColor461.png"
 guestPic: guestPic461.jpg
 image: https://www.mailta.pe/img/fbPic461.png

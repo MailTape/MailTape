@@ -1,7 +1,6 @@
 ---
 bigTitle_font_ratio: "6"
 published: true
-episode_URL: http://mailta.pe/217/Kikagaku-Moyo/
 image: https://www.mailta.pe/img/fbPic217.jpg
 musiColor: musiColor217.png
 author: Louise

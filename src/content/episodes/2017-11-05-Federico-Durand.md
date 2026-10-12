@@ -4,7 +4,6 @@ published: true
 author: ImaCrea
 guest_name: Federico Durand
 guestPic: guestPic285b.jpg
-episode_URL: https://www.mailta.pe/285/federico-durand/
 illustrator: Camille Célestin
 writer: PS KY
 guest_color: dreamy

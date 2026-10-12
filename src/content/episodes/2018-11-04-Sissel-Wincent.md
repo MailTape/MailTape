@@ -6,7 +6,6 @@ illustrator: Pierre-Julien Fieux
 writer: Sanjay Mistry
 guest_name: Sissel Wincent
 guest_color: trippy
-episode_URL: http://mailta.pe/330/sissel-wincent/
 description: This morning we are delighted to welcome Stockholm-based electronic
   producer, Sissel Wincent, to MailTape.
 musiColor: musiColor330.png

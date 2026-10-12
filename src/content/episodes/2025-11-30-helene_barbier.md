@@ -20,7 +20,6 @@ description: >
   that stir us, as much as they make us feel alive, if only we listen. So, take
   a deep breath, and let's start by listening to this episode, made with lots of
   tenderness.
-episode_URL: https://www.mailta.pe/599/Helene-Barbier/
 image: https://www.mailta.pe/img/fbPic599.png
 musiColor: musicolor599.png
 track1:

@@ -6,7 +6,6 @@ illustrator: Camille Célestin
 writer: Charlotte
 guest_name: Keep Dancing Inc
 guest_color: dreamy
-episode_URL: http://www.mailta.pe/329/keep-dancing-inc/
 description: This morning, we welcome Louis, Charles, Gabrielle and Joseph from
   Keep Dancing Inc to turn this MailTape into a Sunday ode to pop music.  Formed
   in 2014, the Parisian quartet released in June 2018 its second EP

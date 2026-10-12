@@ -6,7 +6,6 @@ illustrator: Jason Pridham
 writer: Jules
 guest_name: Binary Digit
 guest_color: trippy
-episode_URL: http://www.mailta.pe/421/binary-digit/
 guestPic: guestPic421.jpg
 image: https://www.mailta.pe/img/fbPic421.png
 musiColor: musiColor421.png

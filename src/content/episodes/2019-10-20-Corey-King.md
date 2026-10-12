@@ -7,7 +7,6 @@ writer: Jules
 guest_name: Corey King
 guest_color: vibrant
 guestPic: guestPic376.jpg
-episode_URL: http://mailta.pe/376/corey-king/
 image: https://www.mailta.pe/img/fbPic376.png
 musiColor: musiColor376.png
 description: This morning, we are delighted to welcome Corey King to select

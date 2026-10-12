@@ -6,7 +6,6 @@ guest_name: Nicolas Jaar
 guest_color: dreamy
 bigTitle_font_ratio: "6"
 guestPic: guestPic3.jpg
-episode_URL: http://mailta.pe/3/Nicolas-Jaar/
 image: https://www.mailta.pe/img/fbPic3.png
 musiColor: musiColor3.png
 description: This morning, Nicolas Jaar is inviting you to embark on a

@@ -6,7 +6,6 @@ writer: Anaïs G
 guest_name: Fun Fun Funeral
 guest_color: dreamy
 guestPic: guestPic383.jpg
-episode_URL: http://mailta.pe/383/fun-fun-funeral/
 musiColor: musiColor383.png
 image: http://mailta.pe/img/fbPic383.png
 description: This morning, the climate is one of grumbling and discontent.

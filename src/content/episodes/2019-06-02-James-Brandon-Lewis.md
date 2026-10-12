@@ -6,7 +6,6 @@ illustrator: Pierre-Julien Fieux
 writer: Sanjay Mistry
 guest_name: James Brandon Lewis
 guest_color: dreamy
-episode_URL: http://mailta.pe/360/james-brandon-lewis/
 description: This morning we are pleased to welcome saxophonist and composer,
   James Brandon Lewis, to select three church-inspired Sunday morning tunes with
   us.

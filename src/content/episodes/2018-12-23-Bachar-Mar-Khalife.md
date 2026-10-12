@@ -8,7 +8,6 @@ writer: Manon
 guestPic: guestPic337.jpg
 illustrator: Anthony Dujardin
 image: https://www.mailta.pe/img/fbPic337.jpg
-episode_URL: http://mailta.pe/337/Bachar-Mar-Khalife
 musiColor: musiColor337.jpg
 description: This morning we are delighted to welcome Franco-Lebanese singer,
   songwriter and multi-instrumentalist Bachar Mar-Khalifé to pick three Sunday

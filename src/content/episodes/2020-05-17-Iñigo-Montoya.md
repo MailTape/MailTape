@@ -7,7 +7,6 @@ writer: Anaïs G
 illustrator: Thibault Daumain
 author: Anaïs G
 published: true
-episode_URL: http://mailta.pe/406/iñigo-montoya/
 image: https://www.mailta.pe/img/fbPic406.png
 musiColor: musiColor406.png
 description: This morning, we're everyday superheroes. We're trying to get back

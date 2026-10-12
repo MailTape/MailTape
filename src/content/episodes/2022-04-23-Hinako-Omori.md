@@ -7,7 +7,6 @@ writer: ImaCrea
 guest_name: Hinako Omori
 guest_color: dreamy
 guestPic: guestPic490.jpg
-episode_URL: http://mailta.pe/490/hinako-omori/
 image: https://www.mailta.pe/img/fbPic490.jpg
 musiColor: musiColor489.png
 description: This morning, we're taking you into an atmosphere of balance,

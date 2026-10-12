@@ -5,7 +5,6 @@ guest_color: dreamy
 bigTitle_font_ratio: "10"
 bigTitle_line_ratio: "1"
 guest_name: Trevor Dickson
-episode_URL: http://mailta.pe/185/Trevor-Dickson/
 guestPic: guestPic185.jpg
 image: https://www.mailta.pe/img/fbPic185.jpg
 musiColor: musiColor185.png

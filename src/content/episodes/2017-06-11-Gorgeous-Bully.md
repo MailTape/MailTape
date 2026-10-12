@@ -6,7 +6,6 @@ illustrator: Camille Célestin
 writer: Inès
 guest_name: Gorgeous Bully
 guest_color: dreamy
-episode_URL: https://www.mailta.pe/264/gorgeous-bully
 description: This morning, let's have a mellow Sunday morning thanks to Gorgeous
   Bully's heartwarming selection. Manchester based Gorgeous Bully makes lo-fi,
   DIY bedroom grunge-pop tracks. Catchy, minimal and sincere, their music is

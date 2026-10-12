@@ -5,7 +5,6 @@ author: Sanjay Mistry
 illustrator: Pierre-Julien Fieux
 guest_name: Fond of Tigers
 guest_color: dreamy
-episode_URL: http://mailta.pe/254/Fond-of-Tigers/
 guestPic: guestPic254.jpg
 image: https://www.mailta.pe/img/fbPic254.jpg
 musiColor: musiColor254.png

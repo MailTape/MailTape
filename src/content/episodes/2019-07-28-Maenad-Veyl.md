@@ -6,7 +6,6 @@ illustrator: Camille Célestin
 writer: Luc
 guest_name: Maenad Veyl
 guest_color: rough
-episode_URL: https://www.mailta.pe/368/maenad-veyl/
 description: This morning, let's revel in the lush universe of Maenad Veyl, one
   of precisely crafted sounds and carefuly built momentums. His attention to
   detail and riveting atmospheres shine through his productions or the work of

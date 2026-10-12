@@ -7,7 +7,6 @@ writer: Sarah
 guest_name: Endless Forms
 guest_color: dreamy
 guestPic: guestPic409.jpg
-episode_URL: http://mailta.pe/409/Endless-Forms/
 image: https://www.mailta.pe/img/fbPic409.png
 musiColor: musiColor409.png
 description: We are so excited to welcome [Endless Forms] to select a Sunday

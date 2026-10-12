@@ -5,7 +5,6 @@ illustrator: William Girault
 author: Luc
 guest_name: Nihiloxica
 guest_color: rough
-episode_URL: https://www.mailta.pe/322/nihiloxica/
 guestPic: guestPic322.jpg
 writer: Luc
 image: https://www.mailta.pe/img/fbPic322.JPG

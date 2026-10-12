@@ -6,7 +6,6 @@ illustrator: Camille Célestin
 guest_name: Maud Geffray
 guest_color: bliss
 guestPic: guestPic281.jpg
-episode_URL: http://mailta.pe/281/maud-geffray/
 image: https://www.mailta.pe/img/fbPic281.png
 musiColor: musiColor281.png
 writer: Louise

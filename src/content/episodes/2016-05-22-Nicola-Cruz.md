@@ -6,7 +6,6 @@ illustrator: Camille Célestin
 writer: ImaCrea
 guest_name: Nicola Cruz
 guest_color: dreamy
-episode_URL: http://mailta.pe/218/Nicola-Cruz/
 guestPic: guestPic218.jpg
 image: https://www.mailta.pe/img/fbPic218.jpg
 musiColor: musiColor218.png

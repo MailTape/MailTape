@@ -5,7 +5,6 @@ author: Anaïs G
 guest_name: Lenny Pistol
 guest_color: dreamy
 guestPic: guestPic372.jpg
-episode_URL: http://mailta.pe/372/lenny-pistol
 musiColor: musiColor372.png
 illustrator: William Girault
 writer: Anaïs G

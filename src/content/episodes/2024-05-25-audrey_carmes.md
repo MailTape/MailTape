@@ -12,7 +12,6 @@ description: This morning, we will continue to dream gently with our guest
   music takes us on an inner voyage. Let the soothing melodies guide us through
   a realm of tranquility and introspection, as we explore the depths of our
   imagination together.
-episode_URL: https://www.mailta.pe/558/audrey-carmes/
 image: https://www.mailta.pe/img/fbpic558.png
 musiColor: musicolor558.png
 track1:

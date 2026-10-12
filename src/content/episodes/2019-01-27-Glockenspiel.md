@@ -6,7 +6,6 @@ illustrator: Camille Célestin
 writer: Sanjay Mistry
 guest_name: Glockenspiel
 guest_color: dreamy
-episode_URL: http://mailta.pe/342/glockenspiel/
 guestPic: guestPic342.jpg
 image: https://www.mailta.pe/img/fbPic342.jpg
 musiColor: musiColor342.png

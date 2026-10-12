@@ -6,7 +6,6 @@ illustrator: Camille Célestin
 writer: Charlotte
 guest_name: Operator Music Band
 guest_color: rough
-episode_URL: https://www.mailta.pe/316/operator-music-band/
 description: This morning, we are delighted to welcome Operator Music Band, an
   art-pop quartet from New York. Their music sounds like a tesseract, a nicely
   intriguing and quite complex geometric figure from the fourth dimension that

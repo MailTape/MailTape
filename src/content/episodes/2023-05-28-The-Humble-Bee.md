@@ -7,7 +7,6 @@ writer: ImaCrea
 guest_name: The Humble Bee
 guest_color: bliss
 guestPic: guestPic528.png
-episode_URL: http://mailta.pe/528/the-humble-bee/
 image: https://www.mailta.pe/img/fbPic528.jpg
 musiColor: musiColor528.png
 description: This morning, I'd be delighted to continue our exploration of

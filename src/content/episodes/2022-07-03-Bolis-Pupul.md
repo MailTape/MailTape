@@ -13,7 +13,6 @@ description: "This morning, we're overjoyed to welcome Bolis Pupul to MailTape.
   Charlotte Adigéry, Tropical Dancer. Blending house, rock, RnB, and techno, the
   duo uses their music as a vehicle to ignite conversations on heavier topics,
   particularly in their commentaries on racism, homophobia, and mysogyny. "
-episode_URL: http://mailta.pe/499/Bolis-Pupul/
 musiColor: musiColor499.png
 pubDate: 2022-07-03
 track1:

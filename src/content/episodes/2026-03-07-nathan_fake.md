@@ -14,7 +14,6 @@ description: >-
 
   landscapes. This episode includes tracks that showcase not only artistic
   brilliance but also personal and soulful evocations.
-episode_URL: https://www.mailta.pe/606/nathan-fake/
 image: https://www.mailta.pe/img/fbPic606.jpg
 musiColor: musicolor606.png
 track1:

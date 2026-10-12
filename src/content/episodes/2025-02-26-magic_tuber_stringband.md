@@ -13,7 +13,6 @@ description: We're back ! This morning, we're absolutely delighted to welcome
   re-enchanting these practices with unexpected noise and experimental textures.
   Magic Tuber Stringband members Evan Morgan, Mike DeVito, and Courtney Werner
   join us following the release of their latest album, Needlefall.
-episode_URL: https://www.mailta.pe/578/Magic-Tuber-Stringband/
 image: https://www.mailta.pe/img/fbPic578.jpg
 musiColor: musicolor578.png
 track1:

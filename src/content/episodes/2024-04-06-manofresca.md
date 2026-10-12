@@ -16,7 +16,6 @@ description: This morning we invite you to explore a particular vibe. It is not
   dare to explore certain corners of musical creativity knowing that you will
   inevitably create wonders from them? Isn’t it necessary to then dare to take
   the plunge and share your work with the public?
-episode_URL: https://www.mailta.pe/553/Manofresca
 image: " https://www.mailta.pe/img/fbPic553.png"
 musiColor: musicolor.png
 track1:

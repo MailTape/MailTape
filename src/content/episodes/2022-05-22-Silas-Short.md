@@ -8,7 +8,6 @@ guest_name: Silas Short
 guest_color: bliss
 guestPic: guestPic494.jpg
 musiColor: musiColor494.png
-episode_URL: http://mailta.pe/494/Silas-Short/
 description: This morning we’re in excellent company with Silas Short from the
   legendary Stones Throw Record family. Young and very talented, his debut EP,
   “Drawing”, develops a rich soundscape carved with his very own signature.

@@ -3,7 +3,6 @@ bigTitle_font_ratio: "6"
 published: true
 guest_name: Del Stephen
 guest_color: dreamy
-episode_URL: https://www.mailta.pe/479/Del-Stephen/
 author: ImaCrea
 illustrator: Thibault Daumain
 writer: ImaCrea

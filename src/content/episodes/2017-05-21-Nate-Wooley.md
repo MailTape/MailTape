@@ -3,7 +3,6 @@ bigTitle_font_ratio: "6"
 published: true
 author: Sanjay Mistry
 guest_color: trippy
-episode_URL: http://mailta.pe/261/Nate-Wooley/
 guest_name: Nate Wooley
 guestPic: guestPic261.jpg
 illustrator: William Girault

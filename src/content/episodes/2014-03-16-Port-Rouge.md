@@ -9,7 +9,6 @@ description: Randomly browsing the web often ends up with nice discoveries. If
   not, let us introduce you to this talented 21 years old swedish dude who makes
   sweet, clean and suttle deep music.
 guest_name: Port Rouge
-episode_URL: http://mailta.pe/132/Port-Rouge/
 guestPic: guestPic132.jpg
 image: https://www.mailta.pe/img/fbPic132.jpg
 musiColor: musiColor132.png

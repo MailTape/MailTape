@@ -6,7 +6,6 @@ illustrator: Anais Caura
 writer: Sanjay Mistry
 guest_name: Cassie Kinoshi
 guest_color: dreamy
-episode_URL: http://mailta.pe/284/cassie-kinoshi/
 guestPic: guestPic284.jpg
 image: https://www.mailta.pe/img/fbPic284.jpg
 description: This morning’s guest, Cassie Kinoshi, is known primarily for her

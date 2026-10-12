@@ -8,7 +8,6 @@ guest_name: Noon Garden
 guest_color: trippy
 guestPic: guestPic491.jpg
 musiColor: musiColor491.png
-episode_URL: http://mailta.pe/491/Noon-Garden/
 description: Today, we present a delightful selection of eclectic discoveries to
   welcome you into your Sunday morning. For this awakening, our dear guest Noon
   Garden curates a pass of vibrant tracks to add bouts of energy into these

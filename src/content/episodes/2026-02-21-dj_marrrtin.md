@@ -10,7 +10,6 @@ writer: Anto
 description: This morning we have the privilege of welcoming an artist whose
   work you've probably heard if you've attended a breakdance battle in the last
   fifteen years.
-episode_URL: https://www.mailta.pe/605/Dj-Marrrtin/
 image: https://www.mailta.pe/img/fbPic605.png
 musiColor: musicolor605.png
 track1:

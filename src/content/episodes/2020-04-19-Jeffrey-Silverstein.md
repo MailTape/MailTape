@@ -6,7 +6,6 @@ illustrator: Thibault Daumain
 writer: Jules
 guest_name: Jeffrey Silverstein
 guest_color: bliss
-episode_URL: https://www.mailta.pe/402/jeffrey-silverstein/
 description: This morning we are still confined and condemned to look at the sky
   behind our windows. Luckily, Jeffrey Silverstein is here to guide us on a
   peaceful hike in the heart of our inner mountain. Time to lie down, breathe

@@ -6,7 +6,6 @@ illustrator: Thibault Daumain
 writer: Jules
 guest_name: The Balek Band
 guest_color: trippy
-episode_URL: https://www.mailta.pe/496/the-balek-band/
 guestPic: guestPic496.jpeg
 musiColor: musiColor496.png
 image: https://www.mailta.pe/img/fbPic496.png

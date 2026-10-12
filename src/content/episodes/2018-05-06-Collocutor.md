@@ -6,7 +6,6 @@ illustrator: Pierre-Julien Fieux
 writer: Sanjay Mistry
 guest_name: Tamar Osborn
 guest_color: dreamy
-episode_URL: http://mailta.pe/311/collocutor/
 guestPic: guestPic311.jpg
 musiColor: musiColor311.png
 image: https://www.mailta.pe/img/fbPic311.jpg

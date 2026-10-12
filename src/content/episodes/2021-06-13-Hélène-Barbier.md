@@ -8,7 +8,6 @@ writer: Anaïs G
 guest_name: Hélène Barbier
 guest_color: dreamy
 guestPic: guestPic455.jpg
-episode_URL: http://mailta.pe/455/hélène-barbier/
 image: https://www.mailta.pe/img/fbPic455.png
 musiColor: musiColor455.png
 track1:

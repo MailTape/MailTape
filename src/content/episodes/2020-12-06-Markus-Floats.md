@@ -6,7 +6,6 @@ illustrator: Anthony Dujardin
 writer: Sanjay Mistry
 guest_name: Markus Floats
 guest_color: bliss
-episode_URL: https://www.mailta.pe/428/markus-floats/
 guestPic: guestPic428.jpg
 image: https://www.mailta.pe/img/fbPic428.png
 description: This morning we welcome Markus Floats to select three snake-hipped

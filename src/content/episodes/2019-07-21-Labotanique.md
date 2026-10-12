@@ -1,7 +1,6 @@
 ---
 bigTitle_font_ratio: "6"
 published: true
-episode_URL: http://www.mailta.pe/367/labotanique/
 musiColor: musiColor367.png
 guest_name: Labotanique
 guestPic: guestPic367.jpg

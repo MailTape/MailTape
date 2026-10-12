@@ -5,7 +5,6 @@ author: ImaCrea
 writer: ImaCrea
 guest_name: Natalie Greffel
 guest_color: vibrant
-episode_URL: https://www.mailta.pe/424/Natalie-Greffel/
 guestPic: guestPic424.jpg
 musiColor: musiColor424.png
 image: https://www.mailta.pe/img/fbPic424.png

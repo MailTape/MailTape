@@ -5,7 +5,6 @@ guest_color: vibrant
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
 guest_name: Clément Bazin
-episode_URL: http://mailta.pe/144/Clement-Bazin/
 guestPic: guestPic144.jpg
 image: https://www.mailta.pe/img/fbPic144.jpg
 musiColor: musiColor144.png

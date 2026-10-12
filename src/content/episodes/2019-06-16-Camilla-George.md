@@ -12,7 +12,6 @@ image: https://www.mailta.pe/img/fbPic362.jpg
 description: This morning we welcome London-based saxophonist and composer,
   Camilla George, to select three Sunday morning tunes that include some of her
   inspirations and collaborations.
-episode_URL: https://www.mailta.pe/362/camilla-george/
 pubDate: 2019-06-16
 track1:
   title: Kenny Garrett – Charlie Brown Goes to South Africa

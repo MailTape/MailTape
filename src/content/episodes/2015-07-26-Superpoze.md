@@ -11,7 +11,6 @@ description: This Sunday, let yourself dive into a universe of musical
   followed by an explosion of temptation filed with surprises
 musiColor: musiColor196.png
 image: https://www.mailta.pe/img/fbPic196.jpg
-episode_URL: http://mailta.pe/196/Superpoze/
 pubDate: 2015-07-26
 track1:
   title: Hundred Waters - Cavity (Shigeto Remix)

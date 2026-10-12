@@ -6,7 +6,6 @@ illustrator: Noémie Dijon
 writer: Jules
 guest_name: Arp Frique
 guest_color: trippy
-episode_URL: https://www.mailta.pe/465/arp-frique/
 musiColor: musiColor465.png
 guestPic: guestPic465.jpeg
 image: https://www.mailta.pe/img/fbPic465.png

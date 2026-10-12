@@ -7,7 +7,6 @@ guestPic: guestpic569.jpg
 author: Sarah
 illustrator: Noémie Dijon
 writer: Sarah
-episode_URL: https://www.mailta.pe/569/POLYGONIA/
 image: ""
 musiColor: musicolor569.png
 track1:

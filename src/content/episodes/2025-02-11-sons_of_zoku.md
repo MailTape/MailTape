@@ -15,7 +15,6 @@ description: >
   They are taking us on a beautiful trip. 
 
   Let’s dive in.
-episode_URL: https://www.mailta.pe/576/Sons-Of-Zoku/
 image: https://www.mailta.pe/img/fbPic576.jpg
 musiColor: musicolor576.png
 alignY: "0.2"

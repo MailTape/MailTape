@@ -7,7 +7,6 @@ illustrator: William Girault
 writer: Maxime
 guest_name: Nicolas Michaux
 guest_color: vibrant
-episode_URL: https://www.mailta.pe/231/Nicolas-Michaux/
 image: https://www.mailta.pe/img/fbPic231.jpg
 musiColor: musiColor231.png
 description: This morning, we offer you a romantic Mailtape, and a romantic

@@ -6,7 +6,6 @@ illustrator: William Girault
 writer: Daisy
 guest_name: Emanative
 guest_color: vibrant
-episode_URL: http://mailta.pe/271/emanative/
 guestPic: guestPic271.jpg
 image: https://www.mailta.pe/img/fbPic271.jpg
 musiColor: musiColor271.png

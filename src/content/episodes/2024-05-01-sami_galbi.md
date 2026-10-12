@@ -22,7 +22,6 @@ description: >+
   he's an artist to keep an eye on! 
 
 
-episode_URL: https://www.mailta.pe/557/sami-galbi/
 image: https://www.mailta.pe/img/fbPic557.jpeg
 musiColor: musicolor557.png
 track1:

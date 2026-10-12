@@ -6,7 +6,6 @@ illustrator: William Girault
 guest_name: Bonnie Banane
 guest_color: dreamy
 guestPic: guestPic225.jpg
-episode_URL: https://maita.pe/225/Bonnie-Banane/
 image: https://www.mailta.pe/img/fbPic225.jpg
 musiColor: musiColor225.png
 description: a nostalgic jaunt through the 90’s with Bonnie Banane !

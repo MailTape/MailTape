@@ -6,7 +6,6 @@ bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
 guest_name: Pendentif
 guestPic: guestPic145.jpg
-episode_URL: http://mailta.pe/145/Pendentif
 image: https://www.mailta.pe/img/fbPic145.jpg
 description: This morning, the Bordeaux-based French pop band Pendentif has
   prepared you a musical cocktail to be enjoyed without reserve…

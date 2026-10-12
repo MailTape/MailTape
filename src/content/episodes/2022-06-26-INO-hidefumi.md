@@ -12,7 +12,6 @@ description: "  Today, with a special joy we welcome Tokyo-based jazz and
   electronic artist INO hidefumi to MailTape for a morning of Sunday
   discoveries. Known for eclectic tastes and textured sounds, INO's thoughtful
   selection offers an easy treading into the morning hours."
-episode_URL: http://mailta.pe/498/INO-hidefumi/
 musiColor: musiColor498.png
 pubDate: 2022-06-26
 track1:

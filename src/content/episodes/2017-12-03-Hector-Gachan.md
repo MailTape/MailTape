@@ -6,7 +6,6 @@ illustrator: Isabelle Escande
 writer: Inès
 guest_name: Hector Gachan
 guest_color: dreamy
-episode_URL: https://www.mailta.pe/289/hector-gachan
 guestPic: guestPic289-2.jpg
 image: https://www.mailta.pe/img/fbPic289.png
 musiColor: musiColor289.png

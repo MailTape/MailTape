@@ -8,7 +8,6 @@ author: Ling
 illustrator: Noémie Dijon
 writer: Ling
 description: ""
-episode_URL: https://www.mailta.pe/616/MP3-Nostalgia-2/
 musiColor: screenshot_2026-10-11_at_00.02.58.png
 track1:
   title: John Adams - The Chairman Dances (Foxtrot for Orchestra)

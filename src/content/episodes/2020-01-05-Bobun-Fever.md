@@ -7,7 +7,6 @@ writer: Anaïs G
 illustrator: Pierre-Julien Fieux
 author: Anaïs G
 published: true
-episode_URL: http://mailta.pe/387/bobun-fever/
 image: https://www.mailta.pe/img/fbPic387.png
 musiColor: musiColor387.png
 description: This morning, we are optimistic, it is a new year full of hope and

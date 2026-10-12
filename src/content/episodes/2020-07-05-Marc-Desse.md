@@ -6,7 +6,6 @@ writer: Marion
 guest_name: Marc Desse
 guest_color: bliss
 guestPic: guestPic412.jpg
-episode_URL: https://www.mailta.pe/412/marc-desse/
 musiColor: musiColor412.png
 image: https://www.mailta.pe/img/fbPic412.png
 description: This morning, we are pleased to welcome Marc Desse to select 3

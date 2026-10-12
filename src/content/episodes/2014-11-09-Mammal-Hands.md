@@ -5,7 +5,6 @@ guest_color: trippy
 bigTitle_font_ratio: "9"
 bigTitle_line_ratio: "1"
 guest_name: Mammal Hands
-episode_URL: http://mailta.pe/159/Mammal-Hands/
 guestPic: guestPic159.jpg
 image: https://www.mailta.pe/img/fbPic159.jpg
 musiColor: musiColor159.png

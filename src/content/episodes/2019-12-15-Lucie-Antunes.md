@@ -7,7 +7,6 @@ author: ImaCrea
 illustrator: Thibault Daumain
 writer: PS KY
 guestPic: guestPic384.jpg
-episode_URL: https://www.mailta.pe/384/Lucie-Antunes/
 description: This selection hums the voices of today. Comfort aside, just as we
   must stop listening to the common speech, it is time to expand our ears, clear
   our vision, navigate new realms and elevate from our habitual minds. A

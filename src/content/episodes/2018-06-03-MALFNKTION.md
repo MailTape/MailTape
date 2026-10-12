@@ -6,7 +6,6 @@ illustrator: Pierre-Julien Fieux
 writer: Sanjay Mistry
 guest_name: MALFNKTION
 guest_color: trippy
-episode_URL: http://mailta.pe/315/malfnktion/
 description: This morning we are excited to welcome MALFNKTION, the electronic
   music project of Bengaluru-based musician, Aditya Alamuru.
 guestPic: guestPic315.jpg

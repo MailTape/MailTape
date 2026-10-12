@@ -4,7 +4,6 @@ guest_name: Homeshake
 guest_color: dreamy
 bigTitle_font_ratio: "6"
 guestPic: guestPic200.jpg
-episode_URL: http://mailta.pe/200/Homeshake/
 image: https://www.mailta.pe/img/fbPic200.jpg
 musiColor: musiColor200.jpg
 description: This morning, let the warm, soul-stirring music of a Montreal

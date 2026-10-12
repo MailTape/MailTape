@@ -7,7 +7,6 @@ guestPic: guestpic559.png
 author: Jules
 illustrator: Babi Brunelio
 writer: Jules
-episode_URL: https://www.mailta.pe/559/Philipp-Otterbach/
 musiColor: musicolor559.png
 image: https://www.mailta.pe/img/fbpic559.jpg
 track1:

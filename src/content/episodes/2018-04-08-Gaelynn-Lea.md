@@ -6,7 +6,6 @@ illustrator: Pierre-Julien Fieux
 writer: Sanjay Mistry
 guest_name: Gaelynn Lea
 guest_color: vibrant
-episode_URL: http://mailta.pe/307/gaelynn-lea/
 image: https://www.mailta.pe/img/fbPic307.jpg
 guestPic: guestPic307.jpg
 musiColor: musiColor307.png

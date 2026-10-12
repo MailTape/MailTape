@@ -7,7 +7,6 @@ writer: Daisy
 guest_name: L'impératrice
 guest_color: vibrant
 guestPic: guestPic276.jpg
-episode_URL: http://mailta.pe/276/limperatrice/
 image: https://www.mailta.pe/img/fbPic276.jpg
 musiColor: musiColor276.png
 description: This morning, the glitter balls are spinning a little slower and

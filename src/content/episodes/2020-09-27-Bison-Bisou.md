@@ -1,5 +1,4 @@
 ---
-episode_URL: http://mailta.pe/418/bison-bisou/
 bigTitle_font_ratio: "6"
 guestPic: guestPic418.jpg
 guest_color: rough

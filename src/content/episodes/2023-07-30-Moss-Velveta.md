@@ -7,7 +7,6 @@ author: Sarah
 illustrator: Nella Papelita
 writer: Sarah
 guest_color: trippy
-episode_URL: http://mailta.pe/533/Moss-Velveta/
 image: https://www.mailta.pe/img/fbPic533.png
 musiColor: musiColor533.png
 description: This Sunday, we take the tread into morning's mist as we welcome

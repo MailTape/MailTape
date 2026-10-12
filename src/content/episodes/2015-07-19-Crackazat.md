@@ -5,7 +5,6 @@ guest_color: bliss
 bigTitle_font_ratio: "6"
 guest_name: Crackazat
 guestPic: guestPic195.jpg
-episode_URL: http://mailta.pe/195/Crackazat/
 image: https://www.mailta.pe/img/fbPic195.jpg
 musiColor: musiColor195.png
 description: This morning, you deserve an effective awakening of the senses. The

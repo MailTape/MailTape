@@ -6,7 +6,6 @@ illustrator: Pierre-Julien Fieux
 writer: Sanjay Mistry
 guest_name: Sibusile Xaba
 guest_color: bliss
-episode_URL: http://mailta.pe/275/sibusile-xaba/
 guestPic: guestPic275.jpg
 description: This morning I'm super excited to present the Sunday morning
   jukebox of Pretoria-based guitarist and generally beautiful human being,

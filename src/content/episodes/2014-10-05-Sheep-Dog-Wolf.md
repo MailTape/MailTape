@@ -6,7 +6,6 @@ bigTitle_font_ratio: "7.7"
 bigTitle_line_ratio: "1"
 guest_name: Sheep, Dog & Wolf
 guestPic: guestPic154.jpg
-episode_URL: http://mailta.pe/154/Sheep-Dog-Wolf/
 image: https://www.mailta.pe/img/fbPic154.jpg
 musiColor: musiColor154.png
 description: Our pick of the week is Daniel McBride, an artist from Wellington

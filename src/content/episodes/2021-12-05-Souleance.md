@@ -1,7 +1,6 @@
 ---
 bigTitle_font_ratio: "6"
 published: true
-episode_URL: http://mailta.pe/473/souleance/
 image: https://www.mailta.pe/img/fbPic473.png
 musiColor: musiColor473.png
 writer: Anaïs G

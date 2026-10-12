@@ -5,7 +5,6 @@ author: Anaïs G
 illustrator: Anthony Dujardin
 writer: Anaïs G
 guest_name: Miel de Montagne
-episode_URL: http://mailta.pe/352/Miel-de-Montagne
 guest_color: dreamy
 guestPic: guestPic352.jpg
 image: https://www.mailta.pe/img/fbPic352.png

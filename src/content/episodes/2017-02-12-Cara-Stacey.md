@@ -6,7 +6,6 @@ illustrator: Isabelle Escande
 writer: Daisy
 guest_name: Cara Stacey
 guest_color: dreamy
-episode_URL: https://www.mailta.pe/247/Cara-Stacey/
 guestPic: guestPic247.jpg
 image: https://www.mailta.pe/img/fbPic247.jpg
 musiColor: musiColor247.png

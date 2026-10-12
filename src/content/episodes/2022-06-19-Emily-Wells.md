@@ -6,7 +6,6 @@ illustrator: Julie Wojtczak
 writer: ImaCrea
 guest_name: Emily Wells
 guest_color: bliss
-episode_URL: https://www.mailta.pe/497/Emily-Wells/
 guestPic: guestPic497.jpg
 musiColor: musiColor497.png
 image: https://www.mailta.pe/img/fbPic497.jpg

@@ -6,7 +6,6 @@ illustrator: William Girault
 writer: Sanjay Mistry
 guest_name: Amira Kheir
 guest_color: vibrant
-episode_URL: http://mailta.pe/282/amira-kheir/
 guestPic: guestPic282.jpg
 image: https://www.mailta.pe/img/fbPic282.jpg
 description: Described by Songlines magazine as ‘bold and poetic… beautiful and

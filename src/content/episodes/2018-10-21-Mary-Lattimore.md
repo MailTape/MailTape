@@ -6,7 +6,6 @@ illustrator: Anthony Dujardin
 writer: Sanjay Mistry
 guest_name: Mary Lattimore
 guest_color: dreamy
-episode_URL: http://mailta.pe/328/mary-lattimore/
 guestPic: guestPic328.jpg
 musiColor: musiColor328.png
 image: https://www.mailta.pe/img/fbPic328.jpg

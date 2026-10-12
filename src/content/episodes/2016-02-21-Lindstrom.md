@@ -6,7 +6,6 @@ guest_name: Lindstrøm
 guest_color: trippy
 bigTitle_font_ratio: "6"
 guestPic: guestPic205.jpg
-episode_URL: http://mailta.pe/205/Lindstrom/
 image: https://www.mailta.pe/img/fbPic205.jpg
 musiColor: musiColor205.png
 description: ""

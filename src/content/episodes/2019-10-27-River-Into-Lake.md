@@ -3,7 +3,6 @@ pubDate: 2019-10-27
 bigTitle_font_ratio: "6"
 published: true
 guest_color: dreamy
-episode_URL: http://mailta.pe/377/river-into-lake/
 image: https://www.mailta.pe/img/fbPic377.png
 musiColor: musiColor377.png
 guestPic: guestPic377.jpg

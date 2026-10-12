@@ -5,7 +5,6 @@ guest_color: bliss
 bigTitle_font_ratio: "7"
 bigTitle_line_ratio: "1"
 guest_name: Project Pablo
-episode_URL: http://mailta.pe/188/Project-Pablo/
 guestPic: guestPic188.jpg
 image: https://www.mailta.pe/img/fbPic188.jpg
 musiColor: musiColor188.png

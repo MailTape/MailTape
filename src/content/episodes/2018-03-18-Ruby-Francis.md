@@ -1,7 +1,6 @@
 ---
 bigTitle_font_ratio: "6"
 published: true
-episode_URL: http://mailta.pe/304/Ruby-Francis/
 image: https://www.mailta.pe/img/fbPic304.jpg
 musiColor: musiColor304.png
 author: Louise

@@ -7,7 +7,6 @@ writer: ImaCrea
 guest_name: Adela Mede
 guest_color: dreamy
 guestPic: guestPic526.jpg
-episode_URL: http://mailta.pe/526/adela-mede/
 image: https://www.mailta.pe/img/fbPic526.png
 musiColor: musiColor526.png
 description: This morning, we're embarking on a dreamy journey with Adela Mede.

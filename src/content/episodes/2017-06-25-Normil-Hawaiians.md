@@ -5,7 +5,6 @@ author: Sanjay Mistry
 illustrator: Pierre-Julien Fieux
 guest_name: Normil Hawaiians
 guest_color: trippy
-episode_URL: http://mailta.pe/266/normil-hawaiians/
 guestPic: guestPic266.jpg
 description: This morning, we are delighted to welcome Normil Hawaiians.
   Operating more like a collective than a band, the Normil Hawaiians formed in

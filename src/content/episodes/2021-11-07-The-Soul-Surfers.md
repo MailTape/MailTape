@@ -9,7 +9,6 @@ guest_color: bliss
 musiColor: musiColor469.png
 guestPic: guestPic469.jpg
 image: https://www.mailta.pe/img/fbPic469.png
-episode_URL: http://mailta.pe/469/The-Soul-Surfers/
 description: "  This morning, we are delighted to welcome The Soul Surfers to
   MailTape for a collection of experimental and exploratory tracks. Led by
   drummer Igor Zhukovsky, the modern funk band hails from Niznhny Novgorod,

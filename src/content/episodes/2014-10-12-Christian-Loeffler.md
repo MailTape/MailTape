@@ -6,7 +6,6 @@ bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
 guest_name: Christian Löffler
 guestPic: guestPic155.jpg
-episode_URL: http://mailta.pe/155/Christian-Loeffler/
 image: https://www.mailta.pe/img/fbPic155.png
 musiColor: musiColor155.png
 description: This morning, discover Christian Löffler. The extraordinary

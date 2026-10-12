@@ -5,7 +5,6 @@ guest_color: dreamy
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
 guest_name: Catching Flies
-episode_URL: http://mailta.pe/134/Catching-Flies/
 guestPic: guestPic134.jpg
 image: https://www.mailta.pe/img/fbPic134.jpg
 musiColor: musiColor134.png

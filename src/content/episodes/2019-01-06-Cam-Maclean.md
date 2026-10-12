@@ -5,7 +5,6 @@ author: Anaïs G
 illustrator: Camille Célestin
 guest_name: "Cam Maclean "
 guest_color: dreamy
-episode_URL: https://www.mailta.pe/339/cam-maclean
 guestPic: guestPic339.jpg
 description: This morning, we are embarking on a year filled with joy, love and
   surprises. It shall also astonish us with many musical discoveries and

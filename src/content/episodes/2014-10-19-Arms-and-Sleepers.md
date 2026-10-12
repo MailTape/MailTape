@@ -6,7 +6,6 @@ bigTitle_font_ratio: "8"
 bigTitle_line_ratio: "1"
 guest_name: Arms and Sleepers
 guestPic: guestPic156.jpg
-episode_URL: http://mailta.pe/156/Arms-and-Sleepers/
 image: https://www.mailta.pe/img/fbPic156.jpg
 musiColor: musiColor156.png
 description: A time when we were all one and free,  and we stood, with our hands

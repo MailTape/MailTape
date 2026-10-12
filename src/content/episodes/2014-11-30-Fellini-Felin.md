@@ -6,7 +6,6 @@ bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
 guest_name: Fellini Félin
 guestPic: guestPic162.jpg
-episode_URL: http://mailta.pe/162/Fellini-Felin/
 image: https://www.mailta.pe/img/fbPic162.jpg
 musiColor: musiColor162.png
 description: "This morning, discover Fellini Félin. Everything started in the

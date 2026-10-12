@@ -6,7 +6,6 @@ illustrator: Pierre-Julien Fieux
 writer: Laura
 guest_name: Roche Musique
 guest_color: vibrant
-episode_URL: https://www.mailta.pe/265/roche-musique/
 musiColor: musiColor265.png
 description: This morning, wake up with our very special guests, the pioneers of
   French Touch 2.0. Roche Musique label was created exactly 5 years ago by Jean

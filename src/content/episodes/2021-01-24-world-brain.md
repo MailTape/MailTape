@@ -6,7 +6,6 @@ writer: Daisy
 author: ImaCrea
 illustrator: Anthony Dujardin
 guestPic: guestPic435.jpg
-episode_URL: https://www.mailta.pe/435/world-brain/
 image: https://www.mailta.pe/img/fbPic435.png
 musiColor: musiColor435.png
 description: This morning, some delicious morsels of sonic data have found their

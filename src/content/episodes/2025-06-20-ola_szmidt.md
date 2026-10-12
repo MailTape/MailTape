@@ -9,7 +9,6 @@ illustrator: Noémie Dijon
 writer: ImaCrea
 description: This morning, as we change seasons and the metamorphosis of life is
   in full swing, we are deeply enthusiastic to have Ola Szmidt as our guest.
-episode_URL: https://www.mailta.pe/585/ola-szmidt/
 image: https://www.mailta.pe/img/fbpic585.jpg
 musiColor: 1000003871.png
 track1:

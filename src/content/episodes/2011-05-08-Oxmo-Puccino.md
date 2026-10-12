@@ -12,7 +12,6 @@ description: This morning, Oxmo offers us a round-trip ticket to Brazil, where
   we’ll get to attend a concert of the magnificent Seu Jorge. Incredible! It’s
   the sound of an elevator awaiting to propel us to the top of a New York sky
   scrapper, listening to jazz with...
-episode_URL: http://mailta.pe/2/Oxmo-Puccino/
 image: https://www.mailta.pe/img/fbPic2.png
 musiColor: musiColor2.png
 track1:

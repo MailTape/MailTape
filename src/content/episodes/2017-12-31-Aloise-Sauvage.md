@@ -7,7 +7,6 @@ writer: Louise
 guest_name: Aloïse Sauvage
 guest_color: dreamy
 guestPic: guestPic293-1.jpg
-episode_URL: http://mailta.pe/293/Aloise-Sauvage/
 image: https://www.mailta.pe/img/fbPic293.png
 musiColor: musiColor293.png
 description: "This morning, it's time to reflect on the past year. It's a new

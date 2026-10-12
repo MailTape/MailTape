@@ -6,7 +6,6 @@ illustrator: Camille Célestin
 writer: Sanjay Mistry
 guest_name: Maria Chiara Argirò
 guest_color: bliss
-episode_URL: http://mailta.pe/369/maria-chiara-argiro/
 description: Welcome back to another season of MailTape! This morning we
   introduce the London-based pianist and composer, Maria Chiara Argirò, who
   kicks things off again with three Sunday morning tunes.

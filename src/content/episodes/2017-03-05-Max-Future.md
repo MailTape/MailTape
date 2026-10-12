@@ -7,7 +7,6 @@ writer: Maxime
 guest_name: Max Future
 guest_color: bliss
 guestPic: guestPic250.jpg
-episode_URL: https://www.mailta.pe/250/Max-Future/
 image: https://www.mailta.pe/img/fbPic250.jpg
 musiColor: musiColor250.png
 description: This morning, let's have a glimpse of today's music and Max Future.

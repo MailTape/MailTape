@@ -6,7 +6,6 @@ illustrator: Pierre-Julien Fieux
 writer: Jules
 guest_name: Bobby Oroza
 guest_color: vibrant
-episode_URL: https://www.mailta.pe/364/bobby-oroza/
 description: This morning, whether on sunny beaches, palm groves or lush oases,
   or just enjoying a fine breakfast in your bed, allow yourself to be soothed by
   a strange and unique shade of Soul born in Finland but balancing international

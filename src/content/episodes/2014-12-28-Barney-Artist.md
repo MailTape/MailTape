@@ -5,7 +5,6 @@ guest_color: dreamy
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
 guest_name: Barney Artist
-episode_URL: http://mailta.pe/166/Barney-Artist/
 guestPic: guestPic166.jpg
 image: https://www.mailta.pe/img/fbPic166.jpg
 musiColor: musiColor166.png

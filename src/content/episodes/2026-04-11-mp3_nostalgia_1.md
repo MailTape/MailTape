@@ -15,7 +15,6 @@ description: "At Mailtape, we sometimes assume we're a bit old-fashioned. We are
   spirit of the MP3 player: carefully collecting fabulous tracks, downloading
   them, and listening to them on our little device, in various contexts, often
   intimate."
-episode_URL: https://www.mailta.pe/609/MP3-Nostalgia-1/
 image: https://www.mailta.pe/img/fbpic609.png
 musiColor: musicolor609.png
 track1:

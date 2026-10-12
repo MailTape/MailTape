@@ -6,7 +6,6 @@ illustrator: Jason Pridham
 guest_name: Sarah Maison
 guest_color: vibrant
 guestPic: guestPic443.jpg
-episode_URL: http://mailta.pe/443/sarah-maison/
 image: https://www.mailta.pe/img/fbPic443.png
 musiColor: musiColor443.png
 description: This morning, we leave in the sun with a one-way trip to the

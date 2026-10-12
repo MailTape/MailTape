@@ -13,7 +13,6 @@ description: "As you know, Mail Tape loves to highlight unusual artists, those
   seem to make music like a crazy chemistry professor would have fun mixing
   various dangerous substances, even if it means blowing everything up. And
   BOOM! There it is: Fulguromatic!"
-episode_URL: https://www.mailta.pe/583/Fulguromatic
 image: https://www.mailta.pe/img/fbPic583.png
 musiColor: musicolor583.png
 track1:

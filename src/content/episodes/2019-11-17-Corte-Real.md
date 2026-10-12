@@ -6,7 +6,6 @@ illustrator: Camille Célestin
 writer: Jules
 guest_name: Corte Real
 guest_color: dreamy
-episode_URL: https://www.mailta.pe/380/corte-real/
 musiColor: musiColor380.png
 description: This morning, we are setting sail again at the very first light of
   dawn with Corte Real, without knowing where or when we will come back. The

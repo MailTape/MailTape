@@ -15,7 +15,6 @@ description: This morning our dream tapestries cross into the sunlight, letting
   meditation and dance, the duo moves swiftly from folk to psychedelic rock to
   effervescent techno, with rich and unexpected marriages across genre and
   instruments.
-episode_URL: https://www.mailta.pe/577/Walter-Astral/
 image: https://www.mailta.pe/img/fbpic577.jpg
 musiColor: musicolor577.png
 track1:

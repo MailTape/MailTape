@@ -6,7 +6,6 @@ illustrator: Aoife Comey
 writer: Daisy
 guest_name: Linda Buckley
 guest_color: dreamy
-episode_URL: https://www.mailta.pe/236/Linda-Buckley/
 guestPic: guestPic236.jpg
 image: https://www.mailta.pe/img/fbPic236.jpg
 musiColor: musiColor236.png

@@ -9,7 +9,6 @@ guest_color: vibrant
 guestPic: guestPic501.jpg
 musiColor: musiColor501.png
 image: https://www.mailta.pe/img/fbPic501.jpg
-episode_URL: http://mailta.pe/501/Zinda-Reinhardt/
 description: This morning, we're thrilled to be back for this 11th season of
   music discoveries! And for this 501st episode, we're honored to welcome Zinda
   Reinhardt. With her powerful and contagious energy, she sings in Sintikès and

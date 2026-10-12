@@ -8,7 +8,6 @@ writer: Anaïs G
 guest_name: Northwest
 guest_color: vibrant
 guestPic: guestPic448.jpg
-episode_URL: http://mailta.pe/448/northwest/
 image: https://www.mailta.pe/img/fbPic448.png
 musiColor: musiColor448.png
 description: This morning,we enter into a contemplative meditation. We enter

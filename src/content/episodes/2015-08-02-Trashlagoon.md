@@ -7,7 +7,6 @@ guest_name: Trashlagoon
 guestPic: guestPic197.jpg
 image: https://www.mailta.pe/img/fbPic197.jpg
 musiColor: musiColor197.png
-episode_URL: http://mailta.pe/197/Trashlagoon/
 description: This Sunday, Trashlagoon, comprising of the German duo Sebastian
   Welicki and Niklas Freund will take on itself to port you to their fantastic
   world of atmospheric soundscapes and melodies.

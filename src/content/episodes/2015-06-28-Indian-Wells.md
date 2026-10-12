@@ -5,7 +5,6 @@ guest_color: trippy
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
 guest_name: Indian Wells
-episode_URL: http://mailta.pe/192/Indian-Wells/
 guestPic: guestPic192.jpg
 musiColor: musiColor192.png
 image: https://www.mailta.pe/img/fbPic192.jpg

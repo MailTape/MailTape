@@ -5,7 +5,6 @@ author: Anaïs G
 illustrator: Camille Célestin
 writer: Anaïs G
 guest_name: Entracte Twist
-episode_URL: http://mailta.pe/363/Entracte-Twist/
 guestPic: guestPic363.jpg
 musiColor: musiColor363.png
 description: This morning, we take out the guitars, adjust our strings test the

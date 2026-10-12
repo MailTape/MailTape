@@ -6,7 +6,6 @@ illustrator: Camille Célestin
 writer: Sanjay Mistry
 guest_name: Ruba Shamshoum
 guest_color: bliss
-episode_URL: http://mailta.pe/301/ruba-shamshoum/
 description: This morning we are delighted to welcome Dublin-based musician,
   Ruba Shamshoum, who collaborates with us to provide a beautifully laid-back
   Sunday morning playlist.

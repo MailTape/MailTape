@@ -8,7 +8,6 @@ illustrator: Nella Papelita
 guest_color: vibrant
 guestPic: guestPic531.jpg
 image: https://www.mailta.pe/img/fbPic531.png
-episode_URL: http://mailta.pe/531/Expensive-Music-Band/
 description: This Sunday we welcome Expensive Music Band for Episode 531 :) The
   project of multi-instrumentalist Troon Lienad, the band is based in Illawarra.
   They join us after the release of their latest album, Things to Say at a

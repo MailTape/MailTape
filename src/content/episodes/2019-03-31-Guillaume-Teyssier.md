@@ -5,7 +5,6 @@ guest_name: Guillaume Teyssier
 author: ImaCrea
 illustrator: Camille Célestin
 writer: ImaCrea
-episode_URL: https://www.mailta.pe/351/guillaume-teyssier/
 guest_color: bliss
 guestPic: guestPic351.jpg
 image: https://www.mailta.pe/img/fbPic351.png

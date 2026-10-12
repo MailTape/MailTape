@@ -8,7 +8,6 @@ guest_name: Spelterini
 guest_color: trippy
 image: https://www.mailta.pe/img/fbPic506.png
 guestPic: guestPic506.jpg
-episode_URL: http://mailta.pe/506/Spelterini/
 musiColor: musiColor505.png
 description: "  This morning, we shake up codes, habits and routine. We will
   experience music in different ways, touch it, feel it, see it in such a way

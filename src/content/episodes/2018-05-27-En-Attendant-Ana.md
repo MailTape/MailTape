@@ -3,7 +3,6 @@ bigTitle_font_ratio: "6"
 published: true
 guest_name: En Attendant Ana
 guest_color: vibrant
-episode_URL: https://www.mailta.pe/314/en-attendant-ana
 author: Charlotte
 description: This morning, we are delighted to welcome the garage pop band En
   Attendant Ana for a bright-eyed MailTape that might help you leave your

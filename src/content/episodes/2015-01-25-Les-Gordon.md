@@ -5,7 +5,6 @@ guest_color: vibrant
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
 guest_name: Les Gordon
-episode_URL: http://mailta.pe/170/Les-Gordon/
 description: "This Sunday, we bring you an amalgam of ambient  and downtempo
   with our newly found French artist, Les Gordon. "
 guestPic: guestPic170.jpg

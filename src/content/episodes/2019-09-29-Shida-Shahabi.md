@@ -6,7 +6,6 @@ illustrator: Camille Célestin
 writer: Sanjay Mistry
 guest_name: Shida Shahabi
 guest_color: dreamy
-episode_URL: https://www.mailta.pe/373/shida-shahabi/
 description: This morning we welcome the intimate and homespun piano of
   Stockholm-based pianist and composer, Shida Shahabi.
 guestPic: guestPic373.jpg

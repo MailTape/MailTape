@@ -6,7 +6,6 @@ author: Sarah
 writer: Sarah
 guest_name: Ursula's Cartridges
 guest_color: trippy
-episode_URL: http://mailta.pe/488/Ursulas-Cartridges/
 guestPic: guestPic488.jpg
 description: "This morning, we welcome Finland-based Ursula's Cartridges to
   MailTape for an electro vaporwave selection. Combining 80's and 90's rave and

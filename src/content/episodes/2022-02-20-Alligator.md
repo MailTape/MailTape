@@ -7,7 +7,6 @@ writer: ImaCrea
 guest_name: Alligator
 guest_color: vibrant
 image: https://www.mailta.pe/img/fbPic482.jpg
-episode_URL: http://mailta.pe/482/Alligator/
 musiColor: musiColor482.png
 guestPic: guestPic482.jpg
 description: This morning, we stop reading the news and start dancing. Did you

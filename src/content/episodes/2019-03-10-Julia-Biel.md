@@ -6,7 +6,6 @@ illustrator: Anais Caura
 writer: Sanjay Mistry
 guest_name: Julia Biel
 guest_color: bliss
-episode_URL: http://mailta.pe/348/julia-biel/
 guestPic: guestPic348.jpg
 image: https://www.mailta.pe/img/fbPic348.jpg
 musiColor: musiColor348.png

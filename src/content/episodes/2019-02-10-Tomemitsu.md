@@ -6,7 +6,6 @@ illustrator: Camille Célestin
 writer: Anaïs G
 guest_name: Tomemitsu
 guest_color: dreamy
-episode_URL: https://www.mailta.pe/344/tomemitsu
 guestPic: guestPic344.jpg
 image: https://www.mailta.pe/img/fbPic344.png
 description: "This morning, like a divine light coming from nowhere, caressing

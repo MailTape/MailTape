@@ -6,7 +6,6 @@ illustrator: Pierre-Julien Fieux
 guest_name: Kelly Lee Owens
 guest_color: bliss
 guestPic: guestPic272.jpg
-episode_URL: http://mailta.pe/272/Kelly-Lee-Owens/
 image: https://www.mailta.pe/img/fbPic272.png
 musiColor: musiColor272.png
 writer: Daisy

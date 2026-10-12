@@ -4,7 +4,6 @@ published: true
 author: Ludovic
 illustrator: Camille Célestin
 writer: ImaCrea
-episode_URL: https://www.mailta.pe/223/Fatima-Yamaha/
 image: https://www.mailta.pe/img/fbPic223.png
 musiColor: musiColor223.png
 guest_name: Fatima Yamaha

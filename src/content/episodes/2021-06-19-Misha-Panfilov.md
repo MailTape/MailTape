@@ -9,7 +9,6 @@ illustrator: Jason Pridham
 author: Sarah
 musiColor: musiColor456.png
 image: https://www.mailta.pe/img/fbPic456.png
-episode_URL: http://mailta.pe/456/Misha-Panfilov/
 description: We begin our Sunday morning with a cosmic cowboy selection of
   tracks led by our dear guest Misha Panfilov. Based in Tallinn, Estonia,
   Misha's music engages in the evolving cross section between folk, funk, jazz,

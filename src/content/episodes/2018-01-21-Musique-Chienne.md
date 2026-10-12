@@ -9,7 +9,6 @@ guest_color: trippy
 guestPic: guestPic296.jpg
 musiColor: musiColor296.png
 image: https://www.mailta.pe/img/fbPic296.png
-episode_URL: https://www.mailta.pe/296/musique-chienne/
 description: This morning, please welcome Musique Chienne's sparkly selection!
   Musique Chienne is Sarah-Louise Barbett, a musician making "music for people
   and dog". In other words, she makes synth-based, percussive electronic, naive

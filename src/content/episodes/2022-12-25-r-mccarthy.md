@@ -8,7 +8,6 @@ guest_name: r mccarthy
 guest_color: dreamy
 guestPic: guestPic511.jpg
 image: https://www.mailta.pe/img/fbPic511.png
-episode_URL: http://mailta.pe/511/r-mccarthy/
 description: "  We are overjoyed to welcome r mccarthy to MailTape this Sunday
   morning :) His selection embraces new worlds of new age music, stretching time
   and sound into spaces unknown -- carrying creativity into these early morning

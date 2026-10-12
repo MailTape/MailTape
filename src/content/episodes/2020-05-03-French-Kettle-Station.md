@@ -14,7 +14,6 @@ description: "This morning, it seems as we're entering the final stage of grief:
   always been an illusion, everything is in movement and your heart is still
   beating. Now is no time to stop the rhythm but to let go and keep dancing with
   the unknown."
-episode_URL: https://www.mailta.pe/404/french-kettle-station/
 image: https://www.mailta.pe/img/fbPic404.png
 musiColor: musiColor404.png
 pubDate: 2020-05-03

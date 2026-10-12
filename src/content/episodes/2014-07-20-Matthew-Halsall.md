@@ -5,7 +5,6 @@ guest_color: dreamy
 bigTitle_font_ratio: "8"
 bigTitle_line_ratio: "1"
 guest_name: Matthew Halsall
-episode_URL: http://mailta.pe/150/Matthew-Halsall/
 guestPic: guestPic150.jpg
 image: https://www.mailta.pe/img/fbPic150.jpg
 description: This morning, our guest' selection will probably widen your morning

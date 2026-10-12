@@ -7,7 +7,6 @@ guestPic: guestpic571.jpg
 author: Jules
 illustrator: Noémie Dijon
 writer: Jules
-episode_URL: https://www.mailta.pe/571/Attention-Le-Tapis-Prend-Feu/
 image: https://www.mailta.pe/img/fbPic571.png
 musiColor: musicolor571.png
 track1:

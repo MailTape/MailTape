@@ -6,7 +6,6 @@ writer: Anaïs G
 author: Anaïs G
 illustrator: Camille Célestin
 guestPic: guestPic393.jpg
-episode_URL: http://mailta.pe/393/dharma-bum/
 image: https://www.mailta.pe/img/fbPic393.png
 musiColor: musiColor393.png
 guest_color: bliss

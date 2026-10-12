@@ -6,7 +6,6 @@ illustrator: Pierre-Julien Fieux
 writer: Sanjay Mistry
 guest_name: Miryam Solomon
 guest_color: bliss
-episode_URL: http://mailta.pe/302/miryam-solomon/
 guestPic: guestPic302.jpg
 description: By way of Sweden and Eritrea we welcome London-based
   singer/songwriter, Miryam Solomon, who joins us to provide an eclectic Sunday

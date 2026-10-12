@@ -6,7 +6,6 @@ illustrator: Anthony Dujardin
 writer: Sanjay Mistry
 guest_name: Les Graciés
 guest_color: trippy
-episode_URL: http://mailta.pe/319/les-gracies/
 guestPic: guestPic319.jpg
 musiColor: musiColor319.png
 image: https://www.mailta.pe/img/fbPic319.jpg

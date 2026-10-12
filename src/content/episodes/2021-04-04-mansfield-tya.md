@@ -9,7 +9,6 @@ guest_color: trippy
 guestPic: guestPic445.jpg
 image: https://www.mailta.pe/img/fbPic445.png
 musiColor: musiColor445.png
-episode_URL: https://www.mailta.pe/445/Mansfield-TYA/
 description: This morning, we welcome Mansfield.TYA, a surprisingly raw music
   duo from Nantes. Their music will both illuminate and sometimes somber your
   journey. With their sensitive and sensible songs composed of accessible yet

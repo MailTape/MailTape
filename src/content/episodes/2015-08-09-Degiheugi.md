@@ -13,7 +13,6 @@ description: "This morning, get ready for a journey through a legendary wild
   full potential as your heart connects to their mystic waves. "
 musiColor: musiColor198.png
 image: https://www.mailta.pe/img/fbPic198.jpg
-episode_URL: http://mailta.pe/198/Degiheugi/
 pubDate: 2015-08-09
 track1:
   title: " Jorge Ben Jor - Oba, la vem ela "

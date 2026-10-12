@@ -5,7 +5,6 @@ author: ImaCrea
 writer: ImaCrea
 guest_name: La Fine Équipe
 guestPic: guestPic6.jpg
-episode_URL: http://mailta.pe/6/La-Fine-Equipe/
 image: https://www.mailta.pe/img/fbPic6.jpg
 musiColor: musiColor6.png
 guest_color: rough

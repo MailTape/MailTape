@@ -6,7 +6,6 @@ author: Manon
 illustrator: William Girault
 writer: Manon
 guest_color: dreamy
-episode_URL: http://mailta.pe/331/Muddy-Monk/
 guestPic: guestPic331.jpg
 description: This morning, we are delighted to welcome Muddy Monk to Mailtape.
 image: https://www.mailta.pe/img/fbPic331.png

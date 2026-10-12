@@ -6,7 +6,6 @@ illustrator: William Girault
 writer: Laura
 guest_name: Detroit Swindle
 guest_color: bliss
-episode_URL: https://www.mailta.pe/244/Detroit-Swindle/
 description: This morning, let yourself dive into complete blissfulness with the
   soulful beat of our guests Detroit Swindle. Awake with their chilled out yet
   rhythmic musical selection that highlights the return of soul in hip-hop.

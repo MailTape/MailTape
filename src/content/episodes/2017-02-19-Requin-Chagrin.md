@@ -4,7 +4,6 @@ published: true
 author: Inès
 guest_name: Requin Chagrin
 guest_color: vibrant
-episode_URL: https://www.mailta.pe/248/requin-chagrin/
 illustrator: Camille Célestin
 writer: Inès
 musiColor: musiColor248.png

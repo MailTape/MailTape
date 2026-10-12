@@ -6,7 +6,6 @@ writer: Jules
 guest_name: Diogo Strausz
 guest_color: trippy
 illustrator: Camille Lemeunier
-episode_URL: https://www.mailta.pe/542/diogo-strausz/
 musiColor: musiColor542.png
 description: This morning, as I opened my eyes in bed and let my gaze glide
   across the ceiling of my bedroom, it seemed to me that something was missing.

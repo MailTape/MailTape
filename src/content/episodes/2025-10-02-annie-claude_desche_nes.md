@@ -12,7 +12,6 @@ description: "There's a bit of everything in today's selection: a good dose of
   and even a little tropical vibe. Yes yes, it seems completely disjointed said
   like that and yet, this autumnal MailTape is consistent with the season: full
   of colors that are a feast for the eyes (or the ears)."
-episode_URL: https://www.mailta.pe/592/Annie-Claude-Deschenes/
 image: https://www.mailta.pe/img/fbPic592.png
 musiColor: musicolor592.png
 track1:

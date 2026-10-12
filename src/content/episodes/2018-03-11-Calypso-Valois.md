@@ -6,7 +6,6 @@ guest_color: vibrant
 writer: ImaCrea
 author: Manon
 illustrator: William Girault
-episode_URL: http://mailta.pe/303/Calypso-Valois/
 guestPic: guestpic303.jpg
 image: https://www.mailta.pe/img/fbpic303.png
 musiColor: musiColor303.png

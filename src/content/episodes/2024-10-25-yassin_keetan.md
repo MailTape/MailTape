@@ -7,7 +7,6 @@ guestPic: guestpic563.png
 author: Jules
 illustrator: Marie Alléguède
 writer: Jules
-episode_URL: https://www.mailta.pe/563/Yassin-Keetan/
 image: https://www.mailta.pe/img/fbPic563.png
 musiColor: musicolor563.png
 track1:

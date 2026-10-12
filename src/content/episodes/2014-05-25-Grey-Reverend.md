@@ -5,7 +5,6 @@ guest_color: dreamy
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
 guest_name: Grey Reverend
-episode_URL: http://mailta.pe/142/Grey-Reverend/
 guestPic: guestPic142.jpg
 image: https://www.mailta.pe/img/fbPic142.jpg
 musiColor: musiColor142.png

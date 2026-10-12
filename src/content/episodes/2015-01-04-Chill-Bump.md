@@ -6,7 +6,6 @@ bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
 guest_name: Chill Bump
 guestPic: guestPic167.jpg
-episode_URL: http://mailta.pe/167/Chill-Bump/
 image: https://www.mailta.pe/img/fbPic167.jpg
 musiColor: musiColor167.png
 description: This morning, let's dance and celebrate 2015 to the selection of

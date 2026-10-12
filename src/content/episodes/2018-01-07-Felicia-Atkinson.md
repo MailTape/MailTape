@@ -6,7 +6,6 @@ illustrator: Camille Célestin
 writer: Sanjay Mistry
 guest_name: Félicia Atkinson
 guest_color: trippy
-episode_URL: http://mailta.pe/294/felicia-atkinson/
 guestPic: guestPic294.jpg
 musiColor: musiColor294.png
 image: https://www.mailta.pe/img/fbPic294.jpg

@@ -6,7 +6,6 @@ illustrator: Meriam Kharbat
 guest_name: Glenn Astro
 writer: ImaCrea
 image: https://www.mailta.pe/img/fbPic449.png
-episode_URL: https://www.mailta.pe/449/glenn-astro/
 musiColor: musiColor449.png
 description: This morning, let's have some actively collected intuitions
   distilled from love. Experimental, mystic, and joyful vibes as we start our

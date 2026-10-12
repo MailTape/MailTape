@@ -7,7 +7,6 @@ writer: Inès
 guest_name: Jermango Dreaming
 guest_color: bliss
 guestPic: guestPic374.jpg
-episode_URL: https://www.mailta.pe/374/jermango-dreaming/
 musiColor: musiColor374.png
 image: https://www.mailta.pe/img/fbPic374.png
 description: This morning, please welcome Jermango Dreaming and his popping

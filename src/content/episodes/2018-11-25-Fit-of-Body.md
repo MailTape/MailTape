@@ -6,7 +6,6 @@ illustrator: Camille Célestin
 writer: Jules
 guest_name: Fit of Body
 guest_color: bliss
-episode_URL: http://mailta.pe/333/fit-of-body/
 guestPic: guestPic333.jpg
 musiColor: musiColor333.png
 description: This morning we are delighted to welcome Atlanta-based music

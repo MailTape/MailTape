@@ -5,7 +5,6 @@ author: Sanjay Mistry
 illustrator: Pierre-Julien Fieux
 guest_name: Sarathy Korwar
 guest_color: trippy
-episode_URL: https://www.mailta.pe/249/sarathy-korwar/
 guestPic: guestPic249.jpg
 image: https://www.mailta.pe/img/fbPic249.jpg
 musiColor: musiColor249.png

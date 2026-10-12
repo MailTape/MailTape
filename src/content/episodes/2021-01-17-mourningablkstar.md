@@ -7,7 +7,6 @@ writer: ImaCrea
 guest_name: Mourning [A] BLKstar
 guest_color: vibrant
 guestPic: guestPic434.jpg
-episode_URL: https://www.mailta.pe/434/mourningablkstar/
 image: https://www.mailta.pe/img/fbPic434.png
 musiColor: musiColor434.jpg
 description: This morning, we're honored to introduce you to Mourning [A]

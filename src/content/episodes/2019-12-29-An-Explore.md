@@ -6,7 +6,6 @@ illustrator: Julie Wojtczak
 writer: Jules
 guest_name: An Explore
 guest_color: bliss
-episode_URL: http://mailta.pe/386/an-explore/
 guestPic: guestPic386.jpg
 image: " https://www.mailta.pe/img/fbPic386.png"
 musiColor: musiColor386.png

@@ -4,7 +4,6 @@ published: true
 author: Sanjay Mistry
 illustrator: Pierre-Julien Fieux
 guest_name: Olimpia Splendid
-episode_URL: http://mailta.pe/263/olimpia-splendid/
 guest_color: trippy
 image: https://www.mailta.pe/img/fbPic263.jpg
 musiColor: musiColor263.png

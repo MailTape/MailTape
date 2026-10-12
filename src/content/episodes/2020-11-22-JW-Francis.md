@@ -6,7 +6,6 @@ writer: Sarah
 illustrator: Camille Célestin
 author: Sarah
 guest_color: vibrant
-episode_URL: http://mailta.pe/426/JW-Francis/
 musiColor: musiColor426.png
 image: https://www.mailta.pe/img/fbPic426.png
 guest_name: JW Francis

@@ -3,7 +3,6 @@ bigTitle_font_ratio: "6"
 published: true
 musiColor: musiColor423.png
 image: https://www.mailta.pe/img/fbPic423.png
-episode_URL: http://mailta.pe/423/scherazade/
 guestPic: guestPic423.jpg
 guest_color: vibrant
 guest_name: Schérazade

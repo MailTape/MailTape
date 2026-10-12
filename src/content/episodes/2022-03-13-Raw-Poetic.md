@@ -7,7 +7,6 @@ writer: Sarah
 guest_name: Raw Poetic
 guest_color: dreamy
 image: https://www.mailta.pe/img/fbPic485.png
-episode_URL: http://mailta.pe/485/Raw-Poetic/
 guestPic: guestPic485.jpg
 description: "This morning, we're ringing in the day with some smooth sunshine
   tracks, introduced by our dear guest, Raw Poetic. The project of Jason Moore,

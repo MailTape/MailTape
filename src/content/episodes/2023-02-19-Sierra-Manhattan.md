@@ -6,7 +6,6 @@ illustrator: Meriam Kharbat
 guest_name: Sierra Manhattan
 guest_color: bliss
 guestPic: guestPic518.jpg
-episode_URL: http://mailta.pe/518/sierra-manhattan/
 image: https://www.mailta.pe/img/fbPic518.png
 musiColor: musiColor518.png
 description: This morning, you need to rest, to let yourself go to other

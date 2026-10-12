@@ -6,7 +6,6 @@ guest_name: Cléa Vincent
 guest_color: vibrant
 bigTitle_font_ratio: "6"
 guestPic: guestPic203.jpg
-episode_URL: http://mailta.pe/203/Clea-Vincent/
 image: https://www.mailta.pe/img/fbPic203.jpg
 musiColor: musiColor203.png
 description: ""

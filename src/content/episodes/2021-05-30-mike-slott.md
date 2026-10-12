@@ -17,7 +17,6 @@ description: This morning, let's go for a walk outside. We're joined by Mike
   Vignettes, a great inner cinematic experience.  Open the door, put your
   headphones on, and press play. No need to travel to the other side of the
   planet. Let's go.
-episode_URL: https://www.mailta.pe/453/Mike-Slott/
 track1:
   title: Sam Gendel - Sustain
   color: dreamy

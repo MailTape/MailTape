@@ -6,7 +6,6 @@ bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
 guest_name: Kid Francescoli
 guestPic: guestPic178.jpg
-episode_URL: http://mailta.pe/178/Kid-Francescoli/
 image: https://www.mailta.pe/img/fbPic178.jpg
 musiColor: musiColor178.png
 description: This morning, our playlist curated with Kid Francescoli is like a

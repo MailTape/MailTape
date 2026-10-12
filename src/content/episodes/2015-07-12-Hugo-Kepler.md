@@ -7,7 +7,6 @@ guest_name: Hugo Kepler
 guestPic: guestPic194.jpg
 image: https://www.mailta.pe/img/fbPic194.jpg
 musiColor: musiColor194.png
-episode_URL: http://mailta.pe/194/Hugo-Kepler/
 description: "This morning, be prepared for a shower of heart throbbing words
   and melodies that will pull your soul away from any puddles of sorrow. Hugo
   Kepler chooses simplicity, transporting you to a land of sunset and white

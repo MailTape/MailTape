@@ -6,7 +6,6 @@ illustrator: Camille Célestin
 writer: Jules
 guest_name: Skinshape
 guest_color: dreamy
-episode_URL: http://mailta.pe/353/skinshape/
 guestPic: guestPic353.jpg
 image: https://www.mailta.pe/img/fbPic353new.png
 musiColor: musiColor353.png

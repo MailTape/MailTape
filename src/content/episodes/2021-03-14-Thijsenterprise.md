@@ -9,7 +9,6 @@ guest_color: vibrant
 guestPic: guestPic442.jpg
 image: https://www.mailta.pe/img/fbPic442.png
 musiColor: musiColor442.png
-episode_URL: http://mailta.pe/442/Thijsenterprise/
 description: We are delighted to welcome Thijsenterprise to MailTape for a
   Sunday morning selection of tracks that explore non-traditional structures,
   each inspirations to Thijsenterprise in his life and projects.

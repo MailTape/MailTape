@@ -4,7 +4,6 @@ author: Louise
 guest_color: dreamy
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
-episode_URL: http://mailta.pe/163/Fragments/
 guest_name: Fragments
 guestPic: guestPic163.jpg
 musiColor: musiColor163.png

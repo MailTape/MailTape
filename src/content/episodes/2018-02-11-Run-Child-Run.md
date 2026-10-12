@@ -7,7 +7,6 @@ writer: PS KY
 guest_name: Run Child Run
 guest_color: vibrant
 guestPic: guestPic299.jpg
-episode_URL: https://www.mailta.pe/299/run-child-run/
 image: https://www.mailta.pe/img/fbPic299.png
 musiColor: musiColor299.png
 description: This morning, our guest Run Child Run has blessed us with a

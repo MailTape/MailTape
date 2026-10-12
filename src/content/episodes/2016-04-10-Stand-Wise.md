@@ -6,7 +6,6 @@ guest_name: Stand Wise
 guest_color: vibrant
 bigTitle_font_ratio: "6"
 guestPic: guestPic212.jpg
-episode_URL: http://mailta.pe/212/Stand-Wise/
 image: https://www.mailta.pe/img/fbPic212.jpg
 musiColor: musiColor212.png
 description: This morning, let us keep you on the edge of new talent discovery

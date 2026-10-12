@@ -6,7 +6,6 @@ illustrator: Camille Célestin
 writer: Jules
 guest_name: Philémon Cimon
 guest_color: vibrant
-episode_URL: https://www.mailta.pe/396/philemon-cimon/
 image: https://www.mailta.pe/img/fbPic396.png
 musiColor: musiColor396.png
 guestPic: guestPic396.jpg

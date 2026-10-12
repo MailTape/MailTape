@@ -6,7 +6,6 @@ illustrator: Pierre-Julien Fieux
 writer: Charlotte
 guest_name: Fragrance.
 guest_color: dreamy
-episode_URL: https://www.mailta.pe/318/fragrance/
 description: "This morning we welcome Fragrance., Matthieu Roche’s solo project
   for a Sunday morning between the coast of Saint Malo and somewhere in the
   infinite space.  Quite ambiguous, Fragrance.’s synth pop songs oscillate

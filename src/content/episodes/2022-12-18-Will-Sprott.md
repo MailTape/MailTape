@@ -3,7 +3,6 @@ bigTitle_font_ratio: "6"
 published: true
 guestPic: guestPic510.jpg
 image: https://www.mailta.pe/img/fbPic510.png
-episode_URL: http://mailta.pe/510/Will-Sprott/
 musiColor: musiColor510.png
 author: Sarah
 illustrator: Camille Célestin

@@ -7,7 +7,6 @@ illustrator: Thibault Daumain
 author: ImaCrea
 guest_color: vibrant
 guestPic: guestPic466.jpg
-episode_URL: https://www.mailta.pe/466/Ecran-Total/
 description: This morning, please welcome Camille & Margaux from Écran Total.
   With their first album, Schaerbeek Love, they share with us this gentle vibe
   so particular in the early days following the meeting of two spirits. Innocent

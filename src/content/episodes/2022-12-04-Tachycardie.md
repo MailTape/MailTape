@@ -7,7 +7,6 @@ writer: Anaïs G
 guest_name: Tachycardie
 guestPic: guestPic508.jpg
 guest_color: trippy
-episode_URL: http://mailta.pe/508/tachycardie/
 image: https://www.mailta.pe/img/fbPic508.png
 musiColor: musiColor508.png
 description: This morning, we explore, we dematerialize, we deconstruct the

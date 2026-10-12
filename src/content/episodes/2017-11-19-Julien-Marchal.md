@@ -6,7 +6,6 @@ illustrator: Anais Caura
 writer: Siddhartha
 guest_name: Julien Marchal
 guest_color: dreamy
-episode_URL: https://www.mailta.pe/287/julien-marchal/
 guestPic: guestPic287.jpg
 description: "Our artist of the week, Julien Marchal, has something unique to
   share. A contemporary pianist and composer from Bordeaux, France. His

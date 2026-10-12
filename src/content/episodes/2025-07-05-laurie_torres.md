@@ -14,7 +14,6 @@ description: This morning, I'm excited to share a blissful and uplifting episode
   for me as I embraced the last spring season, and I hope today's MailTape will
   lead you to great discoveries that will enrich the soundtrack of your summer.
   So, let’s be excellent to each other and enjoy the journey!
-episode_URL: https://www.mailta.pe/587/laurie-torres/
 image: https://www.mailta.pe/img/fbPic587.png
 musiColor: musicolor587.png
 track1:

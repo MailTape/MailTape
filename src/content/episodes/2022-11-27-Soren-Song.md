@@ -7,7 +7,6 @@ illustrator: Meriam Kharbat
 author: Sarah
 writer: Sarah
 guestPic: guestPic507.jpg
-episode_URL: http://mailta.pe/507/Soren-Song/
 image: https://www.mailta.pe/img/fbPic507.png
 description: With lots of love, this morning we welcome Soren Song to MailTape.
   Based in Woodstock, NY, their work is brimming with striking descriptions and

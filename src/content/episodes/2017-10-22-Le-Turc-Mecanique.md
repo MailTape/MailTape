@@ -7,7 +7,6 @@ writer: Inès
 guest_name: Le Turc Mécanique
 guest_color: rough
 guestPic: guestPic283.jpg
-episode_URL: https://www.mailta.pe/283/le-turc-mecanique
 image: https://www.mailta.pe/img/fbPic283.png
 musiColor: musiColor283.png
 description: This morning, take some time to listen to Le Turc Mécanique’s

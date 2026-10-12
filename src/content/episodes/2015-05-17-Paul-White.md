@@ -6,7 +6,6 @@ bigTitle_font_ratio: "5"
 bigTitle_line_ratio: "0.6"
 guest_name: Paul White
 guestPic: guestPic186.jpg
-episode_URL: http://mailta.pe/186/Paul-White/
 image: https://www.mailta.pe/img/fbPic186.jpg
 musiColor: musiColor186.png
 description: This morning, enjoy a selection filled with great positive vibes.

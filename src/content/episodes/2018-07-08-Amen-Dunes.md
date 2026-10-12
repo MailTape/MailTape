@@ -6,7 +6,6 @@ illustrator: Pierre-Julien Fieux
 writer: Charlotte
 guest_name: Amen Dunes
 guest_color: vibrant
-episode_URL: https://www.mailta.pe/320/amen-dunes/
 description: "For this last MailTape before our summer break, we welcome Damon
   McMahan, songwriter and New York-based founder of Amen Dunes.  In 2006, he
   locked himself in an isolated trailer and within a month, recorded his first
