@@ -4,7 +4,7 @@ pubDate: 2026-10-11
 release: 616
 guest_name: 'MP3 Nostalgia #2'
 guest_color: dreamy
-guestPic: /img//img/mp3_2.jpg
+guestPic: /img/mp3_2.jpg
 author: Ling
 illustrator: Noémie Dijon
 writer: Ling
