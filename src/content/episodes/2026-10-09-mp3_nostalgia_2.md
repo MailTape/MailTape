@@ -1,14 +1,13 @@
 ---
 published: true
 pubDate: 2026-10-11
-guest_name: "MP3 Nostalgia #2"
+release: 616
+guest_name: 'MP3 Nostalgia #2'
 guest_color: dreamy
-guestPic: mp3_2.jpg
+guestPic: /img/mp3_2.jpg
 author: Ling
 illustrator: Noémie Dijon
 writer: Ling
-description: ""
-musiColor: screenshot_2026-10-11_at_00.02.58.png
 track1:
   title: John Adams - The Chairman Dances (Foxtrot for Orchestra)
   color: vibrant
@@ -37,8 +36,12 @@ track7:
   title: Dakota Suite - All Your Hopes Gone Cold
   color: dreamy
   link: https://sounds.mailta.pe/616/track7.mp3
-release: 616
+description: At Mailtape, we sometimes assume we're a bit old-fashioned, from the generation of Walkmans, those from the 90s, into which we'd put old cassettes, sometimes recorded ourselves. Then came portable CD...
+image: ''
+musiColor: screenshot_2026-10-11_at_00.02.58.png
+alignY: ''
 ---
+
 At Mailtape, we sometimes assume we're a bit old-fashioned, from the generation of Walkmans, those from the 90s, into which we'd put old cassettes, sometimes recorded ourselves. Then came portable CD players (with scratched CDs and those that skipped some parts), and then the first MP3 players. Since then, it's been a musical orgy. But some of us have kept the spirit of the MP3 player: carefully collecting fabulous tracks, downloading them, and listening to them on our little device, in various contexts, often intimate.
 
 Some of these tracks have stood the test of time. They're still there, stuck in the player, unable to escape, because they're too tasty, too precious, too essential... You can't imagine the joy we feel in bringing them out of obscurity and sharing some of them with you! This is MP3 Nostalgia!
