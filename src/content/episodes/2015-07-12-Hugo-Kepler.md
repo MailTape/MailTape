@@ -4,9 +4,9 @@ author: ImaCrea
 guest_color: dreamy
 bigTitle_font_ratio: "6"
 guest_name: Hugo Kepler
-guestPic: /img/guestPic194.jpg
-image: /img/fbPic194.jpg
-musiColor: /img/musiColor194.png
+guestPic: /img/guestpic194.jpg
+image: /img/fbpic194.jpg
+musiColor: /img/musicolor194.png
 description: "This morning, be prepared for a shower of heart throbbing words
   and melodies that will pull your soul away from any puddles of sorrow. Hugo
   Kepler chooses simplicity, transporting you to a land of sunset and white

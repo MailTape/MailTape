@@ -5,9 +5,9 @@ guest_color: trippy
 bigTitle_font_ratio: "8"
 bigTitle_line_ratio: "1"
 guest_name: Grandbrothers
-guestPic: /img/guestPic146.jpg
-musiColor: /img/musiColor146.png
-image: /img/fbPic146.jpg
+guestPic: /img/guestpic146.jpg
+musiColor: /img/musicolor146.png
+image: /img/fbpic146.jpg
 description: "This morning, two special guests invite you to their universe.
   Please enter the world of the duo Grandbrothers. "
 pubDate: 2014-06-22

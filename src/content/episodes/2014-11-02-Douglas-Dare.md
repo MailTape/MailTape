@@ -5,9 +5,9 @@ guest_color: bliss
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
 guest_name: Douglas Dare
-guestPic: /img/guestPic158.jpg
-image: /img/fbPic158.jpg
-musiColor: /img/musiColor158.png
+guestPic: /img/guestpic158.jpg
+image: /img/fbpic158.jpg
+musiColor: /img/musicolor158.png
 description: This morning, discover Douglas Dare. Douglas Dare grew up in the
   small coastal town of Bridport in South West England. Encouraged by his
   mother, a piano teacher, he began composing music at a very young age. He

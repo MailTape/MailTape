@@ -6,9 +6,9 @@ illustrator: Anthony Dujardin
 writer: Sanjay Mistry
 guest_name: Les Graciés
 guest_color: trippy
-guestPic: /img/guestPic319.jpg
-musiColor: /img/musiColor319.png
-image: /img/fbPic319.jpg
+guestPic: /img/guestpic319.jpg
+musiColor: /img/musicolor319.png
+image: /img/fbpic319.jpg
 description: This morning we welcome the lyrical and funky Sunday morning
   selections of Les Graciés—a French-American tandem of a brother and a sister
   in sound, an evident and karmic encounter of free spirit music makers in full

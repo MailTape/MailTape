@@ -6,14 +6,14 @@ illustrator: Anais Caura
 writer: Inès
 guest_name: Johnny Hawaii
 guest_color: bliss
-guestPic: /img/guestPic256.jpg
+guestPic: /img/guestpic256.jpg
 description: "This morning, let's all stay in a hazy state thanks to Johnny
   Hawaii’s trippy selection. Johnny Hawaii's psychedelic surf tracks are amazing
   soundtracks for Sundays: long, slow, and dreamy, just what is needed to wrap
   up the week beautifully. So stay still, close your eyes, don't turn on the
   lights. Take this episode as being an excuse to do nothing for some time."
-image: /img/fbPic256.png
-musiColor: /img/musiColor256.png
+image: /img/fbpic256.png
+musiColor: /img/musicolor256.png
 pubDate: 2017-04-16
 track1:
   title: Matthewdavid - Mindflight 1

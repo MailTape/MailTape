@@ -6,9 +6,9 @@ illustrator: Jason Pridham
 guest_name: Sorcha Richardson
 guest_color: vibrant
 writer: Sarah
-guestPic: /img/guestPic429.jpg
-image: /img/fbPic429.png
-musiColor: /img/musiColor429.png
+guestPic: /img/guestpic429.jpg
+image: /img/fbpic429.png
+musiColor: /img/musicolor429.png
 description: This morning, we wanted to give you plenty to daydream about. What
   else are Sundays for? Sorcha Richardson joins us with a varied and thoughtful
   selection to steady you for any kind of week that may lay ahead.

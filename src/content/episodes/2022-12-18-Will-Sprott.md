@@ -1,9 +1,9 @@
 ---
 bigTitle_font_ratio: "6"
 published: true
-guestPic: /img/guestPic510.jpg
-image: /img/fbPic510.png
-musiColor: /img/musiColor510.png
+guestPic: /img/guestpic510.jpg
+image: /img/fbpic510.png
+musiColor: /img/musicolor510.png
 author: Sarah
 illustrator: Camille Célestin
 writer: Sarah

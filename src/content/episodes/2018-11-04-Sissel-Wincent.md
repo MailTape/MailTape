@@ -8,9 +8,9 @@ guest_name: Sissel Wincent
 guest_color: trippy
 description: This morning we are delighted to welcome Stockholm-based electronic
   producer, Sissel Wincent, to MailTape.
-musiColor: /img/musiColor330.png
-guestPic: /img/guestPic330.jpg
-image: /img/fbPic330.jpg
+musiColor: /img/musicolor330.png
+guestPic: /img/guestpic330.jpg
+image: /img/fbpic330.jpg
 pubDate: 2018-11-04
 track1:
   title: Ploy – =O

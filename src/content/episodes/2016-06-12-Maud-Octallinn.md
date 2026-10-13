@@ -6,9 +6,9 @@ illustrator: Camille Célestin
 writer: Maxime
 guest_name: Maud Octallinn
 guest_color: dreamy
-guestPic: /img/guestPic221.jpg
-musiColor: /img/musiColor221.png
-image: /img/fbPic221.jpg
+guestPic: /img/guestpic221.jpg
+musiColor: /img/musicolor221.png
+image: /img/fbpic221.jpg
 description: This morning, I introduce you to Maud Octallinn, a french psych-pop singer.
 pubDate: 2016-06-12
 track1:

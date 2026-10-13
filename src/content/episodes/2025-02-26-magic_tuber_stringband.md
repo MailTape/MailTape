@@ -13,7 +13,7 @@ description: We're back ! This morning, we're absolutely delighted to welcome
   re-enchanting these practices with unexpected noise and experimental textures.
   Magic Tuber Stringband members Evan Morgan, Mike DeVito, and Courtney Werner
   join us following the release of their latest album, Needlefall.
-image: /img/fbPic578.jpg
+image: /img/fbpic578.jpg
 musiColor: /img/musicolor578.png
 track1:
   title: Latin Playboys - Mustard

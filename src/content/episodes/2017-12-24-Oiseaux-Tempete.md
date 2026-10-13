@@ -6,9 +6,9 @@ illustrator: Camille Célestin
 writer: Sanjay Mistry
 guest_name: Oiseaux-Tempête
 guest_color: dreamy
-guestPic: /img/guestPic292.jpg
-image: /img/fbPic292.jpg
-musiColor: /img/musiColor292.png
+guestPic: /img/guestpic292.jpg
+image: /img/fbpic292.jpg
+musiColor: /img/musicolor292.png
 description: This morning we attempt to provide you with a soundtrack to the
   water crystallising under freezing temperatures by welcoming the Paris-based
   collective, Oiseaux-Tempête, to MailTape.

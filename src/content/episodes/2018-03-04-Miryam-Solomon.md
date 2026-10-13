@@ -6,13 +6,13 @@ illustrator: Pierre-Julien Fieux
 writer: Sanjay Mistry
 guest_name: Miryam Solomon
 guest_color: bliss
-guestPic: /img/guestPic302.jpg
+guestPic: /img/guestpic302.jpg
 description: By way of Sweden and Eritrea we welcome London-based
   singer/songwriter, Miryam Solomon, who joins us to provide an eclectic Sunday
   morning playlist that promises, with any luck, to accompany our sapling-like
   emergence from the extended winter.
-image: /img/fbPic302.jpg
-musiColor: /img/musiColor302.png
+image: /img/fbpic302.jpg
+musiColor: /img/musicolor302.png
 pubDate: 2018-03-04
 track1:
   title: Grand Puba – I Like It

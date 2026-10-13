@@ -10,7 +10,7 @@ description: We are full of joy to welcome musician, spoken-word artist, and
   dear guest Joshua Idehen to MailTape this morning ! Based in Stockholm, he
   gifts us today with a Sunday selection crafted with care -- just the right mix
   to start the day with some dancing ;)
-image: /img/fbPic598.png
+image: /img/fbpic598.png
 musiColor: /img/musicolor598.png
 track1:
   title: Julio Bashmore, Sam Dew - Holding On

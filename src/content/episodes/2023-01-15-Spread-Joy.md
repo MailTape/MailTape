@@ -6,13 +6,13 @@ illustrator: Meriam Kharbat
 writer: Inès
 guest_name: Spread Joy
 guest_color: rough
-guestPic: /img/guestPic513.png
-musiColor: /img/musiColor513.png
+guestPic: /img/guestpic513.png
+musiColor: /img/musicolor513.png
 description: This morning, please welcome Spread Joy! Post-punk band Spread Joy
   makes fast-paced, rythmically changing songs that make you want to run or
   dance or jump or maybe all of it together? In this episode, we are going
   through a bit of a rollercoaster for an episode full of life.
-image: /img/fbPic_513.jpeg
+image: /img/fbpic_513.jpeg
 pubDate: 2023-01-15
 track1:
   title: "Marlene Dietrich - I've Been in Love Before "

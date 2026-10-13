@@ -1,14 +1,14 @@
 ---
 bigTitle_font_ratio: "6"
-guestPic: /img/guestPic387.jpg
+guestPic: /img/guestpic387.jpg
 guest_color: trippy
 guest_name: Bobun Fever
 writer: Anaïs G
 illustrator: Pierre-Julien Fieux
 author: Anaïs G
 published: true
-image: /img/fbPic387.png
-musiColor: /img/musiColor387.png
+image: /img/fbpic387.png
+musiColor: /img/musicolor387.png
 description: This morning, we are optimistic, it is a new year full of hope and
   discovery. It's one of the MailTape crew's promises, more music, always with
   the desire to share new bands, and to love your Sunday morning. To honour the

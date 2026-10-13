@@ -6,8 +6,8 @@ illustrator: Jason Pridham
 writer: Sarah
 guest_name: Janko Nilovic
 guest_color: vibrant
-image: /img/fbPic467.png
-guestPic: /img/guestPic467.jpg
+image: /img/fbpic467.png
+guestPic: /img/guestpic467.jpg
 description: "This morning, we are wading through worlds of color, shrouded on
   all sides by an entire kaleidescope of sound. To craft this experience, we are
   beyond thrilled to welcome composer and multi-instrumentalist Janko Nilović to
@@ -16,7 +16,7 @@ description: "This morning, we are wading through worlds of color, shrouded on
   beloved arrangements. In addition to commissions for classical compositions,
   Janko is frequently sampled by hip hop, rap, and rhythm and blues artists
   (including Jay-Z and Dr Dre). "
-musiColor: /img/musiColor467.png
+musiColor: /img/musicolor467.png
 pubDate: 2021-10-23
 track1:
   title: Steely Dan - Do It Again

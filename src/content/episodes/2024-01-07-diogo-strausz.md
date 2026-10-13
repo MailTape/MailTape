@@ -6,7 +6,7 @@ writer: Jules
 guest_name: Diogo Strausz
 guest_color: trippy
 illustrator: Camille Lemeunier
-musiColor: /img/musiColor542.png
+musiColor: /img/musicolor542.png
 description: This morning, as I opened my eyes in bed and let my gaze glide
   across the ceiling of my bedroom, it seemed to me that something was missing.
   Was it a little warmth, a few rays of sunshine to pierce the grey winter sky?
@@ -22,8 +22,8 @@ description: This morning, as I opened my eyes in bed and let my gaze glide
   to be taken on a journey through a kaleidoscopic soundscape, between São
   Paulo, Paris and many other fantastic lands, between retro and neo, always
   with a sunny groove.
-guestPic: /img/guestPic542.jpeg
-image: /img/fbPic542.png
+guestPic: /img/guestpic542.jpeg
+image: /img/fbpic542.png
 pubDate: 2024-01-07
 track1:
   title: The Beatles - Here Comes The Sun

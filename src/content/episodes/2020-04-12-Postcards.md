@@ -1,8 +1,8 @@
 ---
-musiColor: /img/musiColor401.png
-image: /img/fbPic401.png
+musiColor: /img/musicolor401.png
+image: /img/fbpic401.png
 bigTitle_font_ratio: "6"
-guestPic: /img/guestPic401.jpg
+guestPic: /img/guestpic401.jpg
 guest_color: vibrant
 guest_name: Postcards
 writer: Anaïs G

@@ -6,15 +6,15 @@ illustrator: Anais Caura
 writer: Siddhartha
 guest_name: Julien Marchal
 guest_color: dreamy
-guestPic: /img/guestPic287.jpg
+guestPic: /img/guestpic287.jpg
 description: "Our artist of the week, Julien Marchal, has something unique to
   share. A contemporary pianist and composer from Bordeaux, France. His
   contemplative and minimalist pieces seem to be an invocation of the classical
   art. Melancholic and yet uplifting, here’s an artist whose harmony will lend
   you the peace of mind you so deserve as you touch upon on the world of modern
   classical. "
-image: /img/fbPic287.png
-musiColor: /img/musiColor287.png
+image: /img/fbpic287.png
+musiColor: /img/musicolor287.png
 pubDate: 2017-11-19
 track1:
   title: Novo Amor & Ed Tullett - Faux

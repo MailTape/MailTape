@@ -6,12 +6,12 @@ illustrator: Camille Célestin
 writer: Inès
 guest_name: Jerry Paper
 guest_color: trippy
-guestPic: /img/guestPic327.jpg
+guestPic: /img/guestpic327.jpg
 description: "This morning, please welcome Jerry Paper's eclectic selection. His
   music is multi-faceted. It's witty and stays graceful at all times. Are you
   ready to enter Jerry Paper’s musical multiverse? "
-image: /img/fbPic327.png
-musiColor: /img/musiColor327.png
+image: /img/fbpic327.png
+musiColor: /img/musicolor327.png
 pubDate: 2018-10-14
 track1:
   title: Matty - Every Moment I Live to Come

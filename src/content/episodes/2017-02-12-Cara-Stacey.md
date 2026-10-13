@@ -6,9 +6,9 @@ illustrator: Isabelle Escande
 writer: Daisy
 guest_name: Cara Stacey
 guest_color: dreamy
-guestPic: /img/guestPic247.jpg
-image: /img/fbPic247.jpg
-musiColor: /img/musiColor247.png
+guestPic: /img/guestpic247.jpg
+image: /img/fbpic247.jpg
+musiColor: /img/musicolor247.png
 description: This morning, let your curiosity about the world and all its
   corners run wild, with an intriguing selection from our guest Cara Stacey -
   composer, researcher, improviser and multi-instrumentalist.

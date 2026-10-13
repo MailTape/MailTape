@@ -6,10 +6,10 @@ author: Manon
 illustrator: William Girault
 writer: Manon
 guest_color: dreamy
-guestPic: /img/guestPic331.jpg
+guestPic: /img/guestpic331.jpg
 description: This morning, we are delighted to welcome Muddy Monk to Mailtape.
-image: /img/fbPic331.png
-musiColor: /img/musiColor331.png
+image: /img/fbpic331.png
+musiColor: /img/musicolor331.png
 pubDate: 2018-11-11
 track1:
   title: De Barjorak - Holy Dirty Intimacy

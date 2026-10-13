@@ -5,9 +5,9 @@ guest_color: bliss
 bigTitle_font_ratio: "7"
 bigTitle_line_ratio: "1"
 guest_name: Project Pablo
-guestPic: /img/guestPic188.jpg
-image: /img/fbPic188.jpg
-musiColor: /img/musiColor188.png
+guestPic: /img/guestpic188.jpg
+image: /img/fbpic188.jpg
+musiColor: /img/musicolor188.png
 description: This morning, we’ve got the pleasure to welcome Project Pablo as a
   special guest for A tribute to the House Music of the beginning of the 90s !
   As an eighties and nineties’s House Music lover, it was a great surprise to

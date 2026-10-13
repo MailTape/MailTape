@@ -8,7 +8,7 @@ author: Manon
 illustrator: William Girault
 guestPic: /img/guestpic303.jpg
 image: /img/fbpic303.png
-musiColor: /img/musiColor303.png
+musiColor: /img/musicolor303.png
 description: This morning in our new episode, we enter into the world of
   movies.  And to guide us in our journey, I’m delighted to have Calypso Valois
   as our guest.

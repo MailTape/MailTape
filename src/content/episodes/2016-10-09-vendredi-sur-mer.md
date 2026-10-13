@@ -6,9 +6,9 @@ illustrator: Pierre-Julien Fieux
 writer: Maxime
 guest_name: Vendredi Sur Mer
 guest_color: dreamy
-guestPic: /img/guestPic229.jpg
-image: /img/fbPic229.jpg
-musiColor: /img/musiColor229.png
+guestPic: /img/guestpic229.jpg
+image: /img/fbpic229.jpg
+musiColor: /img/musicolor229.png
 description: This morning, we're not far away from next week's shores. So, it's
   the perfect moment to chill, discover and adopt the seaside musical atmosphere
   of Vendredi Sur Mer. Where pop and psychedelism make a unexpected melt.

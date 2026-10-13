@@ -6,8 +6,8 @@ illustrator: Noémie Dijon
 writer: Sarah
 guest_name: Raw Poetic
 guest_color: dreamy
-image: /img/fbPic485.png
-guestPic: /img/guestPic485.jpg
+image: /img/fbpic485.png
+guestPic: /img/guestpic485.jpg
 description: "This morning, we're ringing in the day with some smooth sunshine
   tracks, introduced by our dear guest, Raw Poetic. The project of Jason Moore,
   Raw Poetic's music dips into treadings of hip hop, jazz, folk, and soul.
@@ -15,7 +15,7 @@ description: "This morning, we're ringing in the day with some smooth sunshine
   it sounds like.\" His production style follows this free form and flowing
   process, where the end result is not hindered by any certain categorical
   distinction. "
-musiColor: /img/musiColor485.png
+musiColor: /img/musicolor485.png
 pubDate: 2022-03-13
 track1:
   title: The Bongo Band - Apache

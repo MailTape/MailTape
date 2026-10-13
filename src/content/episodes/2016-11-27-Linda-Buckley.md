@@ -6,9 +6,9 @@ illustrator: Aoife Comey
 writer: Daisy
 guest_name: Linda Buckley
 guest_color: dreamy
-guestPic: /img/guestPic236.jpg
-image: /img/fbPic236.jpg
-musiColor: /img/musiColor236.png
+guestPic: /img/guestpic236.jpg
+image: /img/fbpic236.jpg
+musiColor: /img/musicolor236.png
 description: This morning, let yourself be cocooned in the beautiful strands of
   sound woven together by our guest, Linda Buckley. Resist the day for just a
   few minutes longer, as your consciousness oscillates with the ebb and flow of

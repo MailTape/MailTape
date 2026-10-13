@@ -9,9 +9,9 @@ guest_color: dreamy
 description: In this final episode of 2018, we are delighted to welcome
   Rotterdam-based DJ and electronic producer Nadia Struiwigh as she picks three
   meditative Sunday morning tunes.
-image: /img/fbPic338.jpg
-guestPic: /img/guestPic338.jpg
-musiColor: /img/musiColor338.png
+image: /img/fbpic338.jpg
+guestPic: /img/guestpic338.jpg
+musiColor: /img/musicolor338.png
 pubDate: 2018-12-30
 track1:
   title: West Dylan Thordson – Meeting the Others

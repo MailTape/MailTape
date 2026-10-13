@@ -5,9 +5,9 @@ guest_color: trippy
 bigTitle_font_ratio: "9"
 bigTitle_line_ratio: "1"
 guest_name: Mammal Hands
-guestPic: /img/guestPic159.jpg
-image: /img/fbPic159.jpg
-musiColor: /img/musiColor159.png
+guestPic: /img/guestpic159.jpg
+image: /img/fbpic159.jpg
+musiColor: /img/musicolor159.png
 description: This Morning, we will communicate with something truly
   inspirational; a band whose music can be best described as novelty; a trio who
   are known for their distinctive compositions, and sounds that elicit feelings

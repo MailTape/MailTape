@@ -5,9 +5,9 @@ author: Anaïs G
 illustrator: Jason Pridham
 guest_name: Sarah Maison
 guest_color: vibrant
-guestPic: /img/guestPic443.jpg
-image: /img/fbPic443.png
-musiColor: /img/musiColor443.png
+guestPic: /img/guestpic443.jpg
+image: /img/fbpic443.png
+musiColor: /img/musicolor443.png
 description: This morning, we leave in the sun with a one-way trip to the
   Eastern countries. The beauty of language, culture and scenery... In this
   episode, Sarah Maison will bring back some sunshine to our homes and

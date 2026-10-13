@@ -13,9 +13,9 @@ description: This morning, we are delighted to welcome Operator Music Band, an
   will perceive a deep love for analogue synths, an interesting sense of humor,
   a vocal and instrumental surgical precision, no matter if you suck at
   mathematics.
-guestPic: /img/GuestPic316ok.jpg
-musiColor: /img/musiColor316.png
-image: /img/fbPic316.png
+guestPic: /img/guestpic316ok.jpg
+musiColor: /img/musicolor316.png
+image: /img/fbpic316.png
 pubDate: 2018-06-10
 track1:
   title: Here We Go Magic - Over the Ocean

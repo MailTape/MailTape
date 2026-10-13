@@ -5,9 +5,9 @@ guest_color: dreamy
 bigTitle_font_ratio: "8"
 bigTitle_line_ratio: "1"
 guest_name: Arms and Sleepers
-guestPic: /img/guestPic156.jpg
-image: /img/fbPic156.jpg
-musiColor: /img/musiColor156.png
+guestPic: /img/guestpic156.jpg
+image: /img/fbpic156.jpg
+musiColor: /img/musicolor156.png
 description: A time when we were all one and free,  and we stood, with our hands
   in hands with a blue sky on top and countless shades of trees.   Let’s unite
   with our this week’s special and let music speak for us, for it has in it a

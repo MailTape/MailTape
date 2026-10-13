@@ -6,15 +6,15 @@ writer: Sarah
 author: Sarah
 guest_name: The Lazy Eyes
 guest_color: trippy
-guestPic: /img/guestPic495.jpg
-image: /img/fbPic495.png
+guestPic: /img/guestpic495.jpg
+image: /img/fbpic495.png
 description: "This morning, we're delighted to welcome The Lazy Eyes to MailTape
   for a Sunday selection of smooth moving tracks. Based in Sydney, the
   psychedelic rock group features Harvey Geraghty on vocals, guitar, and
   keyboard; Italy Sasha on vocals and guitar; Leon Karagic on bass; and Noah
   Martin on drums. The band joins us following the release of their 2022 debut
   album SongBook, a world warp of smooth and experimental psychedelic grooves. "
-musiColor: /img/musiColor495.png
+musiColor: /img/musicolor495.png
 pubDate: 2022-05-29
 track1:
   title: Grandaddy - The Crystal Lake

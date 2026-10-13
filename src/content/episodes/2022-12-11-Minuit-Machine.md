@@ -6,13 +6,13 @@ illustrator: Noémie
 writer: ImaCrea
 guest_name: Minuit Machine
 guest_color: rough
-guestPic: /img/guestPic509.png
+guestPic: /img/guestpic509.png
 description: This morning, we're not letting winter take our energy. It's cold
   but our hearts are warmer than ever. And with Minuit Machine as our guests,
   prepare for a journey through a selection of energetic and cathartic tracks.
   Open, open, open, make a big O and keep searching.
-musiColor: /img/musiColor509.png
-image: /img/fbPic509.png
+musiColor: /img/musicolor509.png
+image: /img/fbpic509.png
 pubDate: 2022-12-11
 track1:
   title: Doppelhandel - Billy

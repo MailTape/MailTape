@@ -1,8 +1,8 @@
 ---
-musiColor: /img/musiColor416.png
-image: /img/fbPic416.png
+musiColor: /img/musicolor416.png
+image: /img/fbpic416.png
 bigTitle_font_ratio: "6"
-guestPic: /img/guestPic416.jpg
+guestPic: /img/guestpic416.jpg
 guest_color: trippy
 guest_name: Dombrance
 illustrator: Jason Pridham

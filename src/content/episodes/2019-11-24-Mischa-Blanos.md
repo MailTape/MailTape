@@ -6,12 +6,12 @@ illustrator: Pierre-Julien Fieux
 writer: Daisy
 guest_name: Mischa Blanos
 guest_color: dreamy
-guestPic: /img/guestPic381.jpg
+guestPic: /img/guestpic381.jpg
 description: This morning there's no rush to decide which side of consciousness
   you're on. Pianist, composer and producer Mischa Blanos is here to be your
   weightless anchor between states and realities.
-image: /img/fbPic381.png
-musiColor: /img/musiColor381.png
+image: /img/fbpic381.png
+musiColor: /img/musicolor381.png
 pubDate: 2019-11-24
 track1:
   title: Toshio Matsuura Group - Change

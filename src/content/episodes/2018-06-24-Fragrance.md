@@ -13,9 +13,9 @@ description: "This morning we welcome Fragrance., Matthieu Roche’s solo projec
   Freed From Desire) and lo-fi music, in the same way that his melancholic voice
   and dancing beats are mixed: you never really know how you should feel when
   you listen them."
-guestPic: /img/guestPic318okok.jpg
-musiColor: /img/musiColor318.png
-image: /img/fbPic318.jpg
+guestPic: /img/guestpic318okok.jpg
+musiColor: /img/musicolor318.png
+image: /img/fbpic318.jpg
 pubDate: 2018-06-24
 track1:
   title: Galatée - Ne Sois Pas Triste

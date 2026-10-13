@@ -5,8 +5,8 @@ author: Anaïs G
 illustrator: Patricia Barros De Miranda
 writer: Anaïs G
 guest_name: Grand Public
-guestPic: /img/guestPic527.jpg
-image: /img/fbPic527.png
+guestPic: /img/guestpic527.jpg
+image: /img/fbpic527.png
 musiColor: /img/musicolor527.png
 description: 'This morning, We take advantage of this month of May to breathe,
   relax and take advantage of the many public holidays to get away with it. One

@@ -6,12 +6,12 @@ illustrator: Pierre-Julien Fieux
 writer: Sanjay Mistry
 guest_name: Sibusile Xaba
 guest_color: bliss
-guestPic: /img/guestPic275.jpg
+guestPic: /img/guestpic275.jpg
 description: This morning I'm super excited to present the Sunday morning
   jukebox of Pretoria-based guitarist and generally beautiful human being,
   Sibusile Xaba, chosen especially for MailTape.
-musiColor: /img/musiColor275.png
-image: /img/fbPic275.jpg
+musiColor: /img/musicolor275.png
+image: /img/fbpic275.jpg
 pubDate: 2017-08-27
 track1:
   title: Nono Nkoane — Nomad

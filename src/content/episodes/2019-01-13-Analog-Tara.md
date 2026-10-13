@@ -6,12 +6,12 @@ illustrator: Anthony Dujardin
 writer: Sanjay Mistry
 guest_name: Analog Tara
 guest_color: vibrant
-guestPic: /img/guestPic340.jpg
+guestPic: /img/guestpic340.jpg
 description: This morning we are delighted to welcome multi-instrumentalist
   composer and historian of electronic music and sound, Dr. Tara Rodgers (Analog
   Tara)
-musiColor: /img/musiColor340.png
-image: /img/fbPic340.jpg
+musiColor: /img/musicolor340.png
+image: /img/fbpic340.jpg
 pubDate: 2019-01-13
 track1:
   title: "Sarah Vaughan – Autumn Leaves "

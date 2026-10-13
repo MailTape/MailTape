@@ -5,9 +5,9 @@ guest_color: dreamy
 author: Inès
 illustrator: Pierre-Julien Fieux
 guest_name: infinite bisous
-guestPic: /img/guestPic245.jpg
-musiColor: /img/musiColor245.png
-image: /img/fbPic245.png
+guestPic: /img/guestpic245.jpg
+musiColor: /img/musicolor245.png
+image: /img/fbpic245.png
 description: This morning, take the time to slowly wake up with Infinite Bisous'
   selection. Stay a little bit longer in bed and enjoy a blissful journey
   through delicate, warm and dreamy sounds. There is no need to get out of bed

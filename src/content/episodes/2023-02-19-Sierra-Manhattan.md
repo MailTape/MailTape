@@ -5,9 +5,9 @@ author: Anaïs G
 illustrator: Meriam Kharbat
 guest_name: Sierra Manhattan
 guest_color: bliss
-guestPic: /img/guestPic518.jpg
-image: /img/fbPic518.png
-musiColor: /img/musiColor518.png
+guestPic: /img/guestpic518.jpg
+image: /img/fbpic518.png
+musiColor: /img/musicolor518.png
 description: This morning, you need to rest, to let yourself go to other
   sensations, or to rediscover simple pleasures such as enjoying your loved
   ones, the rays of the sun, bird watching or even feeling the wind in your

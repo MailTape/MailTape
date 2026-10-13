@@ -15,7 +15,7 @@ description: >
   They are taking us on a beautiful trip. 
 
   Let’s dive in.
-image: /img/fbPic576.jpg
+image: /img/fbpic576.jpg
 musiColor: /img/musicolor576.png
 alignY: "0.2"
 track1:

@@ -6,9 +6,9 @@ illustrator: Camille Célestin
 writer: Sanjay Mistry
 guest_name: Siêm Folknomade
 guest_color: bliss
-guestPic: /img/guestPic358.jpg
-image: /img/fbPic358.jpg
-musiColor: /img/musiColor358.png
+guestPic: /img/guestpic358.jpg
+image: /img/fbpic358.jpg
+musiColor: /img/musicolor358.png
 description: This morning we are pleased to welcome a long time MailTape
   listener and Marseille-based vocalist and composer, Siêm Folknomade.
 pubDate: 2019-05-19

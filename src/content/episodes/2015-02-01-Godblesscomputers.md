@@ -5,13 +5,13 @@ guest_color: trippy
 bigTitle_font_ratio: "3"
 bigTitle_line_ratio: "1"
 guest_name: Godbless computers
-guestPic: /img/guestPic171.jpg
-image: /img/fbPic171.jpg
+guestPic: /img/guestpic171.jpg
+image: /img/fbpic171.jpg
 description: We like to think that Lorenzo Nada is a genius who knows how to
   utilize computers to the best of their utility. His sounds are fresh, but
   familiar. For those of you open to versatility, Godblesscomputers is a
   must-listen.
-musiColor: /img/musiColor171.png
+musiColor: /img/musicolor171.png
 pubDate: 2015-02-01
 track1:
   title: Ifan Dafydd - Celwydd (feat. Alys Williams)

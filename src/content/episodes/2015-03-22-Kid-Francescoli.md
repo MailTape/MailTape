@@ -5,9 +5,9 @@ guest_color: vibrant
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
 guest_name: Kid Francescoli
-guestPic: /img/guestPic178.jpg
-image: /img/fbPic178.jpg
-musiColor: /img/musiColor178.png
+guestPic: /img/guestpic178.jpg
+image: /img/fbpic178.jpg
+musiColor: /img/musicolor178.png
 description: This morning, our playlist curated with Kid Francescoli is like a
   perennial river as it is meant to flow round the clock. The first track serves
   as a point of origin. And subsequently, the second track is where the river

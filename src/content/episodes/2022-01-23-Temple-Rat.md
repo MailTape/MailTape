@@ -8,7 +8,7 @@ description: This morning, we cast away the misty, chilly air for a moment, and
 author: Ling
 illustrator: Meriam Kharbat
 writer: Ling
-guestPic: /img/guestPic478.jpg
+guestPic: /img/guestpic478.jpg
 musiColor: /img/""
 pubDate: 2022-01-23
 track1:

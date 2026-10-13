@@ -6,11 +6,11 @@ illustrator: Camille Célestin
 writer: Sanjay Mistry
 guest_name: Loraine James
 guest_color: trippy
-guestPic: /img/guestPic323.jpg
+guestPic: /img/guestpic323.jpg
 description: This week we are delighted to welcome London-based electronic
   musician, Loraine James, who selects some groovy Sunday morning chops for us.
-musiColor: /img/musiColor323.png
-image: /img/fbPic323.jpg
+musiColor: /img/musicolor323.png
+image: /img/fbpic323.jpg
 pubDate: 2018-09-16
 track1:
   title: iLU – It's DOPE!!

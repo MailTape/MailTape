@@ -6,13 +6,13 @@ writer: PS KY
 author: Dimitri
 guest_name: Petit Biscuit
 guest_color: bliss
-guestPic: /img/guestPic224.jpg
-musiColor: /img/musiColor224.png
+guestPic: /img/guestpic224.jpg
+musiColor: /img/musicolor224.png
 description: This morning, we bring you the soundtrack to summer’s daydreams.
   Petit Biscuit is reminiscent of that glimpse of sunlight projected onto your
   favorite building at the end of the day. Something special, a contemplative
   melody powered by the genuine desire to create and share.
-image: /img/fbPic224.jpg
+image: /img/fbpic224.jpg
 pubDate: 2016-07-10
 track1:
   title: Day Wave - Drag

@@ -6,9 +6,9 @@ illustrator: Pierre-Julien Fieux
 guest_name: Nathan Fake
 guest_color: trippy
 writer: ImaCrea
-guestPic: /img/guestPic257.jpg
-image: /img/fbPic257.png
-musiColor: /img/musiColor257.png
+guestPic: /img/guestpic257.jpg
+image: /img/fbpic257.png
+musiColor: /img/musicolor257.png
 description: This morning let's welcome Nathan Fake. He just released a new
   album with our dear folks from Ninja Tune. Known for his innovative and
   smoothly provocative work in electronic music, be prepared to embark on a

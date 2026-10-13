@@ -9,9 +9,9 @@ guest_color: dreamy
 description: This morning we are pleased to welcome saxophonist and composer,
   James Brandon Lewis, to select three church-inspired Sunday morning tunes with
   us.
-guestPic: /img/guestPic360.jpg
-image: /img/fbPic360.jpg
-musiColor: /img/musiColor360.png
+guestPic: /img/guestpic360.jpg
+image: /img/fbpic360.jpg
+musiColor: /img/musicolor360.png
 pubDate: 2019-06-02
 track1:
   title: Ornette Coleman – The Blessing

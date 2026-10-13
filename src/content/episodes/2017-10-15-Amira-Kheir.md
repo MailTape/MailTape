@@ -6,12 +6,12 @@ illustrator: William Girault
 writer: Sanjay Mistry
 guest_name: Amira Kheir
 guest_color: vibrant
-guestPic: /img/guestPic282.jpg
-image: /img/fbPic282.jpg
+guestPic: /img/guestpic282.jpg
+image: /img/fbpic282.jpg
 description: Described by Songlines magazine as ‘bold and poetic… beautiful and
   fearless’, we are delighted to share vocalist Amira Kheir’s Sunday morning
   listening for MailTape.
-musiColor: /img/musiColor282.png
+musiColor: /img/musicolor282.png
 pubDate: 2017-10-15
 track1:
   title: Sarah Vaughan – All of Me

@@ -5,11 +5,11 @@ author: Sanjay Mistry
 illustrator: Anais Caura
 guest_name: Moor Mother
 guest_color: rough
-guestPic: /img/guestPic269.jpg
-musiColor: /img/musiColor269.png
+guestPic: /img/guestpic269.jpg
+musiColor: /img/musicolor269.png
 description: This morning we welcome Philadelphia-based interdisciplinary
   artist, Camae Ayewa (Moor Mother).
-image: /img/fbPic269.jpg
+image: /img/fbpic269.jpg
 pubDate: 2017-07-16
 track1:
   title: Madam Data - Miniature Neurocosmos 28

@@ -5,9 +5,9 @@ writer: ImaCrea
 guest_name: Marabout Orkestra
 guest_color: vibrant
 bigTitle_font_ratio: "6"
-guestPic: /img/guestPic211.jpg
-image: /img/fbPic211.jpg
-musiColor: /img/musiColor211.png
+guestPic: /img/guestpic211.jpg
+image: /img/fbpic211.jpg
+musiColor: /img/musicolor211.png
 description: This morning, we're bringing you a soulful selection made in
   collaboration with Marabout Orkestra. Their afro jazz-funk inspiration is a
   sure bet to get you in a great mood and open your musical horizon.

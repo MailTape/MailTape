@@ -6,9 +6,9 @@ illustrator: Thibault Daumain
 writer: Jules
 guest_name: The Balek Band
 guest_color: trippy
-guestPic: /img/guestPic496.jpeg
-musiColor: /img/musiColor496.png
-image: /img/fbPic496.png
+guestPic: /img/guestpic496.jpeg
+musiColor: /img/musicolor496.png
+image: /img/fbpic496.png
 description: This morning, we are delighted to welcome Nantes-based group The
   Balek Band. Their very first album, Médecines, was freshly released last
   Friday, and they can't wait to share their musical universe with us!

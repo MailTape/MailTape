@@ -10,9 +10,9 @@ description: This morning we are still confined and condemned to look at the sky
   behind our windows. Luckily, Jeffrey Silverstein is here to guide us on a
   peaceful hike in the heart of our inner mountain. Time to lie down, breathe
   slowly, and start drawing the landscapes that will allow you to escape.
-guestPic: /img/guestPic402.jpg
-musiColor: /img/musiColor402.png
-image: /img/fbPic402.png
+guestPic: /img/guestpic402.jpg
+musiColor: /img/musicolor402.png
+image: /img/fbpic402.png
 pubDate: 2020-04-19
 track1:
   title: Ted Lucas - It's So Easy

@@ -14,7 +14,7 @@ description: >-
 
   landscapes. This episode includes tracks that showcase not only artistic
   brilliance but also personal and soulful evocations.
-image: /img/fbPic606.jpg
+image: /img/fbpic606.jpg
 musiColor: /img/musicolor606.png
 track1:
   title: Chemical Brothers & Hope Sandoval - Asleep from Day

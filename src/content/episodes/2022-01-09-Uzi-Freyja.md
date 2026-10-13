@@ -6,9 +6,9 @@ illustrator: Julie Wojtczak
 writer: ImaCrea
 guest_name: Uzi Freyja
 guest_color: rough
-guestPic: /img/guestPic476.jpg
-image: /img/fbPic476.png
-musiColor: /img/musiColor476.png
+guestPic: /img/guestpic476.jpg
+image: /img/fbpic476.png
+musiColor: /img/musicolor476.png
 description: This Sunday, we're extremely happy to start a new year of music
   discoveries with you and with Uzi Freyja. Coming from the house of
   WARRIORECCORDS (Mansfield.TYA, Maud Geffray...), prepare for an intense

@@ -6,9 +6,9 @@ illustrator: William Girault
 writer: Daisy
 guest_name: Emanative
 guest_color: vibrant
-guestPic: /img/guestPic271.jpg
-image: /img/fbPic271.jpg
-musiColor: /img/musiColor271.png
+guestPic: /img/guestpic271.jpg
+image: /img/fbpic271.jpg
+musiColor: /img/musicolor271.png
 description: This morning long-time jazz wayfarer Nick Woodmansey’s Emanative
   picks his three Sunday morning tunes for MailTape.
 pubDate: 2017-07-30

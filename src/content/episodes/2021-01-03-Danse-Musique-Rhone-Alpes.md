@@ -1,8 +1,8 @@
 ---
-musiColor: /img/musiColor432.png
-image: /img/fbPic432.png
+musiColor: /img/musicolor432.png
+image: /img/fbpic432.png
 bigTitle_font_ratio: "6"
-guestPic: /img/guestPic432.jpg
+guestPic: /img/guestpic432.jpg
 guest_name: Danse Musique Rhône-Alpes
 writer: Anaïs G
 author: Anaïs G

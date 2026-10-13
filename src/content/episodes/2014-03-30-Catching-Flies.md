@@ -5,9 +5,9 @@ guest_color: dreamy
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
 guest_name: Catching Flies
-guestPic: /img/guestPic134.jpg
-image: /img/fbPic134.jpg
-musiColor: /img/musiColor134.png
+guestPic: /img/guestpic134.jpg
+image: /img/fbpic134.jpg
+musiColor: /img/musicolor134.png
 description: This morning, we're going to remind you that sometimes it's
   important to swap your coffee with a beer !  Go out, buy a ticket for a
   concert and if you're lucky enough, you'll make some cool discoveries as for

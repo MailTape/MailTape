@@ -22,7 +22,7 @@ description: >+
   he's an artist to keep an eye on! 
 
 
-image: /img/fbPic557.jpeg
+image: /img/fbpic557.jpeg
 musiColor: /img/musicolor557.png
 track1:
   title: Timber Timbre - Black Water

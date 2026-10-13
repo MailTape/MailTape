@@ -13,7 +13,7 @@ description: This morning, MailTape offers you the soundtrack of a thrilling
   moments... An adventure in 7 chapters, a fabulous journey between gems of a
   futuristic past and resolutely modern sounds, which draw from varied
   influences!
-image: /img/InstaPic595.png
+image: /img/instapic595.png
 musiColor: /img/musicolor595.png
 track1:
   title: Saif Abu Bakr & The Scorpions - Nile Waves

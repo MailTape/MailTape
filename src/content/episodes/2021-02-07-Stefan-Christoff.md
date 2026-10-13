@@ -8,9 +8,9 @@ guest_name: Stefan Christoff
 guest_color: dreamy
 description: This morning we welcome Stefan Christoff to select three groovy
   Sunday morning tunes with us on MailTape.
-guestPic: /img/guestPic437.jpg
-image: /img/fbPic437.png
-musiColor: /img/musiColor437.png
+guestPic: /img/guestpic437.jpg
+image: /img/fbpic437.png
+musiColor: /img/musicolor437.png
 pubDate: 2021-02-07
 track1:
   title: Nyathela ft. Luqua – TNS

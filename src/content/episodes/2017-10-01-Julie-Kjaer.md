@@ -6,9 +6,9 @@ illustrator: Camille Célestin
 writer: Sanjay Mistry
 guest_name: Julie Kjær
 guest_color: trippy
-image: /img/fbPic280.jpg
-guestPic: /img/guestPic280.jpg
-musiColor: /img/musiColor280.png
+image: /img/fbpic280.jpg
+guestPic: /img/guestpic280.jpg
+musiColor: /img/musicolor280.png
 description: This morning we welcome the infectious enthusiasm and unbridled
   energy of London-based multi-reed player, Julie Kjær.
 pubDate: 2017-10-01

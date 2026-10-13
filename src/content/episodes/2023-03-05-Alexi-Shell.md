@@ -6,9 +6,9 @@ illustrator: Meriam Kharbat
 writer: ImaCrea
 guest_name: Alexi Shell
 guest_color: vibrant
-guestPic: /img/guestPic520.png
-image: /img/fbPic520.jpg
-musiColor: /img/musiColor520.png
+guestPic: /img/guestpic520.png
+image: /img/fbpic520.jpg
+musiColor: /img/musicolor520.png
 description: This morning, we're very excited to have Alexi Shell with us. Her
   selection full of positive vibes and raw energy is simply perfect to start the
   new month. Spring is coming, let's dance to welcome the 23rd spring of the

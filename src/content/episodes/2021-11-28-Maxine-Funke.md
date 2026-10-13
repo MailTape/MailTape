@@ -5,8 +5,8 @@ author: Sarah
 writer: Sarah
 guest_name: Maxine Funke
 guest_color: bliss
-image: /img/fbPic472.png
-guestPic: /img/guestPic472.jpg
+image: /img/fbpic472.png
+guestPic: /img/guestpic472.jpg
 description: This morning, we are delighted to welcome Maxine Funk to MailTape
   for a peaceful selection, crafted carefully to lift you on your way this
   Sunday. Based in New Zealand, multi instrumentalist Maxine Funke crafts each

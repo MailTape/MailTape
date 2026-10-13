@@ -6,9 +6,9 @@ illustrator: Noémie Dijon
 writer: ImaCrea
 guest_name: Blick Bassy
 guest_color: vibrant
-guestPic: /img/guestPic534.png
-image: /img/fbPic534.png
-musiColor: /img/musiColor534.png
+guestPic: /img/guestpic534.png
+image: /img/fbpic534.png
+musiColor: /img/musicolor534.png
 description: On this Sunday morning of the new season, we've curated a musical
   selection that gently caresses the ears and brims with uplifting vibes to
   usher in a cheerful and inspiring start to the season. We are delighted to

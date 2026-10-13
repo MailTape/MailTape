@@ -1,22 +1,13 @@
 ---
-bigTitle_font_ratio: "6"
 published: true
+pubDate: 2021-11-07
+release: 469
+guest_name: The Soul Surfers
+guest_color: bliss
+guestPic: /img/guestpic469.jpg
 author: Sarah
 illustrator: Julie Wojtczak
 writer: Sarah
-guest_name: The Soul Surfers
-guest_color: bliss
-musiColor: /img/musiColor469.png
-guestPic: /img/guestPic469.jpg
-image: /img/fbPic469.png
-description: "  This morning, we are delighted to welcome The Soul Surfers to
-  MailTape for a collection of experimental and exploratory tracks. Led by
-  drummer Igor Zhukovsky, the modern funk band hails from Niznhny Novgorod,
-  Russia. The Soul Surfers craft many exciting albums and collaborations,
-  including with Janko Nilovic for the 2021 album, Maze of Sounds. Their
-  selection mirrors much of their own music, exploring the interesting spaces of
-  synth and funk fusions."
-pubDate: 2021-11-07
 track1:
   title: François de Roubaix - Poursuite Sur Les Dunes d'Ostende
   color: trippy
@@ -45,8 +36,13 @@ track7:
   title: Africa Express - Morals
   color: trippy
   link: https://sounds.mailta.pe/469/track7.mp3
-release: 469
+description: This morning, we are delighted to welcome [The Soul Surfers](https://soulsurfersubiq.bandcamp.com/) to MailTape for a collection of experimental and exploratory tracks. Led by drummer [Igor Zhukovsky]...
+image: /img/fbpic469.jpg
+musiColor: /img/musicolor469.png
+alignY: ''
+bigTitle_font_ratio: '6'
 ---
+
  This morning, we are delighted to welcome [The Soul Surfers](https://soulsurfersubiq.bandcamp.com/) to MailTape for a collection of experimental and exploratory tracks. Led by drummer [Igor Zhukovsky](https://www.discogs.com/artist/2760785-Igor-Zhukovsky), the modern funk band hails from Niznhny Novgorod, Russia. The Soul Surfers craft many exciting albums and collaborations, including with Janko Nilovic for the 2021 album, [Maze of Sounds](https://brocrecordz.bandcamp.com/album/maze-of-sounds). Their selection mirrors much of their own discography, exploring the interesting spaces of synth and funk fusions.
   
  

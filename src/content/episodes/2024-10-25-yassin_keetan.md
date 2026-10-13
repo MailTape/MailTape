@@ -7,7 +7,7 @@ guestPic: /img/guestpic563.png
 author: Jules
 illustrator: Marie Alléguède
 writer: Jules
-image: /img/fbPic563.png
+image: /img/fbpic563.png
 musiColor: /img/musicolor563.png
 track1:
   title: Beach House - Space Song

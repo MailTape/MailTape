@@ -5,10 +5,10 @@ author: Inès
 illustrator: Anais Caura
 guest_name: Cut Off Your Hands
 guest_color: vibrant
-guestPic: /img/guestPic253new2.jpg
+guestPic: /img/guestpic253new2.jpg
 writer: Inès
-musiColor: /img/musiColor253.png
-image: /img/fbPic253.png
+musiColor: /img/musicolor253.png
+image: /img/fbpic253.png
 description: This morning, let's enjoy the comeback of sunnier days while
   listening to Cut Off Your Hands' kaleidoscopic selection. Open your windows,
   put on your sunglasses, make yourself a nice coffee, and get ready for a

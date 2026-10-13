@@ -6,9 +6,9 @@ illustrator: Camille Célestin
 author: Sarah
 writer: Sarah
 guest_color: vibrant
-guestPic: /img/guestPic442.jpg
-image: /img/fbPic442.png
-musiColor: /img/musiColor442.png
+guestPic: /img/guestpic442.jpg
+image: /img/fbpic442.png
+musiColor: /img/musicolor442.png
 description: We are delighted to welcome Thijsenterprise to MailTape for a
   Sunday morning selection of tracks that explore non-traditional structures,
   each inspirations to Thijsenterprise in his life and projects.

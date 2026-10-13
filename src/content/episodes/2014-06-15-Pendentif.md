@@ -5,11 +5,11 @@ guest_color: vibrant
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
 guest_name: Pendentif
-guestPic: /img/guestPic145.jpg
-image: /img/fbPic145.jpg
+guestPic: /img/guestpic145.jpg
+image: /img/fbpic145.jpg
 description: This morning, the Bordeaux-based French pop band Pendentif has
   prepared you a musical cocktail to be enjoyed without reserve…
-musiColor: /img/musiColor145.png
+musiColor: /img/musicolor145.png
 pubDate: 2014-06-15
 track1:
   title: Blood Orange - You're Not Good Enough

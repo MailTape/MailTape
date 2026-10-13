@@ -6,9 +6,9 @@ illustrator: Patricia de Miranda
 writer: ImaCrea
 guest_name: Holy Tongue
 guest_color: trippy
-guestPic: /img/guestPic548.jpg
-image: /img/fbPic548.jpg
-musiColor: /img/musiColor548.png
+guestPic: /img/guestpic548.jpg
+image: /img/fbpic548.jpg
+musiColor: /img/musicolor548.png
 description: We're overjoyed to welcome Holy Tongue as our guests today. Their
   ethereal, entrancing music has captivated audiences worldwide, and we're
   honored to have them share their picks from some of their most cherished

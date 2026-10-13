@@ -1,7 +1,7 @@
 ---
 bigTitle_font_ratio: "6"
 published: true
-guestPic: /img/guestPic404c.jpg
+guestPic: /img/guestpic404c.jpg
 author: ImaCrea
 illustrator: Thibault Daumain
 writer: ImaCrea
@@ -14,8 +14,8 @@ description: "This morning, it seems as we're entering the final stage of grief:
   always been an illusion, everything is in movement and your heart is still
   beating. Now is no time to stop the rhythm but to let go and keep dancing with
   the unknown."
-image: /img/fbPic404.png
-musiColor: /img/musiColor404.png
+image: /img/fbpic404.png
+musiColor: /img/musicolor404.png
 pubDate: 2020-05-03
 track1:
   title: Orior - Feels Like Summer

@@ -3,14 +3,14 @@ bigTitle_font_ratio: "6"
 published: true
 guest_name: Juliette Armanet
 guest_color: dreamy
-guestPic: /img/guestPic2524.jpg
+guestPic: /img/guestpic2524.jpg
 author: Dimitri
 illustrator: Camille Célestin
 writer: PS KY
 description: This morning, our guest Juliette Armanet accompanies us on a
   journey of heart felt tempos and spiced sentiments.
-image: /img/fbPic252.JPG
-musiColor: /img/musicColor252.jpg
+image: /img/fbpic252.jpg
+musiColor: /img/musiccolor252.jpg
 pubDate: 2017-03-19
 track1:
   title: Ricky Hollywood - Prie Pour Moi

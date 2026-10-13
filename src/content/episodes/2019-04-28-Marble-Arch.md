@@ -6,9 +6,9 @@ illustrator: Camille Célestin
 writer: Anaïs G
 guest_name: "Marble Arch "
 guest_color: dreamy
-image: /img/fbPic355.png
-musiColor: /img/musiColor355.jpg
-guestPic: /img/guestPic355.jpg
+image: /img/fbpic355.png
+musiColor: /img/musicolor355.jpg
+guestPic: /img/guestpic355.jpg
 description: This morning, we are giving way to a wave of ambient melancholy,
   soft and light. As time playing on roller coasters , Marble Arch’s pop
   accompanies us this morning in this musical fog with many facets.

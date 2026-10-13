@@ -6,9 +6,9 @@ illustrator: Meriam Kharbat
 writer: ImaCrea
 guest_name: Zinda Reinhardt
 guest_color: vibrant
-guestPic: /img/guestPic501.jpg
-musiColor: /img/musiColor501.png
-image: /img/fbPic501.jpg
+guestPic: /img/guestpic501.jpg
+musiColor: /img/musicolor501.png
+image: /img/fbpic501.jpg
 description: This morning, we're thrilled to be back for this 11th season of
   music discoveries! And for this 501st episode, we're honored to welcome Zinda
   Reinhardt. With her powerful and contagious energy, she sings in Sintikès and

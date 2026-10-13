@@ -6,9 +6,9 @@ illustrator: Meriam Kharbat
 writer: ImaCrea
 guest_name: The Humble Bee
 guest_color: bliss
-guestPic: /img/guestPic528.png
-image: /img/fbPic528.jpg
-musiColor: /img/musiColor528.png
+guestPic: /img/guestpic528.png
+image: /img/fbpic528.jpg
+musiColor: /img/musicolor528.png
 description: This morning, I'd be delighted to continue our exploration of
   ambient music together, as you may have noticed my recent fascination with it.
   Lately, I find myself yearning for a serene and inviting atmosphere, a

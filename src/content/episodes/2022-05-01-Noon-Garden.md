@@ -6,13 +6,13 @@ writer: Sarah
 illustrator: Thibault Daumain
 guest_name: Noon Garden
 guest_color: trippy
-guestPic: /img/guestPic491.jpg
-musiColor: /img/musiColor491.png
+guestPic: /img/guestpic491.jpg
+musiColor: /img/musicolor491.png
 description: Today, we present a delightful selection of eclectic discoveries to
   welcome you into your Sunday morning. For this awakening, our dear guest Noon
   Garden curates a pass of vibrant tracks to add bouts of energy into these
   early hours.
-image: /img/fbPic491.png
+image: /img/fbpic491.png
 pubDate: 2022-05-01
 track1:
   title: Nimco Jamaac - Buuraha U Dheer (The Highest Mountains)

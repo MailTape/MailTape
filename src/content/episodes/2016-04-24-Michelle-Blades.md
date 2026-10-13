@@ -5,9 +5,9 @@ writer: Maxime
 guest_name: Michelle Blades
 guest_color: dreamy
 bigTitle_font_ratio: "6"
-guestPic: /img/guestPic214.jpg
-image: /img/fbPic214.jpg
-musiColor: /img/musiColor214.png
+guestPic: /img/guestpic214.jpg
+image: /img/fbpic214.jpg
+musiColor: /img/musicolor214.png
 description: Hello there, this morning we gonna talk about the world. I mean,
   talk about Michelle Blades, a mexicano-Panamanian woman who lived in USA, then
   moved to Paris since 2012. It's quite the same than talking about

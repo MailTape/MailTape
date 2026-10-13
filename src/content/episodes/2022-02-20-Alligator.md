@@ -6,9 +6,9 @@ illustrator: Julie Wojtczak
 writer: ImaCrea
 guest_name: Alligator
 guest_color: vibrant
-image: /img/fbPic482.jpg
-musiColor: /img/musiColor482.png
-guestPic: /img/guestPic482.jpg
+image: /img/fbpic482.jpg
+musiColor: /img/musicolor482.png
+guestPic: /img/guestpic482.jpg
 description: This morning, we stop reading the news and start dancing. Did you
   know the oldest proof of dancing comes from 9000 years old cave paintings that
   were found in India? Also, we’re not the only one dancing on this planet, it’s

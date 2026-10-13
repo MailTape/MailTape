@@ -1,14 +1,14 @@
 ---
 bigTitle_font_ratio: "6"
 published: true
-guestPic: /img/guestPic231.jpg
+guestPic: /img/guestpic231.jpg
 author: Maxime
 illustrator: William Girault
 writer: Maxime
 guest_name: Nicolas Michaux
 guest_color: vibrant
-image: /img/fbPic231.jpg
-musiColor: /img/musiColor231.png
+image: /img/fbpic231.jpg
+musiColor: /img/musicolor231.png
 description: This morning, we offer you a romantic Mailtape, and a romantic
   artist. Nicolas Michaux is a Belgian singer who remind us the glory days of
   cheezy french or Italian pop songs. In "A la Vie, à la Mort", the romantism of

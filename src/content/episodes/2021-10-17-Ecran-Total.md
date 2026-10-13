@@ -6,14 +6,14 @@ writer: ImaCrea
 illustrator: Thibault Daumain
 author: ImaCrea
 guest_color: vibrant
-guestPic: /img/guestPic466.jpg
+guestPic: /img/guestpic466.jpg
 description: This morning, please welcome Camille & Margaux from Écran Total.
   With their first album, Schaerbeek Love, they share with us this gentle vibe
   so particular in the early days following the meeting of two spirits. Innocent
   and groovy, today's episode is an ode to sunshine and love. Let the music
   play!
-musiColor: /img/musiColor466.png
-image: /img/fbPic466.jpg
+musiColor: /img/musicolor466.png
+image: /img/fbpic466.jpg
 pubDate: 2021-10-17
 track1:
   title: Robert Wyatt - Sea Song

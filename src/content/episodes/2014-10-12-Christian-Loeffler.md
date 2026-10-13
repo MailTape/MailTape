@@ -5,9 +5,9 @@ guest_color: bliss
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
 guest_name: Christian Löffler
-guestPic: /img/guestPic155.jpg
-image: /img/fbPic155.png
-musiColor: /img/musiColor155.png
+guestPic: /img/guestpic155.jpg
+image: /img/fbpic155.png
+musiColor: /img/musicolor155.png
 description: This morning, discover Christian Löffler. The extraordinary
   capacities of this young producer have kept numerous eyes and ears closely
   following his fresh talent. Loeffler’s deep moving melancholic sound, is

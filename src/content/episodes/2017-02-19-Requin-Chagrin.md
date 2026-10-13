@@ -6,13 +6,13 @@ guest_name: Requin Chagrin
 guest_color: vibrant
 illustrator: Camille Célestin
 writer: Inès
-musiColor: /img/musiColor248.png
+musiColor: /img/musicolor248.png
 description: This morning, juggle the calm and energetic moments thrown your way
   by Requin Chagrin’s eclectic selection. During this 30-minutes selection,
   travel all over the world, feel both warmth and coldness or just dance (alone)
   in your room. Sunnier days don’t seem so far away now!
-guestPic: /img/guestPic248new2.jpg
-image: /img/fbPic248.jpg
+guestPic: /img/guestpic248new2.jpg
+image: /img/fbpic248.jpg
 pubDate: 2017-02-19
 track1:
   title: Barbagallo - Nouveau Sidobre

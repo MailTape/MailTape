@@ -3,7 +3,7 @@ published: true
 pubDate: 2026-09-27
 guest_name: Patricia Dallio
 guest_color: trippy
-guestPic: /img/guestPic614.jpg
+guestPic: /img/guestpic614.jpg
 author: ImaCrea
 illustrator: Noémie Dijon
 writer: ImaCrea
@@ -15,8 +15,8 @@ description: This morning, we invite you to celebrate surprise and wild
   buzzing with life and sound, if only one knows how to shift one’s attention
   toward the ever-magical world of the non-human. Be prepared to reassess some
   of your assumptions about what a MailTape episode can be.
-image: /img/fbPic614.jpg
-musiColor: /img/musiColor614.png
+image: /img/fbpic614.jpg
+musiColor: /img/musicolor614.png
 track1:
   title: Albert Marcœur - Une belle mort
   color: dreamy

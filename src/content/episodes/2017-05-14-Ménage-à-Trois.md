@@ -5,13 +5,13 @@ author: Dimitri
 illustrator: Camille Célestin
 writer: PS KY
 guest_name: Ménage à Trois
-guestPic: /img/guestPic2601.jpg
+guestPic: /img/guestpic2601.jpg
 guest_color: dreamy
-image: /img/fbPic260.JPG
+image: /img/fbpic260.jpg
 description: Bright and delightful morning to the masses and the listeners, to
   the frequency lovers and addicted souls of the music empire. Today, Ménage à
   Trois  will tickle you with their harmonious selection and singular sound.
-musiColor: /img/musiColor260.jpg
+musiColor: /img/musicolor260.jpg
 pubDate: 2017-05-14
 track1:
   title: Rod Stewart - This Old Heart Of Mine (Ocean Edits)

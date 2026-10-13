@@ -6,9 +6,9 @@ illustrator: Anais Caura
 writer: Maxime
 guest_name: Max Future
 guest_color: bliss
-guestPic: /img/guestPic250.jpg
-image: /img/fbPic250.jpg
-musiColor: /img/musiColor250.png
+guestPic: /img/guestpic250.jpg
+image: /img/fbpic250.jpg
+musiColor: /img/musicolor250.png
 description: This morning, let's have a glimpse of today's music and Max Future.
 pubDate: 2017-03-05
 track1:

@@ -1,26 +1,19 @@
 ---
-bigTitle_font_ratio: "6"
 published: true
+pubDate: 2019-06-23
+release: 363
+guest_name: Entracte Twist
+guest_color: rough
+guestPic: /img/guestpic363.jpg
 author: Anaïs G
 illustrator: Camille Célestin
 writer: Anaïs G
-guest_name: Entracte Twist
-guestPic: /img/guestPic363.jpg
-musiColor: /img/musiColor363.png
-description: This morning, we take out the guitars, adjust our strings test the
-  sound with the amp in boring neighbors...  And let our fingers slide so that
-  we can wake up our faithful on Sunday morning. New-wave and post punk for your
-  awakening?  And why not ... Entracte Twist" strays off the beaten track to
-  offer us a selection worthy of the name.
-guest_color: rough
-image: fbPic363.png
-pubDate: 2019-06-23
 track1:
   title: Cocteau Twins - Sugar Hiccup
   color: dreamy
   link: https://sounds.mailta.pe/363/Track1.mp3
 track2:
-  title: "The Homesick - Half Aryan "
+  title: The Homesick - Half Aryan
   color: rough
   link: https://sounds.mailta.pe/363/track2.mp3
 track3:
@@ -28,7 +21,7 @@ track3:
   color: dreamy
   link: https://sounds.mailta.pe/363/track3.mp3
 track4:
-  title: "Entracte Twist - Hors Service "
+  title: Entracte Twist - Hors Service
   color: rough
   link: https://sounds.mailta.pe/363/track4.mp3
 track5:
@@ -36,15 +29,22 @@ track5:
   color: vibrant
   link: https://sounds.mailta.pe/363/Track5.mp3
 track6:
-  title: "Structures - Satellite "
+  title: Structures - Satellite
   color: rough
   link: https://sounds.mailta.pe/363/track6.mp3
 track7:
   title: The Fat White Family - Tastes Good With The Money
   color: trippy
   link: https://sounds.mailta.pe/363/Track7.mp3
-release: 363
+description: |-
+  This morning, we take out the guitars, adjust our strings test the sound with the amp in boring neighbors...  And let our fingers slide so that we can wake up our faithful on Sunday morning.
+  <br><br>...
+image: /img/fbpic363.png
+musiColor: /img/musicolor363.png
+alignY: ''
+bigTitle_font_ratio: '6'
 ---
+
  This morning, we take out the guitars, adjust our strings test the sound with the amp in boring neighbors...  And let our fingers slide so that we can wake up our faithful on Sunday morning.
 <br><br>
 New-wave and post punk for your awakening?And why not ... [Entracte Twist](https://www.facebook.com/EntracteTwist/) strays off the beaten track to offer us a selection worthy of the name.

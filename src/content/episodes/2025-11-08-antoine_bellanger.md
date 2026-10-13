@@ -1,19 +1,13 @@
 ---
 published: true
 pubDate: 2025-11-09
+release: 597
 guest_name: Antoine Bellanger
 guest_color: trippy
 guestPic: /img/guestpic597.jpg
 author: ImaCrea
 illustrator: Julie Wojtczak
 writer: ImaCrea
-description: "This morning, we are excited and honored to welcome Antoine
-  Bellanger as our guest. Naturally, this episode reflects the artist himself:
-  surprising, eclectic, quirky, yet sublime like a forest in autumn. Prepare to
-  immerse yourself in the woods from the very first moments of listening, and
-  join us as we venture to the mountains in search of the living."
-image: /img/fbPic507.jpg
-musiColor: /img/musicolor597.png
 track1:
   title: Marc Namblard - High moorlands – electric roaring with brief clashes
   color: trippy
@@ -42,8 +36,12 @@ track7:
   title: Sessa - Revolução Interior
   color: bliss
   link: https://sounds.mailta.pe/597/track7.mp3
-release: 597
+description: This morning, we are excited and honored to welcome Antoine Bellanger as our guest. You may remember his unique sound from some of his tracks featured in episodes [\#588](https://www.mailta.pe/588/gab...
+image: /img/fbpic597.jpg
+musiColor: /img/musicolor597.png
+alignY: ''
 ---
+
 This morning, we are excited and honored to welcome Antoine Bellanger as our guest. You may remember his unique sound from some of his tracks featured in episodes [\#588](https://www.mailta.pe/588/gabriel-brady/) and [\#487](https://www.mailta.pe/487/vimala-pons/).
 
 Naturally, this episode reflects the artist himself: surprising, eclectic, quirky, yet sublime like a forest in autumn. Prepare to immerse yourself in the woods from the very first moments of listening, and join us as we venture to the mountains in search of the living.

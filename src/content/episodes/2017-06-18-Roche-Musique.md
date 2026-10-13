@@ -6,7 +6,7 @@ illustrator: Pierre-Julien Fieux
 writer: Laura
 guest_name: Roche Musique
 guest_color: vibrant
-musiColor: /img/musiColor265.png
+musiColor: /img/musicolor265.png
 description: This morning, wake up with our very special guests, the pioneers of
   French Touch 2.0. Roche Musique label was created exactly 5 years ago by Jean
   Janin a.k.a Cézaire who surrounded himself with the cream of the French DJs
@@ -14,8 +14,8 @@ description: This morning, wake up with our very special guests, the pioneers of
   discoveries. Together they set in motion the renewal of electronic music with
   their very own sound, multiple, indefinable yet always groovy. Enjoy the trip
   folks !
-guestPic: /img/guestPic265.jpg
-image: /img/fbPic265.jpg
+guestPic: /img/guestpic265.jpg
+image: /img/fbpic265.jpg
 pubDate: 2017-06-18
 track1:
   title: Tennyson x Mr. Carmack - Tuesday

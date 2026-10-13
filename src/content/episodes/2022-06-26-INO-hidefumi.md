@@ -6,13 +6,13 @@ illustrator: Meriam Kharbat
 writer: Sarah
 guest_name: INO hidefumi
 guest_color: bliss
-guestPic: /img/guestPic498.jpg
-image: /img/fbPic498.png
+guestPic: /img/guestpic498.jpg
+image: /img/fbpic498.png
 description: "  Today, with a special joy we welcome Tokyo-based jazz and
   electronic artist INO hidefumi to MailTape for a morning of Sunday
   discoveries. Known for eclectic tastes and textured sounds, INO's thoughtful
   selection offers an easy treading into the morning hours."
-musiColor: /img/musiColor498.png
+musiColor: /img/musicolor498.png
 pubDate: 2022-06-26
 track1:
   title: Timmy Thomas - Why Can't We Live Together

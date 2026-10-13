@@ -5,9 +5,9 @@ guest_color: vibrant
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
 guest_name: Clément Bazin
-guestPic: /img/guestPic144.jpg
-image: /img/fbPic144.jpg
-musiColor: /img/musiColor144.png
+guestPic: /img/guestpic144.jpg
+image: /img/fbpic144.jpg
+musiColor: /img/musicolor144.png
 description: This morning, the french beatmaker Clément Bazin will carry you on
   a sunny journey. Quietly first, his selection will then energize your morning,
   be ready...

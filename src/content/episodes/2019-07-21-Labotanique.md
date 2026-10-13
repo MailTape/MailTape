@@ -1,19 +1,13 @@
 ---
-bigTitle_font_ratio: "6"
 published: true
-musiColor: /img/musiColor367.png
+pubDate: 2019-07-21
+release: 367
 guest_name: Labotanique
-guestPic: /img/guestPic367.jpg
-description: This morning we leave in the forest far from the city, far from
-  pollution, far from the crowded streets of tourists... A moment to get green,
-  to recharge one's batteries in the country, is the philosophy of the
-  Labotanique group
+guest_color: trippy
+guestPic: /img/guestpic367.jpg
 author: Anaïs G
 illustrator: Camille Célestin
 writer: Anaïs G
-guest_color: trippy
-image: http://www.mailta.pe/img/fbPic367.png
-pubDate: 2019-07-21
 track1:
   title: Flavien Berger - Pamplemousse
   color: dreamy
@@ -27,7 +21,7 @@ track3:
   color: dreamy
   link: https://sounds.mailta.pe/367/track3.mp3
 track4:
-  title: "Labotanique - Nature morte "
+  title: Labotanique - Nature morte
   color: trippy
   link: https://sounds.mailta.pe/367/Track4.mp3
 track5:
@@ -39,10 +33,14 @@ track6:
   color: dreamy
   link: https://sounds.mailta.pe/367/Track6.mp3
 track7:
-  title: "Le Flegmatic - L'autre rive "
+  title: Le Flegmatic - L'autre rive
   color: bliss
   link: https://sounds.mailta.pe/367/track7.mp3
-release: 367
+description: This morning we leave in the forest far from the city, far from pollution, far from the crowded streets of tourists... A moment to get green, to recharge one's batteries in the country, is the philoso...
+image: /img/fbpic367.png
+musiColor: /img/musicolor367.png
+alignY: ''
+bigTitle_font_ratio: '6'
 ---
 
 
@@ -81,4 +79,4 @@ Anaïs G: **"** Unsettling, combative and sensual. It exudes such a force that y
 Anaïs G: **"** Like a cowboy, or an adventurer out of nowhere walking the roads in search of lost irony. Offbeat and a bit sarcastic, he plays with brilliance with the words (as the artists being in my selection). Waiting for this new EP "Ruines Nouvelles" which will be released at the end of August at [We Are Unique!Records](http://www.weareunique.fr/) and supported by [La Souterraine](https://souterraine.biz/), a beautiful glimpse with the title "L'autre rive". **"** 
 
 
-That's it for this morning! As always thank you so much for listening. Much love and respect to [Labotanique](https://labotanique.bandcamp.com/) for their Sunday selections, and to [Célestin](https://www.instagram.com/bravocamo/) for this stunning illustration. 
+That's it for this morning! As always thank you so much for listening. Much love and respect to [Labotanique](https://labotanique.bandcamp.com/) for their Sunday selections, and to [Célestin](https://www.instagram.com/bravocamo/) for this stunning illustration.

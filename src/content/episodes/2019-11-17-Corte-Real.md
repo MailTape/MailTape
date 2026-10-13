@@ -6,7 +6,7 @@ illustrator: Camille Célestin
 writer: Jules
 guest_name: Corte Real
 guest_color: dreamy
-musiColor: /img/musiColor380.png
+musiColor: /img/musicolor380.png
 description: This morning, we are setting sail again at the very first light of
   dawn with Corte Real, without knowing where or when we will come back. The
   Versailles-based group is finally releasing its first album "Pays Vaincus" on
@@ -22,8 +22,8 @@ description: This morning, we are setting sail again at the very first light of
   infinity of the ocean, and express joy and homesickness at the same time. This
   morning we are embarking with him, get prepared to be soothed by melancholic
   waves, overwhelmed by the sea spray and the wind of adventure!
-image: /img/fbPic380.png
-guestPic: /img/guestPic380.jpg
+image: /img/fbpic380.png
+guestPic: /img/guestpic380.jpg
 pubDate: 2019-11-17
 track1:
   title: Leonard Cohen - I Left A Woman Waiting

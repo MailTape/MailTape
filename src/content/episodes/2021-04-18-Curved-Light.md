@@ -3,9 +3,9 @@ bigTitle_font_ratio: "6"
 published: true
 guest_name: Curved Light
 guest_color: bliss
-musiColor: /img/musiColor447.png
-image: /img/fbPic447.png
-guestPic: /img/guestPic447.jpg
+musiColor: /img/musicolor447.png
+image: /img/fbpic447.png
+guestPic: /img/guestpic447.jpg
 description: "This morning, we embrace the abstract in the ambient: the
   otherworldly and the primal. The tracks in the following playlist reach for
   any lingering emptiness sitting within us, offering a moment of calm and

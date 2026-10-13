@@ -9,9 +9,9 @@ guest_color: bliss
 description: This morning we are delighted to welcome Dublin-based musician,
   Ruba Shamshoum, who collaborates with us to provide a beautifully laid-back
   Sunday morning playlist.
-guestPic: /img/guestPic301.jpg
-musiColor: /img/musiColor301.png
-image: /img/fbPic301.jpg
+guestPic: /img/guestpic301.jpg
+musiColor: /img/musicolor301.png
+image: /img/fbpic301.jpg
 pubDate: 2018-02-25
 track1:
   title: Ella Fitzgerald – Blue Skies

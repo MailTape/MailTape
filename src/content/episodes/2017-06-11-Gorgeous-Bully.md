@@ -10,9 +10,9 @@ description: This morning, let's have a mellow Sunday morning thanks to Gorgeous
   Bully's heartwarming selection. Manchester based Gorgeous Bully makes lo-fi,
   DIY bedroom grunge-pop tracks. Catchy, minimal and sincere, their music is
   striking, and welcomed in current times.
-musiColor: /img/musiColor264.png
-guestPic: /img/guestPic264.jpg
-image: /img/fbPic264.png
+musiColor: /img/musicolor264.png
+guestPic: /img/guestpic264.jpg
+image: /img/fbpic264.png
 pubDate: 2017-06-11
 track1:
   title: Spinning Coin - Albany

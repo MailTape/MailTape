@@ -5,12 +5,12 @@ guest_color: dreamy
 bigTitle_font_ratio: "8"
 bigTitle_line_ratio: "1"
 guest_name: Matthew Halsall
-guestPic: /img/guestPic150.jpg
-image: /img/fbPic150.jpg
+guestPic: /img/guestpic150.jpg
+image: /img/fbpic150.jpg
 description: This morning, our guest' selection will probably widen your morning
   musical horizon! Please welcome on stage the Manchester based trumpeter
   Matthew Halsall.
-musiColor: /img/musiColor150.png
+musiColor: /img/musicolor150.png
 pubDate: 2014-07-20
 track1:
   title: Harpista - He Has a Name (Awareness)

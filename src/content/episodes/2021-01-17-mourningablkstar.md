@@ -6,9 +6,9 @@ illustrator: Meriam Kharbat
 writer: ImaCrea
 guest_name: Mourning [A] BLKstar
 guest_color: vibrant
-guestPic: /img/guestPic434.jpg
-image: /img/fbPic434.png
-musiColor: /img/musiColor434.jpg
+guestPic: /img/guestpic434.jpg
+image: /img/fbpic434.png
+musiColor: /img/musicolor434.jpg
 description: This morning, we're honored to introduce you to Mourning [A]
   BLKstar, a fantastic band formed by RA Washington from Cleveland, Ohio. A
   soulful jazzy selection made with care for a delicious Sunday at home. Click

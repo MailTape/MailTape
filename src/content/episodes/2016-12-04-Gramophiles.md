@@ -5,9 +5,9 @@ author: Maxime
 writer: Maxime
 guest_name: Gramophiles
 guest_color: vibrant
-guestPic: /img/guestPic237.jpg
-image: /img/fbPic237.jpg
-musiColor: /img/muciColor237.png
+guestPic: /img/guestpic237.jpg
+image: /img/fbpic237.jpg
+musiColor: /img/mucicolor237.png
 description: This morning, we welcome you in the vintage universe of music.
 illustrator: Isabelle Escande
 pubDate: 2016-12-04

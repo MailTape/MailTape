@@ -4,9 +4,9 @@ published: true
 author: Louise
 guest_name: Talitres Records
 guest_color: dreamy
-guestPic: /img/guestPic226.jpg
-image: /img/fbPic226.jpg
-musiColor: /img/musiColor226.png
+guestPic: /img/guestpic226.jpg
+image: /img/fbpic226.jpg
+musiColor: /img/musicolor226.png
 illustrator: William Girault
 writer: Louise
 description: This morning, Mailtape presents a brand new kind of episodes! Did

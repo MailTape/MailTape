@@ -7,9 +7,9 @@ illustrator: Julie Wojtczak
 writer: Anaïs G
 guest_name: Northwest
 guest_color: vibrant
-guestPic: /img/guestPic448.jpg
-image: /img/fbPic448.png
-musiColor: /img/musiColor448.png
+guestPic: /img/guestpic448.jpg
+image: /img/fbpic448.png
+musiColor: /img/musicolor448.png
 description: This morning,we enter into a contemplative meditation. We enter
   into a kind of emotional trance, taking with us contemporary music, aerial,
   even lyrical. We are no longer in control of our body, our movements lead us

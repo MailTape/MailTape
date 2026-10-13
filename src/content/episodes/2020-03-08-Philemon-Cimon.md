@@ -6,9 +6,9 @@ illustrator: Camille Célestin
 writer: Jules
 guest_name: Philémon Cimon
 guest_color: vibrant
-image: /img/fbPic396.png
-musiColor: /img/musiColor396.png
-guestPic: /img/guestPic396.jpg
+image: /img/fbpic396.png
+musiColor: /img/musicolor396.png
+guestPic: /img/guestpic396.jpg
 description: It took a while for Philémon Cimon’s songs to cross the Atlantic
   Ocean and reach my ears. I discovered him with his sixth album “PAYS”.
   Released in May 2019, this album is a magnificent collection of stories rooted

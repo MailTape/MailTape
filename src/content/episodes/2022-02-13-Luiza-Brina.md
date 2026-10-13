@@ -6,9 +6,9 @@ illustrator: Camille Célestin
 writer: Sarah
 guest_name: Luiza Brina
 guest_color: vibrant
-image: /img/fbPic481.png
-musiColor: /img/musiColor481.png
-guestPic: /img/guestPic481.jpg
+image: /img/fbpic481.png
+musiColor: /img/musicolor481.png
+guestPic: /img/guestpic481.jpg
 pubDate: 2022-02-13
 description: The week can bring so much to challenge and test us. This Sunday,
   we offer a reprieve. Together, let's exhale all that the past days have

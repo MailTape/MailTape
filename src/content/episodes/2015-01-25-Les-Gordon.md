@@ -7,9 +7,9 @@ bigTitle_line_ratio: "1"
 guest_name: Les Gordon
 description: "This Sunday, we bring you an amalgam of ambient  and downtempo
   with our newly found French artist, Les Gordon. "
-guestPic: /img/guestPic170.jpg
-image: /img/fbPic170.jpg
-musiColor: /img/musiColor170.png
+guestPic: /img/guestpic170.jpg
+image: /img/fbpic170.jpg
+musiColor: /img/musicolor170.png
 pubDate: 2015-01-25
 track1:
   title: Imagined Herbal Flows - Clouds

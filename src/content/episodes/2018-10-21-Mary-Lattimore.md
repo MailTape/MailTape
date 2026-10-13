@@ -6,9 +6,9 @@ illustrator: Anthony Dujardin
 writer: Sanjay Mistry
 guest_name: Mary Lattimore
 guest_color: dreamy
-guestPic: /img/guestPic328.jpg
-musiColor: /img/musiColor328.png
-image: /img/fbPic328.jpg
+guestPic: /img/guestpic328.jpg
+musiColor: /img/musicolor328.png
+image: /img/fbpic328.jpg
 description: This Sunday morning we are delighted to welcome harpist Mary
   Lattimore to MailTape.
 pubDate: 2018-10-21

@@ -4,9 +4,9 @@ author: Maxime
 guest_color: bliss
 bigTitle_font_ratio: "6"
 guest_name: Crackazat
-guestPic: /img/guestPic195.jpg
-image: /img/fbPic195.jpg
-musiColor: /img/musiColor195.png
+guestPic: /img/guestpic195.jpg
+image: /img/fbpic195.jpg
+musiColor: /img/musicolor195.png
 description: This morning, you deserve an effective awakening of the senses. The
   kind of awakening that make you smile, the head buried in the pillow. And,
   slowly, it's your hand taping, then your foot wagging... here we are ! Coffee

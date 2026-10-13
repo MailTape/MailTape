@@ -6,9 +6,9 @@ illustrator: Jason Pridham
 writer: Jules
 guest_name: Binary Digit
 guest_color: trippy
-guestPic: /img/guestPic421.jpg
-image: /img/fbPic421.png
-musiColor: /img/musiColor421.png
+guestPic: /img/guestpic421.jpg
+image: /img/fbpic421.png
+musiColor: /img/musicolor421.png
 description: "This morning, the alarm clock tastes acid and sour, that kind of
   unpleasant sensation at first glance but which you eventually get used to,
   before asking for more. Binary Digit's selection goes straight to the point,

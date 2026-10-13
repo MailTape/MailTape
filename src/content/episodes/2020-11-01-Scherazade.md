@@ -1,9 +1,9 @@
 ---
 bigTitle_font_ratio: "6"
 published: true
-musiColor: /img/musiColor423.png
-image: /img/fbPic423.png
-guestPic: /img/guestPic423.jpg
+musiColor: /img/musicolor423.png
+image: /img/fbpic423.png
+guestPic: /img/guestpic423.jpg
 guest_color: vibrant
 guest_name: Schérazade
 writer: Anaïs G

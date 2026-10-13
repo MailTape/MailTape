@@ -4,9 +4,9 @@ published: true
 author: Sanjay Mistry
 guest_name: Alexander Hawkins
 guest_color: dreamy
-guestPic: /img/guestPic258.jpg
-image: /img/fbPic258.jpg
-musiColor: /img/musiColor258.png
+guestPic: /img/guestpic258.jpg
+image: /img/fbpic258.jpg
+musiColor: /img/musicolor258.png
 illustrator: Camille Célestin
 description: This morning, we are thrilled to welcome pianist, organist,
   composer and bandleader, Alexander Hawkins, who is ‘unlike anything else in

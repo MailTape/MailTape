@@ -3,9 +3,9 @@ author: ImaCrea
 guest_name: Homeshake
 guest_color: dreamy
 bigTitle_font_ratio: "6"
-guestPic: /img/guestPic200.jpg
-image: /img/fbPic200.jpg
-musiColor: /img/musiColor200.jpg
+guestPic: /img/guestpic200.jpg
+image: /img/fbpic200.jpg
+musiColor: /img/musicolor200.jpg
 description: This morning, let the warm, soul-stirring music of a Montreal
   guitarist show you how to cozy up on the coldest morning of the year.
   Homeshake’s selection is easy on the ears, like the fuzzy sweater awaiting

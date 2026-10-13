@@ -5,12 +5,12 @@ author: Sanjay Mistry
 illustrator: Pierre-Julien Fieux
 guest_name: Normil Hawaiians
 guest_color: trippy
-guestPic: /img/guestPic266.jpg
+guestPic: /img/guestpic266.jpg
 description: This morning, we are delighted to welcome Normil Hawaiians.
   Operating more like a collective than a band, the Normil Hawaiians formed in
   the austere post-punk permafrost of 1980s UK.
-image: /img/fbPic266.jpg
-musiColor: /img/musiColor266.png
+image: /img/fbpic266.jpg
+musiColor: /img/musicolor266.png
 pubDate: 2017-06-25
 track1:
   title: Fela Kuti - Power Show (Edit)

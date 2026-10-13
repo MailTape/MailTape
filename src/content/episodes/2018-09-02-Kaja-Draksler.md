@@ -9,9 +9,9 @@ guest_color: dreamy
 description: Welcome back to a new season of MailTape. This morning we welcome
   one of my favourite pianist-composers, Kaja Draksler, who supplies us with a
   dreamy Sunday morning selection of chorales and solo piano.
-guestPic: /img/guestPic321.jpg
-musiColor: /img/musiColor321.png
-image: /img/fbPic321.jpg
+guestPic: /img/guestpic321.jpg
+musiColor: /img/musicolor321.png
+image: /img/fbpic321.jpg
 pubDate: 2018-09-02
 track1:
   title: The Tahitian Choir – Tahiti Choir Music

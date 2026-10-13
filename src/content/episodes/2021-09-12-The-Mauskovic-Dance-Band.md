@@ -6,9 +6,9 @@ illustrator: Jason Pridham
 writer: Jules
 guest_name: The Mauskovic Dance Band
 guest_color: trippy
-musiColor: /img/" musiColor461.png"
-guestPic: /img/guestPic461.jpg
-image: /img/fbPic461.png
+musiColor: /img/" musicolor461.png"
+guestPic: /img/guestpic461.jpg
+image: /img/fbpic461.png
 description: This morning something strange is floating in the air. The sky
   takes on psychedelic colors; the sun hits the windows like percussions. Can
   you see The Mauskovic Dance Band slowly emerging from the clouds to join us

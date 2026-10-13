@@ -6,9 +6,9 @@ illustrator: Pierre-Julien Fieux
 writer: Sanjay Mistry
 guest_name: Yazz Ahmed
 guest_color: trippy
-guestPic: /img/guestPic286.jpg
-musiColor: /img/musiColor286.png
-image: /img/fbPic286.jpg
+guestPic: /img/guestpic286.jpg
+musiColor: /img/musicolor286.png
+image: /img/fbpic286.jpg
 description: This morning we are delighted to collaborate with trumpeter and
   composer Yazz Ahmed and get a glimpse into her Sunday morning jukebox with
   MailTape.

@@ -6,9 +6,9 @@ author: Sarah
 illustrator: Camille Célestin
 writer: Sarah
 guest_color: vibrant
-guestPic: /img/guestPic516.jpg
-image: /img/fbPic516.png
-musiColor: /img/musiColor516.png
+guestPic: /img/guestpic516.jpg
+image: /img/fbpic516.png
+musiColor: /img/musicolor516.png
 description: The dancefloor energy is bleeding into the morning hours this
   Sunday as we welcome Lecomte de Brégeot to MailTape :) Based in Lyon, the
   discography of Lecomte de Brégeot (aka Yannick Lecomte) graces runways across

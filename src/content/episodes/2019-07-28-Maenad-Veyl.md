@@ -13,9 +13,9 @@ description: This morning, let's revel in the lush universe of Maenad Veyl, one
   sunday is no exception to that, a stroll through fresh ambient layers, a warm
   jazzy afrobeat piece or even a trension-building drum-and-bass track, all in
   restraint.
-image: /img/fbPic368.png
-musiColor: /img/musiColor368.png
-guestPic: /img/guestPic368.jpg
+image: /img/fbpic368.png
+musiColor: /img/musicolor368.png
+guestPic: /img/guestpic368.jpg
 pubDate: 2019-07-28
 track1:
   title: MY DISCO - Exercise in Sacrifice

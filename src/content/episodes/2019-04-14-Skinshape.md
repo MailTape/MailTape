@@ -6,9 +6,9 @@ illustrator: Camille Célestin
 writer: Jules
 guest_name: Skinshape
 guest_color: dreamy
-guestPic: /img/guestPic353.jpg
-image: /img/fbPic353new.png
-musiColor: /img/musiColor353.png
+guestPic: /img/guestpic353.jpg
+image: /img/fbpic353new.png
+musiColor: /img/musicolor353.png
 description: This morning, Skinshape is welcoming us aboard his creative ship,
   you'd better be ready to weigh the anchor, sailor boys! From the Horn of
   Africa to foggy pirate havens, from the peaceful lands of England to the

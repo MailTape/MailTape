@@ -5,14 +5,14 @@ author: ImaCrea
 illustrator: Pierre-Julien Fieux
 guest_name: Yellow Days
 guest_color: bliss
-guestPic: /img/guestPic279.jpg
+guestPic: /img/guestpic279.jpg
 writer: ImaCrea
 description: "This morning, we keep it smooth and easy with this delicate indie
   selection made with the talented 17 years old Yellow Days, aka George Van Den
   Broek. Autumn just started 3 days ago, let’s stay in bed a little longer and
   plan our next vacation... "
-image: /img/fbPic279.png
-musiColor: /img/musiColor279.png
+image: /img/fbpic279.png
+musiColor: /img/musicolor279.png
 pubDate: 2017-09-24
 track1:
   title: Run DMT - Romantic

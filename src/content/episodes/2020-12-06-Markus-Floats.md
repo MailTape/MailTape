@@ -6,11 +6,11 @@ illustrator: Anthony Dujardin
 writer: Sanjay Mistry
 guest_name: Markus Floats
 guest_color: bliss
-guestPic: /img/guestPic428.jpg
-image: /img/fbPic428.png
+guestPic: /img/guestpic428.jpg
+image: /img/fbpic428.png
 description: This morning we welcome Markus Floats to select three snake-hipped
   Sunday morning tunes with us on MailTape.
-musiColor: /img/musiColor428.png
+musiColor: /img/musicolor428.png
 pubDate: 2020-12-06
 track1:
   title: Ma$e (ft. Billy Lawrence) – Love U So

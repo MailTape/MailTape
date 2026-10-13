@@ -5,9 +5,9 @@ guest_name: The Growth Eternal
 writer: Sarah
 illustrator: Noémie Dijon
 author: Sarah
-musiColor: /img/musiColor454.png
-guestPic: /img/guestPic454.jpg
-image: /img/fbPic454.png
+musiColor: /img/musicolor454.png
+guestPic: /img/guestpic454.jpg
+image: /img/fbpic454.png
 guest_color: dreamy
 description: This Sunday, we welcome The Growth Eternal to MailTape for an
   eclectic collection to jumpstart your morning :) Based in Los Angeles, The

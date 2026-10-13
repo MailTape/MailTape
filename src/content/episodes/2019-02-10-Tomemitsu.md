@@ -6,15 +6,15 @@ illustrator: Camille Célestin
 writer: Anaïs G
 guest_name: Tomemitsu
 guest_color: dreamy
-guestPic: /img/guestPic344.jpg
-image: /img/fbPic344.png
+guestPic: /img/guestpic344.jpg
+image: /img/fbpic344.png
 description: "This morning, like a divine light coming from nowhere, caressing
   our bodies, music moves us, borders us with our fingertips and astonishes us.
   Differentiated by its infinity, by these genres and multiple styles, it
   transports the spirits to take them into parallel worlds, this is what
   Tomemitsu shares with us this Sunday morning through a high selection in
   musical color.  "
-musiColor: /img/musiColor344.png
+musiColor: /img/musicolor344.png
 pubDate: 2019-02-10
 track1:
   title: Sam Cooke and The Soul Stirrers - Christ it All

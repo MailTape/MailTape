@@ -6,7 +6,7 @@ guest_color: dreamy
 author: Sarah
 writer: Sarah
 illustrator: Julie Wojtczak
-musiColor: /img/musiColor415.png
+musiColor: /img/musicolor415.png
 description: This morning, we are thrilled to welcome Mini Trees to host the
   first MailTape episode of September! Lexi Vega played drums in the Los Angeles
   indie scene for many years before emerging as an artist with her solo project,
@@ -17,8 +17,8 @@ description: This morning, we are thrilled to welcome Mini Trees to host the
   of self acceptance. Effortlessly, Mini Trees pairs this emotionally candid
   quality with a dreamy undercurrent. Listening to her second EP **Slip Away**
   feels like walking through the galleries of her very thoughts.
-image: /img/fbPic415.png
-guestPic: /img/guestPic415.jpg
+image: /img/fbpic415.png
+guestPic: /img/guestpic415.jpg
 pubDate: 2020-09-06
 track1:
   title: Porches - Do U Wanna

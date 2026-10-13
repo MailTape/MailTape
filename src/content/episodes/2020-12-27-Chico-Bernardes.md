@@ -6,9 +6,9 @@ illustrator: Camille Célestin
 writer: Sarah
 guest_name: Chico Bernardes
 guest_color: bliss
-image: /img/fbPic431.png
-musiColor: /img/musiColor431.png
-guestPic: /img/guestPic431.jpg
+image: /img/fbpic431.png
+musiColor: /img/musicolor431.png
+guestPic: /img/guestpic431.jpg
 description: The last Sunday morning of 2020 has arrived, and so does our last
   MailTape episode of this year. For our reflections and sighs that accompany
   leaving this year, we take comfort in the music that has buoyed us through

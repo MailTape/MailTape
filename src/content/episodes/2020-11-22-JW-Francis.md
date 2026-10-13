@@ -1,13 +1,13 @@
 ---
 bigTitle_font_ratio: "6"
 published: true
-guestPic: /img/guestPic426.jpg
+guestPic: /img/guestpic426.jpg
 writer: Sarah
 illustrator: Camille Célestin
 author: Sarah
 guest_color: vibrant
-musiColor: /img/musiColor426.png
-image: /img/fbPic426.png
+musiColor: /img/musicolor426.png
+image: /img/fbpic426.png
 guest_name: JW Francis
 description: This morning, we are delighted to welcome JW Francis to MailTape
   for a playlist of flowing instrumentals and gentle melodies to ease into your

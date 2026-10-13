@@ -5,9 +5,9 @@ author: Marion
 writer: Marion
 guest_name: Marc Desse
 guest_color: bliss
-guestPic: /img/guestPic412.jpg
-musiColor: /img/musiColor412.png
-image: /img/fbPic412.png
+guestPic: /img/guestpic412.jpg
+musiColor: /img/musicolor412.png
+image: /img/fbpic412.png
 description: This morning, we are pleased to welcome Marc Desse to select 3
   Sunday morning songs. He's a French singer and musician, who mixes hedonist
   texts with a laid-back style, creating spontaneously a warm and languid sound.

@@ -5,9 +5,9 @@ guest_color: vibrant
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
 guest_name: Chill Bump
-guestPic: /img/guestPic167.jpg
-image: /img/fbPic167.jpg
-musiColor: /img/musiColor167.png
+guestPic: /img/guestpic167.jpg
+image: /img/fbpic167.jpg
+musiColor: /img/musicolor167.png
 description: This morning, let's dance and celebrate 2015 to the selection of
   the powerful duo Chill Bump.
 pubDate: 2015-01-04

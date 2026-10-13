@@ -5,9 +5,9 @@ published: true
 author: Louise
 illustrator: Pierre-Julien Fieux
 guest_name: Monomotion
-guestPic: /img/guestPic228.jpg
-image: /img/fbPic228.jpg
-musiColor: /img/musiColor228.png
+guestPic: /img/guestpic228.jpg
+image: /img/fbpic228.jpg
+musiColor: /img/musicolor228.png
 writer: Louise
 guest_color: bliss
 description: This morning, we're back and on fire! Our guest is parisian

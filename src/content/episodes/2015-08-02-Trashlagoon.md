@@ -4,9 +4,9 @@ author: Ludovic
 guest_color: rough
 bigTitle_font_ratio: "6"
 guest_name: Trashlagoon
-guestPic: /img/guestPic197.jpg
-image: /img/fbPic197.jpg
-musiColor: /img/musiColor197.png
+guestPic: /img/guestpic197.jpg
+image: /img/fbpic197.jpg
+musiColor: /img/musicolor197.png
 description: This Sunday, Trashlagoon, comprising of the German duo Sebastian
   Welicki and Niklas Freund will take on itself to port you to their fantastic
   world of atmospheric soundscapes and melodies.

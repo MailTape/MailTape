@@ -6,9 +6,9 @@ illustrator: Lucie Fléty
 writer: Anto
 guest_name: Julia Bondar
 guest_color: rough
-guestPic: /img/guestPic529.jpg
-image: fbPic529.jpg
-musiColor: /img/musiColor529.png
+guestPic: /img/guestpic529.jpg
+image: fbpic529.jpg
+musiColor: /img/musicolor529.png
 description: This morning... Oh wait ! It’s morning already ? We didn't see it
   coming. It’s   like we got stuck in that club, where we lived a thousand lives
   in a single   night.

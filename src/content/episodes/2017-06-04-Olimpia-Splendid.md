@@ -5,12 +5,12 @@ author: Sanjay Mistry
 illustrator: Pierre-Julien Fieux
 guest_name: Olimpia Splendid
 guest_color: trippy
-image: /img/fbPic263.jpg
-musiColor: /img/musiColor263.png
+image: /img/fbpic263.jpg
+musiColor: /img/musicolor263.png
 description: This morning, we enter a hypnotic and dreamy world with Heta
   Bilaletdin, Jonna Karanka and Katri Sipiläinen of Finland-based trio, Olimpia
   Splendid.
-guestPic: /img/guestPic263.jpg
+guestPic: /img/guestpic263.jpg
 pubDate: 2017-06-04
 track1:
   title: MIAUX — Above The High Rays

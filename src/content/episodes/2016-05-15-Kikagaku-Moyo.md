@@ -1,13 +1,13 @@
 ---
 bigTitle_font_ratio: "6"
 published: true
-image: /img/fbPic217.jpg
-musiColor: /img/musiColor217.png
+image: /img/fbpic217.jpg
+musiColor: /img/musicolor217.png
 author: Louise
 illustrator: Anais Caura
 writer: Louise
 guest_name: Kikagaku Moyo
-guestPic: /img/guestPic217.jpg
+guestPic: /img/guestpic217.jpg
 description: This morning, enjoy a walk through the mind with a psyche selection
   by our guest of the week, Kikagaku Moyo. It's time to stop and think.
 guest_color: dreamy

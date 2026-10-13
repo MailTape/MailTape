@@ -15,7 +15,7 @@ description: This morning, we're extremely grateful to celebrate our 600th
   abstract mental landscapes that remind me of Gerhard Richter's paintings. He
   mentioned he’s about to release an album soon, so be sure to keep an eye out
   for it.
-image: /img/fbPic600.jpg
+image: /img/fbpic600.jpg
 musiColor: /img/musicolor600.png
 track1:
   title: Lukas Koenig - Full Mantis (ft. Guilty Simpson)

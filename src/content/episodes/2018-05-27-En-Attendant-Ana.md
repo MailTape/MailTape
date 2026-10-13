@@ -10,11 +10,11 @@ description: This morning, we are delighted to welcome the garage pop band En
   in April. And while the RATP’s (transport company for Paris) lost property
   offices handle over 500 000 items a year, the 13 powerful and faux-naïf songs
   of the LP are enough to place En Attendant Ana as a very promising band.
-guestPic: /img/guestPic314.jpg
-image: /img/fbPic314.jpg
+guestPic: /img/guestpic314.jpg
+image: /img/fbpic314.jpg
 writer: Charlotte
 illustrator: Camille Célestin
-musiColor: /img/musiColor314.png
+musiColor: /img/musicolor314.png
 pubDate: 2018-05-27
 track1:
   title: Electrelane - The Greater Times

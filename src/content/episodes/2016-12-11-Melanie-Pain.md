@@ -6,9 +6,9 @@ illustrator: Anais Caura
 writer: Louise
 guest_name: Mélanie Pain
 guest_color: bliss
-guestPic: /img/guestPic238.jpg
-image: /img/FBPic238.jpg
-musiColor: /img/musiColor238.png
+guestPic: /img/guestpic238.jpg
+image: /img/fbpic238.jpg
+musiColor: /img/musicolor238.png
 description: This morning, we will enjoy a tasty breakfast prepared with love by
   our guest Mélanie Pain.
 pubDate: 2016-12-11

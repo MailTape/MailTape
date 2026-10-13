@@ -5,10 +5,10 @@ guest_color: vibrant
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
 guest_name: Harleighblu
-guestPic: /img/guestPic152.jpg
-image: /img/fbPic152.jpg
+guestPic: /img/guestpic152.jpg
+image: /img/fbpic152.jpg
 description: "This morning, we're back and with a Lady: please welcome Harleighblu !"
-musiColor: /img/musiColor152.png
+musiColor: /img/musicolor152.png
 pubDate: 2014-09-21
 track1:
   title: Bilal - When will you call

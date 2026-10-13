@@ -5,9 +5,9 @@ guest_name: World Brain
 writer: Daisy
 author: ImaCrea
 illustrator: Anthony Dujardin
-guestPic: /img/guestPic435.jpg
-image: /img/fbPic435.png
-musiColor: /img/musiColor435.png
+guestPic: /img/guestpic435.jpg
+image: /img/fbpic435.png
+musiColor: /img/musicolor435.png
 description: This morning, some delicious morsels of sonic data have found their
   way to us, beamed directly from the mind of World Brain (or Lucas Ufo IRL).
   These nifty signals hold secrets to be unravelled, spilling all around us and

@@ -5,9 +5,9 @@ guest_color: dreamy
 bigTitle_font_ratio: "10"
 bigTitle_line_ratio: "1"
 guest_name: Trevor Dickson
-guestPic: /img/guestPic185.jpg
-image: /img/fbPic185.jpg
-musiColor: /img/musiColor185.png
+guestPic: /img/guestpic185.jpg
+image: /img/fbpic185.jpg
+musiColor: /img/musicolor185.png
 description: This morning, enjoy the musical universe of a charming modern
   crooner. All this exotics percussions mixed with his crooner voice, sound to
   me as a fresh summer cocktail.

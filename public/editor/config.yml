@@ -21,7 +21,7 @@ media_libraries:
 site_url: https://www.mailta.pe
 logout_redirect_url: https://www.mailta.pe
 logo:
-  src: https://www.mailta.pe/img/logo_MailTape_static.png
+  src: https://www.mailta.pe/img/logo_mailtape_static.png
   show_in_header: true
 app_title: MailTape Editor
 
@@ -287,6 +287,6 @@ collections:
         value: "{{fields.body | truncate(200, '...')}}"
         preview: false
       # - { label: "FB Pic", required: false, name: "image" , widget: "string", hint: "Once fbPic uploaded, write here its FULL PATH. Convention : https://www.mailta.pe/img/fbPic131.png"}
-      - { label: "FB Pic", required: false, name: "image", widget: "image", media_library: {media_folder: "/public/img",config: { max_file_size: 1024000 } } }
-      - { label: "MusiColor", required: false, name: "musiColor", widget: "image", media_library: {media_folder: "/public/img",config: { max_file_size: 1024000 } } }
+      - { label: "FB Pic", preview: false, required: false, name: "image", widget: "image", media_library: {media_folder: "/public/img",config: { max_file_size: 1024000 } } }
+      - { label: "MusiColor", preview: false, required: false, name: "musiColor", widget: "image", media_library: {media_folder: "/public/img",config: { max_file_size: 1024000 } } }
       - { label: "Refine image vertical alignment (optional)", required: false, preview: false, name: "alignY", widget: "string", hint: "This let you refine vertical alignement of guestPic. Can be center/top/bottom or any number between 0.0 and 1.0."}

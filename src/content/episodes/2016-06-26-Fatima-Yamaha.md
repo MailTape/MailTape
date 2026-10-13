@@ -4,10 +4,10 @@ published: true
 author: Ludovic
 illustrator: Camille Célestin
 writer: ImaCrea
-image: /img/fbPic223.png
-musiColor: /img/musiColor223.png
+image: /img/fbpic223.png
+musiColor: /img/musicolor223.png
 guest_name: Fatima Yamaha
-guestPic: /img/guestPic223.jpg
+guestPic: /img/guestpic223.jpg
 guest_color: rough
 description: "This morning is sunnier than ever. Nights are getting shorter and
   parties longer. As he did on the latest WeLoveGreen festival, Fatima Yamaha

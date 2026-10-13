@@ -6,9 +6,9 @@ illustrator: Noémie Dijon
 writer: Jules
 guest_name: NxQuantize
 guest_color: trippy
-musiColor: /img/musiColor540.png
-guestPic: /img/guestPic540.jpg
-image: /img/fbPic540.png
+musiColor: /img/musicolor540.png
+guestPic: /img/guestpic540.jpg
+image: /img/fbpic540.png
 description: This morning, we welcome Marseille-based artist and electronic
   music producer NxQuantize to MailTape! After welcoming label boss Goldie B in
   episode 537, we're delighted to shine the spotlight on another Omakase

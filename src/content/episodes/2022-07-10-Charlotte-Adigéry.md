@@ -6,9 +6,9 @@ illustrator: Anthony Dujardin
 writer: Sarah
 guest_name: Charlotte Adigéry
 guest_color: vibrant
-guestPic: /img/guestPic500.jpg
-musiColor: /img/musiColor500.png
-image: /img/fbPic500.png
+guestPic: /img/guestpic500.jpg
+musiColor: /img/musicolor500.png
+image: /img/fbpic500.png
 description: Our 500th episode of MailTape this morning!! This year and since
   2012, we've welcomed so many wonderful guests, sharing love for music with our
   loyal listeners every Sunday. It's hard not to feel sentimental with this

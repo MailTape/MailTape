@@ -6,10 +6,10 @@ author: Anaïs G
 illustrator: Julie Wojtczak
 writer: Anaïs G
 guest_name: Good Morning TV
-guestPic: /img/guestPic452.jpg
+guestPic: /img/guestpic452.jpg
 guest_color: dreamy
-image: /img/fbPic452.png
-musiColor: /img/musiColor452
+image: /img/fbpic452.png
+musiColor: /img/musicolor452
 description: This morning, we’re back to a pretty normal life. We can plan to
   have brunches at the local restaurant, or join some friends at the bar
   downstairs and enjoy every moment that life gives us. It is with this

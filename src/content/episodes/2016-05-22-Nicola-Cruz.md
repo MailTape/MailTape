@@ -6,9 +6,9 @@ illustrator: Camille Célestin
 writer: ImaCrea
 guest_name: Nicola Cruz
 guest_color: dreamy
-guestPic: /img/guestPic218.jpg
-image: /img/fbPic218.jpg
-musiColor: /img/musiColor218.png
+guestPic: /img/guestpic218.jpg
+image: /img/fbpic218.jpg
+musiColor: /img/musicolor218.png
 description: This morning, we’re taking you on a walk in the forest. Our guest
   Nicola Cruz shared with us his visionary tracks where electronic sounds bring
   us to Nature. He collaborated with Nicolas Jaar and has just released his

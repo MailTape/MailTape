@@ -6,9 +6,9 @@ illustrator: Meriam Kharbat
 writer: ImaCrea
 guest_name: Martin Dupont
 guest_color: vibrant
-guestPic: /img/guestPic525.png
-image: /img/fbPic525.jpg
-musiColor: /img/musiColor525.png
+guestPic: /img/guestpic525.png
+image: /img/fbpic525.jpg
+musiColor: /img/musicolor525.png
 description: This morning, get ready to start your day with a heartfelt and
   captivating episode of MailTape with Martin Dupont! We're thrilled to share
   with you a special selection of hidden gems that we've curated after

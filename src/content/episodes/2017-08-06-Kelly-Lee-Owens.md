@@ -5,9 +5,9 @@ author: Louise
 illustrator: Pierre-Julien Fieux
 guest_name: Kelly Lee Owens
 guest_color: bliss
-guestPic: /img/guestPic272.jpg
-image: /img/fbPic272.png
-musiColor: /img/musiColor272.png
+guestPic: /img/guestpic272.jpg
+image: /img/fbpic272.png
+musiColor: /img/musicolor272.png
 writer: Daisy
 description: This morning, slip into cruise control. Kelly Lee Owens is here,
   and the listening is easy. Travel a new map along roads that you thought you

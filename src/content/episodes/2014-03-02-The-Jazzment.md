@@ -5,9 +5,9 @@ guest_color: dreamy
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
 guest_name: The Jazzment
-guestPic: /img/guestPic130.jpg
-image: /img/fbPic130.jpg
-musiColor: /img/musiColor130.png
+guestPic: /img/guestpic130.jpg
+image: /img/fbpic130.jpg
+musiColor: /img/musicolor130.png
 description: This morning, please welcome, smoothly, The Jazzment. Most of us
   stick to some artists over the years, coming back listening to them for they
   carry some special feeling and memories. That's the case for me with The

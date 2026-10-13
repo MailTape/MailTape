@@ -20,7 +20,7 @@ description: >
   that stir us, as much as they make us feel alive, if only we listen. So, take
   a deep breath, and let's start by listening to this episode, made with lots of
   tenderness.
-image: /img/fbPic599.png
+image: /img/fbpic599.png
 musiColor: /img/musicolor599.png
 track1:
   title: Melanie - People in the front row

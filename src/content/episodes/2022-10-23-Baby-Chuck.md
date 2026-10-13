@@ -6,14 +6,14 @@ illustrator: Meriam Kharbat
 writer: Sarah
 guest_name: Baby Chuck
 guest_color: dreamy
-guestPic: /img/guestPic502.jpg
+guestPic: /img/guestpic502.jpg
 description: This morning, we're delighted to welcome Baby Chuck to MailTape for
   an eclectic collection that'll jump start your day. Based in Los Angeles, Baby
   Chuck (Matt O'Keefe) joins us a month after releasing his most recent album,
   Warm Infinity. The release examines the essence of memories and the varied
   nostalgia they bring.
-musiColor: /img/musiColor502.png
-image: /img/fbPic502.png
+musiColor: /img/musicolor502.png
+image: /img/fbpic502.png
 pubDate: 2022-10-23
 track1:
   title: Ryan Sambol - You're Still Lovable to Someone

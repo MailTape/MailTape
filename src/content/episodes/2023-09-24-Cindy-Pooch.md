@@ -6,9 +6,9 @@ illustrator: Camille Lemeunier
 writer: ImaCrea
 guest_name: Cindy Pooch
 guest_color: bliss
-guestPic: /img/guestPic535.jpg
-image: /img/fbPic535.jpg
-musiColor: /img/musiColor535.png
+guestPic: /img/guestpic535.jpg
+image: /img/fbpic535.jpg
+musiColor: /img/musicolor535.png
 description: This morning, we embark on a gentle and ethereal journey with the
   delightful presence of Cindy Pooch as our esteemed guest. She's leading us
   into a realm where music transcends its mere auditory form, serving as a
