@@ -1,20 +1,13 @@
 ---
-bigTitle_font_ratio: "6"
 published: true
-author: ImaCrea
-illustrator: Meriam Kharbat
-writer: ImaCrea
+pubDate: 2023-04-23
+release: 525
 guest_name: Martin Dupont
 guest_color: vibrant
 guestPic: /img/guestpic525.png
-image: /img/fbpic525.jpg
-musiColor: /img/musicolor525.png
-description: This morning, get ready to start your day with a heartfelt and
-  captivating episode of MailTape with Martin Dupont! We're thrilled to share
-  with you a special selection of hidden gems that we've curated after
-  interviewing Alain Seghir, the leader of the band, following their live
-  performance in Spain.
-pubDate: 2023-04-23
+author: ImaCrea
+illustrator: Meriam Kharbat
+writer: ImaCrea
 track1:
   title: Dalis Car - Moonlife
   color: vibrant
@@ -43,7 +36,11 @@ track7:
   title: Art Fact - Rain in the South
   color: dreamy
   link: https://sounds.mailta.pe/525/track7.mp3
-release: 525
+description: This morning, get ready to start your day with a heartfelt and captivating episode of MailTape with [Martin Dupont](https://martindupont.bandcamp.com)! We're thrilled to share with you a special selec...
+image: /img/fbpic525.png
+musiColor: /img/musicolor525.png
+alignY: ''
+bigTitle_font_ratio: '6'
 ---
 
 This morning, get ready to start your day with a heartfelt and captivating episode of MailTape with [Martin Dupont](https://martindupont.bandcamp.com)! We're thrilled to share with you a special selection of hidden gems that we've curated after interviewing Alain Seghir, the leader of the band, following their live performance in Spain.

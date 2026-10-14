@@ -1,18 +1,13 @@
 ---
-bigTitle_font_ratio: "6"
 published: true
-author: Anto
-illustrator: Lucie Fléty
-writer: Anto
+pubDate: 2023-06-04
+release: 529
 guest_name: Julia Bondar
 guest_color: rough
 guestPic: /img/guestpic529.jpg
-image: fbpic529.jpg
-musiColor: /img/musicolor529.png
-description: This morning... Oh wait ! It’s morning already ? We didn't see it
-  coming. It’s   like we got stuck in that club, where we lived a thousand lives
-  in a single   night.
-pubDate: 2023-06-04
+author: Anto
+illustrator: Lucie Fléty
+writer: Anto
 track1:
   title: Luca Eck feat LVRA – Hide
   color: rough
@@ -41,7 +36,15 @@ track7:
   title: Dampa – Clubs
   color: vibrant
   link: https://sounds.mailta.pe/529/track7.mp3
-release: 529
+description: |-
+  This morning... Oh wait ! It’s morning already ?
+  We didn't see it coming. It’s like we got stuck in that club, where we lived a thousand lives in a single night.
+  <br>
+    From the frenzied rhythms that...
+image: /img/fbpic529.jpg
+musiColor: /img/musicolor529.png
+alignY: ''
+bigTitle_font_ratio: '6'
 ---
 
 This morning... Oh wait ! It’s morning already ?

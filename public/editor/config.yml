@@ -21,7 +21,7 @@ media_libraries:
 site_url: https://www.mailta.pe
 logout_redirect_url: https://www.mailta.pe
 logo:
-  src: https://www.mailta.pe/img/logo_mailtape_static.png
+  src: /img/logo_mailtape_static.png
   show_in_header: true
 app_title: MailTape Editor
 
@@ -106,12 +106,10 @@ collections:
           - label: Band - Title
             name: title
             widget: string
-            required: false
             hint: "ex: David Bowie - Let's Dance"
           - label: "Color"
             name: color
             widget: select
-            required: false
             options:
               - {label: "Bliss", value: "bliss"}
               - {label: "Dreamy", value: "dreamy"}
@@ -121,9 +119,11 @@ collections:
           - label: "Link"
             name: link
             widget: file
-            required: false
+            accept: audio/mpeg,.mp3
             media_libraries:
               default: false
+              all:
+                filename_template: track1
       - label: "Track 2"
         name: track2
         widget: object
@@ -132,12 +132,10 @@ collections:
           - label: Band - Title
             name: title
             widget: string
-            required: false
             hint: "ex: David Bowie - Let's Dance"
           - label: "Color"
             name: color
             widget: select
-            required: false
             options:
               - {label: "Bliss", value: "bliss"}
               - {label: "Dreamy", value: "dreamy"}
@@ -147,9 +145,11 @@ collections:
           - label: "Link"
             name: link
             widget: file
-            required: false
+            accept: audio/mpeg,.mp3
             media_libraries:
               default: false
+              all:
+                filename_template: track2
       - label: "Track 3"
         name: track3
         widget: object
@@ -158,12 +158,10 @@ collections:
           - label: Band - Title
             name: title
             widget: string
-            required: false
             hint: "ex: David Bowie - Let's Dance"
           - label: "Color"
             name: color
             widget: select
-            required: false
             options:
               - {label: "Bliss", value: "bliss"}
               - {label: "Dreamy", value: "dreamy"}
@@ -173,9 +171,11 @@ collections:
           - label: "Link"
             name: link
             widget: file
-            required: false
+            accept: audio/mpeg,.mp3
             media_libraries:
               default: false
+              all:
+                filename_template: track3
       - label: "Track 4"
         name: track4
         widget: object
@@ -184,12 +184,10 @@ collections:
           - label: Band - Title
             name: title
             widget: string
-            required: false
             hint: "ex: David Bowie - Let's Dance"
           - label: "Color"
             name: color
             widget: select
-            required: false
             options:
               - {label: "Bliss", value: "bliss"}
               - {label: "Dreamy", value: "dreamy"}
@@ -199,9 +197,11 @@ collections:
           - label: "Link"
             name: link
             widget: file
-            required: false
+            accept: audio/mpeg,.mp3
             media_libraries:
               default: false
+              all:
+                filename_template: track4
       - label: "Track 5"
         name: track5
         widget: object
@@ -210,12 +210,10 @@ collections:
           - label: Band - Title
             name: title
             widget: string
-            required: false
             hint: "ex: David Bowie - Let's Dance"
           - label: "Color"
             name: color
             widget: select
-            required: false
             options:
               - {label: "Bliss", value: "bliss"}
               - {label: "Dreamy", value: "dreamy"}
@@ -225,9 +223,11 @@ collections:
           - label: "Link"
             name: link
             widget: file
-            required: false
+            accept: audio/mpeg,.mp3
             media_libraries:
               default: false
+              all:
+                filename_template: track5
       - label: "Track 6"
         name: track6
         widget: object
@@ -236,12 +236,10 @@ collections:
           - label: Band - Title
             name: title
             widget: string
-            required: false
             hint: "ex: David Bowie - Let's Dance"
           - label: "Color"
             name: color
             widget: select
-            required: false
             options:
               - {label: "Bliss", value: "bliss"}
               - {label: "Dreamy", value: "dreamy"}
@@ -251,9 +249,11 @@ collections:
           - label: "Link"
             name: link
             widget: file
-            required: false
+            accept: audio/mpeg,.mp3
             media_libraries:
               default: false
+              all:
+                filename_template: track6
       - label: "Track 7"
         name: track7
         widget: object
@@ -262,12 +262,10 @@ collections:
           - label: Band - Title
             name: title
             widget: string
-            required: false
             hint: "ex: David Bowie - Let's Dance"
           - label: "Color"
             name: color
             widget: select
-            required: false
             options:
               - {label: "Bliss", value: "bliss"}
               - {label: "Dreamy", value: "dreamy"}
@@ -277,16 +275,35 @@ collections:
           - label: "Link"
             name: link
             widget: file
-            required: false
+            accept: audio/mpeg,.mp3
             media_libraries:
               default: false
+              all:
+                filename_template: track7
       - { label: 'Episode content', required: false, name: 'body', widget: 'markdown', default: "This morning... \n # Guest's selection \n ## Artist - Track \n Guest: **\"** lorem ipsum **\"** \n ## Artist - Track \n Guest: **\"** lorem ipsum **\"** \n ## Artist - Track \n Guest: **\"** lorem ipsum **\"** \n # Curator's selection \n ## Artist - Track \n Curator: **\"** lorem ipsum **\"** \n ## Artist - Track \n Curator: **\"** lorem ipsum **\"** \n ## Artist - Track \n Curator: **\"** lorem ipsum **\"** \n ## Artist - Track \n Curator: **\"** lorem ipsum **\"** \n\n Thank you... "}
       - name: description
         label: "Description generated from episode intro (180 chars. max)"
         widget: compute
         value: "{{fields.body | truncate(200, '...')}}"
         preview: false
-      # - { label: "FB Pic", required: false, name: "image" , widget: "string", hint: "Once fbPic uploaded, write here its FULL PATH. Convention : https://www.mailta.pe/img/fbPic131.png"}
-      - { label: "FB Pic", preview: false, required: false, name: "image", widget: "image", media_library: {media_folder: "/public/img",config: { max_file_size: 1024000 } } }
-      - { label: "MusiColor", preview: false, required: false, name: "musiColor", widget: "image", media_library: {media_folder: "/public/img",config: { max_file_size: 1024000 } } }
+      - label: "FB Pic"
+        preview: false
+        required: false
+        name: "image"
+        widget: "image"
+        media_libraries:
+            all:
+              max_file_size: 1024000
+              filename_template: fbpic{{release}}
+            aws_s3: false
+      - label: "MusiColor"
+        preview: false
+        required: false
+        name: "musiColor"
+        widget: "image"
+        media_libraries:
+            all:
+              max_file_size: 1024000
+              filename_template: musicolor{{release}}
+            aws_s3: false
       - { label: "Refine image vertical alignment (optional)", required: false, preview: false, name: "alignY", widget: "string", hint: "This let you refine vertical alignement of guestPic. Can be center/top/bottom or any number between 0.0 and 1.0."}
