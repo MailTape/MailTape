@@ -20,10 +20,22 @@ track3:
   title: Mathématiques Modernes - Jungle Hurt
   color: trippy
   link: https://sounds.mailta.pe/617/track3.mp3
-track4: null
-track5: null
-track6: null
-track7: null
+track4:
+  title: Charlotte Leclerc - La Chambre
+  color: trippy
+  link: https://sounds.mailta.pe/617/track4.mp3
+track5:
+  title: Spivak - Golden Boy
+  color: trippy
+  link: https://sounds.mailta.pe/617/track5.mp3
+track6:
+  title: Froid Dub - On The Nose
+  color: trippy
+  link: https://sounds.mailta.pe/617/track6.mp3
+track7:
+  title: Peach - Rainy Season
+  color: trippy
+  link: https://sounds.mailta.pe/617/track7.mp3
 description: |-
   This morning...
   # Charlotte Leclerc's selection 
