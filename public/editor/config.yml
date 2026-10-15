@@ -3,7 +3,7 @@
 backend:
   name: github
   repo: MailTape/MailTape
-  branch: newCMS
+  branch: main
 
 media_folder: "public/img" # Location where files will be stored in the repo
 public_folder: "/img" # The src attribute for uploaded media
