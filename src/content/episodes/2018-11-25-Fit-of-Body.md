@@ -1,40 +1,46 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Jules
 illustrator: Camille Célestin
 writer: Jules
-category: '333'
 guest_name: Fit of Body
 guest_color: bliss
-track1_link: https://sounds.mailta.pe/333/track1.mp3
-track2_link: https://sounds.mailta.pe/333/track2.mp3
-track3_link: https://sounds.mailta.pe/333/track3.mp3
-track4_link: https://sounds.mailta.pe/333/track4.mp3
-track5_link: https://sounds.mailta.pe/333/track5.mp3
-track6_link: https://sounds.mailta.pe/333/track6.mp3
-track7_link: https://sounds.mailta.pe/333/track7.mp3
-track1_title: C. Memi + Neo Matisse - Dream's Dream
-track1_color: rough
-track2_title: Love Letters - Co-Locate
-track2_color: bliss
-track3_title: Randy Weston - Congolese Children
-track3_color: dreamy
-track4_title: Fit of Body - Black Box, No Cops
-track4_color: bliss
-track5_title: Tony Allen & Jeff Mills - The Seed
-track5_color: trippy
-track6_title: Leon Vynehall - Movements (Chapter III)
-track6_color: dreamy
-track7_title: Tirzah - Devotion (feat. Coby Sey)
-track7_color: vibrant
-episode_URL: http://mailta.pe/333/fit-of-body/
-guestPic: guestPic333.jpg
-musiColor: musiColor333.png
-description: This morning we are delighted to welcome Atlanta-based music producer Fit of Body to MailTape.
-image: https://www.mailta.pe/img/fbPic333new.jpg
-pubDate: '2018-11-25'
+guestPic: /img/guestpic333.jpg
+musiColor: /img/musicolor333.png
+description: This morning we are delighted to welcome Atlanta-based music
+  producer Fit of Body to MailTape.
+image: /img/fbpic333new.jpg
+pubDate: 2018-11-25
+track1:
+  title: C. Memi + Neo Matisse - Dream's Dream
+  color: rough
+  link: https://sounds.mailta.pe/333/track1.mp3
+track2:
+  title: Love Letters - Co-Locate
+  color: bliss
+  link: https://sounds.mailta.pe/333/track2.mp3
+track3:
+  title: Randy Weston - Congolese Children
+  color: dreamy
+  link: https://sounds.mailta.pe/333/track3.mp3
+track4:
+  title: Fit of Body - Black Box, No Cops
+  color: bliss
+  link: https://sounds.mailta.pe/333/track4.mp3
+track5:
+  title: Tony Allen & Jeff Mills - The Seed
+  color: trippy
+  link: https://sounds.mailta.pe/333/track5.mp3
+track6:
+  title: Leon Vynehall - Movements (Chapter III)
+  color: dreamy
+  link: https://sounds.mailta.pe/333/track6.mp3
+track7:
+  title: Tirzah - Devotion (feat. Coby Sey)
+  color: vibrant
+  link: https://sounds.mailta.pe/333/track7.mp3
+release: 333
 ---
 This morning we are delighted to welcome Atlanta-based music producer [Fit of Body](https://fitofbody.bandcamp.com/) to MailTape.
 <br><br>

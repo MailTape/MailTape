@@ -1,11 +1,12 @@
 ---
 import Tracklist from './Tracklist.astro';
+import { SITE_BASE_URL } from '../consts';
 
 interface Props {
 	  guest_name: string;
-    image?: string;
+    image: string;
 	  description: string;
-    category: string;
+    release: string;
     track1_link: string;
     track2_link: string;
     track3_link: string;
@@ -28,22 +29,23 @@ const {
     guest_name,
     image,
     description,
-    category,
+    release,
     track1_link,track2_link, track3_link,track4_link, track5_link,track6_link, track7_link,
     track1_title,track2_title, track3_title,track4_title, track5_title,track6_title, track7_title,
 } = Astro.props;
 
+// TODO checker cette partie, dont les data ne sont pas récupérées correctement dans le head
 const tracks_link=[track1_link,track2_link,track3_link,track4_link,track5_link,track6_link,track7_link];
 const tracks_title=[track1_title,track2_title,track3_title,track4_title,track5_title,track6_title,track7_title];
 
 ---
 <head>
 
-  <title>MailTape { category } - { guest_name }</title>
-  <meta property="og:title" content=`MailTape ${ category }  - ${guest_name}` />
+  <title>MailTape { release } - { guest_name }</title>
+  <meta property="og:title" content=`MailTape ${ release }  - ${guest_name}` />
   <meta property="og:type" content="article" />
   <meta property="og:url" content={ episodeURL } />
-  <meta property="og:image" content={ image } />
+  <meta property="og:image" content={new URL(image, SITE_BASE_URL).href} />
   <meta property="og:description" content={ description } />
 
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
@@ -136,9 +138,9 @@ const tracks_title=[track1_title,track2_title,track3_title,track4_title,track5_t
 
 
   <!-- autres data à faire passer au js -->
-  <script define:vars={{category}}>
+  <script define:vars={{release}}>
 
-  var episodeNumber = category;
+  var episodeNumber = release;
 
   </script>
 

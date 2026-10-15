@@ -1,40 +1,48 @@
 ---
-
 author: Maxime
 illustrator: William Girault
 writer: Maxime
-category: '214'
 guest_name: Michelle Blades
 guest_color: dreamy
-bigTitle_font_ratio: '6'
-guestPic: guestPic214.jpg
-track1_link: https://sounds.mailta.pe/214/track1.mp3
-track2_link: https://sounds.mailta.pe/214/track2.mp3
-track3_link: https://sounds.mailta.pe/214/track3.mp3
-track4_link: https://sounds.mailta.pe/214/track4.mp3
-track5_link: https://sounds.mailta.pe/214/track5.mp3
-track6_link: https://sounds.mailta.pe/214/track6.mp3
-track7_link: https://sounds.mailta.pe/214/track7.mp3
-track1_title: Stephen Steinbrink - The Punks
-track1_color: vibrant
-track2_title: Victor Jara - Te Recuerdo Amanda
-track2_color: vibrant
-track3_title: Eddy Crampes - Automne
-track3_color: trippy
-track4_title: Michelle Blades - New Friends
-track4_color: vibrant
-track5_title: Agar Agar - Prettiest Virgin
-track5_color: dreamy
-track6_title: Vendredi Sur Mer - La Femme à la Peau Bleue
-track6_color: dreamy
-track7_title: Fatnotronic & In Flagranti - Botoque
-track7_color: vibrant
-episode_URL: http://mailta.pe/214/Michelle-Blades/
-image: https://www.mailta.pe/img/fbPic214.jpg
-musiColor: musiColor214.png
-description: Hello there, this morning we gonna talk about the world. I mean, talk about Michelle Blades, a mexicano-Panamanian woman who lived in USA, then moved to Paris since 2012. It's quite the same than talking about globalization. Let's talk about the world of Michelle Blades.
+bigTitle_font_ratio: "6"
+guestPic: /img/guestpic214.jpg
+image: /img/fbpic214.jpg
+musiColor: /img/musicolor214.png
+description: Hello there, this morning we gonna talk about the world. I mean,
+  talk about Michelle Blades, a mexicano-Panamanian woman who lived in USA, then
+  moved to Paris since 2012. It's quite the same than talking about
+  globalization. Let's talk about the world of Michelle Blades.
 published: true
-pubDate: '2016-04-24'
+pubDate: 2016-04-24
+track1:
+  title: Stephen Steinbrink - The Punks
+  color: vibrant
+  link: https://sounds.mailta.pe/214/track1.mp3
+track2:
+  title: Victor Jara - Te Recuerdo Amanda
+  color: vibrant
+  link: https://sounds.mailta.pe/214/track2.mp3
+track3:
+  title: Eddy Crampes - Automne
+  color: trippy
+  link: https://sounds.mailta.pe/214/track3.mp3
+track4:
+  title: Michelle Blades - New Friends
+  color: vibrant
+  link: https://sounds.mailta.pe/214/track4.mp3
+track5:
+  title: Agar Agar - Prettiest Virgin
+  color: dreamy
+  link: https://sounds.mailta.pe/214/track5.mp3
+track6:
+  title: Vendredi Sur Mer - La Femme à la Peau Bleue
+  color: dreamy
+  link: https://sounds.mailta.pe/214/track6.mp3
+track7:
+  title: Fatnotronic & In Flagranti - Botoque
+  color: vibrant
+  link: https://sounds.mailta.pe/214/track7.mp3
+release: 214
 ---
  Hello there, this morning we're gonna talk about the world. I mean, talk about Michelle Blades, a mexicano-Panamanian woman who lived in the USA, then moved to Paris since 2012. It's quite the same than talking about globalization. Let's talk about the world of Michelle Blades. 
 

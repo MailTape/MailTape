@@ -1,40 +1,46 @@
 ---
-
-bigTitle_font_ratio: '6'
 published: true
-track7_link: https://sounds.mailta.pe/367/track7.mp3
-track5_link: https://sounds.mailta.pe/367/track5.mp3
-track2_link: https://sounds.mailta.pe/367/track2.mp3
-track3_link: https://sounds.mailta.pe/367/track3.mp3
-track2_title: Vendredi Sur Mer - La Femme à la Peau Bleue
-track5_title: Monsieur 6000 - Océan
-track6_title: Auren - Tout est permis
-track6_color: dreamy
-track7_title: 'Le Flegmatic - L''autre rive '
-track3_title: Mild High Club - Skiptracing
-track3_color: dreamy
-track4_title: 'Labotanique - Nature morte '
-track4_color: trippy
-track5_color: vibrant
-track7_color: bliss
-track2_color: vibrant
-track1_title: Flavien Berger - Pamplemousse
-track1_color: dreamy
-episode_URL: http://www.mailta.pe/367/labotanique/
-musiColor: musiColor367.png
+pubDate: 2019-07-21
+release: 367
 guest_name: Labotanique
-category: '367'
-guestPic: guestPic367.jpg
-description: This morning we leave in the forest far from the city, far from pollution, far from the crowded streets of tourists... A moment to get green, to recharge one's batteries in the country, is the philosophy of the Labotanique group
+guest_color: trippy
+guestPic: /img/guestpic367.jpg
 author: Anaïs G
 illustrator: Camille Célestin
 writer: Anaïs G
-guest_color: trippy
-track1_link: https://sounds.mailta.pe/367/Track1.mp3
-track4_link: https://sounds.mailta.pe/367/Track4.mp3
-track6_link: https://sounds.mailta.pe/367/Track6.mp3
-image: http://www.mailta.pe/img/fbPic367.png
-pubDate: '2019-07-21'
+track1:
+  title: Flavien Berger - Pamplemousse
+  color: dreamy
+  link: https://sounds.mailta.pe/367/Track1.mp3
+track2:
+  title: Vendredi Sur Mer - La Femme à la Peau Bleue
+  color: vibrant
+  link: https://sounds.mailta.pe/367/track2.mp3
+track3:
+  title: Mild High Club - Skiptracing
+  color: dreamy
+  link: https://sounds.mailta.pe/367/track3.mp3
+track4:
+  title: Labotanique - Nature morte
+  color: trippy
+  link: https://sounds.mailta.pe/367/Track4.mp3
+track5:
+  title: Monsieur 6000 - Océan
+  color: vibrant
+  link: https://sounds.mailta.pe/367/track5.mp3
+track6:
+  title: Auren - Tout est permis
+  color: dreamy
+  link: https://sounds.mailta.pe/367/Track6.mp3
+track7:
+  title: Le Flegmatic - L'autre rive
+  color: bliss
+  link: https://sounds.mailta.pe/367/track7.mp3
+description: This morning we leave in the forest far from the city, far from pollution, far from the crowded streets of tourists... A moment to get green, to recharge one's batteries in the country, is the philoso...
+image: /img/fbpic367.png
+musiColor: /img/musicolor367.png
+alignY: ''
+bigTitle_font_ratio: '6'
 ---
 
 
@@ -73,4 +79,4 @@ Anaïs G: **"** Unsettling, combative and sensual. It exudes such a force that y
 Anaïs G: **"** Like a cowboy, or an adventurer out of nowhere walking the roads in search of lost irony. Offbeat and a bit sarcastic, he plays with brilliance with the words (as the artists being in my selection). Waiting for this new EP "Ruines Nouvelles" which will be released at the end of August at [We Are Unique!Records](http://www.weareunique.fr/) and supported by [La Souterraine](https://souterraine.biz/), a beautiful glimpse with the title "L'autre rive". **"** 
 
 
-That's it for this morning! As always thank you so much for listening. Much love and respect to [Labotanique](https://labotanique.bandcamp.com/) for their Sunday selections, and to [Célestin](https://www.instagram.com/bravocamo/) for this stunning illustration. 
+That's it for this morning! As always thank you so much for listening. Much love and respect to [Labotanique](https://labotanique.bandcamp.com/) for their Sunday selections, and to [Célestin](https://www.instagram.com/bravocamo/) for this stunning illustration.

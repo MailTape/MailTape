@@ -1,46 +1,47 @@
 ---
 published: true
 pubDate: 2026-04-12
-category: "609"
-guest_name: "MP3 Nostalgia #1"
+release: 609
+guest_name: 'MP3 Nostalgia #1'
 guest_color: vibrant
-guestPic: guest609.jpg
+guestPic: /img/guest609.jpg
 author: Anto
 illustrator: Noémie Dijon
 writer: Anto
-track1_title: Gilbert Bécaud - Contre Vous
-track1_color: vibrant
-track1_link: https://sounds.mailta.pe/609/track1.mp3
-track2_title: Meiko Kaji - おんな叛き唄
-track2_color: bliss
-track2_link: https://sounds.mailta.pe/609/track2.mp3
-track3_title: Soom T -Alright
-track3_color: vibrant
-track3_link: https://sounds.mailta.pe/609/track3.mp3
-track4_title: Le cri du Caire - Pearls for Orphans
-track4_color: trippy
-track4_link: https://sounds.mailta.pe/609/track4.mp3
-track5_title: Smith – Baby it's you
-track5_color: vibrant
-track5_link: https://sounds.mailta.pe/609/track5.mp3
-track6_title: Téhu – Timeline
-track6_color: trippy
-track6_link: https://sounds.mailta.pe/609/track6.mp3
-track7_title: Rendez-Vous – Euroshima
-track7_color: rough
-track7_link: https://sounds.mailta.pe/609/track7.mp3
-description: "At Mailtape, we sometimes assume we're a bit old-fashioned. We are
-  from the generation of Walkmans, those from the 90s, into which we'd put old
-  cassettes, sometimes recorded ourselves. Then came portable CD players (with
-  scratched CDs and those that skipped some parts), and then the first MP3
-  players. Since then, it's been a musical orgy. But some of us have kept the
-  spirit of the MP3 player: carefully collecting fabulous tracks, downloading
-  them, and listening to them on our little device, in various contexts, often
-  intimate."
-episode_URL: https://www.mailta.pe/609/MP3-Nostalgia-1/
-image: https://www.mailta.pe/img/fbpic609.png
-musiColor: musicolor609.png
+track1:
+  title: Gilbert Bécaud - Contre Vous
+  color: vibrant
+  link: https://sounds.mailta.pe/609/track1.mp3
+track2:
+  title: Meiko Kaji - おんな叛き唄
+  color: bliss
+  link: https://sounds.mailta.pe/609/track2.mp3
+track3:
+  title: Soom T -Alright
+  color: vibrant
+  link: https://sounds.mailta.pe/609/track3.mp3
+track4:
+  title: Le cri du Caire - Pearls for Orphans
+  color: trippy
+  link: https://sounds.mailta.pe/609/track4.mp3
+track5:
+  title: Smith – Baby it's you
+  color: vibrant
+  link: https://sounds.mailta.pe/609/track5.mp3
+track6:
+  title: Téhu – Timeline
+  color: trippy
+  link: https://sounds.mailta.pe/609/track6.mp3
+track7:
+  title: Rendez-Vous – Euroshima
+  color: rough
+  link: https://sounds.mailta.pe/609/track7.mp3
+description: At Mailtape, we sometimes assume we're a bit old-fashioned, from the generation of Walkmans, those from the 90s, into which we'd put old cassettes, sometimes recorded ourselves. Then came portable CD...
+image: /img/fbpic609.jpg
+musiColor: /img/musicolor609.png
+alignY: ''
 ---
+
 At Mailtape, we sometimes assume we're a bit old-fashioned, from the generation of Walkmans, those from the 90s, into which we'd put old cassettes, sometimes recorded ourselves. Then came portable CD players (with scratched CDs and those that skipped some parts), and then the first MP3 players. Since then, it's been a musical orgy. But some of us have kept the spirit of the MP3 player: carefully collecting fabulous tracks, downloading them, and listening to them on our little device, in various contexts, often intimate.
 
 Some of these tracks have stood the test of time. They're still there, stuck in the player, unable to escape, because they're too tasty, too precious, too essential... You can't imagine the joy we feel in bringing them out of obscurity and sharing some of them with you! This is MP3 Nostalgia!

@@ -1,39 +1,48 @@
 ---
-
 published: true
 author: Julien
 guest_color: trippy
-bigTitle_font_ratio: '9'
-bigTitle_line_ratio: '1'
-track1_color: bliss
-track2_color: trippy
-track3_color: bliss
-track4_color: trippy
-track5_color: bliss
-track6_color: vibrant
-track7_color: vibrant
+bigTitle_font_ratio: "9"
+bigTitle_line_ratio: "1"
 guest_name: Mammal Hands
-track1_link: https://sounds.mailta.pe/159/track1.mp3
-track2_link: https://sounds.mailta.pe/159/track2.mp3
-track3_link: https://sounds.mailta.pe/159/track3.mp3
-track4_link: https://sounds.mailta.pe/159/track4.mp3
-track5_link: https://sounds.mailta.pe/159/track5.mp3
-track6_link: https://sounds.mailta.pe/159/track6.mp3
-track7_link: https://sounds.mailta.pe/159/track7.mp3
-track1_title: Richard Spaven - Whole Others
-track2_title: Fofoulah - Make good
-track3_title: Taylor Mc Ferrin - The Antidote
-track4_title: Mammal Hands - Mansions of Millions of Years
-track5_title: Scissor and Thread - Desert Sound Colony
-track6_title: Little Journey - Doobie Mountain
-track7_title: Francis Bebay - Sanza Tristesse
-category: '159'
-episode_URL: http://mailta.pe/159/Mammal-Hands/
-guestPic: guestPic159.jpg
-image: https://www.mailta.pe/img/fbPic159.jpg
-musiColor: musiColor159.png
-description: This Morning, we will communicate with something truly inspirational; a band whose music can be best described as novelty; a trio who are known for their distinctive compositions, and sounds that elicit feelings of melancholy with a touch of subtlety in it. We bring you a relaxed morning with an advocate of the avant-garde and our band of the week Mammal Hands.
-pubDate: '2014-11-09'
+guestPic: /img/guestpic159.jpg
+image: /img/fbpic159.jpg
+musiColor: /img/musicolor159.png
+description: This Morning, we will communicate with something truly
+  inspirational; a band whose music can be best described as novelty; a trio who
+  are known for their distinctive compositions, and sounds that elicit feelings
+  of melancholy with a touch of subtlety in it. We bring you a relaxed morning
+  with an advocate of the avant-garde and our band of the week Mammal Hands.
+pubDate: 2014-11-09
+track1:
+  title: Richard Spaven - Whole Others
+  color: bliss
+  link: https://sounds.mailta.pe/159/track1.mp3
+track2:
+  title: Fofoulah - Make good
+  color: trippy
+  link: https://sounds.mailta.pe/159/track2.mp3
+track3:
+  title: Taylor Mc Ferrin - The Antidote
+  color: bliss
+  link: https://sounds.mailta.pe/159/track3.mp3
+track4:
+  title: Mammal Hands - Mansions of Millions of Years
+  color: trippy
+  link: https://sounds.mailta.pe/159/track4.mp3
+track5:
+  title: Scissor and Thread - Desert Sound Colony
+  color: bliss
+  link: https://sounds.mailta.pe/159/track5.mp3
+track6:
+  title: Little Journey - Doobie Mountain
+  color: vibrant
+  link: https://sounds.mailta.pe/159/track6.mp3
+track7:
+  title: Francis Bebay - Sanza Tristesse
+  color: vibrant
+  link: https://sounds.mailta.pe/159/track7.mp3
+release: 159
 ---
 
 

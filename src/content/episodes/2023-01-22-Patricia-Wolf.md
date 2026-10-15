@@ -1,40 +1,48 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: ImaCrea
 illustrator: Lucie Fléty
 writer: ImaCrea
-category: '514'
 guest_name: Patricia Wolf
 guest_color: dreamy
-guestPic: guestPic514.png
-track1_title: Carmen Villain - Portals
-track1_link: https://sounds.mailta.pe/514/track1.mp3
-track1_color: dreamy
-track2_title: Natalie Beridze - Drift
-track2_link: https://sounds.mailta.pe/514/track2.mp3
-track2_color: dreamy
-track3_title: UMAN - Atmosphère
-track3_link: https://sounds.mailta.pe/514/track3.mp3
-track3_color: dreamy
-track4_title: Patricia Wolf - Springtime in Croatia
-track4_link: https://sounds.mailta.pe/514/track4.mp3
-track4_color: dreamy
-track5_title: Adela Mede - Gyöngyvirág
-track5_link: https://sounds.mailta.pe/514/track5.mp3
-track5_color: dreamy
-track6_title: Sam Gendel - Tate-waku (竪沸く, rising steam)
-track6_link: https://sounds.mailta.pe/514/track6.mp3
-track6_color: dreamy
-track7_title: Félicia Atkinson - Image Langage
-track7_link: https://sounds.mailta.pe/514/track7.mp3
-track7_color: dreamy
-episode_URL: http://mailta.pe/514/Patricia-Wolf/
-description: This morning, we are delighted to welcome Patricia Wolf to MailTape. Patricia is a multi-instrumentalist, composer, and producer who draws on her natural surroundings to compose her music. Embark on a pure dreamy experience, sit back, and enjoy.
-musiColor: musiColor514.png
-image: https://www.mailta.pe/img/fbPic514.png
-pubDate: '2023-01-22'
+guestPic: /img/guestpic514.png
+description: This morning, we are delighted to welcome Patricia Wolf to
+  MailTape. Patricia is a multi-instrumentalist, composer, and producer who
+  draws on her natural surroundings to compose her music. Embark on a pure
+  dreamy experience, sit back, and enjoy.
+musiColor: /img/musicolor514.png
+image: /img/fbpic514.png
+pubDate: 2023-01-22
+track1:
+  title: Carmen Villain - Portals
+  color: dreamy
+  link: https://sounds.mailta.pe/514/track1.mp3
+track2:
+  title: Natalie Beridze - Drift
+  color: dreamy
+  link: https://sounds.mailta.pe/514/track2.mp3
+track3:
+  title: UMAN - Atmosphère
+  color: dreamy
+  link: https://sounds.mailta.pe/514/track3.mp3
+track4:
+  title: Patricia Wolf - Springtime in Croatia
+  color: dreamy
+  link: https://sounds.mailta.pe/514/track4.mp3
+track5:
+  title: Adela Mede - Gyöngyvirág
+  color: dreamy
+  link: https://sounds.mailta.pe/514/track5.mp3
+track6:
+  title: Sam Gendel - Tate-waku (竪沸く, rising steam)
+  color: dreamy
+  link: https://sounds.mailta.pe/514/track6.mp3
+track7:
+  title: Félicia Atkinson - Image Langage
+  color: dreamy
+  link: https://sounds.mailta.pe/514/track7.mp3
+release: 514
 ---
 This morning, we are delighted to welcome [Patricia Wolf](https://patriciawolf.bandcamp.com/) to MailTape. Patricia is a multi-instrumentalist, composer, and producer who draws on her natural surroundings to compose her music. Embark on a pure dreamy experience, sit back, and enjoy.
 

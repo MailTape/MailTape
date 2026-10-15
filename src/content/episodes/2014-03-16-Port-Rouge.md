@@ -1,39 +1,47 @@
 ---
-
 published: true
 author: Ludovic
 guest_color: rough
-bigTitle_font_ratio: '6'
-bigTitle_line_ratio: '1'
-track1_color: dreamy
-track2_color: rough
-track3_color: rough
-track4_color: rough
-track5_color: rough
-track6_color: rough
-track7_color: dreamy
-description: Randomly browsing the web often ends up with nice discoveries. If you've been lucky enough, you may have already crossed Port Rouge's path. If not, let us introduce you to this talented 21 years old swedish dude who makes sweet, clean and suttle deep music.
-track1_link: https://sounds.mailta.pe/132/track1.mp3
-track2_link: https://sounds.mailta.pe/132/track2.mp3
-track3_link: https://sounds.mailta.pe/132/track3.mp3
-category: '132'
+bigTitle_font_ratio: "6"
+bigTitle_line_ratio: "1"
+description: Randomly browsing the web often ends up with nice discoveries. If
+  you've been lucky enough, you may have already crossed Port Rouge's path. If
+  not, let us introduce you to this talented 21 years old swedish dude who makes
+  sweet, clean and suttle deep music.
 guest_name: Port Rouge
-track4_link: https://sounds.mailta.pe/132/track4.mp3
-track5_link: https://sounds.mailta.pe/132/track5.mp3
-track6_link: https://sounds.mailta.pe/132/track6.mp3
-track7_link: https://sounds.mailta.pe/132/track7.mp3
-track1_title: Jurny - Only When I'm Dreaming (NMH025)
-track2_title: Jesper Ryom - Ghostly
-track3_title: Playmodul - Null Vier B
-track4_title: Port Rouge - Now That I Know
-track5_title: Konstantin Sibold - Leif
-track6_title: Downtown Party Network - Space Me Out (Mario Basanov Remix)
-track7_title: Nils Frahm - You (Teen Daze Rework)
-episode_URL: http://mailta.pe/132/Port-Rouge/
-guestPic: guestPic132.jpg
-image: https://www.mailta.pe/img/fbPic132.jpg
-musiColor: musiColor132.png
-pubDate: '2014-03-16'
+guestPic: /img/guestpic132.jpg
+image: /img/fbpic132.jpg
+musiColor: /img/musicolor132.png
+pubDate: 2014-03-16
+track1:
+  title: Jurny - Only When I'm Dreaming (NMH025)
+  color: dreamy
+  link: https://sounds.mailta.pe/132/track1.mp3
+track2:
+  title: Jesper Ryom - Ghostly
+  color: rough
+  link: https://sounds.mailta.pe/132/track2.mp3
+track3:
+  title: Playmodul - Null Vier B
+  color: rough
+  link: https://sounds.mailta.pe/132/track3.mp3
+track4:
+  title: Port Rouge - Now That I Know
+  color: rough
+  link: https://sounds.mailta.pe/132/track4.mp3
+track5:
+  title: Konstantin Sibold - Leif
+  color: rough
+  link: https://sounds.mailta.pe/132/track5.mp3
+track6:
+  title: Downtown Party Network - Space Me Out (Mario Basanov Remix)
+  color: rough
+  link: https://sounds.mailta.pe/132/track6.mp3
+track7:
+  title: Nils Frahm - You (Teen Daze Rework)
+  color: dreamy
+  link: https://sounds.mailta.pe/132/track7.mp3
+release: 132
 ---
 
 

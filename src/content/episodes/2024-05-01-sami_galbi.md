@@ -1,34 +1,12 @@
 ---
 published: true
 pubDate: 2024-05-05
-category: "557"
 guest_name: Sami Galbi
 guest_color: trippy
-guestPic: guestpic557.png
+guestPic: /img/guestpic557.png
 author: Jules
 illustrator: Noémie Dijon
 writer: Jules
-track1_title: Timber Timbre - Black Water
-track1_color: dreamy
-track1_link: https://sounds.mailta.pe/557/track1.mp3
-track2_title: Cheba Fadela & Cheb Sahraoui - Manich Mena
-track2_color: bliss
-track2_link: https://sounds.mailta.pe/557/track2.mp3
-track3_title: Mashrou' Leila - Radio Romance
-track3_color: vibrant
-track3_link: https://sounds.mailta.pe/557/track3.mp3
-track4_title: Sami Galbi -  Dakchi Hani
-track4_color: trippy
-track4_link: https://sounds.mailta.pe/557/track4.mp3
-track5_title: Sofiane Saidi & Mazalda - Bourkan
-track5_color: bliss
-track5_link: https://sounds.mailta.pe/557/track5.mp3
-track6_title: Cheb Kader - Reggae Raï
-track6_color: trippy
-track6_link: https://sounds.mailta.pe/557/track6.mp3
-track7_title: Teno Afrika - Smooth Criminal (Main Mix)
-track7_color: vibrant
-track7_link: https://sounds.mailta.pe/557/track7.mp3
 description: >+
   This morning we're delighted to welcome Swiss-Moroccan musician and singer
   Sami Galbi who has just released his first EP Dakchi Hani / Rruina to
@@ -36,12 +14,45 @@ description: >+
 
 
 
-  Drawing from raï and chaâbi in fluences, the music of his childhood he rediscovered in the cabarets of Casablanca, the Swiss-Moroccan musician is using analog machines, raw synthesizers, and guitar effects to give North African popular and folkloric music a pop texture and a club atmosphere. With his vocals and boundless energy on stage, which borrow from hip-hop and rap, he's an artist to keep an eye on! 
+  Drawing from raï and chaâbi in fluences, the music of his childhood he
+  rediscovered in the cabarets of Casablanca, the Swiss-Moroccan musician is
+  using analog machines, raw synthesizers, and guitar effects to give North
+  African popular and folkloric music a pop texture and a club atmosphere. With
+  his vocals and boundless energy on stage, which borrow from hip-hop and rap,
+  he's an artist to keep an eye on! 
 
 
-episode_URL: https://www.mailta.pe/557/sami-galbi/
-image: https://www.mailta.pe/img/fbPic557.jpeg
-musiColor: musicolor557.png
+image: /img/fbpic557.jpeg
+musiColor: /img/musicolor557.png
+track1:
+  title: Timber Timbre - Black Water
+  color: dreamy
+  link: https://sounds.mailta.pe/557/track1.mp3
+track2:
+  title: Cheba Fadela & Cheb Sahraoui - Manich Mena
+  color: bliss
+  link: https://sounds.mailta.pe/557/track2.mp3
+track3:
+  title: Mashrou' Leila - Radio Romance
+  color: vibrant
+  link: https://sounds.mailta.pe/557/track3.mp3
+track4:
+  title: Sami Galbi -  Dakchi Hani
+  color: trippy
+  link: https://sounds.mailta.pe/557/track4.mp3
+track5:
+  title: Sofiane Saidi & Mazalda - Bourkan
+  color: bliss
+  link: https://sounds.mailta.pe/557/track5.mp3
+track6:
+  title: Cheb Kader - Reggae Raï
+  color: trippy
+  link: https://sounds.mailta.pe/557/track6.mp3
+track7:
+  title: Teno Afrika - Smooth Criminal (Main Mix)
+  color: vibrant
+  link: https://sounds.mailta.pe/557/track7.mp3
+release: 557
 ---
 This morning we're delighted to welcome Swiss-Moroccan musician and singer [Sami Galbi](https://samigalbi.bandcamp.com/) who has just released his first EP <i>Dakchi Hani / Rruina</i> to MailTape!
 

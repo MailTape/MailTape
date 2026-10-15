@@ -1,37 +1,43 @@
 ---
 published: true
 pubDate: 2024-12-22
-category: "571"
 guest_name: Attention Le Tapis Prend Feu
 guest_color: trippy
-guestPic: guestpic571.jpg
+guestPic: /img/guestpic571.jpg
 author: Jules
 illustrator: Noémie Dijon
 writer: Jules
-track1_title: Jockstrap - Concrete Over Water
-track1_color: dreamy
-track1_link: https://sounds.mailta.pe/571/track1.mp3
-track2_title: PNL - Déconnecté
-track2_color: rough
-track2_link: https://sounds.mailta.pe/571/track2.mp3
-track3_title: Kiss Facility - Blackstone
-track3_color: bliss
-track3_link: https://sounds.mailta.pe/571/track3.mp3
-track4_title: Attention Le Tapis Prend Feu - Yumi
-track4_color: trippy
-track4_link: https://sounds.mailta.pe/571/track4.mp3
-track5_title: Hanaa Ouassim - LANADELREY
-track5_color: bliss
-track5_link: https://sounds.mailta.pe/571/track5.mp3
-track6_title: WORLD BRAIN - I hope this message finds you well
-track6_color: dreamy
-track6_link: https://sounds.mailta.pe/571/track6.mp3
-track7_title: Lucas Andrea - L'imaginaire
-track7_color: vibrant
-track7_link: https://sounds.mailta.pe/571/track7.mp3
-episode_URL: https://www.mailta.pe/571/Attention-Le-Tapis-Prend-Feu/
-image: https://www.mailta.pe/img/fbPic571.png
-musiColor: musicolor571.png
+image: /img/fbpic571.png
+musiColor: /img/musicolor571.png
+track1:
+  title: Jockstrap - Concrete Over Water
+  color: dreamy
+  link: https://sounds.mailta.pe/571/track1.mp3
+track2:
+  title: PNL - Déconnecté
+  color: rough
+  link: https://sounds.mailta.pe/571/track2.mp3
+track3:
+  title: Kiss Facility - Blackstone
+  color: bliss
+  link: https://sounds.mailta.pe/571/track3.mp3
+track4:
+  title: Attention Le Tapis Prend Feu - Yumi
+  color: trippy
+  link: https://sounds.mailta.pe/571/track4.mp3
+track5:
+  title: Hanaa Ouassim - LANADELREY
+  color: bliss
+  link: https://sounds.mailta.pe/571/track5.mp3
+track6:
+  title: WORLD BRAIN - I hope this message finds you well
+  color: dreamy
+  link: https://sounds.mailta.pe/571/track6.mp3
+track7:
+  title: Lucas Andrea - L'imaginaire
+  color: vibrant
+  link: https://sounds.mailta.pe/571/track7.mp3
+release: 571
 ---
 This morning you're woken up by a weird smell, like something slightly burnt, that tickles the edge of your nostrils. Maybe, like [Michael Scott](https://www.youtube.com/watch?v=m_HR_o0jDqw&ab_channel=TheOffice) from The Office, you've put a mini-grill next to your bed to wake up to the smell of grilled bacon (watch your foot when you get up, then!)? But no, that's not it... You sit up in bed, slowly open your eyes and it seems as if the room is surrounded by a fog of smoke. You pivot to get your legs out of bed and suddenly feel the heat tickle the soles of your feet. You look down and suddenly it's clear: <b>watch out the carpet's on fire!</b>
 

@@ -1,40 +1,52 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
-track1_link: https://sounds.mailta.pe/351/track1.mp3
-track2_link: https://sounds.mailta.pe/351/track2.mp3
-track3_link: https://sounds.mailta.pe/351/track3.mp3
-track4_link: https://sounds.mailta.pe/351/track4.mp3
-track5_link: https://sounds.mailta.pe/351/track5.mp3
-track6_link: https://sounds.mailta.pe/351/track6.mp3
-track7_link: https://sounds.mailta.pe/351/track7.mp3
-track7_title: Wolf Müller meets the Nile Project - Mabomba Dance
-track1_title: Caetano Veloso - Maria Bethania
-track2_title: Deux - Game and Performance
-track3_title: Mogollar (Les Mogols) - Muzik Mogollar
-track4_title: Guillaume Teyssier - Give It Up
-track5_title: Tek.lun - Les Elephants
-track6_title: Sabrina Rich - Smooth Operator (Duckcomb discomix)
-category: '351'
 guest_name: Guillaume Teyssier
 author: ImaCrea
 illustrator: Camille Célestin
 writer: ImaCrea
-track1_color: dreamy
-track2_color: rough
-track3_color: dreamy
-track4_color: bliss
-track5_color: trippy
-track6_color: vibrant
-track7_color: vibrant
-episode_URL: https://www.mailta.pe/351/guillaume-teyssier/
 guest_color: bliss
-guestPic: guestPic351.jpg
-image: https://www.mailta.pe/img/fbPic351.png
-musiColor: musiColor351.png
-description: This morning we welcome Guillaume Teyssier, who accepted our invitation to come and play live at our MailTape Live 3rd edition at the Popup… on next Saturday! (tickets almost sold out!). Even though my memory can be pretty bad in many occasions, one thing I remember very clearly is the feeling I had when I discovered Guillaume Teyssier’s music. It was a year ago but the sensation is still fresh. What an instant crush! I remember calling his work “an act of resistance” back in the days when I shared one of his track on episode 299.
-pubDate: '2019-03-31'
+guestPic: /img/guestpic351.jpg
+image: /img/fbpic351.png
+musiColor: /img/musicolor351.png
+description: This morning we welcome Guillaume Teyssier, who accepted our
+  invitation to come and play live at our MailTape Live 3rd edition at the
+  Popup… on next Saturday! (tickets almost sold out!). Even though my memory can
+  be pretty bad in many occasions, one thing I remember very clearly is the
+  feeling I had when I discovered Guillaume Teyssier’s music. It was a year ago
+  but the sensation is still fresh. What an instant crush! I remember calling
+  his work “an act of resistance” back in the days when I shared one of his
+  track on episode 299.
+pubDate: 2019-03-31
+track1:
+  title: Caetano Veloso - Maria Bethania
+  color: dreamy
+  link: https://sounds.mailta.pe/351/track1.mp3
+track2:
+  title: Deux - Game and Performance
+  color: rough
+  link: https://sounds.mailta.pe/351/track2.mp3
+track3:
+  title: Mogollar (Les Mogols) - Muzik Mogollar
+  color: dreamy
+  link: https://sounds.mailta.pe/351/track3.mp3
+track4:
+  title: Guillaume Teyssier - Give It Up
+  color: bliss
+  link: https://sounds.mailta.pe/351/track4.mp3
+track5:
+  title: Tek.lun - Les Elephants
+  color: trippy
+  link: https://sounds.mailta.pe/351/track5.mp3
+track6:
+  title: Sabrina Rich - Smooth Operator (Duckcomb discomix)
+  color: vibrant
+  link: https://sounds.mailta.pe/351/track6.mp3
+track7:
+  title: Wolf Müller meets the Nile Project - Mabomba Dance
+  color: vibrant
+  link: https://sounds.mailta.pe/351/track7.mp3
+release: 351
 ---
 This morning we welcome [Guillaume Teyssier](https://guillaumeteyssier.bandcamp.com/) from the great [Tigersushi Record](//tigersushi.com) label. He accepted our invitation to come and play live at our [MailTape Live 3rd edition](https://www.facebook.com/events/423163478488715/) at the Popup... on next Saturday! ([tickets almost sold out!](https://www.helloasso.com/associations/mailtape/evenements/mailtape-live-3))
   

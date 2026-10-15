@@ -1,40 +1,49 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: ImaCrea
 illustrator: Camille Célestin
 writer: ImaCrea
-category: '218'
 guest_name: Nicola Cruz
 guest_color: dreamy
-track1_link: https://sounds.mailta.pe/218/track1.mp3
-track2_link: https://sounds.mailta.pe/218/track2.mp3
-track3_link: https://sounds.mailta.pe/218/track3.mp3
-track4_link: https://sounds.mailta.pe/218/track4.mp3
-track5_link: https://sounds.mailta.pe/218/track5.mp3
-track6_link: https://sounds.mailta.pe/218/track6.mp3
-track7_link: https://sounds.mailta.pe/218/track7.mp3
-track1_title: Radiohead - Daydreaming
-track2_title: Kaitlyn Aurelia Smith - Labyrinth II
-track3_title: Devendra Banhart - Santa Maria da Feira
-track4_title: ' Nicola Cruz - Prender El Alma '
-track5_title: Future Islands - Seasons (BBNG Reinterpretation)
-track6_title: ' Ménage à Trois - Overseas '
-track7_title: Grynpyret - A Song About Naps
-track1_color: dreamy
-track2_color: dreamy
-track3_color: vibrant
-track4_color: dreamy
-track5_color: bliss
-track6_color: vibrant
-track7_color: trippy
-episode_URL: http://mailta.pe/218/Nicola-Cruz/
-guestPic: guestPic218.jpg
-image: https://www.mailta.pe/img/fbPic218.jpg
-musiColor: musiColor218.png
-description: This morning, we’re taking you on a walk in the forest. Our guest Nicola Cruz shared with us his visionary tracks where electronic sounds bring us to Nature. He collaborated with Nicolas Jaar and has just released his debut album on the underground record label ZZK from Buenos Aires. Thought you knew world music? Well, think again.
-pubDate: '2016-05-22'
+guestPic: /img/guestpic218.jpg
+image: /img/fbpic218.jpg
+musiColor: /img/musicolor218.png
+description: This morning, we’re taking you on a walk in the forest. Our guest
+  Nicola Cruz shared with us his visionary tracks where electronic sounds bring
+  us to Nature. He collaborated with Nicolas Jaar and has just released his
+  debut album on the underground record label ZZK from Buenos Aires. Thought you
+  knew world music? Well, think again.
+pubDate: 2016-05-22
+track1:
+  title: Radiohead - Daydreaming
+  color: dreamy
+  link: https://sounds.mailta.pe/218/track1.mp3
+track2:
+  title: Kaitlyn Aurelia Smith - Labyrinth II
+  color: dreamy
+  link: https://sounds.mailta.pe/218/track2.mp3
+track3:
+  title: Devendra Banhart - Santa Maria da Feira
+  color: vibrant
+  link: https://sounds.mailta.pe/218/track3.mp3
+track4:
+  title: " Nicola Cruz - Prender El Alma "
+  color: dreamy
+  link: https://sounds.mailta.pe/218/track4.mp3
+track5:
+  title: Future Islands - Seasons (BBNG Reinterpretation)
+  color: bliss
+  link: https://sounds.mailta.pe/218/track5.mp3
+track6:
+  title: " Ménage à Trois - Overseas "
+  color: vibrant
+  link: https://sounds.mailta.pe/218/track6.mp3
+track7:
+  title: Grynpyret - A Song About Naps
+  color: trippy
+  link: https://sounds.mailta.pe/218/track7.mp3
+release: 218
 ---
 This morning, we’re taking you on a walk in the forest. Our guest [Nicola Cruz](https://www.facebook.com/nicolacruzz/) shared with us his visionary tracks where electronic sounds bring us to Nature. He collaborated with [Nicolas Jaar](http://mailta.pe/3/Nicolas-Jaar/) and has just released his debut album on the underground record label ZZK from Buenos Aires. Thought you knew “world music”? Well, think again.
 

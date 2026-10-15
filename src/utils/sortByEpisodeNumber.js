@@ -1,5 +1,5 @@
 export default function sortByEpisodeNumber(a, b) {
-  const categoryA = a?.data?.category ? parseInt(a.data.category) : 0;
-  const categoryB = b?.data?.category ? parseInt(b.data.category) : 0;
-  return categoryB - categoryA;
+  const releaseA = a?.data?.release ? parseInt(a.data.release) : 0;
+  const releaseB = b?.data?.release ? parseInt(b.data.release) : 0;
+  return releaseB - releaseA;
 } 

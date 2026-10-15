@@ -1,39 +1,44 @@
 ---
-
 published: true
 author: Julien
 guest_color: vibrant
-bigTitle_font_ratio: '6'
-bigTitle_line_ratio: '1'
-track1_color: vibrant
-track2_color: bliss
-track3_color: vibrant
-track4_color: vibrant
-track5_color: bliss
-track6_color: trippy
-track7_color: bliss
-category: '152'
+bigTitle_font_ratio: "6"
+bigTitle_line_ratio: "1"
 guest_name: Harleighblu
-track2_link: https://sounds.mailta.pe/152/track2.mp3
-track2_title: Little Dragon - Sunshine
-track1_link: https://sounds.mailta.pe/152/track1.mp3
-track1_title: Bilal - When will you call
-track3_link: https://sounds.mailta.pe/152/track3.mp3
-track3_title: Jill Scott - Golden
-episode_URL: http://mailta.pe/152/Harleighblu/
-track4_link: https://sounds.mailta.pe/152/track4.mp3
-track4_title: Harleighblu - Weekend
-guestPic: guestPic152.jpg
-track5_link: https://sounds.mailta.pe/152/track5.mp3
-track5_title: Goldbloc - Dreams of mine
-track6_link: https://sounds.mailta.pe/152/track6.mp3
-track6_title: Rustie - Attak feat Danny Brown
-track7_link: https://sounds.mailta.pe/152/track7.mp3
-track7_title: Sango - Ago (Rvdical Remix)
-image: https://www.mailta.pe/img/fbPic152.jpg
-description: 'This morning, we''re back and with a Lady: please welcome Harleighblu !'
-musiColor: musiColor152.png
-pubDate: '2014-09-21'
+guestPic: /img/guestpic152.jpg
+image: /img/fbpic152.jpg
+description: "This morning, we're back and with a Lady: please welcome Harleighblu !"
+musiColor: /img/musicolor152.png
+pubDate: 2014-09-21
+track1:
+  title: Bilal - When will you call
+  color: vibrant
+  link: https://sounds.mailta.pe/152/track1.mp3
+track2:
+  title: Little Dragon - Sunshine
+  color: bliss
+  link: https://sounds.mailta.pe/152/track2.mp3
+track3:
+  title: Jill Scott - Golden
+  color: vibrant
+  link: https://sounds.mailta.pe/152/track3.mp3
+track4:
+  title: Harleighblu - Weekend
+  color: vibrant
+  link: https://sounds.mailta.pe/152/track4.mp3
+track5:
+  title: Goldbloc - Dreams of mine
+  color: bliss
+  link: https://sounds.mailta.pe/152/track5.mp3
+track6:
+  title: Rustie - Attak feat Danny Brown
+  color: trippy
+  link: https://sounds.mailta.pe/152/track6.mp3
+track7:
+  title: Sango - Ago (Rvdical Remix)
+  color: bliss
+  link: https://sounds.mailta.pe/152/track7.mp3
+release: 152
 ---
 
 

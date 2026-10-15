@@ -1,40 +1,49 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: ImaCrea
 illustrator: Camille Célestin
 writer: ImaCrea
-category: '526'
 guest_name: Adela Mede
 guest_color: dreamy
-guestPic: guestPic526.jpg
-track1_title: Martyna Basta - Slowly Forgetting, Barely Remembering
-track1_color: dreamy
-track2_title: Ani Zakareishvili - Answer
-track2_color: dreamy
-track3_title: HVAD & Pan Daijing - Zhao Hua
-track3_color: bliss
-track4_title: Adela Mede - Spolu
-track4_color: dreamy
-track5_title: Flaty - U C
-track5_color: dreamy
-track6_title: Donato Dozzy & Sabla - Flusso IV
-track6_color: dreamy
-track7_title: PVAS - Dream Resumption ft. PS
-track7_color: vibrant
-episode_URL: http://mailta.pe/526/adela-mede/
-image: https://www.mailta.pe/img/fbPic526.png
-musiColor: musiColor526.png
-track1_link: https://sounds.mailta.pe/526/track1.mp3
-track2_link: https://sounds.mailta.pe/526/track2.mp3
-track3_link: https://sounds.mailta.pe/526/track3.mp3
-track4_link: https://sounds.mailta.pe/526/track4.mp3
-track5_link: https://sounds.mailta.pe/526/track5.mp3
-track6_link: https://sounds.mailta.pe/526/track6.mp3
-track7_link: https://sounds.mailta.pe/526/track7.mp3
-description: This morning, we're embarking on a dreamy journey with Adela Mede. Her carefully selected tracks take us deep into a smooth and blissful soundscape, allowing us to wake up gently while keeping the dream alive throughout the day. Join us now, and let's set sail on this tranquil musical adventure.
-pubDate: '2023-04-30'
+guestPic: /img/guestpic526.jpg
+image: /img/fbpic526.png
+musiColor: /img/musicolor526.png
+description: This morning, we're embarking on a dreamy journey with Adela Mede.
+  Her carefully selected tracks take us deep into a smooth and blissful
+  soundscape, allowing us to wake up gently while keeping the dream alive
+  throughout the day. Join us now, and let's set sail on this tranquil musical
+  adventure.
+pubDate: 2023-04-30
+track1:
+  title: Martyna Basta - Slowly Forgetting, Barely Remembering
+  color: dreamy
+  link: https://sounds.mailta.pe/526/track1.mp3
+track2:
+  title: Ani Zakareishvili - Answer
+  color: dreamy
+  link: https://sounds.mailta.pe/526/track2.mp3
+track3:
+  title: HVAD & Pan Daijing - Zhao Hua
+  color: bliss
+  link: https://sounds.mailta.pe/526/track3.mp3
+track4:
+  title: Adela Mede - Spolu
+  color: dreamy
+  link: https://sounds.mailta.pe/526/track4.mp3
+track5:
+  title: Flaty - U C
+  color: dreamy
+  link: https://sounds.mailta.pe/526/track5.mp3
+track6:
+  title: Donato Dozzy & Sabla - Flusso IV
+  color: dreamy
+  link: https://sounds.mailta.pe/526/track6.mp3
+track7:
+  title: PVAS - Dream Resumption ft. PS
+  color: vibrant
+  link: https://sounds.mailta.pe/526/track7.mp3
+release: 526
 ---
 
 This morning, we're embarking on a dreamy journey with [Adela Mede](https://adelamede.bandcamp.com/album/szabads-g-3). Her carefully selected tracks take us deep into a smooth and blissful soundscape, allowing us to wake up gently while keeping the dream alive throughout the day. Join us now, and let's set sail on this tranquil musical adventure.

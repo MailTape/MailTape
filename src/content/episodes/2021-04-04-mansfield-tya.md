@@ -1,40 +1,49 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: ImaCrea
 illustrator: Meriam Kharbat
 writer: PS KY
-category: '445'
 guest_name: Mansfield.TYA
-track2_link: https://sounds.mailta.pe/445/track2.mp3
-track3_link: https://sounds.mailta.pe/445/track3.mp3
-track1_link: https://sounds.mailta.pe/445/track1.mp3
-track4_link: https://sounds.mailta.pe/445/track4.mp3
-track5_link: https://sounds.mailta.pe/445/track5.mp3
-track7_link: https://sounds.mailta.pe/445/track7.mp3
-track6_link: https://sounds.mailta.pe/445/track6.mp3
-track1_title: Anika - I Go To Sleep
-track2_title: Erykah Badu - I Been Going Thru It All
-track3_title: Lenas Platos - Markos
-track4_title: Mansfield.TYA - Une Danse de Mauvais Goût (feat. Odezenne)
-track5_title: Ola Szmidt - C Tactile Afferent
-track6_title: Holly Herndon - Frontier
-track7_title: TYGAPAW - In Their Fear They Plotted Her Destruction
 guest_color: trippy
-track1_color: trippy
-track2_color: trippy
-track3_color: bliss
-track4_color: bliss
-track5_color: dreamy
-track6_color: trippy
-track7_color: rough
-guestPic: guestPic445.jpg
-image: https://www.mailta.pe/img/fbPic445.png
-musiColor: musiColor445.png
-episode_URL: https://www.mailta.pe/445/Mansfield-TYA/
-description: This morning, we welcome Mansfield.TYA, a surprisingly raw music duo from Nantes. Their music will both illuminate and sometimes somber your journey. With their sensitive and sensible songs composed of accessible yet very dense lyrics, Mansfield.TYA will take you on a poetic journey bathed in electronic sounds.
-pubDate: '2021-04-04'
+guestPic: /img/guestpic445.jpg
+image: /img/fbpic445.png
+musiColor: /img/musicolor445.png
+description: This morning, we welcome Mansfield.TYA, a surprisingly raw music
+  duo from Nantes. Their music will both illuminate and sometimes somber your
+  journey. With their sensitive and sensible songs composed of accessible yet
+  very dense lyrics, Mansfield.TYA will take you on a poetic journey bathed in
+  electronic sounds.
+pubDate: 2021-04-04
+track1:
+  title: Anika - I Go To Sleep
+  color: trippy
+  link: https://sounds.mailta.pe/445/track1.mp3
+track2:
+  title: Erykah Badu - I Been Going Thru It All
+  color: trippy
+  link: https://sounds.mailta.pe/445/track2.mp3
+track3:
+  title: Lenas Platos - Markos
+  color: bliss
+  link: https://sounds.mailta.pe/445/track3.mp3
+track4:
+  title: Mansfield.TYA - Une Danse de Mauvais Goût (feat. Odezenne)
+  color: bliss
+  link: https://sounds.mailta.pe/445/track4.mp3
+track5:
+  title: Ola Szmidt - C Tactile Afferent
+  color: dreamy
+  link: https://sounds.mailta.pe/445/track5.mp3
+track6:
+  title: Holly Herndon - Frontier
+  color: trippy
+  link: https://sounds.mailta.pe/445/track6.mp3
+track7:
+  title: TYGAPAW - In Their Fear They Plotted Her Destruction
+  color: rough
+  link: https://sounds.mailta.pe/445/track7.mp3
+release: 445
 ---
 This morning, we welcome [Mansfield.TYA](https://mansfieldtya.bandcamp.com/), a surprisingly raw music duo from Nantes. Their music will both illuminate and sometimes somber your journey. With their sensitive and sensible songs composed of accessible yet very dense lyrics, Mansfield.TYA will take you on a poetic journey bathed in electronic sounds.
 

@@ -1,42 +1,48 @@
 ---
 published: true
 pubDate: 2025-01-19
-category: "573"
 guest_name: William Ryan Fritch
 guest_color: dreamy
-guestPic: william_ryan_fritch.jpg
+guestPic: /img/william_ryan_fritch.jpg
 author: ImaCrea
 illustrator: Noémie Dijon
 writer: ImaCrea
-track1_title: Mabe Fratti - Enfrente
-track1_color: bliss
-track1_link: https://sounds.mailta.pe/573/track1.mp3
-track2_title: Claire Deak - Quarrel of the senses
-track2_color: dreamy
-track2_link: https://sounds.mailta.pe/573/track2.mp3
-track3_title: Nala Sinephro - Continuum 1
-track3_color: dreamy
-track3_link: https://sounds.mailta.pe/573/track3.mp3
-track4_title: William Ryan Fritch - Gravitropic
-track4_color: dreamy
-track4_link: https://sounds.mailta.pe/573/track4.mp3
-track5_title: LEYA - Corners
-track5_color: bliss
-track5_link: https://sounds.mailta.pe/573/track5.mp3
-track6_title: Marina Herlop - Babel
-track6_color: trippy
-track6_link: https://sounds.mailta.pe/573/track6.mp3
-track7_title: Patricia Wolf - Nocturnal Migration
-track7_color: dreamy
-track7_link: https://sounds.mailta.pe/573/track7.mp3
 description: "This morning, I'm excited to share with you a new episode that
   showcases the musical tastes of William Ryan Fritch, a master of crafting
   immersive and evocative soundscapes that transport us to otherworldly realms.
   He's curated a selection of tracks that take us on a journey through the
   realms of ambient, jazz, and experimental soundscapes. "
-episode_URL: https://www.mailta.pe/573/william-ryan-fritch/
-image: https://www.mailta.pe/img/fbPic573.jpg
-musiColor: musicolor573.png
+image: /img/fbpic573.jpg
+musiColor: /img/musicolor573.png
+track1:
+  title: Mabe Fratti - Enfrente
+  color: bliss
+  link: https://sounds.mailta.pe/573/track1.mp3
+track2:
+  title: Claire Deak - Quarrel of the senses
+  color: dreamy
+  link: https://sounds.mailta.pe/573/track2.mp3
+track3:
+  title: Nala Sinephro - Continuum 1
+  color: dreamy
+  link: https://sounds.mailta.pe/573/track3.mp3
+track4:
+  title: William Ryan Fritch - Gravitropic
+  color: dreamy
+  link: https://sounds.mailta.pe/573/track4.mp3
+track5:
+  title: LEYA - Corners
+  color: bliss
+  link: https://sounds.mailta.pe/573/track5.mp3
+track6:
+  title: Marina Herlop - Babel
+  color: trippy
+  link: https://sounds.mailta.pe/573/track6.mp3
+track7:
+  title: Patricia Wolf - Nocturnal Migration
+  color: dreamy
+  link: https://sounds.mailta.pe/573/track7.mp3
+release: 573
 ---
 This morning, I'm excited to share with you a new episode that showcases the musical tastes of [William Ryan Fritch](https://williamryanfritch.bandcamp.com/album/adhesion), a master of crafting immersive and evocative soundscapes that transport us to otherworldly realms. He's curated a selection of tracks that take us on a journey through the realms of ambient, jazz, and experimental soundscapes. 
 

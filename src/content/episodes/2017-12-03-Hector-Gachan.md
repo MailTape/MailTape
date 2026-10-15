@@ -1,40 +1,48 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Inès
 illustrator: Isabelle Escande
 writer: Inès
 guest_name: Hector Gachan
 guest_color: dreamy
-track1_link: https://sounds.mailta.pe/289/track1.mp3
-track2_link: https://sounds.mailta.pe/289/track2.mp3
-track3_link: https://sounds.mailta.pe/289/track3.mp3
-track4_link: https://sounds.mailta.pe/289/track4.mp3
-track5_link: https://sounds.mailta.pe/289/track5.mp3
-track1_title: Yuko Yuko - Two Boys
-track1_color: vibrant
-track2_title: Jermango Dreaming - I Want You
-track2_color: bliss
-track3_title: Jerry Paper - Everything Is Shitty
-track3_color: trippy
-track4_title: Hector Gachan - Untitled '91
-track4_color: dreamy
-track5_title: Superorganism - Something for Your M.I.N.D.
-track5_color: vibrant
-track7_link: https://sounds.mailta.pe/289/track7.mp3
-track6_link: https://sounds.mailta.pe/289/track6.mp3
-track6_title: Sean Nicholas Savage - Opposing Truths
-track6_color: bliss
-track7_title: Maison de Retraite - today i am a piece of shit
-track7_color: trippy
-category: '289'
-episode_URL: https://www.mailta.pe/289/hector-gachan
-guestPic: guestPic289-2.jpg
-image: https://www.mailta.pe/img/fbPic289.png
-musiColor: musiColor289.png
-description: This morning, kickstart your day with Hector Gachan’s warm and lively selection. Let this selection take you out of your lethargy and be the soundtrack of what you want your morning to be. Get cosy or get busy, your call.
-pubDate: '2017-12-03'
+guestPic: /img/guestpic289-2.jpg
+image: /img/fbpic289.png
+musiColor: /img/musicolor289.png
+description: This morning, kickstart your day with Hector Gachan’s warm and
+  lively selection. Let this selection take you out of your lethargy and be the
+  soundtrack of what you want your morning to be. Get cosy or get busy, your
+  call.
+pubDate: 2017-12-03
+track1:
+  title: Yuko Yuko - Two Boys
+  color: vibrant
+  link: https://sounds.mailta.pe/289/track1.mp3
+track2:
+  title: Jermango Dreaming - I Want You
+  color: bliss
+  link: https://sounds.mailta.pe/289/track2.mp3
+track3:
+  title: Jerry Paper - Everything Is Shitty
+  color: trippy
+  link: https://sounds.mailta.pe/289/track3.mp3
+track4:
+  title: Hector Gachan - Untitled '91
+  color: dreamy
+  link: https://sounds.mailta.pe/289/track4.mp3
+track5:
+  title: Superorganism - Something for Your M.I.N.D.
+  color: vibrant
+  link: https://sounds.mailta.pe/289/track5.mp3
+track6:
+  title: Sean Nicholas Savage - Opposing Truths
+  color: bliss
+  link: https://sounds.mailta.pe/289/track6.mp3
+track7:
+  title: Maison de Retraite - today i am a piece of shit
+  color: trippy
+  link: https://sounds.mailta.pe/289/track7.mp3
+release: 289
 ---
 This morning, kickstart your day with Hector Gachan’s warm and lively selection. Hector Gachan, who grew up between Australia and Bosnia, makes catchy lo-fi dream pop songs, influenced by his upbringing in between these two countries. He released his [debut album](https://lnk.to/hectorgachan_untitled91) two days ago.
 <p>Let this selection take you out of your lethargy, help you fight the coldness of winter, be the soundtrack of what you want your morning to be. Get cosy or get busy, your call. 

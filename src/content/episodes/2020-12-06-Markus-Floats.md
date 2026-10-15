@@ -1,40 +1,46 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Sanjay Mistry
 illustrator: Anthony Dujardin
 writer: Sanjay Mistry
-category: '428'
 guest_name: Markus Floats
 guest_color: bliss
-track1_link: https://sounds.mailta.pe/428/track1.mp3
-track2_link: https://sounds.mailta.pe/428/track2.mp3
-track3_link: https://sounds.mailta.pe/428/track3.mp3
-track4_link: https://sounds.mailta.pe/428/track4.mp3
-track5_link: https://sounds.mailta.pe/428/track5.mp3
-track6_link: https://sounds.mailta.pe/428/track6.mp3
-track7_link: https://sounds.mailta.pe/428/track7.mp3
-track1_title: Ma$e (ft. Billy Lawrence) – Love U So
-track1_color: vibrant
-track2_title: Change – Hold Tight
-track2_color: bliss
-track3_title: Kashif – Baby Don’t Break Your Baby’s Heart
-track3_color: vibrant
-track4_title: Markus Floats – Forward Always
-track4_color: trippy
-track5_title: Bill Withers – Grandma's Hands
-track5_color: dreamy
-track6_title: Gino Soccio – Try it Out
-track6_color: trippy
-track7_title: Cubie Burke – Down for Double
-track7_color: vibrant
-episode_URL: https://www.mailta.pe/428/markus-floats/
-guestPic: guestPic428.jpg
-image: https://www.mailta.pe/img/fbPic428.png
-description: This morning we welcome Markus Floats to select three snake-hipped Sunday morning tunes with us on MailTape.
-musiColor: musiColor428.png
-pubDate: '2020-12-06'
+guestPic: /img/guestpic428.jpg
+image: /img/fbpic428.png
+description: This morning we welcome Markus Floats to select three snake-hipped
+  Sunday morning tunes with us on MailTape.
+musiColor: /img/musicolor428.png
+pubDate: 2020-12-06
+track1:
+  title: Ma$e (ft. Billy Lawrence) – Love U So
+  color: vibrant
+  link: https://sounds.mailta.pe/428/track1.mp3
+track2:
+  title: Change – Hold Tight
+  color: bliss
+  link: https://sounds.mailta.pe/428/track2.mp3
+track3:
+  title: Kashif – Baby Don’t Break Your Baby’s Heart
+  color: vibrant
+  link: https://sounds.mailta.pe/428/track3.mp3
+track4:
+  title: Markus Floats – Forward Always
+  color: trippy
+  link: https://sounds.mailta.pe/428/track4.mp3
+track5:
+  title: Bill Withers – Grandma's Hands
+  color: dreamy
+  link: https://sounds.mailta.pe/428/track5.mp3
+track6:
+  title: Gino Soccio – Try it Out
+  color: trippy
+  link: https://sounds.mailta.pe/428/track6.mp3
+track7:
+  title: Cubie Burke – Down for Double
+  color: vibrant
+  link: https://sounds.mailta.pe/428/track7.mp3
+release: 428
 ---
 This morning we welcome [Markus Floats](https://markusfloats.bandcamp.com/) to select three snake-hipped Sunday morning tunes with us on MailTape. 
 <br><br>

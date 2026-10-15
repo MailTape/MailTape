@@ -1,40 +1,47 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Sanjay Mistry
 illustrator: Thibault Daumain
 writer: Sanjay Mistry
-category: '390'
 guest_name: The Gentleman Losers
 guest_color: dreamy
-track1_link: https://sounds.mailta.pe/390/track1.mp3
-track2_link: https://sounds.mailta.pe/390/track2.mp3
-track3_link: https://sounds.mailta.pe/390/track3.mp3
-track4_link: https://sounds.mailta.pe/390/track4.mp3
-track5_link: https://sounds.mailta.pe/390/track5.mp3
-track6_link: https://sounds.mailta.pe/390/track6.mp3
-track7_link: https://sounds.mailta.pe/390/track7.mp3
-track1_title: Amanda Bergman – Questions
-track1_color: dreamy
-track2_title: Discovery Zone – Fall Apart
-track2_color: bliss
-track3_title: El Perro Del Mar – Change of Heart
-track3_color: vibrant
-track4_title: The Gentleman Losers – Always Crashing on the Same Wave
-track4_color: dreamy
-track5_title: Tunes of Negation – Tundra Erotic
-track5_color: bliss
-track6_title: Yama Warashi – Quagmire Moon
-track6_color: trippy
-track7_title: WaqWaq Kingdom – Koko Says
-track7_color: dreamy
-episode_URL: http://mailta.pe/390/the-gentleman-losers/
-guestPic: guestPic390.jpg
-image: https://www.mailta.pe/img/fbPic390.jpg
-musiColor: musiColor390.png
-description: This morning we are delighted to welcome brothers Samu and Ville Kuukka from Helsinki, who have been making music together as The Gentleman Losers since their early teens.
-pubDate: '2020-01-26'
+guestPic: /img/guestpic390.jpg
+image: /img/fbpic390.jpg
+musiColor: /img/musicolor390.png
+description: This morning we are delighted to welcome brothers Samu and Ville
+  Kuukka from Helsinki, who have been making music together as The Gentleman
+  Losers since their early teens.
+pubDate: 2020-01-26
+track1:
+  title: Amanda Bergman – Questions
+  color: dreamy
+  link: https://sounds.mailta.pe/390/track1.mp3
+track2:
+  title: Discovery Zone – Fall Apart
+  color: bliss
+  link: https://sounds.mailta.pe/390/track2.mp3
+track3:
+  title: El Perro Del Mar – Change of Heart
+  color: vibrant
+  link: https://sounds.mailta.pe/390/track3.mp3
+track4:
+  title: The Gentleman Losers – Always Crashing on the Same Wave
+  color: dreamy
+  link: https://sounds.mailta.pe/390/track4.mp3
+track5:
+  title: Tunes of Negation – Tundra Erotic
+  color: bliss
+  link: https://sounds.mailta.pe/390/track5.mp3
+track6:
+  title: Yama Warashi – Quagmire Moon
+  color: trippy
+  link: https://sounds.mailta.pe/390/track6.mp3
+track7:
+  title: WaqWaq Kingdom – Koko Says
+  color: dreamy
+  link: https://sounds.mailta.pe/390/track7.mp3
+release: 390
 ---
 This morning we are delighted to welcome brothers Samu and Ville Kuukka from Helsinki, who have been making music together as [The Gentleman Losers](https://www.gentlemanlosers.com/) since their early teens.
 <br><br>

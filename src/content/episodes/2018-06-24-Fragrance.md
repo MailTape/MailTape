@@ -1,40 +1,51 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Charlotte
 illustrator: Pierre-Julien Fieux
 writer: Charlotte
-category: '318'
 guest_name: Fragrance.
 guest_color: dreamy
-track1_link: https://sounds.mailta.pe/318/track1.mp3
-track2_link: https://sounds.mailta.pe/318/track2.mp3
-track3_link: https://sounds.mailta.pe/318/track3.mp3
-track4_link: https://sounds.mailta.pe/318/track4.mp3
-track5_link: https://sounds.mailta.pe/318/track5.mp3
-track6_link: https://sounds.mailta.pe/318/track6.mp3
-track7_link: https://sounds.mailta.pe/318/track7.mp3
-track1_title: Galatée - Ne Sois Pas Triste
-track1_color: dreamy
-track2_title: Lia Mice - Saint Malo
-track2_color: dreamy
-track3_title: Orchidée Noire - Mordorée
-track3_color: dreamy
-track4_title: Fragrance. - Through the Wall
-track4_color: vibrant
-track5_title: Solid Space - Destination Moon
-track5_color: bliss
-track6_title: Baron Rétif & Concepción Perez - Blanchiment
-track6_color: bliss
-track7_title: Sputnik Beeping
-track7_color: bliss
-episode_URL: https://www.mailta.pe/318/fragrance/
-description: 'This morning we welcome Fragrance., Matthieu Roche’s solo project for a Sunday morning between the coast of Saint Malo and somewhere in the infinite space.  Quite ambiguous, Fragrance.’s synth pop songs oscillate between asserted mainstream influences (he released an amazing cover of Gala’s Freed From Desire) and lo-fi music, in the same way that his melancholic voice and dancing beats are mixed: you never really know how you should feel when you listen them.'
-guestPic: guestPic318okok.jpg
-musiColor: musiColor318.png
-image: https://www.mailta.pe/img/fbPic318.jpg
-pubDate: '2018-06-24'
+description: "This morning we welcome Fragrance., Matthieu Roche’s solo project
+  for a Sunday morning between the coast of Saint Malo and somewhere in the
+  infinite space.  Quite ambiguous, Fragrance.’s synth pop songs oscillate
+  between asserted mainstream influences (he released an amazing cover of Gala’s
+  Freed From Desire) and lo-fi music, in the same way that his melancholic voice
+  and dancing beats are mixed: you never really know how you should feel when
+  you listen them."
+guestPic: /img/guestpic318okok.jpg
+musiColor: /img/musicolor318.png
+image: /img/fbpic318.jpg
+pubDate: 2018-06-24
+track1:
+  title: Galatée - Ne Sois Pas Triste
+  color: dreamy
+  link: https://sounds.mailta.pe/318/track1.mp3
+track2:
+  title: Lia Mice - Saint Malo
+  color: dreamy
+  link: https://sounds.mailta.pe/318/track2.mp3
+track3:
+  title: Orchidée Noire - Mordorée
+  color: dreamy
+  link: https://sounds.mailta.pe/318/track3.mp3
+track4:
+  title: Fragrance. - Through the Wall
+  color: vibrant
+  link: https://sounds.mailta.pe/318/track4.mp3
+track5:
+  title: Solid Space - Destination Moon
+  color: bliss
+  link: https://sounds.mailta.pe/318/track5.mp3
+track6:
+  title: Baron Rétif & Concepción Perez - Blanchiment
+  color: bliss
+  link: https://sounds.mailta.pe/318/track6.mp3
+track7:
+  title: Sputnik Beeping
+  color: bliss
+  link: https://sounds.mailta.pe/318/track7.mp3
+release: 318
 ---
 This morning we welcome [Fragrance.](https://fragrancemusic.bandcamp.com/album/dust-disorders-ep), Matthieu Roche’s solo project for a MailTape between the coast of Saint-Malo and somewhere in the infinite space.
 <p>Quite ambiguous, Fragrance.’s synth pop songs oscillate between asserted mainstream influences (he released an amazing cover of Gala’s Freed From Desire) and lo-fi music, in the same way that his melancholic voice and dancing beats are mixed: you never really know how you should feel when you listen them.

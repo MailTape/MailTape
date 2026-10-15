@@ -1,34 +1,12 @@
 ---
 published: true
 pubDate: 2025-02-16
-category: "576"
 guest_name: Sons Of Zöku
 guest_color: trippy
-guestPic: sons_of_zoku.jpg
+guestPic: /img/sons_of_zoku.jpg
 author: Aloyse
 illustrator: Noémie Dijon
 writer: Aloyse
-track1_title: " Fabiano Do Nascimento, Sam Gendel - Poeira"
-track1_color: bliss
-track1_link: https://sounds.mailta.pe/576/track1.mp3
-track2_title: Cymande - One More
-track2_color: vibrant
-track2_link: https://sounds.mailta.pe/576/track2.mp3
-track3_title: This Is The Kit - Our Socks Forever More
-track3_color: dreamy
-track3_link: https://sounds.mailta.pe/576/track3.mp3
-track4_title: Sons Of Zöku - Nu Poème
-track4_color: trippy
-track4_link: https://sounds.mailta.pe/576/track4.mp3
-track5_title: Gábor Szabó - Somewhere I Belong
-track5_color: trippy
-track5_link: https://sounds.mailta.pe/576/track5.mp3
-track6_title: Roy Montgomery - Jaguar Unseen
-track6_color: trippy
-track6_link: https://sounds.mailta.pe/576/track6.mp3
-track7_title: Jenny Hval - Cemetary of Splendour
-track7_color: dreamy
-track7_link: https://sounds.mailta.pe/576/track7.mp3
 description: >
   This morning is smooth, smoother than a banana-mango smoothie blended by a
   pro. Let these songs wrap you like a blanket and mellow out this Sunday
@@ -37,10 +15,38 @@ description: >
   They are taking us on a beautiful trip. 
 
   Let’s dive in.
-episode_URL: https://www.mailta.pe/576/Sons-Of-Zoku/
-image: https://www.mailta.pe/img/fbPic576.jpg
-musiColor: musicolor576.png
+image: /img/fbpic576.jpg
+musiColor: /img/musicolor576.png
 alignY: "0.2"
+track1:
+  title: " Fabiano Do Nascimento, Sam Gendel - Poeira"
+  color: bliss
+  link: https://sounds.mailta.pe/576/track1.mp3
+track2:
+  title: Cymande - One More
+  color: vibrant
+  link: https://sounds.mailta.pe/576/track2.mp3
+track3:
+  title: This Is The Kit - Our Socks Forever More
+  color: dreamy
+  link: https://sounds.mailta.pe/576/track3.mp3
+track4:
+  title: Sons Of Zöku - Nu Poème
+  color: trippy
+  link: https://sounds.mailta.pe/576/track4.mp3
+track5:
+  title: Gábor Szabó - Somewhere I Belong
+  color: trippy
+  link: https://sounds.mailta.pe/576/track5.mp3
+track6:
+  title: Roy Montgomery - Jaguar Unseen
+  color: trippy
+  link: https://sounds.mailta.pe/576/track6.mp3
+track7:
+  title: Jenny Hval - Cemetary of Splendour
+  color: dreamy
+  link: https://sounds.mailta.pe/576/track7.mp3
+release: 576
 ---
 This morning is smooth, smoother than a banana-mango smoothie blended by a pro. Let these songs wrap you like a blanket and mellow out this Sunday morning with the delicate selection of [Sons Of Zöku](https://sonsofzoku.bandcamp.com/). Their music blends influences from psychedelic rock, experimental sounds, and world music, and they manage to make it all come together beautifully. They are taking us on a beautiful trip. 
 

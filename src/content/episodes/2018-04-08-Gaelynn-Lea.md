@@ -1,40 +1,47 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Sanjay Mistry
 illustrator: Pierre-Julien Fieux
 writer: Sanjay Mistry
-category: '307'
 guest_name: Gaelynn Lea
 guest_color: vibrant
-track1_link: https://sounds.mailta.pe/307/track1.mp3
-track2_link: https://sounds.mailta.pe/307/track2.mp3
-track3_link: https://sounds.mailta.pe/307/track3.mp3
-track4_link: https://sounds.mailta.pe/307/track4.mp3
-track5_link: https://sounds.mailta.pe/307/track5.mp3
-track6_link: https://sounds.mailta.pe/307/track6.mp3
-track7_link: https://sounds.mailta.pe/307/track7.mp3
-track1_title: Jerree Small – 60 Words For Water
-track1_color: bliss
-track2_title: The Decemberists – Angel, Won't You Call Me?
-track2_color: trippy
-track3_title: Charlie Parr – Gospel Plow
-track3_color: vibrant
-track4_title: Gaelynn Lea – Bound By A Thread
-track4_color: dreamy
-track5_title: Diane Cluck – Sara
-track5_color: dreamy
-track6_title: Buffy Sainte-Marie – Now That the Buffalo's Gone
-track6_color: bliss
-track7_title: Trio Da Kali – Yirimadjo
-track7_color: trippy
-episode_URL: http://mailta.pe/307/gaelynn-lea/
-image: https://www.mailta.pe/img/fbPic307.jpg
-guestPic: guestPic307.jpg
-musiColor: musiColor307.png
-description: This morning we are delighted to welcome Duluth-based violinist, Gaelynn Lea. She chooses an easy breezy Sunday morning playlist in collaboration with MailTape.
-pubDate: '2018-04-08'
+image: /img/fbpic307.jpg
+guestPic: /img/guestpic307.jpg
+musiColor: /img/musicolor307.png
+description: This morning we are delighted to welcome Duluth-based violinist,
+  Gaelynn Lea. She chooses an easy breezy Sunday morning playlist in
+  collaboration with MailTape.
+pubDate: 2018-04-08
+track1:
+  title: Jerree Small – 60 Words For Water
+  color: bliss
+  link: https://sounds.mailta.pe/307/track1.mp3
+track2:
+  title: The Decemberists – Angel, Won't You Call Me?
+  color: trippy
+  link: https://sounds.mailta.pe/307/track2.mp3
+track3:
+  title: Charlie Parr – Gospel Plow
+  color: vibrant
+  link: https://sounds.mailta.pe/307/track3.mp3
+track4:
+  title: Gaelynn Lea – Bound By A Thread
+  color: dreamy
+  link: https://sounds.mailta.pe/307/track4.mp3
+track5:
+  title: Diane Cluck – Sara
+  color: dreamy
+  link: https://sounds.mailta.pe/307/track5.mp3
+track6:
+  title: Buffy Sainte-Marie – Now That the Buffalo's Gone
+  color: bliss
+  link: https://sounds.mailta.pe/307/track6.mp3
+track7:
+  title: Trio Da Kali – Yirimadjo
+  color: trippy
+  link: https://sounds.mailta.pe/307/track7.mp3
+release: 307
 ---
 This morning we are delighted to welcome Duluth-based violinist, [Gaelynn Lea](https://violinscratches.com/). She chooses an easy breezy Sunday morning playlist in collaboration with MailTape.
 <p>She plays a mix of traditional and original tunes on her violin, which is layered using a live-looping pedal. And if that wasn't enough, she's a spellbinding singer with a real knack for the lyric and an uncanny understanding of how to conjure a mood.

@@ -1,40 +1,51 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Sarah
 illustrator: Noémie Dijon
 writer: Sarah
-category: '485'
 guest_name: Raw Poetic
 guest_color: dreamy
-track1_title: The Bongo Band - Apache
-track2_title: The Silent Years - Someone To Keep Us Warm
-track3_title: MC Solaar - Bouge De Là
-track1_color: vibrant
-track2_color: bliss
-track3_color: vibrant
-track3_link: https://sounds.mailta.pe/485/track3.mp3
-track1_link: https://sounds.mailta.pe/485/track1.mp3
-track2_link: https://sounds.mailta.pe/485/track2.mp3
-track4_link: https://sounds.mailta.pe/485/track4.mp3
-track4_title: Raw Poetic - Cadillac
-track4_color: bliss
-track5_color: dreamy
-track5_link: https://sounds.mailta.pe/485/track5.mp3
-track5_title: Raw Poetic and Damu the Fudgemunk - Power of the Mind
-track6_color: vibrant
-track7_color: dreamy
-track7_link: https://sounds.mailta.pe/485/track7.mp3
-track7_title: India Blue - Magpie
-image: https://www.mailta.pe/img/fbPic485.png
-episode_URL: http://mailta.pe/485/Raw-Poetic/
-guestPic: guestPic485.jpg
-track6_title: DARGZ, Moses Boyd - Happiness
-track6_link: https://sounds.mailta.pe/485/track6.mp3
-description: 'This morning, we''re ringing in the day with some smooth sunshine tracks, introduced by our dear guest, Raw Poetic. The project of Jason Moore, Raw Poetic''s music dips into treadings of hip hop, jazz, folk, and soul. Instead of categorizing his albums, Jason says, "what it sounds like is what it sounds like." His production style follows this free form and flowing process, where the end result is not hindered by any certain categorical distinction. '
-musiColor: musiColor485.png
-pubDate: '2022-03-13'
+image: /img/fbpic485.png
+guestPic: /img/guestpic485.jpg
+description: "This morning, we're ringing in the day with some smooth sunshine
+  tracks, introduced by our dear guest, Raw Poetic. The project of Jason Moore,
+  Raw Poetic's music dips into treadings of hip hop, jazz, folk, and soul.
+  Instead of categorizing his albums, Jason says, \"what it sounds like is what
+  it sounds like.\" His production style follows this free form and flowing
+  process, where the end result is not hindered by any certain categorical
+  distinction. "
+musiColor: /img/musicolor485.png
+pubDate: 2022-03-13
+track1:
+  title: The Bongo Band - Apache
+  color: vibrant
+  link: https://sounds.mailta.pe/485/track1.mp3
+track2:
+  title: The Silent Years - Someone To Keep Us Warm
+  color: bliss
+  link: https://sounds.mailta.pe/485/track2.mp3
+track3:
+  title: MC Solaar - Bouge De Là
+  color: vibrant
+  link: https://sounds.mailta.pe/485/track3.mp3
+track4:
+  title: Raw Poetic - Cadillac
+  color: bliss
+  link: https://sounds.mailta.pe/485/track4.mp3
+track5:
+  title: Raw Poetic and Damu the Fudgemunk - Power of the Mind
+  color: dreamy
+  link: https://sounds.mailta.pe/485/track5.mp3
+track6:
+  title: DARGZ, Moses Boyd - Happiness
+  color: vibrant
+  link: https://sounds.mailta.pe/485/track6.mp3
+track7:
+  title: India Blue - Magpie
+  color: dreamy
+  link: https://sounds.mailta.pe/485/track7.mp3
+release: 485
 ---
 This morning, we're ringing in the day with smooth sunshine tracks introduced by our dear guest, [Raw Poetic](https://rawpoetic.bandcamp.com/). The project of Jason Moore, Raw Poetic's music dips into treadings of hip hop, jazz, folk, and soul. Instead of categorizing his work, Jason simply says, "what it sounds like is what it sounds like." His production style follows this free form and flowing process, where finished products are not hindered by any certain categorical distinction.  
   <br><br>

@@ -1,40 +1,48 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
-track4_link: https://sounds.mailta.pe/361/track4.mp3
-track1_link: https://sounds.mailta.pe/361/track1.mp3
-guestPic: guestPic361.jpg
-category: '361'
+guestPic: /img/guestpic361.jpg
 illustrator: Camille Célestin
 author: Anaïs G
 writer: Anaïs G
 guest_name: Yael Miller
 guest_color: vibrant
-track5_link: https://sounds.mailta.pe/361/track5.mp3
-track6_link: https://sounds.mailta.pe/361/track6.mp3
-track7_link: https://sounds.mailta.pe/361/track7.mp3
-track1_title: ' Nick Cave And The Bad Seeds - Red Right Hand '
-track2_color: trippy
-track3_color: rough
-track1_color: vibrant
-track7_color: dreamy
-track5_color: bliss
-track6_color: vibrant
-track7_title: 'Exit Someone - Mickeal K ( version 1) '
-track6_title: Meernaa - Wildest Eyes
-track5_title: Seba Kaapstad - Africa
-track4_title: Yael Miller - Forget About You
-track4_color: vibrant
-track2_title: Bjork - Jóga
-track3_title: Led Zeppelin - Whole Lotta Love
-episode_URL: http://mailta.pe/361/Yael-Miller
-musiColor: musiColor361.png
-description: This morning, the voice of women is resounding, it is growing and is fighting against multiple inequalities... Whether gentle or strong, frail or assertive, there must be no differences. Our guest this Sunday to this need to defend his values.
-track2_link: https://sounds.mailta.pe/361/track2.mp3
-track3_link: https://sounds.mailta.pe/361/Track3.mp3
-image: fbPic361.png
-pubDate: '2019-06-09'
+musiColor: /img/musicolor361.png
+description: This morning, the voice of women is resounding, it is growing and
+  is fighting against multiple inequalities... Whether gentle or strong, frail
+  or assertive, there must be no differences. Our guest this Sunday to this need
+  to defend his values.
+image: fbpic361.png
+pubDate: 2019-06-09
+track1:
+  title: " Nick Cave And The Bad Seeds - Red Right Hand "
+  color: vibrant
+  link: https://sounds.mailta.pe/361/track1.mp3
+track2:
+  title: Bjork - Jóga
+  color: trippy
+  link: https://sounds.mailta.pe/361/track2.mp3
+track3:
+  title: Led Zeppelin - Whole Lotta Love
+  color: rough
+  link: https://sounds.mailta.pe/361/Track3.mp3
+track4:
+  title: Yael Miller - Forget About You
+  color: vibrant
+  link: https://sounds.mailta.pe/361/track4.mp3
+track5:
+  title: Seba Kaapstad - Africa
+  color: bliss
+  link: https://sounds.mailta.pe/361/track5.mp3
+track6:
+  title: Meernaa - Wildest Eyes
+  color: vibrant
+  link: https://sounds.mailta.pe/361/track6.mp3
+track7:
+  title: "Exit Someone - Mickeal K ( version 1) "
+  color: dreamy
+  link: https://sounds.mailta.pe/361/track7.mp3
+release: 361
 ---
 
  This morning, the voice of women is resounding, it is growing and is fighting against multiple inequalities... Whether gentle or strong, frail or assertive, there must be no differences. Our guest this Sunday to this need to defend his values.

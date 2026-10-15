@@ -54,9 +54,9 @@ $(document).ready(
 
 		/* Teaser image swap function */
 	    $("#logoLink").on("hover",function () {
-	        $("#logo").src = '/img/Logo_Mailtape.gif';
+	        $("#logo").src = '/img/logo_mailtape.gif';
 	    }, function () {
-	        $("#logo").src = '/img/Logo_Mailtape.png';
+	        $("#logo").src = '/img/logo_mailtape.png';
 	    });
 
 

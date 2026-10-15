@@ -1,42 +1,48 @@
 ---
 published: true
 pubDate: 2024-11-03
-category: "564"
 guest_name: Rosie Lowe
 guest_color: dreamy
-guestPic: guestpic564.jpg
+guestPic: /img/guestpic564.jpg
 author: Sarah
 illustrator: Thibault Daumain
 writer: Sarah
-track1_title: Pete Josef - Sunny Side Up
-track1_color: bliss
-track1_link: https://sounds.mailta.pe/564/track1.mp3
-track2_title: Dina Ögon - Tombola 94
-track2_color: vibrant
-track2_link: https://sounds.mailta.pe/564/track2.mp3
-track3_title: Floating Points, Pharaoh Saunders, London Symphony Orchestra - Movement 6
-track3_color: dreamy
-track3_link: https://sounds.mailta.pe/564/track3.mp3
-track4_title: Rosie Lowe - Lay Me
-track4_color: bliss
-track4_link: https://sounds.mailta.pe/564/track4.mp3
-track5_title: Feed LA - Früh
-track5_color: vibrant
-track5_link: https://sounds.mailta.pe/564/track5.mp3
-track6_title: Grandbaby - The Melody of Talk
-track6_color: trippy
-track6_link: https://sounds.mailta.pe/564/track6.mp3
-track7_title: Rosie Lowe, Duval Timothy - Son
-track7_color: bliss
-track7_link: https://sounds.mailta.pe/564/track7.mp3
 description: Your Sunday in all its softness :) This morning, MailTape is
   delighted to welcome singer Rosie Lowe for a selection of soulful, sweeping,
   deep listening. The London-based singer joins us following the release of her
   album Lover, Other. With releases marked by swells of choral patchworks, a
   capella avant-garde, and jazz-funk harmonies, every listen from Rosie Lowe is
   a mosaic to discover. A gift for you this morning !
-episode_URL: https://www.mailta.pe/564/Rosie-Lowe/
-musiColor: musicolor_564.png
+musiColor: /img/musicolor_564.png
+track1:
+  title: Pete Josef - Sunny Side Up
+  color: bliss
+  link: https://sounds.mailta.pe/564/track1.mp3
+track2:
+  title: Dina Ögon - Tombola 94
+  color: vibrant
+  link: https://sounds.mailta.pe/564/track2.mp3
+track3:
+  title: Floating Points, Pharaoh Saunders, London Symphony Orchestra - Movement 6
+  color: dreamy
+  link: https://sounds.mailta.pe/564/track3.mp3
+track4:
+  title: Rosie Lowe - Lay Me
+  color: bliss
+  link: https://sounds.mailta.pe/564/track4.mp3
+track5:
+  title: Feed LA - Früh
+  color: vibrant
+  link: https://sounds.mailta.pe/564/track5.mp3
+track6:
+  title: Grandbaby - The Melody of Talk
+  color: trippy
+  link: https://sounds.mailta.pe/564/track6.mp3
+track7:
+  title: Rosie Lowe, Duval Timothy - Son
+  color: bliss
+  link: https://sounds.mailta.pe/564/track7.mp3
+release: 564
 ---
 Your Sunday in all its softness :) This morning, MailTape is delighted to welcome singer [Rosie Lowe](https://rosielowe.bandcamp.com/) for a selection of sweeping soulful deep listening. The London-based singer joins us following the release of her album [Lover, Other](https://rosielowe.bandcamp.com/album/lover-other). Rosie Lowe's releases are marked by swells of intricate choral patchworks, a capella avant-garde, and jazz-funk harmonies -- every listen hints at more to discover. A gift for you this morning !
 

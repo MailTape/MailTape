@@ -1,39 +1,49 @@
 ---
-
 published: true
 author: ImaCrea
 guest_color: vibrant
-bigTitle_font_ratio: '9'
-bigTitle_line_ratio: '0.5'
-track1_color: bliss
-track2_color: trippy
-track3_color: bliss
-track4_color: vibrant
-track5_color: dreamy
-track6_color: bliss
-track7_color: rough
-category: '135'
+bigTitle_font_ratio: "9"
+bigTitle_line_ratio: "0.5"
 guest_name: Blitz The Ambassador
-track1_link: https://sounds.mailta.pe/135/track1.mp3
-track2_link: https://sounds.mailta.pe/135/track2.mp3
-track3_link: https://sounds.mailta.pe/135/track3.mp3
-track4_link: https://sounds.mailta.pe/135/track4.mp3
-track5_link: https://sounds.mailta.pe/135/track5.mp3
-track6_link: https://sounds.mailta.pe/135/track6.mp3
-track7_link: https://sounds.mailta.pe/135/track7.mp3
-track1_title: Bob James - Nautilus
-track2_title: Electric Wire Hustle – Waters
-track3_title: DJ 100 Proof Happy Mentality
-track4_title: Blitz The Ambassador - Make You No Forget Ft. Seun Kuti
-track5_title: Brigitte Bardot - La Madrague (Anna Paul rework)
-track6_title: Marvin Gaye - What's Goin On (Paulie's Potown Reflip)
-track7_title: Simba - Jaywalking (Redsoul remix)
-guestPic: guestPic135.jpg
-image: https://www.mailta.pe/img/fbPic135.jpg
-episode_URL: http://mailta.pe/135/Blitz-The-Ambassador/
-description: This morning, wake up with a soulful selection inspired by monsieur Blitz The Ambassador. Starting with a classic sampled all over the hip-hop universe and finishing with some rough deep jazz, each track reveals a new surprise. Some may say we’re going into circle, to them we say it’s a spiral and this episode is to remind them we’ll keep digging the best to wake you up every sunday with a big smile on your face.
-musiColor: musiColor135.png
-pubDate: '2014-04-06'
+guestPic: /img/guestpic135.jpg
+image: /img/fbpic135.jpg
+description: This morning, wake up with a soulful selection inspired by monsieur
+  Blitz The Ambassador. Starting with a classic sampled all over the hip-hop
+  universe and finishing with some rough deep jazz, each track reveals a new
+  surprise. Some may say we’re going into circle, to them we say it’s a spiral
+  and this episode is to remind them we’ll keep digging the best to wake you up
+  every sunday with a big smile on your face.
+musiColor: /img/musicolor135.png
+pubDate: 2014-04-06
+track1:
+  title: Bob James - Nautilus
+  color: bliss
+  link: https://sounds.mailta.pe/135/track1.mp3
+track2:
+  title: Electric Wire Hustle – Waters
+  color: trippy
+  link: https://sounds.mailta.pe/135/track2.mp3
+track3:
+  title: DJ 100 Proof Happy Mentality
+  color: bliss
+  link: https://sounds.mailta.pe/135/track3.mp3
+track4:
+  title: Blitz The Ambassador - Make You No Forget Ft. Seun Kuti
+  color: vibrant
+  link: https://sounds.mailta.pe/135/track4.mp3
+track5:
+  title: Brigitte Bardot - La Madrague (Anna Paul rework)
+  color: dreamy
+  link: https://sounds.mailta.pe/135/track5.mp3
+track6:
+  title: Marvin Gaye - What's Goin On (Paulie's Potown Reflip)
+  color: bliss
+  link: https://sounds.mailta.pe/135/track6.mp3
+track7:
+  title: Simba - Jaywalking (Redsoul remix)
+  color: rough
+  link: https://sounds.mailta.pe/135/track7.mp3
+release: 135
 ---
 
 

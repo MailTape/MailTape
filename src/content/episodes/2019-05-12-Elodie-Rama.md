@@ -1,40 +1,47 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Anaïs G
 illustrator: Anthony Dujardin
 writer: Anaïs G
-category: '357'
 guest_name: Elodie Rama
 guest_color: bliss
-track4_link: https://sounds.mailta.pe/357/track4.mp3
-track4_color: bliss
-track4_title: 'Elodie Rama - Home '
-track3_color: trippy
-track3_title: Témé Tan x Le Motel - Le Ciel
-track2_title: 'Varnish La Piscine - Bubble '
-track2_color: dreamy
-track1_title: CM Jones - Remain feat King Krab
-track1_color: vibrant
-track1_link: https://sounds.mailta.pe/357/track1.mp3
-track7_link: https://sounds.mailta.pe/357/track7.mp3
-track7_color: bliss
-track7_title: 'Yazmin Lacey - Black Moon '
-track6_color: vibrant
-track6_title: 'Rosie Lowe - Pharoah  '
-track5_title: Celeste - Summer feat Jeshi
-track5_color: dreamy
-track2_link: https://sounds.mailta.pe/357/Track%202.mp3
-track3_link: https://sounds.mailta.pe/357/Track%203.mp3
-track5_link: https://sounds.mailta.pe/357/Track%205.mp3
-track6_link: https://sounds.mailta.pe/357/Track%206.mp3
-guestPic: guestPic357.jpg
-episode_URL: http://mailta.pe/357/Elodie-Rama
-image: https://www.mailta.pe/img/fbPic357.png
-musiColor: musiColor357.png
-description: This morning, we walk through the deserted streets of a city (of your choice). Whether we return from the evening or we decide to buy croissants, we listen to the musical selection of Elodie Rama in the ears.
-pubDate: '2019-05-12'
+guestPic: /img/guestpic357.jpg
+image: /img/fbpic357.png
+musiColor: /img/musicolor357.png
+description: This morning, we walk through the deserted streets of a city (of
+  your choice). Whether we return from the evening or we decide to buy
+  croissants, we listen to the musical selection of Elodie Rama in the ears.
+pubDate: 2019-05-12
+track1:
+  title: CM Jones - Remain feat King Krab
+  color: vibrant
+  link: https://sounds.mailta.pe/357/track1.mp3
+track2:
+  title: "Varnish La Piscine - Bubble "
+  color: dreamy
+  link: https://sounds.mailta.pe/357/Track%202.mp3
+track3:
+  title: Témé Tan x Le Motel - Le Ciel
+  color: trippy
+  link: https://sounds.mailta.pe/357/Track%203.mp3
+track4:
+  title: "Elodie Rama - Home "
+  color: bliss
+  link: https://sounds.mailta.pe/357/track4.mp3
+track5:
+  title: Celeste - Summer feat Jeshi
+  color: dreamy
+  link: https://sounds.mailta.pe/357/Track%205.mp3
+track6:
+  title: "Rosie Lowe - Pharoah  "
+  color: vibrant
+  link: https://sounds.mailta.pe/357/Track%206.mp3
+track7:
+  title: "Yazmin Lacey - Black Moon "
+  color: bliss
+  link: https://sounds.mailta.pe/357/track7.mp3
+release: 357
 ---
 
 This morning, we walk through the deserted streets of a city (of your choice). Whether we return from the evening or we decide to buy croissants, we listen to the musical selection of [Elodie Rama](https://elodierama.fr/) in the ears.

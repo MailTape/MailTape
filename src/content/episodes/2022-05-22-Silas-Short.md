@@ -1,40 +1,49 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: ImaCrea
 writer: ImaCrea
 illustrator: Noémie Dijon
-category: '494'
 guest_name: Silas Short
 guest_color: bliss
-track1_color: bliss
-track1_title: Whatnauts - I’ll Erase Away Your Pain
-track2_title: Bilal - Sometimes
-track2_color: trippy
-track3_title: Platinum Pied Pipers - I Got You
-track3_color: vibrant
-track4_color: bliss
-track5_color: vibrant
-track6_color: dreamy
-track7_color: bliss
-guestPic: guestPic494.jpg
-track1_link: https://sounds.mailta.pe/494/track1.mp3
-track2_link: https://sounds.mailta.pe/494/track2.mp3
-track3_link: https://sounds.mailta.pe/494/track3.mp3
-track4_link: https://sounds.mailta.pe/494/track4.mp3
-track4_title: Silas Short - Drawing
-track5_title: Quelle Chris - Alive Ain't Always Living
-track6_title: Charles Stepney - Step on Step
-track7_title: Georgia Anne Muldrow - Slow Drag
-track5_link: https://sounds.mailta.pe/494/track5.mp3
-track6_link: https://sounds.mailta.pe/494/track6.mp3
-track7_link: https://sounds.mailta.pe/494/track7.mp3
-musiColor: musiColor494.png
-episode_URL: http://mailta.pe/494/Silas-Short/
-description: This morning we’re in excellent company with Silas Short from the legendary Stones Throw Record family. Young and very talented, his debut EP, “Drawing”, develops a rich soundscape carved with his very own signature. We’re very honored to have him with us today and pleased to share that pleasure with you. Let’s groove.
-image: https://www.mailta.pe/img/fbPic494.jpg
-pubDate: '2022-05-22'
+guestPic: /img/guestpic494.jpg
+musiColor: /img/musicolor494.png
+description: This morning we’re in excellent company with Silas Short from the
+  legendary Stones Throw Record family. Young and very talented, his debut EP,
+  “Drawing”, develops a rich soundscape carved with his very own signature.
+  We’re very honored to have him with us today and pleased to share that
+  pleasure with you. Let’s groove.
+image: /img/fbpic494.jpg
+pubDate: 2022-05-22
+track1:
+  title: Whatnauts - I’ll Erase Away Your Pain
+  color: bliss
+  link: https://sounds.mailta.pe/494/track1.mp3
+track2:
+  title: Bilal - Sometimes
+  color: trippy
+  link: https://sounds.mailta.pe/494/track2.mp3
+track3:
+  title: Platinum Pied Pipers - I Got You
+  color: vibrant
+  link: https://sounds.mailta.pe/494/track3.mp3
+track4:
+  title: Silas Short - Drawing
+  color: bliss
+  link: https://sounds.mailta.pe/494/track4.mp3
+track5:
+  title: Quelle Chris - Alive Ain't Always Living
+  color: vibrant
+  link: https://sounds.mailta.pe/494/track5.mp3
+track6:
+  title: Charles Stepney - Step on Step
+  color: dreamy
+  link: https://sounds.mailta.pe/494/track6.mp3
+track7:
+  title: Georgia Anne Muldrow - Slow Drag
+  color: bliss
+  link: https://sounds.mailta.pe/494/track7.mp3
+release: 494
 ---
 This morning we’re in excellent company with [Silas Short](https://silasshort.bandcamp.com/) from the legendary Stones Throw Record family. Young and very talented, his debut EP, ["Drawing"](https://silasshort.bandcamp.com/), develops a rich soundscape carved with his very own signature. We’re very honored to have him with us today and pleased to share that pleasure with you. Let’s groove.
 

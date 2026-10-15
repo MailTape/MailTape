@@ -1,40 +1,56 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Charlotte
 illustrator: Pierre-Julien Fieux
 writer: Charlotte
-category: '320'
 guest_name: Amen Dunes
 guest_color: vibrant
-track1_title: Beethoven - 6th Symphony (1st movement)
-track1_color: vibrant
-track2_title: The Future Sound of London - Just a Fuckin Idiot
-track2_color: dreamy
-track3_title: Neil Diamond - Cherry Cherry
-track4_title: Amen Dunes - Bedroom Drums
-track3_color: vibrant
-track4_color: bliss
-track5_title: Tonstartssbandht - 5FT7
-track5_color: bliss
-track6_title: Sons of Kemet - My Queen Is Harriet Tubman
-track6_color: bliss
-track7_title: Lee Hazlewood - Your Sweet Love
-track7_color: vibrant
-episode_URL: https://www.mailta.pe/320/amen-dunes/
-description: 'For this last MailTape before our summer break, we welcome Damon McMahan, songwriter and New York-based founder of Amen Dunes.  In 2006, he locked himself in an isolated trailer and within a month, recorded his first album, “D.I.A“. Since then, critics haven’t seemed to reach a common agreement about how to catagorise his music: mutant folk, dark psyche, post-modern soul, cosmic rock… but whatever they’re full of fucking shit anyway. It has been consistently exciting to see the band evolve over the years.   In March 2018, Damon McMahan released his 5th LP and was no longer alone. Far away from his beautiful but claustrophobic debut album, “Freedom” is an adventurous and outward record that he produced surrounded with musicians and friends: Chris Coady (Beach House), Panoram, Parker Kindred (Antony and The Johnsons), Delicate Steve …'
-track4_link: https://sounds.mailta.pe/320/track4.mp3
-track5_link: https://sounds.mailta.pe/320/track5.mp3
-track6_link: https://sounds.mailta.pe/320/track6.mp3
-track1_link: https://sounds.mailta.pe/320/track1.mp3
-track2_link: https://sounds.mailta.pe/320/track2.mp3
-track3_link: https://sounds.mailta.pe/320/track3.mp3
-track7_link: https://sounds.mailta.pe/320/track7.mp3
-guestPic: guestPic320.jpg
-image: https://www.mailta.pe/img/fbPic320.jpg
-musiColor: musiColor320.png
-pubDate: '2018-07-08'
+description: "For this last MailTape before our summer break, we welcome Damon
+  McMahan, songwriter and New York-based founder of Amen Dunes.  In 2006, he
+  locked himself in an isolated trailer and within a month, recorded his first
+  album, “D.I.A“. Since then, critics haven’t seemed to reach a common agreement
+  about how to catagorise his music: mutant folk, dark psyche, post-modern soul,
+  cosmic rock… but whatever they’re full of fucking shit anyway. It has been
+  consistently exciting to see the band evolve over the years.   In March 2018,
+  Damon McMahan released his 5th LP and was no longer alone. Far away from his
+  beautiful but claustrophobic debut album, “Freedom” is an adventurous and
+  outward record that he produced surrounded with musicians and friends: Chris
+  Coady (Beach House), Panoram, Parker Kindred (Antony and The Johnsons),
+  Delicate Steve …"
+guestPic: /img/guestpic320.jpg
+image: /img/fbpic320.jpg
+musiColor: /img/musicolor320.png
+pubDate: 2018-07-08
+track1:
+  title: Beethoven - 6th Symphony (1st movement)
+  color: vibrant
+  link: https://sounds.mailta.pe/320/track1.mp3
+track2:
+  title: The Future Sound of London - Just a Fuckin Idiot
+  color: dreamy
+  link: https://sounds.mailta.pe/320/track2.mp3
+track3:
+  title: Neil Diamond - Cherry Cherry
+  color: vibrant
+  link: https://sounds.mailta.pe/320/track3.mp3
+track4:
+  title: Amen Dunes - Bedroom Drums
+  color: bliss
+  link: https://sounds.mailta.pe/320/track4.mp3
+track5:
+  title: Tonstartssbandht - 5FT7
+  color: bliss
+  link: https://sounds.mailta.pe/320/track5.mp3
+track6:
+  title: Sons of Kemet - My Queen Is Harriet Tubman
+  color: bliss
+  link: https://sounds.mailta.pe/320/track6.mp3
+track7:
+  title: Lee Hazlewood - Your Sweet Love
+  color: vibrant
+  link: https://sounds.mailta.pe/320/track7.mp3
+release: 320
 ---
 For this last MailTape before our summer break, we welcome Damon McMahan, songwriter and New York-based founder of [Amen Dunes](https://amendunes.bandcamp.com/).
 <p>In 2006, he locked himself in an isolated trailer and within a month, recorded his first album, “D.I.A“. Since then, critics haven’t seemed to reach a common agreement about how to categorise his music: mutant folk, dark psyche, post-modern soul, cosmic rock… but whatever. It has been consistently exciting to see the band evolve over the years.

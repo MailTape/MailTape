@@ -1,38 +1,44 @@
 ---
-pubDate: '2021-06-13'
-bigTitle_font_ratio: '6'
+pubDate: 2021-06-13
+bigTitle_font_ratio: "6"
 published: true
 author: Anaïs G
 illustrator: Camille Célestin
 writer: Anaïs G
-category: '455'
 guest_name: Hélène Barbier
 guest_color: dreamy
-guestPic: guestPic455.jpg
-track1_title: Carole King - Beautiful
-track1_color: vibrant
-track2_title: Jack Name- Sacred Place
-track2_color: dreamy
-track3_title: Paolo Conte- Sparring Partner
-track3_color: bliss
-track4_title: Hélène Barbier - La Peur
-track4_color: dreamy
-track5_title: Omni - Sincerely Yours
-track5_color: bliss
-track6_title: François Virot - Cascade Kisses
-track6_color: vibrant
-track7_title: Phern - I Sold The House
-track7_color: trippy
-episode_URL: 'http://mailta.pe/455/hélène-barbier/'
-image: 'https://www.mailta.pe/img/fbPic455.png'
-musiColor: musiColor455.png
-track7_link: 'https://sounds.mailta.pe/missingTrack.mp3'
-track1_link: 'https://sounds.mailta.pe/455/track1.mp3'
-track2_link: 'https://sounds.mailta.pe/455/track2.mp3'
-track3_link: 'https://sounds.mailta.pe/455/track3.mp3'
-track4_link: 'https://sounds.mailta.pe/455/track4.mp3'
-track5_link: 'https://sounds.mailta.pe/455/track5.mp3'
-track6_link: 'https://sounds.mailta.pe/455/track6.mp3'
+guestPic: /img/guestpic455.jpg
+image: /img/fbpic455.png
+musiColor: /img/musicolor455.png
+track1:
+  title: Carole King - Beautiful
+  color: vibrant
+  link: https://sounds.mailta.pe/455/track1.mp3
+track2:
+  title: Jack Name- Sacred Place
+  color: dreamy
+  link: https://sounds.mailta.pe/455/track2.mp3
+track3:
+  title: Paolo Conte- Sparring Partner
+  color: bliss
+  link: https://sounds.mailta.pe/455/track3.mp3
+track4:
+  title: Hélène Barbier - La Peur
+  color: dreamy
+  link: https://sounds.mailta.pe/455/track4.mp3
+track5:
+  title: Omni - Sincerely Yours
+  color: bliss
+  link: https://sounds.mailta.pe/455/track5.mp3
+track6:
+  title: François Virot - Cascade Kisses
+  color: vibrant
+  link: https://sounds.mailta.pe/455/track6.mp3
+track7:
+  title: Phern - I Sold The House
+  color: trippy
+  link: https://sounds.mailta.pe/missingTrack.mp3
+release: 455
 ---
 
 <p id="introduction">This morning, the birds are singing, the sun is shining, and can’t shatter our joy of life. To be able to resume a “normal” life, prepare for summer holidays and stroll in the sun. It is with [Hélène Barbier](https://helenebarbier.bandcamp.com/) that we will do all those things indispensable for the survival of all.

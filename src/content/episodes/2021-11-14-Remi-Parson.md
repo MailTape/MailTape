@@ -1,40 +1,50 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Anaïs G
 illustrator: Camille Célestin
 writer: Anaïs G
-category: '470'
 guest_name: Rémi Parson
-guestPic: guestPic470.jpg
-track1_color: vibrant
-track2_color: trippy
-track3_color: bliss
-track4_title: Rémi Parson - Les sentiments
-track4_color: rough
+guestPic: /img/guestpic470.jpg
 guest_color: rough
-track7_title: Francoiz Breut - Juste de passage
-track7_color: vibrant
-track6_title: Michelle Gurevich - No one Answer
-track6_color: rough
-track5_title: Grand Parc - Sur les toits
-track5_color: vibrant
-track1_title: Joep Franssens -  First Movement
-track2_title: K. Leimer - All Sad Days
-track3_title: Lilian Becker - Cadendo
-track1_link: https://sounds.mailta.pe/470/track1.mp3
-track2_link: https://sounds.mailta.pe/470/track2.mp3
-track3_link: https://sounds.mailta.pe/470/track3.mp3
-track4_link: https://sounds.mailta.pe/470/track4.mp3
-track5_link: 'https://sounds.mailta.pe/470/track5.mp3 '
-track6_link: https://sounds.mailta.pe/470/track6.mp3
-track7_link: https://sounds.mailta.pe/470/track7.mp3
-episode_URL: http://mailta.pe/470/remi-parson/
-image: https://www.mailta.pe/img/fbPic470.png
-musiColor: musiColor470.png
-description: This morning, We sneak into the city, at the first hour, with the partygoers coming back from their afternoons but also market gardeners preparing their stalls. Later in the morning, we get intoxicated by the smell of early morning coffee and the discussions of the little old people on the terraces of the cafés. It is with this emulsion of people on the move that we are driven to listen to Rémi Parson’s.
-pubDate: '2021-11-14'
+image: /img/fbpic470.png
+musiColor: /img/musicolor470.png
+description: This morning, We sneak into the city, at the first hour, with the
+  partygoers coming back from their afternoons but also market gardeners
+  preparing their stalls. Later in the morning, we get intoxicated by the smell
+  of early morning coffee and the discussions of the little old people on the
+  terraces of the cafés. It is with this emulsion of people on the move that we
+  are driven to listen to Rémi Parson’s.
+pubDate: 2021-11-14
+track1:
+  title: Joep Franssens -  First Movement
+  color: vibrant
+  link: https://sounds.mailta.pe/470/track1.mp3
+track2:
+  title: K. Leimer - All Sad Days
+  color: trippy
+  link: https://sounds.mailta.pe/470/track2.mp3
+track3:
+  title: Lilian Becker - Cadendo
+  color: bliss
+  link: https://sounds.mailta.pe/470/track3.mp3
+track4:
+  title: Rémi Parson - Les sentiments
+  color: rough
+  link: https://sounds.mailta.pe/470/track4.mp3
+track5:
+  title: Grand Parc - Sur les toits
+  color: vibrant
+  link: "https://sounds.mailta.pe/470/track5.mp3 "
+track6:
+  title: Michelle Gurevich - No one Answer
+  color: rough
+  link: https://sounds.mailta.pe/470/track6.mp3
+track7:
+  title: Francoiz Breut - Juste de passage
+  color: vibrant
+  link: https://sounds.mailta.pe/470/track7.mp3
+release: 470
 ---
  This morning, We sneak into the city, at the first hour, with the partygoers coming back from their afternoons but also market gardeners preparing their stalls. Later in the morning, we get intoxicated by the smell of early morning coffee and the discussions of the little old people on the terraces of the cafés. It is with this emulsion of people on the move that we are driven to listen to [Rémi Parson’s](https://remiparson.bandcamp.com/album/pour-un-empire) selection.
 <br><br>

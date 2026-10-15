@@ -1,40 +1,50 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
-track1_link: https://sounds.mailta.pe/314/track1.mp3
-track2_link: https://sounds.mailta.pe/314/track2.mp3
-track3_link: https://sounds.mailta.pe/314/track3.mp3
-category: '314'
 guest_name: En Attendant Ana
 guest_color: vibrant
-track4_link: https://sounds.mailta.pe/314/track4.mp3
-track5_link: https://sounds.mailta.pe/314/track5.mp3
-track6_link: https://sounds.mailta.pe/314/track6.mp3
-track7_link: https://sounds.mailta.pe/314/track7.mp3
-track1_title: Electrelane - The Greater Times
-track1_color: vibrant
-track2_title: Entracte Twist - Christine Young
-track2_color: rough
-track3_title: Joujou Jaguar - Into The Grave (Guitar Hero Version)
-track3_color: bliss
-track5_title: Snail Mail - Thinning
-track4_title: En Attendant Ana - Ré
-track4_color: dreamy
-track5_color: trippy
-track6_title: Corridor - Coup d'épée
-track6_color: vibrant
-track7_title: Le Villejuif Underground - Cold Dark Place in your Art
-track7_color: dreamy
-episode_URL: https://www.mailta.pe/314/en-attendant-ana
 author: Charlotte
-description: "This morning, we are delighted to welcome the garage pop band En Attendant\_Ana for a bright-eyed MailTape that might help you leave your bed.  The Parisian quintet has just released their first album Lost and Found in April. And while the RATP’s (transport company for Paris) lost property offices handle over 500 000 items a year, the 13 powerful and faux-naïf songs of the LP are enough to place\_En Attendant Ana as a very promising band."
-guestPic: guestPic314.jpg
-image: https://www.mailta.pe/img/fbPic314.jpg
+description: This morning, we are delighted to welcome the garage pop band En
+  Attendant Ana for a bright-eyed MailTape that might help you leave your
+  bed.  The Parisian quintet has just released their first album Lost and Found
+  in April. And while the RATP’s (transport company for Paris) lost property
+  offices handle over 500 000 items a year, the 13 powerful and faux-naïf songs
+  of the LP are enough to place En Attendant Ana as a very promising band.
+guestPic: /img/guestpic314.jpg
+image: /img/fbpic314.jpg
 writer: Charlotte
 illustrator: Camille Célestin
-musiColor: musiColor314.png
-pubDate: '2018-05-27'
+musiColor: /img/musicolor314.png
+pubDate: 2018-05-27
+track1:
+  title: Electrelane - The Greater Times
+  color: vibrant
+  link: https://sounds.mailta.pe/314/track1.mp3
+track2:
+  title: Entracte Twist - Christine Young
+  color: rough
+  link: https://sounds.mailta.pe/314/track2.mp3
+track3:
+  title: Joujou Jaguar - Into The Grave (Guitar Hero Version)
+  color: bliss
+  link: https://sounds.mailta.pe/314/track3.mp3
+track4:
+  title: En Attendant Ana - Ré
+  color: dreamy
+  link: https://sounds.mailta.pe/314/track4.mp3
+track5:
+  title: Snail Mail - Thinning
+  color: trippy
+  link: https://sounds.mailta.pe/314/track5.mp3
+track6:
+  title: Corridor - Coup d'épée
+  color: vibrant
+  link: https://sounds.mailta.pe/314/track6.mp3
+track7:
+  title: Le Villejuif Underground - Cold Dark Place in your Art
+  color: dreamy
+  link: https://sounds.mailta.pe/314/track7.mp3
+release: 314
 ---
 This morning, we are delighted to welcome the garage pop band [En Attendant Ana](https://enattendantana.bandcamp.com) for a bright-eyed MailTape that might help you leave your bed.
 <p>The Parisian quintet has just released their first album 'Lost and Found' in April. And while the RATP’s (transport company for Paris) lost property offices handle over 500 000 items a year, the 13 powerful and faux-naïf songs of the LP are enough to place En Attendant Ana as a very promising band.

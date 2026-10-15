@@ -1,39 +1,47 @@
 ---
-
 published: true
 author: Julien
 guest_color: dreamy
-bigTitle_font_ratio: '6'
-bigTitle_line_ratio: '1'
-track1_color: vibrant
-track2_color: vibrant
-track3_color: trippy
-track4_color: dreamy
-track5_color: bliss
-track6_color: bliss
-track7_color: vibrant
-category: '134'
+bigTitle_font_ratio: "6"
+bigTitle_line_ratio: "1"
 guest_name: Catching Flies
-track1_title: Fatima feat. Floating Points - Mind
-track1_link: https://sounds.mailta.pe/134/track1.mp3
-track2_link: https://sounds.mailta.pe/134/track2.mp3
-track2_title: Gap Mangione - Diana In The Autumn Wind
-track3_title: Grandbrothers - Ezra was Right
-track4_title: Catching Flies - Stay Forever
-track3_link: https://sounds.mailta.pe/134/track3.mp3
-track4_link: https://sounds.mailta.pe/134/track4.mp3
-track5_title: Kenmochi Hidefumi - Ash Ra
-track5_link: https://sounds.mailta.pe/134/track5.mp3
-track6_link: https://sounds.mailta.pe/134/track6.mp3
-track6_title: Sohn - The Wheel
-track7_title: Ages - mermeladas de barbacoa
-track7_link: https://sounds.mailta.pe/134/track7.mp3
-episode_URL: http://mailta.pe/134/Catching-Flies/
-guestPic: guestPic134.jpg
-image: https://www.mailta.pe/img/fbPic134.jpg
-musiColor: musiColor134.png
-description: This morning, we're going to remind you that sometimes it's important to swap your coffee with a beer !  Go out, buy a ticket for a concert and if you're lucky enough, you'll make some cool discoveries as for us with Catching Flies.
-pubDate: '2014-03-30'
+guestPic: /img/guestpic134.jpg
+image: /img/fbpic134.jpg
+musiColor: /img/musicolor134.png
+description: This morning, we're going to remind you that sometimes it's
+  important to swap your coffee with a beer !  Go out, buy a ticket for a
+  concert and if you're lucky enough, you'll make some cool discoveries as for
+  us with Catching Flies.
+pubDate: 2014-03-30
+track1:
+  title: Fatima feat. Floating Points - Mind
+  color: vibrant
+  link: https://sounds.mailta.pe/134/track1.mp3
+track2:
+  title: Gap Mangione - Diana In The Autumn Wind
+  color: vibrant
+  link: https://sounds.mailta.pe/134/track2.mp3
+track3:
+  title: Grandbrothers - Ezra was Right
+  color: trippy
+  link: https://sounds.mailta.pe/134/track3.mp3
+track4:
+  title: Catching Flies - Stay Forever
+  color: dreamy
+  link: https://sounds.mailta.pe/134/track4.mp3
+track5:
+  title: Kenmochi Hidefumi - Ash Ra
+  color: bliss
+  link: https://sounds.mailta.pe/134/track5.mp3
+track6:
+  title: Sohn - The Wheel
+  color: bliss
+  link: https://sounds.mailta.pe/134/track6.mp3
+track7:
+  title: Ages - mermeladas de barbacoa
+  color: vibrant
+  link: https://sounds.mailta.pe/134/track7.mp3
+release: 134
 ---
 
 

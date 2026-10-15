@@ -1,40 +1,48 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Anaïs G
 illustrator: Camille Célestin
-guest_name: 'Cam Maclean '
+guest_name: "Cam Maclean "
 guest_color: dreamy
-track1_title: Cadence Weapon - Five Roses (feat. Blue Hawaii)
-track1_color: trippy
-track2_title: Jessica Praat - Moon Dude
-track2_color: dreamy
-track3_color: dreamy
-track3_title: Bonny Doon - Im Here ( I am Alive )
-track4_title: Cam Maclean - Sunshine
-track4_color: bliss
-track5_title: Belmont Witch - Romperlo
-track6_title: 'Westerman - Outside Sublime '
-track6_color: dreamy
-track5_color: rough
-track7_title: Connan Mockasin - Momo's (feat James Blake)
-track7_color: vibrant
-episode_URL: https://www.mailta.pe/339/cam-maclean
-track6_link: https://sounds.mailta.pe/339/track6.mp3
-track5_link: https://sounds.mailta.pe/339/track5.mp3
-track4_link: https://sounds.mailta.pe/339/track4.mp3
-category: '339'
-track1_link: https://sounds.mailta.pe/339/Track%201.mp3
-track2_link: https://sounds.mailta.pe/339/Track%202.mp3
-track3_link: https://sounds.mailta.pe/339/Track%203.mp3
-track7_link: https://sounds.mailta.pe/339/Track%207.mp3
-guestPic: guestPic339.jpg
-description: This morning, we are embarking on a year filled with joy, love and surprises. It shall also astonish us with many musical discoveries and auditory newness. Our journey, headed by captain Cam Maclean, promises a Sunday filled with hope and sweetness.
-image: https://www.mailta.pe/img/fbPic339.png
+guestPic: /img/guestpic339.jpg
+description: This morning, we are embarking on a year filled with joy, love and
+  surprises. It shall also astonish us with many musical discoveries and
+  auditory newness. Our journey, headed by captain Cam Maclean, promises a
+  Sunday filled with hope and sweetness.
+image: /img/fbpic339.png
 writer: Anaïs G
-musiColor: musiColor339.png
-pubDate: '2019-01-06'
+musiColor: /img/musicolor339.png
+pubDate: 2019-01-06
+track1:
+  title: Cadence Weapon - Five Roses (feat. Blue Hawaii)
+  color: trippy
+  link: https://sounds.mailta.pe/339/Track%201.mp3
+track2:
+  title: Jessica Praat - Moon Dude
+  color: dreamy
+  link: https://sounds.mailta.pe/339/Track%202.mp3
+track3:
+  title: Bonny Doon - Im Here ( I am Alive )
+  color: dreamy
+  link: https://sounds.mailta.pe/339/Track%203.mp3
+track4:
+  title: Cam Maclean - Sunshine
+  color: bliss
+  link: https://sounds.mailta.pe/339/track4.mp3
+track5:
+  title: Belmont Witch - Romperlo
+  color: rough
+  link: https://sounds.mailta.pe/339/track5.mp3
+track6:
+  title: "Westerman - Outside Sublime "
+  color: dreamy
+  link: https://sounds.mailta.pe/339/track6.mp3
+track7:
+  title: Connan Mockasin - Momo's (feat James Blake)
+  color: vibrant
+  link: https://sounds.mailta.pe/339/Track%207.mp3
+release: 339
 ---
 
 This morning, we are embarking on a year filled with joy, love and surprises. It shall also astonish us with many musical discoveries and auditory newness. Our journey, headed by captain [Cam Maclean](https://atelierciseaux.bandcamp.com/album/cam-maclean-wait-for-love), promises a Sunday filled with hope and sweetness.

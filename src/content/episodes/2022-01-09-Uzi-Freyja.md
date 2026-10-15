@@ -1,40 +1,51 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: ImaCrea
 illustrator: Julie Wojtczak
 writer: ImaCrea
-category: '476'
 guest_name: Uzi Freyja
 guest_color: rough
-track1_link: https://sounds.mailta.pe/476/track1.mp3
-track2_link: https://sounds.mailta.pe/476/track2.mp3
-track3_link: https://sounds.mailta.pe/476/track3.mp3
-track4_link: https://sounds.mailta.pe/476/track4.mp3
-track5_link: https://sounds.mailta.pe/476/track5.mp3
-track6_link: https://sounds.mailta.pe/476/track6.mp3
-track7_link: https://sounds.mailta.pe/476/track7.mp3
-track1_title: KESHA – Woman ft The Dap-Kings Horns
-track2_title: Moonshake feat. PJ Harvey - Just A Working Girl
-track3_title: Extra Crunchy - RXK Nephew
-track4_title: Uzi Freyja - Bang Bang
-track1_color: vibrant
-track3_color: rough
-track2_color: trippy
-track4_color: rough
-track5_color: rough
-track6_color: rough
-track5_title: Blawan - Close the Cycle
-track6_title: Strait Jacket - Dreamcast
-track7_color: trippy
-track7_title: Blarf - I Dunno
-guestPic: guestPic476.jpg
-episode_URL: https://www.mailta.pe/476/Uzi-Freyja/
-image: https://www.mailta.pe/img/fbPic476.png
-musiColor: musiColor476.png
-description: This Sunday, we're extremely happy to start a new year of music discoveries with you and with Uzi Freyja. Coming from the house of WARRIORECCORDS (Mansfield.TYA, Maud Geffray...), prepare for an intense session, a crescendo of energy and vivacity. Music is a universal language from hearts to hearts. A vibration in the air, a light in the darkness. Let's keep that fire strong and alive, here and present. D a n c e. D a n c e. Dnce. Dce. D. DaNcE* d ddd daa ddA n Cccc ē.
-pubDate: '2022-01-09'
+guestPic: /img/guestpic476.jpg
+image: /img/fbpic476.png
+musiColor: /img/musicolor476.png
+description: This Sunday, we're extremely happy to start a new year of music
+  discoveries with you and with Uzi Freyja. Coming from the house of
+  WARRIORECCORDS (Mansfield.TYA, Maud Geffray...), prepare for an intense
+  session, a crescendo of energy and vivacity. Music is a universal language
+  from hearts to hearts. A vibration in the air, a light in the darkness. Let's
+  keep that fire strong and alive, here and present. D a n c e. D a n c e. Dnce.
+  Dce. D. DaNcE* d ddd daa ddA n Cccc ē.
+pubDate: 2022-01-09
+track1:
+  title: KESHA – Woman ft The Dap-Kings Horns
+  color: vibrant
+  link: https://sounds.mailta.pe/476/track1.mp3
+track2:
+  title: Moonshake feat. PJ Harvey - Just A Working Girl
+  color: trippy
+  link: https://sounds.mailta.pe/476/track2.mp3
+track3:
+  title: Extra Crunchy - RXK Nephew
+  color: rough
+  link: https://sounds.mailta.pe/476/track3.mp3
+track4:
+  title: Uzi Freyja - Bang Bang
+  color: rough
+  link: https://sounds.mailta.pe/476/track4.mp3
+track5:
+  title: Blawan - Close the Cycle
+  color: rough
+  link: https://sounds.mailta.pe/476/track5.mp3
+track6:
+  title: Strait Jacket - Dreamcast
+  color: rough
+  link: https://sounds.mailta.pe/476/track6.mp3
+track7:
+  title: Blarf - I Dunno
+  color: trippy
+  link: https://sounds.mailta.pe/476/track7.mp3
+release: 476
 ---
  
 This Sunday, we're extremely happy to start a new year of music discoveries with you and with [Uzi Freyja](https://uzifreyja.bandcamp.com/album/stand). Coming from the house of [WARRIORECCORDS](https://www.warriorecords.com/) ([Mansfield.TYA](https://www.mailta.pe/445/mansfield-tya/), [Maud Geffray](https://www.mailta.pe/281/maud-geffray/)...), prepare for an intense session, a crescendo of energy and vivacity. Music is a universal language from hearts to hearts. A vibration in the air, a light in the darkness. Let's keep that fire strong and alive, here and present. D a n c e. D  a  n   c     e. Dnce. Dce. D. DaNcE* d ddd daa ddA n Cccc ē.

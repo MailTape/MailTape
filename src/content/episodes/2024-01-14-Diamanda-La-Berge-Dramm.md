@@ -1,40 +1,49 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: ImaCrea
 illustrator: Camille Célestin
 writer: ImaCrea
-category: '543'
 guest_name: Diamanda La Berge Dramm
 guest_color: bliss
-guestPic: guestPic543.jpg
-track1_title: Will Graefe - North America nr. 2
-track1_color: dreamy
-track2_title: Caterina Barbieri - Math of You
-track2_color: trippy
-track3_title: Luke Deane - Changed
-track3_color: bliss
-track4_title: Diamanda La Berge Dramm - Chimp is who
-track4_color: bliss
-track5_title: Southeast of Rain 东南有雨 - Day 11 Three Pipe Percussionists 水管乐
-track5_color: bliss
-track6_title: Ryuichi Sakamoto - Plastic Bamboo
-track6_color: vibrant
-track7_title: KONG - Yellow King Walking to Take Revenge
-track7_color: vibrant
-episode_URL: http://mailta.pe/543/Diamanda-La-Berge-Dramm/
-image: https://www.mailta.pe/img/fbPic543.jpg
-musiColor: musiColor543.png
-track1_link: https://sounds.mailta.pe/543/track1.mp3
-track2_link: https://sounds.mailta.pe/543/track2.mp3
-track3_link: https://sounds.mailta.pe/543/track3.mp3
-track4_link: https://sounds.mailta.pe/543/track4.mp3
-track5_link: https://sounds.mailta.pe/543/track5.mp3
-track6_link: https://sounds.mailta.pe/543/track6.mp3
-track7_link: https://sounds.mailta.pe/543/track7.mp3
-description: This morning, we're honored to welcome Diamanda La Berge Dramm as our guest. Known as one of the leading contemporary classical music performers of her generation, she unveils some of her precious musical gems in this episode—a selection filled with poetry, inventiveness, and a deep desire to embrace life.
-pubDate: '2024-01-14'
+guestPic: /img/guestpic543.jpg
+image: /img/fbpic543.jpg
+musiColor: /img/musicolor543.png
+description: This morning, we're honored to welcome Diamanda La Berge Dramm as
+  our guest. Known as one of the leading contemporary classical music performers
+  of her generation, she unveils some of her precious musical gems in this
+  episode—a selection filled with poetry, inventiveness, and a deep desire to
+  embrace life.
+pubDate: 2024-01-14
+track1:
+  title: Will Graefe - North America nr. 2
+  color: dreamy
+  link: https://sounds.mailta.pe/543/track1.mp3
+track2:
+  title: Caterina Barbieri - Math of You
+  color: trippy
+  link: https://sounds.mailta.pe/543/track2.mp3
+track3:
+  title: Luke Deane - Changed
+  color: bliss
+  link: https://sounds.mailta.pe/543/track3.mp3
+track4:
+  title: Diamanda La Berge Dramm - Chimp is who
+  color: bliss
+  link: https://sounds.mailta.pe/543/track4.mp3
+track5:
+  title: Southeast of Rain 东南有雨 - Day 11 Three Pipe Percussionists 水管乐
+  color: bliss
+  link: https://sounds.mailta.pe/543/track5.mp3
+track6:
+  title: Ryuichi Sakamoto - Plastic Bamboo
+  color: vibrant
+  link: https://sounds.mailta.pe/543/track6.mp3
+track7:
+  title: KONG - Yellow King Walking to Take Revenge
+  color: vibrant
+  link: https://sounds.mailta.pe/543/track7.mp3
+release: 543
 ---
 
 This morning, we're welcoming [Diamanda La Berge Dramm](https://diamandadramm.com/) as our guest. Known as one of the leading contemporary classical music performers of her generation, I had the chance to discover her performing in recent pieces by Susanne Kennedy showcased in Paris. Her portrayal of Einstein in the famous opera piece *Einstein on the Beach*, composed by Philip Glass, was one of my musical highlights of 2023.

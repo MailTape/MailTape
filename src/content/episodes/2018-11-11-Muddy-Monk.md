@@ -1,40 +1,45 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
-track1_link: https://sounds.mailta.pe/331/track1.mp3
-track2_link: https://sounds.mailta.pe/331/track2.mp3
-track3_link: https://sounds.mailta.pe/331/track3.mp3
-track4_link: https://sounds.mailta.pe/331/track4.mp3
-track7_link: https://sounds.mailta.pe/331/track7.mp3
-category: '331'
 guest_name: Muddy Monk
 author: Manon
 illustrator: William Girault
 writer: Manon
 guest_color: dreamy
-episode_URL: http://mailta.pe/331/Muddy-Monk/
-track5_link: https://sounds.mailta.pe/331/track5.mp3
-track6_link: https://sounds.mailta.pe/331/track6.mp3
-track2_title: Oko Ebombo - Naked Life
-track2_color: vibrant
-track1_color: rough
-track3_color: trippy
-track4_color: dreamy
-track5_color: dreamy
-track6_color: vibrant
-track7_color: bliss
-track3_title: Janet Jackson - If (Kaytranada Remix)
-track4_title: Muddy Monk - Drift
-track5_title: Miel De Montagne - Pourquoi Pas
-track6_title: Jones - You
-track7_title: Kokoroko - Abusey Junction
-track1_title: De Barjorak - Holy Dirty Intimacy
-guestPic: guestPic331.jpg
+guestPic: /img/guestpic331.jpg
 description: This morning, we are delighted to welcome Muddy Monk to Mailtape.
-image: https://www.mailta.pe/img/fbPic331.png
-musiColor: musiColor331.png
-pubDate: '2018-11-11'
+image: /img/fbpic331.png
+musiColor: /img/musicolor331.png
+pubDate: 2018-11-11
+track1:
+  title: De Barjorak - Holy Dirty Intimacy
+  color: rough
+  link: https://sounds.mailta.pe/331/track1.mp3
+track2:
+  title: Oko Ebombo - Naked Life
+  color: vibrant
+  link: https://sounds.mailta.pe/331/track2.mp3
+track3:
+  title: Janet Jackson - If (Kaytranada Remix)
+  color: trippy
+  link: https://sounds.mailta.pe/331/track3.mp3
+track4:
+  title: Muddy Monk - Drift
+  color: dreamy
+  link: https://sounds.mailta.pe/331/track4.mp3
+track5:
+  title: Miel De Montagne - Pourquoi Pas
+  color: dreamy
+  link: https://sounds.mailta.pe/331/track5.mp3
+track6:
+  title: Jones - You
+  color: vibrant
+  link: https://sounds.mailta.pe/331/track6.mp3
+track7:
+  title: Kokoroko - Abusey Junction
+  color: bliss
+  link: https://sounds.mailta.pe/331/track7.mp3
+release: 331
 ---
 This morning we are delighted to welcome [Muddy Monk](https://www.facebook.com/muddymonk/) to MailTape.
 <br><br>

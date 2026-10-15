@@ -1,43 +1,47 @@
 ---
 published: true
 pubDate: 2026-10-04
-category: "615"
+release: 615
 guest_name: The Bernadette Maries
 guest_color: rough
-guestPic: guest615.jpg
+guestPic: /img/guest615.jpg
 author: Anto
 illustrator: Pierre-Julien Fieux
 writer: Anto
-track1_title: Winter (feat. Sasami) – Good
-track1_color: dreamy
-track1_link: https://sounds.mailta.pe/615/track1.mp3
-track2_title: Échec - Allégresse
-track2_color: rough
-track2_link: https://sounds.mailta.pe/615/track2.mp3
-track3_title: Full Body 2 - Fifty heaven
-track3_color: rough
-track3_link: https://sounds.mailta.pe/615/track3.mp3
-track4_title: The Bernadette Maries – Interlude 02
-track4_color: trippy
-track4_link: https://sounds.mailta.pe/615/track4.mp3
-track5_title: Deutshe Vita – Du læsst mich
-track5_color: vibrant
-track5_link: https://sounds.mailta.pe/615/track5.mp3
-track6_title: Men I Trust – I come with mud
-track6_color: dreamy
-track6_link: https://sounds.mailta.pe/615/track6.mp3
-track7_title: Lambrini Girls – Big dick energy
-track7_color: rough
-track7_link: https://sounds.mailta.pe/615/track7.mp3
-description: Damn planet, out of whack. Damn humans, making a mess of things and
-  becoming more and more pathetic. Damn existence, whose meaning we still
-  haven't grasped… Today our emotions are restless. Between bizarre dreams and
-  muffled screams, we're creating a bubbling playlist to exorcise our dark
-  introspections.
-episode_URL: " https://www.mailta.pe/615/the-bernadette-maries/"
-image: " https://www.mailta.pe/img/fbPic615.png"
-musiColor: musicolor615.png
+track1:
+  title: Winter (feat. Sasami) – Good
+  color: dreamy
+  link: https://sounds.mailta.pe/615/track1.mp3
+track2:
+  title: Échec - Allégresse
+  color: rough
+  link: https://sounds.mailta.pe/615/track2.mp3
+track3:
+  title: Full Body 2 - Fifty heaven
+  color: rough
+  link: https://sounds.mailta.pe/615/track3.mp3
+track4:
+  title: The Bernadette Maries – Interlude 02
+  color: trippy
+  link: https://sounds.mailta.pe/615/track4.mp3
+track5:
+  title: Deutshe Vita – Du læsst mich
+  color: vibrant
+  link: https://sounds.mailta.pe/615/track5.mp3
+track6:
+  title: Men I Trust – I come with mud
+  color: dreamy
+  link: https://sounds.mailta.pe/615/track6.mp3
+track7:
+  title: Lambrini Girls – Big dick energy
+  color: rough
+  link: https://sounds.mailta.pe/615/track7.mp3
+description: Damn planet, out of whack. Damn humans, making a mess of things and becoming more and more pathetic. Damn existence, whose meaning we still haven't grasped… Today our emotions are restless. Between bi...
+image: /img/fbpic615.png
+musiColor: /img/musicolor615.png
+alignY: ''
 ---
+
 Damn planet, out of whack. Damn humans, making a mess of things and becoming more and more pathetic. Damn existence, whose meaning we still haven't grasped… Today our emotions are restless. Between bizarre dreams and muffled screams, we're creating a bubbling playlist to exorcise our dark introspections.
 
 To that end, we welcome [The Bernadette Maries](https://geographie.bandcamp.com/album/soft), a trio of artists from Brussels who have just released [an intriguing debut album](https://geographie.bandcamp.com/album/soft), somewhere between shoegaze and indie-pop which allows itself to vary the contrasts, to explore some areas of shadow, while also possessing a disarming and luminous lightness. The melodies are sometimes catchy, sometimes disturbing, but always refined. So today's selection also plays on contrasts. In this 615 episode, you'll find plenty to enjoy and challenge your curious ears.

@@ -1,40 +1,47 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Sanjay Mistry
 illustrator: Camille Célestin
 writer: Sanjay Mistry
-category: '292'
 guest_name: Oiseaux-Tempête
 guest_color: dreamy
-track1_link: https://sounds.mailta.pe/292/track1.mp3
-track2_link: https://sounds.mailta.pe/292/track2.mp3
-track3_link: https://sounds.mailta.pe/292/track3.mp3
-track4_link: https://sounds.mailta.pe/292/track4.mp3
-track5_link: https://sounds.mailta.pe/292/track5.mp3
-track6_link: https://sounds.mailta.pe/292/track6.mp3
-track7_link: https://sounds.mailta.pe/292/track7.mp3
-track1_title: Lichens – Heilagur Draugur
-track1_color: bliss
-track2_title: Nine Inch Nails – 28 Ghosts IV
-track2_color: trippy
-track3_title: Sarathy Korwar – Bismillah
-track3_color: bliss
-track4_title: Oiseaux-Tempête – I Don't Know, What Or Why (Mish Aaref Eish W Leish)
-track4_color: trippy
-track5_title: Christina Vantzou – Laurie Spiegel
-track5_color: dreamy
-track6_title: Nadah El Shazly – Barzakh (Limen)
-track6_color: bliss
-track7_title: Jerusalem In My Heart – 7ebr El 3oyoun
-track7_color: dreamy
-episode_URL: http://mailta.pe/292/oiseaux-tempete/
-guestPic: guestPic292.jpg
-image: https://www.mailta.pe/img/fbPic292.jpg
-musiColor: musiColor292.png
-description: This morning we attempt to provide you with a soundtrack to the water crystallising under freezing temperatures by welcoming the Paris-based collective, Oiseaux-Tempête, to MailTape.
-pubDate: '2017-12-24'
+guestPic: /img/guestpic292.jpg
+image: /img/fbpic292.jpg
+musiColor: /img/musicolor292.png
+description: This morning we attempt to provide you with a soundtrack to the
+  water crystallising under freezing temperatures by welcoming the Paris-based
+  collective, Oiseaux-Tempête, to MailTape.
+pubDate: 2017-12-24
+track1:
+  title: Lichens – Heilagur Draugur
+  color: bliss
+  link: https://sounds.mailta.pe/292/track1.mp3
+track2:
+  title: Nine Inch Nails – 28 Ghosts IV
+  color: trippy
+  link: https://sounds.mailta.pe/292/track2.mp3
+track3:
+  title: Sarathy Korwar – Bismillah
+  color: bliss
+  link: https://sounds.mailta.pe/292/track3.mp3
+track4:
+  title: Oiseaux-Tempête – I Don't Know, What Or Why (Mish Aaref Eish W Leish)
+  color: trippy
+  link: https://sounds.mailta.pe/292/track4.mp3
+track5:
+  title: Christina Vantzou – Laurie Spiegel
+  color: dreamy
+  link: https://sounds.mailta.pe/292/track5.mp3
+track6:
+  title: Nadah El Shazly – Barzakh (Limen)
+  color: bliss
+  link: https://sounds.mailta.pe/292/track6.mp3
+track7:
+  title: Jerusalem In My Heart – 7ebr El 3oyoun
+  color: dreamy
+  link: https://sounds.mailta.pe/292/track7.mp3
+release: 292
 ---
 This morning we attempt to provide you with a soundtrack to the water crystallising under freezing temperatures by welcoming the Paris-based collective, [Oiseaux-Tempête](http://www.oiseaux-tempete.com/), to MailTape.
 <p>Following the release of AL-‘AN ! الآن (And your night is your shadow — a fairy-tale piece of land to make our dreams) this year, Oiseaux-Tempête will be releasing a new live album in 2018 entitled TARAB طَرَبٌ. And if that doesn't satisfy you, they'll also be [on tour](http://www.oiseaux-tempete.com/tour.html) for most of January and February.

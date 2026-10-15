@@ -1,40 +1,46 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Louise
 illustrator: Camille Célestin
-category: '281'
 guest_name: Maud Geffray
 guest_color: bliss
-guestPic: guestPic281.jpg
-episode_URL: http://mailta.pe/281/maud-geffray/
-image: https://www.mailta.pe/img/fbPic281.png
-musiColor: musiColor281.png
-track1_link: https://sounds.mailta.pe/281/track1.mp3
-track1_title: Alessandro Cortini — Scappa
-track1_color: bliss
-track2_title: Lana Del Rey — Love
-track2_color: dreamy
-track3_title: Paul Seul — Lycamobile
-track3_color: trippy
-track3_link: https://sounds.mailta.pe/281/track3.mp3
-track4_link: https://sounds.mailta.pe/281/track4.mp3
-track5_link: https://sounds.mailta.pe/281/track5.mp3
-track7_link: https://sounds.mailta.pe/281/track7.mp3
-track7_title: Hiroshi Yoshimura (吉村弘) — Dance PM
-track7_color: dreamy
-track4_title: Maud Geffray — Polaar
-track4_color: vibrant
-track5_title: Helena Hauff — Gift
-track5_color: bliss
-track6_link: https://sounds.mailta.pe/281/track6.mp3
-track6_title: Gang Signs — Prequel
-track6_color: bliss
-track2_link: https://sounds.mailta.pe/281/track2.mp3
+guestPic: /img/guestpic281.jpg
+image: /img/fbpic281.png
+musiColor: /img/musicolor281.png
 writer: Louise
-description: Today's MailTape is a rollercoaster of emotions and feelings melted in electronic sounds. I hope you are ready for the ride!
-pubDate: '2017-10-08'
+description: Today's MailTape is a rollercoaster of emotions and feelings melted
+  in electronic sounds. I hope you are ready for the ride!
+pubDate: 2017-10-08
+track1:
+  title: Alessandro Cortini — Scappa
+  color: bliss
+  link: https://sounds.mailta.pe/281/track1.mp3
+track2:
+  title: Lana Del Rey — Love
+  color: dreamy
+  link: https://sounds.mailta.pe/281/track2.mp3
+track3:
+  title: Paul Seul — Lycamobile
+  color: trippy
+  link: https://sounds.mailta.pe/281/track3.mp3
+track4:
+  title: Maud Geffray — Polaar
+  color: vibrant
+  link: https://sounds.mailta.pe/281/track4.mp3
+track5:
+  title: Helena Hauff — Gift
+  color: bliss
+  link: https://sounds.mailta.pe/281/track5.mp3
+track6:
+  title: Gang Signs — Prequel
+  color: bliss
+  link: https://sounds.mailta.pe/281/track6.mp3
+track7:
+  title: Hiroshi Yoshimura (吉村弘) — Dance PM
+  color: dreamy
+  link: https://sounds.mailta.pe/281/track7.mp3
+release: 281
 ---
 This morning we welcome the amazing producer [Maud Geffray](https://www.facebook.com/maudgeffray75/) on MailTape. Her [solo album 'POLAAR'](https://paneuropeanrecording.bandcamp.com/album/polaar) is a multi-layered gem of cold electronic music. Today’s episode is a rollercoaster of emotions and feelings melted in electronic sounds. I hope you're ready for the ride! I’m really proud of this episode, and I'd love to hear your thoughts on this.
 

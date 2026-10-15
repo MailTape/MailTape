@@ -1,39 +1,46 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
-category: '261'
 author: Sanjay Mistry
 guest_color: trippy
-track1_link: https://sounds.mailta.pe/261/track1.mp3
-track2_link: https://sounds.mailta.pe/261/track2.mp3
-track3_link: https://sounds.mailta.pe/261/track3.mp3
-track4_link: https://sounds.mailta.pe/261/track4.mp3
-track5_link: https://sounds.mailta.pe/261/track5.mp3
-track6_link: https://sounds.mailta.pe/261/track6.mp3
-track7_link: https://sounds.mailta.pe/261/track7.mp3
-track1_title: Kenneth Gaburo - TWO (1962)
-track1_color: trippy
-track2_title: Kenneth Gaburo - Noyse (1975)
-track2_color: trippy
-track3_title: Kenneth Gaburo - Mouth-piece (1970)
-track3_color: trippy
-track4_title: Nate Wooley 5tet - For Wee Folks
-track4_color: dreamy
-track5_title: Anthony Braxton & Taylor Ho Bynum - All Roads Lead To Middletown
-track5_color: bliss
-track6_title: Glue - Chats with the Real McCoy
-track6_color: rough
-track7_title: Susana Santos Silva & Kaja Draksler - Hymn to the Unknown
-track7_color: bliss
-episode_URL: http://mailta.pe/261/Nate-Wooley/
 guest_name: Nate Wooley
-guestPic: guestPic261.jpg
+guestPic: /img/guestpic261.jpg
 illustrator: William Girault
-image: https://www.mailta.pe/img/fbPic261.jpg
-musiColor: musiColor261.png
-description: We are super happy to welcome experimental trumpeter, Nate Wooley, in this week's issue. Nate recalls the rain-soaked Pacific Northwest he once called home and provides a glimpse into his gentler Sunday morning listening.
-pubDate: '2017-05-21'
+image: /img/fbpic261.jpg
+musiColor: /img/musicolor261.png
+description: We are super happy to welcome experimental trumpeter, Nate Wooley,
+  in this week's issue. Nate recalls the rain-soaked Pacific Northwest he once
+  called home and provides a glimpse into his gentler Sunday morning listening.
+pubDate: 2017-05-21
+track1:
+  title: Kenneth Gaburo - TWO (1962)
+  color: trippy
+  link: https://sounds.mailta.pe/261/track1.mp3
+track2:
+  title: Kenneth Gaburo - Noyse (1975)
+  color: trippy
+  link: https://sounds.mailta.pe/261/track2.mp3
+track3:
+  title: Kenneth Gaburo - Mouth-piece (1970)
+  color: trippy
+  link: https://sounds.mailta.pe/261/track3.mp3
+track4:
+  title: Nate Wooley 5tet - For Wee Folks
+  color: dreamy
+  link: https://sounds.mailta.pe/261/track4.mp3
+track5:
+  title: Anthony Braxton & Taylor Ho Bynum - All Roads Lead To Middletown
+  color: bliss
+  link: https://sounds.mailta.pe/261/track5.mp3
+track6:
+  title: Glue - Chats with the Real McCoy
+  color: rough
+  link: https://sounds.mailta.pe/261/track6.mp3
+track7:
+  title: Susana Santos Silva & Kaja Draksler - Hymn to the Unknown
+  color: bliss
+  link: https://sounds.mailta.pe/261/track7.mp3
+release: 261
 ---
 We are super happy to welcome experimental trumpeter, [Nate Wooley](http://natewooley.com/), in this week's issue. His previous albums range from abstract renditions of Wynton Marsalis tunes to particularly harsh versions of free jazz with obscure multi-phonic trumpet chops juxtaposed with distorted extended techniques.
 <p>This morning, Nate recalls the rain-soaked Pacific Northwest he once called home and provides a glimpse into his gentler Sunday morning listening.

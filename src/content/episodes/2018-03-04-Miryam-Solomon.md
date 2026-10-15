@@ -1,40 +1,48 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Sanjay Mistry
 illustrator: Pierre-Julien Fieux
 writer: Sanjay Mistry
-category: '302'
 guest_name: Miryam Solomon
 guest_color: bliss
-track1_link: https://sounds.mailta.pe/302/track1.mp3
-track2_link: https://sounds.mailta.pe/302/track2.mp3
-track3_link: https://sounds.mailta.pe/302/track3.mp3
-track4_link: https://sounds.mailta.pe/302/track4.mp3
-track5_link: https://sounds.mailta.pe/302/track5.mp3
-track6_link: https://sounds.mailta.pe/302/track6.mp3
-track7_link: https://sounds.mailta.pe/302/track7.mp3
-track1_title: Grand Puba – I Like It
-track1_color: vibrant
-track2_title: The Invisible – Life's Dancers (Floating Points Remix)
-track2_color: bliss
-track3_title: Chassol – Dominos Part III
-track3_color: dreamy
-track4_title: Miryam Solomon – Something About Your Mother
-track4_color: dreamy
-track5_title: Alfa Mist – Nucleus
-track5_color: bliss
-track6_title: Mélissa Laveaux – Lè Ma Monte Chwal Mwen
-track6_color: dreamy
-track7_title: Kokoroko – Abusey Junction
-track7_color: bliss
-episode_URL: http://mailta.pe/302/miryam-solomon/
-guestPic: guestPic302.jpg
-description: By way of Sweden and Eritrea we welcome London-based singer/songwriter, Miryam Solomon, who joins us to provide an eclectic Sunday morning playlist that promises, with any luck, to accompany our sapling-like emergence from the extended winter.
-image: https://www.mailta.pe/img/fbPic302.jpg
-musiColor: musiColor302.png
-pubDate: '2018-03-04'
+guestPic: /img/guestpic302.jpg
+description: By way of Sweden and Eritrea we welcome London-based
+  singer/songwriter, Miryam Solomon, who joins us to provide an eclectic Sunday
+  morning playlist that promises, with any luck, to accompany our sapling-like
+  emergence from the extended winter.
+image: /img/fbpic302.jpg
+musiColor: /img/musicolor302.png
+pubDate: 2018-03-04
+track1:
+  title: Grand Puba – I Like It
+  color: vibrant
+  link: https://sounds.mailta.pe/302/track1.mp3
+track2:
+  title: The Invisible – Life's Dancers (Floating Points Remix)
+  color: bliss
+  link: https://sounds.mailta.pe/302/track2.mp3
+track3:
+  title: Chassol – Dominos Part III
+  color: dreamy
+  link: https://sounds.mailta.pe/302/track3.mp3
+track4:
+  title: Miryam Solomon – Something About Your Mother
+  color: dreamy
+  link: https://sounds.mailta.pe/302/track4.mp3
+track5:
+  title: Alfa Mist – Nucleus
+  color: bliss
+  link: https://sounds.mailta.pe/302/track5.mp3
+track6:
+  title: Mélissa Laveaux – Lè Ma Monte Chwal Mwen
+  color: dreamy
+  link: https://sounds.mailta.pe/302/track6.mp3
+track7:
+  title: Kokoroko – Abusey Junction
+  color: bliss
+  link: https://sounds.mailta.pe/302/track7.mp3
+release: 302
 ---
 By way of Sweden and Eritrea we welcome London-based singer/songwriter, [Miryam Solomon](https://miryamsolomonmusic.bandcamp.com/), who joins us to provide an eclectic Sunday morning playlist that promises, with any luck, to accompany our sapling-like emergence from the extended winter.
 <p>Merging folk textures with jazz melodies, Miryam followed her debut 2014 EP, [Evergreen](https://miryamsolomonmusic.bandcamp.com/album/evergreen), with her second EP, [Magnolia](https://miryamsolomonmusic.bandcamp.com/album/magnolia), last year. Inspired by feminist psychoanalysis, vocal improvisation, Ghanaian high life and dreams of Scandinavia, Miryam's music is also conjugated by  polyrhythms from drummer Seb Rochford. Shabaka Hutchings on clarinet, bassist Jean Berthon and drummer Tansay Omar also feature.

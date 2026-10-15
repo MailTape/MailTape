@@ -1,40 +1,47 @@
 ---
-
 published: true
 author: Ludovic
 guest_color: rough
-bigTitle_font_ratio: '6'
-track1_color: rough
-track2_color: trippy
-track3_color: dreamy
-track4_color: dreamy
-track5_color: vibrant
-track6_color: rough
-track7_color: trippy
-category: '197'
+bigTitle_font_ratio: "6"
 guest_name: Trashlagoon
-guestPic: guestPic197.jpg
-image: https://www.mailta.pe/img/fbPic197.jpg
-musiColor: musiColor197.png
-episode_URL: http://mailta.pe/197/Trashlagoon/
-track1_link: https://sounds.mailta.pe/197/track1.mp3
-track2_link: https://sounds.mailta.pe/197/track2.m4a
-track3_link: https://sounds.mailta.pe/197/track3.mp3
-track5_link: https://sounds.mailta.pe/197/track5.mp3
-track6_link: https://sounds.mailta.pe/197/track6.mp3
-track7_link: https://sounds.mailta.pe/197/track7.mp3
-track4_link: https://sounds.mailta.pe/197/track4.mp3
-track1_title: Floating Points - Myrtle Avenue
-track2_title: Shigeto - Ann Arbor Part 3 & 4
-track3_title: Gold Panda - Reprise
-track4_title: Trashlagoon - Marouki Knows
-track5_title: Nicholas Larsen - Vibes
-track7_title: Lone - Banyan Drive
-track6_title: Blhaz - Wasted Time
-description: This Sunday, Trashlagoon, comprising of the German duo Sebastian Welicki and Niklas Freund will take on itself to port you to their fantastic world of atmospheric soundscapes and melodies.
+guestPic: /img/guestpic197.jpg
+image: /img/fbpic197.jpg
+musiColor: /img/musicolor197.png
+description: This Sunday, Trashlagoon, comprising of the German duo Sebastian
+  Welicki and Niklas Freund will take on itself to port you to their fantastic
+  world of atmospheric soundscapes and melodies.
 illustrator: Camille Célestin
 writer: ImaCrea
-pubDate: '2015-08-02'
+pubDate: 2015-08-02
+track1:
+  title: Floating Points - Myrtle Avenue
+  color: rough
+  link: https://sounds.mailta.pe/197/track1.mp3
+track2:
+  title: Shigeto - Ann Arbor Part 3 & 4
+  color: trippy
+  link: https://sounds.mailta.pe/197/track2.m4a
+track3:
+  title: Gold Panda - Reprise
+  color: dreamy
+  link: https://sounds.mailta.pe/197/track3.mp3
+track4:
+  title: Trashlagoon - Marouki Knows
+  color: dreamy
+  link: https://sounds.mailta.pe/197/track4.mp3
+track5:
+  title: Nicholas Larsen - Vibes
+  color: vibrant
+  link: https://sounds.mailta.pe/197/track5.mp3
+track6:
+  title: Blhaz - Wasted Time
+  color: rough
+  link: https://sounds.mailta.pe/197/track6.mp3
+track7:
+  title: Lone - Banyan Drive
+  color: trippy
+  link: https://sounds.mailta.pe/197/track7.mp3
+release: 197
 ---
 
 

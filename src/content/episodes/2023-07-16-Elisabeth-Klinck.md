@@ -1,40 +1,48 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: ImaCrea
 illustrator: Julie Wojtczak
 writer: ImaCrea
-category: '532'
 guest_name: Elisabeth Klinck
 guest_color: dreamy
-guestPic: guestPic532.jpg
-track1_title: Henrique Oswald - Sonata em Mi Maior para Violino e Piano, Op. 36. III
-track1_color: bliss
-track2_title: Matthew Hayes & Charlie Perry - Dissolve
-track2_color: dreamy
-track3_title: Aki - Eri
-track3_color: dreamy
-track4_title: Elisabeth Klinck - Betty's Nap
-track4_color: dreamy
-track5_title: KMRU - options
-track5_color: dreamy
-track6_title: Claire Rousay - Sigh In My Ear
-track6_color: dreamy
-track7_title: Lucie Antunes - Elliott
-track7_color: bliss
-episode_URL: http://mailta.pe/532/elisabeth-klinck/
-image: https://www.mailta.pe/img/fbPic532.jpg
-musiColor: musiColor532.png
-track1_link: https://sounds.mailta.pe/532/track1.mp3
-track2_link: https://sounds.mailta.pe/532/track2.mp3
-track3_link: https://sounds.mailta.pe/532/track3.mp3
-track4_link: https://sounds.mailta.pe/532/track4.mp3
-track5_link: https://sounds.mailta.pe/532/track5.mp3
-track6_link: https://sounds.mailta.pe/532/track6.mp3
-track7_link: https://sounds.mailta.pe/532/track7.mp3
-description: On this Sunday morning, let's venture far from the city with our guest, Elisabeth Klinck. This selection has been curated for wide open spaces, contemplation, and walking in unknown lands. It's an invitation to shift our gaze and let our attention drift as we immerse ourselves in the landscape.
-pubDate: '2023-07-16'
+guestPic: /img/guestpic532.jpg
+image: /img/fbpic532.jpg
+musiColor: /img/musicolor532.png
+description: On this Sunday morning, let's venture far from the city with our
+  guest, Elisabeth Klinck. This selection has been curated for wide open spaces,
+  contemplation, and walking in unknown lands. It's an invitation to shift our
+  gaze and let our attention drift as we immerse ourselves in the landscape.
+pubDate: 2023-07-16
+track1:
+  title: Henrique Oswald - Sonata em Mi Maior para Violino e Piano, Op. 36. III
+  color: bliss
+  link: https://sounds.mailta.pe/532/track1.mp3
+track2:
+  title: Matthew Hayes & Charlie Perry - Dissolve
+  color: dreamy
+  link: https://sounds.mailta.pe/532/track2.mp3
+track3:
+  title: Aki - Eri
+  color: dreamy
+  link: https://sounds.mailta.pe/532/track3.mp3
+track4:
+  title: Elisabeth Klinck - Betty's Nap
+  color: dreamy
+  link: https://sounds.mailta.pe/532/track4.mp3
+track5:
+  title: KMRU - options
+  color: dreamy
+  link: https://sounds.mailta.pe/532/track5.mp3
+track6:
+  title: Claire Rousay - Sigh In My Ear
+  color: dreamy
+  link: https://sounds.mailta.pe/532/track6.mp3
+track7:
+  title: Lucie Antunes - Elliott
+  color: bliss
+  link: https://sounds.mailta.pe/532/track7.mp3
+release: 532
 ---
 
 

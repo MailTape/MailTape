@@ -1,40 +1,46 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Sanjay Mistry
 illustrator: Camille Célestin
 writer: Sanjay Mistry
-category: '323'
 guest_name: Loraine James
 guest_color: trippy
-track1_link: https://sounds.mailta.pe/323/track1.mp3
-track2_link: https://sounds.mailta.pe/323/track2.mp3
-track3_link: https://sounds.mailta.pe/323/track3.mp3
-track4_link: https://sounds.mailta.pe/323/track4.mp3
-track5_link: https://sounds.mailta.pe/323/track5.mp3
-track6_link: https://sounds.mailta.pe/323/track6.mp3
-track7_link: https://sounds.mailta.pe/323/track7.mp3
-track1_title: iLU – It's DOPE!!
-track1_color: dreamy
-track2_title: Yuki Ame – Water From Thoughts
-track2_color: bliss
-track3_title: SASSY 009 – Are you Leaving?
-track3_color: trippy
-track4_title: Loraine James – Loll (ft. Zarif Miah)
-track4_color: trippy
-track5_title: Ouri – Superficial
-track5_color: dreamy
-track6_title: Kilamanzego – stay floated in the tribe.
-track6_color: dreamy
-track7_title: Secret Mommy – Clothing Racks (Sears)
-track7_color: trippy
-episode_URL: http://mailta.pe/323/loraine-james/
-guestPic: guestPic323.jpg
-description: This week we are delighted to welcome London-based electronic musician, Loraine James, who selects some groovy Sunday morning chops for us.
-musiColor: musiColor323.png
-image: https://www.mailta.pe/img/fbPic323.jpg
-pubDate: '2018-09-16'
+guestPic: /img/guestpic323.jpg
+description: This week we are delighted to welcome London-based electronic
+  musician, Loraine James, who selects some groovy Sunday morning chops for us.
+musiColor: /img/musicolor323.png
+image: /img/fbpic323.jpg
+pubDate: 2018-09-16
+track1:
+  title: iLU – It's DOPE!!
+  color: dreamy
+  link: https://sounds.mailta.pe/323/track1.mp3
+track2:
+  title: Yuki Ame – Water From Thoughts
+  color: bliss
+  link: https://sounds.mailta.pe/323/track2.mp3
+track3:
+  title: SASSY 009 – Are you Leaving?
+  color: trippy
+  link: https://sounds.mailta.pe/323/track3.mp3
+track4:
+  title: Loraine James – Loll (ft. Zarif Miah)
+  color: trippy
+  link: https://sounds.mailta.pe/323/track4.mp3
+track5:
+  title: Ouri – Superficial
+  color: dreamy
+  link: https://sounds.mailta.pe/323/track5.mp3
+track6:
+  title: Kilamanzego – stay floated in the tribe.
+  color: dreamy
+  link: https://sounds.mailta.pe/323/track6.mp3
+track7:
+  title: Secret Mommy – Clothing Racks (Sears)
+  color: trippy
+  link: https://sounds.mailta.pe/323/track7.mp3
+release: 323
 ---
 This week we are delighted to welcome London-based electronic musician [Loraine James](https://soundcloud.com/lorainejames), who selects some groovy Sunday morning chops for us.
 <p>Influenced by artists such as Aoki Takamasa, Telefon Tel Aviv and Circa Survive, Loraine crafts organic textures through inorganic means. In her own words, she's making music that is 'sometimes glitch, sometimes ambient—and sometimes in-between electronic music'. Her debut 2017 album, [Detail](https://lorainejames.bandcamp.com/album/detail), is also out now.

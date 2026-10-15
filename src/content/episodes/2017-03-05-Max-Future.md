@@ -1,40 +1,45 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Maxime
 illustrator: Anais Caura
 writer: Maxime
 guest_name: Max Future
 guest_color: bliss
-guestPic: guestPic250.jpg
-track1_link: https://sounds.mailta.pe/250/track1.mp3
-track2_link: https://sounds.mailta.pe/250/track2.mp3
-track3_link: https://sounds.mailta.pe/250/track3.mp3
-track4_link: https://sounds.mailta.pe/250/track4.mp3
-track5_link: https://sounds.mailta.pe/250/track5.mp3
-track6_link: https://sounds.mailta.pe/250/track6.mp3
-track1_color: rough
-track2_title: Tame Impala - Prototype (Outkast Cover)
-track2_color: dreamy
-track3_title: Joakim - Nothing Gold
-track3_color: rough
-track4_title: Max Future - Till You Let Go
-track4_color: dreamy
-track5_title: JuJu Rogers - Get Lost feat. Regis Molina (Produced by. Bluestaeb)
-track5_color: vibrant
-track1_title: M.E.D. - Cant Hold On
-track6_title: Buttering Trio - From The Tree
-track6_color: dreamy
-track7_color: bliss
-track7_link: https://sounds.mailta.pe/250/track7.mp3
-track7_title: Ryder the Eagle - It's All About The Music
-episode_URL: https://www.mailta.pe/250/Max-Future/
-image: https://www.mailta.pe/img/fbPic250.jpg
-musiColor: musiColor250.png
-category: '250'
+guestPic: /img/guestpic250.jpg
+image: /img/fbpic250.jpg
+musiColor: /img/musicolor250.png
 description: This morning, let's have a glimpse of today's music and Max Future.
-pubDate: '2017-03-05'
+pubDate: 2017-03-05
+track1:
+  title: M.E.D. - Cant Hold On
+  color: rough
+  link: https://sounds.mailta.pe/250/track1.mp3
+track2:
+  title: Tame Impala - Prototype (Outkast Cover)
+  color: dreamy
+  link: https://sounds.mailta.pe/250/track2.mp3
+track3:
+  title: Joakim - Nothing Gold
+  color: rough
+  link: https://sounds.mailta.pe/250/track3.mp3
+track4:
+  title: Max Future - Till You Let Go
+  color: dreamy
+  link: https://sounds.mailta.pe/250/track4.mp3
+track5:
+  title: JuJu Rogers - Get Lost feat. Regis Molina (Produced by. Bluestaeb)
+  color: vibrant
+  link: https://sounds.mailta.pe/250/track5.mp3
+track6:
+  title: Buttering Trio - From The Tree
+  color: dreamy
+  link: https://sounds.mailta.pe/250/track6.mp3
+track7:
+  title: Ryder the Eagle - It's All About The Music
+  color: bliss
+  link: https://sounds.mailta.pe/250/track7.mp3
+release: 250
 ---
 This morning, let's have a glimpse of today's music and Max Future. It's maybe with artists like Max future that french pop will jump over the next step. With producers like him that country borders in music will definetly disappear. Surfing around electronic french Touch, naive sun-pop, or even hip-hop (just listen his selection below), the quality of his EP is very rare for a first shot.
 

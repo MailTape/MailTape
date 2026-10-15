@@ -1,40 +1,52 @@
 ---
-
-musiColor: musiColor401.png
-image: https://www.mailta.pe/img/fbPic401.png
-episode_URL: http://mailta.pe/401/postcards/
-bigTitle_font_ratio: '6'
-track6_color: dreamy
-track5_color: bliss
-track4_color: vibrant
-track3_color: dreamy
-track2_color: trippy
-track1_color: bliss
-track4_link: https://sounds.mailta.pe/401/track4.mp3
-track3_link: https://sounds.mailta.pe/401/track3.mp3
-track2_link: https://sounds.mailta.pe/401/track2.mp3
-track1_link: https://sounds.mailta.pe/401/track1.mp3
-guestPic: guestPic401.jpg
+musiColor: /img/musicolor401.png
+image: /img/fbpic401.png
+bigTitle_font_ratio: "6"
+guestPic: /img/guestpic401.jpg
 guest_color: vibrant
 guest_name: Postcards
-category: '401'
 writer: Anaïs G
 illustrator: Julie Wojtczak
 author: Anaïs G
 published: true
-track5_link: https://sounds.mailta.pe/401/track5.mp3
-track6_link: https://sounds.mailta.pe/401/track6.mp3
-track7_link: https://sounds.mailta.pe/401/track7.mp3
-track1_title: Big Thief - Cattails
-track2_title: Animal Collective - Banshee Beat
-track3_title: Velvet Underground - Pale Blue Eyes
-track4_title: Postcards - Light Out
-track5_title: Maïa Vidal - Follow Me
-track6_title: Safar - The Greatest Fear
-track7_title: Georgia Mulligan - So Long
-track7_color: vibrant
-description: This morning, re-learning to live, we are faced with that. Take a break, and enjoy what nature has to offer, and deal with a daily challenge we face with an uncertain future. In this infernal whirlwind, transformed into a remake of "Un Jour sans fin" without Bill Murray and the groundhog, we adapt, we use our knowledge, we cook, we talk, we relax, we observe and above all we try to keep smiling despite the chain of announcements and information. Music, again and again with MailTape, with a selection full of sweetness this Sunday signed Postcards.
-pubDate: '2020-04-12'
+description: This morning, re-learning to live, we are faced with that. Take a
+  break, and enjoy what nature has to offer, and deal with a daily challenge we
+  face with an uncertain future. In this infernal whirlwind, transformed into a
+  remake of "Un Jour sans fin" without Bill Murray and the groundhog, we adapt,
+  we use our knowledge, we cook, we talk, we relax, we observe and above all we
+  try to keep smiling despite the chain of announcements and information. Music,
+  again and again with MailTape, with a selection full of sweetness this Sunday
+  signed Postcards.
+pubDate: 2020-04-12
+track1:
+  title: Big Thief - Cattails
+  color: bliss
+  link: https://sounds.mailta.pe/401/track1.mp3
+track2:
+  title: Animal Collective - Banshee Beat
+  color: trippy
+  link: https://sounds.mailta.pe/401/track2.mp3
+track3:
+  title: Velvet Underground - Pale Blue Eyes
+  color: dreamy
+  link: https://sounds.mailta.pe/401/track3.mp3
+track4:
+  title: Postcards - Light Out
+  color: vibrant
+  link: https://sounds.mailta.pe/401/track4.mp3
+track5:
+  title: Maïa Vidal - Follow Me
+  color: bliss
+  link: https://sounds.mailta.pe/401/track5.mp3
+track6:
+  title: Safar - The Greatest Fear
+  color: dreamy
+  link: https://sounds.mailta.pe/401/track6.mp3
+track7:
+  title: Georgia Mulligan - So Long
+  color: vibrant
+  link: https://sounds.mailta.pe/401/track7.mp3
+release: 401
 ---
 
 This morning, re-learning to live, we are faced with that. Take a break, and enjoy what nature has to offer, and deal with a daily challenge we face with an uncertain future. In this infernal whirlwind, transformed into a remake of "[Un Jour sans fin](https://fr.wikipedia.org/wiki/Un_jour_sans_fin)" without Bill Murray and the groundhog, we adapt, we use our knowledge, we cook, we talk, we relax, we observe and above all we try to keep smiling despite the chain of announcements and information. Music, again and again with MailTape, with a selection full of sweetness this Sunday signed [Postcards](https://www.postcardsmusic.com/). 

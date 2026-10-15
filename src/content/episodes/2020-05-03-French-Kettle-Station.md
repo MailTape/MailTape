@@ -1,40 +1,51 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
-guestPic: guestPic404c.jpg
+guestPic: /img/guestpic404c.jpg
 author: ImaCrea
 illustrator: Thibault Daumain
 writer: ImaCrea
-category: '404'
 guest_name: French Kettle Station
 guest_color: trippy
-track1_link: https://sounds.mailta.pe/404/track1.mp3
-track1_title: Orior - Feels Like Summer
-track1_color: trippy
-track2_link: https://sounds.mailta.pe/404/track2.mp3
-track3_link: https://sounds.mailta.pe/404/track3.mp3
-track4_link: https://sounds.mailta.pe/404/track4.mp3
-track2_title: Zazou / Bikaye / CY1 - Mangugu
-track3_title: Colleen - This Hammer Breaks
-track4_title: French Kettle Station - Halocam
-track2_color: trippy
-track3_color: trippy
-track4_color: trippy
-track5_link: https://sounds.mailta.pe/404/track5.mp3
-track5_title: Dustin Wong + Takako Minekawa + Good Willsmith - Gikanjoumonogatari
-track5_color: trippy
-track6_link: https://sounds.mailta.pe/404/track6.mp3
-track7_link: https://sounds.mailta.pe/404/track7.mp3
-track7_title: Kali Malone - Fifth Worship II
-track6_title: Nicolas Jaar - Gocce
-track6_color: trippy
-track7_color: trippy
-description: 'This morning, it seems as we''re entering the final stage of grief: acceptance. After denial, anger, bargaining and depression, now we have no choice but to accept the world as it "used to be" has changed forever. Living with uncertainty may not be easy. But has it ever been different? It''s always been an illusion, everything is in movement and your heart is still beating. Now is no time to stop the rhythm but to let go and keep dancing with the unknown.'
-episode_URL: https://www.mailta.pe/404/french-kettle-station/
-image: https://www.mailta.pe/img/fbPic404.png
-musiColor: musiColor404.png
-pubDate: '2020-05-03'
+description: "This morning, it seems as we're entering the final stage of grief:
+  acceptance. After denial, anger, bargaining and depression, now we have no
+  choice but to accept the world as it \"used to be\" has changed forever.
+  Living with uncertainty may not be easy. But has it ever been different? It's
+  always been an illusion, everything is in movement and your heart is still
+  beating. Now is no time to stop the rhythm but to let go and keep dancing with
+  the unknown."
+image: /img/fbpic404.png
+musiColor: /img/musicolor404.png
+pubDate: 2020-05-03
+track1:
+  title: Orior - Feels Like Summer
+  color: trippy
+  link: https://sounds.mailta.pe/404/track1.mp3
+track2:
+  title: Zazou / Bikaye / CY1 - Mangugu
+  color: trippy
+  link: https://sounds.mailta.pe/404/track2.mp3
+track3:
+  title: Colleen - This Hammer Breaks
+  color: trippy
+  link: https://sounds.mailta.pe/404/track3.mp3
+track4:
+  title: French Kettle Station - Halocam
+  color: trippy
+  link: https://sounds.mailta.pe/404/track4.mp3
+track5:
+  title: Dustin Wong + Takako Minekawa + Good Willsmith - Gikanjoumonogatari
+  color: trippy
+  link: https://sounds.mailta.pe/404/track5.mp3
+track6:
+  title: Nicolas Jaar - Gocce
+  color: trippy
+  link: https://sounds.mailta.pe/404/track6.mp3
+track7:
+  title: Kali Malone - Fifth Worship II
+  color: trippy
+  link: https://sounds.mailta.pe/404/track7.mp3
+release: 404
 ---
 This morning, it seems as we're entering the final stage of grief: acceptance. After denial, anger, bargaining and depression, now we have no choice but to accept the world as it "used to be" has changed forever. Living with uncertainty may not be easy. But has it ever been different? It's always been an illusion, everything is in movement and your heart is still beating. Now is no time to stop the rhythm but to let go and keep dancing with the unknown.
 <br><br>

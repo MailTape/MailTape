@@ -1,40 +1,59 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Jules
 writer: Jules
-category: '542'
 guest_name: Diogo Strausz
 guest_color: trippy
 illustrator: Camille Lemeunier
-track1_link: https://sounds.mailta.pe/542/track1.mp3
-track1_title: The Beatles - Here Comes The Sun
-track1_color: dreamy
-track2_link: https://sounds.mailta.pe/542/track2.mp3
-track2_title: Robson Jorge & Lincoln Olivetti - Suspira
-track2_color: bliss
-track3_link: https://sounds.mailta.pe/542/track3.mp3
-track3_title: Alaaska - Bangkok
-track3_color: vibrant
-track4_link: https://sounds.mailta.pe/542/track4.mp3
-track4_title: Diogo Strausz - Flexível
-track4_color: trippy
-track5_link: https://sounds.mailta.pe/542/track5.mp3
-track5_title: Nanda Rossi - Livre Pra Voar (Millos Kaiser Edit)
-track5_color: bliss
-track6_link: https://sounds.mailta.pe/542/track6.mp3
-track6_title: Charif Megarbane - Ya Salam
-track6_color: dreamy
-track7_color: vibrant
-track7_link: https://sounds.mailta.pe/542/track7.mp3
-track7_title: Frantz Tuernal - Koultans
-episode_URL: https://www.mailta.pe/542/diogo-strausz/
-musiColor: musiColor542.png
-description: This morning, as I opened my eyes in bed and let my gaze glide across the ceiling of my bedroom, it seemed to me that something was missing. Was it a little warmth, a few rays of sunshine to pierce the grey winter sky? Was it a bit of music to wake up my muscles, or the smell of coffee to get me out of bed? In the end, it was a bit of all of the above, everything I love about MailTape. So it's with great pleasure that we welcome you back for the first episode of this new year. Today, we are thrilled to showcase the distinctive talents of the brilliant Brazilian producer, songwriter and multi-instrumentalist Diogo Strausz. After releasing music with, among others, Razor N'tape and Far Out Records and drawing the attention of Joe Goddard of Hot Chip or Gilles Peterson, Diogo released "Flight of Sagittarius", his first EP in France, in April 2022 with Goutte d'Or Records. In this episode, prepare to be taken on a journey through a kaleidoscopic soundscape, between São Paulo, Paris and many other fantastic lands, between retro and neo, always with a sunny groove.
-guestPic: guestPic542.jpeg
-image: https://www.mailta.pe/img/fbPic542.png
-pubDate: '2024-01-07'
+musiColor: /img/musicolor542.png
+description: This morning, as I opened my eyes in bed and let my gaze glide
+  across the ceiling of my bedroom, it seemed to me that something was missing.
+  Was it a little warmth, a few rays of sunshine to pierce the grey winter sky?
+  Was it a bit of music to wake up my muscles, or the smell of coffee to get me
+  out of bed? In the end, it was a bit of all of the above, everything I love
+  about MailTape. So it's with great pleasure that we welcome you back for the
+  first episode of this new year. Today, we are thrilled to showcase the
+  distinctive talents of the brilliant Brazilian producer, songwriter and
+  multi-instrumentalist Diogo Strausz. After releasing music with, among others,
+  Razor N'tape and Far Out Records and drawing the attention of Joe Goddard of
+  Hot Chip or Gilles Peterson, Diogo released "Flight of Sagittarius", his first
+  EP in France, in April 2022 with Goutte d'Or Records. In this episode, prepare
+  to be taken on a journey through a kaleidoscopic soundscape, between São
+  Paulo, Paris and many other fantastic lands, between retro and neo, always
+  with a sunny groove.
+guestPic: /img/guestpic542.jpeg
+image: /img/fbpic542.png
+pubDate: 2024-01-07
+track1:
+  title: The Beatles - Here Comes The Sun
+  color: dreamy
+  link: https://sounds.mailta.pe/542/track1.mp3
+track2:
+  title: Robson Jorge & Lincoln Olivetti - Suspira
+  color: bliss
+  link: https://sounds.mailta.pe/542/track2.mp3
+track3:
+  title: Alaaska - Bangkok
+  color: vibrant
+  link: https://sounds.mailta.pe/542/track3.mp3
+track4:
+  title: Diogo Strausz - Flexível
+  color: trippy
+  link: https://sounds.mailta.pe/542/track4.mp3
+track5:
+  title: Nanda Rossi - Livre Pra Voar (Millos Kaiser Edit)
+  color: bliss
+  link: https://sounds.mailta.pe/542/track5.mp3
+track6:
+  title: Charif Megarbane - Ya Salam
+  color: dreamy
+  link: https://sounds.mailta.pe/542/track6.mp3
+track7:
+  title: Frantz Tuernal - Koultans
+  color: vibrant
+  link: https://sounds.mailta.pe/542/track7.mp3
+release: 542
 ---
 
 This morning, as I opened my eyes in bed and let my gaze glide across the ceiling of my bedroom, it seemed to me that something was missing. Was it a little warmth, a few rays of sunshine to pierce the grey winter sky? Was it a bit of music to wake up my muscles, or the smell of coffee to get me out of bed? In the end, it was a bit of all of the above, everything I love about MailTape. So it's with great pleasure that we welcome you back for the first episode of this new year.

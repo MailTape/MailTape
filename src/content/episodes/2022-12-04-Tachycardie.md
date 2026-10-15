@@ -1,40 +1,48 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Anaïs G
 illustrator: Julie Wojtczak
 writer: Anaïs G
-category: '508'
 guest_name: Tachycardie
-guestPic: guestPic508.jpg
+guestPic: /img/guestpic508.jpg
 guest_color: trippy
-track3_title: Omni - Courtesy Call
-track3_color: bliss
-track2_title: Marina Rosenfeld - Fuji Tonic
-track2_color: trippy
-track1_title: Able Noise - Side A
-track4_title: Tachycardie - Pratiques IV & V
-track1_color: dreamy
-episode_URL: http://mailta.pe/508/tachycardie/
-image: https://www.mailta.pe/img/fbPic508.png
-musiColor: musiColor508.png
-track4_color: trippy
-track5_title: Chassol - Pipornithology, Pt.1
-track5_color: dreamy
-track6_title: Danse Musique Rhône-Alpes - Potion Trouble
-track6_color: rough
-track7_title: Loya - Zenfant
-track7_color: trippy
-track1_link: https://sounds.mailta.pe/508/track1.mp3
-track2_link: https://sounds.mailta.pe/508/track2.mp3
-track3_link: https://sounds.mailta.pe/508/track3.mp3
-track4_link: https://sounds.mailta.pe/508/track4.mp3
-track5_link: https://sounds.mailta.pe/508/track5.mp3
-track6_link: https://sounds.mailta.pe/508/track6.mp3
-track7_link: https://sounds.mailta.pe/508/track7.mp3
-description: This morning, we explore, we dematerialize, we deconstruct the music. We beat it to find inspiration, we saturate it to its fullest, we look for the unknown, the astonishing, the shocking, the disconcerting in order to touch. This is what Tachycardie offers us through this playlist.
-pubDate: '2022-12-04'
+image: /img/fbpic508.png
+musiColor: /img/musicolor508.png
+description: This morning, we explore, we dematerialize, we deconstruct the
+  music. We beat it to find inspiration, we saturate it to its fullest, we look
+  for the unknown, the astonishing, the shocking, the disconcerting in order to
+  touch. This is what Tachycardie offers us through this playlist.
+pubDate: 2022-12-04
+track1:
+  title: Able Noise - Side A
+  color: dreamy
+  link: https://sounds.mailta.pe/508/track1.mp3
+track2:
+  title: Marina Rosenfeld - Fuji Tonic
+  color: trippy
+  link: https://sounds.mailta.pe/508/track2.mp3
+track3:
+  title: Omni - Courtesy Call
+  color: bliss
+  link: https://sounds.mailta.pe/508/track3.mp3
+track4:
+  title: Tachycardie - Pratiques IV & V
+  color: trippy
+  link: https://sounds.mailta.pe/508/track4.mp3
+track5:
+  title: Chassol - Pipornithology, Pt.1
+  color: dreamy
+  link: https://sounds.mailta.pe/508/track5.mp3
+track6:
+  title: Danse Musique Rhône-Alpes - Potion Trouble
+  color: rough
+  link: https://sounds.mailta.pe/508/track6.mp3
+track7:
+  title: Loya - Zenfant
+  color: trippy
+  link: https://sounds.mailta.pe/508/track7.mp3
+release: 508
 ---
  This morning, we explore, we dematerialize, we deconstruct the music. We beat it to find inspiration, we saturate it to its fullest, we look for the unknown, the astonishing, the shocking, the disconcerting in order to touch. This is what Tachycardie offers us through this playlist.
 <br><br>

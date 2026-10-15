@@ -1,40 +1,47 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Sanjay Mistry
 illustrator: Thibault Daumain
 writer: Sanjay Mistry
-category: '408'
 guest_name: Michal Turtle
 guest_color: dreamy
-track1_link: https://sounds.mailta.pe/408/track1.mp3
-track1_title: Gaussian Curve – Impossible Island
-track1_color: dreamy
-track2_title: Jon Hassell – Dream Theory
-track2_color: bliss
-track3_title: Meredith Monk – Turtle Dreams (Waltz)
-track3_color: trippy
-track4_title: Michal Turtle – Feel the Pain
-track4_color: vibrant
-track5_title: Hilsa – Wash
-track5_color: dreamy
-track6_title: 'Tomeka Reid & Alexander Hawkins – Albert Ayler (His Life Was Too Short) '
-track6_color: bliss
-track7_title: Anarchist Mountains – Lift
-track7_color: dreamy
-episode_URL: https://www.mailta.pe/408/michal-turtle/
-guestPic: guestPic408.jpg
-track2_link: https://sounds.mailta.pe/408/track2.mp3
-track3_link: https://sounds.mailta.pe/408/track3.mp3
-track4_link: https://sounds.mailta.pe/408/track4.mp3
-track5_link: https://sounds.mailta.pe/408/track5.mp3
-track6_link: https://sounds.mailta.pe/408/track6.mp3
-track7_link: https://sounds.mailta.pe/408/track7.mp3
-description: This morning we welcome Michal Turtle to select some Sunday morning tunes with us—a musician and producer who spent the heart of the 1980s making subtle, enlightened music.
-musiColor: musiColor408.png
-image: https://www.mailta.pe/img/fbPic408.jpg
-pubDate: '2020-05-31'
+guestPic: /img/guestpic408.jpg
+description: This morning we welcome Michal Turtle to select some Sunday morning
+  tunes with us—a musician and producer who spent the heart of the 1980s making
+  subtle, enlightened music.
+musiColor: /img/musicolor408.png
+image: /img/fbpic408.jpg
+pubDate: 2020-05-31
+track1:
+  title: Gaussian Curve – Impossible Island
+  color: dreamy
+  link: https://sounds.mailta.pe/408/track1.mp3
+track2:
+  title: Jon Hassell – Dream Theory
+  color: bliss
+  link: https://sounds.mailta.pe/408/track2.mp3
+track3:
+  title: Meredith Monk – Turtle Dreams (Waltz)
+  color: trippy
+  link: https://sounds.mailta.pe/408/track3.mp3
+track4:
+  title: Michal Turtle – Feel the Pain
+  color: vibrant
+  link: https://sounds.mailta.pe/408/track4.mp3
+track5:
+  title: Hilsa – Wash
+  color: dreamy
+  link: https://sounds.mailta.pe/408/track5.mp3
+track6:
+  title: "Tomeka Reid & Alexander Hawkins – Albert Ayler (His Life Was Too Short) "
+  color: bliss
+  link: https://sounds.mailta.pe/408/track6.mp3
+track7:
+  title: Anarchist Mountains – Lift
+  color: dreamy
+  link: https://sounds.mailta.pe/408/track7.mp3
+release: 408
 ---
 This morning we welcome [Michal Turtle](https://soundcloud.com/music-from-memory/mfm-mix-010-michal-turtle) to select three Sunday morning tunes with us—a musician and producer who spent the heart of the 1980s making subtle, enlightened music. 
 <br><br>

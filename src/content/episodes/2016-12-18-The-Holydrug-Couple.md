@@ -1,40 +1,46 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Dimitri
 illustrator: William Girault
 guest_name: The Holydrug Couple
 guest_color: dreamy
-category: '239'
-track1_link: https://sounds.mailta.pe/239/track1.mp3
-track2_link: https://sounds.mailta.pe/239/track2.mp3
-track3_link: https://sounds.mailta.pe/239/track3.mp3
-track5_link: https://sounds.mailta.pe/239/track5.mp3
-track3_title: Valesuchi - Golosynth
-track3_color: dreamy
-track1_title: Nicolas Godin - Widerstehe Doch Der Sünde
-track2_title: Arco Corintio - Coronada
-track2_color: dreamy
-track1_color: trippy
-track7_link: https://sounds.mailta.pe/239/track7.mp3
-track6_link: https://sounds.mailta.pe/239/track6.mp3
-guestPic: guestPic239.jpg
-track4_title: The Holydrug Couple - Concorde
-track4_color: vibrant
-track5_title: Krakatau - Tharsis Montes
-track5_color: trippy
-track6_title: Phil Stroud - Flow
-track6_color: bliss
-track7_color: trippy
-episode_URL: https://www.mailta.pe/239/The-Holydrug-Couple/
-track4_link: https://sounds.mailta.pe/239/track4.mp3
-track7_title: Mick Jenkins - Drowning feat. BadBadNotGood
-image: https://www.mailta.pe/img/fbPic239.jpg
-musiColor: musiColor239.JPG
-description: This morning, we will explore a variety of psychedelic territories with our guests The Holydrug Couple.
+guestPic: /img/guestpic239.jpg
+image: /img/fbpic239.jpg
+musiColor: /img/musicolor239.jpg
+description: This morning, we will explore a variety of psychedelic territories
+  with our guests The Holydrug Couple.
 writer: Dimitri
-pubDate: '2016-12-18'
+pubDate: 2016-12-18
+track1:
+  title: Nicolas Godin - Widerstehe Doch Der Sünde
+  color: trippy
+  link: https://sounds.mailta.pe/239/track1.mp3
+track2:
+  title: Arco Corintio - Coronada
+  color: dreamy
+  link: https://sounds.mailta.pe/239/track2.mp3
+track3:
+  title: Valesuchi - Golosynth
+  color: dreamy
+  link: https://sounds.mailta.pe/239/track3.mp3
+track4:
+  title: The Holydrug Couple - Concorde
+  color: vibrant
+  link: https://sounds.mailta.pe/239/track4.mp3
+track5:
+  title: Krakatau - Tharsis Montes
+  color: trippy
+  link: https://sounds.mailta.pe/239/track5.mp3
+track6:
+  title: Phil Stroud - Flow
+  color: bliss
+  link: https://sounds.mailta.pe/239/track6.mp3
+track7:
+  title: Mick Jenkins - Drowning feat. BadBadNotGood
+  color: trippy
+  link: https://sounds.mailta.pe/239/track7.mp3
+release: 239
 ---
 This morning, we will explore a variety of psychedelic territories with our guests [The Holydrug Couple](https://www.facebook.com/Holydrugcouple/). Cosmic, oniric and tastily psychedelic, their music bring us in an parallel dimension where dreams and reality are one. Perfect destination for a Sunday morning. Hope this experimental trip will make you float as high as the Andean mountains from their native Chili.
 

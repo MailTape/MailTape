@@ -1,41 +1,51 @@
 ---
-
 author: ImaCrea
-category: '200'
 guest_name: Homeshake
 guest_color: dreamy
-bigTitle_font_ratio: '6'
-guestPic: guestPic200.jpg
-track1_link: https://sounds.mailta.pe/200/track1.mp3
-track2_link: https://sounds.mailta.pe/200/track2.mp3
-track3_link: https://sounds.mailta.pe/200/track3.mp3
-track4_link: https://sounds.mailta.pe/200/track4.mp3
-track5_link: https://sounds.mailta.pe/200/track5.mp3
-track6_link: https://sounds.mailta.pe/200/track6.mp3
-track7_link: https://sounds.mailta.pe/200/track7.mp3
-track1_title: Jerry Paper - 3D Dream
-track1_color: trippy
-track2_title: Unblonde - Look
-track2_color: trippy
-track3_title: ' Tonstartssbandht - Hymn Eola'
-track3_color: dreamy
-track4_title: Homeshake - I Don't Play
-track4_color: dreamy
-track5_title: Max Graef & Glenn Astro - Magic Johnson
-track5_color: vibrant
-track6_title: Dego & Kaidi - Black is Key
-track6_color: rough
-track7_title: ' Monte Booker - Baby Ft. Ravyn Lenae '
-track7_color: dreamy
-episode_URL: http://mailta.pe/200/Homeshake/
-image: https://www.mailta.pe/img/fbPic200.jpg
-musiColor: musiColor200.jpg
-description: This morning, let the warm, soul-stirring music of a Montreal guitarist show you how to cozy up on the coldest morning of the year. Homeshake’s selection is easy on the ears, like the fuzzy sweater awaiting your return from a walk in the snow, he takes you there, transforming hints of winter blues into joy. Homeshake’s voice is undeniably comforting and his morning selection magically reassuring.
+bigTitle_font_ratio: "6"
+guestPic: /img/guestpic200.jpg
+image: /img/fbpic200.jpg
+musiColor: /img/musicolor200.jpg
+description: This morning, let the warm, soul-stirring music of a Montreal
+  guitarist show you how to cozy up on the coldest morning of the year.
+  Homeshake’s selection is easy on the ears, like the fuzzy sweater awaiting
+  your return from a walk in the snow, he takes you there, transforming hints of
+  winter blues into joy. Homeshake’s voice is undeniably comforting and his
+  morning selection magically reassuring.
 published: true
 curator: ImaCrea
 illustrator: William Girault
 writer: PS KY
-pubDate: '2016-01-17'
+pubDate: 2016-01-17
+track1:
+  title: Jerry Paper - 3D Dream
+  color: trippy
+  link: https://sounds.mailta.pe/200/track1.mp3
+track2:
+  title: Unblonde - Look
+  color: trippy
+  link: https://sounds.mailta.pe/200/track2.mp3
+track3:
+  title: " Tonstartssbandht - Hymn Eola"
+  color: dreamy
+  link: https://sounds.mailta.pe/200/track3.mp3
+track4:
+  title: Homeshake - I Don't Play
+  color: dreamy
+  link: https://sounds.mailta.pe/200/track4.mp3
+track5:
+  title: Max Graef & Glenn Astro - Magic Johnson
+  color: vibrant
+  link: https://sounds.mailta.pe/200/track5.mp3
+track6:
+  title: Dego & Kaidi - Black is Key
+  color: rough
+  link: https://sounds.mailta.pe/200/track6.mp3
+track7:
+  title: " Monte Booker - Baby Ft. Ravyn Lenae "
+  color: dreamy
+  link: https://sounds.mailta.pe/200/track7.mp3
+release: 200
 ---
 
 

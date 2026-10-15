@@ -1,40 +1,47 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Sanjay Mistry
 illustrator: William Girault
 writer: Sanjay Mistry
-category: '282'
 guest_name: Amira Kheir
 guest_color: vibrant
-track1_link: https://sounds.mailta.pe/282/track1.mp3
-track2_link: https://sounds.mailta.pe/282/track2.mp3
-track3_link: https://sounds.mailta.pe/282/track3.mp3
-track4_link: https://sounds.mailta.pe/282/track4.mp3
-track5_link: https://sounds.mailta.pe/282/track5.mp3
-track6_link: https://sounds.mailta.pe/282/track6.mp3
-track7_link: https://sounds.mailta.pe/282/track7.mp3
-track1_title: Sarah Vaughan – All of Me
-track1_color: vibrant
-track2_title: Ali Farka Touré & Ry Cooder – Gomni
-track2_color: bliss
-track3_title: A Tribe Called Quest – We Can Get Down
-track3_color: rough
-track4_title: Amira Kheir – Habibi Ta'al
-track4_color: trippy
-track5_title: Arooj Aftab – Mohabbat (Live in Berlin)
-track5_color: dreamy
-track6_title: Susheela Raman – Vinayaka
-track6_color: bliss
-track7_title: Lhasa De Sela – Rising
-track7_color: dreamy
-episode_URL: http://mailta.pe/282/amira-kheir/
-guestPic: guestPic282.jpg
-image: https://www.mailta.pe/img/fbPic282.jpg
-description: Described by Songlines magazine as ‘bold and poetic… beautiful and fearless’, we are delighted to share vocalist Amira Kheir’s Sunday morning listening for MailTape.
-musiColor: musiColor282.png
-pubDate: '2017-10-15'
+guestPic: /img/guestpic282.jpg
+image: /img/fbpic282.jpg
+description: Described by Songlines magazine as ‘bold and poetic… beautiful and
+  fearless’, we are delighted to share vocalist Amira Kheir’s Sunday morning
+  listening for MailTape.
+musiColor: /img/musicolor282.png
+pubDate: 2017-10-15
+track1:
+  title: Sarah Vaughan – All of Me
+  color: vibrant
+  link: https://sounds.mailta.pe/282/track1.mp3
+track2:
+  title: Ali Farka Touré & Ry Cooder – Gomni
+  color: bliss
+  link: https://sounds.mailta.pe/282/track2.mp3
+track3:
+  title: A Tribe Called Quest – We Can Get Down
+  color: rough
+  link: https://sounds.mailta.pe/282/track3.mp3
+track4:
+  title: Amira Kheir – Habibi Ta'al
+  color: trippy
+  link: https://sounds.mailta.pe/282/track4.mp3
+track5:
+  title: Arooj Aftab – Mohabbat (Live in Berlin)
+  color: dreamy
+  link: https://sounds.mailta.pe/282/track5.mp3
+track6:
+  title: Susheela Raman – Vinayaka
+  color: bliss
+  link: https://sounds.mailta.pe/282/track6.mp3
+track7:
+  title: Lhasa De Sela – Rising
+  color: dreamy
+  link: https://sounds.mailta.pe/282/track7.mp3
+release: 282
 ---
 Described by Songlines magazine as ‘bold and poetic… beautiful and fearless', we are delighted to share vocalist [Amira Kheir's](http://amirakheir.com/) Sunday morning listening for MailTape.
 <p>As a young singer, musician and composer, Amira draws from her own multicultural background to create music that explores themes of home, belonging, love, and unity. Within this soudscape, East African rhythms blend with North African ambience, through hints of Afro-Latin grooves and Neo-Soul, expressing themselves through a soulful explosion of jazz improvisation. Amira’s music possesses within it ancient musical traditions, yet is delivered with a contemporary vibrancy reflective of London’s multicultural music scene.

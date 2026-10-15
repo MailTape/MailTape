@@ -1,39 +1,46 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Sanjay Mistry
 illustrator: Anais Caura
-category: '269'
 guest_name: Moor Mother
 guest_color: rough
-track1_link: https://sounds.mailta.pe/269/track1.mp3
-track1_title: Madam Data - Miniature Neurocosmos 28
-track1_color: bliss
-track2_link: https://sounds.mailta.pe/269/track2.mp3
-track2_title: Hprizm - Live @ Sons D'Hiver (Paris) 2014
-track2_color: trippy
-track3_link: https://sounds.mailta.pe/269/track3.mp3
-track3_title: Kilamanzego - What happens when Eastern Europe and West Africa collide pt2
-track3_color: vibrant
-track4_link: https://sounds.mailta.pe/269/track4.mp3
-track4_title: ᴠ̷̸ᴀ̷̸ɴ̷̸ɪ̷̸ʟ̷̸ʟ̷̸ᴀ̷̸ ̷̸ʜ̷̸ᴀ̷̸ᴍ̷̸ᴍ̷̸ᴇ̷̸ʀ̷̸ ft. Moor Mother - Murder
-track4_color: rough
-track5_link: https://sounds.mailta.pe/269/track5.mp3
-track5_title: Aybee - What is
-track5_color: dreamy
-track6_link: https://sounds.mailta.pe/269/track6.mp3
-track6_title: Rafeef Ziadah - Shades of Anger
-track6_color: trippy
-track7_link: https://sounds.mailta.pe/269/track7.mp3
-track7_title: 'Matana Roberts - Raise the Roof: Information, Class & Greed Besmirch Democracy'
-track7_color: trippy
-episode_URL: http://mailta.pe/269/moor-mother/
-guestPic: guestPic269.jpg
-musiColor: musiColor269.png
-description: This morning we welcome Philadelphia-based interdisciplinary artist, Camae Ayewa (Moor Mother).
-image: https://www.mailta.pe/img/fbPic269.jpg
-pubDate: '2017-07-16'
+guestPic: /img/guestpic269.jpg
+musiColor: /img/musicolor269.png
+description: This morning we welcome Philadelphia-based interdisciplinary
+  artist, Camae Ayewa (Moor Mother).
+image: /img/fbpic269.jpg
+pubDate: 2017-07-16
+track1:
+  title: Madam Data - Miniature Neurocosmos 28
+  color: bliss
+  link: https://sounds.mailta.pe/269/track1.mp3
+track2:
+  title: Hprizm - Live @ Sons D'Hiver (Paris) 2014
+  color: trippy
+  link: https://sounds.mailta.pe/269/track2.mp3
+track3:
+  title: Kilamanzego - What happens when Eastern Europe and West Africa collide pt2
+  color: vibrant
+  link: https://sounds.mailta.pe/269/track3.mp3
+track4:
+  title: ᴠ̷̸ᴀ̷̸ɴ̷̸ɪ̷̸ʟ̷̸ʟ̷̸ᴀ̷̸ ̷̸ʜ̷̸ᴀ̷̸ᴍ̷̸ᴍ̷̸ᴇ̷̸ʀ̷̸ ft. Moor Mother - Murder
+  color: rough
+  link: https://sounds.mailta.pe/269/track4.mp3
+track5:
+  title: Aybee - What is
+  color: dreamy
+  link: https://sounds.mailta.pe/269/track5.mp3
+track6:
+  title: Rafeef Ziadah - Shades of Anger
+  color: trippy
+  link: https://sounds.mailta.pe/269/track6.mp3
+track7:
+  title: "Matana Roberts - Raise the Roof: Information, Class & Greed Besmirch
+    Democracy"
+  color: trippy
+  link: https://sounds.mailta.pe/269/track7.mp3
+release: 269
 ---
 This morning we welcome someone who has been on my wish list for a while: Philadelphia-based interdisciplinary artist, Camae Ayewa ([Moor Mother](http://moormother.com/)).
 <p>As well as having many other talents, Camae is also co-founder and organiser of [Rockers! Philly](https://www.facebook.com/thegoodfolksatrockers), a 10-year-long event series and festival focused on marginalised musicians and artists spanning multiple genres of music. She has shared the stage with King Britt, Islam Chipsy, Claudia Rankine (whose latest book, [Citizen: An American Lyric](https://en.wikipedia.org/wiki/Citizen:_An_American_Lyric), you should definitely read) and bell hooks, and has opened on tour for [Screaming Females](http://www.screamingfemales.com/).

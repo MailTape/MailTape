@@ -1,40 +1,58 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Jules
 illustrator: Jason Pridham
 writer: Jules
-category: '461'
 guest_name: The Mauskovic Dance Band
 guest_color: trippy
-track7_color: trippy
-track6_color: dreamy
-track5_color: bliss
-track4_color: trippy
-track1_color: vibrant
-track2_color: bliss
-track3_color: dreamy
-track1_title: Dj Bert & Eagle - I Am Your Master
-track2_title: Don Melody Club - Bovendien
-track3_title: Cameleon - La Rosée Si Feuilles Songes
-track4_title: The Mauskovic Dance Band - Ventura Phase
-track5_title: Ensemble Entendu - Time Is Certainly Passing
-track6_title: Turzi - Watermill
-track7_title: N'Draman-Blintch - Cosmic Sounds
-track1_link: https://sounds.mailta.pe/461/track1.mp3
-track2_link: https://sounds.mailta.pe/461/track2.mp3
-track3_link: https://sounds.mailta.pe/461/track3.mp3
-track4_link: https://sounds.mailta.pe/461/track4.mp3
-track5_link: https://sounds.mailta.pe/461/track5.mp3
-track6_link: https://sounds.mailta.pe/461/track6.mp3
-track7_link: https://sounds.mailta.pe/461/track7.mp3
-episode_URL: https://www.mailta.pe/461/the-mauskovic-dance-band/
-musiColor: ' musiColor461.png'
-guestPic: guestPic461.jpg
-image: https://www.mailta.pe/img/fbPic461.png
-description: This morning something strange is floating in the air. The sky takes on psychedelic colors; the sun hits the windows like percussions. Can you see The Mauskovic Dance Band slowly emerging from the clouds to join us for a new MailTape episode? It's been a very long time. Perhaps it was the particular context or the need for a vacation. Anyway, sometimes you need to take a break, pull back just a little bit from everything, even the music. You can easily get lost in the constant search for novelty, the demand for something new, for surprise, as the music evolves quickly and swarms in all directions. As in all things, what is important is to find your own rhythm, the way you feel good. I am happy to welcome the Mauskovic Dance Band today, a group that directly amazed me when I first listened to their music. I had already contacted them without success, and I had slowly forgotten them until I fell back on their music recently, rediscovering their singular rhythms and reconnecting with them.
-pubDate: '2021-09-12'
+musiColor: /img/" musicolor461.png"
+guestPic: /img/guestpic461.jpg
+image: /img/fbpic461.png
+description: This morning something strange is floating in the air. The sky
+  takes on psychedelic colors; the sun hits the windows like percussions. Can
+  you see The Mauskovic Dance Band slowly emerging from the clouds to join us
+  for a new MailTape episode? It's been a very long time. Perhaps it was the
+  particular context or the need for a vacation. Anyway, sometimes you need to
+  take a break, pull back just a little bit from everything, even the music. You
+  can easily get lost in the constant search for novelty, the demand for
+  something new, for surprise, as the music evolves quickly and swarms in all
+  directions. As in all things, what is important is to find your own rhythm,
+  the way you feel good. I am happy to welcome the Mauskovic Dance Band today, a
+  group that directly amazed me when I first listened to their music. I had
+  already contacted them without success, and I had slowly forgotten them until
+  I fell back on their music recently, rediscovering their singular rhythms and
+  reconnecting with them.
+pubDate: 2021-09-12
+track1:
+  title: Dj Bert & Eagle - I Am Your Master
+  color: vibrant
+  link: https://sounds.mailta.pe/461/track1.mp3
+track2:
+  title: Don Melody Club - Bovendien
+  color: bliss
+  link: https://sounds.mailta.pe/461/track2.mp3
+track3:
+  title: Cameleon - La Rosée Si Feuilles Songes
+  color: dreamy
+  link: https://sounds.mailta.pe/461/track3.mp3
+track4:
+  title: The Mauskovic Dance Band - Ventura Phase
+  color: trippy
+  link: https://sounds.mailta.pe/461/track4.mp3
+track5:
+  title: Ensemble Entendu - Time Is Certainly Passing
+  color: bliss
+  link: https://sounds.mailta.pe/461/track5.mp3
+track6:
+  title: Turzi - Watermill
+  color: dreamy
+  link: https://sounds.mailta.pe/461/track6.mp3
+track7:
+  title: N'Draman-Blintch - Cosmic Sounds
+  color: trippy
+  link: https://sounds.mailta.pe/461/track7.mp3
+release: 461
 ---
  This morning something strange is floating in the air. The sky takes on psychedelic colors; the sun hits the windows like percussions. Can't you see [The Mauskovic Dance Band](https://mauskovicdanceband.bandcamp.com/) slowly emerging from the clouds to join us for a new MailTape episode?
 <br><br>

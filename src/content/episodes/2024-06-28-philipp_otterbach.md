@@ -1,37 +1,43 @@
 ---
 published: true
 pubDate: 2024-06-30
-category: "559"
 guest_name: Philipp Otterbach
 guest_color: vibrant
-guestPic: guestpic559.png
+guestPic: /img/guestpic559.png
 author: Jules
 illustrator: Babi Brunelio
 writer: Jules
-track1_title: Water Pistol Cowboys - I’m Sorry I Was Ignoring You
-track1_color: vibrant
-track1_link: https://sounds.mailta.pe/559/track1.mp3
-track2_title: Motorpsycho - Trylleball (Sannan)
-track2_color: dreamy
-track2_link: https://sounds.mailta.pe/559/track2.mp3
-track3_title: Mark Kramer - Ovulation Always Brings Me Down
-track3_color: bliss
-track3_link: https://sounds.mailta.pe/559/track3.mp3
-track4_title: Philipp Otterbach - Small Town Nights
-track4_color: vibrant
-track4_link: https://sounds.mailta.pe/559/track4.mp3
-track5_title: Tim Koh / Sun An - Incense Holder
-track5_color: bliss
-track5_link: https://sounds.mailta.pe/559/track5.mp3
-track6_title: Whatever the Weather - 25°c
-track6_color: dreamy
-track6_link: https://sounds.mailta.pe/559/track6.mp3
-track7_title: Duval Timothy - Mutate
-track7_color: vibrant
-track7_link: https://sounds.mailta.pe/559/track7.mp3
-episode_URL: https://www.mailta.pe/559/Philipp-Otterbach/
-musiColor: musicolor559.png
-image: https://www.mailta.pe/img/fbpic559.jpg
+musiColor: /img/musicolor559.png
+image: /img/fbpic559.jpg
+track1:
+  title: Water Pistol Cowboys - I’m Sorry I Was Ignoring You
+  color: vibrant
+  link: https://sounds.mailta.pe/559/track1.mp3
+track2:
+  title: Motorpsycho - Trylleball (Sannan)
+  color: dreamy
+  link: https://sounds.mailta.pe/559/track2.mp3
+track3:
+  title: Mark Kramer - Ovulation Always Brings Me Down
+  color: bliss
+  link: https://sounds.mailta.pe/559/track3.mp3
+track4:
+  title: Philipp Otterbach - Small Town Nights
+  color: vibrant
+  link: https://sounds.mailta.pe/559/track4.mp3
+track5:
+  title: Tim Koh / Sun An - Incense Holder
+  color: bliss
+  link: https://sounds.mailta.pe/559/track5.mp3
+track6:
+  title: Whatever the Weather - 25°c
+  color: dreamy
+  link: https://sounds.mailta.pe/559/track6.mp3
+track7:
+  title: Duval Timothy - Mutate
+  color: vibrant
+  link: https://sounds.mailta.pe/559/track7.mp3
+release: 559
 ---
 This morning we're delighted to welcome Krefeld-born, Berlin-based DJ and producer [Philipp Otterbach](https://www.instagram.com/philippotterbach/) to MailTape!
 

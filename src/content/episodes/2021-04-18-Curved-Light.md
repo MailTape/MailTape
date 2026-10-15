@@ -1,46 +1,50 @@
 ---
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
-category: '447'
 guest_name: Curved Light
-track1_link: 'https://sounds.mailta.pe/447/track1.mp3'
-track1_title: Alice Coltrane - Hare Krishna
-track2_link: 'https://sounds.mailta.pe/missingTrack.mp3'
-track2_title: Tatsuro Yamashita - Ride On Time
-track3_link: 'https://sounds.mailta.pe/missingTrack.mp3'
-track3_title: Robin Guthrie & Harold Budd - Snowfall
-track3_color: dreamy
-track2_color: vibrant
-track1_color: bliss
-track4_link: 'https://sounds.mailta.pe/missingTrack.mp3'
-track4_title: Curved Light - One Moment in the Sun
-track4_color: vibrant
-track5_color: dreamy
-track6_color: vibrant
-track7_color: bliss
-track5_link: 'https://sounds.mailta.pe/447/track5.mp3'
-track5_title: 36 & awakened souls - Past Self
 guest_color: bliss
-musiColor: musiColor447.png
-image: 'https://www.mailta.pe/img/fbPic447.png'
-episode_URL: 'http://mailta.pe/447/Curved-Light/'
-guestPic: guestPic447.jpg
-track6_link: 'https://sounds.mailta.pe/missingTrack.mp3'
-track6_title: Mytron & Ofofo - Lebanese Red Bird
-track7_link: 'https://sounds.mailta.pe/447/track7.mp3'
-track7_title: YOM - Celebration
-description: >-
-  This morning, we embrace the abstract in the ambient: the otherworldly and the
-  primal. The tracks in the following playlist reach for any lingering emptiness
-  sitting within us, offering a moment of calm and exhale. Press play and let
-  your thoughts unravel like folded laundry, let them breathe and wave in the
-  wind of these melodies. This Sunday morning, peace is no longer quite so
-  elusive, it breathes in these rhythms before us. 
+musiColor: /img/musicolor447.png
+image: /img/fbpic447.png
+guestPic: /img/guestpic447.jpg
+description: "This morning, we embrace the abstract in the ambient: the
+  otherworldly and the primal. The tracks in the following playlist reach for
+  any lingering emptiness sitting within us, offering a moment of calm and
+  exhale. Press play and let your thoughts unravel like folded laundry, let them
+  breathe and wave in the wind of these melodies. This Sunday morning, peace is
+  no longer quite so elusive, it breathes in these rhythms before us. "
 author: Sarah
 illustrator: Camille Célestin
 writer: Sarah
-pubDate: '2021-04-18'
-
+pubDate: 2021-04-18
+track1:
+  title: Alice Coltrane - Hare Krishna
+  color: bliss
+  link: https://sounds.mailta.pe/447/track1.mp3
+track2:
+  title: Tatsuro Yamashita - Ride On Time
+  color: vibrant
+  link: https://sounds.mailta.pe/missingTrack.mp3
+track3:
+  title: Robin Guthrie & Harold Budd - Snowfall
+  color: dreamy
+  link: https://sounds.mailta.pe/missingTrack.mp3
+track4:
+  title: Curved Light - One Moment in the Sun
+  color: vibrant
+  link: https://sounds.mailta.pe/missingTrack.mp3
+track5:
+  title: 36 & awakened souls - Past Self
+  color: dreamy
+  link: https://sounds.mailta.pe/447/track5.mp3
+track6:
+  title: Mytron & Ofofo - Lebanese Red Bird
+  color: vibrant
+  link: https://sounds.mailta.pe/missingTrack.mp3
+track7:
+  title: YOM - Celebration
+  color: bliss
+  link: https://sounds.mailta.pe/447/track7.mp3
+release: 447
 ---
 
 <p id="introduction">

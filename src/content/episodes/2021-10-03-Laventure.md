@@ -1,40 +1,49 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Anaïs G
 writer: Anaïs G
-category: '464'
 guest_name: Laventure
 guest_color: dreamy
-guestPic: guestPic464.jpg
-track1_title: Franck Zappa - Advance Romance
-track1_color: rough
-track2_title: Q - Alone
-track2_color: dreamy
-track3_title: Broncho - Get in My Car
-track3_color: bliss
-track4_title: Laventure - Give
-track4_color: dreamy
-track5_title: Hubert Le Noir feat Bonnie Banane - Octembre
-track5_color: bliss
-track6_title: Le Noiseur - Relax
-track6_color: dreamy
-track7_color: bliss
-track7_title: 'Slim & The Beast - Tongue Tied '
-episode_URL: https://www.mailta.pe/464/laventure/
-image: https://www.mailta.pe/img/fbPic464.png
-musiColor: musiColor464.png
-description: 'This morning, it feels like the return of the long Sundays under the blanket watching the rain fall. The heat and sun of this summer gives way to the coolness of the morning. Depressed, but here at MailTape, we have the solution: a selection of music made by the group Laventure. Chill, relaxation and sunshine in your heart assured!'
+guestPic: /img/guestpic464.jpg
+image: /img/fbpic464.png
+musiColor: /img/musicolor464.png
+description: "This morning, it feels like the return of the long Sundays under
+  the blanket watching the rain fall. The heat and sun of this summer gives way
+  to the coolness of the morning. Depressed, but here at MailTape, we have the
+  solution: a selection of music made by the group Laventure. Chill, relaxation
+  and sunshine in your heart assured!"
 illustrator: Camille Célestin
-track1_link: https://sounds.mailta.pe/464/track1.mp3
-track2_link: https://sounds.mailta.pe/464/track2.mp3
-track3_link: https://sounds.mailta.pe/464/track3.mp3
-track4_link: https://sounds.mailta.pe/464/track4.mp3
-track5_link: https://sounds.mailta.pe/464/track5.mp3
-track6_link: https://sounds.mailta.pe/464/track6.mp3
-track7_link: https://sounds.mailta.pe/464/track7.mp3
-pubDate: '2021-10-03'
+pubDate: 2021-10-03
+track1:
+  title: Franck Zappa - Advance Romance
+  color: rough
+  link: https://sounds.mailta.pe/464/track1.mp3
+track2:
+  title: Q - Alone
+  color: dreamy
+  link: https://sounds.mailta.pe/464/track2.mp3
+track3:
+  title: Broncho - Get in My Car
+  color: bliss
+  link: https://sounds.mailta.pe/464/track3.mp3
+track4:
+  title: Laventure - Give
+  color: dreamy
+  link: https://sounds.mailta.pe/464/track4.mp3
+track5:
+  title: Hubert Le Noir feat Bonnie Banane - Octembre
+  color: bliss
+  link: https://sounds.mailta.pe/464/track5.mp3
+track6:
+  title: Le Noiseur - Relax
+  color: dreamy
+  link: https://sounds.mailta.pe/464/track6.mp3
+track7:
+  title: "Slim & The Beast - Tongue Tied "
+  color: bliss
+  link: https://sounds.mailta.pe/464/track7.mp3
+release: 464
 ---
 This morning, it feels like the return of the long Sundays under the blanket watching the rain fall. The heat and sun of this summer gives way to the coolness of the morning. Depressed, but here at MailTape, we have the solution: a selection of music made by the group [Laventure](https://www.facebook.com/yolaventure/). Chill, relaxation and sunshine in your heart assured!
 <br><br>[Laventure](https://soundcloud.com/ingrid-laventure) is a Strasbourg duo composed of Ingrid Laventure and Boris Lodel. A pop-lo musical project -fi which was born last January and has been able to assert itself little by little on social networks but also through their off-the-shoot DIY clip like “[Little Dog](https://www.youtube.com/watch?v=vB8V9z5uVWo)". We love this chill atmosphere and that’s what we’ll discover in their Sunday selection.

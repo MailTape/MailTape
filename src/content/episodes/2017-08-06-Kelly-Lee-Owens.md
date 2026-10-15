@@ -1,40 +1,49 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Louise
 illustrator: Pierre-Julien Fieux
-category: '272'
 guest_name: Kelly Lee Owens
 guest_color: bliss
-guestPic: guestPic272.jpg
-track4_title: Kelly Lee Owens - Anxi. ft. Jenny Hval
-episode_URL: http://mailta.pe/272/Kelly-Lee-Owens/
-image: https://www.mailta.pe/img/fbPic272.png
-musiColor: musiColor272.png
-track4_link: https://sounds.mailta.pe/272/track4.mp3
-track2_link: https://sounds.mailta.pe/272/track2.mp3
-track3_link: https://sounds.mailta.pe/272/track3.mp3
-track1_link: https://sounds.mailta.pe/272/track1.mp3
-track2_title: Cocteau Twins - Wax & Wane
-track3_title: Aphex Twin - Acrid Avid Jam Shred
-track1_title: 'Alice Coltrane - Journey In Satchidananda '
-track1_color: dreamy
-track3_color: bliss
-track4_color: bliss
-track2_color: rough
-track5_link: https://sounds.mailta.pe/272/track5.mp3
-track6_link: https://sounds.mailta.pe/272/track6.mp3
-track7_link: https://sounds.mailta.pe/272/track7.mp3
-track5_title: Peggy Gou - Gou Talk
-track5_color: vibrant
-track6_title: Supernaive - Opal Waltz
-track6_color: bliss
-track7_title: Sophia Kennedy - Build Me A House
-track7_color: rough
+guestPic: /img/guestpic272.jpg
+image: /img/fbpic272.png
+musiColor: /img/musicolor272.png
 writer: Daisy
-description: This morning, slip into cruise control. Kelly Lee Owens is here, and the listening is easy. Travel a new map along roads that you thought you knew, experiencing everything and nothing as each moment glides by. Explore their interstitial spaces, escaping invisible limits and paths too well travelled. Feel the colours, the beauty, the motion.
-pubDate: '2017-08-06'
+description: This morning, slip into cruise control. Kelly Lee Owens is here,
+  and the listening is easy. Travel a new map along roads that you thought you
+  knew, experiencing everything and nothing as each moment glides by. Explore
+  their interstitial spaces, escaping invisible limits and paths too well
+  travelled. Feel the colours, the beauty, the motion.
+pubDate: 2017-08-06
+track1:
+  title: "Alice Coltrane - Journey In Satchidananda "
+  color: dreamy
+  link: https://sounds.mailta.pe/272/track1.mp3
+track2:
+  title: Cocteau Twins - Wax & Wane
+  color: rough
+  link: https://sounds.mailta.pe/272/track2.mp3
+track3:
+  title: Aphex Twin - Acrid Avid Jam Shred
+  color: bliss
+  link: https://sounds.mailta.pe/272/track3.mp3
+track4:
+  title: Kelly Lee Owens - Anxi. ft. Jenny Hval
+  color: bliss
+  link: https://sounds.mailta.pe/272/track4.mp3
+track5:
+  title: Peggy Gou - Gou Talk
+  color: vibrant
+  link: https://sounds.mailta.pe/272/track5.mp3
+track6:
+  title: Supernaive - Opal Waltz
+  color: bliss
+  link: https://sounds.mailta.pe/272/track6.mp3
+track7:
+  title: Sophia Kennedy - Build Me A House
+  color: rough
+  link: https://sounds.mailta.pe/272/track7.mp3
+release: 272
 ---
 This morning, slip into cruise control. [Kelly Lee Owens](https://www.facebook.com/kellyleeowens/ "Kelly Lee Owens' FB page") is here, and the listening is easy. Travel a new map along roads that you thought you knew, experiencing everything and nothing as each moment glides by. Explore their interstitial spaces, escaping invisible limits and paths too well travelled. Feel the colours, the beauty, the motion.
 

@@ -1,40 +1,50 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Inès
 illustrator: Anthony Dujardin
 writer: Inès
-category: '374'
 guest_name: Jermango Dreaming
 guest_color: bliss
-track1_link: https://sounds.mailta.pe/374/track1.mp3
-track2_link: https://sounds.mailta.pe/374/track2.mp3
-track3_link: https://sounds.mailta.pe/374/track3.mp3
-track4_link: https://sounds.mailta.pe/374/track4.mp3
-track5_link: https://sounds.mailta.pe/374/track5.mp3
-track6_link: https://sounds.mailta.pe/374/track6.mp3
-track7_link: https://sounds.mailta.pe/374/track7.mp3
-track1_title: Column - Sensuela
-track1_color: dreamy
-track2_title: Poison Abbey - Upmarket
-track2_color: vibrant
-track3_title: Men I Trust - Numb
-track3_color: dreamy
-track4_title: Jermango Dreaming - Breeze
-track4_color: vibrant
-track5_title: Shane Tyler - Lemurian Promenade
-track5_color: bliss
-track6_title: Domenique Dumont - Sans cesse, mon chéri
-track6_color: bliss
-track7_title: MUNYA - Dove
-track7_color: dreamy
-guestPic: guestPic374.jpg
-episode_URL: https://www.mailta.pe/374/jermango-dreaming/
-musiColor: musiColor374.png
-image: https://www.mailta.pe/img/fbPic374.png
-description: This morning, please welcome Jermango Dreaming and his popping selection as our guest for this episode.  Jermango Dreaming is the project of Jermaine Sakr, an Australian artist making dreamy pop music, groovy and laid back.  This selection is both melancholic and upbeat. It is pure and feels whole. With days becoming colder and shorter, use this selection to help you embrace it.
-pubDate: '2019-10-06'
+guestPic: /img/guestpic374.jpg
+musiColor: /img/musicolor374.png
+image: /img/fbpic374.png
+description: This morning, please welcome Jermango Dreaming and his popping
+  selection as our guest for this episode.  Jermango Dreaming is the project of
+  Jermaine Sakr, an Australian artist making dreamy pop music, groovy and laid
+  back.  This selection is both melancholic and upbeat. It is pure and feels
+  whole. With days becoming colder and shorter, use this selection to help you
+  embrace it.
+pubDate: 2019-10-06
+track1:
+  title: Column - Sensuela
+  color: dreamy
+  link: https://sounds.mailta.pe/374/track1.mp3
+track2:
+  title: Poison Abbey - Upmarket
+  color: vibrant
+  link: https://sounds.mailta.pe/374/track2.mp3
+track3:
+  title: Men I Trust - Numb
+  color: dreamy
+  link: https://sounds.mailta.pe/374/track3.mp3
+track4:
+  title: Jermango Dreaming - Breeze
+  color: vibrant
+  link: https://sounds.mailta.pe/374/track4.mp3
+track5:
+  title: Shane Tyler - Lemurian Promenade
+  color: bliss
+  link: https://sounds.mailta.pe/374/track5.mp3
+track6:
+  title: Domenique Dumont - Sans cesse, mon chéri
+  color: bliss
+  link: https://sounds.mailta.pe/374/track6.mp3
+track7:
+  title: MUNYA - Dove
+  color: dreamy
+  link: https://sounds.mailta.pe/374/track7.mp3
+release: 374
 ---
 This morning, please welcome Jermango Dreaming and his popping selection as our guest for this episode. 
 <br><br>

@@ -1,40 +1,47 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
-category: '381'
 author: ImaCrea
 illustrator: Pierre-Julien Fieux
 writer: Daisy
 guest_name: Mischa Blanos
 guest_color: dreamy
-track1_link: https://sounds.mailta.pe/381/track1.mp3
-track2_link: https://sounds.mailta.pe/381/track2.mp3
-track3_link: https://sounds.mailta.pe/381/track3.mp3
-track1_title: Toshio Matsuura Group - Change
-track2_title: Dictaphone - 105.4
-track3_title: Mehliana (Brad Mehldau & Mark Guiliana) - Just Call Me Nige (Live)
-track4_link: https://sounds.mailta.pe/381/track4.mp3
-track4_title: Mischa Blanos - Two Sugar Cubes
-track5_link: https://sounds.mailta.pe/381/track5.mp3
-track5_title: Floating Points - Falaise
-track6_link: https://sounds.mailta.pe/381/track6.mp3
-track7_link: https://sounds.mailta.pe/381/track7.mp3
-track7_title: Philip Glass - Vessels
-track6_title: Fennesz - We Trigger the Sun
-track1_color: vibrant
-track2_color: dreamy
-track3_color: bliss
-track4_color: dreamy
-track5_color: bliss
-track6_color: dreamy
-track7_color: bliss
-guestPic: guestPic381.jpg
-description: This morning there's no rush to decide which side of consciousness you're on. Pianist, composer and producer Mischa Blanos is here to be your weightless anchor between states and realities.
-episode_URL: https://www.mailta.pe/381/mischa-blanos/
-image: https://www.mailta.pe/img/fbPic381.png
-musiColor: musiColor381.png
-pubDate: '2019-11-24'
+guestPic: /img/guestpic381.jpg
+description: This morning there's no rush to decide which side of consciousness
+  you're on. Pianist, composer and producer Mischa Blanos is here to be your
+  weightless anchor between states and realities.
+image: /img/fbpic381.png
+musiColor: /img/musicolor381.png
+pubDate: 2019-11-24
+track1:
+  title: Toshio Matsuura Group - Change
+  color: vibrant
+  link: https://sounds.mailta.pe/381/track1.mp3
+track2:
+  title: Dictaphone - 105.4
+  color: dreamy
+  link: https://sounds.mailta.pe/381/track2.mp3
+track3:
+  title: Mehliana (Brad Mehldau & Mark Guiliana) - Just Call Me Nige (Live)
+  color: bliss
+  link: https://sounds.mailta.pe/381/track3.mp3
+track4:
+  title: Mischa Blanos - Two Sugar Cubes
+  color: dreamy
+  link: https://sounds.mailta.pe/381/track4.mp3
+track5:
+  title: Floating Points - Falaise
+  color: bliss
+  link: https://sounds.mailta.pe/381/track5.mp3
+track6:
+  title: Fennesz - We Trigger the Sun
+  color: dreamy
+  link: https://sounds.mailta.pe/381/track6.mp3
+track7:
+  title: Philip Glass - Vessels
+  color: bliss
+  link: https://sounds.mailta.pe/381/track7.mp3
+release: 381
 ---
 This morning there's no rush to decide which side of consciousness you're on. Pianist, composer and producer [Mischa Blanos](https://mischablanos.com/) is here to be your weightless anchor between states and realities.
   

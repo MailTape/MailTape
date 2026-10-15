@@ -1,40 +1,48 @@
 ---
-
-bigTitle_font_ratio: '6'
-track3_color: rough
-track3_title: The Blood Brothers - Trash Flavored Trash
-track2_color: dreamy
-track2_title: Adrien Pallot - quatre sept
-track1_color: bliss
-track1_title: Vitesse - A Way To My Redemption
-track3_link: https://sounds.mailta.pe/406/track3.mp3
-track2_link: https://sounds.mailta.pe/406/track2.mp3
-guestPic: guestPic406.jpg
+bigTitle_font_ratio: "6"
+guestPic: /img/guestpic406.jpg
 guest_color: trippy
-guest_name: 'Iñigo Montoya '
-category: '406'
+guest_name: "Iñigo Montoya "
 writer: Anaïs G
 illustrator: Thibault Daumain
 author: Anaïs G
 published: true
-track5_link: https://sounds.mailta.pe/406/track5.mp3
-track6_link: https://sounds.mailta.pe/406/track6.mp3
-track4_title: Iñigo Montoya - .E.S
-track4_color: trippy
-track5_title: Petit Fantome - Je ne reviendrais pas
-track5_color: vibrant
-track6_title: Jaune - La Lueur ( Ankierman Remix)
-track6_color: trippy
-track7_title: 'Ricky Hollywood - Le sens du sens '
-track7_color: dreamy
-episode_URL: http://mailta.pe/406/iñigo-montoya/
-image: https://www.mailta.pe/img/fbPic406.png
-musiColor: musiColor406.png
-track1_link: https://sounds.mailta.pe/406/track1.mp3
-track4_link: https://sounds.mailta.pe/406/track4.mp3
-track7_link: https://sounds.mailta.pe/406/track7.mp3
-description: This morning, we're everyday superheroes. We're trying to get back to a more "normal" life, little by little. Resume good habits by protecting yourself and others. And to accompany us in this new life, nothing like the group Iñigo Montoya to whisper in our ears its desires and its revolution.
-pubDate: '2020-05-17'
+image: /img/fbpic406.png
+musiColor: /img/musicolor406.png
+description: This morning, we're everyday superheroes. We're trying to get back
+  to a more "normal" life, little by little. Resume good habits by protecting
+  yourself and others. And to accompany us in this new life, nothing like the
+  group Iñigo Montoya to whisper in our ears its desires and its revolution.
+pubDate: 2020-05-17
+track1:
+  title: Vitesse - A Way To My Redemption
+  color: bliss
+  link: https://sounds.mailta.pe/406/track1.mp3
+track2:
+  title: Adrien Pallot - quatre sept
+  color: dreamy
+  link: https://sounds.mailta.pe/406/track2.mp3
+track3:
+  title: The Blood Brothers - Trash Flavored Trash
+  color: rough
+  link: https://sounds.mailta.pe/406/track3.mp3
+track4:
+  title: Iñigo Montoya - .E.S
+  color: trippy
+  link: https://sounds.mailta.pe/406/track4.mp3
+track5:
+  title: Petit Fantome - Je ne reviendrais pas
+  color: vibrant
+  link: https://sounds.mailta.pe/406/track5.mp3
+track6:
+  title: Jaune - La Lueur ( Ankierman Remix)
+  color: trippy
+  link: https://sounds.mailta.pe/406/track6.mp3
+track7:
+  title: "Ricky Hollywood - Le sens du sens "
+  color: dreamy
+  link: https://sounds.mailta.pe/406/track7.mp3
+release: 406
 ---
 
  

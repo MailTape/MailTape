@@ -1,40 +1,49 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Ludovic
 illustrator: Camille Célestin
 writer: ImaCrea
-track7_link: https://sounds.mailta.pe/223/track7.mp3
-track6_link: https://sounds.mailta.pe/223/track6.mp3
-track5_link: https://sounds.mailta.pe/223/track5.mp3
-track4_link: https://sounds.mailta.pe/223/track4.mp3
-track4_title: Fatima Yamaha - Half Moon Rising
-track5_title: Carter Black - Ride Slow
-track7_title: Jacques - Tout Est Magnifique
-track6_title: Laker Inspired - Forever
-episode_URL: https://www.mailta.pe/223/Fatima-Yamaha/
-image: https://www.mailta.pe/img/fbPic223.png
-musiColor: musiColor223.png
+image: /img/fbpic223.png
+musiColor: /img/musicolor223.png
 guest_name: Fatima Yamaha
-category: '223'
-track1_link: https://sounds.mailta.pe/223/track1.mp3
-track2_link: https://sounds.mailta.pe/223/track2.mp3
-track3_link: https://sounds.mailta.pe/223/track3.mp3
-track1_title: Belmer - Bioroid
-track2_title: Seymour Bits - Seymour Cray
-track3_title: Donnie - Wubbo Ockels
-track1_color: rough
-track2_color: rough
-track3_color: trippy
-track4_color: bliss
-track5_color: dreamy
-track6_color: dreamy
-track7_color: rough
-guestPic: guestPic223.jpg
+guestPic: /img/guestpic223.jpg
 guest_color: rough
-description: 'This morning is sunnier than ever. Nights are getting shorter and parties longer. As he did on the latest WeLoveGreen festival, Fatima Yamaha brings rays of sun with his energetic and trippy selection. Enjoy a lazy sunbath on the poolside with our complementary chill selection. Yes darling, it is for real: Summer is here.'
-pubDate: '2016-06-26'
+description: "This morning is sunnier than ever. Nights are getting shorter and
+  parties longer. As he did on the latest WeLoveGreen festival, Fatima Yamaha
+  brings rays of sun with his energetic and trippy selection. Enjoy a lazy
+  sunbath on the poolside with our complementary chill selection. Yes darling,
+  it is for real: Summer is here."
+pubDate: 2016-06-26
+track1:
+  title: Belmer - Bioroid
+  color: rough
+  link: https://sounds.mailta.pe/223/track1.mp3
+track2:
+  title: Seymour Bits - Seymour Cray
+  color: rough
+  link: https://sounds.mailta.pe/223/track2.mp3
+track3:
+  title: Donnie - Wubbo Ockels
+  color: trippy
+  link: https://sounds.mailta.pe/223/track3.mp3
+track4:
+  title: Fatima Yamaha - Half Moon Rising
+  color: bliss
+  link: https://sounds.mailta.pe/223/track4.mp3
+track5:
+  title: Carter Black - Ride Slow
+  color: dreamy
+  link: https://sounds.mailta.pe/223/track5.mp3
+track6:
+  title: Laker Inspired - Forever
+  color: dreamy
+  link: https://sounds.mailta.pe/223/track6.mp3
+track7:
+  title: Jacques - Tout Est Magnifique
+  color: rough
+  link: https://sounds.mailta.pe/223/track7.mp3
+release: 223
 ---
 This morning is sunnier than ever. Nights are getting shorter and parties longer. As he did on the latest WeLoveGreen festival, [Fatima Yamaha](https://www.facebook.com/FatimaYamaha/) brings rays of sun with his energetic and trippy selection. Enjoy a lazy sunbath on the poolside with our complementary chill selection. Yes darling, it is for real: Summer is here.
 

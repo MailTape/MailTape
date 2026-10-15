@@ -1,40 +1,47 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
-category: '303'
 guest_name: Calypso Valois
 guest_color: vibrant
-track1_link: https://sounds.mailta.pe/303/track1.mp3
-track2_link: https://sounds.mailta.pe/303/track2.mp3
-track3_link: https://sounds.mailta.pe/303/track3.mp3
-track4_link: https://sounds.mailta.pe/303/track4.mp3
-track5_link: https://sounds.mailta.pe/303/track5.mp3
-track6_link: https://sounds.mailta.pe/303/track6.mp3
-track7_link: https://sounds.mailta.pe/303/track7.mp3
 writer: ImaCrea
 author: Manon
 illustrator: William Girault
-track3_color: trippy
-track4_color: vibrant
-track6_color: rough
-track7_color: dreamy
-track1_title: Chopin - Etude po. 25 n. 11 ‘Le Vent d’Hiver’
-track2_title: Karl Heinz Schäfer - Exterieur, Exterieur Nuit
-track3_title: The Beegees - You Should Be Dancing
-track4_title: Calypso Valois - Le Jour
-track5_title: Khruangbin - Cómo Me Quieres
-track6_title: Petula Clark - La Nuit N’en Finit Plus
-track7_title: Soft Cell - Say Hello Wave Goodbye
-track1_color: vibrant
-track2_color: vibrant
-track5_color: trippy
-episode_URL: http://mailta.pe/303/Calypso-Valois/
-guestPic: guestpic303.jpg
-image: https://www.mailta.pe/img/fbpic303.png
-musiColor: musiColor303.png
-description: This morning in our new episode, we enter into the world of movies.  And to guide us in our journey, I’m delighted to have Calypso Valois as our guest.
-pubDate: '2018-03-11'
+guestPic: /img/guestpic303.jpg
+image: /img/fbpic303.png
+musiColor: /img/musicolor303.png
+description: This morning in our new episode, we enter into the world of
+  movies.  And to guide us in our journey, I’m delighted to have Calypso Valois
+  as our guest.
+pubDate: 2018-03-11
+track1:
+  title: Chopin - Etude po. 25 n. 11 ‘Le Vent d’Hiver’
+  color: vibrant
+  link: https://sounds.mailta.pe/303/track1.mp3
+track2:
+  title: Karl Heinz Schäfer - Exterieur, Exterieur Nuit
+  color: vibrant
+  link: https://sounds.mailta.pe/303/track2.mp3
+track3:
+  title: The Beegees - You Should Be Dancing
+  color: trippy
+  link: https://sounds.mailta.pe/303/track3.mp3
+track4:
+  title: Calypso Valois - Le Jour
+  color: vibrant
+  link: https://sounds.mailta.pe/303/track4.mp3
+track5:
+  title: Khruangbin - Cómo Me Quieres
+  color: trippy
+  link: https://sounds.mailta.pe/303/track5.mp3
+track6:
+  title: Petula Clark - La Nuit N’en Finit Plus
+  color: rough
+  link: https://sounds.mailta.pe/303/track6.mp3
+track7:
+  title: Soft Cell - Say Hello Wave Goodbye
+  color: dreamy
+  link: https://sounds.mailta.pe/303/track7.mp3
+release: 303
 ---
 This morning in our new episode, we enter into the world of movies. And to guide us in our journey, I'm delighted to have [Calypso Valois](https://www.facebook.com/calypsovalois/ "Calypso Valois's Facebook page") as our guest. Calypso Valois seems to be one of those timeless artists. Elli And Jacno's daughter, Etienne Daho's goddaughter, she naturally follows the lead of her elders, and continues their mission to magnify the French language.
 

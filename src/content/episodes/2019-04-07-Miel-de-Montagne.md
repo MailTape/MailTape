@@ -1,41 +1,49 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Anaïs G
 illustrator: Anthony Dujardin
 writer: Anaïs G
 guest_name: Miel de Montagne
-track7_link: https://sounds.mailta.pe/352/track7.mp3
-track6_link: https://sounds.mailta.pe/352/track6.mp3
-track5_link: https://sounds.mailta.pe/352/track5.mp3
-track4_link: https://sounds.mailta.pe/352/track4.mp3
-track4_title: Miel de Montagne - Ces Rêves
-track4_color: dreamy
-track5_title: Serge Gainsbourg - Melody Nelson ( Molécule Remix)
-track5_color: bliss
-track6_title: Ricky Hollywood - Coule feat Toror Azor
-track6_color: dreamy
-track7_title: Pion - Déluge ( Iñigo Montoya Remix)
-track7_color: trippy
-track1_title: 'Black Sabbath - Planet Caravan '
-track1_color: dreamy
-track2_title: Santo & Johnny - Sleep Walk
-track2_color: bliss
-track3_title: 'Mark Ayres - Lethal Weapon Theme '
-track3_color: vibrant
-category: '352'
-episode_URL: http://mailta.pe/352/Miel-de-Montagne
 guest_color: dreamy
-track1_link: https://sounds.mailta.pe/352/Track%201.mp3
-track2_link: https://sounds.mailta.pe/352/Track%202.mp3
-track3_link: https://sounds.mailta.pe/352/Track%203.mp3
-guestPic: guestPic352.jpg
-image: https://www.mailta.pe/img/fbPic352.png
-musiColor: musiColor352.png
-description: This morning, the atmosphere is light almost aerial, like the whipped cream that is on my boyfriend’s birthday cake. With imagination we could almost find ourselves hovering and swimming inside surrounded by love and voluptuousness. Actually, the universe of our guest this morning, Miel de Montagne, is a bit like this whipped cream, where I enjoy cake.
-
-pubDate: '2019-04-07'
+guestPic: /img/guestpic352.jpg
+image: /img/fbpic352.png
+musiColor: /img/musicolor352.png
+description: This morning, the atmosphere is light almost aerial, like the
+  whipped cream that is on my boyfriend’s birthday cake. With imagination we
+  could almost find ourselves hovering and swimming inside surrounded by love
+  and voluptuousness. Actually, the universe of our guest this morning, Miel de
+  Montagne, is a bit like this whipped cream, where I enjoy cake.
+pubDate: 2019-04-07
+track1:
+  title: "Black Sabbath - Planet Caravan "
+  color: dreamy
+  link: https://sounds.mailta.pe/352/Track%201.mp3
+track2:
+  title: Santo & Johnny - Sleep Walk
+  color: bliss
+  link: https://sounds.mailta.pe/352/Track%202.mp3
+track3:
+  title: "Mark Ayres - Lethal Weapon Theme "
+  color: vibrant
+  link: https://sounds.mailta.pe/352/Track%203.mp3
+track4:
+  title: Miel de Montagne - Ces Rêves
+  color: dreamy
+  link: https://sounds.mailta.pe/352/track4.mp3
+track5:
+  title: Serge Gainsbourg - Melody Nelson ( Molécule Remix)
+  color: bliss
+  link: https://sounds.mailta.pe/352/track5.mp3
+track6:
+  title: Ricky Hollywood - Coule feat Toror Azor
+  color: dreamy
+  link: https://sounds.mailta.pe/352/track6.mp3
+track7:
+  title: Pion - Déluge ( Iñigo Montoya Remix)
+  color: trippy
+  link: https://sounds.mailta.pe/352/track7.mp3
+release: 352
 ---
  This morning, the atmosphere is light almost aerial, like the whipped cream that is on my boyfriend’s birthday cake. With imagination we could almost find ourselves hovering and swimming inside surrounded by love and voluptuousness. Actually, the universe of our guest this morning, Miel de Montagne, is a bit like this whipped cream, where I enjoy cake.
   

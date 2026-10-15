@@ -1,40 +1,51 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
-category: '324'
 guest_name: Flavien Berger
 guest_color: trippy
 author: ImaCrea
 writer: ImaCrea
-track1_link: https://sounds.mailta.pe/324/track1.mp3
-track2_link: https://sounds.mailta.pe/324/track2.mp3
-track3_link: https://sounds.mailta.pe/324/track3.mp3
-track4_link: https://sounds.mailta.pe/324/track4.mp3
-track1_title: Catherine Deneuve - Digital Delay
-track2_title: Laraaji - All of a Sudden
-track3_title: Yves Tumor - Limerence
-track4_title: Flavien Berger - 999999999
-track5_link: https://sounds.mailta.pe/324/track5.mp3
-guestPic: guestPic324.jpg
-track5_title: Begayer - Le premier jour de l'année
-track6_link: https://sounds.mailta.pe/324/track6.mp3
-track7_link: https://sounds.mailta.pe/324/track7.mp3
-track6_title: Arutani - The Mermaid Girl ft. ĂVEM
-track7_title: Tessela - Glisten
-episode_URL: https://www.mailta.pe/324/flavien-berger/
-track1_color: dreamy
-track2_color: trippy
-track3_color: dreamy
-track4_color: trippy
-track5_color: bliss
-track6_color: dreamy
-track7_color: rough
+guestPic: /img/guestpic324.jpg
 illustrator: Pierre-Julien Fieux
-image: https://www.mailta.pe/img/fbPic324.png
-musiColor: musiColor324.png
-description: This morning, we have the immense pleasure to invite Flavien Berger. Following his work since a while, at the occasion of his new album he takes the time to share with us a somewhat of a nostalgic morning trip. From past to present, change appears to be the main theme here. Maybe because of the context of this episode. It’s not a mystery anymore, earth is on the verge of a collapse. We can’t keep on, there’s a urgent need to change our way of living. Here are some vibes to help you find the energy to fight with love.
-pubDate: '2018-09-23'
+image: /img/fbpic324.png
+musiColor: /img/musicolor324.png
+description: This morning, we have the immense pleasure to invite Flavien
+  Berger. Following his work since a while, at the occasion of his new album he
+  takes the time to share with us a somewhat of a nostalgic morning trip. From
+  past to present, change appears to be the main theme here. Maybe because of
+  the context of this episode. It’s not a mystery anymore, earth is on the verge
+  of a collapse. We can’t keep on, there’s a urgent need to change our way of
+  living. Here are some vibes to help you find the energy to fight with love.
+pubDate: 2018-09-23
+track1:
+  title: Catherine Deneuve - Digital Delay
+  color: dreamy
+  link: https://sounds.mailta.pe/324/track1.mp3
+track2:
+  title: Laraaji - All of a Sudden
+  color: trippy
+  link: https://sounds.mailta.pe/324/track2.mp3
+track3:
+  title: Yves Tumor - Limerence
+  color: dreamy
+  link: https://sounds.mailta.pe/324/track3.mp3
+track4:
+  title: Flavien Berger - 999999999
+  color: trippy
+  link: https://sounds.mailta.pe/324/track4.mp3
+track5:
+  title: Begayer - Le premier jour de l'année
+  color: bliss
+  link: https://sounds.mailta.pe/324/track5.mp3
+track6:
+  title: Arutani - The Mermaid Girl ft. ĂVEM
+  color: dreamy
+  link: https://sounds.mailta.pe/324/track6.mp3
+track7:
+  title: Tessela - Glisten
+  color: rough
+  link: https://sounds.mailta.pe/324/track7.mp3
+release: 324
 ---
 This morning, we have the immense pleasure to invite [Flavien Berger](https://paneuropeanrecording.bandcamp.com/album/contre-temps-2). Following his work since a while, at the occasion of his new album he takes the time to share with us a somewhat of a nostalgic morning trip. 
 <br><br>

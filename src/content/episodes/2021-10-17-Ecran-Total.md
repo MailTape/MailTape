@@ -1,40 +1,49 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
-track1_title: Robert Wyatt - Sea Song
-track2_title: Mathieu Boogaerts - Super
-track3_title: Bigott - Pavement Tree
-track4_title: Écran Total - Finie la fête
-track5_title: Юлия Накарякова - Здравствуй
-track6_title: Yellow Magic Orchestra - Rydeen
-track1_link: https://sounds.mailta.pe/466/track1.mp3
-track2_link: https://sounds.mailta.pe/466/track2.mp3
-track3_link: https://sounds.mailta.pe/466/track3.mp3
-track4_link: https://sounds.mailta.pe/466/track4.mp3
-track5_link: https://sounds.mailta.pe/466/track5.mp3
-track6_link: https://sounds.mailta.pe/466/track6.mp3
-track7_link: https://sounds.mailta.pe/466/track7.mp3
-track7_title: Black Moth Super Rainbow - Melody For Color Spectrum
-category: '466'
 guest_name: Écran Total
 writer: ImaCrea
 illustrator: Thibault Daumain
 author: ImaCrea
 guest_color: vibrant
-guestPic: guestPic466.jpg
-track1_color: trippy
-track2_color: vibrant
-track3_color: vibrant
-track4_color: vibrant
-track5_color: vibrant
-track6_color: vibrant
-track7_color: trippy
-episode_URL: https://www.mailta.pe/466/Ecran-Total/
-description: This morning, please welcome Camille & Margaux from Écran Total. With their first album, Schaerbeek Love, they share with us this gentle vibe so particular in the early days following the meeting of two spirits. Innocent and groovy, today's episode is an ode to sunshine and love. Let the music play!
-musiColor: musiColor466.png
-image: https://www.mailta.pe/img/fbPic466.jpg
-pubDate: '2021-10-17'
+guestPic: /img/guestpic466.jpg
+description: This morning, please welcome Camille & Margaux from Écran Total.
+  With their first album, Schaerbeek Love, they share with us this gentle vibe
+  so particular in the early days following the meeting of two spirits. Innocent
+  and groovy, today's episode is an ode to sunshine and love. Let the music
+  play!
+musiColor: /img/musicolor466.png
+image: /img/fbpic466.jpg
+pubDate: 2021-10-17
+track1:
+  title: Robert Wyatt - Sea Song
+  color: trippy
+  link: https://sounds.mailta.pe/466/track1.mp3
+track2:
+  title: Mathieu Boogaerts - Super
+  color: vibrant
+  link: https://sounds.mailta.pe/466/track2.mp3
+track3:
+  title: Bigott - Pavement Tree
+  color: vibrant
+  link: https://sounds.mailta.pe/466/track3.mp3
+track4:
+  title: Écran Total - Finie la fête
+  color: vibrant
+  link: https://sounds.mailta.pe/466/track4.mp3
+track5:
+  title: Юлия Накарякова - Здравствуй
+  color: vibrant
+  link: https://sounds.mailta.pe/466/track5.mp3
+track6:
+  title: Yellow Magic Orchestra - Rydeen
+  color: vibrant
+  link: https://sounds.mailta.pe/466/track6.mp3
+track7:
+  title: Black Moth Super Rainbow - Melody For Color Spectrum
+  color: trippy
+  link: https://sounds.mailta.pe/466/track7.mp3
+release: 466
 ---
 This morning, please welcome Camille & Margaux from [Écran Total](https://ecrantotalmusique.bandcamp.com). With their first album, [Schaerbeek Love](https://ecrantotalmusique.bandcamp.com/album/schaerbeek-love), they share with us this gentle vibe so particular in the early days following the meeting of two spirits. Innocent and groovy, today's episode is an ode to sunshine and love. Let the music play!
 

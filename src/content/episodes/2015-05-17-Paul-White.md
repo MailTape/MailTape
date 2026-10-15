@@ -1,39 +1,46 @@
 ---
-
 published: true
 author: ImaCrea
 guest_color: dreamy
-bigTitle_font_ratio: '5'
-bigTitle_line_ratio: '0.6'
-track1_color: dreamy
-track2_color: vibrant
-track3_color: rough
-track4_color: dreamy
-track5_color: bliss
-track6_color: trippy
-track7_color: bliss
-track1_link: https://sounds.mailta.pe/186/track1.mp3
-track2_link: https://sounds.mailta.pe/186/track2.mp3
-track3_link: https://sounds.mailta.pe/186/track3.mp3
-category: '186'
+bigTitle_font_ratio: "5"
+bigTitle_line_ratio: "0.6"
 guest_name: Paul White
-track1_title: Georgia Anne Muldrow - Run Away
-track2_title: Bob Marley - Three Little Birds
-track3_title: Tame Impala - Be Above It
-track4_link: https://sounds.mailta.pe/186/track4.mp3
-track5_link: https://sounds.mailta.pe/186/track5.mp3
-track6_link: https://sounds.mailta.pe/186/track6.mp3
-track7_link: https://sounds.mailta.pe/186/track7.mp3
-track4_title: Paul White - Running On A Rainy Day (Seagull Mansion live)
-track5_title: ESKA - Heroes & Villains
-track6_title: James Clarke - Mystery Movement
-track7_title: µ-Ziq - XT
-guestPic: guestPic186.jpg
-episode_URL: http://mailta.pe/186/Paul-White/
-image: https://www.mailta.pe/img/fbPic186.jpg
-musiColor: musiColor186.png
-description: This morning, enjoy a selection filled with great positive vibes. Paul White inspired us a beautiful and soulful playlist that will warm you up with all you need to go outside enjoy the sun and spread your energy around.
-pubDate: '2015-05-17'
+guestPic: /img/guestpic186.jpg
+image: /img/fbpic186.jpg
+musiColor: /img/musicolor186.png
+description: This morning, enjoy a selection filled with great positive vibes.
+  Paul White inspired us a beautiful and soulful playlist that will warm you up
+  with all you need to go outside enjoy the sun and spread your energy around.
+pubDate: 2015-05-17
+track1:
+  title: Georgia Anne Muldrow - Run Away
+  color: dreamy
+  link: https://sounds.mailta.pe/186/track1.mp3
+track2:
+  title: Bob Marley - Three Little Birds
+  color: vibrant
+  link: https://sounds.mailta.pe/186/track2.mp3
+track3:
+  title: Tame Impala - Be Above It
+  color: rough
+  link: https://sounds.mailta.pe/186/track3.mp3
+track4:
+  title: Paul White - Running On A Rainy Day (Seagull Mansion live)
+  color: dreamy
+  link: https://sounds.mailta.pe/186/track4.mp3
+track5:
+  title: ESKA - Heroes & Villains
+  color: bliss
+  link: https://sounds.mailta.pe/186/track5.mp3
+track6:
+  title: James Clarke - Mystery Movement
+  color: trippy
+  link: https://sounds.mailta.pe/186/track6.mp3
+track7:
+  title: µ-Ziq - XT
+  color: bliss
+  link: https://sounds.mailta.pe/186/track7.mp3
+release: 186
 ---
 
 

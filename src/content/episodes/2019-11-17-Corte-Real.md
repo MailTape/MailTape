@@ -1,40 +1,59 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Jules
 illustrator: Camille Célestin
 writer: Jules
-category: '380'
 guest_name: Corte Real
 guest_color: dreamy
-episode_URL: https://www.mailta.pe/380/corte-real/
-track1_link: https://sounds.mailta.pe/380/track1.mp3
-track1_title: Leonard Cohen - I Left A Woman Waiting
-track1_color: bliss
-track2_title: Bert Jansch - In My Mind
-track3_title: Ali Danel - La Nuit Qui Vient
-track4_title: Corte Real - Pays Vaincu
-track4_color: dreamy
-track5_title: Philémon Cimon - Les Pommiers Envahis
-track5_color: vibrant
-track6_title: OHIO - Ohio
-track6_color: dreamy
-track7_title: The Velvet Underground - I Found A Reason
-track7_color: bliss
-track5_link: https://sounds.mailta.pe/380/track5.mp3
-track7_link: https://sounds.mailta.pe/380/track7.mp3
-track3_color: bliss
-track4_link: https://sounds.mailta.pe/380/track4.mp3
-track3_link: https://sounds.mailta.pe/380/track3.mp3
-track2_link: https://sounds.mailta.pe/380/track2.mp3
-track2_color: trippy
-track6_link: https://sounds.mailta.pe/380/track6.mp3
-musiColor: musiColor380.png
-description: This morning, we are setting sail again at the very first light of dawn with Corte Real, without knowing where or when we will come back. The Versailles-based group is finally releasing its first album "Pays Vaincus" on November 22nd, it includes the track "Opium" that we already featured in our dreamy 353rd episode. I remember discovering this song on a compilation of the French & francophone pop underground label La Souterraine and being immediately transported to a dark, smoky tavern in the port of some island on the other side of the world. I am very happy that Tanguy, Corte Real's founder, singer, lyricist and composer, has agreed to participate in this episode while at sea. Tanguy is a naval officer on an aircraft carrier. Most of Corte Real's songs were written during his long overseas trips around the world, they evoke the mysteries of exoticism, the time stretching over the infinity of the ocean, and express joy and homesickness at the same time. This morning we are embarking with him, get prepared to be soothed by melancholic waves, overwhelmed by the sea spray and the wind of adventure!
-image: https://www.mailta.pe/img/fbPic380.png
-guestPic: guestPic380.jpg
-pubDate: '2019-11-17'
+musiColor: /img/musicolor380.png
+description: This morning, we are setting sail again at the very first light of
+  dawn with Corte Real, without knowing where or when we will come back. The
+  Versailles-based group is finally releasing its first album "Pays Vaincus" on
+  November 22nd, it includes the track "Opium" that we already featured in our
+  dreamy 353rd episode. I remember discovering this song on a compilation of the
+  French & francophone pop underground label La Souterraine and being
+  immediately transported to a dark, smoky tavern in the port of some island on
+  the other side of the world. I am very happy that Tanguy, Corte Real's
+  founder, singer, lyricist and composer, has agreed to participate in this
+  episode while at sea. Tanguy is a naval officer on an aircraft carrier. Most
+  of Corte Real's songs were written during his long overseas trips around the
+  world, they evoke the mysteries of exoticism, the time stretching over the
+  infinity of the ocean, and express joy and homesickness at the same time. This
+  morning we are embarking with him, get prepared to be soothed by melancholic
+  waves, overwhelmed by the sea spray and the wind of adventure!
+image: /img/fbpic380.png
+guestPic: /img/guestpic380.jpg
+pubDate: 2019-11-17
+track1:
+  title: Leonard Cohen - I Left A Woman Waiting
+  color: bliss
+  link: https://sounds.mailta.pe/380/track1.mp3
+track2:
+  title: Bert Jansch - In My Mind
+  color: trippy
+  link: https://sounds.mailta.pe/380/track2.mp3
+track3:
+  title: Ali Danel - La Nuit Qui Vient
+  color: bliss
+  link: https://sounds.mailta.pe/380/track3.mp3
+track4:
+  title: Corte Real - Pays Vaincu
+  color: dreamy
+  link: https://sounds.mailta.pe/380/track4.mp3
+track5:
+  title: Philémon Cimon - Les Pommiers Envahis
+  color: vibrant
+  link: https://sounds.mailta.pe/380/track5.mp3
+track6:
+  title: OHIO - Ohio
+  color: dreamy
+  link: https://sounds.mailta.pe/380/track6.mp3
+track7:
+  title: The Velvet Underground - I Found A Reason
+  color: bliss
+  link: https://sounds.mailta.pe/380/track7.mp3
+release: 380
 ---
  This morning, we are setting sail again at the very first light of dawn with [Corte Real](https://www.facebook.com/corterealmusic/), without knowing when we will come back. The Versailles-based group is finally releasing its first album "Pays Vaincus" on November 22nd, it includes the track "Opium" that we already featured in our dreamy [353rd episode](https://www.mailta.pe/353/skinshape/).
 <br><br>

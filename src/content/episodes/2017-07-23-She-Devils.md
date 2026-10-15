@@ -1,40 +1,50 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: ImaCrea
 illustrator: Camille Célestin
-category: '270'
 guest_name: She-Devils
-track1_link: https://sounds.mailta.pe/270/track1.mp3
-track2_link: https://sounds.mailta.pe/270/track2.mp3
-track3_link: https://sounds.mailta.pe/270/track3.mp3
-track1_title: Ramzi - Majestic Zouk
-track2_title: Seth Bogart - Club With Me
-track3_title: Guy's# - When You Call Me
-track1_color: trippy
-track2_color: vibrant
-track3_color: trippy
-track4_link: https://sounds.mailta.pe/270/track4.mp3
-track4_title: She-Devils - Darling
-track4_color: bliss
-track5_link: https://sounds.mailta.pe/270/track5.mp3
-track5_title: Yellow Days - That Easy
-track5_color: bliss
-track6_title: Mons Vi - Want Me Too
-track6_link: https://sounds.mailta.pe/270/track6.mp3
-track7_link: https://sounds.mailta.pe/270/track7.mp3
-track7_title: ' Tabu Ley Rochereau - Hafi Deo '
-track7_color: vibrant
-track6_color: bliss
 writer: ImaCrea
 guest_color: trippy
-guestPic: guestPic270.jpg
-description: 'This morning, whether you’re on holidays enjoying the sun or trekking on a mountain or still recovering from a hangover or on a regular Sunday at home, we got you covered. This kaleidoscopic selection inspired by She-Devils our punk friends from Argentina, will shake you up, surprise you and make you dance. As they say: “put your trust on me, I won’t let you fall”.'
-image: https://www.mailta.pe/img/fbPic270.png
-episode_URL: https://www.mailta.pe/270/she-devils/
-musiColor: musiColor270.png
-pubDate: '2017-07-23'
+guestPic: /img/guestpic270.jpg
+description: "This morning, whether you’re on holidays enjoying the sun or
+  trekking on a mountain or still recovering from a hangover or on a regular
+  Sunday at home, we got you covered. This kaleidoscopic selection inspired by
+  She-Devils our punk friends from Argentina, will shake you up, surprise you
+  and make you dance. As they say: “put your trust on me, I won’t let you
+  fall”."
+image: /img/fbpic270.png
+musiColor: /img/musicolor270.png
+pubDate: 2017-07-23
+track1:
+  title: Ramzi - Majestic Zouk
+  color: trippy
+  link: https://sounds.mailta.pe/270/track1.mp3
+track2:
+  title: Seth Bogart - Club With Me
+  color: vibrant
+  link: https://sounds.mailta.pe/270/track2.mp3
+track3:
+  title: Guy's# - When You Call Me
+  color: trippy
+  link: https://sounds.mailta.pe/270/track3.mp3
+track4:
+  title: She-Devils - Darling
+  color: bliss
+  link: https://sounds.mailta.pe/270/track4.mp3
+track5:
+  title: Yellow Days - That Easy
+  color: bliss
+  link: https://sounds.mailta.pe/270/track5.mp3
+track6:
+  title: Mons Vi - Want Me Too
+  color: bliss
+  link: https://sounds.mailta.pe/270/track6.mp3
+track7:
+  title: " Tabu Ley Rochereau - Hafi Deo "
+  color: vibrant
+  link: https://sounds.mailta.pe/270/track7.mp3
+release: 270
 ---
 
 This morning, whether you’re on holidays enjoying the sun or trekking on a mountain or still recovering from a hangover or on a regular Sunday at home, we got you covered. This kaleidoscopic selection inspired by [She-Devils](https://she-devilsinc.bandcamp.com), our punk-pop friends from Montreal, will shake you up, surprise you and make you dance. As they say: “put your trust on me, I won’t let you fall”.

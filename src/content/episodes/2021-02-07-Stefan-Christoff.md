@@ -1,40 +1,46 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Sanjay Mistry
 illustrator: Jason Pridham
 writer: Sanjay Mistry
-category: '437'
 guest_name: Stefan Christoff
 guest_color: dreamy
-track1_title: Nyathela ft. Luqua – TNS
-track1_color: bliss
-track2_title: DEMO FEST – Into the Night
-track2_color: trippy
-track3_title: Thomas Mapfumo – Haruna
-track3_color: dreamy
-track4_title: Sam Shalabi & Stefan Christoff  – Elephantine
-track4_color: dreamy
-track1_link: https://sounds.mailta.pe/437/track1.mp3
-track2_link: https://sounds.mailta.pe/437/track2.mp3
-track3_link: https://sounds.mailta.pe/437/track3.mp3
-track4_link: https://sounds.mailta.pe/437/track4.mp3
-track5_link: https://sounds.mailta.pe/437/track5.mp3
-track5_title: Murcof – Underwater Lament
-track5_color: dreamy
-track6_link: https://sounds.mailta.pe/437/track6.mp3
-track6_title: Sibusile Xaba – Wampona
-track6_color: trippy
-track7_title: Talvin Singh & Niladri Kumar – Ananta
-track7_color: bliss
-track7_link: https://sounds.mailta.pe/437/track7.mp3
-episode_URL: https://www.mailta.pe/437/stefan-christoff/
-description: This morning we welcome Stefan Christoff to select three groovy Sunday morning tunes with us on MailTape.
-guestPic: guestPic437.jpg
-image: https://www.mailta.pe/img/fbPic437.png
-musiColor: musiColor437.png
-pubDate: '2021-02-07'
+description: This morning we welcome Stefan Christoff to select three groovy
+  Sunday morning tunes with us on MailTape.
+guestPic: /img/guestpic437.jpg
+image: /img/fbpic437.png
+musiColor: /img/musicolor437.png
+pubDate: 2021-02-07
+track1:
+  title: Nyathela ft. Luqua – TNS
+  color: bliss
+  link: https://sounds.mailta.pe/437/track1.mp3
+track2:
+  title: DEMO FEST – Into the Night
+  color: trippy
+  link: https://sounds.mailta.pe/437/track2.mp3
+track3:
+  title: Thomas Mapfumo – Haruna
+  color: dreamy
+  link: https://sounds.mailta.pe/437/track3.mp3
+track4:
+  title: Sam Shalabi & Stefan Christoff  – Elephantine
+  color: dreamy
+  link: https://sounds.mailta.pe/437/track4.mp3
+track5:
+  title: Murcof – Underwater Lament
+  color: dreamy
+  link: https://sounds.mailta.pe/437/track5.mp3
+track6:
+  title: Sibusile Xaba – Wampona
+  color: trippy
+  link: https://sounds.mailta.pe/437/track6.mp3
+track7:
+  title: Talvin Singh & Niladri Kumar – Ananta
+  color: bliss
+  link: https://sounds.mailta.pe/437/track7.mp3
+release: 437
 ---
 This morning we welcome [Stefan Christoff](https://soundcloud.com/spirodon) to select three groovy Sunday morning tunes with us on MailTape. 
 <br><br>

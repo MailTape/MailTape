@@ -1,40 +1,45 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Anto
 illustrator: Meriam Kharbat
 writer: Anto
-category: '536'
 guest_name: Tommy Guerrero
 guest_color: trippy
-guestPic: guestPic536.png
-track1_link: https://sounds.mailta.pe/536/track1.mp3
-track2_link: https://sounds.mailta.pe/536/track2.mp3
-track3_link: https://sounds.mailta.pe/536/track3.mp3
-track4_link: https://sounds.mailta.pe/536/track4.mp3
-track5_link: https://sounds.mailta.pe/536/track5.mp3
-track6_link: https://sounds.mailta.pe/536/track6.mp3
-track7_link: https://sounds.mailta.pe/536/track7.mp3
-track1_title: Hysear Don Walker - Poo jo
-track1_color: bliss
-track2_title: Los Blonder - On The Beach
-track2_color: trippy
-track3_title: Yasuaki Shimizu - Kakashi
-track3_color: bliss
-track4_title: Tommy Guerrero - Future Deserts
-track4_color: trippy
-track5_title: Rockamovya – Take the night
-track5_color: vibrant
-track6_title: Les Agamemnonz – Les conseils de la fée des lilas
-track6_color: trippy
-track7_title: Boris Gardiner Happening – Breezin’
-track7_color: dreamy
-episode_URL: http://mailta.pe/536/tommy-guerrero/
-image: https://www.mailta.pe/img/fbPic536.jpg
-musiColor: musiColor536.png
+guestPic: /img/guestpic536.png
+image: /img/fbpic536.jpg
+musiColor: /img/musicolor536.png
 description: This morning, we're riding with Tommy Guerrero on the road to good vibes.
-pubDate: '2023-10-01'
+pubDate: 2023-10-01
+track1:
+  title: Hysear Don Walker - Poo jo
+  color: bliss
+  link: https://sounds.mailta.pe/536/track1.mp3
+track2:
+  title: Los Blonder - On The Beach
+  color: trippy
+  link: https://sounds.mailta.pe/536/track2.mp3
+track3:
+  title: Yasuaki Shimizu - Kakashi
+  color: bliss
+  link: https://sounds.mailta.pe/536/track3.mp3
+track4:
+  title: Tommy Guerrero - Future Deserts
+  color: trippy
+  link: https://sounds.mailta.pe/536/track4.mp3
+track5:
+  title: Rockamovya – Take the night
+  color: vibrant
+  link: https://sounds.mailta.pe/536/track5.mp3
+track6:
+  title: Les Agamemnonz – Les conseils de la fée des lilas
+  color: trippy
+  link: https://sounds.mailta.pe/536/track6.mp3
+track7:
+  title: Boris Gardiner Happening – Breezin’
+  color: dreamy
+  link: https://sounds.mailta.pe/536/track7.mp3
+release: 536
 ---
 
 This morning, we're riding with [Tommy Guerrero](https://tommyguerrero.bandcamp.com/) on the road to good vibes.

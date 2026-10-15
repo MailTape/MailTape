@@ -1,40 +1,47 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Inès
 illustrator: Pierre-Julien Fieux
 writer: PS KY
-category: '298'
 guest_name: JOEY FOURR
 guest_color: bliss
-track1_link: https://sounds.mailta.pe/298/track1.mp3
-track2_link: https://sounds.mailta.pe/298/track2.mp3
-track3_link: https://sounds.mailta.pe/298/track3.mp3
-track4_link: https://sounds.mailta.pe/298/track4.mp3
-track5_link: https://sounds.mailta.pe/298/track5.mp3
-track7_link: https://sounds.mailta.pe/298/track7.mp3
-track1_title: 'Saint Torrente - Calamus '
-track1_color: vibrant
-track2_title: Sateen - Finer Things
-track2_color: bliss
-track3_title: MX World - Everything's Fine
-track3_color: dreamy
-track4_title: JOEY FOURR - JEWELS
-track4_color: bliss
-track5_title: Common Body - Luck of the Draw
-track5_color: vibrant
-track6_color: vibrant
-track7_title: Aegean Sun - Feel Real
-track7_color: bliss
-track6_link: https://sounds.mailta.pe/298/track6.mp3
-track6_title: De Lux - 875 Dollars
-episode_URL: https://www.mailta.pe/298/joey-fourr/
-guestPic: guestPic298.jpg
-musiColor: musiColor298.png
-image: https://www.mailta.pe/img/fbPic298.png
-description: This morning, we bring you an electrifying and magnetic MailTape. Our guest Joey Fourr will thrust you out of your comfort zone with their poignant selection of moving vibrations with touching lyrics.
-pubDate: '2018-02-04'
+guestPic: /img/guestpic298.jpg
+musiColor: /img/musicolor298.png
+image: /img/fbpic298.png
+description: This morning, we bring you an electrifying and magnetic MailTape.
+  Our guest Joey Fourr will thrust you out of your comfort zone with their
+  poignant selection of moving vibrations with touching lyrics.
+pubDate: 2018-02-04
+track1:
+  title: "Saint Torrente - Calamus "
+  color: vibrant
+  link: https://sounds.mailta.pe/298/track1.mp3
+track2:
+  title: Sateen - Finer Things
+  color: bliss
+  link: https://sounds.mailta.pe/298/track2.mp3
+track3:
+  title: MX World - Everything's Fine
+  color: dreamy
+  link: https://sounds.mailta.pe/298/track3.mp3
+track4:
+  title: JOEY FOURR - JEWELS
+  color: bliss
+  link: https://sounds.mailta.pe/298/track4.mp3
+track5:
+  title: Common Body - Luck of the Draw
+  color: vibrant
+  link: https://sounds.mailta.pe/298/track5.mp3
+track6:
+  title: De Lux - 875 Dollars
+  color: vibrant
+  link: https://sounds.mailta.pe/298/track6.mp3
+track7:
+  title: Aegean Sun - Feel Real
+  color: bliss
+  link: https://sounds.mailta.pe/298/track7.mp3
+release: 298
 ---
 This morning, we bring you an electrifying and magnetic MailTape. Our guest [Joey Fourr](https://www.facebook.com/joeyfourr) will thrust you out of your comfort zone with their poignant selection of moving vibrations with touching lyrics.
 <p>Living for the finer things indeed. Striving for diamonds and pearls? Looking for love and fame? Just accept it. But just as there is no shame in wanting it all, there should be no shame in losing it all also.

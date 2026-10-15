@@ -1,40 +1,47 @@
 ---
-
-musiColor: musiColor416.png
-image: https://www.mailta.pe/img/fbPic416.png
-episode_URL: http://mailta.pe/416/dombrance/
-bigTitle_font_ratio: '6'
-guestPic: guestPic416.jpg
+musiColor: /img/musicolor416.png
+image: /img/fbpic416.png
+bigTitle_font_ratio: "6"
+guestPic: /img/guestpic416.jpg
 guest_color: trippy
 guest_name: Dombrance
-category: '416'
 illustrator: Jason Pridham
 author: Anaïs G
 published: true
 writer: Anaïs G
-track1_link: https://sounds.mailta.pe/416/track1.mp3
-track2_link: https://sounds.mailta.pe/416/track2.mp3
-track3_link: https://sounds.mailta.pe/416/track3.mp3
-track4_link: https://sounds.mailta.pe/416/track4.mp3
-track5_link: https://sounds.mailta.pe/416/track5.mp3
-track6_link: https://sounds.mailta.pe/416/track6.mp3
-track7_link: https://sounds.mailta.pe/416/track7.mp3
-track1_title: Pink Flyod - A Pillow Of Winds
-track1_color: dreamy
-track2_title: Dope Lemon - Hey You
-track2_color: dreamy
-track3_title: Andy Shauf - Neon Skyline
-track3_color: bliss
-track4_title: Dombrance - Taubira
-track4_color: dreamy
-track5_title: XXXIII - Encore Un Etrange Sentiment
-track5_color: trippy
-track6_title: 'Fulgeance - Ensemble '
-track6_color: bliss
-track7_title: Weval - The Weight
-track7_color: vibrant
-description: This morning, we don’t know if it’s madness or provocation, but what’s certain is that the love of music, party and politics (yes, you don’t dream, it’s possible) of our guest, doesn’t leave us indifferent.
-pubDate: '2020-09-13'
+description: This morning, we don’t know if it’s madness or provocation, but
+  what’s certain is that the love of music, party and politics (yes, you don’t
+  dream, it’s possible) of our guest, doesn’t leave us indifferent.
+pubDate: 2020-09-13
+track1:
+  title: Pink Flyod - A Pillow Of Winds
+  color: dreamy
+  link: https://sounds.mailta.pe/416/track1.mp3
+track2:
+  title: Dope Lemon - Hey You
+  color: dreamy
+  link: https://sounds.mailta.pe/416/track2.mp3
+track3:
+  title: Andy Shauf - Neon Skyline
+  color: bliss
+  link: https://sounds.mailta.pe/416/track3.mp3
+track4:
+  title: Dombrance - Taubira
+  color: dreamy
+  link: https://sounds.mailta.pe/416/track4.mp3
+track5:
+  title: XXXIII - Encore Un Etrange Sentiment
+  color: trippy
+  link: https://sounds.mailta.pe/416/track5.mp3
+track6:
+  title: "Fulgeance - Ensemble "
+  color: bliss
+  link: https://sounds.mailta.pe/416/track6.mp3
+track7:
+  title: Weval - The Weight
+  color: vibrant
+  link: https://sounds.mailta.pe/416/track7.mp3
+release: 416
 ---
 
 This morning, we don’t know if it’s madness or provocation, but what’s certain is that the love of music, party and politics (yes, you don’t dream, it’s possible) of our guest, doesn’t leave us indifferent. 

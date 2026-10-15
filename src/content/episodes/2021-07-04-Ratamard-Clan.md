@@ -1,40 +1,48 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Anaïs G
 writer: Anaïs G
 guest_name: Ratamard Clan
 guest_color: trippy
-guestPic: guestPic458.jpg
-track1_title: Bando - Wesh Gros
-track1_color: bliss
-track2_title: Pierre Perret - Au Café du Canal
-track2_color: dreamy
-track3_title: Meryl - BB Compte
-track3_color: bliss
-track4_title: Ratamard Clan - Nouveau Monde
-track5_title: KT Gorique - Brienne
-track6_title: Farlot - Plavon
-track7_title: Lombre - Espoir Noir
-episode_URL: http://mailta.pe/458/ratamard-clan/
-musiColor: musiColor458.png
-track7_color: vibrant
-track6_color: dreamy
-track5_color: vibrant
-track4_color: trippy
-image: https://www.mailta.pe/img/fbPic458.png
-track1_link: https://sounds.mailta.pe/458/track1.mp3
-track2_link: https://sounds.mailta.pe/458/track2.mp3
-track3_link: https://sounds.mailta.pe/458/track3.mp3
-track4_link: https://sounds.mailta.pe/458/track4.mp3
-track5_link: https://sounds.mailta.pe/458/track5.mp3
-track6_link: https://sounds.mailta.pe/458/track6.mp3
-track7_link: https://sounds.mailta.pe/458/track7.mp3
+guestPic: /img/guestpic458.jpg
+musiColor: /img/musicolor458.png
+image: /img/fbpic458.png
 illustrator: Noémie Dijon
-category: '458'
-description: This morning,we are tired, exhausted and washed away by this complicated year but finally ready for his much-deserved great holiday. It is with the joy of the world before that we will spend this Sunday with the Ratamard Clan  group.
-pubDate: '2021-07-04'
+description: This morning,we are tired, exhausted and washed away by this
+  complicated year but finally ready for his much-deserved great holiday. It is
+  with the joy of the world before that we will spend this Sunday with the
+  Ratamard Clan  group.
+pubDate: 2021-07-04
+track1:
+  title: Bando - Wesh Gros
+  color: bliss
+  link: https://sounds.mailta.pe/458/track1.mp3
+track2:
+  title: Pierre Perret - Au Café du Canal
+  color: dreamy
+  link: https://sounds.mailta.pe/458/track2.mp3
+track3:
+  title: Meryl - BB Compte
+  color: bliss
+  link: https://sounds.mailta.pe/458/track3.mp3
+track4:
+  title: Ratamard Clan - Nouveau Monde
+  color: trippy
+  link: https://sounds.mailta.pe/458/track4.mp3
+track5:
+  title: KT Gorique - Brienne
+  color: vibrant
+  link: https://sounds.mailta.pe/458/track5.mp3
+track6:
+  title: Farlot - Plavon
+  color: dreamy
+  link: https://sounds.mailta.pe/458/track6.mp3
+track7:
+  title: Lombre - Espoir Noir
+  color: vibrant
+  link: https://sounds.mailta.pe/458/track7.mp3
+release: 458
 ---
 
 This morning,we are tired, exhausted and washed away by this complicated year but finally ready for his much-deserved great holiday. It is with the joy of the world before that we will spend this Sunday with the [Ratamard Clan](https://www.facebook.com/Ratamardclan/) group. 

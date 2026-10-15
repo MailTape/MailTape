@@ -1,40 +1,50 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: ImaCrea
 illustrator: Patricia de Miranda
 writer: ImaCrea
-category: '548'
 guest_name: Holy Tongue
 guest_color: trippy
-guestPic: guestPic548.jpg
-track1_title: Astrid Øster Mortensen - Solen Er Et Lille Hus
-track1_color: trippy
-track2_title: Silvana Simone - Dimensione Ritmo
-track2_color: dreamy
-track3_title: Vasilisk - Photongnoul
-track3_color: bliss
-track4_title: Holy Tongue - Joachim
-track4_color: trippy
-track5_title: Masanori Oishi - Tatatata Duo
-track5_color: vibrant
-track6_title: Charmaine Lee - False Gravity
-track6_color: trippy
-track7_title: Chafouin - En mode Glass
-track7_color: bliss
-episode_URL: http://mailta.pe/548/Holy-Tongue/
-image: https://www.mailta.pe/img/fbPic548.jpg
-musiColor: musiColor548.png
-track1_link: https://sounds.mailta.pe/548/track1.mp3
-track2_link: https://sounds.mailta.pe/548/track2.mp3
-track3_link: https://sounds.mailta.pe/548/track3.mp3
-track4_link: https://sounds.mailta.pe/548/track4.mp3
-track5_link: https://sounds.mailta.pe/548/track5.mp3
-track6_link: https://sounds.mailta.pe/548/track6.mp3
-track7_link: https://sounds.mailta.pe/548/track7.mp3
-description: We're overjoyed to welcome Holy Tongue as our guests today. Their ethereal, entrancing music has captivated audiences worldwide, and we're honored to have them share their picks from some of their most cherished albums. Expect a cathartic episode filled with otherworldly sounds, hypnotic rhythms, and moments of pure transcendence. The river of sound is about to flow wildly, let's embark on this sonic journey together!
-pubDate: '2024-02-25'
+guestPic: /img/guestpic548.jpg
+image: /img/fbpic548.jpg
+musiColor: /img/musicolor548.png
+description: We're overjoyed to welcome Holy Tongue as our guests today. Their
+  ethereal, entrancing music has captivated audiences worldwide, and we're
+  honored to have them share their picks from some of their most cherished
+  albums. Expect a cathartic episode filled with otherworldly sounds, hypnotic
+  rhythms, and moments of pure transcendence. The river of sound is about to
+  flow wildly, let's embark on this sonic journey together!
+pubDate: 2024-02-25
+track1:
+  title: Astrid Øster Mortensen - Solen Er Et Lille Hus
+  color: trippy
+  link: https://sounds.mailta.pe/548/track1.mp3
+track2:
+  title: Silvana Simone - Dimensione Ritmo
+  color: dreamy
+  link: https://sounds.mailta.pe/548/track2.mp3
+track3:
+  title: Vasilisk - Photongnoul
+  color: bliss
+  link: https://sounds.mailta.pe/548/track3.mp3
+track4:
+  title: Holy Tongue - Joachim
+  color: trippy
+  link: https://sounds.mailta.pe/548/track4.mp3
+track5:
+  title: Masanori Oishi - Tatatata Duo
+  color: vibrant
+  link: https://sounds.mailta.pe/548/track5.mp3
+track6:
+  title: Charmaine Lee - False Gravity
+  color: trippy
+  link: https://sounds.mailta.pe/548/track6.mp3
+track7:
+  title: Chafouin - En mode Glass
+  color: bliss
+  link: https://sounds.mailta.pe/548/track7.mp3
+release: 548
 ---
 
 We're overjoyed to welcome [Holy Tongue](https://amidahrecords.bandcamp.com/album/deliveTongue) as our guests 

@@ -1,40 +1,48 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: ImaCrea
 illustrator: Meriam Kharbat
-category: '449'
 guest_name: Glenn Astro
-track1_link: https://sounds.mailta.pe/449/track1.mp3
-track2_link: https://sounds.mailta.pe/449/track2.mp3
-track3_link: https://sounds.mailta.pe/449/track3.mp3
-track4_link: https://sounds.mailta.pe/449/track4.mp3
-track1_title: Amaarae - SAD GIRLZ LUV MONEY (feat. Moliy)
-track2_title: Ross - Swallow your dreams
-track3_title: Erika de Casier - The Flow
-track4_title: Glenn Astro - MoStLy GhOsTlY
-track1_color: vibrant
-track2_color: bliss
-track3_color: dreamy
-track4_color: trippy
-track5_title: Luke Vibert - Batter Bits
-track7_link: https://sounds.mailta.pe/449/track7.mp3
-track5_link: https://sounds.mailta.pe/449/track5.mp3
-track7_title: Khalab & M'berra Ensemble - Skit Guit
-track6_title: Kelly Lee Owens - My Own
-track6_link: https://sounds.mailta.pe/449/track6.mp3
-track7_color: bliss
-track6_color: dreamy
-track5_color: trippy
 writer: ImaCrea
-image: https://www.mailta.pe/img/fbPic449.png
-episode_URL: https://www.mailta.pe/449/glenn-astro/
-musiColor: musiColor449.png
-description: This morning, let's have some actively collected intuitions distilled from love. Experimental, mystic, and joyful vibes as we start our trip with a colorful selection curated by Glenn Astro. Time to get out of the loop darling!
+image: /img/fbpic449.png
+musiColor: /img/musicolor449.png
+description: This morning, let's have some actively collected intuitions
+  distilled from love. Experimental, mystic, and joyful vibes as we start our
+  trip with a colorful selection curated by Glenn Astro. Time to get out of the
+  loop darling!
 guest_color: trippy
-guestPic: guestPic449.png
-pubDate: '2021-05-02'
+guestPic: /img/guestpic449.png
+pubDate: 2021-05-02
+track1:
+  title: Amaarae - SAD GIRLZ LUV MONEY (feat. Moliy)
+  color: vibrant
+  link: https://sounds.mailta.pe/449/track1.mp3
+track2:
+  title: Ross - Swallow your dreams
+  color: bliss
+  link: https://sounds.mailta.pe/449/track2.mp3
+track3:
+  title: Erika de Casier - The Flow
+  color: dreamy
+  link: https://sounds.mailta.pe/449/track3.mp3
+track4:
+  title: Glenn Astro - MoStLy GhOsTlY
+  color: trippy
+  link: https://sounds.mailta.pe/449/track4.mp3
+track5:
+  title: Luke Vibert - Batter Bits
+  color: trippy
+  link: https://sounds.mailta.pe/449/track5.mp3
+track6:
+  title: Kelly Lee Owens - My Own
+  color: dreamy
+  link: https://sounds.mailta.pe/449/track6.mp3
+track7:
+  title: Khalab & M'berra Ensemble - Skit Guit
+  color: bliss
+  link: https://sounds.mailta.pe/449/track7.mp3
+release: 449
 ---
 
 This morning, let's have some actively collected intuitions distilled from love. Experimental, mystic, and joyful vibes as we start our trip with a colorful selection curated by [Glenn Astro](https://glennastro.bandcamp.com "Glenn's bandcamp"). Time to get out of the loop darling!

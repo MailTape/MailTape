@@ -1,40 +1,47 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Sanjay Mistry
 illustrator: Pierre-Julien Fieux
 writer: Sanjay Mistry
-category: '286'
 guest_name: Yazz Ahmed
 guest_color: trippy
-track1_link: https://sounds.mailta.pe/286/track1.mp3
-track2_link: https://sounds.mailta.pe/286/track2.mp3
-track3_link: https://sounds.mailta.pe/286/track3.mp3
-track4_link: https://sounds.mailta.pe/286/track4.mp3
-track5_link: https://sounds.mailta.pe/286/track5.mp3
-track6_link: https://sounds.mailta.pe/286/track6.mp3
-track7_link: https://sounds.mailta.pe/286/track7.mp3
-track1_title: Sarathy Korwar – Bismillah
-track1_color: trippy
-track2_title: 'Samuel Hällkvist – Variety Of Rhythm Part 4: The Necker Cube'
-track2_color: bliss
-track3_title: Ruth Wall – Snow Clamp
-track3_color: rough
-track4_title: Yazz Ahmed – La Saboteuse
-track4_color: dreamy
-track5_title: Fran and Flora – The Hollow Tree
-track5_color: bliss
-track6_title: Zoe Rahman – Shiraz
-track6_color: dreamy
-track7_title: Vijay Iyer Trio – Break Stuff
-track7_color: trippy
-episode_URL: http://mailta.pe/286/yazz-ahmed/
-guestPic: guestPic286.jpg
-musiColor: musiColor286.png
-image: https://www.mailta.pe/img/fbPic286.jpg
-description: This morning we are delighted to collaborate with trumpeter and composer Yazz Ahmed and get a glimpse into her Sunday morning jukebox with MailTape.
-pubDate: '2017-11-12'
+guestPic: /img/guestpic286.jpg
+musiColor: /img/musicolor286.png
+image: /img/fbpic286.jpg
+description: This morning we are delighted to collaborate with trumpeter and
+  composer Yazz Ahmed and get a glimpse into her Sunday morning jukebox with
+  MailTape.
+pubDate: 2017-11-12
+track1:
+  title: Sarathy Korwar – Bismillah
+  color: trippy
+  link: https://sounds.mailta.pe/286/track1.mp3
+track2:
+  title: "Samuel Hällkvist – Variety Of Rhythm Part 4: The Necker Cube"
+  color: bliss
+  link: https://sounds.mailta.pe/286/track2.mp3
+track3:
+  title: Ruth Wall – Snow Clamp
+  color: rough
+  link: https://sounds.mailta.pe/286/track3.mp3
+track4:
+  title: Yazz Ahmed – La Saboteuse
+  color: dreamy
+  link: https://sounds.mailta.pe/286/track4.mp3
+track5:
+  title: Fran and Flora – The Hollow Tree
+  color: bliss
+  link: https://sounds.mailta.pe/286/track5.mp3
+track6:
+  title: Zoe Rahman – Shiraz
+  color: dreamy
+  link: https://sounds.mailta.pe/286/track6.mp3
+track7:
+  title: Vijay Iyer Trio – Break Stuff
+  color: trippy
+  link: https://sounds.mailta.pe/286/track7.mp3
+release: 286
 ---
 This morning we are delighted to collaborate with trumpeter and composer [Yazz Ahmed](http://yazzahmed.com/) and get a glimpse into her Sunday morning jukebox with MailTape.
 <p>As well as leading her own quartet and septet, Yazz has also recorded and performed with Radiohead, Max Romeo, Lee ‘Scratch’ Perry, ABC, Swing Out Sister, Joan as Police Woman and Amel Zen.

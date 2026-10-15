@@ -1,40 +1,50 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: ImaCrea
 illustrator: Julie Wojtczak
 writer: ImaCrea
-category: '482'
 guest_name: Alligator
 guest_color: vibrant
-track1_title: Cruisin' Gang - My Man
-track1_color: vibrant
-track1_link: https://sounds.mailta.pe/482/track1.mp3
-track2_title: Sister Irene O'Connor - Mass 'Emmanuel'
-track2_color: bliss
-track2_link: https://sounds.mailta.pe/482/track2.mp3
-track3_title: Cate Le Bon - Home to You
-track3_color: dreamy
-track3_link: https://sounds.mailta.pe/482/track3.mp3
-track4_title: Alligator - Dance hall
-track4_color: vibrant
-track4_link: https://sounds.mailta.pe/482/track4.mp3
-track5_title: Kadhja Bonet - For You (Many Selves Version)
-track5_color: bliss
-track5_link: https://sounds.mailta.pe/482/track5.mp3
-track6_title: Jacques - Partout
-track6_color: trippy
-track6_link: https://sounds.mailta.pe/482/track6.mp3
-track7_title: Ibibio Sound Machine - Electricity
-track7_color: vibrant
-track7_link: https://sounds.mailta.pe/482/track7.mp3
-image: https://www.mailta.pe/img/fbPic482.jpg
-episode_URL: http://mailta.pe/482/Alligator/
-musiColor: musiColor482.png
-guestPic: guestPic482.jpg
-description: This morning, we stop reading the news and start dancing. Did you know the oldest proof of dancing comes from 9000 years old cave paintings that were found in India? Also, we’re not the only one dancing on this planet, it’s a behaviour we actually share with many other species. Music is a universal language, and in this episode co-curated with Alligator, we’re telling a story of joy, adventure, courage, beauty and hope.
-pubDate: '2022-02-20'
+image: /img/fbpic482.jpg
+musiColor: /img/musicolor482.png
+guestPic: /img/guestpic482.jpg
+description: This morning, we stop reading the news and start dancing. Did you
+  know the oldest proof of dancing comes from 9000 years old cave paintings that
+  were found in India? Also, we’re not the only one dancing on this planet, it’s
+  a behaviour we actually share with many other species. Music is a universal
+  language, and in this episode co-curated with Alligator, we’re telling a story
+  of joy, adventure, courage, beauty and hope.
+pubDate: 2022-02-20
+track1:
+  title: Cruisin' Gang - My Man
+  color: vibrant
+  link: https://sounds.mailta.pe/482/track1.mp3
+track2:
+  title: Sister Irene O'Connor - Mass 'Emmanuel'
+  color: bliss
+  link: https://sounds.mailta.pe/482/track2.mp3
+track3:
+  title: Cate Le Bon - Home to You
+  color: dreamy
+  link: https://sounds.mailta.pe/482/track3.mp3
+track4:
+  title: Alligator - Dance hall
+  color: vibrant
+  link: https://sounds.mailta.pe/482/track4.mp3
+track5:
+  title: Kadhja Bonet - For You (Many Selves Version)
+  color: bliss
+  link: https://sounds.mailta.pe/482/track5.mp3
+track6:
+  title: Jacques - Partout
+  color: trippy
+  link: https://sounds.mailta.pe/482/track6.mp3
+track7:
+  title: Ibibio Sound Machine - Electricity
+  color: vibrant
+  link: https://sounds.mailta.pe/482/track7.mp3
+release: 482
 ---
 This morning, we stop reading the news and start dancing. Did you know the oldest proof of dancing comes from 9000 years old cave paintings that were found in India? Also, we're not the only one dancing on this planet, it's a behaviour we actually share with many other species. Music is a universal language, and in this episode co-curated with [Alligator](https://almost-discos.bandcamp.com/album/torrents), we're telling a story of joy, adventure, courage, beauty and hope.
 

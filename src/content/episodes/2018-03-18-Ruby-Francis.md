@@ -1,40 +1,48 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
-track2_link: https://sounds.mailta.pe/304/track2.mp3
-track1_title: Solo Smith —  Still In Love
-track2_title: Lion Babe — Honey Dew
-track4_title: Ruby Francis — Fall Asleep
-track4_color: bliss
-track3_title: 'Troy Hudson — Head Over Heels '
-track1_color: dreamy
-track3_color: bliss
-track2_color: vibrant
-track7_color: vibrant
-track6_link: https://sounds.mailta.pe/304/track6.mp3
-track7_link: https://sounds.mailta.pe/304/track7.mp3
-track4_link: https://sounds.mailta.pe/304/track4.mp3
-track6_title: WAYI — The Way I Am
-track6_color: dreamy
-track5_link: https://sounds.mailta.pe/304/track5.mp3
-track5_title: Still Woozy — Goodie Bag
-track5_color: vibrant
-track7_title: King Princess — Sunburn
-episode_URL: http://mailta.pe/304/Ruby-Francis/
-image: https://www.mailta.pe/img/fbPic304.jpg
-musiColor: musiColor304.png
+image: /img/fbpic304.jpg
+musiColor: /img/musicolor304.png
 author: Louise
 illustrator: William Girault
-category: '304'
 guest_name: Ruby Francis
 guest_color: dreamy
-guestPic: guestpic304ter.jpg
-track1_link: https://sounds.mailta.pe/304/track1.mp3
-track3_link: https://sounds.mailta.pe/304/track3.mp3
-description: This morning, we welcome London-based singer/songwriter, Ruby Francis, to collaborate with us on MailTape. Merging R&B, 80s & 90s soundscapes and incorporating traces of soul music, we hope you’re just as taken with her infectious sound as we are!
+guestPic: /img/guestpic304ter.jpg
+description: This morning, we welcome London-based singer/songwriter, Ruby
+  Francis, to collaborate with us on MailTape. Merging R&B, 80s & 90s
+  soundscapes and incorporating traces of soul music, we hope you’re just as
+  taken with her infectious sound as we are!
 writer: Sanjay Mistry
-pubDate: '2018-03-18'
+pubDate: 2018-03-18
+track1:
+  title: Solo Smith —  Still In Love
+  color: dreamy
+  link: https://sounds.mailta.pe/304/track1.mp3
+track2:
+  title: Lion Babe — Honey Dew
+  color: vibrant
+  link: https://sounds.mailta.pe/304/track2.mp3
+track3:
+  title: "Troy Hudson — Head Over Heels "
+  color: bliss
+  link: https://sounds.mailta.pe/304/track3.mp3
+track4:
+  title: Ruby Francis — Fall Asleep
+  color: bliss
+  link: https://sounds.mailta.pe/304/track4.mp3
+track5:
+  title: Still Woozy — Goodie Bag
+  color: vibrant
+  link: https://sounds.mailta.pe/304/track5.mp3
+track6:
+  title: WAYI — The Way I Am
+  color: dreamy
+  link: https://sounds.mailta.pe/304/track6.mp3
+track7:
+  title: King Princess — Sunburn
+  color: vibrant
+  link: https://sounds.mailta.pe/304/track7.mp3
+release: 304
 ---
 This morning, we welcome London-based singer/songwriter, [Ruby Francis](https://www.instagram.com/ruby_francis/ "Ruby's Instagram feed"), to collaborate with us on MailTape. Merging R&B, 80s & 90s soundscapes and incorporating traces of soul music, we hope you’re just as taken with her infectious sound as we are!
 

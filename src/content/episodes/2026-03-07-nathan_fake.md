@@ -1,43 +1,50 @@
 ---
 published: true
 pubDate: 2026-03-08
-category: "606"
 guest_name: Nathan Fake
 guest_color: trippy
-guestPic: guestpic606.jpg
+guestPic: /img/guestpic606.jpg
 author: ImaCrea
 illustrator: Pierre-Julien Fieux
 writer: ImaCrea
-track1_title: Chemical Brothers & Hope Sandoval - Asleep from Day
-track1_color: dreamy
-track1_link: https://sounds.mailta.pe/606/track1.mp3
-track2_title: Actress - Hubble
-track2_color: trippy
-track2_link: https://sounds.mailta.pe/606/track2.mp3
-track3_title: Brothomstates - Mdrmx
-track3_color: trippy
-track3_link: https://sounds.mailta.pe/606/track3.mp3
-track4_title: Nathan Fake - Sunlight on Saturn
-track4_color: trippy
-track4_link: https://sounds.mailta.pe/606/track4.mp3
-track5_title: "Irini - Sweet Charlotte "
-track5_color: dreamy
-track5_link: https://sounds.mailta.pe/606/track5.mp3
-track6_title: s8jfou - Thoughts
-track6_color: vibrant
-track6_link: https://sounds.mailta.pe/606/track6.mp3
-track7_title: Nuevos Rios - Si Yo Fuera
-track7_color: trippy
-track7_link: https://sounds.mailta.pe/606/track7.mp3
 description: >-
   This morning, we dive into a collection curated by our dear guest Nathan Fake.
   You'll experience a rich tapestry of sounds that evoke the warmth of the
   coming spring days and the exploration of otherworldly 
 
-  landscapes. This episode includes tracks that showcase not only artistic brilliance but also personal and soulful evocations.
-episode_URL: https://www.mailta.pe/606/nathan-fake/
-image: https://www.mailta.pe/img/fbPic606.jpg
-musiColor: musicolor606.png
+  landscapes. This episode includes tracks that showcase not only artistic
+  brilliance but also personal and soulful evocations.
+image: /img/fbpic606.jpg
+musiColor: /img/musicolor606.png
+track1:
+  title: Chemical Brothers & Hope Sandoval - Asleep from Day
+  color: dreamy
+  link: https://sounds.mailta.pe/606/track1.mp3
+track2:
+  title: Actress - Hubble
+  color: trippy
+  link: https://sounds.mailta.pe/606/track2.mp3
+track3:
+  title: Brothomstates - Mdrmx
+  color: trippy
+  link: https://sounds.mailta.pe/606/track3.mp3
+track4:
+  title: Nathan Fake - Sunlight on Saturn
+  color: trippy
+  link: https://sounds.mailta.pe/606/track4.mp3
+track5:
+  title: "Irini - Sweet Charlotte "
+  color: dreamy
+  link: https://sounds.mailta.pe/606/track5.mp3
+track6:
+  title: s8jfou - Thoughts
+  color: vibrant
+  link: https://sounds.mailta.pe/606/track6.mp3
+track7:
+  title: Nuevos Rios - Si Yo Fuera
+  color: trippy
+  link: https://sounds.mailta.pe/606/track7.mp3
+release: 606
 ---
 This morning, we dive into a collection curated by our dear guest [Nathan Fake](https://nathanfake.bandcamp.com/album/evaporator). You'll experience a rich tapestry of sounds that evoke the warmth of the coming spring days and the exploration of otherworldly landscapes. This episode includes tracks that showcase not only artistic brilliance but also personal and soulful evocations.
 

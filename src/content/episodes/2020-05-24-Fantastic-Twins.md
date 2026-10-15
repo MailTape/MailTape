@@ -1,40 +1,54 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Jules
 illustrator: Camille Célestin
 writer: Jules
-category: '407'
 guest_name: Fantastic Twins
-track1_title: Sun City Girls - Cruel And Thin
-track2_title: Johnnie Frierson - Have You Been Good To Yourself
-track3_title: Latif Kahn & Don Cherry - Sangam
-episode_URL: https://www.mailta.pe/407/fantastic-twins/
-track4_title: Fantastic Twins - The Myth Of Twinus
-track5_title: upsammy - Extra Warm
-track5_color: dreamy
-track6_title: Giraffi Dog - The Temple Of Magatao
-track6_color: trippy
-track7_title: Perel - Die Dimension (Jayda G remix)
-track7_color: bliss
-track4_color: bliss
-track3_color: trippy
-track2_color: vibrant
 guest_color: trippy
-track1_color: vibrant
-track1_link: https://sounds.mailta.pe/407/track1.mp3
-track2_link: https://sounds.mailta.pe/407/track2.mp3
-track3_link: https://sounds.mailta.pe/407/track3.mp3
-track4_link: https://sounds.mailta.pe/407/track4.mp3
-track5_link: https://sounds.mailta.pe/407/track5.mp3
-track6_link: https://sounds.mailta.pe/407/track6.mp3
-track7_link: https://sounds.mailta.pe/407/track7.mp3
-guestPic: guestPic407.jpg
-musiColor: musiColor407.png
-image: https://www.mailta.pe/img/fbPic407.png
-description: This morning, we're feeling fantastic. The days are getting longer, summer is almost here and life is gradually resuming. We discover resources, qualities and desires hitherto unsuspected that we now long to explore. It is with a new eye that we now wish to glimpse the future, the one of a sensitive, complex and caring alter-ego. Fantastic Twins is one of Julienne's alter-ego through which the French, Berliner by adoption, draws a rich musical universe, synthesis of various electronic influences. When I saw her play live the first time, I was immediately moved by the swooping vocal textures and the melodies influenced by her knowledge of dance music which results in a constant oscillation between dark and light.
-pubDate: '2020-05-24'
+guestPic: /img/guestpic407.jpg
+musiColor: /img/musicolor407.png
+image: /img/fbpic407.png
+description: This morning, we're feeling fantastic. The days are getting longer,
+  summer is almost here and life is gradually resuming. We discover resources,
+  qualities and desires hitherto unsuspected that we now long to explore. It is
+  with a new eye that we now wish to glimpse the future, the one of a sensitive,
+  complex and caring alter-ego. Fantastic Twins is one of Julienne's alter-ego
+  through which the French, Berliner by adoption, draws a rich musical universe,
+  synthesis of various electronic influences. When I saw her play live the first
+  time, I was immediately moved by the swooping vocal textures and the melodies
+  influenced by her knowledge of dance music which results in a constant
+  oscillation between dark and light.
+pubDate: 2020-05-24
+track1:
+  title: Sun City Girls - Cruel And Thin
+  color: vibrant
+  link: https://sounds.mailta.pe/407/track1.mp3
+track2:
+  title: Johnnie Frierson - Have You Been Good To Yourself
+  color: vibrant
+  link: https://sounds.mailta.pe/407/track2.mp3
+track3:
+  title: Latif Kahn & Don Cherry - Sangam
+  color: trippy
+  link: https://sounds.mailta.pe/407/track3.mp3
+track4:
+  title: Fantastic Twins - The Myth Of Twinus
+  color: bliss
+  link: https://sounds.mailta.pe/407/track4.mp3
+track5:
+  title: upsammy - Extra Warm
+  color: dreamy
+  link: https://sounds.mailta.pe/407/track5.mp3
+track6:
+  title: Giraffi Dog - The Temple Of Magatao
+  color: trippy
+  link: https://sounds.mailta.pe/407/track6.mp3
+track7:
+  title: Perel - Die Dimension (Jayda G remix)
+  color: bliss
+  link: https://sounds.mailta.pe/407/track7.mp3
+release: 407
 ---
  This morning, we're feeling fantastic. The days are getting longer, summer is almost here and life is gradually resuming. We discover resources, qualities and desires hitherto unsuspected that we now long to explore. It is with a new eye that we now wish to glimpse the future, the one of a sensitive, complex and caring alter-ego.
 <br><br>

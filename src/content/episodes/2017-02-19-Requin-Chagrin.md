@@ -1,40 +1,48 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Inès
-category: '248'
 guest_name: Requin Chagrin
 guest_color: vibrant
-track2_link: https://sounds.mailta.pe/248/track2.mp3
-track3_link: https://sounds.mailta.pe/248/track3.mp3
-track4_link: https://sounds.mailta.pe/248/track4.mp3
-track7_link: https://sounds.mailta.pe/248/track7.mp3
-track1_title: Barbagallo - Nouveau Sidobre
-track1_color: bliss
-track2_title: Kommode - Patient
-track2_color: dreamy
-track3_color: trippy
-track4_title: Requin Chagrin - Le Chagrin
-track5_title: Vril - Torus XXXII
-track5_color: trippy
-track7_color: vibrant
-track4_color: vibrant
-episode_URL: https://www.mailta.pe/248/requin-chagrin/
-track6_link: https://sounds.mailta.pe/248/track6.mp3
-track6_title: Gorgeous Bully - Kidding (ft. Whorish Boorish)
-track6_color: dreamy
 illustrator: Camille Célestin
 writer: Inès
-track5_link: https://sounds.mailta.pe/248/track5.mp3
-track3_title: MJ Guider - Lit Negative
-track7_title: Vundabar - Darla
-track1_link: https://sounds.mailta.pe/248/track1.mp3
-musiColor: musiColor248.png
-description: This morning, juggle the calm and energetic moments thrown your way by Requin Chagrin’s eclectic selection. During this 30-minutes selection, travel all over the world, feel both warmth and coldness or just dance (alone) in your room. Sunnier days don’t seem so far away now!
-guestPic: guestPic248new2.jpg
-image: https://www.mailta.pe/img/fbPic248.jpg
-pubDate: '2017-02-19'
+musiColor: /img/musicolor248.png
+description: This morning, juggle the calm and energetic moments thrown your way
+  by Requin Chagrin’s eclectic selection. During this 30-minutes selection,
+  travel all over the world, feel both warmth and coldness or just dance (alone)
+  in your room. Sunnier days don’t seem so far away now!
+guestPic: /img/guestpic248new2.jpg
+image: /img/fbpic248.jpg
+pubDate: 2017-02-19
+track1:
+  title: Barbagallo - Nouveau Sidobre
+  color: bliss
+  link: https://sounds.mailta.pe/248/track1.mp3
+track2:
+  title: Kommode - Patient
+  color: dreamy
+  link: https://sounds.mailta.pe/248/track2.mp3
+track3:
+  title: MJ Guider - Lit Negative
+  color: trippy
+  link: https://sounds.mailta.pe/248/track3.mp3
+track4:
+  title: Requin Chagrin - Le Chagrin
+  color: vibrant
+  link: https://sounds.mailta.pe/248/track4.mp3
+track5:
+  title: Vril - Torus XXXII
+  color: trippy
+  link: https://sounds.mailta.pe/248/track5.mp3
+track6:
+  title: Gorgeous Bully - Kidding (ft. Whorish Boorish)
+  color: dreamy
+  link: https://sounds.mailta.pe/248/track6.mp3
+track7:
+  title: Vundabar - Darla
+  color: vibrant
+  link: https://sounds.mailta.pe/248/track7.mp3
+release: 248
 ---
 This morning, juggle the calm and energetic moments thrown your way by [Requin Chagrin](https://www.facebook.com/chagrin.requin/ "Facebook")’s eclectic selection. Requin Chagrin, a French band born from singer Marion’s mind, mixes surf-ish reverb guitars with a melancholic vibe, creating a warm and languid sound.
 <p>During this precisely 30-minute selection, travel through France, Norway, the US and the UK, feel both warmth and coldness, take a few breaths and dance (alone) in your room. Sunnier days don’t seem that far away now.

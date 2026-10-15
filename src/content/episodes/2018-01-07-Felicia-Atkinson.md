@@ -1,40 +1,48 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Sanjay Mistry
 illustrator: Camille Célestin
 writer: Sanjay Mistry
-category: '294'
 guest_name: Félicia Atkinson
 guest_color: trippy
-track1_link: https://sounds.mailta.pe/294/track1.mp3
-track2_link: https://sounds.mailta.pe/294/track2.mp3
-track3_link: https://sounds.mailta.pe/294/track3.mp3
-track4_link: https://sounds.mailta.pe/294/track4.mp3
-track5_link: https://sounds.mailta.pe/294/track5.mp3
-track6_link: https://sounds.mailta.pe/294/track6.mp3
-track7_link: https://sounds.mailta.pe/294/track7.mp3
-track1_title: Tomoko Sauvage – Musique Hydromantique
-track1_color: bliss
-track2_title: Luc Ferrari – Presque rien no.1, le lever du jour au bord de la mer
-track2_color: trippy
-track3_title: Cinema – Sem Teto
-track3_color: dreamy
-track4_title: Félicia Atkinson – I'm Following You
-track4_color: trippy
-track5_title: Mondkopf – The Call
-track5_color: dreamy
-track6_title: Christine Ott – Tropismes
-track6_color: bliss
-track7_title: Murcof & Vanessa Wagner – Variations For The Healing Of Arinushka
-track7_color: dreamy
-episode_URL: http://mailta.pe/294/felicia-atkinson/
-guestPic: guestPic294.jpg
-musiColor: musiColor294.png
-image: https://www.mailta.pe/img/fbPic294.jpg
-description: This morning we welcome preeminent Rennes-based avant-garde composer Félicia Atkinson to collaborate with us on MailTape. She weaves myriad, filigree electro-acoustic and non-musical metanarratives into a sonic lucid dream.
-pubDate: '2018-01-07'
+guestPic: /img/guestpic294.jpg
+musiColor: /img/musicolor294.png
+image: /img/fbpic294.jpg
+description: This morning we welcome preeminent Rennes-based avant-garde
+  composer Félicia Atkinson to collaborate with us on MailTape. She weaves
+  myriad, filigree electro-acoustic and non-musical metanarratives into a sonic
+  lucid dream.
+pubDate: 2018-01-07
+track1:
+  title: Tomoko Sauvage – Musique Hydromantique
+  color: bliss
+  link: https://sounds.mailta.pe/294/track1.mp3
+track2:
+  title: Luc Ferrari – Presque rien no.1, le lever du jour au bord de la mer
+  color: trippy
+  link: https://sounds.mailta.pe/294/track2.mp3
+track3:
+  title: Cinema – Sem Teto
+  color: dreamy
+  link: https://sounds.mailta.pe/294/track3.mp3
+track4:
+  title: Félicia Atkinson – I'm Following You
+  color: trippy
+  link: https://sounds.mailta.pe/294/track4.mp3
+track5:
+  title: Mondkopf – The Call
+  color: dreamy
+  link: https://sounds.mailta.pe/294/track5.mp3
+track6:
+  title: Christine Ott – Tropismes
+  color: bliss
+  link: https://sounds.mailta.pe/294/track6.mp3
+track7:
+  title: Murcof & Vanessa Wagner – Variations For The Healing Of Arinushka
+  color: dreamy
+  link: https://sounds.mailta.pe/294/track7.mp3
+release: 294
 ---
 This morning we welcome preeminent Rennes-based avant-garde composer [Félicia Atkinson](http://feliciaatkinson.com/) to collaborate with us on MailTape. She weaves myriad, filigree electro-acoustic and non-musical metanarratives into a sonic lucid dream.
 <p>Félicia Atkinson is a musician with many more strings to her bow. On her latest album 'Hand in Hand', however, the atmosphere of reflective anticipation is the main sonic theme—where a sense of the otherworldly is paired with the familiar and the macabre with the sensual.

@@ -1,38 +1,48 @@
 ---
-
 published: true
 author: ImaCrea
 guest_color: dreamy
-bigTitle_font_ratio: '6'
-track1_color: trippy
-track2_color: vibrant
-track3_color: dreamy
-track4_color: dreamy
-track5_color: bliss
-track6_color: vibrant
-track7_color: rough
-track1_link: https://sounds.mailta.pe/194/track1.mp3
-track2_link: https://sounds.mailta.pe/194/track2.mp3
-track3_link: https://sounds.mailta.pe/194/Mon+Nom.mp3
-track5_link: https://sounds.mailta.pe/194/track5.mp3
-track6_link: https://sounds.mailta.pe/194/track6.mp3
-track7_link: https://sounds.mailta.pe/194/track7.mp3
-track1_title: John Grant - You don't have to
-track4_link: https://sounds.mailta.pe/194/track4.mp3
-category: '194'
+bigTitle_font_ratio: "6"
 guest_name: Hugo Kepler
-guestPic: guestPic194.jpg
-track2_title: William Tyler - We can't go home again
-track3_title: Rodrigo Amarante - Mon Nom
-track4_title: Hugo Kepler - Senza mon Amour
-track5_title: Samay - In and Out
-track6_title: Maribou State - Midas (feat. Holly Walker)
-track7_title: Tilman - Eruption (Klamauk)
-image: https://www.mailta.pe/img/fbPic194.jpg
-musiColor: musiColor194.png
-episode_URL: http://mailta.pe/194/Hugo-Kepler/
-description: 'This morning, be prepared for a shower of heart throbbing words and melodies that will pull your soul away from any puddles of sorrow. Hugo Kepler chooses simplicity, transporting you to a land of sunset and white musk. But the sun is universal and we will be touched with heat rays of lyrical ambivalence, tempting you to light smiles of genuine contentment, guaranteed to feed empty desires.  '
-pubDate: '2015-07-12'
+guestPic: /img/guestpic194.jpg
+image: /img/fbpic194.jpg
+musiColor: /img/musicolor194.png
+description: "This morning, be prepared for a shower of heart throbbing words
+  and melodies that will pull your soul away from any puddles of sorrow. Hugo
+  Kepler chooses simplicity, transporting you to a land of sunset and white
+  musk. But the sun is universal and we will be touched with heat rays of
+  lyrical ambivalence, tempting you to light smiles of genuine contentment,
+  guaranteed to feed empty desires.  "
+pubDate: 2015-07-12
+track1:
+  title: John Grant - You don't have to
+  color: trippy
+  link: https://sounds.mailta.pe/194/track1.mp3
+track2:
+  title: William Tyler - We can't go home again
+  color: vibrant
+  link: https://sounds.mailta.pe/194/track2.mp3
+track3:
+  title: Rodrigo Amarante - Mon Nom
+  color: dreamy
+  link: https://sounds.mailta.pe/194/Mon+Nom.mp3
+track4:
+  title: Hugo Kepler - Senza mon Amour
+  color: dreamy
+  link: https://sounds.mailta.pe/194/track4.mp3
+track5:
+  title: Samay - In and Out
+  color: bliss
+  link: https://sounds.mailta.pe/194/track5.mp3
+track6:
+  title: Maribou State - Midas (feat. Holly Walker)
+  color: vibrant
+  link: https://sounds.mailta.pe/194/track6.mp3
+track7:
+  title: Tilman - Eruption (Klamauk)
+  color: rough
+  link: https://sounds.mailta.pe/194/track7.mp3
+release: 194
 ---
 
 

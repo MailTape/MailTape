@@ -1,40 +1,46 @@
 ---
-
-bigTitle_font_ratio: '6'
 published: true
-category: '538'
+pubDate: 2023-10-22
+release: 538
 guest_name: Aleesha Dibbs
-writer: Sarah
-illustrator: Camille Célestin
-author: Sarah
 guest_color: dreamy
-track1_title: Sol Seppy - Slo Fuzz
-track1_color: vibrant
-track2_title: David Bowie - Black Star
-track2_color: rough
-track3_color: bliss
-track3_title: Laura Jean - A Funny Thing Happened
-track4_title: Aleesha Dibbs - Comin For Me Now
-track4_color: vibrant
-track5_color: dreamy
-track6_color: bliss
-track7_color: trippy
-guestPic: guestPic538.jpg
-image: ' https://www.mailta.pe/img/fbPic538.png'
-track7_title: Vanishing Twin - Afternoon X
-track4_link: https://sounds.mailta.pe/538/track4.mp3
-track1_link: https://sounds.mailta.pe/538/track1.mp3
-track2_link: https://sounds.mailta.pe/538/track2.mp3
-track3_link: https://sounds.mailta.pe/538/track3.mp3
-track5_link: https://sounds.mailta.pe/538/track5.mp3
-track6_link: https://sounds.mailta.pe/538/track6.mp3
-track7_link: https://sounds.mailta.pe/538/track7.mp3
-track5_title: Caitlin Harnett & The Pony Boys - Only Dreaming
-track6_title: Anastasia Rydlevskaya - Don't tell her your name
-episode_URL: http://mailta.pe/538/Aleesha-Dibbs/
-musiColor: musiColor538.png
-description: This Sunday morning we welcome Aleesha Dibbs for MailTape's Episode 538. Based in Sydney, Aleesha Dibbs joins us after the release of her debut solo EP, Paradise Lost - produced and co-written by Tom Crandles. Marked by eccentric snythwork and rich vocals, the release often treads into darker, haunting tones with exceptional inventiveness.
-pubDate: '2023-10-22'
+guestPic: /img/guestpic538.jpg
+author: Sarah
+illustrator: Camille Célestin
+writer: Sarah
+track1:
+  title: Sol Seppy - Slo Fuzz
+  color: vibrant
+  link: https://sounds.mailta.pe/538/track1.mp3
+track2:
+  title: David Bowie - Black Star
+  color: rough
+  link: https://sounds.mailta.pe/538/track2.mp3
+track3:
+  title: Laura Jean - A Funny Thing Happened
+  color: bliss
+  link: https://sounds.mailta.pe/538/track3.mp3
+track4:
+  title: Aleesha Dibbs - Comin For Me Now
+  color: vibrant
+  link: https://sounds.mailta.pe/538/track4.mp3
+track5:
+  title: Caitlin Harnett & The Pony Boys - Only Dreaming
+  color: dreamy
+  link: https://sounds.mailta.pe/538/track5.mp3
+track6:
+  title: Anastasia Rydlevskaya - Don't tell her your name
+  color: bliss
+  link: https://sounds.mailta.pe/538/track6.mp3
+track7:
+  title: Vanishing Twin - Afternoon X
+  color: trippy
+  link: https://sounds.mailta.pe/538/track7.mp3
+description: This Sunday morning we welcome Aleesha Dibbs for MailTape's Episode 538. Based in Sydney, Aleesha Dibbs joins us after the release of her debut solo EP, [Paradise Lost](https://soundcloud.com/aleeshad...
+image: /img/fbpic538.png
+musiColor: /img/musicolor538.png
+alignY: ''
+bigTitle_font_ratio: '6'
 ---
 
 This Sunday morning we welcome Aleesha Dibbs for MailTape's Episode 538. Based in Sydney, Aleesha Dibbs joins us after the release of her debut solo EP, [Paradise Lost](https://soundcloud.com/aleeshadibbs) - produced and co-written by [Tom Crandles](https://www.instagram.com/____prudence/). Marked by eccentric synthwork and rich vocals, the release often treads into darker, haunting tones with exceptional inventiveness. 

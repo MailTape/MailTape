@@ -1,40 +1,46 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: ImaCrea
 illustrator: Camille Célestin
 writer: PS KY
-category: '299'
 guest_name: Run Child Run
 guest_color: vibrant
-guestPic: guestPic299.jpg
-track1_link: https://sounds.mailta.pe/299/track1.mp3
-track2_link: https://sounds.mailta.pe/299/track2.mp3
-track3_link: https://sounds.mailta.pe/299/track3.mp3
-track4_link: https://sounds.mailta.pe/299/track4.mp3
-track5_link: https://sounds.mailta.pe/299/track5.mp3
-track6_link: https://sounds.mailta.pe/299/track6.mp3
-track7_link: https://sounds.mailta.pe/299/track7.mp3
-track1_title: Solange - Rise
-track2_title: Hugh - I Can't Figure Out
-track3_title: Joyce - Aldeia de Ogum
-track4_title: Run Child Run - Can't Catch Me
-track5_title: ' Sudan Archives - Come Meh Way'
-track6_title: Guillaume Teyssier - Les Princes Des Villes (Principles of Geometry remix)
-track7_title: 'Sign Libra -  Intro / Tropical plantarum '
-track1_color: bliss
-track2_color: trippy
-track3_color: vibrant
-track4_color: vibrant
-episode_URL: https://www.mailta.pe/299/run-child-run/
-track5_color: vibrant
-track6_color: dreamy
-track7_color: bliss
-image: https://www.mailta.pe/img/fbPic299.png
-musiColor: musiColor299.png
-description: This morning, our guest Run Child Run has blessed us with a distinctive selection of timeless tracks.
-pubDate: '2018-02-11'
+guestPic: /img/guestpic299.jpg
+image: /img/fbpic299.png
+musiColor: /img/musicolor299.png
+description: This morning, our guest Run Child Run has blessed us with a
+  distinctive selection of timeless tracks.
+pubDate: 2018-02-11
+track1:
+  title: Solange - Rise
+  color: bliss
+  link: https://sounds.mailta.pe/299/track1.mp3
+track2:
+  title: Hugh - I Can't Figure Out
+  color: trippy
+  link: https://sounds.mailta.pe/299/track2.mp3
+track3:
+  title: Joyce - Aldeia de Ogum
+  color: vibrant
+  link: https://sounds.mailta.pe/299/track3.mp3
+track4:
+  title: Run Child Run - Can't Catch Me
+  color: vibrant
+  link: https://sounds.mailta.pe/299/track4.mp3
+track5:
+  title: " Sudan Archives - Come Meh Way"
+  color: vibrant
+  link: https://sounds.mailta.pe/299/track5.mp3
+track6:
+  title: Guillaume Teyssier - Les Princes Des Villes (Principles of Geometry remix)
+  color: dreamy
+  link: https://sounds.mailta.pe/299/track6.mp3
+track7:
+  title: "Sign Libra -  Intro / Tropical plantarum "
+  color: bliss
+  link: https://sounds.mailta.pe/299/track7.mp3
+release: 299
 ---
 This morning, our guest [Run Child Run](https://runchildrun.bandcamp.com/album/vanishing-point) has blessed us with a distinctive selection of timeless tracks.
 

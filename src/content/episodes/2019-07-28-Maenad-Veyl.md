@@ -1,40 +1,51 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Luc
 illustrator: Camille Célestin
 writer: Luc
-category: '368'
 guest_name: Maenad Veyl
 guest_color: rough
-track1_link: https://sounds.mailta.pe/368/track1.mp3
-track2_link: https://sounds.mailta.pe/368/track2.mp3
-track1_color: dreamy
-track1_title: MY DISCO - Exercise in Sacrifice
-track2_title: KOKOROKO - Adwa
-track2_color: vibrant
-track3_title: Ed Rush - Skylab
-track3_color: vibrant
-track4_title: Maenad Veyl - In Ruins
-track4_color: dreamy
-track5_title: Zavoloka - Gromovytsya | Громовиця
-track5_color: dreamy
-track6_title: Joni Void - Observer (Natalie's Song)
-track6_color: trippy
-track7_title: Simo Cell - As Long As We Have Those Things
-track7_color: dreamy
-episode_URL: https://www.mailta.pe/368/maenad-veyl/
-track5_link: https://sounds.mailta.pe/368/track5.mp3
-track7_link: https://sounds.mailta.pe/368/track7.mp3
-track3_link: https://sounds.mailta.pe/368/track3.mp3
-track4_link: https://sounds.mailta.pe/368/track4.mp3
-track6_link: https://sounds.mailta.pe/368/track6.mp3
-description: This morning, let's revel in the lush universe of Maenad Veyl, one of precisely crafted sounds and carefuly built momentums. His attention to detail and riveting atmospheres shine through his productions or the work of the artists he promotes on his label VEYL. The selection he prepared this sunday is no exception to that, a stroll through fresh ambient layers, a warm jazzy afrobeat piece or even a trension-building drum-and-bass track, all in restraint.
-image: https://www.mailta.pe/img/fbPic368.png
-musiColor: musiColor368.png
-guestPic: guestPic368.jpg
-pubDate: '2019-07-28'
+description: This morning, let's revel in the lush universe of Maenad Veyl, one
+  of precisely crafted sounds and carefuly built momentums. His attention to
+  detail and riveting atmospheres shine through his productions or the work of
+  the artists he promotes on his label VEYL. The selection he prepared this
+  sunday is no exception to that, a stroll through fresh ambient layers, a warm
+  jazzy afrobeat piece or even a trension-building drum-and-bass track, all in
+  restraint.
+image: /img/fbpic368.png
+musiColor: /img/musicolor368.png
+guestPic: /img/guestpic368.jpg
+pubDate: 2019-07-28
+track1:
+  title: MY DISCO - Exercise in Sacrifice
+  color: dreamy
+  link: https://sounds.mailta.pe/368/track1.mp3
+track2:
+  title: KOKOROKO - Adwa
+  color: vibrant
+  link: https://sounds.mailta.pe/368/track2.mp3
+track3:
+  title: Ed Rush - Skylab
+  color: vibrant
+  link: https://sounds.mailta.pe/368/track3.mp3
+track4:
+  title: Maenad Veyl - In Ruins
+  color: dreamy
+  link: https://sounds.mailta.pe/368/track4.mp3
+track5:
+  title: Zavoloka - Gromovytsya | Громовиця
+  color: dreamy
+  link: https://sounds.mailta.pe/368/track5.mp3
+track6:
+  title: Joni Void - Observer (Natalie's Song)
+  color: trippy
+  link: https://sounds.mailta.pe/368/track6.mp3
+track7:
+  title: Simo Cell - As Long As We Have Those Things
+  color: dreamy
+  link: https://sounds.mailta.pe/368/track7.mp3
+release: 368
 ---
 
 

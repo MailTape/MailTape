@@ -1,41 +1,50 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
-track2_link: https://sounds.mailta.pe/424/track2.mp3
-track5_link: https://sounds.mailta.pe/424/track5.mp3
-track1_link: https://sounds.mailta.pe/424/track1.mp3
-track3_link: https://sounds.mailta.pe/424/track3.mp3
-track4_link: https://sounds.mailta.pe/424/track4.mp3
 author: ImaCrea
 writer: ImaCrea
-category: '424'
 guest_name: Natalie Greffel
 guest_color: vibrant
-track1_title: Donny Hathaway - A Song for You
-track2_title: Kasper Staub Trio - People Who Love Each Other
-track3_title: Johnny Alf - Rapaz de BEM
-track4_title: Natalie Greffel - Toquei
-track5_title: Deborah Dery - Spring Can Really Hang You Up The Most (cover)(quarantine version)
-track6_title: 'Emel - The Man Who Sold the World '
-track7_title: Teno Afrika - Lerato La Bass
-track6_link: https://sounds.mailta.pe/424/track6.mp3
-track7_link: https://sounds.mailta.pe/424/track7.mp3
-episode_URL: https://www.mailta.pe/424/Natalie-Greffel/
-guestPic: guestPic424.jpg
-track1_color: bliss
-track2_color: dreamy
-track3_color: vibrant
-track4_color: vibrant
-track5_color: dreamy
-track6_color: bliss
-track7_color: trippy
-musiColor: musiColor424.png
-image: https://www.mailta.pe/img/fbPic424.png
+guestPic: /img/guestpic424.jpg
+musiColor: /img/musicolor424.png
+image: /img/fbpic424.png
 illustrator: Meriam Kharbat
-description: This morning, we're serving you a comfy episode. A selection curated with great care for a chill morning at home spent alone or with your loved ones sipping a warm hot chocolate. From blues, to bossa nova, Bowie's vibes and amapiano, we're honored to share this episode with Natalie Greffel as our dear guest.
-
-pubDate: '2020-11-08'
+description: This morning, we're serving you a comfy episode. A selection
+  curated with great care for a chill morning at home spent alone or with your
+  loved ones sipping a warm hot chocolate. From blues, to bossa nova, Bowie's
+  vibes and amapiano, we're honored to share this episode with Natalie Greffel
+  as our dear guest.
+pubDate: 2020-11-08
+track1:
+  title: Donny Hathaway - A Song for You
+  color: bliss
+  link: https://sounds.mailta.pe/424/track1.mp3
+track2:
+  title: Kasper Staub Trio - People Who Love Each Other
+  color: dreamy
+  link: https://sounds.mailta.pe/424/track2.mp3
+track3:
+  title: Johnny Alf - Rapaz de BEM
+  color: vibrant
+  link: https://sounds.mailta.pe/424/track3.mp3
+track4:
+  title: Natalie Greffel - Toquei
+  color: vibrant
+  link: https://sounds.mailta.pe/424/track4.mp3
+track5:
+  title: Deborah Dery - Spring Can Really Hang You Up The Most (cover)(quarantine
+    version)
+  color: dreamy
+  link: https://sounds.mailta.pe/424/track5.mp3
+track6:
+  title: "Emel - The Man Who Sold the World "
+  color: bliss
+  link: https://sounds.mailta.pe/424/track6.mp3
+track7:
+  title: Teno Afrika - Lerato La Bass
+  color: trippy
+  link: https://sounds.mailta.pe/424/track7.mp3
+release: 424
 ---
 
 This morning, we're serving you a comfy episode. A selection curated with great care for a chill morning at home spent alone or with your loved ones sipping a warm hot chocolate. From blues, to bossa nova, Bowie's vibes and amapiano, we're honored to share this episode with [Natalie Greffel](https://nataliegreffel.bandcamp.com/) as our dear guest.

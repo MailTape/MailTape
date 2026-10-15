@@ -1,44 +1,50 @@
 ---
 published: true
 pubDate: 2025-10-12
-category: "593"
 guest_name: Zeid Hamdan
 guest_color: vibrant
-guestPic: guestpic593.jpg
+guestPic: /img/guestpic593.jpg
 author: Aloyse
 illustrator: Antoine Gaudin
 writer: Aloyse
-track1_title: Koast - Belek
-track1_color: vibrant
-track1_link: https://sounds.mailta.pe/593/track1.mp3
-track2_title: " CA7RIEL & Paco Amoroso - EL ÚNICO"
-track2_color: vibrant
-track2_link: https://sounds.mailta.pe/593/track2.mp3
-track3_title: Bassekou Kouyaté - The River Tune
-track3_color: bliss
-track3_link: https://sounds.mailta.pe/593/track3.mp3
-track4_title: Daboor - Sheikh Jarrah
-track4_color: vibrant
-track4_link: https://sounds.mailta.pe/593/track4.mp3
-track5_title: Zeid Hamdan - Selamnesh
-track5_color: bliss
-track5_link: https://sounds.mailta.pe/593/track5.mp3
-track6_title: Taj Mahal & Toumani Diabaté - Ol' Georgie Buck
-track6_color: vibrant
-track6_link: https://sounds.mailta.pe/593/track6.mp3
-track7_title: TootArd - Syrian Blues
-track7_color: bliss
-track7_link: https://sounds.mailta.pe/593/track7.mp3
 description: "This morning, we are delighted to welcome Zeid Hamdan for a
   playlist shaped by sounds fragile and powerful. His music moves in a space of
   contrasts: minimal beats that leave room for silence, layered textures that
   feel light and dense, tender, melancholic, but always full of light, pushing
   through the cracks. You’ll also be able to hear it live in Paris, at La Flèche
   d’Or on October 23."
-episode_URL: https://www.mailta.pe/593/Zeid-Hamdan/
-image: https://www.mailta.pe/img/fbPic593.png
-musiColor: musicolor593.png
+image: /img/fbpic593.png
+musiColor: /img/musicolor593.png
 alignY: "0.5"
+track1:
+  title: Koast - Belek
+  color: vibrant
+  link: https://sounds.mailta.pe/593/track1.mp3
+track2:
+  title: " CA7RIEL & Paco Amoroso - EL ÚNICO"
+  color: vibrant
+  link: https://sounds.mailta.pe/593/track2.mp3
+track3:
+  title: Bassekou Kouyaté - The River Tune
+  color: bliss
+  link: https://sounds.mailta.pe/593/track3.mp3
+track4:
+  title: Daboor - Sheikh Jarrah
+  color: vibrant
+  link: https://sounds.mailta.pe/593/track4.mp3
+track5:
+  title: Zeid Hamdan - Selamnesh
+  color: bliss
+  link: https://sounds.mailta.pe/593/track5.mp3
+track6:
+  title: Taj Mahal & Toumani Diabaté - Ol' Georgie Buck
+  color: vibrant
+  link: https://sounds.mailta.pe/593/track6.mp3
+track7:
+  title: TootArd - Syrian Blues
+  color: bliss
+  link: https://sounds.mailta.pe/593/track7.mp3
+release: 593
 ---
 This morning, we are delighted to welcome [Zeid Hamdan](https://soundcloud.com/zeidhamdan) for a playlist shaped by sounds both fragile and powerful. His music moves in a space of contrasts: minimal beats that leave room for silence, layered textures that feel light and dense, tender, melancholic, but always full of light, pushing through the cracks. From his early work with [Soapkills](https://soapkills.bandcamp.com/album/the-best-of) to his more recent projects, Zeid Hamdan continues to create unforgettable soundscapes.You’ll also be able to hear it live in Paris, at La Flèche d’Or on October 23.
 

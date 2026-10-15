@@ -1,40 +1,52 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 illustrator: William Girault
 author: Luc
-track1_link: https://sounds.mailta.pe/322/track1.mp3
-track2_link: https://sounds.mailta.pe/322/track2.mp3
-track3_link: https://sounds.mailta.pe/322/track3.mp3
-track4_link: https://sounds.mailta.pe/322/track4.mp3
-track5_link: https://sounds.mailta.pe/322/track5.mp3
-track6_link: https://sounds.mailta.pe/322/track6.mp3
-track7_link: https://sounds.mailta.pe/322/track7.mp3
-category: '322'
 guest_name: Nihiloxica
 guest_color: rough
-track1_title: Lou Harrison - Philemon and Baukis
-track2_title: Y Ata - Akagambo
-track3_title: Paulo Kafeero - Dipo Nazigala
-track4_title: Nihiloxica – Endongo
-track5_title: C Cat Trance - Shake The Mind (Red Axes Remix)
-track6_title: 'Marijata - No Condition Is Permanent '
-track7_title: Mbongwana Star – Malukayi
-track1_color: dreamy
-track2_color: vibrant
-track3_color: dreamy
-track4_color: rough
-track5_color: trippy
-track6_color: vibrant
-track7_color: dreamy
-episode_URL: https://www.mailta.pe/322/nihiloxica/
-guestPic: guestPic322.jpg
+guestPic: /img/guestpic322.jpg
 writer: Luc
-image: https://www.mailta.pe/img/fbPic322.JPG
-musiColor: musicColor322.JPG
-description: If defeating torpor is ever on your agenda, Ugandan’s own Nihiloxica, with their tribal percussions and visceral arrangements, should prove tremendously helpful. Their eponymous debut, recorded live in single takes, revolves around seven Ugandan percussionists – members of the Nilotika Cultural Ensemble – and combines their Bugandan drumming traditions with Western kit drumming and brooding synth layers. Far from unleashing the sonic onslaught we are used to, they seem at ease with lending us their softer side this Sunday morning.
-pubDate: '2018-09-09'
+image: /img/fbpic322.jpg
+musiColor: /img/musiccolor322.jpg
+description: If defeating torpor is ever on your agenda, Ugandan’s own
+  Nihiloxica, with their tribal percussions and visceral arrangements, should
+  prove tremendously helpful. Their eponymous debut, recorded live in single
+  takes, revolves around seven Ugandan percussionists – members of the Nilotika
+  Cultural Ensemble – and combines their Bugandan drumming traditions with
+  Western kit drumming and brooding synth layers. Far from unleashing the sonic
+  onslaught we are used to, they seem at ease with lending us their softer side
+  this Sunday morning.
+pubDate: 2018-09-09
+track1:
+  title: Lou Harrison - Philemon and Baukis
+  color: dreamy
+  link: https://sounds.mailta.pe/322/track1.mp3
+track2:
+  title: Y Ata - Akagambo
+  color: vibrant
+  link: https://sounds.mailta.pe/322/track2.mp3
+track3:
+  title: Paulo Kafeero - Dipo Nazigala
+  color: dreamy
+  link: https://sounds.mailta.pe/322/track3.mp3
+track4:
+  title: Nihiloxica – Endongo
+  color: rough
+  link: https://sounds.mailta.pe/322/track4.mp3
+track5:
+  title: C Cat Trance - Shake The Mind (Red Axes Remix)
+  color: trippy
+  link: https://sounds.mailta.pe/322/track5.mp3
+track6:
+  title: "Marijata - No Condition Is Permanent "
+  color: vibrant
+  link: https://sounds.mailta.pe/322/track6.mp3
+track7:
+  title: Mbongwana Star – Malukayi
+  color: dreamy
+  link: https://sounds.mailta.pe/322/track7.mp3
+release: 322
 ---
 If defeating torpor is ever on your agenda, Ugandan’s own [Nihiloxica](https://nyegenyegetapes.bandcamp.com/album/nihiloxica), with their tribal percussions and visceral arrangements, should prove tremendously helpful.
 <p>Their eponymous debut, recorded live in single takes, revolves around seven Ugandan percussionists – members of the Nilotika Cultural Ensemble – and combines their Bugandan drumming traditions with Western kit drumming and brooding synth layers.

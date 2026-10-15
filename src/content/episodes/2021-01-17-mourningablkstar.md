@@ -1,40 +1,49 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: ImaCrea
 illustrator: Meriam Kharbat
 writer: ImaCrea
-category: '434'
 guest_name: Mourning [A] BLKstar
 guest_color: vibrant
-track4_link: https://sounds.mailta.pe/434/track4.mp3
-track1_link: https://sounds.mailta.pe/434/track1.mp3
-track2_link: https://sounds.mailta.pe/434/track2.mp3
-track3_link: https://sounds.mailta.pe/434/track3.mp3
-track1_title: Kokoroko - Ti-de
-track2_title: Pablo Amor - whutitseemz
-track3_title: Beverly Glenn-Copeland - Winter Astral
-track4_title: Mourning [A] BLKstar - Be
-track1_color: dreamy
-track2_color: rough
-track3_color: trippy
-track4_color: bliss
-track5_link: https://sounds.mailta.pe/434/track5.mp3
-track5_title: Monomono - The World Might Fall Over
-track5_color: vibrant
-track6_title: 'SAULT - Bow feat Michael Kiwanuka '
-track6_color: vibrant
-track6_link: https://sounds.mailta.pe/434/track6.mp3
-track7_title: 'Chanel Tres  - unfinished business '
-track7_link: https://sounds.mailta.pe/434/track7.mp3
-track7_color: dreamy
-guestPic: guestPic434.jpg
-episode_URL: https://www.mailta.pe/434/mourningablkstar/
-image: https://www.mailta.pe/img/fbPic434.png
-musiColor: musiColor434.jpg
-description: This morning, we're honored to introduce you to Mourning [A] BLKstar, a fantastic band formed by RA Washington from Cleveland, Ohio. A soulful jazzy selection made with care for a delicious Sunday at home. Click on play, close your eyes and let the music speak to your spirit. Music is, has always been, and will ever be what unites us.
-pubDate: '2021-01-17'
+guestPic: /img/guestpic434.jpg
+image: /img/fbpic434.png
+musiColor: /img/musicolor434.jpg
+description: This morning, we're honored to introduce you to Mourning [A]
+  BLKstar, a fantastic band formed by RA Washington from Cleveland, Ohio. A
+  soulful jazzy selection made with care for a delicious Sunday at home. Click
+  on play, close your eyes and let the music speak to your spirit. Music is, has
+  always been, and will ever be what unites us.
+pubDate: 2021-01-17
+track1:
+  title: Kokoroko - Ti-de
+  color: dreamy
+  link: https://sounds.mailta.pe/434/track1.mp3
+track2:
+  title: Pablo Amor - whutitseemz
+  color: rough
+  link: https://sounds.mailta.pe/434/track2.mp3
+track3:
+  title: Beverly Glenn-Copeland - Winter Astral
+  color: trippy
+  link: https://sounds.mailta.pe/434/track3.mp3
+track4:
+  title: Mourning [A] BLKstar - Be
+  color: bliss
+  link: https://sounds.mailta.pe/434/track4.mp3
+track5:
+  title: Monomono - The World Might Fall Over
+  color: vibrant
+  link: https://sounds.mailta.pe/434/track5.mp3
+track6:
+  title: "SAULT - Bow feat Michael Kiwanuka "
+  color: vibrant
+  link: https://sounds.mailta.pe/434/track6.mp3
+track7:
+  title: "Chanel Tres  - unfinished business "
+  color: dreamy
+  link: https://sounds.mailta.pe/434/track7.mp3
+release: 434
 ---
  This morning, we're honored to introduce you to [Mourning \[A\] BLKstar](https://mourningablkstar.com/), a fantastic band formed by RA Washington from Cleveland, Ohio. A soulful jazzy selection made with care for a delicious Sunday at home. Click on play, close your eyes and let the music speak to your spirit. Music is, has always been, and will ever be what unites us.
 

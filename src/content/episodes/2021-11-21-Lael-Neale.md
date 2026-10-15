@@ -1,40 +1,51 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
-track1_link: https://sounds.mailta.pe/471/track1.mp3
-track2_link: https://sounds.mailta.pe/471/track2.mp3
-track3_link: https://sounds.mailta.pe/471/track3.mp3
-track4_link: https://sounds.mailta.pe/471/track4.mp3
-track5_link: https://sounds.mailta.pe/471/track5.mp3
-track6_link: https://sounds.mailta.pe/471/track6.mp3
-track7_link: https://sounds.mailta.pe/471/track7.mp3
-track1_title: Novicat de soeurs missionaires - Yes Ka Mkwebaze
-track2_title: Herb Alpert - Ladyfingers
-track3_title: Jorge Ben - Hermes Trismegistus
 guest_name: Lael Neale
-category: '471'
 writer: PS KY
 author: ImaCrea
 illustrator: Meriam Kharbat
-track4_title: Lael Neale - White Wings
-track5_title: Akiko Yano - I Sing
-track6_title: Nala Sinephro - Space 5
-track7_title: Eddy de Pretto - Val de Larmes
-track1_color: dreamy
-track2_color: dreamy
-track3_color: vibrant
-track4_color: dreamy
-track5_color: vibrant
-track6_color: trippy
-track7_color: bliss
-guestPic: guestPic471.jpg
-image: https://www.mailta.pe/img/fbPic471.jpg
-musiColor: musiColor471.png
-episode_URL: https://www.mailta.pe/471/lael-neale/
-description: This morning, we welcome our guest Lael Neale with a delicate and pacifying MailTape. This calming selection is an invitation to slow down, a guided introspection as we truly listen to both the music and ourselves.  As the world continues to open its doors back to the endless forms of entertainment and constant distractions once perceived as necessary elements of life, we must not forget the simplicity of existing we were recently welcomed to so dearly cherish.
+guestPic: /img/guestpic471.jpg
+image: /img/fbpic471.jpg
+musiColor: /img/musicolor471.png
+description: This morning, we welcome our guest Lael Neale with a delicate and
+  pacifying MailTape. This calming selection is an invitation to slow down, a
+  guided introspection as we truly listen to both the music and ourselves.  As
+  the world continues to open its doors back to the endless forms of
+  entertainment and constant distractions once perceived as necessary elements
+  of life, we must not forget the simplicity of existing we were recently
+  welcomed to so dearly cherish.
 guest_color: dreamy
-pubDate: '2021-11-21'
+pubDate: 2021-11-21
+track1:
+  title: Novicat de soeurs missionaires - Yes Ka Mkwebaze
+  color: dreamy
+  link: https://sounds.mailta.pe/471/track1.mp3
+track2:
+  title: Herb Alpert - Ladyfingers
+  color: dreamy
+  link: https://sounds.mailta.pe/471/track2.mp3
+track3:
+  title: Jorge Ben - Hermes Trismegistus
+  color: vibrant
+  link: https://sounds.mailta.pe/471/track3.mp3
+track4:
+  title: Lael Neale - White Wings
+  color: dreamy
+  link: https://sounds.mailta.pe/471/track4.mp3
+track5:
+  title: Akiko Yano - I Sing
+  color: vibrant
+  link: https://sounds.mailta.pe/471/track5.mp3
+track6:
+  title: Nala Sinephro - Space 5
+  color: trippy
+  link: https://sounds.mailta.pe/471/track6.mp3
+track7:
+  title: Eddy de Pretto - Val de Larmes
+  color: bliss
+  link: https://sounds.mailta.pe/471/track7.mp3
+release: 471
 ---
  This morning, we welcome our guest [Lael Neale](https://laelneale.bandcamp.com/album/acquainted-with-night) with a delicate and pacifying MailTape. This calming selection is an invitation to slow down, a guided introspection as we truly listen to both the music and ourselves.
 <br><br>

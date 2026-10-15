@@ -1,40 +1,47 @@
 ---
-
-bigTitle_font_ratio: '5'
+bigTitle_font_ratio: "5"
 published: true
-track1_link: https://sounds.mailta.pe/247/track1.mp3
-track2_link: https://sounds.mailta.pe/247/track2.mp3
-track3_link: https://sounds.mailta.pe/247/track3.mp3
-track4_link: https://sounds.mailta.pe/247/track4.mp3
-track5_link: https://sounds.mailta.pe/247/track5.mp3
-track6_link: https://sounds.mailta.pe/247/track6.mp3
-track7_link: https://sounds.mailta.pe/247/track7.mp3
-category: '247'
 author: Sanjay Mistry
 illustrator: Isabelle Escande
 writer: Daisy
 guest_name: Cara Stacey
 guest_color: dreamy
-track1_title: Samthing Soweto - Jack Of All Trades
-track1_color: dreamy
-track2_title: Owiny Sigoma Band - Owegi Owandho (Hello Skinny Remix)
-track2_color: vibrant
-track3_title: Waver - Aphelion
-track3_color: bliss
-track4_title: Cara Stacey - Dark Matter
-track4_color: vibrant
-track5_title: Malombo Jazz Makers - Hleziphi
-track5_color: bliss
-track6_title: Sons of Kemet - Adonia’s Lullaby
-track6_color: dreamy
-track7_title: Nérija - The Fisherman
-track7_color: vibrant
-episode_URL: https://www.mailta.pe/247/Cara-Stacey/
-guestPic: guestPic247.jpg
-image: https://www.mailta.pe/img/fbPic247.jpg
-musiColor: musiColor247.png
-description: This morning, let your curiosity about the world and all its corners run wild, with an intriguing selection from our guest Cara Stacey - composer, researcher, improviser and multi-instrumentalist.
-pubDate: '2017-02-12'
+guestPic: /img/guestpic247.jpg
+image: /img/fbpic247.jpg
+musiColor: /img/musicolor247.png
+description: This morning, let your curiosity about the world and all its
+  corners run wild, with an intriguing selection from our guest Cara Stacey -
+  composer, researcher, improviser and multi-instrumentalist.
+pubDate: 2017-02-12
+track1:
+  title: Samthing Soweto - Jack Of All Trades
+  color: dreamy
+  link: https://sounds.mailta.pe/247/track1.mp3
+track2:
+  title: Owiny Sigoma Band - Owegi Owandho (Hello Skinny Remix)
+  color: vibrant
+  link: https://sounds.mailta.pe/247/track2.mp3
+track3:
+  title: Waver - Aphelion
+  color: bliss
+  link: https://sounds.mailta.pe/247/track3.mp3
+track4:
+  title: Cara Stacey - Dark Matter
+  color: vibrant
+  link: https://sounds.mailta.pe/247/track4.mp3
+track5:
+  title: Malombo Jazz Makers - Hleziphi
+  color: bliss
+  link: https://sounds.mailta.pe/247/track5.mp3
+track6:
+  title: Sons of Kemet - Adonia’s Lullaby
+  color: dreamy
+  link: https://sounds.mailta.pe/247/track6.mp3
+track7:
+  title: Nérija - The Fisherman
+  color: vibrant
+  link: https://sounds.mailta.pe/247/track7.mp3
+release: 247
 ---
 This morning, let your curiosity about the world and all its corners run wild, with an intriguing selection from our guest [Cara Stacey](http://www.carastacey.com/ "Cara Stacey") - composer, researcher, improviser and multi-instrumentalist.
 

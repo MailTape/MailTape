@@ -1,40 +1,54 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
-category: '540'
 author: Jules
 illustrator: Noémie Dijon
 writer: Jules
 guest_name: NxQuantize
 guest_color: trippy
-track1_title: Slauson Malone 1 - Voyager
-track2_title: Earl Sweatshirt & The Alchemist - Mac Deuce
-track3_title: Everything But The Girl - Flipside
-episode_URL: https://www.mailta.pe/540/nxquantize/
-track4_title: NxQuantize - OnYi
-track5_title: modest by default - 你带着太阳的热量
-track6_title: Natural Wonder Beauty Concept - Natural Wonder Beauty Concept
-track7_title: Oneohtrix Point Never - Ubiquity Road
-track1_link: https://sounds.mailta.pe/540/track1.mp3
-track1_color: bliss
-track2_link: https://sounds.mailta.pe/540/track2.mp3
-track2_color: vibrant
-track3_link: https://sounds.mailta.pe/540/track3.mp3
-track3_color: dreamy
-track4_color: trippy
-track4_link: https://sounds.mailta.pe/540/track4.mp3
-track5_link: https://sounds.mailta.pe/540/track5.mp3
-track5_color: vibrant
-track6_link: https://sounds.mailta.pe/540/track6.mp3
-track6_color: dreamy
-track7_link: https://sounds.mailta.pe/540/track7.mp3
-track7_color: bliss
-musiColor: musiColor540.png
-guestPic: guestPic540.jpg
-image: https://www.mailta.pe/img/fbPic540.png
-description: This morning, we welcome Marseille-based artist and electronic music producer NxQuantize to MailTape! After welcoming label boss Goldie B in episode 537, we're delighted to shine the spotlight on another Omakase Recordings artist, who has recently released its dazzling second album OnYi. As explained by the artist, who coined this neologism, the term 'OnYi' means 'to be in the void', reflecting his exploration of the mysteries of the universe and the limits of our existence. So if, like me, these words make sense when you wake up and your mind is still in a dreamy state, let's not say anymore and get swept up in its rich and contemplative musical universe for a blissful Sunday morning!
-pubDate: '2023-11-19'
+musiColor: /img/musicolor540.png
+guestPic: /img/guestpic540.jpg
+image: /img/fbpic540.png
+description: This morning, we welcome Marseille-based artist and electronic
+  music producer NxQuantize to MailTape! After welcoming label boss Goldie B in
+  episode 537, we're delighted to shine the spotlight on another Omakase
+  Recordings artist, who has recently released its dazzling second album OnYi.
+  As explained by the artist, who coined this neologism, the term 'OnYi' means
+  'to be in the void', reflecting his exploration of the mysteries of the
+  universe and the limits of our existence. So if, like me, these words make
+  sense when you wake up and your mind is still in a dreamy state, let's not say
+  anymore and get swept up in its rich and contemplative musical universe for a
+  blissful Sunday morning!
+pubDate: 2023-11-19
+track1:
+  title: Slauson Malone 1 - Voyager
+  color: bliss
+  link: https://sounds.mailta.pe/540/track1.mp3
+track2:
+  title: Earl Sweatshirt & The Alchemist - Mac Deuce
+  color: vibrant
+  link: https://sounds.mailta.pe/540/track2.mp3
+track3:
+  title: Everything But The Girl - Flipside
+  color: dreamy
+  link: https://sounds.mailta.pe/540/track3.mp3
+track4:
+  title: NxQuantize - OnYi
+  color: trippy
+  link: https://sounds.mailta.pe/540/track4.mp3
+track5:
+  title: modest by default - 你带着太阳的热量
+  color: vibrant
+  link: https://sounds.mailta.pe/540/track5.mp3
+track6:
+  title: Natural Wonder Beauty Concept - Natural Wonder Beauty Concept
+  color: dreamy
+  link: https://sounds.mailta.pe/540/track6.mp3
+track7:
+  title: Oneohtrix Point Never - Ubiquity Road
+  color: bliss
+  link: https://sounds.mailta.pe/540/track7.mp3
+release: 540
 ---
 
 This morning, we welcome Marseille-based artist and electronic music producer [NxQuantize](https://www.facebook.com/NxQuantize/) to MailTape! After welcoming label boss Goldie B in [episode 537](https://www.mailta.pe/537/goldie-b/), we're delighted to shine the spotlight on another [Omakase Recordings](https://omakaserecordings.bandcamp.com/) artist, who has recently released its dazzling second album <i>OnYi</i>.

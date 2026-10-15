@@ -1,40 +1,48 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
-track1_title: José Gonzalez - Line of Fire
-track1_color: vibrant
-track2_title: 'Eddie Chacon - My Mind is Out of its Mind '
-track2_color: dreamy
-track3_title: 'Frank Ocean - Cayendo '
-track3_color: vibrant
-track4_title: Souleance - Mont Maudit
-track4_color: bliss
-track5_title: BadBadNotGood - Confessions pt || feat Colin Stetson
-track5_color: trippy
-track7_title: 'Sampa The Great - Rhymes To The East '
-track7_color: bliss
-track6_title: Caribou - Magpie
-track6_color: dreamy
-episode_URL: http://mailta.pe/473/souleance/
-image: https://www.mailta.pe/img/fbPic473.png
-musiColor: musiColor473.png
+image: /img/fbpic473.png
+musiColor: /img/musicolor473.png
 writer: Anaïs G
 illustrator: Camille Célestin
 author: Anaïs G
-category: '473'
 guest_name: Souleance
 guest_color: bliss
-guestPic: guestPic473.jpg
-track1_link: https://sounds.mailta.pe/473/track1.mp3
-track2_link: https://sounds.mailta.pe/473/track2.mp3
-track3_link: https://sounds.mailta.pe/473/track3.mp3
-track4_link: https://sounds.mailta.pe/473/track4.mp3
-track5_link: https://sounds.mailta.pe/473/track5.mp3
-track6_link: https://sounds.mailta.pe/473/track6.mp3
-track7_link: https://sounds.mailta.pe/473/track7.mp3
-description: This morning, the cold freezes our minds and the rain makes us feel bad. Fortunately, to chase away all its negative waves, we have the selection of the group Souleance. Smoothie, sunshine and good vibes in abundance to counter this winter that is fast approaching.
-pubDate: '2021-12-05'
+guestPic: /img/guestpic473.jpg
+description: This morning, the cold freezes our minds and the rain makes us feel
+  bad. Fortunately, to chase away all its negative waves, we have the selection
+  of the group Souleance. Smoothie, sunshine and good vibes in abundance to
+  counter this winter that is fast approaching.
+pubDate: 2021-12-05
+track1:
+  title: José Gonzalez - Line of Fire
+  color: vibrant
+  link: https://sounds.mailta.pe/473/track1.mp3
+track2:
+  title: "Eddie Chacon - My Mind is Out of its Mind "
+  color: dreamy
+  link: https://sounds.mailta.pe/473/track2.mp3
+track3:
+  title: "Frank Ocean - Cayendo "
+  color: vibrant
+  link: https://sounds.mailta.pe/473/track3.mp3
+track4:
+  title: Souleance - Mont Maudit
+  color: bliss
+  link: https://sounds.mailta.pe/473/track4.mp3
+track5:
+  title: BadBadNotGood - Confessions pt || feat Colin Stetson
+  color: trippy
+  link: https://sounds.mailta.pe/473/track5.mp3
+track6:
+  title: Caribou - Magpie
+  color: dreamy
+  link: https://sounds.mailta.pe/473/track6.mp3
+track7:
+  title: "Sampa The Great - Rhymes To The East "
+  color: bliss
+  link: https://sounds.mailta.pe/473/track7.mp3
+release: 473
 ---
  This morning, the cold freezes our minds and the rain makes us feel bad. Fortunately, to chase away all its negative waves, we have the selection of the group [Souleance](https://souleance.bandcamp.com/). Smoothie, sunshine and good vibes in abundance to counter this winter that is fast approaching.
 <br><br>

@@ -4,35 +4,47 @@ author: ImaCrea
 guest_color: vibrant
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
-track1_color: vibrant
-track2_color: dreamy
-track3_color: dreamy
-track4_color: vibrant
-track5_color: vibrant
-track6_color: trippy
-track7_color: trippy
-track1_link: "https://sounds.mailta.pe/178/track1.mp3"
-track2_link: "https://sounds.mailta.pe/178/track2.mp3"
-track3_link: "https://sounds.mailta.pe/178/track3.mp3"
-track4_link: "https://sounds.mailta.pe/178/track4.mp3"
-track5_link: "https://sounds.mailta.pe/178/track5.mp3"
-track6_link: "https://sounds.mailta.pe/missingTrack.mp3"
-track7_link: "https://sounds.mailta.pe/178/track7.mp3"
-track1_title: "Ed Sharpe & The Magnetic Zeros - 40 Day Dream (Turbotito Rmx)"
-track2_title: "KZA - Vous Dansez"
-track3_title: "Whitey - Made Of Night"
-track4_title: "Kid Francescoli - Blow Up"
-track5_title: "Mark Johns - 5 South (Prod. Alexander Lewis) Ft. Brasstracks"
-track6_title: "Craz - Dust"
-track7_title: "Spongemagnet - Voyage To Cyborn907"
-category: "178"
 guest_name: Kid Francescoli
-guestPic: guestPic178.jpg
-episode_URL: "http://mailta.pe/178/Kid-Francescoli/"
-image: https://www.mailta.pe/img/fbPic178.jpg
-musiColor: musiColor178.png
-description: "This morning, our playlist curated with Kid Francescoli is like a perennial river as it is meant to flow round the clock. The first track serves as a point of origin. And subsequently, the second track is where the river determines its course. There comes a point where it slows down and rests as Chet Baker’s “Almost Blow” tunes in. But then, gradually gravitates towards its primal state—which is where “Blow up” by Francescoli, unfurls its mystery. And keeps the playlist flowing until it immerses in the ocean."
-pubDate: '2015-03-22'
+guestPic: /img/guestpic178.jpg
+image: /img/fbpic178.jpg
+musiColor: /img/musicolor178.png
+description: This morning, our playlist curated with Kid Francescoli is like a
+  perennial river as it is meant to flow round the clock. The first track serves
+  as a point of origin. And subsequently, the second track is where the river
+  determines its course. There comes a point where it slows down and rests as
+  Chet Baker’s “Almost Blow” tunes in. But then, gradually gravitates towards
+  its primal state—which is where “Blow up” by Francescoli, unfurls its mystery.
+  And keeps the playlist flowing until it immerses in the ocean.
+pubDate: 2015-03-22
+track1:
+  title: Ed Sharpe & The Magnetic Zeros - 40 Day Dream (Turbotito Rmx)
+  color: vibrant
+  link: https://sounds.mailta.pe/178/track1.mp3
+track2:
+  title: KZA - Vous Dansez
+  color: dreamy
+  link: https://sounds.mailta.pe/178/track2.mp3
+track3:
+  title: Whitey - Made Of Night
+  color: dreamy
+  link: https://sounds.mailta.pe/178/track3.mp3
+track4:
+  title: Kid Francescoli - Blow Up
+  color: vibrant
+  link: https://sounds.mailta.pe/178/track4.mp3
+track5:
+  title: Mark Johns - 5 South (Prod. Alexander Lewis) Ft. Brasstracks
+  color: vibrant
+  link: https://sounds.mailta.pe/178/track5.mp3
+track6:
+  title: Craz - Dust
+  color: trippy
+  link: https://sounds.mailta.pe/missingTrack.mp3
+track7:
+  title: Spongemagnet - Voyage To Cyborn907
+  color: trippy
+  link: https://sounds.mailta.pe/178/track7.mp3
+release: 178
 ---
 
 This morning, our playlist curated with [Kid Francescoli](https://www.facebook.com/kidfrancescoli) is like a perennial river as it is meant to flow round the clock. The first track serves as a point of origin with the second track tuning in to help determine its course. And as soon as Whitey’s Made in the night tunes in, the river changes its course in a very sinister yet playful way.  But then, gradually gravitates towards its primal state—which is where “Blow up” by Francescoli unfurls its mystery. And keeps the playlist flowing until it immerses in the ocean.

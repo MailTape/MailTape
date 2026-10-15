@@ -1,39 +1,45 @@
 ---
-
 published: true
 author: Louise
 guest_color: vibrant
-bigTitle_font_ratio: '6'
-bigTitle_line_ratio: '1'
-track1_color: vibrant
-track2_color: vibrant
-track3_color: dreamy
-track4_color: vibrant
-track5_color: vibrant
-track6_color: vibrant
-track7_color: vibrant
-category: '167'
+bigTitle_font_ratio: "6"
+bigTitle_line_ratio: "1"
 guest_name: Chill Bump
-guestPic: guestPic167.jpg
-track1_link: https://sounds.mailta.pe/167/track1.mp3
-track2_link: https://sounds.mailta.pe/167/track2.mp3
-track3_link: https://sounds.mailta.pe/167/track3.mp3
-track1_title: Flight of The Conchords - Foux du Fafa
-track2_title: Nate Dogg - I Got Love
-track3_title: James Blake - Retrograde
-track4_title: Chill Bump - One Way Ticket
-episode_URL: http://mailta.pe/167/Chill-Bump/
-image: https://www.mailta.pe/img/fbPic167.jpg
-musiColor: musiColor167.png
-track4_link: https://sounds.mailta.pe/167/track4.mp3
-track5_link: https://sounds.mailta.pe/167/track5.mp3
-track5_title: Jonny K. & Haleek Maul - Insane
-track6_link: https://sounds.mailta.pe/167/track6.mp3
-track6_title: Asagaya ft. Lorine Chia - Elusive / Delusive
-track7_link: https://sounds.mailta.pe/167/track7.mp3
-track7_title: Raury - God's Whisper
-description: This morning, let's dance and celebrate 2015 to the selection of the powerful duo Chill Bump.
-pubDate: '2015-01-04'
+guestPic: /img/guestpic167.jpg
+image: /img/fbpic167.jpg
+musiColor: /img/musicolor167.png
+description: This morning, let's dance and celebrate 2015 to the selection of
+  the powerful duo Chill Bump.
+pubDate: 2015-01-04
+track1:
+  title: Flight of The Conchords - Foux du Fafa
+  color: vibrant
+  link: https://sounds.mailta.pe/167/track1.mp3
+track2:
+  title: Nate Dogg - I Got Love
+  color: vibrant
+  link: https://sounds.mailta.pe/167/track2.mp3
+track3:
+  title: James Blake - Retrograde
+  color: dreamy
+  link: https://sounds.mailta.pe/167/track3.mp3
+track4:
+  title: Chill Bump - One Way Ticket
+  color: vibrant
+  link: https://sounds.mailta.pe/167/track4.mp3
+track5:
+  title: Jonny K. & Haleek Maul - Insane
+  color: vibrant
+  link: https://sounds.mailta.pe/167/track5.mp3
+track6:
+  title: Asagaya ft. Lorine Chia - Elusive / Delusive
+  color: vibrant
+  link: https://sounds.mailta.pe/167/track6.mp3
+track7:
+  title: Raury - God's Whisper
+  color: vibrant
+  link: https://sounds.mailta.pe/167/track7.mp3
+release: 167
 ---
 
 

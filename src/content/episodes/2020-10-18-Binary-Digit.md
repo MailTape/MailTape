@@ -1,40 +1,57 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Jules
 illustrator: Jason Pridham
 writer: Jules
-category: '421'
 guest_name: Binary Digit
 guest_color: trippy
-track1_title: DMX Krew - 100 Tears
-track1_color: vibrant
-track2_color: dreamy
-track3_color: bliss
-track4_color: vibrant
-track5_color: trippy
-track6_color: trippy
-track7_color: bliss
-track2_title: Datassette - When I'm Gone (w/ Mücha)
-track3_title: Bot1500 - P8.1
-track4_title: Binary Digit - Sensitive Acid Boy
-track5_title: Skee Mask - Muk FM
-track6_title: EOD - Express
-track7_title: chris††† - より良い場所
-episode_URL: http://www.mailta.pe/421/binary-digit/
-guestPic: guestPic421.jpg
-track1_link: https://sounds.mailta.pe/421/track1.mp3
-track2_link: https://sounds.mailta.pe/421/track2.mp3
-track3_link: https://sounds.mailta.pe/421/track3.mp3
-track4_link: https://sounds.mailta.pe/421/track4.mp3
-track5_link: https://sounds.mailta.pe/421/track5.mp3
-track6_link: https://sounds.mailta.pe/421/track6.mp3
-track7_link: https://sounds.mailta.pe/421/track7.mp3
-image: https://www.mailta.pe/img/fbPic421.png
-musiColor: musiColor421.png
-description: 'This morning, the alarm clock tastes acid and sour, that kind of unpleasant sensation at first glance but which you eventually get used to, before asking for more. Binary Digit''s selection goes straight to the point, somewhere between this unexpected ray of sunshine that pierces a gray autumn sky and the cold of winter that comes under our covers to tickle our feet. The same image always comes to mind when I try to describe Binary Digit]''s music. I have this vision that seems to come from a dream, I see a dance floor plunged into darkness and crossed at regular intervals by rays of colored light where dancers move energetically to the sound of bass rythms tears slowly roll down their cheeks. Like techno clubs'' anthems, the high bpm immediatly catches you but the Grenoble-based producer''s music has something stronger to offer than a physical influence: an acid and restless melancholy that will move your mind and hit you straight in the guts.'
-pubDate: '2020-10-18'
+guestPic: /img/guestpic421.jpg
+image: /img/fbpic421.png
+musiColor: /img/musicolor421.png
+description: "This morning, the alarm clock tastes acid and sour, that kind of
+  unpleasant sensation at first glance but which you eventually get used to,
+  before asking for more. Binary Digit's selection goes straight to the point,
+  somewhere between this unexpected ray of sunshine that pierces a gray autumn
+  sky and the cold of winter that comes under our covers to tickle our feet. The
+  same image always comes to mind when I try to describe Binary Digit]'s music.
+  I have this vision that seems to come from a dream, I see a dance floor
+  plunged into darkness and crossed at regular intervals by rays of colored
+  light where dancers move energetically to the sound of bass rythms tears
+  slowly roll down their cheeks. Like techno clubs' anthems, the high bpm
+  immediatly catches you but the Grenoble-based producer's music has something
+  stronger to offer than a physical influence: an acid and restless melancholy
+  that will move your mind and hit you straight in the guts."
+pubDate: 2020-10-18
+track1:
+  title: DMX Krew - 100 Tears
+  color: vibrant
+  link: https://sounds.mailta.pe/421/track1.mp3
+track2:
+  title: Datassette - When I'm Gone (w/ Mücha)
+  color: dreamy
+  link: https://sounds.mailta.pe/421/track2.mp3
+track3:
+  title: Bot1500 - P8.1
+  color: bliss
+  link: https://sounds.mailta.pe/421/track3.mp3
+track4:
+  title: Binary Digit - Sensitive Acid Boy
+  color: vibrant
+  link: https://sounds.mailta.pe/421/track4.mp3
+track5:
+  title: Skee Mask - Muk FM
+  color: trippy
+  link: https://sounds.mailta.pe/421/track5.mp3
+track6:
+  title: EOD - Express
+  color: trippy
+  link: https://sounds.mailta.pe/421/track6.mp3
+track7:
+  title: chris††† - より良い場所
+  color: bliss
+  link: https://sounds.mailta.pe/421/track7.mp3
+release: 421
 ---
  This morning, the alarm clock tastes acid and sour, that kind of unpleasant sensation at first glance but which you eventually get used to, before asking for more. [Binary Digit](https://binarydigit.bandcamp.com/)'s selection goes straight to the point, somewhere between this unexpected ray of sunshine that pierces a gray autumn sky and the cold of winter that comes under our covers to tickle our feet.
 <br><br>

@@ -1,40 +1,46 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Sanjay Mistry
 illustrator: Pierre-Julien Fieux
 writer: Sanjay Mistry
-category: '315'
 guest_name: MALFNKTION
 guest_color: trippy
-track1_link: https://sounds.mailta.pe/315/track1.mp3
-track2_link: https://sounds.mailta.pe/315/track2.mp3
-track3_link: https://sounds.mailta.pe/315/track3.mp3
-track4_link: https://sounds.mailta.pe/315/track4.mp3
-track5_link: https://sounds.mailta.pe/315/track5.mp3
-track6_link: https://sounds.mailta.pe/315/track6.mp3
-track7_link: https://sounds.mailta.pe/315/track7.mp3
-track1_title: Wild Belle – Love Like This
-track1_color: bliss
-track2_title: Emancipator – Bat Country
-track2_color: dreamy
-track3_title: Anderson .Paak — The Dreamer (ft. Talib Kweli & Timan Family Choir)
-track3_color: vibrant
-track4_title: MALFNKTION & Zoya – Be Free
-track4_color: dreamy
-track5_title: Yaeji – drink i'm sippin on
-track5_color: trippy
-track6_title: Dualist Inquiry – Soleil
-track6_color: dreamy
-track7_title: Tigue – .......
-track7_color: bliss
-episode_URL: http://mailta.pe/315/malfnktion/
-description: This morning we are excited to welcome MALFNKTION, the electronic music project of Bengaluru-based musician, Aditya Alamuru.
-guestPic: guestPic315.jpg
-image: https://www.mailta.pe/img/fbPic315.jpg
-musiColor: musiColor315.png
-pubDate: '2018-06-03'
+description: This morning we are excited to welcome MALFNKTION, the electronic
+  music project of Bengaluru-based musician, Aditya Alamuru.
+guestPic: /img/guestpic315.jpg
+image: /img/fbpic315.jpg
+musiColor: /img/musicolor315.png
+pubDate: 2018-06-03
+track1:
+  title: Wild Belle – Love Like This
+  color: bliss
+  link: https://sounds.mailta.pe/315/track1.mp3
+track2:
+  title: Emancipator – Bat Country
+  color: dreamy
+  link: https://sounds.mailta.pe/315/track2.mp3
+track3:
+  title: Anderson .Paak — The Dreamer (ft. Talib Kweli & Timan Family Choir)
+  color: vibrant
+  link: https://sounds.mailta.pe/315/track3.mp3
+track4:
+  title: MALFNKTION & Zoya – Be Free
+  color: dreamy
+  link: https://sounds.mailta.pe/315/track4.mp3
+track5:
+  title: Yaeji – drink i'm sippin on
+  color: trippy
+  link: https://sounds.mailta.pe/315/track5.mp3
+track6:
+  title: Dualist Inquiry – Soleil
+  color: dreamy
+  link: https://sounds.mailta.pe/315/track6.mp3
+track7:
+  title: Tigue – .......
+  color: bliss
+  link: https://sounds.mailta.pe/315/track7.mp3
+release: 315
 ---
 This morning we are excited to welcome [MALFNKTION](https://malfnktion.bandcamp.com/), the electronic music project of Bengaluru-based musician, Aditya Alamuru.
 <p>The project derives its sound from hip-hop compositions, classical Indian music, old Indian film music, audio recordings taken from the streets of Mumbai and sounds collected in remote parts of the country. His debut EP ‘[Hindustani Rascal](https://soundcloud.com/malfnktion/sets/hindustani-rascal-ep)’, released in 2015, was a homage to the golden age of Indian cinema and his second EP, ‘[Vote for Worms](https://soundcloud.com/malfnktion/sets/vote-for-worms)’, was released in December 2016.

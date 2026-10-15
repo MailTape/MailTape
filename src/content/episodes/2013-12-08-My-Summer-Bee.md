@@ -1,38 +1,45 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: ImaCrea
-category: '119'
 guest_name: My Summer Bee
 guest_color: vibrant
-guestPic: guestPic119.jpg
-track1_link: https://sounds.mailta.pe/119/track1.mp3
-track2_link: https://sounds.mailta.pe/119/track2.mp3
-track3_link: https://sounds.mailta.pe/119/track3.mp3
-track4_link: https://sounds.mailta.pe/119/track4.mp3
-track5_link: https://sounds.mailta.pe/119/track5.mp3
-track6_link: https://sounds.mailta.pe/119/track6.mp3
-track7_link: https://sounds.mailta.pe/119/track7.mp3
-track1_title: Brenton Wood - Gimme Little Sign
-track2_title: Metronomy - Everything Goes My Way
-track3_title: The Child of Love - Fly
-track4_title: My Summer Bee - Figurine
-track5_title: JP Balboa - Deep Culture
-track6_title: Falcons - Falcon Eye
-track7_title: Erol Alkan - A Hold On Love
-track1_color: vibrant
-track2_color: vibrant
-track3_color: bliss
-track4_color: vibrant
-track5_color: bliss
-track6_color: trippy
-track7_color: vibrant
-episode_URL: https://www.mailta.pe/119/Vect/
-description: This morning, My Summer Bee brings their joy and energy ! No excuses to stay in your bed, let this vibrant episode shine and fill your soul with great vibes. Wake up, live with passion and have an amazing sunday!
-image: https://www.mailta.pe/img/fbPic119.png
-musiColor: musiColor119.png
-pubDate: '2013-12-08'
+guestPic: /img/guestpic119.jpg
+description: This morning, My Summer Bee brings their joy and energy ! No
+  excuses to stay in your bed, let this vibrant episode shine and fill your soul
+  with great vibes. Wake up, live with passion and have an amazing sunday!
+image: /img/fbpic119.png
+musiColor: /img/musicolor119.png
+pubDate: 2013-12-08
+track1:
+  title: Brenton Wood - Gimme Little Sign
+  color: vibrant
+  link: https://sounds.mailta.pe/119/track1.mp3
+track2:
+  title: Metronomy - Everything Goes My Way
+  color: vibrant
+  link: https://sounds.mailta.pe/119/track2.mp3
+track3:
+  title: The Child of Love - Fly
+  color: bliss
+  link: https://sounds.mailta.pe/119/track3.mp3
+track4:
+  title: My Summer Bee - Figurine
+  color: vibrant
+  link: https://sounds.mailta.pe/119/track4.mp3
+track5:
+  title: JP Balboa - Deep Culture
+  color: bliss
+  link: https://sounds.mailta.pe/119/track5.mp3
+track6:
+  title: Falcons - Falcon Eye
+  color: trippy
+  link: https://sounds.mailta.pe/119/track6.mp3
+track7:
+  title: Erol Alkan - A Hold On Love
+  color: vibrant
+  link: https://sounds.mailta.pe/119/track7.mp3
+release: 119
 ---
 This morning, My Summer Bee brings their joy and energy ! No excuses to stay in your bed, let this vibrant episode shine and fill your soul with great vibes. Wake up, live with passion and have an amazing sunday!
 

@@ -1,40 +1,54 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Jules
 illustrator: Julie Wojtczak
 writer: Jules
-category: '386'
 guest_name: An Explore
 guest_color: bliss
-track1_title: Booker T & the MGs – Soul Dressing
-track2_title: Steve Reich – Electric Counterpoint 1.2.3
-track2_color: bliss
-track1_color: trippy
-track3_title: Quincy Jones – Killer Joe
-track4_title: An Explore - Small Drop (Suikinkutsu)
-track7_title: Maksim - Untitled (A2)
-track7_color: dreamy
-track3_color: vibrant
-episode_URL: http://mailta.pe/386/an-explore/
-track1_link: https://sounds.mailta.pe/386/track1.mp3
-track2_link: https://sounds.mailta.pe/386/track2.mp3
-track3_link: https://sounds.mailta.pe/386/track3.mp3
-track7_link: https://sounds.mailta.pe/386/track7.mp3
-track5_link: https://sounds.mailta.pe/386/track5.mp3
-track4_link: https://sounds.mailta.pe/386/track4.mp3
-track6_link: https://sounds.mailta.pe/386/track6.mp3
-track6_color: trippy
-track6_title: Manitoba - Brandon
-track4_color: bliss
-track5_color: dreamy
-track5_title: Slow Meadow - Artificial Algorithm
-guestPic: guestPic386.jpg
-image: ' https://www.mailta.pe/img/fbPic386.png'
-musiColor: musiColor386.png
-description: This morning, it's finally time to slow down, stay awake for eternity in bed before enjoying a hot coffee contemplating the sky behind your window. Prepare for an exploratory musical morning journey with An Explore. To record "One", his five-track album released under the name of An Explore, Rob Macdonald has teamed with long time collaborator Lucy Wilkins to add violins and occasional vocal on his mix of piano and guitar melodies, electronic experimentations and field recordings. This collaboration creates an infinite and peaceful space conducive to escape and daydreaming, a perfect trip to take stock of the past year, to think of the day that is coming as well as of future excursions in distant lands.
-pubDate: '2019-12-29'
+guestPic: /img/guestpic386.jpg
+image: " https://www.mailta.pe/img/fbpic386.png"
+musiColor: /img/musicolor386.png
+description: This morning, it's finally time to slow down, stay awake for
+  eternity in bed before enjoying a hot coffee contemplating the sky behind your
+  window. Prepare for an exploratory musical morning journey with An Explore. To
+  record "One", his five-track album released under the name of An Explore, Rob
+  Macdonald has teamed with long time collaborator Lucy Wilkins to add violins
+  and occasional vocal on his mix of piano and guitar melodies, electronic
+  experimentations and field recordings. This collaboration creates an infinite
+  and peaceful space conducive to escape and daydreaming, a perfect trip to take
+  stock of the past year, to think of the day that is coming as well as of
+  future excursions in distant lands.
+pubDate: 2019-12-29
+track1:
+  title: Booker T & the MGs – Soul Dressing
+  color: trippy
+  link: https://sounds.mailta.pe/386/track1.mp3
+track2:
+  title: Steve Reich – Electric Counterpoint 1.2.3
+  color: bliss
+  link: https://sounds.mailta.pe/386/track2.mp3
+track3:
+  title: Quincy Jones – Killer Joe
+  color: vibrant
+  link: https://sounds.mailta.pe/386/track3.mp3
+track4:
+  title: An Explore - Small Drop (Suikinkutsu)
+  color: bliss
+  link: https://sounds.mailta.pe/386/track4.mp3
+track5:
+  title: Slow Meadow - Artificial Algorithm
+  color: dreamy
+  link: https://sounds.mailta.pe/386/track5.mp3
+track6:
+  title: Manitoba - Brandon
+  color: trippy
+  link: https://sounds.mailta.pe/386/track6.mp3
+track7:
+  title: Maksim - Untitled (A2)
+  color: dreamy
+  link: https://sounds.mailta.pe/386/track7.mp3
+release: 386
 ---
  This morning, it's finally time to slow down, stay awake for eternity in bed before enjoying a hot coffee contemplating the sky behind your window. Prepare for an exploratory musical morning journey with [An Explore](https://anexplore.bandcamp.com/).
 <br><br>

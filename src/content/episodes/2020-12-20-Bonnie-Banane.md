@@ -1,42 +1,48 @@
 ---
 published: true
 pubDate: 2020-12-20
-category: "430"
 guest_name: Bonnie Banane
 guest_color: trippy
-guestPic: guestPic430.jpg
+guestPic: /img/guestpic430.jpg
 author: Anaïs G
 illustrator: Thibault Daumain
 writer: Anaïs G
-track1_title: MonoNeon – I'm a raggedy bitch but my heart is amazing
-track1_color: bliss
-track1_link: https://sounds.mailta.pe/430/track1.mp3
-track2_title: Brigitte Bardot – C'est rigolo
-track2_color: trippy
-track2_link: https://sounds.mailta.pe/430/track2.mp3
-track3_title: Take 6 – He never sleeps
 bigTitle_font_ratio: "6"
-track3_color: vibrant
-track3_link: https://sounds.mailta.pe/430/track3.mp3
-track4_title: Bonnie Banane - Flash
-track4_color: dreamy
-track4_link: https://sounds.mailta.pe/430/track4.mp3
-track5_title: "Myth Syzer - Je suis venu te dire que je m'en vais "
-track5_color: vibrant
-track5_link: https://sounds.mailta.pe/430/track5.mp3
-track6_title: Muddy Monk - L'Aventura
-track6_color: dreamy
-track6_link: https://sounds.mailta.pe/430/track6.mp3
-track7_title: Ichon - Aujourd'hui
-track7_color: bliss
-track7_link: https://sounds.mailta.pe/430/track7.mp3
 description: This morning, we think about Christmas, shopping in crowded stores,
   those endless meals around a turkey and many logs, indigestion and the famous
   button that you pop at the end of the evening...Fortunately to relax during
   its preparations, Bonnie Banane has made a playlist worthy of her parties!
-episode_URL: http://mailta.pe/430/bonnie-banane/
-image: http://mailta.pe/img/fbPic430.png
-musiColor: musiColor430.png
+image: http://mailta.pe/img/fbpic430.png
+musiColor: /img/musicolor430.png
+track1:
+  title: MonoNeon – I'm a raggedy bitch but my heart is amazing
+  color: bliss
+  link: https://sounds.mailta.pe/430/track1.mp3
+track2:
+  title: Brigitte Bardot – C'est rigolo
+  color: trippy
+  link: https://sounds.mailta.pe/430/track2.mp3
+track3:
+  title: Take 6 – He never sleeps
+  color: vibrant
+  link: https://sounds.mailta.pe/430/track3.mp3
+track4:
+  title: Bonnie Banane - Flash
+  color: dreamy
+  link: https://sounds.mailta.pe/430/track4.mp3
+track5:
+  title: "Myth Syzer - Je suis venu te dire que je m'en vais "
+  color: vibrant
+  link: https://sounds.mailta.pe/430/track5.mp3
+track6:
+  title: Muddy Monk - L'Aventura
+  color: dreamy
+  link: https://sounds.mailta.pe/430/track6.mp3
+track7:
+  title: Ichon - Aujourd'hui
+  color: bliss
+  link: https://sounds.mailta.pe/430/track7.mp3
+release: 430
 ---
 This morning, we think about Christmas, shopping in crowded stores, those endless meals around a turkey and many logs, indigestion and the famous button that you pop at the end of the evening...Fortunately to relax during its preparations, [Bonnie Banane](https://bonniebanane.bandcamp.com/album/sexy-planet) has made a playlist worthy of her parties!
 

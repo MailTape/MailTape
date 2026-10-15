@@ -1,41 +1,48 @@
 ---
-
 author: Ludovic
-category: '201'
 guest_name: Nicholas Larsen
 guest_color: vibrant
-bigTitle_font_ratio: '7'
-guestPic: guestPic201.jpg
-track1_link: https://sounds.mailta.pe/201/track1.mp3
-track2_link: https://sounds.mailta.pe/201/track2.mp3
-track3_link: https://sounds.mailta.pe/201/track3.mp3
-track4_link: https://sounds.mailta.pe/201/track4.mp3
-track5_link: https://sounds.mailta.pe/201/track5.mp3
-track6_link: https://sounds.mailta.pe/201/track6.mp3
-track7_link: https://sounds.mailta.pe/201/track7.mp3
-track1_title: Bleu Toucan - LA feat. Vendredi sur Mer
-track1_color: vibrant
-track2_title: Jimmy Edgar - Feel What It Is
-track2_color: bliss
-track3_title: Rejjie Snow - Blakkst Skn feat. Rae Morris
-track3_color: trippy
-track4_title: Nicholas Larsen - I'll Remember
-track4_color: vibrant
-track5_title: Silver Firs - Signals
-track5_color: dreamy
-track6_title: Daniel Alexander - Trains
-track6_color: bliss
-track7_title: Frankey & Sandrino - Acamar
-track7_color: rough
-episode_URL: https://www.mailta.pe/201/Nicholas-Larsen/
-image: https://www.mailta.pe/img/fbPic201.png
-musiColor: musiColor201.png
-description: This morning, let’s play a bit with this untamed selection from our guest Nicholas Larsen. It won’t be without a few head nods that you will find his choices are sparked with the very same hints of his own sounds.
+bigTitle_font_ratio: "7"
+guestPic: /img/guestpic201.jpg
+image: /img/fbpic201.png
+musiColor: /img/musicolor201.png
+description: This morning, let’s play a bit with this untamed selection from our
+  guest Nicholas Larsen. It won’t be without a few head nods that you will find
+  his choices are sparked with the very same hints of his own sounds.
 published: true
 curator: Ludovic
 illustrator: Camille Célestin
 writer: PS KY
-pubDate: '2016-01-24'
+pubDate: 2016-01-24
+track1:
+  title: Bleu Toucan - LA feat. Vendredi sur Mer
+  color: vibrant
+  link: https://sounds.mailta.pe/201/track1.mp3
+track2:
+  title: Jimmy Edgar - Feel What It Is
+  color: bliss
+  link: https://sounds.mailta.pe/201/track2.mp3
+track3:
+  title: Rejjie Snow - Blakkst Skn feat. Rae Morris
+  color: trippy
+  link: https://sounds.mailta.pe/201/track3.mp3
+track4:
+  title: Nicholas Larsen - I'll Remember
+  color: vibrant
+  link: https://sounds.mailta.pe/201/track4.mp3
+track5:
+  title: Silver Firs - Signals
+  color: dreamy
+  link: https://sounds.mailta.pe/201/track5.mp3
+track6:
+  title: Daniel Alexander - Trains
+  color: bliss
+  link: https://sounds.mailta.pe/201/track6.mp3
+track7:
+  title: Frankey & Sandrino - Acamar
+  color: rough
+  link: https://sounds.mailta.pe/201/track7.mp3
+release: 201
 ---
 
 

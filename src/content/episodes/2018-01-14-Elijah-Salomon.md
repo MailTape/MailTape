@@ -1,40 +1,48 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Sanjay Mistry
 illustrator: William Girault
 writer: Sanjay Mistry
-category: '295'
 guest_name: Elijah Salomon
 guest_color: trippy
-track1_link: https://sounds.mailta.pe/295/track1.mp3
-track2_link: https://sounds.mailta.pe/295/track2.mp3
-track3_link: https://sounds.mailta.pe/295/track3.mp3
-track4_link: https://sounds.mailta.pe/295/track4.mp3
-track5_link: https://sounds.mailta.pe/295/track5.mp3
-track6_link: https://sounds.mailta.pe/295/track6.mp3
-track7_link: https://sounds.mailta.pe/295/track7.mp3
-track1_title: Dennis Brown – Have You Ever
-track1_color: vibrant
-track2_title: Burning Spear – Mi Gi Dem
-track2_color: trippy
-track3_title: Damian Marley ft. Stephen Marley – Medication
-track3_color: vibrant
-track4_title: Elijah Salomon – Power to the Dub
-track4_color: trippy
-track5_title: Aba-Shanti-I – Tower of Babel
-track5_color: bliss
-track6_title: Mo' Kalamity – Darling
-track6_color: trippy
-track7_title: Kabaka Pyramid – No Capitalist
-track7_color: bliss
-episode_URL: http://mailta.pe/295/elijah-salomon/
-guestPic: guestPic295.jpg
-image: https://www.mailta.pe/img/fbPic295.jpg
-musiColor: musiColor295.png
-description: This morning we welcome multilingual singer, songwriter and musician, Elijah Salomon. With songs in Swiss German, English, Jamaican Patois, Spanish and French, he represents a culture of co-existence without boundaries based on language, religion or nationality.
-pubDate: '2018-01-14'
+guestPic: /img/guestpic295.jpg
+image: /img/fbpic295.jpg
+musiColor: /img/musicolor295.png
+description: This morning we welcome multilingual singer, songwriter and
+  musician, Elijah Salomon. With songs in Swiss German, English, Jamaican
+  Patois, Spanish and French, he represents a culture of co-existence without
+  boundaries based on language, religion or nationality.
+pubDate: 2018-01-14
+track1:
+  title: Dennis Brown – Have You Ever
+  color: vibrant
+  link: https://sounds.mailta.pe/295/track1.mp3
+track2:
+  title: Burning Spear – Mi Gi Dem
+  color: trippy
+  link: https://sounds.mailta.pe/295/track2.mp3
+track3:
+  title: Damian Marley ft. Stephen Marley – Medication
+  color: vibrant
+  link: https://sounds.mailta.pe/295/track3.mp3
+track4:
+  title: Elijah Salomon – Power to the Dub
+  color: trippy
+  link: https://sounds.mailta.pe/295/track4.mp3
+track5:
+  title: Aba-Shanti-I – Tower of Babel
+  color: bliss
+  link: https://sounds.mailta.pe/295/track5.mp3
+track6:
+  title: Mo' Kalamity – Darling
+  color: trippy
+  link: https://sounds.mailta.pe/295/track6.mp3
+track7:
+  title: Kabaka Pyramid – No Capitalist
+  color: bliss
+  link: https://sounds.mailta.pe/295/track7.mp3
+release: 295
 ---
 This morning we welcome multilingual singer, songwriter and musician, [Elijah Salomon](https://www.elijah.ch). With songs in Swiss German, English, Jamaican Patois, Spanish and French, he represents a culture of co-existence without boundaries based on language, religion or nationality.
 <p>While his music has its origins in roots reggae, he has recently complemented it with dub, bossa nova, rap and blues elements. His latest remix album, [Dub Ripe Fruit](https://soundcloud.com/ariwasounds/sets/dub-ripe-fruits-elijah-rajing-fyah-joe-ariwa), is a collaboration with the Jamaican band [Raging Fyah](http://ragingfyah.com/) and [Joe Ariwa](http://ariwa.com/), the son of dub and reggae legend Mad Professor.

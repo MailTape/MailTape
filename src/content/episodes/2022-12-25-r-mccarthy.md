@@ -1,40 +1,48 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Sarah
 writer: Sarah
 illustrator: Meriam Kharbat
-category: '511'
 guest_name: r mccarthy
 guest_color: dreamy
-track1_title: Operating Theatre - Elation After Hours
-track1_color: dreamy
-track1_link: https://sounds.mailta.pe/511/track1.mp3
-track2_title: Yoshihiro Hanno and Mick Karn - Lunette
-track2_color: bliss
-track2_link: https://sounds.mailta.pe/511/track2.mp3
-track3_link: https://sounds.mailta.pe/511/track3.mp3
-track3_title: John Powell - Chicken in the Pot
-track3_color: trippy
-track4_color: dreamy
-track5_color: vibrant
-track6_color: trippy
-track7_color: bliss
-track6_title: 'Paul Lansky - Her Voice '
-track7_title: Ellori Saxl - Moss II
-track5_title: Omni Gardens - Algae After All
-track4_link: https://sounds.mailta.pe/511/track4.mp3
-track5_link: https://sounds.mailta.pe/511/track5.mp3
-track6_link: https://sounds.mailta.pe/511/track6.mp3
-track7_link: https://sounds.mailta.pe/511/track7.mp3
-track4_title: r mccarthy - I Think I Lost That Love
-guestPic: guestPic511.jpg
-image: https://www.mailta.pe/img/fbPic511.png
-episode_URL: http://mailta.pe/511/r-mccarthy/
-description: '  We are overjoyed to welcome r mccarthy to MailTape this Sunday morning :) His selection embraces new worlds of new age music, stretching time and sound into spaces unknown -- carrying creativity into these early morning hours. '
-musiColor: musiColor511.png
-pubDate: '2022-12-25'
+guestPic: /img/guestpic511.jpg
+image: /img/fbpic511.png
+description: "  We are overjoyed to welcome r mccarthy to MailTape this Sunday
+  morning :) His selection embraces new worlds of new age music, stretching time
+  and sound into spaces unknown -- carrying creativity into these early morning
+  hours. "
+musiColor: /img/musicolor511.png
+pubDate: 2022-12-25
+track1:
+  title: Operating Theatre - Elation After Hours
+  color: dreamy
+  link: https://sounds.mailta.pe/511/track1.mp3
+track2:
+  title: Yoshihiro Hanno and Mick Karn - Lunette
+  color: bliss
+  link: https://sounds.mailta.pe/511/track2.mp3
+track3:
+  title: John Powell - Chicken in the Pot
+  color: trippy
+  link: https://sounds.mailta.pe/511/track3.mp3
+track4:
+  title: r mccarthy - I Think I Lost That Love
+  color: dreamy
+  link: https://sounds.mailta.pe/511/track4.mp3
+track5:
+  title: Omni Gardens - Algae After All
+  color: vibrant
+  link: https://sounds.mailta.pe/511/track5.mp3
+track6:
+  title: "Paul Lansky - Her Voice "
+  color: trippy
+  link: https://sounds.mailta.pe/511/track6.mp3
+track7:
+  title: Ellori Saxl - Moss II
+  color: bliss
+  link: https://sounds.mailta.pe/511/track7.mp3
+release: 511
 ---
  We are overjoyed to welcome [r mccarthy](https://infinitebisous.bandcamp.com/album/any-day-now) to MailTape this Sunday morning :) His selection embraces new worlds of new age music, stretching time and sound into spaces unknown -- carrying creativity into these early morning hours.  
   <br><br>

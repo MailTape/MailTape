@@ -17,28 +17,14 @@ const {
     guest_name,
     image,
 	description,
-    category,
-    track1_link,
-    track2_link,
-    track3_link,
-    track4_link,
-    track5_link,
-    track6_link,
-    track7_link,
-    track1_title,
-    track2_title,
-    track3_title,
-    track4_title,
-    track5_title,
-    track6_title,
-    track7_title,
-    track1_color,
-    track2_color,
-    track3_color,
-    track4_color,
-    track5_color,
-    track6_color,
-    track7_color,
+    release,
+    track1,
+    track2,
+    track3,
+    track4,
+    track5,
+    track6,
+    track7,
     guestPic,
     pubDate,
     prevEpisode,
@@ -47,16 +33,16 @@ const {
     alignY,
 } = Astro.props;
 
-const tracksURLString = JSON.stringify([track1_link,track2_link,track3_link,track4_link,track5_link,track6_link,track7_link]);
+const tracksURLString = JSON.stringify([track1?.link,track2?.link,track3?.link,track4?.link,track5?.link,track6?.link,track7?.link]);
 
 ---
 <!DOCTYPE html>
 
 <html lang="en">
 
-    <EpHead guest_name={guest_name} image={image} description={description} category={category} 
-track1_link={track1_link} track2_link={track2_link} track3_link={track3_link} track4_link={track4_link} track5_link={track5_link} track6_link={track6_link} track7_link={track7_link}
-track1_title={track1_title} track2_title={track2_title} track3_title={track3_title} track4_title={track4_title} track5_title={track5_title} track6_title={track6_title} track7_title={track7_title}
+    <EpHead guest_name={guest_name} image={image} description={description} release={release} 
+track1_link={track1?.link} track2_link={track2?.link} track3_link={track3?.link} track4_link={track4?.link} track5_link={track5?.link} track6_link={track6?.link} track7_link={track7?.link}
+track1_title={track1?.title} track2_title={track2?.title} track3_title={track3?.title} track4_title={track4?.title} track5_title={track5?.title} track6_title={track6?.title} track7_title={track7?.title}
 />
 
     <body>
@@ -65,8 +51,8 @@ track1_title={track1_title} track2_title={track2_title} track3_title={track3_tit
         </div> -->
     <TopBar />
 
-    <img src=`/img/${guestPic}` style="display:none;"/>
-    <div id="bigHeader" class="stretchMe notPlaying" data-stretch=`/img/${guestPic}` data-stretchAlignY=`${alignY}` data-pagefind-meta=`image:https://www.mailta.pe/img/${guestPic}` data-pagefind-meta=`image_alt:Episode ${ category } - ${ guest_name }`>
+    <img src=`${guestPic}` style="display:none;"/>
+    <div id="bigHeader" class="stretchMe notPlaying" data-stretch=`${guestPic}` data-stretchAlignY=`${alignY}` data-pagefind-meta=`image:${SITE_BASE_URL}${guestPic}` data-pagefind-meta=`image_alt:Episode ${ release } - ${ guest_name }`>
     
         <div class="container">
             <!-- desktop header -->
@@ -79,7 +65,7 @@ track1_title={track1_title} track2_title={track2_title} track3_title={track3_tit
                 ) : null }
                
                 <div class="col-md-10 col-12 d-inline text-center" data-pagefind-body>
-                        <h2 data-pagefind-meta=`title:# ${ category } - ${ guest_name }`>EPISODE #{ category }<br/>{ stringifyPubDate(pubDate)     }</h2>
+                        <h2 data-pagefind-meta=`title:# ${ release } - ${ guest_name }`>EPISODE #{ release }<br/>{ stringifyPubDate(pubDate)     }</h2>
                         <h1 >{ guest_name }</h1>
                         <svg class="d-none d-md-inline-block" height='60px' width='60px'  fill="#FFFFFF" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 24 24" version="1.1" x="0px" y="0px"><title>chevron-force-down</title><desc>Created with Sketch.</desc><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g fill="#FFFFFF" fill-rule="nonzero"><path d="M6.25753788,13.2424621 C5.84748737,12.8324116 5.84748737,12.1675884 6.25753788,11.7575379 C6.66758839,11.3474874 7.33241161,11.3474874 7.74246212,11.7575379 L12,16.0150758 L16.2575379,11.7575379 C16.6675884,11.3474874 17.3324116,11.3474874 17.7424621,11.7575379 C18.1525126,12.1675884 18.1525126,12.8324116 17.7424621,13.2424621 L12.7424621,18.2424621 C12.3324116,18.6525126 11.6675884,18.6525126 11.2575379,18.2424621 L6.25753788,13.2424621 Z M6.25753788,7.24246212 C5.84748737,6.83241161 5.84748737,6.16758839 6.25753788,5.75753788 C6.66758839,5.34748737 7.33241161,5.34748737 7.74246212,5.75753788 L12,10.0150758 L16.2575379,5.75753788 C16.6675884,5.34748737 17.3324116,5.34748737 17.7424621,5.75753788 C18.1525126,6.16758839 18.1525126,6.83241161 17.7424621,7.24246212 L12.7424621,12.2424621 C12.3324116,12.6525126 11.6675884,12.6525126 11.2575379,12.2424621 L6.25753788,7.24246212 Z"></path></g></g></svg>        
                 </div>
@@ -122,46 +108,46 @@ track1_title={track1_title} track2_title={track2_title} track3_title={track3_tit
             <div class="col-12">
                 <span id="playButtonAsidePlaylist" class="notPlaying">&#xe602;</span>
                 <ul class="playlist notPlaying" data-links={tracksURLString}>
-                    <li id="firstTrack" class=`track1 ${track1_color}`>
-                        <h1 id="track1_title_player"  data-pagefind-body>{track1_title }</h1>
-                        <a type="audio/mp3" id="track1_button" href={track1_link } onclick="_paq.push(['trackEvent', 'Player', 'Play-Pause', 'Track1']);">
-                            <span class="icon-control"></span><span class="musiColorHelper">{track1_color }</span>
+                    <li id="firstTrack" class=`track1 ${track1?.color}`>
+                        <h1 id="track1_title_player"  data-pagefind-body>{track1?.title }</h1>
+                        <a type="audio/mp3" id="track1_button" href={track1?.link } onclick="_paq.push(['trackEvent', 'Player', 'Play-Pause', 'Track1']);">
+                            <span class="icon-control"></span><span class="musiColorHelper">{track1?.color }</span>
                         </a>
                     </li>
-                    <li class=`track2 ${track2_color }`>
-                        <h1 id="track2_title_player"  data-pagefind-body>{track2_title }</h1>
-                        <a type="audio/mp3" id="track2_button" href={track2_link } onclick="_paq.push(['trackEvent', 'Player', 'Play-Pause', 'Track2']);">
-                            <span class="icon-control"></span><span class="musiColorHelper">{track2_color }</span>
+                    <li class=`track2 ${track2?.color }`>
+                        <h1 id="track2_title_player"  data-pagefind-body>{track2?.title }</h1>
+                        <a type="audio/mp3" id="track2_button" href={track2?.link } onclick="_paq.push(['trackEvent', 'Player', 'Play-Pause', 'Track2']);">
+                            <span class="icon-control"></span><span class="musiColorHelper">{track2?.color }</span>
                         </a>
                     </li>
-                    <li class=`track3 ${track3_color }`>
-                        <h1 id="track3_title_player"  data-pagefind-body>{track3_title }</h1>
-                        <a type="audio/mp3" id="track3_button" href={track3_link } onclick="_paq.push(['trackEvent', 'Player', 'Play-Pause', 'Track3']);">
-                            <span class="icon-control"></span><span class="musiColorHelper">{track3_color }</span>
+                    <li class=`track3 ${track3?.color }`>
+                        <h1 id="track3_title_player"  data-pagefind-body>{track3?.title }</h1>
+                        <a type="audio/mp3" id="track3_button" href={track3?.link } onclick="_paq.push(['trackEvent', 'Player', 'Play-Pause', 'Track3']);">
+                            <span class="icon-control"></span><span class="musiColorHelper">{track3?.color }</span>
                         </a>
                     </li>
-                    <li class=`track4 ${track4_color }`>
-                        <h1 id="track4_title_player"  data-pagefind-body>{track4_title }</h1>
-                        <a type="audio/mp3" id="track4_button" href={track4_link } onclick="_paq.push(['trackEvent', 'Player', 'Play-Pause', 'Track4']);">
-                            <span class="icon-control"></span><span class="musiColorHelper">{track4_color }</span>
+                    <li class=`track4 ${track4?.color }`>
+                        <h1 id="track4_title_player"  data-pagefind-body>{track4?.title }</h1>
+                        <a type="audio/mp3" id="track4_button" href={track4?.link } onclick="_paq.push(['trackEvent', 'Player', 'Play-Pause', 'Track4']);">
+                            <span class="icon-control"></span><span class="musiColorHelper">{track4?.color }</span>
                         </a>
                     </li>
-                    <li class=`track5 ${track5_color }`>
-                        <h1 id="track5_title_player"  data-pagefind-body>{track5_title }</h1>
-                        <a type="audio/mp3" id="track5_button" href={track5_link } onclick="_paq.push(['trackEvent', 'Player', 'Play-Pause', 'Track5']);">
-                            <span class="icon-control"></span><span class="musiColorHelper">{track5_color }</span>
+                    <li class=`track5 ${track5?.color }`>
+                        <h1 id="track5_title_player"  data-pagefind-body>{track5?.title }</h1>
+                        <a type="audio/mp3" id="track5_button" href={track5?.link } onclick="_paq.push(['trackEvent', 'Player', 'Play-Pause', 'Track5']);">
+                            <span class="icon-control"></span><span class="musiColorHelper">{track5?.color }</span>
                         </a>
                     </li>
-                    <li class=`track6 ${track6_color }`>
-                        <h1 id="track6_title_player"  data-pagefind-body>{track6_title }</h1>
-                        <a type="audio/mp3" id="track6_button" href={track6_link } onclick="_paq.push(['trackEvent', 'Player', 'Play-Pause', 'Track6']);">
-                            <span class="icon-control"></span><span class="musiColorHelper">{track6_color }</span>
+                    <li class=`track6 ${track6?.color }`>
+                        <h1 id="track6_title_player"  data-pagefind-body>{track6?.title }</h1>
+                        <a type="audio/mp3" id="track6_button" href={track6?.link } onclick="_paq.push(['trackEvent', 'Player', 'Play-Pause', 'Track6']);">
+                            <span class="icon-control"></span><span class="musiColorHelper">{track6?.color }</span>
                         </a>
                     </li>
-                    <li class=`track7 ${track7_color }`>
-                        <h1 id="track7_title_player"  data-pagefind-body>{track7_title }</h1>
-                        <a type="audio/mp3" id="track7_button" href={track7_link } onclick="_paq.push(['trackEvent', 'Player', 'Play-Pause', 'Track7']);">
-                            <span class="icon-control"></span><span class="musiColorHelper">{track7_color }</span>
+                    <li class=`track7 ${track7?.color }`>
+                        <h1 id="track7_title_player"  data-pagefind-body>{track7?.title }</h1>
+                        <a type="audio/mp3" id="track7_button" href={track7?.link } onclick="_paq.push(['trackEvent', 'Player', 'Play-Pause', 'Track7']);">
+                            <span class="icon-control"></span><span class="musiColorHelper">{track7?.color }</span>
                         </a>
                     </li>
                 </ul>
@@ -177,7 +163,7 @@ track1_title={track1_title} track2_title={track2_title} track3_title={track3_tit
         <div class="flex-row d-none d-lg-flex" id="creditAndSupportDesktop">        
     
             <div id="credit" class="col-lg-3 d-lg-inline">
-                <h1>Humans behind episode #{category } 👩👨</h1>
+                <h1>Humans behind episode #{release } 👩👨</h1>
                 <p>
                     { author && <span style="display:block">Curator: {author}</span>}
                     { writer && <span style="display:block">Writer: {writer}</span>  }
@@ -222,7 +208,7 @@ track1_title={track1_title} track2_title={track2_title} track3_title={track3_tit
         <div class="flex-row d-lg-none" id="creditAndSupportMobile">        
     
             <div id="credit" class=" p-2 d-block">
-                <h1>Humans behind episode #{category } 🤗</h1>
+                <h1>Humans behind episode #{release } 🤗</h1>
                 <p>
                     { author && <span style="display:block">Curator: {author}</span>}
                     { writer && <span style="display:block">Writer: {writer}</span>  }
@@ -252,9 +238,9 @@ track1_title={track1_title} track2_title={track2_title} track3_title={track3_tit
         <div id="similarEpisodes" class="d-flex flex-column flex-md-row" data-pagefind-ignore> 
             { similarEpisodes.map((similarEpisode) =>
                 <div class="col-lg-4 similarEpisode" > 
-                    <a href=`/${slugEp(similarEpisode)}` class="stretchMe" data-stretch=`/img/${similarEpisode.data.guestPic}`>
+                    <a href=`/${slugEp(similarEpisode)}` class="stretchMe" data-stretch=`${similarEpisode.data.guestPic}`>
                         <h2>{ similarEpisode.data.guest_name }</h2>
-                        <img src=`/img/${similarEpisode.data.musiColor}` class="img-fluid re-musiColor"/>
+                        <img src=`${similarEpisode.data.musiColor}` class="img-fluid re-musiColor"/>
                     </a>
                 </div>
             )}

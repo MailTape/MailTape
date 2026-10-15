@@ -1,37 +1,43 @@
 ---
 published: true
 pubDate: 2024-12-08
-category: "569"
 guest_name: Polygonia
 guest_color: dreamy
-guestPic: guestpic569.jpg
+guestPic: /img/guestpic569.jpg
 author: Sarah
 illustrator: Noémie Dijon
 writer: Sarah
-track1_title: SALOMEA - Truth Is Queen, Kindness Is King
-track1_color: dreamy
-track1_link: https://sounds.mailta.pe/569/track1.mp3
-track2_title: Carmen Villain - Nutrition
-track2_color: trippy
-track2_link: https://sounds.mailta.pe/569/track2.mp3
-track3_title: Jorge Reyes – El Senor De La Aurora
-track3_color: bliss
-track3_link: https://sounds.mailta.pe/569/track3.mp3
-track4_title: Nesa Azadikhah, Polygonia - Reverie (Polygonia'S Fantasme Mix)
-track4_color: vibrant
-track4_link: https://sounds.mailta.pe/569/track4.mp3
-track5_title: Hermeto Pascoal - Música da Lagoa
-track5_color: bliss
-track5_link: https://sounds.mailta.pe/569/track5.mp3
-track6_title: Laurie Bird - Jussa Trip
-track6_color: trippy
-track6_link: https://sounds.mailta.pe/569/track6.mp3
-track7_title: Polygonia - Inhaler
-track7_color: dreamy
-track7_link: https://sounds.mailta.pe/569/track7.mp3
-episode_URL: https://www.mailta.pe/569/POLYGONIA/
 image: ""
-musiColor: musicolor569.png
+musiColor: /img/musicolor569.png
+track1:
+  title: SALOMEA - Truth Is Queen, Kindness Is King
+  color: dreamy
+  link: https://sounds.mailta.pe/569/track1.mp3
+track2:
+  title: Carmen Villain - Nutrition
+  color: trippy
+  link: https://sounds.mailta.pe/569/track2.mp3
+track3:
+  title: Jorge Reyes – El Senor De La Aurora
+  color: bliss
+  link: https://sounds.mailta.pe/569/track3.mp3
+track4:
+  title: Nesa Azadikhah, Polygonia - Reverie (Polygonia'S Fantasme Mix)
+  color: vibrant
+  link: https://sounds.mailta.pe/569/track4.mp3
+track5:
+  title: Hermeto Pascoal - Música da Lagoa
+  color: bliss
+  link: https://sounds.mailta.pe/569/track5.mp3
+track6:
+  title: Laurie Bird - Jussa Trip
+  color: trippy
+  link: https://sounds.mailta.pe/569/track6.mp3
+track7:
+  title: Polygonia - Inhaler
+  color: dreamy
+  link: https://sounds.mailta.pe/569/track7.mp3
+release: 569
 ---
 Polygonia joins us for Episode 569, gifting MailTape some immersive textures for Sunday listening :) Headed by multi-disciplinary artist Lindsey Wang, Polygonia's releases tread seamlessly between ethereal ambient and deep techno. The Munich-based artist joins us following the release of her latest album, [Dermatology](https://rrose.bandcamp.com/album/dermatology).
 

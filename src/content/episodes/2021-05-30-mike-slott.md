@@ -1,45 +1,51 @@
 ---
-pubDate: '2021-05-30'
-bigTitle_font_ratio: '6'
+pubDate: 2021-05-30
+bigTitle_font_ratio: "6"
 published: true
-track3_link: 'https://sounds.mailta.pe/missingTrack.mp3'
-track1_link: 'https://sounds.mailta.pe/453/track1.mp3'
-track2_link: 'https://sounds.mailta.pe/453/track2.mp3'
-category: '453'
 author: ImaCrea
 illustrator: Thibault Daumain
 writer: ImaCrea
 guest_name: Mike Slott
 guest_color: dreamy
-track4_link: 'https://sounds.mailta.pe/missingTrack.mp3'
-track5_link: 'https://sounds.mailta.pe/453/track5.mp3'
-track6_link: 'https://sounds.mailta.pe/453/track6.mp3'
-track7_link: 'https://sounds.mailta.pe/453/track7.mp3'
-track1_color: dreamy
-track2_color: dreamy
-track3_color: bliss
-track4_color: dreamy
-track5_color: bliss
-track6_color: trippy
-track7_color: dreamy
-guestPic: guestPic453.jpg
-track1_title: Sam Gendel - Sustain
-track2_title: Huerco S - A Sea of Love
-track3_title: Luke Slott - The Keeper of Secrets
-track4_title: Mike Slott - Keep Me Here
-track5_title: LEYA - Wave
-track6_title: Leon Vynehall - Ecce! Ego!
-track7_title: PDP III - Calendar of Days
-image: 'https://www.mailta.pe/img/fbPic453.png'
-musiColor: musiColor453.png
-description: >-
-  This morning, let's go for a walk outside. We're joined by Mike Slott who made
-  us an honor to accept our invitation.  Being one of the founders of LuckyMe,
-  the legendary record label which released, among other great artists, the
-  first Hudson Mohawke record. Mike released last year Vignettes, a great inner
-  cinematic experience.  Open the door, put your headphones on, and press play.
-  No need to travel to the other side of the planet. Let's go.
-episode_URL: 'https://www.mailta.pe/453/Mike-Slott/'
+guestPic: /img/guestpic453.jpg
+image: /img/fbpic453.png
+musiColor: /img/musicolor453.png
+description: This morning, let's go for a walk outside. We're joined by Mike
+  Slott who made us an honor to accept our invitation.  Being one of the
+  founders of LuckyMe, the legendary record label which released, among other
+  great artists, the first Hudson Mohawke record. Mike released last year
+  Vignettes, a great inner cinematic experience.  Open the door, put your
+  headphones on, and press play. No need to travel to the other side of the
+  planet. Let's go.
+track1:
+  title: Sam Gendel - Sustain
+  color: dreamy
+  link: https://sounds.mailta.pe/453/track1.mp3
+track2:
+  title: Huerco S - A Sea of Love
+  color: dreamy
+  link: https://sounds.mailta.pe/453/track2.mp3
+track3:
+  title: Luke Slott - The Keeper of Secrets
+  color: bliss
+  link: https://sounds.mailta.pe/missingTrack.mp3
+track4:
+  title: Mike Slott - Keep Me Here
+  color: dreamy
+  link: https://sounds.mailta.pe/missingTrack.mp3
+track5:
+  title: LEYA - Wave
+  color: bliss
+  link: https://sounds.mailta.pe/453/track5.mp3
+track6:
+  title: Leon Vynehall - Ecce! Ego!
+  color: trippy
+  link: https://sounds.mailta.pe/453/track6.mp3
+track7:
+  title: PDP III - Calendar of Days
+  color: dreamy
+  link: https://sounds.mailta.pe/453/track7.mp3
+release: 453
 ---
 <p id="introduction">This morning, let's go for a walk outside. We're joined by [Mike Slott](https://mikeslott.bandcamp.com) who made us an honor to accept our invitation. 
   

@@ -1,40 +1,48 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
-category: '279'
 author: ImaCrea
 illustrator: Pierre-Julien Fieux
 guest_name: Yellow Days
 guest_color: bliss
-track1_link: https://sounds.mailta.pe/279/track1.mp3
-track2_link: https://sounds.mailta.pe/279/track2.mp3
-track3_link: https://sounds.mailta.pe/279/track3.mp3
-track4_link: https://sounds.mailta.pe/279/track4.mp3
-track5_link: https://sounds.mailta.pe/279/track5.mp3
-track6_link: https://sounds.mailta.pe/279/track6.mp3
-track7_link: https://sounds.mailta.pe/279/track7.mp3
-track1_title: Run DMT - Romantic
-track1_color: trippy
-track2_title: Aldous RH - U and ME
-track3_title: Made in M - Goodday
-track4_title: Yellow Days - Hurt In Love
-track5_title: Oliverpalfreyman - Females
-track6_title: Mattiel - Count Your Blessings
-track7_title: Ambar Cruz - Psychedelic Candy
-track7_color: dreamy
-track6_color: vibrant
-track5_color: trippy
-track4_color: bliss
-track3_color: dreamy
-track2_color: dreamy
-guestPic: guestPic279.jpg
+guestPic: /img/guestpic279.jpg
 writer: ImaCrea
-episode_URL: https://www.mailta.pe/279/yellow-days/
-description: 'This morning, we keep it smooth and easy with this delicate indie selection made with the talented 17 years old Yellow Days, aka George Van Den Broek. Autumn just started 3 days ago, let’s stay in bed a little longer and plan our next vacation... '
-image: https://www.mailta.pe/img/fbPic279.png
-musiColor: musiColor279.png
-pubDate: '2017-09-24'
+description: "This morning, we keep it smooth and easy with this delicate indie
+  selection made with the talented 17 years old Yellow Days, aka George Van Den
+  Broek. Autumn just started 3 days ago, let’s stay in bed a little longer and
+  plan our next vacation... "
+image: /img/fbpic279.png
+musiColor: /img/musicolor279.png
+pubDate: 2017-09-24
+track1:
+  title: Run DMT - Romantic
+  color: trippy
+  link: https://sounds.mailta.pe/279/track1.mp3
+track2:
+  title: Aldous RH - U and ME
+  color: dreamy
+  link: https://sounds.mailta.pe/279/track2.mp3
+track3:
+  title: Made in M - Goodday
+  color: dreamy
+  link: https://sounds.mailta.pe/279/track3.mp3
+track4:
+  title: Yellow Days - Hurt In Love
+  color: bliss
+  link: https://sounds.mailta.pe/279/track4.mp3
+track5:
+  title: Oliverpalfreyman - Females
+  color: trippy
+  link: https://sounds.mailta.pe/279/track5.mp3
+track6:
+  title: Mattiel - Count Your Blessings
+  color: vibrant
+  link: https://sounds.mailta.pe/279/track6.mp3
+track7:
+  title: Ambar Cruz - Psychedelic Candy
+  color: dreamy
+  link: https://sounds.mailta.pe/279/track7.mp3
+release: 279
 ---
 This morning, we keep it smooth and easy with this delicate indie selection made with the talented 17 years old [Yellow Days](https://soundcloud.com/yellow-days), aka George Van Den Broek. Autumn just started 3 days ago, let’s stay in bed a little longer and plan our next vacation... 
 

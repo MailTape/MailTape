@@ -1,40 +1,55 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
-track1_link: https://sounds.mailta.pe/388/track1.mp3
-track2_link: https://sounds.mailta.pe/388/track2.mp3
-track3_link: https://sounds.mailta.pe/388/track3.mp3
-track1_color: dreamy
-track2_color: rough
-track3_color: rough
-track1_title: Grimes -  So Heavy I Fell Through the Earth (Algorithm Mix)
-track2_title: 'I Hate Models -  Intergalactic Emotional Breakdown '
-track3_title: Acloudyskye - Alignement
-category: '388'
 guest_name: ascendant vierge
 author: ImaCrea
 illustrator: Julie Wojtczak
 writer: ImaCrea
 guest_color: rough
-track4_link: https://sounds.mailta.pe/388/track4.mp3
-track4_title: ascendant vierge - Faire et Refaire
-track4_color: rough
-guestPic: guestPic388.jpg
-track5_link: https://sounds.mailta.pe/388/track5.mp3
-track6_link: https://sounds.mailta.pe/388/track6.mp3
-track7_link: https://sounds.mailta.pe/388/track7.mp3
-track5_color: rough
-track6_color: rough
-track7_color: rough
-track5_title: Giant Swan - Pandaemonium
-track6_title: FUMU - Skinned - 01 A1 - Untitled
-track7_title: Overmono - Salt Mix
-episode_URL: https://www.mailta.pe/388/ascendant-vierge/
-image: https://www.mailta.pe/img/fbPic388.png
-musiColor: musiColor388.png
-description: This morning, we are extremely thrilled to have ascendant vierge as our dear guests. This duo gathers two rebel spirits, Mathilde Fernandez and Paul Seul. Trying to describe their music with words would only reduce it. They’re courageously opening a road to a contemporary genre filled with a unique cathartic energy comparable to what Crystal Castles created 13 years ago.  I see their motive similar to what I experience when I look at a piece from Lucio Fontana who’s allegedly known for slicing and carving spaces right into his canvas. Such bold gesture never leave indifferent, either one hates it or loves it, there’s no so-so. It’s this kind of radical action which leaded me to curate this episode with (almost) only rough tracks. A frontier I never dared to cross for the past 9ish years of MailTape.
-pubDate: '2020-01-12'
+guestPic: /img/guestpic388.jpg
+image: /img/fbpic388.png
+musiColor: /img/musicolor388.png
+description: This morning, we are extremely thrilled to have ascendant vierge as
+  our dear guests. This duo gathers two rebel spirits, Mathilde Fernandez and
+  Paul Seul. Trying to describe their music with words would only reduce it.
+  They’re courageously opening a road to a contemporary genre filled with a
+  unique cathartic energy comparable to what Crystal Castles created 13 years
+  ago.  I see their motive similar to what I experience when I look at a piece
+  from Lucio Fontana who’s allegedly known for slicing and carving spaces right
+  into his canvas. Such bold gesture never leave indifferent, either one hates
+  it or loves it, there’s no so-so. It’s this kind of radical action which
+  leaded me to curate this episode with (almost) only rough tracks. A frontier I
+  never dared to cross for the past 9ish years of MailTape.
+pubDate: 2020-01-12
+track1:
+  title: Grimes -  So Heavy I Fell Through the Earth (Algorithm Mix)
+  color: dreamy
+  link: https://sounds.mailta.pe/388/track1.mp3
+track2:
+  title: "I Hate Models -  Intergalactic Emotional Breakdown "
+  color: rough
+  link: https://sounds.mailta.pe/388/track2.mp3
+track3:
+  title: Acloudyskye - Alignement
+  color: rough
+  link: https://sounds.mailta.pe/388/track3.mp3
+track4:
+  title: ascendant vierge - Faire et Refaire
+  color: rough
+  link: https://sounds.mailta.pe/388/track4.mp3
+track5:
+  title: Giant Swan - Pandaemonium
+  color: rough
+  link: https://sounds.mailta.pe/388/track5.mp3
+track6:
+  title: FUMU - Skinned - 01 A1 - Untitled
+  color: rough
+  link: https://sounds.mailta.pe/388/track6.mp3
+track7:
+  title: Overmono - Salt Mix
+  color: rough
+  link: https://sounds.mailta.pe/388/track7.mp3
+release: 388
 ---
 
  

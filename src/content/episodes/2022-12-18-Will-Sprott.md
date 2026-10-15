@@ -1,40 +1,48 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
-track1_title: Pearls Before Swine - Sail Away
-track2_title: Shana Cleveland - Invisible When the Sun Leaves
-track3_title: Sun Ra - Bye Bye
-track1_color: vibrant
-track2_color: dreamy
-track3_color: trippy
-track4_color: vibrant
-track5_color: trippy
-track6_color: vibrant
-track7_color: dreamy
-guestPic: guestPic510.jpg
-image: https://www.mailta.pe/img/fbPic510.png
-episode_URL: http://mailta.pe/510/Will-Sprott/
-musiColor: musiColor510.png
+guestPic: /img/guestpic510.jpg
+image: /img/fbpic510.png
+musiColor: /img/musicolor510.png
 author: Sarah
 illustrator: Camille Célestin
 writer: Sarah
-category: '510'
 guest_name: Will Sprott
 guest_color: vibrant
-track1_link: https://sounds.mailta.pe/510/track1.mp3
-track2_link: https://sounds.mailta.pe/510/track2.mp3
-track3_link: https://sounds.mailta.pe/510/track3.mp3
-description: This Sunday, we welcome in the morning with Will Sprott. His dreamy selection brings in a lot of light with it, gifting us some surprising finds with winding melodies. Based in California, Will Sprott's music stretches from folk to rock n roll to soul to space country.
-track4_link: https://sounds.mailta.pe/510/track4.mp3
-track5_link: https://sounds.mailta.pe/510/track5.mp3
-track6_link: https://sounds.mailta.pe/510/track6.mp3
-track7_link: https://sounds.mailta.pe/510/track7.mp3
-track6_title: Shannon and the Clams - Vanishing
-track4_title: Will Sprott - A Dog Will Love You When Nobody Else Will
-track7_title: Lizette & Quentin - Grow Forever
-track5_title: Troll Dolly - Microcosms
-pubDate: '2022-12-18'
+description: This Sunday, we welcome in the morning with Will Sprott. His dreamy
+  selection brings in a lot of light with it, gifting us some surprising finds
+  with winding melodies. Based in California, Will Sprott's music stretches from
+  folk to rock n roll to soul to space country.
+pubDate: 2022-12-18
+track1:
+  title: Pearls Before Swine - Sail Away
+  color: vibrant
+  link: https://sounds.mailta.pe/510/track1.mp3
+track2:
+  title: Shana Cleveland - Invisible When the Sun Leaves
+  color: dreamy
+  link: https://sounds.mailta.pe/510/track2.mp3
+track3:
+  title: Sun Ra - Bye Bye
+  color: trippy
+  link: https://sounds.mailta.pe/510/track3.mp3
+track4:
+  title: Will Sprott - A Dog Will Love You When Nobody Else Will
+  color: vibrant
+  link: https://sounds.mailta.pe/510/track4.mp3
+track5:
+  title: Troll Dolly - Microcosms
+  color: trippy
+  link: https://sounds.mailta.pe/510/track5.mp3
+track6:
+  title: Shannon and the Clams - Vanishing
+  color: vibrant
+  link: https://sounds.mailta.pe/510/track6.mp3
+track7:
+  title: Lizette & Quentin - Grow Forever
+  color: dreamy
+  link: https://sounds.mailta.pe/510/track7.mp3
+release: 510
 ---
  This Sunday, we welcome in the morning with Will Sprott. His dreamy selection brings in a lot of light with it, gifting us some surprising finds with winding melodies. Based in California, [Will Sprott](https://willsprott.bandcamp.com/)'s music stretches from folk to rock n roll to soul to space country. He is an active vocalist and keyboardist in the wonderful group [Shannon and the Clams](https://shannonandtheclams.bandcamp.com/album/year-of-the-spider). His most recent solo album was entitled [Ten Fingers](https://willsprott.bandcamp.com/album/ten-fingers), leaving us eager for what he releases next. 
 

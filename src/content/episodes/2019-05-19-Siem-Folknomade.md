@@ -1,40 +1,46 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Sanjay Mistry
 illustrator: Camille Célestin
 writer: Sanjay Mistry
-category: '358'
 guest_name: Siêm Folknomade
 guest_color: bliss
-track1_link: https://sounds.mailta.pe/358/track1.mp3
-track2_link: https://sounds.mailta.pe/358/track2.mp3
-track3_link: https://sounds.mailta.pe/358/track3.mp3
-track4_link: https://sounds.mailta.pe/358/track4.mp3
-track5_link: https://sounds.mailta.pe/358/track5.mp3
-track6_link: https://sounds.mailta.pe/358/track6.mp3
-track7_link: https://sounds.mailta.pe/358/track7.mp3
-track1_title: Ry x – Bound
-track1_color: dreamy
-track2_title: Maii Waleed – يوم الاتنين
-track2_color: bliss
-track3_title: Nonku Phiri – Sîfo
-track3_color: trippy
-track4_title: Siêm Folknomade – Et Même Si
-track4_color: bliss
-track5_title: Emiliana Torrini – Tookah
-track5_color: dreamy
-track6_title: Lilith Ai – Native Tongue
-track6_color: bliss
-track7_title: The Last Poets – If We Only Knew What We Could Do
-track7_color: vibrant
-guestPic: guestPic358.jpg
-image: https://www.mailta.pe/img/fbPic358.jpg
-musiColor: musiColor358.png
-description: This morning we are pleased to welcome a long time MailTape listener and Marseille-based vocalist and composer, Siêm Folknomade.
-episode_URL: http://mailta.pe/358/siem-folknomade/
-pubDate: '2019-05-19'
+guestPic: /img/guestpic358.jpg
+image: /img/fbpic358.jpg
+musiColor: /img/musicolor358.png
+description: This morning we are pleased to welcome a long time MailTape
+  listener and Marseille-based vocalist and composer, Siêm Folknomade.
+pubDate: 2019-05-19
+track1:
+  title: Ry x – Bound
+  color: dreamy
+  link: https://sounds.mailta.pe/358/track1.mp3
+track2:
+  title: Maii Waleed – يوم الاتنين
+  color: bliss
+  link: https://sounds.mailta.pe/358/track2.mp3
+track3:
+  title: Nonku Phiri – Sîfo
+  color: trippy
+  link: https://sounds.mailta.pe/358/track3.mp3
+track4:
+  title: Siêm Folknomade – Et Même Si
+  color: bliss
+  link: https://sounds.mailta.pe/358/track4.mp3
+track5:
+  title: Emiliana Torrini – Tookah
+  color: dreamy
+  link: https://sounds.mailta.pe/358/track5.mp3
+track6:
+  title: Lilith Ai – Native Tongue
+  color: bliss
+  link: https://sounds.mailta.pe/358/track6.mp3
+track7:
+  title: The Last Poets – If We Only Knew What We Could Do
+  color: vibrant
+  link: https://sounds.mailta.pe/358/track7.mp3
+release: 358
 ---
 This morning we are pleased to welcome a long time MailTape listener and Marseille-based vocalist and composer, [Siêm Folknomade](https://linktr.ee/siemfolknomade).
 <br><br>

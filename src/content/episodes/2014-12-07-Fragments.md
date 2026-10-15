@@ -1,39 +1,47 @@
 ---
-
 published: true
 author: Louise
 guest_color: dreamy
-bigTitle_font_ratio: '6'
-bigTitle_line_ratio: '1'
-track1_color: rough
-track2_color: vibrant
-track3_color: dreamy
-track4_color: dreamy
-track5_color: vibrant
-track6_color: bliss
-track7_color: vibrant
-track1_link: https://sounds.mailta.pe/163/track1.mp3
-track2_link: https://sounds.mailta.pe/163/track2.mp3
-track3_link: https://sounds.mailta.pe/163/track3.mp3
-track4_link: https://sounds.mailta.pe/163/track4.mp3
-track1_title: Maps - A.M.A
-track2_title: Ariel Pink's Haunted Graffiti - Round and Round
-track3_title: Julien Marchal - I
-track4_title: Fragments - December Sun
-episode_URL: http://mailta.pe/163/Fragments/
-category: '163'
+bigTitle_font_ratio: "6"
+bigTitle_line_ratio: "1"
 guest_name: Fragments
-track5_link: https://sounds.mailta.pe/163/track5.mp3
-track5_title: Atlas Bound - Soul
-track6_title: Les Gordon - Isolé
-track6_link: https://sounds.mailta.pe/163/track6.mp3
-track7_link: https://sounds.mailta.pe/163/track7.mp3
-track7_title: The Pandamonium - Waiting for Summer
-guestPic: guestPic163.jpg
-musiColor: musiColor163.png
-description: This morning, here's a Mailtape inspired by Fragments. You're bound to wake up in a good mood by the end of this sunday selection. Enjoy the lively rhythms of these tracks and you will be powered for the rest of the day.
-image: https://www.mailta.pe/img/fbPic163.jpg
-pubDate: '2014-12-07'
+guestPic: /img/guestpic163.jpg
+musiColor: /img/musicolor163.png
+description: This morning, here's a Mailtape inspired by Fragments. You're bound
+  to wake up in a good mood by the end of this sunday selection. Enjoy the
+  lively rhythms of these tracks and you will be powered for the rest of the
+  day.
+image: /img/fbpic163.jpg
+pubDate: 2014-12-07
+track1:
+  title: Maps - A.M.A
+  color: rough
+  link: https://sounds.mailta.pe/163/track1.mp3
+track2:
+  title: Ariel Pink's Haunted Graffiti - Round and Round
+  color: vibrant
+  link: https://sounds.mailta.pe/163/track2.mp3
+track3:
+  title: Julien Marchal - I
+  color: dreamy
+  link: https://sounds.mailta.pe/163/track3.mp3
+track4:
+  title: Fragments - December Sun
+  color: dreamy
+  link: https://sounds.mailta.pe/163/track4.mp3
+track5:
+  title: Atlas Bound - Soul
+  color: vibrant
+  link: https://sounds.mailta.pe/163/track5.mp3
+track6:
+  title: Les Gordon - Isolé
+  color: bliss
+  link: https://sounds.mailta.pe/163/track6.mp3
+track7:
+  title: The Pandamonium - Waiting for Summer
+  color: vibrant
+  link: https://sounds.mailta.pe/163/track7.mp3
+release: 163
 ---
 
 

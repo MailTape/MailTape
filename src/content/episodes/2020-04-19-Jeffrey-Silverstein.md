@@ -1,40 +1,48 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Jules
 illustrator: Thibault Daumain
 writer: Jules
-category: '402'
 guest_name: Jeffrey Silverstein
 guest_color: bliss
-episode_URL: https://www.mailta.pe/402/jeffrey-silverstein/
-track1_title: Ted Lucas - It's So Easy
-track2_title: Michael Hurley - Knockando
-track3_title: Elyse Weinberg - Houses (with Neil Young)
-track4_title: Jeffrey Silverstein - A Dog's Age
-track5_title: Angad Berar - Anjuna
-track6_title: Green House - Parlor Palm
-track7_title: Rideau - Le Ciel, le Soleil et la Mer
-track7_color: trippy
-track6_color: bliss
-track5_color: dreamy
-track4_color: bliss
-track1_link: https://sounds.mailta.pe/402/track1.mp3
-track2_link: https://sounds.mailta.pe/402/track2.mp3
-track3_link: https://sounds.mailta.pe/402/track3.mp3
-track3_color: vibrant
-track1_color: dreamy
-track2_color: bliss
-track4_link: https://sounds.mailta.pe/402/track4.mp3
-track5_link: https://sounds.mailta.pe/402/track5.mp3
-track6_link: https://sounds.mailta.pe/402/track6.mp3
-track7_link: https://sounds.mailta.pe/402/track7.mp3
-description: This morning we are still confined and condemned to look at the sky behind our windows. Luckily, Jeffrey Silverstein is here to guide us on a peaceful hike in the heart of our inner mountain. Time to lie down, breathe slowly, and start drawing the landscapes that will allow you to escape.
-guestPic: guestPic402.jpg
-musiColor: musiColor402.png
-image: https://www.mailta.pe/img/fbPic402.png
-pubDate: '2020-04-19'
+description: This morning we are still confined and condemned to look at the sky
+  behind our windows. Luckily, Jeffrey Silverstein is here to guide us on a
+  peaceful hike in the heart of our inner mountain. Time to lie down, breathe
+  slowly, and start drawing the landscapes that will allow you to escape.
+guestPic: /img/guestpic402.jpg
+musiColor: /img/musicolor402.png
+image: /img/fbpic402.png
+pubDate: 2020-04-19
+track1:
+  title: Ted Lucas - It's So Easy
+  color: dreamy
+  link: https://sounds.mailta.pe/402/track1.mp3
+track2:
+  title: Michael Hurley - Knockando
+  color: bliss
+  link: https://sounds.mailta.pe/402/track2.mp3
+track3:
+  title: Elyse Weinberg - Houses (with Neil Young)
+  color: vibrant
+  link: https://sounds.mailta.pe/402/track3.mp3
+track4:
+  title: Jeffrey Silverstein - A Dog's Age
+  color: bliss
+  link: https://sounds.mailta.pe/402/track4.mp3
+track5:
+  title: Angad Berar - Anjuna
+  color: dreamy
+  link: https://sounds.mailta.pe/402/track5.mp3
+track6:
+  title: Green House - Parlor Palm
+  color: bliss
+  link: https://sounds.mailta.pe/402/track6.mp3
+track7:
+  title: Rideau - Le Ciel, le Soleil et la Mer
+  color: trippy
+  link: https://sounds.mailta.pe/402/track7.mp3
+release: 402
 ---
  This morning we are still confined and condemned to look at the sky behind our windows. Luckily, [Jeffrey Silverstein](https://jeffreysilverstein.bandcamp.com/) is here to guide us on a peaceful hike in the heart of our inner mountain. Time to lie down, breathe slowly, and start drawing the landscapes that will allow you to escape. 
 <br><br>

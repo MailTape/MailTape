@@ -1,39 +1,48 @@
 ---
-
 published: true
 author: ImaCrea
 guest_color: dreamy
-bigTitle_font_ratio: '8'
-bigTitle_line_ratio: '1'
-track1_color: dreamy
-track2_color: dreamy
-track3_color: rough
-track4_color: dreamy
-track5_color: vibrant
-track6_color: vibrant
-track7_color: bliss
-category: '156'
+bigTitle_font_ratio: "8"
+bigTitle_line_ratio: "1"
 guest_name: Arms and Sleepers
-track1_link: https://sounds.mailta.pe/156/track1.mp3
-track2_link: https://sounds.mailta.pe/156/track2.mp3
-track3_link: https://sounds.mailta.pe/156/track3.mp3
-track4_link: https://sounds.mailta.pe/156/track4.mp3
-track5_link: https://sounds.mailta.pe/156/track5.mp3
-track7_link: https://sounds.mailta.pe/156/track7.mp3
-track6_link: https://sounds.mailta.pe/156/track6.mp3
-track1_title: Andrew Bird - Near Death Experience Experience
-track2_title: Philip Selway - By Some Miracle
-track3_title: Clark - Unfurla
-track4_title: Arms and Sleepers - Tiger Tempo
-track5_title: Paul White - Where You Gonna Go (Andres Remix)
-track6_title: Sam Kogon - Wake Up Your Kids
-track7_title: Oldtoy - Fountains
-guestPic: guestPic156.jpg
-episode_URL: http://mailta.pe/156/Arms-and-Sleepers/
-image: https://www.mailta.pe/img/fbPic156.jpg
-musiColor: musiColor156.png
-description: A time when we were all one and free,  and we stood, with our hands in hands with a blue sky on top and countless shades of trees.   Let’s unite with our this week’s special and let music speak for us, for it has in it a magic that will cast a spell on you. A beautiful morning with our guest Arms and Sleepers and those ready to embark on a cosy Sunday morning.
-pubDate: '2014-10-19'
+guestPic: /img/guestpic156.jpg
+image: /img/fbpic156.jpg
+musiColor: /img/musicolor156.png
+description: A time when we were all one and free,  and we stood, with our hands
+  in hands with a blue sky on top and countless shades of trees.   Let’s unite
+  with our this week’s special and let music speak for us, for it has in it a
+  magic that will cast a spell on you. A beautiful morning with our guest Arms
+  and Sleepers and those ready to embark on a cosy Sunday morning.
+pubDate: 2014-10-19
+track1:
+  title: Andrew Bird - Near Death Experience Experience
+  color: dreamy
+  link: https://sounds.mailta.pe/156/track1.mp3
+track2:
+  title: Philip Selway - By Some Miracle
+  color: dreamy
+  link: https://sounds.mailta.pe/156/track2.mp3
+track3:
+  title: Clark - Unfurla
+  color: rough
+  link: https://sounds.mailta.pe/156/track3.mp3
+track4:
+  title: Arms and Sleepers - Tiger Tempo
+  color: dreamy
+  link: https://sounds.mailta.pe/156/track4.mp3
+track5:
+  title: Paul White - Where You Gonna Go (Andres Remix)
+  color: vibrant
+  link: https://sounds.mailta.pe/156/track5.mp3
+track6:
+  title: Sam Kogon - Wake Up Your Kids
+  color: vibrant
+  link: https://sounds.mailta.pe/156/track6.mp3
+track7:
+  title: Oldtoy - Fountains
+  color: bliss
+  link: https://sounds.mailta.pe/156/track7.mp3
+release: 156
 ---
 
 

@@ -1,40 +1,52 @@
 ---
-
 author: PS KY
 illustrator: Camille Célestin
 writer: PS KY
-category: '215'
-guest_name: 'Guru Fiction '
+guest_name: "Guru Fiction "
 guest_color: vibrant
-bigTitle_font_ratio: '6'
-guestPic: guestPic215.jpg
-track1_link: https://sounds.mailta.pe/215/track1.mp3
-track2_link: https://sounds.mailta.pe/215/track2.mp3
-track3_link: https://sounds.mailta.pe/215/track3.mp3
-track4_link: https://sounds.mailta.pe/215/track4.mp3
-track5_link: https://sounds.mailta.pe/215/track5.mp3
-track6_link: https://sounds.mailta.pe/215/track6.mp3
-track7_link: https://sounds.mailta.pe/215/track7.mp3
-track1_title: Silk Rhodes - Pains
-track1_color: dreamy
-track2_title: Vulfpeck - 1612
-track2_color: vibrant
-track3_title: A Tribe Called Quest - Electric Relaxation
-track3_color: dreamy
-track4_title: Guru Fiction - California
-track4_color: vibrant
-track5_title: 'Cumbia - Unknown '
-track5_color: vibrant
-track6_title: Carolina Camacho - Ninfa De Las Aguas
-track6_color: dreamy
-track7_title: Octave Lissner - Silver Rain
-track7_color: dreamy
-episode_URL: http://mailta.pe/215/Guru-Fiction/
-image: https://www.mailta.pe/img/fbPic215.jpg
-musiColor: musiColor215.png
-description: This morning, I am not quite sure how to say it, but even if the sun's not yet on your side of the world or, if you've felt any hints of melancholy and your soul is morose, I won't guarantee to clear the skies, but I certainly will make a rainbow in your day. Today's guest is sort of what got me through the winter without spending an excessive amount of money on wine and chocolate, because their music will leave you with the hearty feeling of butter on toast, dripping the goodness of sound all over your hungry souls. That's Guru Fiction!!
+bigTitle_font_ratio: "6"
+guestPic: /img/guestpic215.jpg
+image: /img/fbpic215.jpg
+musiColor: /img/musicolor215.png
+description: This morning, I am not quite sure how to say it, but even if the
+  sun's not yet on your side of the world or, if you've felt any hints of
+  melancholy and your soul is morose, I won't guarantee to clear the skies, but
+  I certainly will make a rainbow in your day. Today's guest is sort of what got
+  me through the winter without spending an excessive amount of money on wine
+  and chocolate, because their music will leave you with the hearty feeling of
+  butter on toast, dripping the goodness of sound all over your hungry souls.
+  That's Guru Fiction!!
 published: true
-pubDate: '2016-05-01'
+pubDate: 2016-05-01
+track1:
+  title: Silk Rhodes - Pains
+  color: dreamy
+  link: https://sounds.mailta.pe/215/track1.mp3
+track2:
+  title: Vulfpeck - 1612
+  color: vibrant
+  link: https://sounds.mailta.pe/215/track2.mp3
+track3:
+  title: A Tribe Called Quest - Electric Relaxation
+  color: dreamy
+  link: https://sounds.mailta.pe/215/track3.mp3
+track4:
+  title: Guru Fiction - California
+  color: vibrant
+  link: https://sounds.mailta.pe/215/track4.mp3
+track5:
+  title: "Cumbia - Unknown "
+  color: vibrant
+  link: https://sounds.mailta.pe/215/track5.mp3
+track6:
+  title: Carolina Camacho - Ninfa De Las Aguas
+  color: dreamy
+  link: https://sounds.mailta.pe/215/track6.mp3
+track7:
+  title: Octave Lissner - Silver Rain
+  color: dreamy
+  link: https://sounds.mailta.pe/215/track7.mp3
+release: 215
 ---
 
 

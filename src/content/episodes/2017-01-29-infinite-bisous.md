@@ -1,40 +1,48 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
-category: '245'
 guest_color: dreamy
-track1_link: https://sounds.mailta.pe/245/track1.mp3
-track2_link: https://sounds.mailta.pe/245/track2.mp3
-track3_link: https://sounds.mailta.pe/245/track3.mp3
-track4_link: https://sounds.mailta.pe/245/track4.mp3
-track5_link: https://sounds.mailta.pe/245/track5.mp3
-track6_link: https://sounds.mailta.pe/245/track6.mp3
-track7_link: https://sounds.mailta.pe/245/track7.mp3
-track1_title: h hunt - rice wine
-track1_color: bliss
-track2_title: Cluster - Sowiesoso
-track2_color: trippy
-track3_title: Haruomi Hosono - Pleocene (プリオシーヌ)
-track3_color: vibrant
-track4_title: infinite bisous - life + you
-track4_color: dreamy
-track6_title: Ménage à Trois - Conditional Love
-track6_color: dreamy
-track7_title: Ben Ji - Anchors
-track7_color: vibrant
 author: Inès
 illustrator: Pierre-Julien Fieux
 guest_name: infinite bisous
-episode_URL: https://www.mailta.pe/245/infinite-bisous/
-track5_title: These New Puritans - The Way I Do
-track5_color: bliss
-guestPic: guestPic245.jpg
-musiColor: musiColor245.png
-image: https://www.mailta.pe/img/fbPic245.png
-description: This morning, take the time to slowly wake up with Infinite Bisous' selection. Stay a little bit longer in bed and enjoy a blissful journey through delicate, warm and dreamy sounds. There is no need to get out of bed when it's so cold outside.
+guestPic: /img/guestpic245.jpg
+musiColor: /img/musicolor245.png
+image: /img/fbpic245.png
+description: This morning, take the time to slowly wake up with Infinite Bisous'
+  selection. Stay a little bit longer in bed and enjoy a blissful journey
+  through delicate, warm and dreamy sounds. There is no need to get out of bed
+  when it's so cold outside.
 writer: Inès
-pubDate: '2017-01-29'
+pubDate: 2017-01-29
+track1:
+  title: h hunt - rice wine
+  color: bliss
+  link: https://sounds.mailta.pe/245/track1.mp3
+track2:
+  title: Cluster - Sowiesoso
+  color: trippy
+  link: https://sounds.mailta.pe/245/track2.mp3
+track3:
+  title: Haruomi Hosono - Pleocene (プリオシーヌ)
+  color: vibrant
+  link: https://sounds.mailta.pe/245/track3.mp3
+track4:
+  title: infinite bisous - life + you
+  color: dreamy
+  link: https://sounds.mailta.pe/245/track4.mp3
+track5:
+  title: These New Puritans - The Way I Do
+  color: bliss
+  link: https://sounds.mailta.pe/245/track5.mp3
+track6:
+  title: Ménage à Trois - Conditional Love
+  color: dreamy
+  link: https://sounds.mailta.pe/245/track6.mp3
+track7:
+  title: Ben Ji - Anchors
+  color: vibrant
+  link: https://sounds.mailta.pe/245/track7.mp3
+release: 245
 ---
 This morning, take the time to slowly wake up to [Infinite Bisous](https://www.facebook.com/infinitebisous/ "Facebook")' selection. British artist Infinite Bisous uses dreamy synths fused with a lo-fi psychedelic sound to create bittersweet songs, perfect for a Sunday morning. Stay a little bit longer in bed, allow yourself to feel this wintry melancholy for a moment, inhale, exhale, and enjoy a blissful journey through delicate, warm and dreamy sounds. There is no need to get out of bed when it's so cold outside.
 

@@ -1,40 +1,47 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Jules
 illustrator: Thibault Daumain
 writer: Jules
-category: '496'
 guest_name: The Balek Band
 guest_color: trippy
-track1_title: Marvin Gaye - What's Going On (Rhythm 'N' Strings Mix)
-track2_title: Patrick Jahn - Abenteuer überm Schrank
-track1_color: dreamy
-track2_color: bliss
-track3_title: Jules-Henry Malaki - Tes Idées
-track3_color: vibrant
-track4_color: trippy
-track1_link: https://sounds.mailta.pe/496/track1.mp3
-track5_color: trippy
-track6_color: bliss
-track7_color: vibrant
-track2_link: https://sounds.mailta.pe/496/track2.mp3
-track3_link: https://sounds.mailta.pe/496/track3.mp3
-track4_link: https://sounds.mailta.pe/496/track4.mp3
-track5_link: https://sounds.mailta.pe/496/track5.mp3
-track6_link: https://sounds.mailta.pe/496/track6.mp3
-track7_link: https://sounds.mailta.pe/496/track7.mp3
-track4_title: The Balek Band - Balek Zouk
-track5_title: Diogo Strausz - Deixa a Gira Girar
-track6_title: Paula Tape - Body Nature
-track7_title: Wau Wau Collectif - Salamaleikoum
-episode_URL: https://www.mailta.pe/496/the-balek-band/
-guestPic: guestPic496.jpeg
-musiColor: musiColor496.png
-image: https://www.mailta.pe/img/fbPic496.png
-description: This morning, we are delighted to welcome Nantes-based group The Balek Band. Their very first album, Médecines, was freshly released last Friday, and they can't wait to share their musical universe with us!
-pubDate: '2022-06-05'
+guestPic: /img/guestpic496.jpeg
+musiColor: /img/musicolor496.png
+image: /img/fbpic496.png
+description: This morning, we are delighted to welcome Nantes-based group The
+  Balek Band. Their very first album, Médecines, was freshly released last
+  Friday, and they can't wait to share their musical universe with us!
+pubDate: 2022-06-05
+track1:
+  title: Marvin Gaye - What's Going On (Rhythm 'N' Strings Mix)
+  color: dreamy
+  link: https://sounds.mailta.pe/496/track1.mp3
+track2:
+  title: Patrick Jahn - Abenteuer überm Schrank
+  color: bliss
+  link: https://sounds.mailta.pe/496/track2.mp3
+track3:
+  title: Jules-Henry Malaki - Tes Idées
+  color: vibrant
+  link: https://sounds.mailta.pe/496/track3.mp3
+track4:
+  title: The Balek Band - Balek Zouk
+  color: trippy
+  link: https://sounds.mailta.pe/496/track4.mp3
+track5:
+  title: Diogo Strausz - Deixa a Gira Girar
+  color: trippy
+  link: https://sounds.mailta.pe/496/track5.mp3
+track6:
+  title: Paula Tape - Body Nature
+  color: bliss
+  link: https://sounds.mailta.pe/496/track6.mp3
+track7:
+  title: Wau Wau Collectif - Salamaleikoum
+  color: vibrant
+  link: https://sounds.mailta.pe/496/track7.mp3
+release: 496
 ---
  This morning, we are delighted to welcome Nantes-based group [The Balek Band](https://thebalekband.bandcamp.com/album/m-decines?fbclid=IwAR1PV_q4gHxw9JSDMam3MOnjfmvC2vDlYqtDzRdf5HgEQcboptdU7toVggM). Their very first album, <i>"Médecines"</i>, was freshly released last Friday, and they can't wait to share their musical universe with us!
 <br><br>

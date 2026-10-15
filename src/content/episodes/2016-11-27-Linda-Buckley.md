@@ -1,40 +1,51 @@
 ---
-
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: "6"
 published: true
 author: Sanjay Mistry
 illustrator: Aoife Comey
 writer: Daisy
 guest_name: Linda Buckley
 guest_color: dreamy
-track1_link: https://sounds.mailta.pe/236/track1.mp3
-track2_link: https://sounds.mailta.pe/236/track2.mp3
-track3_link: https://sounds.mailta.pe/236/track3.mp3
-track4_link: https://sounds.mailta.pe/236/track4.mp3
-track5_link: https://sounds.mailta.pe/236/track5.mp3
-track6_link: https://sounds.mailta.pe/236/track6.mp3
-track7_link: https://sounds.mailta.pe/236/track7.mp3
-category: '236'
-track1_title: Grouper - Heavy Water / I'd Rather Be Sleeping
-track1_color: bliss
-track2_title: MMOTHS - Deu
-track2_color: trippy
-track3_title: Tropic of Cancer - Stop Suffering
-track3_color: dreamy
-track4_title: Linda Buckley - Immersia – I
-track4_color: bliss
-track5_color: trippy
-track5_title: Jason Sharp - A Boat Upon Its Blood (Pt 1)
-track6_title: Rachel Grimes – The Air In Time
-track6_color: dreamy
-track7_title: Allison Cameron - 3rds, 4ths & 5ths
-track7_color: bliss
-episode_URL: https://www.mailta.pe/236/Linda-Buckley/
-guestPic: guestPic236.jpg
-image: https://www.mailta.pe/img/fbPic236.jpg
-musiColor: musiColor236.png
-description: This morning, let yourself be cocooned in the beautiful strands of sound woven together by our guest, Linda Buckley. Resist the day for just a few minutes longer, as your consciousness oscillates with the ebb and flow of each track. Linda Buckley knows just how to tap into the dreamy ether, gently pulling opening doors to sonic worlds whose tendrils reach out, imploring you to join them. Close your eyes, slow your breathing, and let the sound vortex move you.
-pubDate: '2016-11-27'
+guestPic: /img/guestpic236.jpg
+image: /img/fbpic236.jpg
+musiColor: /img/musicolor236.png
+description: This morning, let yourself be cocooned in the beautiful strands of
+  sound woven together by our guest, Linda Buckley. Resist the day for just a
+  few minutes longer, as your consciousness oscillates with the ebb and flow of
+  each track. Linda Buckley knows just how to tap into the dreamy ether, gently
+  pulling opening doors to sonic worlds whose tendrils reach out, imploring you
+  to join them. Close your eyes, slow your breathing, and let the sound vortex
+  move you.
+pubDate: 2016-11-27
+track1:
+  title: Grouper - Heavy Water / I'd Rather Be Sleeping
+  color: bliss
+  link: https://sounds.mailta.pe/236/track1.mp3
+track2:
+  title: MMOTHS - Deu
+  color: trippy
+  link: https://sounds.mailta.pe/236/track2.mp3
+track3:
+  title: Tropic of Cancer - Stop Suffering
+  color: dreamy
+  link: https://sounds.mailta.pe/236/track3.mp3
+track4:
+  title: Linda Buckley - Immersia – I
+  color: bliss
+  link: https://sounds.mailta.pe/236/track4.mp3
+track5:
+  title: Jason Sharp - A Boat Upon Its Blood (Pt 1)
+  color: trippy
+  link: https://sounds.mailta.pe/236/track5.mp3
+track6:
+  title: Rachel Grimes – The Air In Time
+  color: dreamy
+  link: https://sounds.mailta.pe/236/track6.mp3
+track7:
+  title: Allison Cameron - 3rds, 4ths & 5ths
+  color: bliss
+  link: https://sounds.mailta.pe/236/track7.mp3
+release: 236
 ---
 
 This morning, let yourself be cocooned in the beautiful strands of sound woven together by our guest, [Linda Buckley](http://www.lindabuckley.org/). Resist the day for just a few minutes longer, as your consciousness oscillates with the ebb and flow of each track. Linda Buckley knows just how to tap into the dreamy ether, gently pulling opening doors to sonic worlds whose tendrils reach out, imploring you to join them. Close your eyes, slow your breathing, and let the sound vortex move you.

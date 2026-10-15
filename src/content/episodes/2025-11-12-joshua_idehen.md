@@ -1,40 +1,46 @@
 ---
 published: true
 pubDate: 2025-11-16
-category: "598"
 guest_name: Joshua Idehen
 guest_color: vibrant
-guestPic: guestpic598.jpg
+guestPic: /img/guestpic598.jpg
 author: Sarah
 illustrator: Thibault Daumain
-track1_title: Julio Bashmore, Sam Dew - Holding On
-track1_color: vibrant
-track1_link: https://sounds.mailta.pe/598/track1.mp3
-track2_title: Stromae - papaoutai
-track2_color: dreamy
-track2_link: https://sounds.mailta.pe/598/track2.mp3
-track3_title: Fred Again, Baxter Dury - These Are My Friends
-track3_color: dreamy
-track3_link: https://sounds.mailta.pe/598/track3.mp3
-track4_title: "Joshua Idehen - Could Be Forever "
-track4_color: vibrant
-track4_link: https://sounds.mailta.pe/598/track4.mp3
-track5_title: Eola - No Getting
-track5_color: vibrant
-track5_link: https://sounds.mailta.pe/598/track5.mp3
-track6_title: Joshua Idehen - It Always Was
-track6_color: dreamy
-track6_link: https://sounds.mailta.pe/598/track6.mp3
-track7_title: Nightmares on Wax, Yasiin Bey - Bang Bien
-track7_color: trippy
-track7_link: https://sounds.mailta.pe/598/track7.mp3
 description: We are full of joy to welcome musician, spoken-word artist, and
   dear guest Joshua Idehen to MailTape this morning ! Based in Stockholm, he
   gifts us today with a Sunday selection crafted with care -- just the right mix
   to start the day with some dancing ;)
-episode_URL: https://www.mailta.pe/598/Joshua-Idehen/
-image: https://www.mailta.pe/img/fbPic598.png
-musiColor: musicolor598.png
+image: /img/fbpic598.png
+musiColor: /img/musicolor598.png
+track1:
+  title: Julio Bashmore, Sam Dew - Holding On
+  color: vibrant
+  link: https://sounds.mailta.pe/598/track1.mp3
+track2:
+  title: Stromae - papaoutai
+  color: dreamy
+  link: https://sounds.mailta.pe/598/track2.mp3
+track3:
+  title: Fred Again, Baxter Dury - These Are My Friends
+  color: dreamy
+  link: https://sounds.mailta.pe/598/track3.mp3
+track4:
+  title: "Joshua Idehen - Could Be Forever "
+  color: vibrant
+  link: https://sounds.mailta.pe/598/track4.mp3
+track5:
+  title: Eola - No Getting
+  color: vibrant
+  link: https://sounds.mailta.pe/598/track5.mp3
+track6:
+  title: Joshua Idehen - It Always Was
+  color: dreamy
+  link: https://sounds.mailta.pe/598/track6.mp3
+track7:
+  title: Nightmares on Wax, Yasiin Bey - Bang Bien
+  color: trippy
+  link: https://sounds.mailta.pe/598/track7.mp3
+release: 598
 ---
 We are full of joy to welcome musician, spoken-word artist, and dear guest [Joshua Idehen](https://joshuaidehen.bandcamp.com/) to MailTape this morning ! Based in Stockholm, he gifts us today with a Sunday selection crafted with care -- just the right mix to start the day with some dancing ;)  
 
