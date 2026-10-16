@@ -6,8 +6,8 @@ guest_name: Charlotte Leclerc
 guest_color: trippy
 guestPic: /img/guestpic617.jpg
 author: ImaCrea
-illustrator: ''
-writer: ''
+illustrator: Thibault Daumain
+writer: ImaCrea
 track1:
   title: Ali Omar - Roll Up
   color: trippy
