@@ -4,7 +4,7 @@ pubDate: 2026-10-18
 release: 617
 guest_name: Charlotte Leclerc
 guest_color: trippy
-guestPic: ''
+guestPic: /img/guestpic617.jpg
 author: ImaCrea
 illustrator: ''
 writer: ''
@@ -68,14 +68,14 @@ This french duo bringing together Claude Arto and punk icon Edwige Belmore only 
 I'm always amazed by the musical arrangements which open a brand new world. This sunday can begin.
 
  **"** 
- # Curator's selection 
- ## Artist - Track 
- Curator: **"** lorem ipsum **"** 
- ## Artist - Track 
- Curator: **"** lorem ipsum **"** 
-## Artist - Track 
- Curator: **"** lorem ipsum **"** 
-## Artist - Track 
- Curator: **"** lorem ipsum **"** 
+ #  ImaCrea's selection 
+ ## Charlotte Leclerc - La Chambre
+ImaCrea: **"** lorem ipsum **"** 
+ ## Spivak - Golden Boy
+ImaCrea: **"** lorem ipsum **"** 
+## Froid Dub - On The Nose
+ImaCrea: **"** lorem ipsum **"** 
+## Peach - Rainy Season
+ImaCrea: **"** lorem ipsum **"** 
 
  Thank you...
