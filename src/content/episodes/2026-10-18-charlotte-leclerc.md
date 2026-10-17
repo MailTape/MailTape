@@ -36,22 +36,15 @@ track7:
   title: Peach - Rainy Season
   color: trippy
   link: https://sounds.mailta.pe/617/track7.mp3
-description: |-
-  This morning...
-
-  # Charlotte Leclerc's selection 
-
-  ## Ali Omar - Roll Up
-
-  Charlotte Leclerc: **"** This track is a dub diamond.
-
-  The whole album, _Hashish Hits_ is a posthumous album by artist, produc...
+description: This morning, we're very excited to welcome Charlotte Leclerc for a full-on trippy episode. I discovered her while browsing [Delodio](https://delodiolabel.bandcamp.com/)’s catalog and instantly fell f...
 image: ''
 musiColor: ''
 alignY: ''
 ---
 
-This morning...
+This morning, we're very excited to welcome Charlotte Leclerc for a full-on trippy episode. I discovered her while browsing [Delodio](https://delodiolabel.bandcamp.com/)’s catalog and instantly fell for her volatile waves and magical bass. Her second album, [_Moiré_](https://delodiolabel.bandcamp.com/album/charlotte-leclerc-moir-del20), is a must-listen whenever you’re longing to (re)open your third eye and let music and imagination fill your day with visions of hope.
+
+Let the sound drip through your body, you deserve this moment of rest and lightness. It all started with a wave. Now there’s life in each and every cell of your body. Feel the movement within as it grows on you.
 
 # Charlotte Leclerc's selection 
 
@@ -76,14 +69,15 @@ Charlotte Leclerc: **"** I really enjoy listen to this song from the french band
 This french duo bringing together Claude Arto and punk icon Edwige Belmore only released one album in 1982. They delivered a blend of hypnotic synthesizers, a cold drum machine, and chanted vocals—typical of the Parisian underground scene of the early 1980s.
 
 I'm always amazed by the musical arrangements which open a brand new world. This sunday can begin. **"** 
- 
 
 #  ImaCrea's selection 
 
 ## Charlotte Leclerc - La Chambre
+
 ImaCrea: **"** lorem ipsum **"** 
 
 ## Spivak - Golden Boy
+
 ImaCrea: **"** lorem ipsum **"** 
 
 ## Froid Dub - On The Nose
