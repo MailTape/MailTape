@@ -90,4 +90,4 @@ ImaCrea: “Life needs water to flourish. Let the sound drip onto your skin; ima
 
 Thank you for tripping with us this morning. Thanks to Charlotte Leclerc for her magical selection which inspired greatly to keep the vibe going on and on. And to Thibault for the jungle-esque illustration. Love, peace, unity.
 
-PS: Sorry, I broke inadvertently the loop feature on the playlist while working on improving some stuff in the code of MailTape. Didn't have time to fix it, I'll try my best to find a solution soon, thanks for you patience. 😚
+PS: Sorry, I broke inadvertently the loop feature on the player while working on improving some stuff in the code of MailTape. Didn't have time to fix it, I'll try my best to find a solution soon, thanks for you patience. 😚
