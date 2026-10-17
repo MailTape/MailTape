@@ -44,7 +44,7 @@ alignY: ''
 
 This morning, we're very excited to welcome Charlotte Leclerc for a full-on trippy episode. I discovered her while browsing [Delodio](https://delodiolabel.bandcamp.com/)’s catalog and instantly fell for her volatile waves and magical bass. Her second album, [_Moiré_](https://delodiolabel.bandcamp.com/album/charlotte-leclerc-moir-del20), is a must-listen whenever you’re longing to (re)open your third eye and let music and imagination fill your day with visions of hope.
 
-Let the sound drip through your body, you deserve this moment of rest and lightness. It all started with a wave. Now there’s life in each and every cell of your body. Feel the movement within as it grows on you.
+Let the sound drip through your body, you deserve this moment of rest and lightness. It all started with a wave. Now there’s life in each and every cell of your body. Feel the movement within as it grows on you..
 
 # Charlotte Leclerc's selection 
 
