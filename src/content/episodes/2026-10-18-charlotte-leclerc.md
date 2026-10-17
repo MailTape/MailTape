@@ -70,22 +70,22 @@ This french duo bringing together Claude Arto and punk icon Edwige Belmore only 
 
 I'm always amazed by the musical arrangements which open a brand new world. This sunday can begin. **"** 
 
-#  ImaCrea's selection 
+# ImaCrea’s selection
 
-## Charlotte Leclerc - La Chambre
+## Charlotte Leclerc — “La Chambre”
 
-ImaCrea: **"** This intoxicating melody accompanied me on some of the most trippy days I had last summer. Her voice introduces a kind of sensual tension and urgency that contrast with the ambient background filled with vaporous and bizarre sounds, I love the atmosphere it brings. Love is in every second of this track, letting everything it touches fall into deep joy.  **"** 
+ImaCrea: “This intoxicating melody accompanied me through some of the trippiest days I had last summer. Her voice creates a sensual tension and urgency that contrast with the ambient backdrop, filled with vaporous, bizarre sounds. I love the atmosphere it brings. Love is in every second of this track, letting everything it touches fall into deep joy.”
 
-## Spivak - Golden Boy
+## Spivak — “Golden Boy”
 
-ImaCrea: **"** We spiral into a joyful trio, let's add some drums with this beautiful track from Spivak. Vulnerability is not a bad word, its precisely how we'll bring peace I believe and it demands most courage. **"** 
+ImaCrea: “We spiral... let’s add some drums with this beautiful track from Spivak. Vulnerability isn’t a bad word. I believe it’s precisely how we’ll bring peace. And it takes great courage.”
 
-## Froid Dub - On The Nose
+## Froid Dub — “On The Nose”
 
-ImaCrea: **"** Closer to the ground, body gets energized. Underneath the mycelium is vibrating. This track is some of the very best discoveries I had the chance to make this year. Its been months I'm waiting for the perfect moment to share it with you... For real! And it's thanks to Froid Dub that I then dig their label and found about Charlotte Leclerc's music... **"** 
+ImaCrea: “Closer to the ground, the body gets energized. Beneath us, the mycelium is vibrating. This track is one of the best discoveries I’ve made this year. I’ve been waiting for months for the perfect moment to share it with you… For real! And it’s thanks to Froid Dub that I explored their label and discovered Charlotte Leclerc’s music…”
 
-## Peach - Rainy Season
+## Peach — “Rainy Season”
 
-ImaCrea: **"** Life needs water to flourish. Let the sound drip on your skin, imagine rain, reactivate its ritual deeply embedded in human history since ever. This track is so gentle, be sure to check the EP which is so fully invigorating... **"** 
+ImaCrea: “Life needs water to flourish. Let the sound drip onto your skin; imagine rain and reconnect with a ritual deeply embedded in human history since time immemorial. This track is so gentle. Be sure to check out the EP... it’s soo invigorating…”
 
- Thank you for tripping with us this morning, thanks to Charlotte Leclerc for this magical selection and to Thibault for the jungleish illustration. Love, peace, unity.
+Thank you for tripping with us this morning. Thanks to Charlotte Leclerc for her magical selection which inspired greatly to keep the vibe going on and on. And to Thibault for the jungle-esque illustration. Love, peace, unity.
