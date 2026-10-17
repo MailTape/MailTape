@@ -37,7 +37,7 @@ track7:
   color: trippy
   link: https://sounds.mailta.pe/617/track7.mp3
 description: This morning, we're very excited to welcome Charlotte Leclerc for a full-on trippy episode. I discovered her while browsing [Delodio](https://delodiolabel.bandcamp.com/)’s catalog and instantly fell f...
-image: ''
+image: /img/fbpic617.png
 musiColor: ''
 alignY: ''
 ---
@@ -74,18 +74,18 @@ I'm always amazed by the musical arrangements which open a brand new world. This
 
 ## Charlotte Leclerc - La Chambre
 
-ImaCrea: **"** lorem ipsum **"** 
+ImaCrea: **"** This intoxicating melody accompanied me on some of the most trippy days I had last summer. Her voice introduces a kind of sensual tension and urgency that contrast with the ambient background filled with vaporous and bizarre sounds, I love the atmosphere it brings. Love is in every second of this track, letting everything it touches fall into deep joy.  **"** 
 
 ## Spivak - Golden Boy
 
-ImaCrea: **"** lorem ipsum **"** 
+ImaCrea: **"** We spiral into a joyful trio, let's add some drums with this beautiful track from Spivak. Vulnerability is not a bad word, its precisely how we'll bring peace I believe and it demands most courage. **"** 
 
 ## Froid Dub - On The Nose
 
-ImaCrea: **"** lorem ipsum **"** 
+ImaCrea: **"** Closer to the ground, body gets energized. Underneath the mycelium is vibrating. This track is some of the very best discoveries I had the chance to make this year. Its been months I'm waiting for the perfect moment to share it with you... For real! And it's thanks to Froid Dub that I then dig their label and found about Charlotte Leclerc's music... **"** 
 
 ## Peach - Rainy Season
 
-ImaCrea: **"** lorem ipsum **"** 
+ImaCrea: **"** Life needs water to flourish. Let the sound drip on your skin, imagine rain, reactivate its ritual deeply embedded in human history since ever. This track is so gentle, be sure to check the EP which is so fully invigorating... **"** 
 
- Thank you...
+ Thank you for tripping with us this morning, thanks to Charlotte Leclerc for this magical selection and to Thibault for the jungleish illustration. Love, peace, unity.
