@@ -38,7 +38,7 @@ track7:
   link: https://sounds.mailta.pe/617/track7.mp3
 description: This morning, we're very excited to welcome Charlotte Leclerc for a full-on trippy episode. I discovered her while browsing [Delodio](https://delodiolabel.bandcamp.com/)’s catalog and instantly fell f...
 image: /img/fbpic617.png
-musiColor: ''
+musiColor: /img/musicolor617.png
 alignY: ''
 ---
 
@@ -89,3 +89,5 @@ ImaCrea: “Closer to the ground, the body gets energized. Beneath us, the mycel
 ImaCrea: “Life needs water to flourish. Let the sound drip onto your skin; imagine rain and reconnect with a ritual deeply embedded in human history since time immemorial. This track is so gentle. Be sure to check out the EP... it’s soo invigorating…”
 
 Thank you for tripping with us this morning. Thanks to Charlotte Leclerc for her magical selection which inspired greatly to keep the vibe going on and on. And to Thibault for the jungle-esque illustration. Love, peace, unity.
+
+PS: Sorry, I broke inadvertently the loop feature on the playlist while working on improving some stuff in the code of MailTape. Didn't have time to fix it, I'll try my best to find a solution soon, thanks for you patience. 😚
