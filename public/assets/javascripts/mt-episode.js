@@ -71,6 +71,12 @@ $(document).ready(
 			else {
 				var totalDuration = tracksDurationArray[0]+tracksDurationArray[1]+tracksDurationArray[2]+tracksDurationArray[3]+tracksDurationArray[4]+tracksDurationArray[5]+tracksDurationArray[6];
 				var percentUnit = "%";
+				if (!isFinite(totalDuration) || totalDuration <= 0) {
+					// Garde-fou : total non exploitable -> largeurs égales
+					for (i=0;i<7;i++){
+						$(".track"+(i+1)).width((100/7-0.2)+percentUnit);}
+					return;
+				}
 				for (i=0;i<7;i++){
 					$(".track"+(i+1)).width((tracksDurationArray[i]/totalDuration*100-0.2)+percentUnit);}
 				//console.log("tracksDurationArray est prêt! "+tracksDurationArray);
@@ -94,28 +100,55 @@ $(document).ready(
 		}
 
 		function getTracksDuration () {
-			//console.log("trying to get tracks duration");
 			var count = tracksURL.length;
-			//console.log("how many tracks? -> "+tracksURL.length);
-			$.each(tracksURL,function(i,trackURL){
-				audios[i] = new Audio(trackURL);
-				audios[i].addEventListener('canplaythrough', function() {
-				count--;
-				//console.log("count: "+count+" trackURL: "+audios[i].src+" duration: "+audios[i].duration);
-				//console.log("AMZ shit: "+Math.round(audios[i].duration));
-			    tracksDuration[i]=Math.round(audios[i].duration);
-			    //console.log("tracksDuration: "+tracksDuration);
-			    setTracksWidth(tracksDuration);
-			    });
+			if (!count) return;
+			$.each(tracksURL, function(i, trackURL) {
+				if (!trackURL) {
+					setTracksWidth(tracksDuration);
+					return;
+				}
+				// Sonde metadata seulement, pas canplaythrough (qui saturait le stream sous Firefox)
+				var audio = document.createElement('audio');
+				audio.preload = 'metadata';
+				audio.muted = true;
+				audios[i] = audio;
+				var settled = false;
+				var finish = function () {
+					if (settled) return;
+					settled = true;
+					clearTimeout(audio._mtTimer);
+					var duration = audio.duration;
+					// Durée finie/positive seulement (Infinity, NaN ignorés)
+					if (isFinite(duration) && duration > 0) {
+						tracksDuration[i] = Math.round(duration);
+					}
+					// On libère la ressource pour ne plus gêner la lecture réelle.
+					try { audio.pause(); } catch (e) {}
+					audio.src = '';
+					audios[i] = null;
+					setTracksWidth(tracksDuration);
+				};
+				var onMeta = function () {
+					// Infinity n'ouvre pas la fin de la sonde
+					if (audio.duration > 0 && isFinite(audio.duration)) {
+						finish();
+					}
+				};
+				// Attachées AVANT de poser le src pour ne rater aucun événement.
+				audio.addEventListener('loadedmetadata', onMeta, { once: true });
+				audio.addEventListener('durationchange', onMeta, { once: true });
+				audio.addEventListener('error', finish, { once: true });
+				// Filet de sécurité si la metadata n'arrive jamais
+				audio._mtTimer = setTimeout(finish, 10000);
+				audio.src = trackURL;
+				// Certains navigateurs ne démarrent le chargement qu'après load().
+				try { audio.load(); } catch (e) {}
 			});
 		}
 
-		// avoid getTracksDuration on Firefox as it's provoking errors and doesn't let user stream full tracks
-		// temporary fix till I (or you?!) find time to fix that ^^
-		var isFirefox = typeof InstallTrigger !== 'undefined';
-		if (!isFirefox) {
-			getTracksDuration();
-		}
+		// Durée récupérée via une sonde metadata (voir getTracksDuration) : non bloquant,
+		// plus besoin du blocage Firefox.
+		getTracksDuration();
 		
 
 		$(".playlist").on("click",function() {
