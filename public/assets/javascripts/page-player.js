@@ -307,7 +307,7 @@ function PagePlayer() {
         o = o.previousSibling;
       }
     }
-    if (o.nodeName.toLowerCase() !== 'li') {
+    if (!o || o.nodeName.toLowerCase() !== 'li') {
       return null;
     } else {
       return o.getElementsByTagName('a')[0];
@@ -338,7 +338,7 @@ function PagePlayer() {
         o = o.nextSibling;
       }
     }
-    if (o.nodeName.toLowerCase() !== 'li') {
+    if (!o || o.nodeName.toLowerCase() !== 'li') {
       return null;
     } else {
       return o.getElementsByTagName('a')[0];

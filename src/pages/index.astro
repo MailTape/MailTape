@@ -7,6 +7,9 @@ import slugEp from "../utils/slugEp.js";
 
 const episodes = await getCollection('episodes', ({ data })=> {
     let now: Date = new Date (Date.now());
+    if (data.pubDate > now && data.published === true) {
+        console.warn("Episode "+data.release+" won't be on index (publish date is: "+data.pubDate+") and now is: "+now );
+    }
     return data.pubDate < now && data.published === true;
 })
 episodes.sort(sortByEpisodeNumber);
