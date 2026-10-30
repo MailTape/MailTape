@@ -8,6 +8,10 @@ on:
     - cron: '14 3 * * 0'
       timezone: "Europe/Paris"
 
+concurrency:
+  group: deploy-main
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -20,13 +24,31 @@ jobs:
       - name: Setup bun
         uses: oven-sh/setup-bun@v2
 
+      - name: Cache bun dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.bun/install/cache
+          key: bun-deps-${{ runner.os }}-${{ hashFiles('bun.lockb') }}
+          restore-keys: bun-deps-${{ runner.os }}-
+
       - name: Install dependencies
-        run: bun install
+        run: bun install --frozen-lockfile
 
       - name: Build Astro project
         run: bun run build
 
-      # public/img (1.5GB) is committed to git; strip it so the artifact stays small.
+      - name: Compute image tree sha
+        run: echo "IMG_SHA=$(git rev-parse HEAD:public/img)" >> "$GITHUB_ENV"
+
+      - name: Cache static images
+        uses: actions/cache@v4
+        with:
+          path: public/img
+          key: img-${{ env.IMG_SHA }}
+
+      - name: Pass image cache key to deploy
+        run: echo "$IMG_SHA" > dist/img.sha
+
       - name: Strip static images from artifact
         run: rm -rf dist/img
 
@@ -41,19 +63,24 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 1
-
       - name: Download build artifact
         uses: actions/download-artifact@v4
         with:
           name: website-build
           path: build/
 
-      # Restore images from the checkout (same commit the build ran on).
+      - name: Load image cache key
+        run: echo "IMG_SHA=$(cat build/img.sha)" >> "$GITHUB_ENV"
+
       - name: Restore static images
+        uses: actions/cache@v4
+        with:
+          path: public/img
+          key: img-${{ env.IMG_SHA }}
+          restore-keys: |
+            img-
+
+      - name: Restore images into build dir
         run: cp -a public/img build/
 
       - name: Setup bun
@@ -64,3 +91,4 @@ jobs:
           AWS_ACCESS_KEY_ID: ${{ secrets.dxfl_id }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.dxfl_key }}
         run: bunx dxfl deploy www.mailta.pe build/ --yes --config-file build/deuxfleurs.toml
+
