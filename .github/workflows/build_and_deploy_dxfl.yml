@@ -37,18 +37,6 @@ jobs:
       - name: Build Astro project
         run: bun run build
 
-      - name: Compute image tree sha
-        run: echo "IMG_SHA=$(git rev-parse HEAD:public/img)" >> "$GITHUB_ENV"
-
-      - name: Cache static images
-        uses: actions/cache@v4
-        with:
-          path: public/img
-          key: img-${{ env.IMG_SHA }}
-
-      - name: Pass image cache key to deploy
-        run: echo "$IMG_SHA" > dist/img.sha
-
       - name: Strip static images from artifact
         run: rm -rf dist/img
 
@@ -69,16 +57,11 @@ jobs:
           name: website-build
           path: build/
 
-      - name: Load image cache key
-        run: echo "IMG_SHA=$(cat build/img.sha)" >> "$GITHUB_ENV"
-
-      - name: Restore static images
-        uses: actions/cache@v4
+      - name: Checkout static images
+        uses: actions/checkout@v4
         with:
-          path: public/img
-          key: img-${{ env.IMG_SHA }}
-          restore-keys: |
-            img-
+          fetch-depth: 1
+          sparse-checkout: public/img
 
       - name: Restore images into build dir
         run: cp -a public/img build/
@@ -91,4 +74,3 @@ jobs:
           AWS_ACCESS_KEY_ID: ${{ secrets.dxfl_id }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.dxfl_key }}
         run: bunx dxfl deploy www.mailta.pe build/ --yes --config-file build/deuxfleurs.toml
-
