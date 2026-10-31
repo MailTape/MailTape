@@ -3,7 +3,7 @@ published: true
 pubDate: 2026-11-01
 release: 619
 guest_name: Swimming Vibes
-guest_color: ''
+guest_color: vibrant
 guestPic: /img/guestpic619.jpg
 author: ImaCrea
 illustrator: Antoine Gaudin
