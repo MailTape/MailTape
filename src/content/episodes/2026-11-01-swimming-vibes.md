@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 pubDate: 2026-11-01
 release: 619
 guest_name: Swimming Vibes
