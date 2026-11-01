@@ -38,31 +38,51 @@ track7:
   link: https://sounds.mailta.pe/619/track7.mp3
 description: |-
   This morning... 
-   # Guest's selection 
-   ## Dorian Concept - Decaying Duet 
-   Guest: **"** lorem ipsum **"** 
-   ## Nathan Fake - Yucon
-   Guest: **"** lorem ipsum **"** 
-   ## Batu - Meridian 
-   Guest: **"**...
+
+  # Guest's selection 
+
+  ## Dorian Concept - Decaying Duet 
+
+  ImaCrea: **"** Water is in constant mouvement. So let's start with beautiful sound waves. **"** 
+
+  ## Nathan Fake - Yucon
+
+  Im...
 image: ''
 musiColor: ''
 alignY: ''
 ---
 
 This morning... 
- # Guest's selection 
- ## Dorian Concept - Decaying Duet 
- Guest: **"** lorem ipsum **"** 
- ## Nathan Fake - Yucon
- Guest: **"** lorem ipsum **"** 
- ## Batu - Meridian 
- Guest: **"** lorem ipsum **"** 
- ## FKA Twig - Drum of Death
- Curator: **"** lorem ipsum **"** 
- ## Blawan - Creature Brigade
- Curator: **"** lorem ipsum **"** 
- ## Car Culture - It Feels Great 
- Curator: **"** lorem ipsum **"** 
+
+# Guest's selection 
+
+## Dorian Concept - Decaying Duet 
+
+ImaCrea: **"** Water is in constant mouvement. So let's start with beautiful sound waves. **"** 
+
+## Nathan Fake - Yucon
+
+ImaCrea: **"** I'm submerged by fluid, gravity is different here. I feel lighter, I'm floating as if was flying. I feel one in this element and I remember it's where I was formed during the first months of my life. People around, each with their very own way of swimming. The bass is calling me, let's go. **"** 
+
+## Batu - Meridian 
+
+ImaCrea: **"** Repetition of the movement, full body engaged in it. Repetition gets me into a state of flow, speed increases, soon my thinking is shut off. I'm a body, and swimming is what I do. That's all. 1. 2. 3. 4. **"** 
+
+## FKA Twig - Drum of Death
+
+ImaCrea: **"** lorem ipsum **"** 
+
+## Blawan - Creature Brigade
+
+ImaCrea: **"** lorem ipsum **"**  
+
+## DJ Koze - Die Gondel (feat. Sophia Kennedy)
+
+ImaCrea: **"** lorem ipsum **"** 
+
+## Car Culture - It Feels Great 
+
+ImaCrea: **"** lorem ipsum **"** 
 
  Thank you...
