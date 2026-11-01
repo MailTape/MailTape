@@ -89,4 +89,4 @@ right and left... **"**
 Thank you for being with us, for pushing us to experiment with new things and share them with you. We're very curious to know your feelings about this episode. Feel free to write to us and let us know!
 
 Many thanks to Antoine for creating this inspiring illustration. I feel it really encapsulates what I tried to express with that selection. Also, a big thank you to the service public here in France ✊, we have 
-more than 5000 swimming pools across the country! Let's enjoy them!
+more than 4000 swimming pools across the country! Let's enjoy them!
