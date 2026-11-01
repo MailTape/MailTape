@@ -17,7 +17,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           fetch-depth: 1
 
@@ -25,7 +25,7 @@ jobs:
         uses: oven-sh/setup-bun@v2
 
       - name: Cache bun dependencies
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: ~/.bun/install/cache
           key: bun-deps-${{ runner.os }}-${{ hashFiles('bun.lockb') }}
@@ -41,7 +41,7 @@ jobs:
         run: rm -rf dist/img
 
       - name: Upload build artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: website-build
           path: dist/
@@ -53,13 +53,13 @@ jobs:
     steps:
       # checkout first: a later checkout empties the workspace to git init, wiping build/
       - name: Checkout static images
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           fetch-depth: 1
           sparse-checkout: public/img
 
       - name: Download build artifact
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v8
         with:
           name: website-build
           path: build/
