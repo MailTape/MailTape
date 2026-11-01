@@ -28,7 +28,10 @@ track5:
   title: Blawan - Creature Brigade
   color: rough
   link: https://sounds.mailta.pe/619/track5.mp3
-track6: null
+track6:
+  title: DJ Koze - Die Gondel (feat. Sophia Kennedy)
+  color: vibrant
+  link: https://sounds.mailta.pe/619/track6.mp3
 track7:
   title: Car Culture - It Feels Great
   color: bliss
@@ -36,13 +39,12 @@ track7:
 description: |-
   This morning... 
    # Guest's selection 
-   ## Artist - Track 
+   ## Dorian Concept - Decaying Duet 
    Guest: **"** lorem ipsum **"** 
-   ## Artist - Track 
+   ## Nathan Fake - Yucon
    Guest: **"** lorem ipsum **"** 
-   ## Artist - Track 
-   Guest: **"** lorem ipsum **"** 
-   #...
+   ## Batu - Meridian 
+   Guest: **"**...
 image: ''
 musiColor: ''
 alignY: ''
@@ -50,20 +52,17 @@ alignY: ''
 
 This morning... 
  # Guest's selection 
- ## Artist - Track 
+ ## Dorian Concept - Decaying Duet 
  Guest: **"** lorem ipsum **"** 
- ## Artist - Track 
+ ## Nathan Fake - Yucon
  Guest: **"** lorem ipsum **"** 
- ## Artist - Track 
+ ## Batu - Meridian 
  Guest: **"** lorem ipsum **"** 
- # Curator's selection 
- ## Artist - Track 
+ ## FKA Twig - Drum of Death
  Curator: **"** lorem ipsum **"** 
- ## Artist - Track 
+ ## Blawan - Creature Brigade
  Curator: **"** lorem ipsum **"** 
- ## Artist - Track 
- Curator: **"** lorem ipsum **"** 
- ## Artist - Track 
+ ## Car Culture - It Feels Great 
  Curator: **"** lorem ipsum **"** 
 
  Thank you...
