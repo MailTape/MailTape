@@ -21,7 +21,7 @@ track3:
   color: vibrant
   link: https://sounds.mailta.pe/619/track3.mp3
 track4:
-  title: FKA Twig - Drum of Death
+  title: FKA Twigs - Drum of Death
   color: vibrant
   link: https://sounds.mailta.pe/619/track4.mp3
 track5:
@@ -66,7 +66,7 @@ of my life. People around each with their very own way of swimming. The bass is 
 ImaCrea: **"** Repetition of the movement, full body engaged in it. Repetition gets me into a state of flow, speed increases, soon my thinking is shut off. I'm a body, and swimming is what I do. That's all. 
 1, 2, 3, 4. 1, 2, 3, 4... **"**
 
-## FKA Twig - Drum of Death
+## FKA Twigs - Drum of Death
 
 ImaCrea: **"** My body starts to call, telling me I'm about to hit a limit. Am I exhausted? Should I get some rest? Let's listen to it, what does it want? What do I want? Let's not stop the movement. Just 
 change the shape of it, slow it down, pace the rhythm, let it rest but stay with the flow. Desire kicks back, invigorating drums pulsating, I feel I get into a new state. Swimming becomes more natural. I feel like I'm dancing. **"**
