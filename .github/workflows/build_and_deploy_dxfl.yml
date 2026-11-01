@@ -62,6 +62,7 @@ jobs:
         with:
           fetch-depth: 1
           sparse-checkout: public/img
+          clean: false # preserve build/ downloaded artifact; default clean:true would wipe it
 
       - name: Restore images into build dir
         run: cp -a public/img build/
