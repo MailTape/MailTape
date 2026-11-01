@@ -69,8 +69,7 @@ ImaCrea: **"** Repetition of the movement, full body engaged in it. Repetition g
 ## FKA Twig - Drum of Death
 
 ImaCrea: **"** My body starts to call, telling me I'm about to hit a limit. Am I exhausted? Should I get some rest? Let's listen to it, what does it want? What do I want? Let's not stop the movement. Just 
-change the shape of it, slow it down, pace the rhythm, let it rest but stay with the flow. Desire kicks back, invigorating drums pulsating, I feel I get into a new state. Swimming becomes more natural, let's 
-think. I feel like I'm dancing. **"**
+change the shape of it, slow it down, pace the rhythm, let it rest but stay with the flow. Desire kicks back, invigorating drums pulsating, I feel I get into a new state. Swimming becomes more natural. I feel like I'm dancing. **"**
 
 ## Blawan - Creature Brigade
 
