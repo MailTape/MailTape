@@ -10,6 +10,7 @@ public_folder: "/img" # The src attribute for uploaded media
 
 media_libraries:
   aws_s3: 
+    label: DeuxFleurs
     endpoint: https://garage.deuxfleurs.fr
     region: garage
     access_key_id: GK1e0c8b3ccc1d62df7e9c3a22
@@ -147,6 +148,7 @@ collections:
                 access_key_id: GK1e0c8b3ccc1d62df7e9c3a22
                 public_url: https://df.mailta.pe
                 bucket: df.mailta.pe
+                prefix: '{{fields.release}}/'
               all:
                 filename_template: track1
       - label: "Track 2"
@@ -171,8 +173,16 @@ collections:
             name: link
             widget: file
             accept: audio/mpeg,.mp3
+            choose_url: false
             media_libraries:
               default: false
+              aws_s3: 
+                endpoint: https://garage.deuxfleurs.fr
+                region: garage
+                access_key_id: GK1e0c8b3ccc1d62df7e9c3a22
+                public_url: https://df.mailta.pe
+                bucket: df.mailta.pe
+                prefix: '{{fields.release}}/'
               all:
                 filename_template: track2
       - label: "Track 3"
@@ -197,8 +207,16 @@ collections:
             name: link
             widget: file
             accept: audio/mpeg,.mp3
+            choose_url: false
             media_libraries:
               default: false
+              aws_s3: 
+                endpoint: https://garage.deuxfleurs.fr
+                region: garage
+                access_key_id: GK1e0c8b3ccc1d62df7e9c3a22
+                public_url: https://df.mailta.pe
+                bucket: df.mailta.pe
+                prefix: '{{fields.release}}/'
               all:
                 filename_template: track3
       - label: "Track 4"
@@ -223,8 +241,16 @@ collections:
             name: link
             widget: file
             accept: audio/mpeg,.mp3
+            choose_url: false
             media_libraries:
               default: false
+              aws_s3: 
+                endpoint: https://garage.deuxfleurs.fr
+                region: garage
+                access_key_id: GK1e0c8b3ccc1d62df7e9c3a22
+                public_url: https://df.mailta.pe
+                bucket: df.mailta.pe
+                prefix: '{{fields.release}}/'
               all:
                 filename_template: track4
       - label: "Track 5"
@@ -249,8 +275,16 @@ collections:
             name: link
             widget: file
             accept: audio/mpeg,.mp3
+            choose_url: false
             media_libraries:
               default: false
+              aws_s3: 
+                endpoint: https://garage.deuxfleurs.fr
+                region: garage
+                access_key_id: GK1e0c8b3ccc1d62df7e9c3a22
+                public_url: https://df.mailta.pe
+                bucket: df.mailta.pe
+                prefix: '{{fields.release}}/'
               all:
                 filename_template: track5
       - label: "Track 6"
@@ -275,8 +309,16 @@ collections:
             name: link
             widget: file
             accept: audio/mpeg,.mp3
+            choose_url: false
             media_libraries:
               default: false
+              aws_s3: 
+                endpoint: https://garage.deuxfleurs.fr
+                region: garage
+                access_key_id: GK1e0c8b3ccc1d62df7e9c3a22
+                public_url: https://df.mailta.pe
+                bucket: df.mailta.pe
+                prefix: '{{fields.release}}/'
               all:
                 filename_template: track6
       - label: "Track 7"
@@ -301,8 +343,16 @@ collections:
             name: link
             widget: file
             accept: audio/mpeg,.mp3
+            choose_url: false
             media_libraries:
               default: false
+              aws_s3: 
+                endpoint: https://garage.deuxfleurs.fr
+                region: garage
+                access_key_id: GK1e0c8b3ccc1d62df7e9c3a22
+                public_url: https://df.mailta.pe
+                bucket: df.mailta.pe
+                prefix: '{{fields.release}}/'
               all:
                 filename_template: track7
       - { label: 'Episode content', required: false, name: 'body', widget: 'markdown', default: "This morning... \n # Guest's selection \n ## Artist - Track \n Guest: **\"** lorem ipsum **\"** \n ## Artist - Track \n Guest: **\"** lorem ipsum **\"** \n ## Artist - Track \n Guest: **\"** lorem ipsum **\"** \n # Curator's selection \n ## Artist - Track \n Curator: **\"** lorem ipsum **\"** \n ## Artist - Track \n Curator: **\"** lorem ipsum **\"** \n ## Artist - Track \n Curator: **\"** lorem ipsum **\"** \n ## Artist - Track \n Curator: **\"** lorem ipsum **\"** \n\n Thank you... "}
@@ -316,19 +366,37 @@ collections:
         required: false
         name: "image"
         widget: "image"
+        accept: image/jpeg,.jpg,.jpeg,image/png,.png,image/webp,.webp
+        choose_url: false
         media_libraries:
+            default: false
+            aws_s3: 
+              endpoint: https://garage.deuxfleurs.fr
+              region: garage
+              access_key_id: GK1e0c8b3ccc1d62df7e9c3a22
+              public_url: https://df.mailta.pe
+              bucket: df.mailta.pe
+              prefix: img/
             all:
               max_file_size: 1024000
               filename_template: fbpic{{release}}
-            aws_s3: false
       - label: "MusiColor"
         preview: false
         required: false
         name: "musiColor"
         widget: "image"
+        accept: image/jpeg,.jpg,.jpeg,image/png,.png,image/webp,.webp
+        choose_url: false
         media_libraries:
+            default: false
+            aws_s3: 
+              endpoint: https://garage.deuxfleurs.fr
+              region: garage
+              access_key_id: GK1e0c8b3ccc1d62df7e9c3a22
+              public_url: https://df.mailta.pe
+              bucket: df.mailta.pe
+              prefix: img/
             all:
               max_file_size: 1024000
               filename_template: musicolor{{release}}
-            aws_s3: false
       - { label: "Refine image vertical alignment (optional)", required: false, preview: false, name: "alignY", widget: "string", hint: "This let you refine vertical alignement of guestPic. Can be center/top/bottom or any number between 0.0 and 1.0."}
