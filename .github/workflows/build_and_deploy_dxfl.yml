@@ -37,9 +37,6 @@ jobs:
       - name: Build Astro project
         run: bun run build
 
-      - name: Strip static images from artifact
-        run: rm -rf dist/img
-
       - name: Upload build artifact
         uses: actions/upload-artifact@v7
         with:
@@ -51,21 +48,11 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     steps:
-      # checkout first: a later checkout empties the workspace to git init, wiping build/
-      - name: Checkout static images
-        uses: actions/checkout@v7
-        with:
-          fetch-depth: 1
-          sparse-checkout: public/img
-
       - name: Download build artifact
         uses: actions/download-artifact@v8
         with:
           name: website-build
           path: build/
-
-      - name: Restore images into build dir
-        run: cp -a public/img build/
 
       - name: Setup bun
         uses: oven-sh/setup-bun@v2
