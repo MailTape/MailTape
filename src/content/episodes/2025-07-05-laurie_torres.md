@@ -3,7 +3,7 @@ published: true
 pubDate: 2025-07-06
 guest_name: Laurie Torres
 guest_color: bliss
-guestPic: /img/guestpic587.jpg
+guestPic: https://df.mailta.pe/img/guestpic587.jpg
 author: ImaCrea
 illustrator: Julie Wojtczak
 writer: ImaCrea
@@ -14,8 +14,8 @@ description: This morning, I'm excited to share a blissful and uplifting episode
   for me as I embraced the last spring season, and I hope today's MailTape will
   lead you to great discoveries that will enrich the soundtrack of your summer.
   So, let’s be excellent to each other and enjoy the journey!
-image: /img/fbpic587.png
-musiColor: /img/musicolor587.png
+image: https://df.mailta.pe/img/fbpic587.png
+musiColor: https://df.mailta.pe/img/musicolor587.png
 track1:
   title: Time Wharp - East River Dusk
   color: bliss

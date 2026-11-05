@@ -5,9 +5,9 @@ illustrator: Camille Célestin
 writer: Anaïs G
 guest_name: Fun Fun Funeral
 guest_color: dreamy
-guestPic: /img/guestpic383.jpg
-musiColor: /img/musicolor383.png
-image: http://mailta.pe/img/fbpic383.png
+guestPic: https://df.mailta.pe/img/guestpic383.jpg
+musiColor: https://df.mailta.pe/img/musicolor383.png
+image: https://df.mailta.pehttp://mailta.pe/img/fbpic383.png
 description: This morning, the climate is one of grumbling and discontent.
   Voices are being raised in the streets to try to make things happen, to have a
   decent life and above all to respect as such and according to our professions.

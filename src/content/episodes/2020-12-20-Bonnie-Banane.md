@@ -3,7 +3,7 @@ published: true
 pubDate: 2020-12-20
 guest_name: Bonnie Banane
 guest_color: trippy
-guestPic: /img/guestpic430.jpg
+guestPic: https://df.mailta.pe/img/guestpic430.jpg
 author: Anaïs G
 illustrator: Thibault Daumain
 writer: Anaïs G
@@ -12,8 +12,8 @@ description: This morning, we think about Christmas, shopping in crowded stores,
   those endless meals around a turkey and many logs, indigestion and the famous
   button that you pop at the end of the evening...Fortunately to relax during
   its preparations, Bonnie Banane has made a playlist worthy of her parties!
-image: http://mailta.pe/img/fbpic430.png
-musiColor: /img/musicolor430.png
+image: https://df.mailta.pehttp://mailta.pe/img/fbpic430.png
+musiColor: https://df.mailta.pe/img/musicolor430.png
 track1:
   title: MonoNeon – I'm a raggedy bitch but my heart is amazing
   color: bliss

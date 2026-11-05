@@ -3,12 +3,12 @@ bigTitle_font_ratio: "6"
 published: true
 author: ImaCrea
 guest_name: Federico Durand
-guestPic: /img/guestpic285b.jpg
+guestPic: https://df.mailta.pe/img/guestpic285b.jpg
 illustrator: Camille Célestin
 writer: PS KY
 guest_color: dreamy
-image: /img/fbpic285.png
-musiColor: /img/musicolor285.png
+image: https://df.mailta.pe/img/fbpic285.png
+musiColor: https://df.mailta.pe/img/musicolor285.png
 description: This morning, our guest Federico Durand, from the New York-based
   music label 12k is inviting you to just “listen”, turn off the thinking box,
   let go of all interpretations. Do not attempt to analyze each sound. Just

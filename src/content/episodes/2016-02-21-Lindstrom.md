@@ -5,9 +5,9 @@ writer: Maxime
 guest_name: Lindstrøm
 guest_color: trippy
 bigTitle_font_ratio: "6"
-guestPic: /img/guestpic205.jpg
-image: /img/fbpic205.jpg
-musiColor: /img/musicolor205.png
+guestPic: https://df.mailta.pe/img/guestpic205.jpg
+image: https://df.mailta.pe/img/fbpic205.jpg
+musiColor: https://df.mailta.pe/img/musicolor205.png
 description: ""
 published: true
 author: Maxime

@@ -5,9 +5,9 @@ author: Anaïs G
 illustrator: Patricia Barros De Miranda
 writer: Anaïs G
 guest_name: Grand Public
-guestPic: /img/guestpic527.jpg
-image: /img/fbpic527.png
-musiColor: /img/musicolor527.png
+guestPic: https://df.mailta.pe/img/guestpic527.jpg
+image: https://df.mailta.pe/img/fbpic527.png
+musiColor: https://df.mailta.pe/img/musicolor527.png
 description: 'This morning, We take advantage of this month of May to breathe,
   relax and take advantage of the many public holidays to get away with it. One
   watchword: do nothing, just enjoy the present time! It is with the musical

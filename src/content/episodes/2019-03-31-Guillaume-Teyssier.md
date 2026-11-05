@@ -6,9 +6,9 @@ author: ImaCrea
 illustrator: Camille Célestin
 writer: ImaCrea
 guest_color: bliss
-guestPic: /img/guestpic351.jpg
-image: /img/fbpic351.png
-musiColor: /img/musicolor351.png
+guestPic: https://df.mailta.pe/img/guestpic351.jpg
+image: https://df.mailta.pe/img/fbpic351.png
+musiColor: https://df.mailta.pe/img/musicolor351.png
 description: This morning we welcome Guillaume Teyssier, who accepted our
   invitation to come and play live at our MailTape Live 3rd edition at the
   Popup… on next Saturday! (tickets almost sold out!). Even though my memory can

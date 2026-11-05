@@ -6,9 +6,9 @@ illustrator: Camille Célestin
 writer: Daisy
 guest_name: L'impératrice
 guest_color: vibrant
-guestPic: /img/guestpic276.jpg
-image: /img/fbpic276.jpg
-musiColor: /img/musicolor276.png
+guestPic: https://df.mailta.pe/img/guestpic276.jpg
+image: https://df.mailta.pe/img/fbpic276.jpg
+musiColor: https://df.mailta.pe/img/musicolor276.png
 description: This morning, the glitter balls are spinning a little slower and
   our limbs swaying more gently in the dark. L'Impératrice is here to help us
   close out the summer, in the soft shadows of a long expected sunrise.

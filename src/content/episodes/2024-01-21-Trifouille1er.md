@@ -6,9 +6,9 @@ illustrator: Meriam Kharbat
 writer: Anto
 guest_name: Trifouille1er
 guest_color: vibrant
-guestPic: /img/guestpic544.png
-image: /img/fbpic544.jpg
-musiColor: /img/musicolor544.png
+guestPic: https://df.mailta.pe/img/guestpic544.png
+image: https://df.mailta.pe/img/fbpic544.jpg
+musiColor: https://df.mailta.pe/img/musicolor544.png
 description: Patchwork! This morning we offer you a fun activity with this new
   Sunday playlist. All you have to do is 1- settle into your best sofa, 2- plug
   in your headset (since this is the best way to listen a Mail Tape selection)

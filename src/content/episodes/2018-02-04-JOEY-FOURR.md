@@ -6,9 +6,9 @@ illustrator: Pierre-Julien Fieux
 writer: PS KY
 guest_name: JOEY FOURR
 guest_color: bliss
-guestPic: /img/guestpic298.jpg
-musiColor: /img/musicolor298.png
-image: /img/fbpic298.png
+guestPic: https://df.mailta.pe/img/guestpic298.jpg
+musiColor: https://df.mailta.pe/img/musicolor298.png
+image: https://df.mailta.pe/img/fbpic298.png
 description: This morning, we bring you an electrifying and magnetic MailTape.
   Our guest Joey Fourr will thrust you out of your comfort zone with their
   poignant selection of moving vibrations with touching lyrics.

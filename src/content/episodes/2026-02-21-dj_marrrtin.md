@@ -3,15 +3,15 @@ published: true
 pubDate: 2026-02-22
 guest_name: Dj Marrrtin
 guest_color: bliss
-guestPic: /img/dj_marrrtin.jpg
+guestPic: https://df.mailta.pe/img/dj_marrrtin.jpg
 author: Anto
 illustrator: Antoine Gaudin
 writer: Anto
 description: This morning we have the privilege of welcoming an artist whose
   work you've probably heard if you've attended a breakdance battle in the last
   fifteen years.
-image: /img/fbpic605.png
-musiColor: /img/musicolor605.png
+image: https://df.mailta.pe/img/fbpic605.png
+musiColor: https://df.mailta.pe/img/musicolor605.png
 track1:
   title: Eddie Drennon & The B.B.S. Unlimited - Do what You gotta Do
   color: bliss

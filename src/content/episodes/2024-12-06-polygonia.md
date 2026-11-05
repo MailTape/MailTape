@@ -3,12 +3,12 @@ published: true
 pubDate: 2024-12-08
 guest_name: Polygonia
 guest_color: dreamy
-guestPic: /img/guestpic569.jpg
+guestPic: https://df.mailta.pe/img/guestpic569.jpg
 author: Sarah
 illustrator: Noémie Dijon
 writer: Sarah
-image: ""
-musiColor: /img/musicolor569.png
+image: https://df.mailta.pe""
+musiColor: https://df.mailta.pe/img/musicolor569.png
 track1:
   title: SALOMEA - Truth Is Queen, Kindness Is King
   color: dreamy

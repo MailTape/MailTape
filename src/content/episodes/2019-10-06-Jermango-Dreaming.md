@@ -6,9 +6,9 @@ illustrator: Anthony Dujardin
 writer: Inès
 guest_name: Jermango Dreaming
 guest_color: bliss
-guestPic: /img/guestpic374.jpg
-musiColor: /img/musicolor374.png
-image: /img/fbpic374.png
+guestPic: https://df.mailta.pe/img/guestpic374.jpg
+musiColor: https://df.mailta.pe/img/musicolor374.png
+image: https://df.mailta.pe/img/fbpic374.png
 description: This morning, please welcome Jermango Dreaming and his popping
   selection as our guest for this episode.  Jermango Dreaming is the project of
   Jermaine Sakr, an Australian artist making dreamy pop music, groovy and laid

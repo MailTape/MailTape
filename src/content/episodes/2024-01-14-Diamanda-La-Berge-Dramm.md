@@ -6,9 +6,9 @@ illustrator: Camille Célestin
 writer: ImaCrea
 guest_name: Diamanda La Berge Dramm
 guest_color: bliss
-guestPic: /img/guestpic543.jpg
-image: /img/fbpic543.jpg
-musiColor: /img/musicolor543.png
+guestPic: https://df.mailta.pe/img/guestpic543.jpg
+image: https://df.mailta.pe/img/fbpic543.jpg
+musiColor: https://df.mailta.pe/img/musicolor543.png
 description: This morning, we're honored to welcome Diamanda La Berge Dramm as
   our guest. Known as one of the leading contemporary classical music performers
   of her generation, she unveils some of her precious musical gems in this

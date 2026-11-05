@@ -6,9 +6,9 @@ illustrator: Julie Wojtczak
 writer: Sanjay Mistry
 guest_name: Fran & Flora
 guest_color: dreamy
-guestPic: /img/guestpic382.jpg
-image: /img/fbpic382.jpg
-musiColor: /img/musicolor382.png
+guestPic: https://df.mailta.pe/img/guestpic382.jpg
+image: https://df.mailta.pe/img/fbpic382.jpg
+musiColor: https://df.mailta.pe/img/musicolor382.png
 description: This morning we are delighted to welcome Fran and Flora, the
   London-based string duo of Francesca Ter-Berg and Flora Curzon, to select some
   Sunday morning tunes with us on MailTape.

@@ -3,7 +3,7 @@ published: true
 pubDate: 2024-05-05
 guest_name: Sami Galbi
 guest_color: trippy
-guestPic: /img/guestpic557.png
+guestPic: https://df.mailta.pe/img/guestpic557.png
 author: Jules
 illustrator: Noémie Dijon
 writer: Jules
@@ -22,8 +22,8 @@ description: >+
   he's an artist to keep an eye on! 
 
 
-image: /img/fbpic557.jpeg
-musiColor: /img/musicolor557.png
+image: https://df.mailta.pe/img/fbpic557.jpeg
+musiColor: https://df.mailta.pe/img/musicolor557.png
 track1:
   title: Timber Timbre - Black Water
   color: dreamy

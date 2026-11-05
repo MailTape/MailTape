@@ -5,9 +5,9 @@ author: Anaïs G
 writer: Anaïs G
 guest_name: Ratamard Clan
 guest_color: trippy
-guestPic: /img/guestpic458.jpg
-musiColor: /img/musicolor458.png
-image: /img/fbpic458.png
+guestPic: https://df.mailta.pe/img/guestpic458.jpg
+musiColor: https://df.mailta.pe/img/musicolor458.png
+image: https://df.mailta.pe/img/fbpic458.png
 illustrator: Noémie Dijon
 description: This morning,we are tired, exhausted and washed away by this
   complicated year but finally ready for his much-deserved great holiday. It is

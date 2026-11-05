@@ -6,9 +6,9 @@ illustrator: Anthony Dujardin
 writer: Sanjay Mistry
 guest_name: Camilla George
 guest_color: dreamy
-guestPic: /img/guestpic362.jpg
-musiColor: /img/musicolor362.png
-image: /img/fbpic362.jpg
+guestPic: https://df.mailta.pe/img/guestpic362.jpg
+musiColor: https://df.mailta.pe/img/musicolor362.png
+image: https://df.mailta.pe/img/fbpic362.jpg
 description: This morning we welcome London-based saxophonist and composer,
   Camilla George, to select three Sunday morning tunes that include some of her
   inspirations and collaborations.

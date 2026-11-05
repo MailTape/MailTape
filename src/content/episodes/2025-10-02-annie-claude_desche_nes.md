@@ -3,7 +3,7 @@ published: true
 pubDate: 2025-10-05
 guest_name: Annie-Claude Deschênes
 guest_color: rough
-guestPic: /img/1820-1024.jpg
+guestPic: https://df.mailta.pe/img/1820-1024.jpg
 author: Anto
 illustrator: Antoine Gaudin
 writer: Anto
@@ -12,8 +12,8 @@ description: "There's a bit of everything in today's selection: a good dose of
   and even a little tropical vibe. Yes yes, it seems completely disjointed said
   like that and yet, this autumnal MailTape is consistent with the season: full
   of colors that are a feast for the eyes (or the ears)."
-image: /img/fbpic592.png
-musiColor: /img/musicolor592.png
+image: https://df.mailta.pe/img/fbpic592.png
+musiColor: https://df.mailta.pe/img/musicolor592.png
 track1:
   title: Charlotte Adigéry & Bolis Pupul - HAHA
   color: trippy

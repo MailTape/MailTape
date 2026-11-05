@@ -4,9 +4,9 @@ published: true
 author: Sarah
 guest_name: Salarymen
 guest_color: vibrant
-guestPic: /img/guestpic419.jpg
-image: /img/fbpic419.png
-musiColor: /img/musicolor419.png
+guestPic: https://df.mailta.pe/img/guestpic419.jpg
+image: https://df.mailta.pe/img/fbpic419.png
+musiColor: https://df.mailta.pe/img/musicolor419.png
 illustrator: Pierre-Julien Fieux
 writer: Sarah
 description: We are delighted  to welcome Salarymen to host the first MailTape

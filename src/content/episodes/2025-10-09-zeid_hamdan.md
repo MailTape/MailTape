@@ -3,7 +3,7 @@ published: true
 pubDate: 2025-10-12
 guest_name: Zeid Hamdan
 guest_color: vibrant
-guestPic: /img/guestpic593.jpg
+guestPic: https://df.mailta.pe/img/guestpic593.jpg
 author: Aloyse
 illustrator: Antoine Gaudin
 writer: Aloyse
@@ -13,8 +13,8 @@ description: "This morning, we are delighted to welcome Zeid Hamdan for a
   feel light and dense, tender, melancholic, but always full of light, pushing
   through the cracks. You’ll also be able to hear it live in Paris, at La Flèche
   d’Or on October 23."
-image: /img/fbpic593.png
-musiColor: /img/musicolor593.png
+image: https://df.mailta.pe/img/fbpic593.png
+musiColor: https://df.mailta.pe/img/musicolor593.png
 alignY: "0.5"
 track1:
   title: Koast - Belek

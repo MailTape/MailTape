@@ -4,7 +4,7 @@ pubDate: 2026-10-11
 release: 616
 guest_name: 'MP3 Nostalgia #2'
 guest_color: dreamy
-guestPic: /img/mp3_2.jpg
+guestPic: https://df.mailta.pe/img/mp3_2.jpg
 author: Ling
 illustrator: Noémie Dijon
 writer: Ling
@@ -37,8 +37,8 @@ track7:
   color: dreamy
   link: https://df.mailta.pe/616/track7.mp3
 description: At Mailtape, we sometimes assume we're a bit old-fashioned, from the generation of Walkmans, those from the 90s, into which we'd put old cassettes, sometimes recorded ourselves. Then came portable CD...
-image: /img/fbpic616.jpg
-musiColor: /img/screenshot_2026-10-11_at_00.02.58.png
+image: https://df.mailta.pe/img/fbpic616.jpg
+musiColor: https://df.mailta.pe/img/screenshot_2026-10-11_at_00.02.58.png
 alignY: ''
 ---
 

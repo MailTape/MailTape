@@ -5,9 +5,9 @@ guest_color: bliss
 bigTitle_font_ratio: "7.7"
 bigTitle_line_ratio: "1"
 guest_name: Sheep, Dog & Wolf
-guestPic: /img/guestpic154.jpg
-image: /img/fbpic154.jpg
-musiColor: /img/musicolor154.png
+guestPic: https://df.mailta.pe/img/guestpic154.jpg
+image: https://df.mailta.pe/img/fbpic154.jpg
+musiColor: https://df.mailta.pe/img/musicolor154.png
 description: Our pick of the week is Daniel McBride, an artist from Wellington
   who goes by the name Sheep, Dog & Wolf and with whom we unveil an episode that
   will tug at your heartstrings.

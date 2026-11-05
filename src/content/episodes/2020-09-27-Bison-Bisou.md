@@ -1,14 +1,14 @@
 ---
 bigTitle_font_ratio: "6"
-guestPic: /img/guestpic418.jpg
+guestPic: https://df.mailta.pe/img/guestpic418.jpg
 guest_color: rough
 guest_name: Bison Bisou
 writer: Anaïs G
 illustrator: Anthony Dujardin
 author: Anaïs G
 published: true
-image: /img/fbpic418.png
-musiColor: /img/musicolor418.png
+image: https://df.mailta.pe/img/fbpic418.png
+musiColor: https://df.mailta.pe/img/musicolor418.png
 description: This morning, we are in transition from remembering the warmth of
   our summer to the coolness of the rainy days. It's all about fighting the
   outside elements with big guitar riffs, big sounds that tap and accompany the

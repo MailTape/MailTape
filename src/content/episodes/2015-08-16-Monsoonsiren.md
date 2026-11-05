@@ -4,9 +4,9 @@ author: Olivier
 guest_color: dreamy
 bigTitle_font_ratio: "6"
 guest_name: Monsoonsiren
-guestPic: /img/guestpic199.jpg
-image: /img/fbpic199.png
-musiColor: /img/musicolor199.png
+guestPic: https://df.mailta.pe/img/guestpic199.jpg
+image: https://df.mailta.pe/img/fbpic199.png
+musiColor: https://df.mailta.pe/img/musicolor199.png
 description: This Sunday, we bring you a breath of fresh air with a young and
   rejuvenating artist from India. Nathan Menon is a vibrant and budding artist
   who goes by the name of Monsoonsiren. His minimalist vocals are both spacey

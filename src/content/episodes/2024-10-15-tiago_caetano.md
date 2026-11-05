@@ -3,7 +3,7 @@ published: true
 pubDate: 2024-10-20
 guest_name: Tiago Caetano
 guest_color: bliss
-guestPic: /img/guestpic562.jpg
+guestPic: https://df.mailta.pe/img/guestpic562.jpg
 author: ImaCrea
 illustrator: Camille Lemeunier
 writer: ImaCrea
@@ -11,8 +11,8 @@ description: This morning, we’ve crafted a soothing episode featuring our gues
   Tiago Caetano. It’s the ideal soundtrack for cozying up under the covers or
   savoring a delightful brunch with friends. With Brazilian influences, pop
   elements, and a sense of lightness, it’s sure to uplift your spirits!
-image: /img/fbpic562.jpg
-musiColor: /img/musicolor562.png
+image: https://df.mailta.pe/img/fbpic562.jpg
+musiColor: https://df.mailta.pe/img/musicolor562.png
 track1:
   title: Sessa - Gostar do Mundo
   color: dreamy

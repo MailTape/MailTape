@@ -5,10 +5,10 @@ author: Anaïs G
 illustrator: Julie Wojtczak
 writer: Anaïs G
 guest_name: Tachycardie
-guestPic: /img/guestpic508.jpg
+guestPic: https://df.mailta.pe/img/guestpic508.jpg
 guest_color: trippy
-image: /img/fbpic508.png
-musiColor: /img/musicolor508.png
+image: https://df.mailta.pe/img/fbpic508.png
+musiColor: https://df.mailta.pe/img/musicolor508.png
 description: This morning, we explore, we dematerialize, we deconstruct the
   music. We beat it to find inspiration, we saturate it to its fullest, we look
   for the unknown, the astonishing, the shocking, the disconcerting in order to

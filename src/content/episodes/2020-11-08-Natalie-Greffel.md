@@ -5,9 +5,9 @@ author: ImaCrea
 writer: ImaCrea
 guest_name: Natalie Greffel
 guest_color: vibrant
-guestPic: /img/guestpic424.jpg
-musiColor: /img/musicolor424.png
-image: /img/fbpic424.png
+guestPic: https://df.mailta.pe/img/guestpic424.jpg
+musiColor: https://df.mailta.pe/img/musicolor424.png
+image: https://df.mailta.pe/img/fbpic424.png
 illustrator: Meriam Kharbat
 description: This morning, we're serving you a comfy episode. A selection
   curated with great care for a chill morning at home spent alone or with your

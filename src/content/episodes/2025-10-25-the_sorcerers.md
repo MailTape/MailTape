@@ -3,7 +3,7 @@ published: true
 pubDate: 2025-10-26
 guest_name: The Sorcerers
 guest_color: trippy
-guestPic: /img/the_sorcerers.jpg
+guestPic: https://df.mailta.pe/img/the_sorcerers.jpg
 author: Anto
 writer: Anto
 illustrator: Pierre-Julien Fieux
@@ -13,8 +13,8 @@ description: This morning, MailTape offers you the soundtrack of a thrilling
   moments... An adventure in 7 chapters, a fabulous journey between gems of a
   futuristic past and resolutely modern sounds, which draw from varied
   influences!
-image: /img/instapic595.png
-musiColor: /img/musicolor595.png
+image: https://df.mailta.pe/img/instapic595.png
+musiColor: https://df.mailta.pe/img/musicolor595.png
 track1:
   title: Saif Abu Bakr & The Scorpions - Nile Waves
   color: vibrant

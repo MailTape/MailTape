@@ -6,9 +6,9 @@ illustrator: Thibault Daumain
 guest_name: Mathilde Fernandez
 guest_color: bliss
 writer: ImaCrea
-guestPic: /img/guestpic451.jpg
-musiColor: /img/musicolor451.png
-image: /img/fbpic451.png
+guestPic: https://df.mailta.pe/img/guestpic451.jpg
+musiColor: https://df.mailta.pe/img/musicolor451.png
+image: https://df.mailta.pe/img/fbpic451.png
 description: "This morning, we're glad to have Mathilde Fernandez with us, this
   time to share her inspiration gravitating around her solo project. Last time,
   our episode 388 featured her duo with Paul Seul : Ascendant Vierge"

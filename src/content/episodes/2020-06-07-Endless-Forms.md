@@ -6,9 +6,9 @@ illustrator: Anthony Dujardin
 writer: Sarah
 guest_name: Endless Forms
 guest_color: dreamy
-guestPic: /img/guestpic409.jpg
-image: /img/fbpic409.png
-musiColor: /img/musicolor409.png
+guestPic: https://df.mailta.pe/img/guestpic409.jpg
+image: https://df.mailta.pe/img/fbpic409.png
+musiColor: https://df.mailta.pe/img/musicolor409.png
 description: We are so excited to welcome [Endless Forms] to select a Sunday
   morning playlist with us. Endless Forms constructs ebbs and flows of intensity
   through his instrumentals, all as a backdrop to his intricate and powerful

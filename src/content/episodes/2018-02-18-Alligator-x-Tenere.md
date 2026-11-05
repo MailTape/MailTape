@@ -6,9 +6,9 @@ illustrator: Anais Caura
 writer: ImaCrea
 guest_name: Alligator x Ténéré
 guest_color: vibrant
-guestPic: /img/guestpic300.jpg
-image: /img/fbpic300.png
-musiColor: /img/musicolor300.png
+guestPic: https://df.mailta.pe/img/guestpic300.jpg
+image: https://df.mailta.pe/img/fbpic300.png
+musiColor: https://df.mailta.pe/img/musicolor300.png
 description: This morning is special, you are going to listen to our 300th
   episode. Today's release represent a high point in the MailTape adventure
   which marks 6 years dedicated to sharing with you the very best of our music

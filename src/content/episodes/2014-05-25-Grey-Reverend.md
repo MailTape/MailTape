@@ -5,9 +5,9 @@ guest_color: dreamy
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
 guest_name: Grey Reverend
-guestPic: /img/guestpic142.jpg
-image: /img/fbpic142.jpg
-musiColor: /img/musicolor142.png
+guestPic: https://df.mailta.pe/img/guestpic142.jpg
+image: https://df.mailta.pe/img/fbpic142.jpg
+musiColor: https://df.mailta.pe/img/musicolor142.png
 description: This Morning, a warm voice will wake you up. We are very pleased to
   introduce you to Grey Reverend. His selection perfectly reflects the emotions
   he brings in his own music. We hope you'll like it.

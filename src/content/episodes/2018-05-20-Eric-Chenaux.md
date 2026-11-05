@@ -6,12 +6,12 @@ illustrator: Pierre-Julien Fieux
 writer: Sanjay Mistry
 guest_name: Eric Chenaux
 guest_color: dreamy
-guestPic: /img/guestpic313.jpg
+guestPic: https://df.mailta.pe/img/guestpic313.jpg
 description: Close your eyes and float away in a blissful auditory dream
   courtesy of Paris-based guitarist, Eric Chenaux. He provides us with a sweet
   Sunday morning glimpse into Canada’s contemporary music milieu.
-image: /img/fbpic313.jpg
-musiColor: /img/musicolor313.png
+image: https://df.mailta.pe/img/fbpic313.jpg
+musiColor: https://df.mailta.pe/img/musicolor313.png
 pubDate: 2018-05-20
 track1:
   title: Martin Arnold – Stain Ballad

@@ -6,9 +6,9 @@ author: ImaCrea
 illustrator: Julie Wojtczak
 writer: ImaCrea
 guest_color: rough
-guestPic: /img/guestpic388.jpg
-image: /img/fbpic388.png
-musiColor: /img/musicolor388.png
+guestPic: https://df.mailta.pe/img/guestpic388.jpg
+image: https://df.mailta.pe/img/fbpic388.png
+musiColor: https://df.mailta.pe/img/musicolor388.png
 description: This morning, we are extremely thrilled to have ascendant vierge as
   our dear guests. This duo gathers two rebel spirits, Mathilde Fernandez and
   Paul Seul. Trying to describe their music with words would only reduce it.

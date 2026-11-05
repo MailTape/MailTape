@@ -6,9 +6,9 @@ illustrator: Camille Célestin
 writer: Sanjay Mistry
 guest_name: Christine Ott
 guest_color: dreamy
-guestPic: /img/guestpic305.jpg
-musiColor: /img/musicolor305.png
-image: /img/fbpic305.jpg
+guestPic: https://df.mailta.pe/img/guestpic305.jpg
+musiColor: https://df.mailta.pe/img/musicolor305.png
+image: https://df.mailta.pe/img/fbpic305.jpg
 description: Based in Strasbourg and only one of a tiny handful of performers on
   the ondes Martenot, this Sunday morning we welcome Christine Ott to
   collaborate with us on MailTape.

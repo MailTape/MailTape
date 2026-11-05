@@ -6,9 +6,9 @@ illustrator: Camille Célestin
 writer: Jules
 guest_name: Fantastic Twins
 guest_color: trippy
-guestPic: /img/guestpic407.jpg
-musiColor: /img/musicolor407.png
-image: /img/fbpic407.png
+guestPic: https://df.mailta.pe/img/guestpic407.jpg
+musiColor: https://df.mailta.pe/img/musicolor407.png
+image: https://df.mailta.pe/img/fbpic407.png
 description: This morning, we're feeling fantastic. The days are getting longer,
   summer is almost here and life is gradually resuming. We discover resources,
   qualities and desires hitherto unsuspected that we now long to explore. It is

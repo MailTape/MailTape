@@ -1,14 +1,14 @@
 ---
 bigTitle_font_ratio: "6"
 published: true
-image: /img/fbpic473.png
-musiColor: /img/musicolor473.png
+image: https://df.mailta.pe/img/fbpic473.png
+musiColor: https://df.mailta.pe/img/musicolor473.png
 writer: Anaïs G
 illustrator: Camille Célestin
 author: Anaïs G
 guest_name: Souleance
 guest_color: bliss
-guestPic: /img/guestpic473.jpg
+guestPic: https://df.mailta.pe/img/guestpic473.jpg
 description: This morning, the cold freezes our minds and the rain makes us feel
   bad. Fortunately, to chase away all its negative waves, we have the selection
   of the group Souleance. Smoothie, sunshine and good vibes in abundance to

@@ -6,9 +6,9 @@ illustrator: Thibault Daumain
 writer: Jules
 guest_name: Sabrina Bellaouel
 guest_color: vibrant
-musiColor: /img/musicolo425.png
-guestPic: /img/guestpic425.jpg
-image: /img/fbpic425.png
+musiColor: https://df.mailta.pe/img/musicolo425.png
+guestPic: https://df.mailta.pe/img/guestpic425.jpg
+image: https://df.mailta.pe/img/fbpic425.png
 description: This morning, we are delighted to welcome Franco-Algerian singer
   and producer, Sabrina Bellaouel, to share a sensitive selection of her
   favorite Sunday morning tunes with us. 2 years after her first album

@@ -3,7 +3,7 @@ published: true
 pubDate: 2025-02-09
 guest_name: KOMPROMAT
 guest_color: rough
-guestPic: /img/guestpic575-min.jpg
+guestPic: https://df.mailta.pe/img/guestpic575-min.jpg
 author: ImaCrea
 illustrator: Camille Lemeunier
 writer: ImaCrea
@@ -13,8 +13,8 @@ description: This morning, we are deeply honored and excited to share with you
   inspired us to complement it with tracks infused with sensual, vibrant, and
   powerful synth waves to energize you. Allow yourself to be intoxicated by the
   energy of desire and movement; trust your wild side and dance with the chaos.
-image: /img/fbpic575.jpg
-musiColor: /img/musicolor575.png
+image: https://df.mailta.pe/img/fbpic575.jpg
+musiColor: https://df.mailta.pe/img/musicolor575.png
 alignY: "0.22"
 track1:
   title: Vimala Pons - Piper

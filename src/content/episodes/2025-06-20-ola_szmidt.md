@@ -3,14 +3,14 @@ published: true
 pubDate: 2025-06-22
 guest_name: Ola Szmidt
 guest_color: dreamy
-guestPic: /img/ola_szmidt.png
+guestPic: https://df.mailta.pe/img/ola_szmidt.png
 author: ImaCrea
 illustrator: Noémie Dijon
 writer: ImaCrea
 description: This morning, as we change seasons and the metamorphosis of life is
   in full swing, we are deeply enthusiastic to have Ola Szmidt as our guest.
-image: /img/fbpic585.jpg
-musiColor: /img/1000003871.png
+image: https://df.mailta.pe/img/fbpic585.jpg
+musiColor: https://df.mailta.pe/img/1000003871.png
 track1:
   title: The Staple Singers - Uncloudy Day
   color: bliss

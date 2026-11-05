@@ -1,13 +1,13 @@
 ---
 bigTitle_font_ratio: "6"
 published: true
-image: /img/fbpic304.jpg
-musiColor: /img/musicolor304.png
+image: https://df.mailta.pe/img/fbpic304.jpg
+musiColor: https://df.mailta.pe/img/musicolor304.png
 author: Louise
 illustrator: William Girault
 guest_name: Ruby Francis
 guest_color: dreamy
-guestPic: /img/guestpic304ter.jpg
+guestPic: https://df.mailta.pe/img/guestpic304ter.jpg
 description: This morning, we welcome London-based singer/songwriter, Ruby
   Francis, to collaborate with us on MailTape. Merging R&B, 80s & 90s
   soundscapes and incorporating traces of soul music, we hope you’re just as

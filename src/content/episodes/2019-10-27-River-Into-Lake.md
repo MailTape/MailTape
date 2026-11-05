@@ -3,9 +3,9 @@ pubDate: 2019-10-27
 bigTitle_font_ratio: "6"
 published: true
 guest_color: dreamy
-image: /img/fbpic377.png
-musiColor: /img/musicolor377.png
-guestPic: /img/guestpic377.jpg
+image: https://df.mailta.pe/img/fbpic377.png
+musiColor: https://df.mailta.pe/img/musicolor377.png
+guestPic: https://df.mailta.pe/img/guestpic377.jpg
 guest_name: River Into Lake
 writer: Anaïs G
 illustrator: Camille Célestin

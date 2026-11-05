@@ -9,9 +9,9 @@ description: Randomly browsing the web often ends up with nice discoveries. If
   not, let us introduce you to this talented 21 years old swedish dude who makes
   sweet, clean and suttle deep music.
 guest_name: Port Rouge
-guestPic: /img/guestpic132.jpg
-image: /img/fbpic132.jpg
-musiColor: /img/musicolor132.png
+guestPic: https://df.mailta.pe/img/guestpic132.jpg
+image: https://df.mailta.pe/img/fbpic132.jpg
+musiColor: https://df.mailta.pe/img/musicolor132.png
 pubDate: 2014-03-16
 track1:
   title: Jurny - Only When I'm Dreaming (NMH025)

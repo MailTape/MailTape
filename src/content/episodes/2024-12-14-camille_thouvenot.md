@@ -3,7 +3,7 @@ published: true
 pubDate: 2024-12-15
 guest_name: Camille Thouvenot
 guest_color: vibrant
-guestPic: /img/ct.jpg
+guestPic: https://df.mailta.pe/img/ct.jpg
 author: Anto
 illustrator: Jan Henrik
 writer: Anto
@@ -15,8 +15,8 @@ description: This morning, Mail Tape invites you to revisit some classics and to
   have taken care to lay down fervently on their instruments. And fervor is
   particularly discussed in this episode because it's the fruit of our passion,
   it's what we take pleasure in sharing with you, every Sunday!
-image: /img/fbpic570.jpg
-musiColor: /img/musicolor570.png
+image: https://df.mailta.pe/img/fbpic570.jpg
+musiColor: https://df.mailta.pe/img/musicolor570.png
 track1:
   title: Bob Marley - Concrete Jungle
   color: vibrant

@@ -6,13 +6,13 @@ author: Sarah
 writer: Sarah
 illustrator: Nella Papelita
 guest_color: vibrant
-guestPic: /img/guestpic531.jpg
-image: /img/fbpic531.png
+guestPic: https://df.mailta.pe/img/guestpic531.jpg
+image: https://df.mailta.pe/img/fbpic531.png
 description: This Sunday we welcome Expensive Music Band for Episode 531 :) The
   project of multi-instrumentalist Troon Lienad, the band is based in Illawarra.
   They join us after the release of their latest album, Things to Say at a
   Barbecue.
-musiColor: /img/musicolor531.png
+musiColor: https://df.mailta.pe/img/musicolor531.png
 pubDate: 2023-07-02
 track1:
   title: Dolthom - Ragui

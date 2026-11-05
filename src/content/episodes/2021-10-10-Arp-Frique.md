@@ -6,9 +6,9 @@ illustrator: Noémie Dijon
 writer: Jules
 guest_name: Arp Frique
 guest_color: trippy
-musiColor: /img/musicolor465.png
-guestPic: /img/guestpic465.jpeg
-image: /img/fbpic465.png
+musiColor: https://df.mailta.pe/img/musicolor465.png
+guestPic: https://df.mailta.pe/img/guestpic465.jpeg
+image: https://df.mailta.pe/img/fbpic465.png
 description: This morning, the sun has never shone so brightly. Rotterdam-based
   musician and producer Arp Frique is welcoming MailTape in his colourful
   world!  Niels Nieuborg, the genius mind behind Arp Frique, has been actively

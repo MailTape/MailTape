@@ -3,7 +3,7 @@ published: true
 pubDate: 2025-01-19
 guest_name: William Ryan Fritch
 guest_color: dreamy
-guestPic: /img/william_ryan_fritch.jpg
+guestPic: https://df.mailta.pe/img/william_ryan_fritch.jpg
 author: ImaCrea
 illustrator: Noémie Dijon
 writer: ImaCrea
@@ -12,8 +12,8 @@ description: "This morning, I'm excited to share with you a new episode that
   immersive and evocative soundscapes that transport us to otherworldly realms.
   He's curated a selection of tracks that take us on a journey through the
   realms of ambient, jazz, and experimental soundscapes. "
-image: /img/fbpic573.jpg
-musiColor: /img/musicolor573.png
+image: https://df.mailta.pe/img/fbpic573.jpg
+musiColor: https://df.mailta.pe/img/musicolor573.png
 track1:
   title: Mabe Fratti - Enfrente
   color: bliss

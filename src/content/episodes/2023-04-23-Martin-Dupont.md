@@ -4,7 +4,7 @@ pubDate: 2023-04-23
 release: 525
 guest_name: Martin Dupont
 guest_color: vibrant
-guestPic: /img/guestpic525.png
+guestPic: https://df.mailta.pe/img/guestpic525.png
 author: ImaCrea
 illustrator: Meriam Kharbat
 writer: ImaCrea
@@ -37,8 +37,8 @@ track7:
   color: dreamy
   link: https://df.mailta.pe/525/track7.mp3
 description: This morning, get ready to start your day with a heartfelt and captivating episode of MailTape with [Martin Dupont](https://martindupont.bandcamp.com)! We're thrilled to share with you a special selec...
-image: /img/fbpic525.png
-musiColor: /img/musicolor525.png
+image: https://df.mailta.pe/img/fbpic525.png
+musiColor: https://df.mailta.pe/img/musicolor525.png
 alignY: ''
 bigTitle_font_ratio: '6'
 ---

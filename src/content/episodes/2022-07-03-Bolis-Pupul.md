@@ -6,14 +6,14 @@ illustrator: Camille Célestin
 writer: Sarah
 guest_name: Bolis Pupul
 guest_color: trippy
-guestPic: /img/guestpic499.jpg
-image: /img/fbpic499.png
+guestPic: https://df.mailta.pe/img/guestpic499.jpg
+image: https://df.mailta.pe/img/fbpic499.png
 description: "This morning, we're overjoyed to welcome Bolis Pupul to MailTape.
   Based in Belgium, Bolis joins us after releasing his debut album with
   Charlotte Adigéry, Tropical Dancer. Blending house, rock, RnB, and techno, the
   duo uses their music as a vehicle to ignite conversations on heavier topics,
   particularly in their commentaries on racism, homophobia, and mysogyny. "
-musiColor: /img/musicolor499.png
+musiColor: https://df.mailta.pe/img/musicolor499.png
 pubDate: 2022-07-03
 track1:
   title: Beck - Devil's Haircut

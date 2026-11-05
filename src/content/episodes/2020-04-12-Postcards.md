@@ -1,8 +1,8 @@
 ---
-musiColor: /img/musicolor401.png
-image: /img/fbpic401.png
+musiColor: https://df.mailta.pe/img/musicolor401.png
+image: https://df.mailta.pe/img/fbpic401.png
 bigTitle_font_ratio: "6"
-guestPic: /img/guestpic401.jpg
+guestPic: https://df.mailta.pe/img/guestpic401.jpg
 guest_color: vibrant
 guest_name: Postcards
 writer: Anaïs G

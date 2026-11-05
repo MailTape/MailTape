@@ -6,9 +6,9 @@ illustrator: Lucie Fléty
 writer: Anaïs G
 guest_name: Spelterini
 guest_color: trippy
-image: /img/fbpic506.png
-guestPic: /img/guestpic506.jpg
-musiColor: /img/musicolor505.png
+image: https://df.mailta.pe/img/fbpic506.png
+guestPic: https://df.mailta.pe/img/guestpic506.jpg
+musiColor: https://df.mailta.pe/img/musicolor505.png
 description: "  This morning, we shake up codes, habits and routine. We will
   experience music in different ways, touch it, feel it, see it in such a way
   that it transcends us, disturbs us, shakes us..."

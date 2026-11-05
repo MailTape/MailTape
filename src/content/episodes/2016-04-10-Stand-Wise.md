@@ -5,9 +5,9 @@ writer: PS KY
 guest_name: Stand Wise
 guest_color: vibrant
 bigTitle_font_ratio: "6"
-guestPic: /img/guestpic212.jpg
-image: /img/fbpic212.jpg
-musiColor: /img/musicolor212.png
+guestPic: https://df.mailta.pe/img/guestpic212.jpg
+image: https://df.mailta.pe/img/fbpic212.jpg
+musiColor: https://df.mailta.pe/img/musicolor212.png
 description: This morning, let us keep you on the edge of new talent discovery
   with the latest essentiels. Introducing Stand Wise, an intriguing duo from
   Paris and their selection of fine tunes.

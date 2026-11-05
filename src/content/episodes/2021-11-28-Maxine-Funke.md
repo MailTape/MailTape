@@ -5,15 +5,15 @@ author: Sarah
 writer: Sarah
 guest_name: Maxine Funke
 guest_color: bliss
-image: /img/fbpic472.png
-guestPic: /img/guestpic472.jpg
+image: https://df.mailta.pe/img/fbpic472.png
+guestPic: https://df.mailta.pe/img/guestpic472.jpg
 description: This morning, we are delighted to welcome Maxine Funk to MailTape
   for a peaceful selection, crafted carefully to lift you on your way this
   Sunday. Based in New Zealand, multi instrumentalist Maxine Funke crafts each
   album with meditative care. Every release in the discography lands its own
   distinctive emotional exploration, at once tender and consuming.
 illustrator: Meriam Kharbat
-musiColor: /img/""
+musiColor: https://df.mailta.pe/img/""
 pubDate: 2021-11-28
 track1:
   title: Joan Baez - A Simple Twist of Fate

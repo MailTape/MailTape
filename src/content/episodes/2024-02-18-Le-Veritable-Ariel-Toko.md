@@ -5,9 +5,9 @@ illustrator: Camille Lemeunier
 writer: Anto
 guest_name: Le Véritable Ariel Toko
 guest_color: bliss
-guestPic: /img/guestpic547.jpg
-image: /img/fbpic547.png
-musiColor: /img/musicolor547.png
+guestPic: https://df.mailta.pe/img/guestpic547.jpg
+image: https://df.mailta.pe/img/fbpic547.png
+musiColor: https://df.mailta.pe/img/musicolor547.png
 description: This morning, we follow in the footsteps of irresistible music
   synonymous with softness and heat. If Africa is the birthplace of humankind,
   we will see in this episode that it has also pampered some rhythms which

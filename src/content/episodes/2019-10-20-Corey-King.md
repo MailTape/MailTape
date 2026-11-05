@@ -6,9 +6,9 @@ illustrator: Anthony Dujardin
 writer: Jules
 guest_name: Corey King
 guest_color: vibrant
-guestPic: /img/guestpic376.jpg
-image: /img/fbpic376.png
-musiColor: /img/musicolor376.png
+guestPic: https://df.mailta.pe/img/guestpic376.jpg
+image: https://df.mailta.pe/img/fbpic376.png
+musiColor: https://df.mailta.pe/img/musicolor376.png
 description: This morning, we are delighted to welcome Corey King to select
   three inspiring Sunday morning tunes for us. The New-York-based
   multi-instrumentist has recently released a new album, "A Loveless Sunken

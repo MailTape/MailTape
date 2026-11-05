@@ -5,9 +5,9 @@ writer: ImaCrea
 guest_name: Nicolas Jaar
 guest_color: dreamy
 bigTitle_font_ratio: "6"
-guestPic: /img/guestpic3.jpg
-image: /img/fbpic3.png
-musiColor: /img/musicolor3.png
+guestPic: https://df.mailta.pe/img/guestpic3.jpg
+image: https://df.mailta.pe/img/fbpic3.png
+musiColor: https://df.mailta.pe/img/musicolor3.png
 description: This morning, Nicolas Jaar is inviting you to embark on a
   psychedelic journey with “The Electric Prunes”. In reality, we are still
   dreaming, and this is only the start of our journey...

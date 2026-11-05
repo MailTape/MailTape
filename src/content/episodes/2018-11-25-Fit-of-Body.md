@@ -6,11 +6,11 @@ illustrator: Camille Célestin
 writer: Jules
 guest_name: Fit of Body
 guest_color: bliss
-guestPic: /img/guestpic333.jpg
-musiColor: /img/musicolor333.png
+guestPic: https://df.mailta.pe/img/guestpic333.jpg
+musiColor: https://df.mailta.pe/img/musicolor333.png
 description: This morning we are delighted to welcome Atlanta-based music
   producer Fit of Body to MailTape.
-image: /img/fbpic333new.jpg
+image: https://df.mailta.pe/img/fbpic333new.jpg
 pubDate: 2018-11-25
 track1:
   title: C. Memi + Neo Matisse - Dream's Dream

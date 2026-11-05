@@ -3,7 +3,7 @@ published: true
 pubDate: 2025-04-06
 guest_name: Magic Tuber Stringband
 guest_color: bliss
-guestPic: /img/guestpic578.jpg
+guestPic: https://df.mailta.pe/img/guestpic578.jpg
 author: Sarah
 illustrator: Noémie Dijon
 writer: Sarah
@@ -13,8 +13,8 @@ description: We're back ! This morning, we're absolutely delighted to welcome
   re-enchanting these practices with unexpected noise and experimental textures.
   Magic Tuber Stringband members Evan Morgan, Mike DeVito, and Courtney Werner
   join us following the release of their latest album, Needlefall.
-image: /img/fbpic578.jpg
-musiColor: /img/musicolor578.png
+image: https://df.mailta.pe/img/fbpic578.jpg
+musiColor: https://df.mailta.pe/img/musicolor578.png
 track1:
   title: Latin Playboys - Mustard
   color: dreamy

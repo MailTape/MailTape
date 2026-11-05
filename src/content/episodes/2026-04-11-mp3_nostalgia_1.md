@@ -4,7 +4,7 @@ pubDate: 2026-04-12
 release: 609
 guest_name: 'MP3 Nostalgia #1'
 guest_color: vibrant
-guestPic: /img/guest609.jpg
+guestPic: https://df.mailta.pe/img/guest609.jpg
 author: Anto
 illustrator: Noémie Dijon
 writer: Anto
@@ -37,8 +37,8 @@ track7:
   color: rough
   link: https://df.mailta.pe/609/track7.mp3
 description: At Mailtape, we sometimes assume we're a bit old-fashioned, from the generation of Walkmans, those from the 90s, into which we'd put old cassettes, sometimes recorded ourselves. Then came portable CD...
-image: /img/fbpic609.jpg
-musiColor: /img/musicolor609.png
+image: https://df.mailta.pe/img/fbpic609.jpg
+musiColor: https://df.mailta.pe/img/musicolor609.png
 alignY: ''
 ---
 

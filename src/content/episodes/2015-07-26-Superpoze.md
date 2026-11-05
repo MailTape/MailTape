@@ -4,13 +4,13 @@ author: ImaCrea
 guest_color: dreamy
 bigTitle_font_ratio: "6"
 guest_name: Superpoze
-guestPic: /img/guestpic196.jpg
+guestPic: https://df.mailta.pe/img/guestpic196.jpg
 description: This Sunday, let yourself dive into a universe of musical
   indulgence powered by softness. Pleasure to welcome Superpoze and his
   selection of blissful tunes. Waking peacefully to the sound of indulgence
   followed by an explosion of temptation filed with surprises
-musiColor: /img/musicolor196.png
-image: /img/fbpic196.jpg
+musiColor: https://df.mailta.pe/img/musicolor196.png
+image: https://df.mailta.pe/img/fbpic196.jpg
 pubDate: 2015-07-26
 track1:
   title: Hundred Waters - Cavity (Shigeto Remix)

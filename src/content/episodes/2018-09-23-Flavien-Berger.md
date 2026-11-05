@@ -5,10 +5,10 @@ guest_name: Flavien Berger
 guest_color: trippy
 author: ImaCrea
 writer: ImaCrea
-guestPic: /img/guestpic324.jpg
+guestPic: https://df.mailta.pe/img/guestpic324.jpg
 illustrator: Pierre-Julien Fieux
-image: /img/fbpic324.png
-musiColor: /img/musicolor324.png
+image: https://df.mailta.pe/img/fbpic324.png
+musiColor: https://df.mailta.pe/img/musicolor324.png
 description: This morning, we have the immense pleasure to invite Flavien
   Berger. Following his work since a while, at the occasion of his new album he
   takes the time to share with us a somewhat of a nostalgic morning trip. From

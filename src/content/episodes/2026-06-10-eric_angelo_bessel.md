@@ -3,7 +3,7 @@ published: true
 pubDate: 2026-06-13
 guest_name: Eric Angelo Bessel
 guest_color: dreamy
-guestPic: /img/guestpic611.jpg
+guestPic: https://df.mailta.pe/img/guestpic611.jpg
 author: Sarah
 illustrator: Noémie Dijon
 writer: Sarah
@@ -11,8 +11,8 @@ description: "This Sunday we welcome Eric Angelo Bessel to MailTape for a
   meditative morning. Based in Portland, the composer joins us just after the
   release of his album, Mirror at Night (as well as the most recent release of
   the album's B-Sides !). "
-image: /img/fbpic611.jpg
-musiColor: /img/musicolor611.png
+image: https://df.mailta.pe/img/fbpic611.jpg
+musiColor: https://df.mailta.pe/img/musicolor611.png
 alignY: ""
 track1:
   title: Faten Kanaan - Alcoyana-Capri

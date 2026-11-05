@@ -6,9 +6,9 @@ guest_color: dreamy
 author: ImaCrea
 illustrator: Thibault Daumain
 writer: ImaCrea
-guestPic: /img/guestpic479.jpg
-musiColor: /img/musicolor479.png
-image: /img/fbpic479.png
+guestPic: https://df.mailta.pe/img/guestpic479.jpg
+musiColor: https://df.mailta.pe/img/musicolor479.png
+image: https://df.mailta.pe/img/fbpic479.png
 description: This morning, we are floating in the air with Del Stephen. Coming
   from Toronto, his eclectic and blissful selection opens the doors to a
   magnificent Sunday. Warm and subtle, perfect to close this first month of the

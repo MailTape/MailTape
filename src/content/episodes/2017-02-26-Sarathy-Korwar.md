@@ -5,9 +5,9 @@ author: Sanjay Mistry
 illustrator: Pierre-Julien Fieux
 guest_name: Sarathy Korwar
 guest_color: trippy
-guestPic: /img/guestpic249.jpg
-image: /img/fbpic249.jpg
-musiColor: /img/musicolor249.png
+guestPic: https://df.mailta.pe/img/guestpic249.jpg
+image: https://df.mailta.pe/img/fbpic249.jpg
+musiColor: https://df.mailta.pe/img/musicolor249.png
 description: This morning, transcend borders with mantras, untethered
   saxophones, keys, and an unfettered groove from our guest, percussionist and
   composer, Sarathy Korwar.

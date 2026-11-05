@@ -5,9 +5,9 @@ author: Louise
 illustrator: Camille Célestin
 guest_name: Maud Geffray
 guest_color: bliss
-guestPic: /img/guestpic281.jpg
-image: /img/fbpic281.png
-musiColor: /img/musicolor281.png
+guestPic: https://df.mailta.pe/img/guestpic281.jpg
+image: https://df.mailta.pe/img/fbpic281.png
+musiColor: https://df.mailta.pe/img/musicolor281.png
 writer: Louise
 description: Today's MailTape is a rollercoaster of emotions and feelings melted
   in electronic sounds. I hope you are ready for the ride!

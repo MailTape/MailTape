@@ -3,12 +3,12 @@ published: true
 pubDate: 2024-06-30
 guest_name: Philipp Otterbach
 guest_color: vibrant
-guestPic: /img/guestpic559.png
+guestPic: https://df.mailta.pe/img/guestpic559.png
 author: Jules
 illustrator: Babi Brunelio
 writer: Jules
-musiColor: /img/musicolor559.png
-image: /img/fbpic559.jpg
+musiColor: https://df.mailta.pe/img/musicolor559.png
+image: https://df.mailta.pe/img/fbpic559.jpg
 track1:
   title: Water Pistol Cowboys - I’m Sorry I Was Ignoring You
   color: vibrant

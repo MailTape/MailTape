@@ -3,7 +3,7 @@ published: true
 pubDate: 2025-09-28
 guest_name: Andrii Pokaz
 guest_color: bliss
-guestPic: /img/guestpic591.jpg
+guestPic: https://df.mailta.pe/img/guestpic591.jpg
 author: Aloyse
 illustrator: Camille Lemeunier
 writer: Aloyse
@@ -16,8 +16,8 @@ description: >-
   today sparks moments of reflection, surprise, and joy, just like his latest
   album, Proteus, released this summer. A boundless universe to explore as your
   morning unfolds.
-image: /img/fbpic591.jpg
-musiColor: /img/musicolor591.png
+image: https://df.mailta.pe/img/fbpic591.jpg
+musiColor: https://df.mailta.pe/img/musicolor591.png
 alignY: "0.4"
 track1:
   title: Esbjörn Svensson Trio - Serenade for the Renegade

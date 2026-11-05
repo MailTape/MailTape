@@ -6,9 +6,9 @@ illustrator: Camille Célestin
 writer: PS KY
 guest_name: Run Child Run
 guest_color: vibrant
-guestPic: /img/guestpic299.jpg
-image: /img/fbpic299.png
-musiColor: /img/musicolor299.png
+guestPic: https://df.mailta.pe/img/guestpic299.jpg
+image: https://df.mailta.pe/img/fbpic299.png
+musiColor: https://df.mailta.pe/img/musicolor299.png
 description: This morning, our guest Run Child Run has blessed us with a
   distinctive selection of timeless tracks.
 pubDate: 2018-02-11

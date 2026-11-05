@@ -9,9 +9,9 @@ guest_color: bliss
 description: Welcome back to another season of MailTape! This morning we
   introduce the London-based pianist and composer, Maria Chiara Argirò, who
   kicks things off again with three Sunday morning tunes.
-guestPic: /img/guestpic369.jpg
-image: /img/fbpic369.jpg
-musiColor: /img/musicolor369.png
+guestPic: https://df.mailta.pe/img/guestpic369.jpg
+image: https://df.mailta.pe/img/fbpic369.jpg
+musiColor: https://df.mailta.pe/img/musicolor369.png
 pubDate: 2019-09-01
 track1:
   title: "Jon Hopkins – Emerald Rush "

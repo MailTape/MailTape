@@ -6,9 +6,9 @@ illustrator: Meriam Kharbat
 writer: Anto
 guest_name: Tommy Guerrero
 guest_color: trippy
-guestPic: /img/guestpic536.png
-image: /img/fbpic536.jpg
-musiColor: /img/musicolor536.png
+guestPic: https://df.mailta.pe/img/guestpic536.png
+image: https://df.mailta.pe/img/fbpic536.jpg
+musiColor: https://df.mailta.pe/img/musicolor536.png
 description: This morning, we're riding with Tommy Guerrero on the road to good vibes.
 pubDate: 2023-10-01
 track1:

@@ -4,9 +4,9 @@ published: true
 author: ImaCrea
 writer: ImaCrea
 guest_name: La Fine Équipe
-guestPic: /img/guestpic6.jpg
-image: /img/fbpic6.jpg
-musiColor: /img/musicolor6.png
+guestPic: https://df.mailta.pe/img/guestpic6.jpg
+image: https://df.mailta.pe/img/fbpic6.jpg
+musiColor: https://df.mailta.pe/img/musicolor6.png
 guest_color: rough
 illustrator: William Girault
 description: This morning, La Fine Équipe are off to a great start with Stevie

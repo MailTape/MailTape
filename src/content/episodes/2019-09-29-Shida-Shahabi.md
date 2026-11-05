@@ -8,9 +8,9 @@ guest_name: Shida Shahabi
 guest_color: dreamy
 description: This morning we welcome the intimate and homespun piano of
   Stockholm-based pianist and composer, Shida Shahabi.
-guestPic: /img/guestpic373.jpg
-image: /img/fbpic373.jpg
-musiColor: /img/musicolor373.png
+guestPic: https://df.mailta.pe/img/guestpic373.jpg
+image: https://df.mailta.pe/img/fbpic373.jpg
+musiColor: https://df.mailta.pe/img/musicolor373.png
 pubDate: 2019-09-29
 track1:
   title: Mayumi Miyata – 双調調子

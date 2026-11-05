@@ -6,15 +6,15 @@ illustrator: Camille Célestin
 guest_name: She-Devils
 writer: ImaCrea
 guest_color: trippy
-guestPic: /img/guestpic270.jpg
+guestPic: https://df.mailta.pe/img/guestpic270.jpg
 description: "This morning, whether you’re on holidays enjoying the sun or
   trekking on a mountain or still recovering from a hangover or on a regular
   Sunday at home, we got you covered. This kaleidoscopic selection inspired by
   She-Devils our punk friends from Argentina, will shake you up, surprise you
   and make you dance. As they say: “put your trust on me, I won’t let you
   fall”."
-image: /img/fbpic270.png
-musiColor: /img/musicolor270.png
+image: https://df.mailta.pe/img/fbpic270.png
+musiColor: https://df.mailta.pe/img/musicolor270.png
 pubDate: 2017-07-23
 track1:
   title: Ramzi - Majestic Zouk

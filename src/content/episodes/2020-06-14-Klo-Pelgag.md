@@ -6,11 +6,11 @@ illustrator: Thibault Daumain
 writer: Marion
 guest_name: Klô Pelgag
 guest_color: dreamy
-musiColor: /img/musicolor410.png
-guestPic: /img/guestpic410.jpg
+musiColor: https://df.mailta.pe/img/musicolor410.png
+guestPic: https://df.mailta.pe/img/guestpic410.jpg
 description: Today, we welcome Klô Pelgag for a sweet sunday morning made of
   fantastic stories.
-image: /img/fbpic410.png
+image: https://df.mailta.pe/img/fbpic410.png
 pubDate: 2020-06-14
 track1:
   title: Rufus Wainwright - Cigarettes and Chocolate Milk

@@ -3,7 +3,7 @@ published: true
 pubDate: 2026-03-08
 guest_name: Nathan Fake
 guest_color: trippy
-guestPic: /img/guestpic606.jpg
+guestPic: https://df.mailta.pe/img/guestpic606.jpg
 author: ImaCrea
 illustrator: Pierre-Julien Fieux
 writer: ImaCrea
@@ -14,8 +14,8 @@ description: >-
 
   landscapes. This episode includes tracks that showcase not only artistic
   brilliance but also personal and soulful evocations.
-image: /img/fbpic606.jpg
-musiColor: /img/musicolor606.png
+image: https://df.mailta.pe/img/fbpic606.jpg
+musiColor: https://df.mailta.pe/img/musicolor606.png
 track1:
   title: Chemical Brothers & Hope Sandoval - Asleep from Day
   color: dreamy

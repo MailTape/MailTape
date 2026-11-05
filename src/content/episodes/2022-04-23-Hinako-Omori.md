@@ -6,9 +6,9 @@ illustrator: Meriam
 writer: ImaCrea
 guest_name: Hinako Omori
 guest_color: dreamy
-guestPic: /img/guestpic490.jpg
-image: /img/fbpic490.jpg
-musiColor: /img/musicolor489.png
+guestPic: https://df.mailta.pe/img/guestpic490.jpg
+image: https://df.mailta.pe/img/fbpic490.jpg
+musiColor: https://df.mailta.pe/img/musicolor489.png
 description: This morning, we're taking you into an atmosphere of balance,
   softness and harmony. With our dear guest, Hinako Omori, we curated meditative
   and restorative tracks to help you ease into the day with a refreshed view.

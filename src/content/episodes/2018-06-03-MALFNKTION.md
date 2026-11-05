@@ -8,9 +8,9 @@ guest_name: MALFNKTION
 guest_color: trippy
 description: This morning we are excited to welcome MALFNKTION, the electronic
   music project of Bengaluru-based musician, Aditya Alamuru.
-guestPic: /img/guestpic315.jpg
-image: /img/fbpic315.jpg
-musiColor: /img/musicolor315.png
+guestPic: https://df.mailta.pe/img/guestpic315.jpg
+image: https://df.mailta.pe/img/fbpic315.jpg
+musiColor: https://df.mailta.pe/img/musicolor315.png
 pubDate: 2018-06-03
 track1:
   title: Wild Belle – Love Like This

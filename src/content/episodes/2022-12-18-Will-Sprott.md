@@ -1,9 +1,9 @@
 ---
 bigTitle_font_ratio: "6"
 published: true
-guestPic: /img/guestpic510.jpg
-image: /img/fbpic510.png
-musiColor: /img/musicolor510.png
+guestPic: https://df.mailta.pe/img/guestpic510.jpg
+image: https://df.mailta.pe/img/fbpic510.png
+musiColor: https://df.mailta.pe/img/musicolor510.png
 author: Sarah
 illustrator: Camille Célestin
 writer: Sarah

@@ -6,9 +6,9 @@ illustrator: Anthony Dujardin
 writer: Anaïs G
 guest_name: Elodie Rama
 guest_color: bliss
-guestPic: /img/guestpic357.jpg
-image: /img/fbpic357.png
-musiColor: /img/musicolor357.png
+guestPic: https://df.mailta.pe/img/guestpic357.jpg
+image: https://df.mailta.pe/img/fbpic357.png
+musiColor: https://df.mailta.pe/img/musicolor357.png
 description: This morning, we walk through the deserted streets of a city (of
   your choice). Whether we return from the evening or we decide to buy
   croissants, we listen to the musical selection of Elodie Rama in the ears.

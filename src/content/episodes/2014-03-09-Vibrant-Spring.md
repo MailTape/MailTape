@@ -4,7 +4,7 @@ pubDate: 2014-03-09
 release: 131
 guest_name: Vibrant Spring
 guest_color: vibrant
-guestPic: /img/guestpic131.jpg
+guestPic: https://df.mailta.pe/img/guestpic131.jpg
 author: MailTape Crew
 illustrator: ''
 writer: ''
@@ -37,8 +37,8 @@ track7:
   color: vibrant
   link: https://df.mailta.pe/131/track7.mp3
 description: "This morning, discover a 100% MailTape Crew episode. The perfect occasion to celebrate the arrival of our two new curators : Julien and Dimitri. Spring is on its way, here's our vibrant hymn to help M..."
-image: /img/fbpic131.jpg
-musiColor: /img/musicolor131.png
+image: https://df.mailta.pe/img/fbpic131.jpg
+musiColor: https://df.mailta.pe/img/musicolor131.png
 alignY: ''
 bigTitle_font_ratio: '6'
 bigTitle_line_ratio: '1'

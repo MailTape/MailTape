@@ -1,14 +1,14 @@
 ---
 bigTitle_font_ratio: "6"
 published: true
-guestPic: /img/guestpic533.jpg
+guestPic: https://df.mailta.pe/img/guestpic533.jpg
 guest_name: Moss Velveta
 author: Sarah
 illustrator: Nella Papelita
 writer: Sarah
 guest_color: trippy
-image: /img/fbpic533.png
-musiColor: /img/musicolor533.png
+image: https://df.mailta.pe/img/fbpic533.png
+musiColor: https://df.mailta.pe/img/musicolor533.png
 description: This Sunday, we take the tread into morning's mist as we welcome
   the elusive Moss Velveta for Episode 533. Presently anonymous, the group's
   releases strike cinematic intensity, dipping into both baroque dissonances and

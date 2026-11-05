@@ -6,9 +6,9 @@ illustrator: Julie Wojtczak
 writer: ImaCrea
 guest_name: Emily Wells
 guest_color: bliss
-guestPic: /img/guestpic497.jpg
-musiColor: /img/musicolor497.png
-image: /img/fbpic497.jpg
+guestPic: https://df.mailta.pe/img/guestpic497.jpg
+musiColor: https://df.mailta.pe/img/musicolor497.png
+image: https://df.mailta.pe/img/fbpic497.jpg
 description: This morning, I am very thrilled to unveil an episode co-curated
   with Emily Wells. As she's on tour, playing Regards to the End around the
   world, she took a moment to share with us some of her music gems. With this

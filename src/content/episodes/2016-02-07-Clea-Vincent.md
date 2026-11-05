@@ -5,9 +5,9 @@ writer: Maxime
 guest_name: Cléa Vincent
 guest_color: vibrant
 bigTitle_font_ratio: "6"
-guestPic: /img/guestpic203.jpg
-image: /img/fbpic203.jpg
-musiColor: /img/musicolor203.png
+guestPic: https://df.mailta.pe/img/guestpic203.jpg
+image: https://df.mailta.pe/img/fbpic203.jpg
+musiColor: https://df.mailta.pe/img/musicolor203.png
 description: ""
 published: true
 curator: Maxime

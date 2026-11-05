@@ -6,9 +6,9 @@ illustrator: Camille Célestin
 writer: Sanjay Mistry
 guest_name: Félicia Atkinson
 guest_color: trippy
-guestPic: /img/guestpic294.jpg
-musiColor: /img/musicolor294.png
-image: /img/fbpic294.jpg
+guestPic: https://df.mailta.pe/img/guestpic294.jpg
+musiColor: https://df.mailta.pe/img/musicolor294.png
+image: https://df.mailta.pe/img/fbpic294.jpg
 description: This morning we welcome preeminent Rennes-based avant-garde
   composer Félicia Atkinson to collaborate with us on MailTape. She weaves
   myriad, filigree electro-acoustic and non-musical metanarratives into a sonic

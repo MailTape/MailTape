@@ -1,8 +1,8 @@
 ---
-musiColor: /img/musicolor432.png
-image: /img/fbpic432.png
+musiColor: https://df.mailta.pe/img/musicolor432.png
+image: https://df.mailta.pe/img/fbpic432.png
 bigTitle_font_ratio: "6"
-guestPic: /img/guestpic432.jpg
+guestPic: https://df.mailta.pe/img/guestpic432.jpg
 guest_name: Danse Musique Rhône-Alpes
 writer: Anaïs G
 author: Anaïs G

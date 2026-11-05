@@ -6,9 +6,9 @@ illustrator: Pierre-Julien Fieux
 writer: Sanjay Mistry
 guest_name: Gaelynn Lea
 guest_color: vibrant
-image: /img/fbpic307.jpg
-guestPic: /img/guestpic307.jpg
-musiColor: /img/musicolor307.png
+image: https://df.mailta.pe/img/fbpic307.jpg
+guestPic: https://df.mailta.pe/img/guestpic307.jpg
+musiColor: https://df.mailta.pe/img/musicolor307.png
 description: This morning we are delighted to welcome Duluth-based violinist,
   Gaelynn Lea. She chooses an easy breezy Sunday morning playlist in
   collaboration with MailTape.

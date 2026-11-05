@@ -6,9 +6,9 @@ illustrator: Camille Célestin
 writer: Inès
 guest_name: Le Turc Mécanique
 guest_color: rough
-guestPic: /img/guestpic283.jpg
-image: /img/fbpic283.png
-musiColor: /img/musicolor283.png
+guestPic: https://df.mailta.pe/img/guestpic283.jpg
+image: https://df.mailta.pe/img/fbpic283.png
+musiColor: https://df.mailta.pe/img/musicolor283.png
 description: This morning, take some time to listen to Le Turc Mécanique’s
   delightful selection, for a morning that gets sweeter by every minute.
   Post-punk label Le Turc Mécanique is one of France’s best independent labels,

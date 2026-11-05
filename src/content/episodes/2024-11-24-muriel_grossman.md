@@ -3,7 +3,7 @@ published: true
 pubDate: 2024-11-24
 guest_name: Muriel Grossman
 guest_color: bliss
-guestPic: /img/567_murielgrossmann.jpg
+guestPic: https://df.mailta.pe/img/567_murielgrossmann.jpg
 author: Anto
 illustrator: Camille Célestin
 writer: Anto
@@ -24,8 +24,8 @@ description: >-
   Accompanied by her quartet, Muriel explores the world of spiritual jazz and
   offers a sixteenth album, the result of slow maturation, resolutely full of a
   joy that she enjoys sharing wherever she has the pleasure to play. 
-image: /img/fbpic567.jpg
-musiColor: /img/musicolor567.png
+image: https://df.mailta.pe/img/fbpic567.jpg
+musiColor: https://df.mailta.pe/img/musicolor567.png
 track1:
   title: Dexter Gordon - Ca'Purange
   color: vibrant

@@ -6,9 +6,9 @@ illustrator: Isabelle Escande
 writer: Inès
 guest_name: Hector Gachan
 guest_color: dreamy
-guestPic: /img/guestpic289-2.jpg
-image: /img/fbpic289.png
-musiColor: /img/musicolor289.png
+guestPic: https://df.mailta.pe/img/guestpic289-2.jpg
+image: https://df.mailta.pe/img/fbpic289.png
+musiColor: https://df.mailta.pe/img/musicolor289.png
 description: This morning, kickstart your day with Hector Gachan’s warm and
   lively selection. Let this selection take you out of your lethargy and be the
   soundtrack of what you want your morning to be. Get cosy or get busy, your

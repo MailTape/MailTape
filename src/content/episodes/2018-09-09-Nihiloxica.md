@@ -5,10 +5,10 @@ illustrator: William Girault
 author: Luc
 guest_name: Nihiloxica
 guest_color: rough
-guestPic: /img/guestpic322.jpg
+guestPic: https://df.mailta.pe/img/guestpic322.jpg
 writer: Luc
-image: /img/fbpic322.jpg
-musiColor: /img/musiccolor322.jpg
+image: https://df.mailta.pe/img/fbpic322.jpg
+musiColor: https://df.mailta.pe/img/musiccolor322.jpg
 description: If defeating torpor is ever on your agenda, Ugandan’s own
   Nihiloxica, with their tribal percussions and visceral arrangements, should
   prove tremendously helpful. Their eponymous debut, recorded live in single

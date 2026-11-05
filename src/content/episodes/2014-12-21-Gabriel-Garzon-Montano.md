@@ -5,12 +5,12 @@ guest_color: dreamy
 bigTitle_font_ratio: "10"
 bigTitle_line_ratio: "1"
 guest_name: Gabriel Garzón-Montano
-guestPic: /img/guestpic165.jpg
-image: /img/fbpic165.jpg
+guestPic: https://df.mailta.pe/img/guestpic165.jpg
+image: https://df.mailta.pe/img/fbpic165.jpg
 description: This morning, please welcome our new delighted guest who is half
   Colombian and half French but born and brought up in Brooklyn. Gabriel
   Garzon-Montano is a true child of the world.
-musiColor: /img/musicolor165.png
+musiColor: https://df.mailta.pe/img/musicolor165.png
 pubDate: 2014-12-21
 track1:
   title: Quincy Vidal - Check

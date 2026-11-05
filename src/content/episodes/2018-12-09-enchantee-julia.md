@@ -8,9 +8,9 @@ guest_color: dreamy
 description: This morning we are delighted to welcome the French singer
   Enchantée Julia to MailTape. I discovered her a few months ago. It was the end
   of Summer, Paris was still warm and welcoming.
-guestPic: /img/guestpic335new.jpg
-musiColor: /img/musicolor335.png
-image: /img/fbpic335.jpg
+guestPic: https://df.mailta.pe/img/guestpic335new.jpg
+musiColor: https://df.mailta.pe/img/musicolor335.png
+image: https://df.mailta.pe/img/fbpic335.jpg
 illustrator: William Girault
 pubDate: 2018-12-09
 track1:

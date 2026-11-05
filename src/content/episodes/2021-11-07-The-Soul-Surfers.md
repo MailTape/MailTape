@@ -4,7 +4,7 @@ pubDate: 2021-11-07
 release: 469
 guest_name: The Soul Surfers
 guest_color: bliss
-guestPic: /img/guestpic469.jpg
+guestPic: https://df.mailta.pe/img/guestpic469.jpg
 author: Sarah
 illustrator: Julie Wojtczak
 writer: Sarah
@@ -37,8 +37,8 @@ track7:
   color: trippy
   link: https://df.mailta.pe/469/track7.mp3
 description: This morning, we are delighted to welcome [The Soul Surfers](https://soulsurfersubiq.bandcamp.com/) to MailTape for a collection of experimental and exploratory tracks. Led by drummer [Igor Zhukovsky]...
-image: /img/fbpic469.jpg
-musiColor: /img/musicolor469.png
+image: https://df.mailta.pe/img/fbpic469.jpg
+musiColor: https://df.mailta.pe/img/musicolor469.png
 alignY: ''
 bigTitle_font_ratio: '6'
 ---

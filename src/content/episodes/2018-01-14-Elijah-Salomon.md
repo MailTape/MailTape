@@ -6,9 +6,9 @@ illustrator: William Girault
 writer: Sanjay Mistry
 guest_name: Elijah Salomon
 guest_color: trippy
-guestPic: /img/guestpic295.jpg
-image: /img/fbpic295.jpg
-musiColor: /img/musicolor295.png
+guestPic: https://df.mailta.pe/img/guestpic295.jpg
+image: https://df.mailta.pe/img/fbpic295.jpg
+musiColor: https://df.mailta.pe/img/musicolor295.png
 description: This morning we welcome multilingual singer, songwriter and
   musician, Elijah Salomon. With songs in Swiss German, English, Jamaican
   Patois, Spanish and French, he represents a culture of co-existence without

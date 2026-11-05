@@ -3,12 +3,12 @@ published: true
 pubDate: 2024-10-27
 guest_name: Yassin Keetan
 guest_color: vibrant
-guestPic: /img/guestpic563.png
+guestPic: https://df.mailta.pe/img/guestpic563.png
 author: Jules
 illustrator: Marie Alléguède
 writer: Jules
-image: /img/fbpic563.png
-musiColor: /img/musicolor563.png
+image: https://df.mailta.pe/img/fbpic563.png
+musiColor: https://df.mailta.pe/img/musicolor563.png
 track1:
   title: Beach House - Space Song
   color: dreamy

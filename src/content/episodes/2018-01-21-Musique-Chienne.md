@@ -6,9 +6,9 @@ illustrator: Pierre-Julien Fieux
 writer: Inès
 guest_name: Musique Chienne
 guest_color: trippy
-guestPic: /img/guestpic296.jpg
-musiColor: /img/musicolor296.png
-image: /img/fbpic296.png
+guestPic: https://df.mailta.pe/img/guestpic296.jpg
+musiColor: https://df.mailta.pe/img/musicolor296.png
+image: https://df.mailta.pe/img/fbpic296.png
 description: This morning, please welcome Musique Chienne's sparkly selection!
   Musique Chienne is Sarah-Louise Barbett, a musician making "music for people
   and dog". In other words, she makes synth-based, percussive electronic, naive

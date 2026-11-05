@@ -6,9 +6,9 @@ illustrator: Julie Wojtczak
 writer: Jules
 guest_name: An Explore
 guest_color: bliss
-guestPic: /img/guestpic386.jpg
-image: /img/fbpic386.png
-musiColor: /img/musicolor386.png
+guestPic: https://df.mailta.pe/img/guestpic386.jpg
+image: https://df.mailta.pe/img/fbpic386.png
+musiColor: https://df.mailta.pe/img/musicolor386.png
 description: This morning, it's finally time to slow down, stay awake for
   eternity in bed before enjoying a hot coffee contemplating the sky behind your
   window. Prepare for an exploratory musical morning journey with An Explore. To

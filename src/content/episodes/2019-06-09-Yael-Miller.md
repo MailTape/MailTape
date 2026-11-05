@@ -1,18 +1,18 @@
 ---
 bigTitle_font_ratio: "6"
 published: true
-guestPic: /img/guestpic361.jpg
+guestPic: https://df.mailta.pe/img/guestpic361.jpg
 illustrator: Camille Célestin
 author: Anaïs G
 writer: Anaïs G
 guest_name: Yael Miller
 guest_color: vibrant
-musiColor: /img/musicolor361.png
+musiColor: https://df.mailta.pe/img/musicolor361.png
 description: This morning, the voice of women is resounding, it is growing and
   is fighting against multiple inequalities... Whether gentle or strong, frail
   or assertive, there must be no differences. Our guest this Sunday to this need
   to defend his values.
-image: fbpic361.png
+image: https://df.mailta.pefbpic361.png
 pubDate: 2019-06-09
 track1:
   title: " Nick Cave And The Bad Seeds - Red Right Hand "

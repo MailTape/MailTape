@@ -4,7 +4,7 @@ pubDate: 2024-05-26
 release: 558
 guest_name: Audrey Carmes
 guest_color: dreamy
-guestPic: /img/guestpic558.jpg
+guestPic: https://df.mailta.pe/img/guestpic558.jpg
 author: ImaCrea
 illustrator: Patricia Barros De Miranda
 writer: ImaCrea
@@ -37,8 +37,8 @@ track7:
   color: dreamy
   link: https://df.mailta.pe/558/track7.mp3
 description: This morning, we will continue to dream gently with our guest [Audrey Carmes](https://audreycarmes.bandcamp.com/album/quelque-chose-sest-dissip). Let's embark on an ambient journey to ethereal lands w...
-image: /img/fbpic558.jpg
-musiColor: /img/musicolor558.png
+image: https://df.mailta.pe/img/fbpic558.jpg
+musiColor: https://df.mailta.pe/img/musicolor558.png
 alignY: ''
 ---
 

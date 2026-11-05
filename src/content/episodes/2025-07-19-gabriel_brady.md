@@ -3,7 +3,7 @@ published: true
 pubDate: 2025-07-20
 guest_name: Gabriel Brady
 guest_color: dreamy
-guestPic: /img/guestpic588.jpg
+guestPic: https://df.mailta.pe/img/guestpic588.jpg
 author: ImaCrea
 illustrator: Camille Lemeunier
 writer: ImaCrea
@@ -12,8 +12,8 @@ description: This morning, we're onto a very chill selection with our guest
   and warm intentions. There's a variety of situations where this episode could
   be excellent at rejoicing the soul and inviting desire to the table of your
   imagination.
-image: /img/fbpic588.jpg
-musiColor: /img/musicolor588.png
+image: https://df.mailta.pe/img/fbpic588.jpg
+musiColor: https://df.mailta.pe/img/musicolor588.png
 alignY: "0.4"
 track1:
   title: Lewis - Romance for Two

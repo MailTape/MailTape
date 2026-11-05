@@ -7,9 +7,9 @@ illustrator: Camille Célestin
 writer: Anaïs G
 guest_name: Hélène Barbier
 guest_color: dreamy
-guestPic: /img/guestpic455.jpg
-image: /img/fbpic455.png
-musiColor: /img/musicolor455.png
+guestPic: https://df.mailta.pe/img/guestpic455.jpg
+image: https://df.mailta.pe/img/fbpic455.png
+musiColor: https://df.mailta.pe/img/musicolor455.png
 track1:
   title: Carole King - Beautiful
   color: vibrant

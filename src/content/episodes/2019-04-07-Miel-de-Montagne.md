@@ -6,9 +6,9 @@ illustrator: Anthony Dujardin
 writer: Anaïs G
 guest_name: Miel de Montagne
 guest_color: dreamy
-guestPic: /img/guestpic352.jpg
-image: /img/fbpic352.png
-musiColor: /img/musicolor352.png
+guestPic: https://df.mailta.pe/img/guestpic352.jpg
+image: https://df.mailta.pe/img/fbpic352.png
+musiColor: https://df.mailta.pe/img/musicolor352.png
 description: This morning, the atmosphere is light almost aerial, like the
   whipped cream that is on my boyfriend’s birthday cake. With imagination we
   could almost find ourselves hovering and swimming inside surrounded by love

@@ -4,7 +4,7 @@ pubDate: 2026-10-04
 release: 615
 guest_name: The Bernadette Maries
 guest_color: rough
-guestPic: /img/guest615.jpg
+guestPic: https://df.mailta.pe/img/guest615.jpg
 author: Anto
 illustrator: Pierre-Julien Fieux
 writer: Anto
@@ -37,8 +37,8 @@ track7:
   color: rough
   link: https://df.mailta.pe/615/track7.mp3
 description: Damn planet, out of whack. Damn humans, making a mess of things and becoming more and more pathetic. Damn existence, whose meaning we still haven't grasped… Today our emotions are restless. Between bi...
-image: /img/fbpic615.png
-musiColor: /img/musicolor615.png
+image: https://df.mailta.pe/img/fbpic615.png
+musiColor: https://df.mailta.pe/img/musicolor615.png
 alignY: ''
 ---
 

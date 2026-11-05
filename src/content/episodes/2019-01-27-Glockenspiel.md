@@ -6,9 +6,9 @@ illustrator: Camille Célestin
 writer: Sanjay Mistry
 guest_name: Glockenspiel
 guest_color: dreamy
-guestPic: /img/guestpic342.jpg
-image: /img/fbpic342.jpg
-musiColor: /img/musicolor342.png
+guestPic: https://df.mailta.pe/img/guestpic342.jpg
+image: https://df.mailta.pe/img/fbpic342.jpg
+musiColor: https://df.mailta.pe/img/musicolor342.png
 description: This morning we are delighted to welcome Adrian Dollemore of
   Glockenspiel to select three Sunday morning tunes for us on MailTape.
 pubDate: 2019-01-27

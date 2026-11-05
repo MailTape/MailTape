@@ -6,11 +6,11 @@ illustrator: Camille Célestin
 writer: Sanjay Mistry
 guest_name: Jally Kebba Susso
 guest_color: bliss
-guestPic: /img/guestpic317.jpg
+guestPic: https://df.mailta.pe/img/guestpic317.jpg
 description: Today we are delighted to welcome kora player Jally Kebba Susso as
   he picks a soothing suite of Sunday morning jams for MailTape.
-image: /img/fbpic317.jpg
-musiColor: /img/musicolor317.png
+image: https://df.mailta.pe/img/fbpic317.jpg
+musiColor: https://df.mailta.pe/img/musicolor317.png
 pubDate: 2018-06-17
 track1:
   title: " Ballaké Sissoko & Vincent Ségal – Chamber Music"

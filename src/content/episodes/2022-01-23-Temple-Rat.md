@@ -8,8 +8,8 @@ description: This morning, we cast away the misty, chilly air for a moment, and
 author: Ling
 illustrator: Meriam Kharbat
 writer: Ling
-guestPic: /img/guestpic478.jpg
-musiColor: /img/""
+guestPic: https://df.mailta.pe/img/guestpic478.jpg
+musiColor: https://df.mailta.pe/img/""
 pubDate: 2022-01-23
 track1:
   title: Chromatics - In The City

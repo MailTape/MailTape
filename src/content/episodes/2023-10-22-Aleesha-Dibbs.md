@@ -4,7 +4,7 @@ pubDate: 2023-10-22
 release: 538
 guest_name: Aleesha Dibbs
 guest_color: dreamy
-guestPic: /img/guestpic538.jpg
+guestPic: https://df.mailta.pe/img/guestpic538.jpg
 author: Sarah
 illustrator: Camille Célestin
 writer: Sarah
@@ -37,8 +37,8 @@ track7:
   color: trippy
   link: https://df.mailta.pe/538/track7.mp3
 description: This Sunday morning we welcome Aleesha Dibbs for MailTape's Episode 538. Based in Sydney, Aleesha Dibbs joins us after the release of her debut solo EP, [Paradise Lost](https://soundcloud.com/aleeshad...
-image: /img/fbpic538.png
-musiColor: /img/musicolor538.png
+image: https://df.mailta.pe/img/fbpic538.png
+musiColor: https://df.mailta.pe/img/musicolor538.png
 alignY: ''
 bigTitle_font_ratio: '6'
 ---

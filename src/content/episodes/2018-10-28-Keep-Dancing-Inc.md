@@ -14,9 +14,9 @@ description: This morning, we welcome Louis, Charles, Gabrielle and Joseph from
   from the stiff world of impersonal open spaces and fake sick leave, Keep
   Dancing Inc’s music, lies somewhere between synth pop, new wave and cold zouk
   – it is warm and welcoming.
-guestPic: /img/guestpic329.jpg
-image: /img/fbpic329.jpg
-musiColor: /img/musicolor329.png
+guestPic: https://df.mailta.pe/img/guestpic329.jpg
+image: https://df.mailta.pe/img/fbpic329.jpg
+musiColor: https://df.mailta.pe/img/musicolor329.png
 pubDate: 2018-10-28
 track1:
   title: Porches - Country

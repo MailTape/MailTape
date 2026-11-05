@@ -3,7 +3,7 @@ published: true
 pubDate: 2024-04-07
 guest_name: Manofresca
 guest_color: bliss
-guestPic: /img/553_manofresco.png
+guestPic: https://df.mailta.pe/img/553_manofresco.png
 author: Anto
 illustrator: Meriam Kharbat
 writer: Anto
@@ -16,8 +16,8 @@ description: This morning we invite you to explore a particular vibe. It is not
   dare to explore certain corners of musical creativity knowing that you will
   inevitably create wonders from them? Isn’t it necessary to then dare to take
   the plunge and share your work with the public?
-image: /img/fbpic553.png
-musiColor: /img/musicolor.png
+image: https://df.mailta.pe/img/fbpic553.png
+musiColor: https://df.mailta.pe/img/musicolor.png
 track1:
   title: "Brad Behldau - After Bach: Flux"
   color: bliss

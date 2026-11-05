@@ -5,9 +5,9 @@ author: Sanjay Mistry
 illustrator: Pierre-Julien Fieux
 guest_name: Fond of Tigers
 guest_color: dreamy
-guestPic: /img/guestpic254.jpg
-image: /img/fbpic254.jpg
-musiColor: /img/musicolor254.png
+guestPic: https://df.mailta.pe/img/guestpic254.jpg
+image: https://df.mailta.pe/img/fbpic254.jpg
+musiColor: https://df.mailta.pe/img/musicolor254.png
 description: This morning Stephen Lyons of Vancouver-based septet, Fond of
   Tigers, lifts the fog and treats us to three unhurried and dreamy selections.
 pubDate: 2017-04-02

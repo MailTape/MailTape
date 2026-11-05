@@ -4,12 +4,12 @@ published: true
 author: ImaCrea
 guest_name: My Summer Bee
 guest_color: vibrant
-guestPic: /img/guestpic119.jpg
+guestPic: https://df.mailta.pe/img/guestpic119.jpg
 description: This morning, My Summer Bee brings their joy and energy ! No
   excuses to stay in your bed, let this vibrant episode shine and fill your soul
   with great vibes. Wake up, live with passion and have an amazing sunday!
-image: /img/fbpic119.png
-musiColor: /img/musicolor119.png
+image: https://df.mailta.pe/img/fbpic119.png
+musiColor: https://df.mailta.pe/img/musicolor119.png
 pubDate: 2013-12-08
 track1:
   title: Brenton Wood - Gimme Little Sign

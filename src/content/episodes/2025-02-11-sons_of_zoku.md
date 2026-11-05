@@ -3,7 +3,7 @@ published: true
 pubDate: 2025-02-16
 guest_name: Sons Of Zöku
 guest_color: trippy
-guestPic: /img/sons_of_zoku.jpg
+guestPic: https://df.mailta.pe/img/sons_of_zoku.jpg
 author: Aloyse
 illustrator: Noémie Dijon
 writer: Aloyse
@@ -15,8 +15,8 @@ description: >
   They are taking us on a beautiful trip. 
 
   Let’s dive in.
-image: /img/fbpic576.jpg
-musiColor: /img/musicolor576.png
+image: https://df.mailta.pe/img/fbpic576.jpg
+musiColor: https://df.mailta.pe/img/musicolor576.png
 alignY: "0.2"
 track1:
   title: " Fabiano Do Nascimento, Sam Gendel - Poeira"

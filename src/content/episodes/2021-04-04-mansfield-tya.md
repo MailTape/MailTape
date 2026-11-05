@@ -6,9 +6,9 @@ illustrator: Meriam Kharbat
 writer: PS KY
 guest_name: Mansfield.TYA
 guest_color: trippy
-guestPic: /img/guestpic445.jpg
-image: /img/fbpic445.png
-musiColor: /img/musicolor445.png
+guestPic: https://df.mailta.pe/img/guestpic445.jpg
+image: https://df.mailta.pe/img/fbpic445.png
+musiColor: https://df.mailta.pe/img/musicolor445.png
 description: This morning, we welcome Mansfield.TYA, a surprisingly raw music
   duo from Nantes. Their music will both illuminate and sometimes somber your
   journey. With their sensitive and sensible songs composed of accessible yet

@@ -3,7 +3,7 @@ published: true
 pubDate: 2025-06-08
 guest_name: Fulguromatic
 guest_color: trippy
-guestPic: /img/guestpic583.jpg
+guestPic: https://df.mailta.pe/img/guestpic583.jpg
 author: Anto
 illustrator: Camille Célestin
 writer: Anto
@@ -13,8 +13,8 @@ description: "As you know, Mail Tape loves to highlight unusual artists, those
   seem to make music like a crazy chemistry professor would have fun mixing
   various dangerous substances, even if it means blowing everything up. And
   BOOM! There it is: Fulguromatic!"
-image: /img/fbpic583.png
-musiColor: /img/musicolor583.png
+image: https://df.mailta.pe/img/fbpic583.png
+musiColor: https://df.mailta.pe/img/musicolor583.png
 track1:
   title: King Gizzard And The Lizard Wizard - The Fourth Colour
   color: trippy

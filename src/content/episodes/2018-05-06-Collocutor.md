@@ -6,9 +6,9 @@ illustrator: Pierre-Julien Fieux
 writer: Sanjay Mistry
 guest_name: Tamar Osborn
 guest_color: dreamy
-guestPic: /img/guestpic311.jpg
-musiColor: /img/musicolor311.png
-image: /img/fbpic311.jpg
+guestPic: https://df.mailta.pe/img/guestpic311.jpg
+musiColor: https://df.mailta.pe/img/musicolor311.png
+image: https://df.mailta.pe/img/fbpic311.jpg
 description: This morning we welcome saxophonist and flautist, Tamar Osborn, who
   leads the seven-piece horn-led collective, Collocutor, in the vanguard of
   London’s thriving music scene.

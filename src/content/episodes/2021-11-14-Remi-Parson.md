@@ -5,10 +5,10 @@ author: Anaïs G
 illustrator: Camille Célestin
 writer: Anaïs G
 guest_name: Rémi Parson
-guestPic: /img/guestpic470.jpg
+guestPic: https://df.mailta.pe/img/guestpic470.jpg
 guest_color: rough
-image: /img/fbpic470.png
-musiColor: /img/musicolor470.png
+image: https://df.mailta.pe/img/fbpic470.png
+musiColor: https://df.mailta.pe/img/musicolor470.png
 description: This morning, We sneak into the city, at the first hour, with the
   partygoers coming back from their afternoons but also market gardeners
   preparing their stalls. Later in the morning, we get intoxicated by the smell

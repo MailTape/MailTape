@@ -3,12 +3,12 @@ published: true
 pubDate: 2024-12-22
 guest_name: Attention Le Tapis Prend Feu
 guest_color: trippy
-guestPic: /img/guestpic571.jpg
+guestPic: https://df.mailta.pe/img/guestpic571.jpg
 author: Jules
 illustrator: Noémie Dijon
 writer: Jules
-image: /img/fbpic571.png
-musiColor: /img/musicolor571.png
+image: https://df.mailta.pe/img/fbpic571.png
+musiColor: https://df.mailta.pe/img/musicolor571.png
 track1:
   title: Jockstrap - Concrete Over Water
   color: dreamy

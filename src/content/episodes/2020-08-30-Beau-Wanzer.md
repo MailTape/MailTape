@@ -6,12 +6,12 @@ illustrator: Jason Pridham
 writer: Sanjay Mistry
 guest_name: Beau Wanzer
 guest_color: trippy
-guestPic: /img/guestpic414.jpg
+guestPic: https://df.mailta.pe/img/guestpic414.jpg
 description: Welcome back to a new season of MailTape! This morning we welcome
   Chicago-based woozy noodler Beau Wanzer to select three contorted Sunday
   morning tunes with us.
-musiColor: /img/musicolor414.png
-image: /img/fbpic414.png
+musiColor: https://df.mailta.pe/img/musicolor414.png
+image: https://df.mailta.pe/img/fbpic414.png
 pubDate: 2020-08-30
 track1:
   title: Brannten Schnüre – Licht

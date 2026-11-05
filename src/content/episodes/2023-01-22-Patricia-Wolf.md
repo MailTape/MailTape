@@ -6,13 +6,13 @@ illustrator: Lucie Fléty
 writer: ImaCrea
 guest_name: Patricia Wolf
 guest_color: dreamy
-guestPic: /img/guestpic514.png
+guestPic: https://df.mailta.pe/img/guestpic514.png
 description: This morning, we are delighted to welcome Patricia Wolf to
   MailTape. Patricia is a multi-instrumentalist, composer, and producer who
   draws on her natural surroundings to compose her music. Embark on a pure
   dreamy experience, sit back, and enjoy.
-musiColor: /img/musicolor514.png
-image: /img/fbpic514.png
+musiColor: https://df.mailta.pe/img/musicolor514.png
+image: https://df.mailta.pe/img/fbpic514.png
 pubDate: 2023-01-22
 track1:
   title: Carmen Villain - Portals

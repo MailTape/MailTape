@@ -4,7 +4,7 @@ pubDate: 2025-11-09
 release: 597
 guest_name: Antoine Bellanger
 guest_color: trippy
-guestPic: /img/guestpic597.jpg
+guestPic: https://df.mailta.pe/img/guestpic597.jpg
 author: ImaCrea
 illustrator: Julie Wojtczak
 writer: ImaCrea
@@ -37,8 +37,8 @@ track7:
   color: bliss
   link: https://df.mailta.pe/597/track7.mp3
 description: This morning, we are excited and honored to welcome Antoine Bellanger as our guest. You may remember his unique sound from some of his tracks featured in episodes [\#588](https://www.mailta.pe/588/gab...
-image: /img/fbpic597.jpg
-musiColor: /img/musicolor597.png
+image: https://df.mailta.pe/img/fbpic597.jpg
+musiColor: https://df.mailta.pe/img/musicolor597.png
 alignY: ''
 ---
 

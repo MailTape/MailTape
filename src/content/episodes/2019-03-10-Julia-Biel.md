@@ -6,9 +6,9 @@ illustrator: Anais Caura
 writer: Sanjay Mistry
 guest_name: Julia Biel
 guest_color: bliss
-guestPic: /img/guestpic348.jpg
-image: /img/fbpic348.jpg
-musiColor: /img/musicolor348.png
+guestPic: https://df.mailta.pe/img/guestpic348.jpg
+image: https://df.mailta.pe/img/fbpic348.jpg
+musiColor: https://df.mailta.pe/img/musicolor348.png
 description: This morning we are thrilled to welcome London-based vocalist,
   guitarist and pianist, Julia Biel, who selects three swaying Sunday tunes for
   us.

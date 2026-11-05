@@ -6,9 +6,9 @@ illustrator: Camille Célestin
 writer: ImaCrea
 guest_name: Adela Mede
 guest_color: dreamy
-guestPic: /img/guestpic526.jpg
-image: /img/fbpic526.png
-musiColor: /img/musicolor526.png
+guestPic: https://df.mailta.pe/img/guestpic526.jpg
+image: https://df.mailta.pe/img/fbpic526.png
+musiColor: https://df.mailta.pe/img/musicolor526.png
 description: This morning, we're embarking on a dreamy journey with Adela Mede.
   Her carefully selected tracks take us deep into a smooth and blissful
   soundscape, allowing us to wake up gently while keeping the dream alive

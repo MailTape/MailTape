@@ -3,7 +3,7 @@ published: true
 pubDate: 2025-02-23
 guest_name: Walter Astral
 guest_color: trippy
-guestPic: /img/guestpic577.jpg
+guestPic: https://df.mailta.pe/img/guestpic577.jpg
 author: Sarah
 illustrator: Camille Lemeunier
 writer: Sarah
@@ -15,8 +15,8 @@ description: This morning our dream tapestries cross into the sunlight, letting
   meditation and dance, the duo moves swiftly from folk to psychedelic rock to
   effervescent techno, with rich and unexpected marriages across genre and
   instruments.
-image: /img/fbpic577.jpg
-musiColor: /img/musicolor577.png
+image: https://df.mailta.pe/img/fbpic577.jpg
+musiColor: https://df.mailta.pe/img/musicolor577.png
 track1:
   title: Jacco Gardner - Descent
   color: vibrant

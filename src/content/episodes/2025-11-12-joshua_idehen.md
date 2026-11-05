@@ -3,15 +3,15 @@ published: true
 pubDate: 2025-11-16
 guest_name: Joshua Idehen
 guest_color: vibrant
-guestPic: /img/guestpic598.jpg
+guestPic: https://df.mailta.pe/img/guestpic598.jpg
 author: Sarah
 illustrator: Thibault Daumain
 description: We are full of joy to welcome musician, spoken-word artist, and
   dear guest Joshua Idehen to MailTape this morning ! Based in Stockholm, he
   gifts us today with a Sunday selection crafted with care -- just the right mix
   to start the day with some dancing ;)
-image: /img/fbpic598.png
-musiColor: /img/musicolor598.png
+image: https://df.mailta.pe/img/fbpic598.png
+musiColor: https://df.mailta.pe/img/musicolor598.png
 track1:
   title: Julio Bashmore, Sam Dew - Holding On
   color: vibrant

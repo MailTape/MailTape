@@ -6,15 +6,15 @@ guest_color: bliss
 author: ImaCrea
 illustrator: Thibault Daumain
 writer: PS KY
-guestPic: /img/guestpic384.jpg
+guestPic: https://df.mailta.pe/img/guestpic384.jpg
 description: This selection hums the voices of today. Comfort aside, just as we
   must stop listening to the common speech, it is time to expand our ears, clear
   our vision, navigate new realms and elevate from our habitual minds. A
   powerful and touching selection of tracks to ghost ourselves from the poison
   of illusions and hatred as we enter into a realm of hope wondering, as Sandra
   Nkaké says so well; what does it mean to be born?
-image: /img/fbpic384.png
-musiColor: /img/musicolor384.png
+image: https://df.mailta.pe/img/fbpic384.png
+musiColor: https://df.mailta.pe/img/musicolor384.png
 pubDate: 2019-12-15
 track1:
   title: György Ligeti - Lux Aeterna (Wergo 1988)

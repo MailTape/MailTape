@@ -6,13 +6,13 @@ guest_color: vibrant
 illustrator: Meriam Kharbat
 author: Sarah
 writer: Sarah
-guestPic: /img/guestpic507.jpg
-image: /img/fbpic507.png
+guestPic: https://df.mailta.pe/img/guestpic507.jpg
+image: https://df.mailta.pe/img/fbpic507.png
 description: With lots of love, this morning we welcome Soren Song to MailTape.
   Based in Woodstock, NY, their work is brimming with striking descriptions and
   deeply perceptive lyricism. It's a true joy to welcome them for a collection
   of tracks to start your Sunday.
-musiColor: /img/""
+musiColor: https://df.mailta.pe/img/""
 pubDate: 2022-11-27
 track1:
   title: Over The Rhine - Poughkeepsie

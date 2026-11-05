@@ -18,9 +18,9 @@ description: "For this last MailTape before our summer break, we welcome Damon
   outward record that he produced surrounded with musicians and friends: Chris
   Coady (Beach House), Panoram, Parker Kindred (Antony and The Johnsons),
   Delicate Steve …"
-guestPic: /img/guestpic320.jpg
-image: /img/fbpic320.jpg
-musiColor: /img/musicolor320.png
+guestPic: https://df.mailta.pe/img/guestpic320.jpg
+image: https://df.mailta.pe/img/fbpic320.jpg
+musiColor: https://df.mailta.pe/img/musicolor320.png
 pubDate: 2018-07-08
 track1:
   title: Beethoven - 6th Symphony (1st movement)

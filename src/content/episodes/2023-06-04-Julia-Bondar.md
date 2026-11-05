@@ -4,7 +4,7 @@ pubDate: 2023-06-04
 release: 529
 guest_name: Julia Bondar
 guest_color: rough
-guestPic: /img/guestpic529.jpg
+guestPic: https://df.mailta.pe/img/guestpic529.jpg
 author: Anto
 illustrator: Lucie Fléty
 writer: Anto
@@ -41,8 +41,8 @@ description: |-
   We didn't see it coming. It’s like we got stuck in that club, where we lived a thousand lives in a single night.
   <br>
     From the frenzied rhythms that...
-image: /img/fbpic529.jpg
-musiColor: /img/musicolor529.png
+image: https://df.mailta.pe/img/fbpic529.jpg
+musiColor: https://df.mailta.pe/img/musicolor529.png
 alignY: ''
 bigTitle_font_ratio: '6'
 ---

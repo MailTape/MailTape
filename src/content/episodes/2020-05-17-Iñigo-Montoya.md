@@ -1,14 +1,14 @@
 ---
 bigTitle_font_ratio: "6"
-guestPic: /img/guestpic406.jpg
+guestPic: https://df.mailta.pe/img/guestpic406.jpg
 guest_color: trippy
 guest_name: "Iñigo Montoya "
 writer: Anaïs G
 illustrator: Thibault Daumain
 author: Anaïs G
 published: true
-image: /img/fbpic406.png
-musiColor: /img/musicolor406.png
+image: https://df.mailta.pe/img/fbpic406.png
+musiColor: https://df.mailta.pe/img/musicolor406.png
 description: This morning, we're everyday superheroes. We're trying to get back
   to a more "normal" life, little by little. Resume good habits by protecting
   yourself and others. And to accompany us in this new life, nothing like the

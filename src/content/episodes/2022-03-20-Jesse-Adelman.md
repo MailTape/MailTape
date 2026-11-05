@@ -6,9 +6,9 @@ illustrator: Julie Wojtczak
 writer: Sarah
 guest_name: Jesse Adelman
 guest_color: dreamy
-guestPic: /img/guestpic486.jpg
-musiColor: /img/musicolor486.png
-image: /img/fbpic486.png
+guestPic: https://df.mailta.pe/img/guestpic486.jpg
+musiColor: https://df.mailta.pe/img/musicolor486.png
+image: https://df.mailta.pe/img/fbpic486.png
 description: Today, we welcome Jesse Adelman for a collection of easy moving
   tracks to start your Sunday. Multi-instrumentalist songwriter based in the
   Bronx, Jesse released his solo debut album, Strangers, in December of last

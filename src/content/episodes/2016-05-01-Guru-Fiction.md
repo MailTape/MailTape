@@ -5,9 +5,9 @@ writer: PS KY
 guest_name: "Guru Fiction "
 guest_color: vibrant
 bigTitle_font_ratio: "6"
-guestPic: /img/guestpic215.jpg
-image: /img/fbpic215.jpg
-musiColor: /img/musicolor215.png
+guestPic: https://df.mailta.pe/img/guestpic215.jpg
+image: https://df.mailta.pe/img/fbpic215.jpg
+musiColor: https://df.mailta.pe/img/musicolor215.png
 description: This morning, I am not quite sure how to say it, but even if the
   sun's not yet on your side of the world or, if you've felt any hints of
   melancholy and your soul is morose, I won't guarantee to clear the skies, but

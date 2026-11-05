@@ -3,12 +3,12 @@ bigTitle_font_ratio: "6"
 published: true
 guest_name: Misha Panfilov
 guest_color: vibrant
-guestPic: /img/guestpic456.jpg
+guestPic: https://df.mailta.pe/img/guestpic456.jpg
 writer: Sarah
 illustrator: Jason Pridham
 author: Sarah
-musiColor: /img/musicolor456.png
-image: /img/fbpic456.png
+musiColor: https://df.mailta.pe/img/musicolor456.png
+image: https://df.mailta.pe/img/fbpic456.png
 description: We begin our Sunday morning with a cosmic cowboy selection of
   tracks led by our dear guest Misha Panfilov. Based in Tallinn, Estonia,
   Misha's music engages in the evolving cross section between folk, funk, jazz,

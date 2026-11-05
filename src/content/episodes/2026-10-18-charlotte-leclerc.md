@@ -4,7 +4,7 @@ pubDate: 2026-10-18
 release: 617
 guest_name: Charlotte Leclerc
 guest_color: trippy
-guestPic: /img/guestpic617.jpg
+guestPic: https://df.mailta.pe/img/guestpic617.jpg
 author: ImaCrea
 illustrator: Thibault Daumain
 writer: ImaCrea
@@ -37,8 +37,8 @@ track7:
   color: trippy
   link: https://df.mailta.pe/617/track7.mp3
 description: This morning, we're very excited to welcome [Charlotte Leclerc](https://delodiolabel.bandcamp.com/album/charlotte-leclerc-moir-del20) for a full-on trippy episode. I discovered her while browsing [Del...
-image: /img/fbpic617.png
-musiColor: /img/musicolor617.png
+image: https://df.mailta.pe/img/fbpic617.png
+musiColor: https://df.mailta.pe/img/musicolor617.png
 alignY: ''
 ---
 

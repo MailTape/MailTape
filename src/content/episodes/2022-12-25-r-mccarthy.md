@@ -6,13 +6,13 @@ writer: Sarah
 illustrator: Meriam Kharbat
 guest_name: r mccarthy
 guest_color: dreamy
-guestPic: /img/guestpic511.jpg
-image: /img/fbpic511.png
+guestPic: https://df.mailta.pe/img/guestpic511.jpg
+image: https://df.mailta.pe/img/fbpic511.png
 description: "  We are overjoyed to welcome r mccarthy to MailTape this Sunday
   morning :) His selection embraces new worlds of new age music, stretching time
   and sound into spaces unknown -- carrying creativity into these early morning
   hours. "
-musiColor: /img/musicolor511.png
+musiColor: https://df.mailta.pe/img/musicolor511.png
 pubDate: 2022-12-25
 track1:
   title: Operating Theatre - Elation After Hours

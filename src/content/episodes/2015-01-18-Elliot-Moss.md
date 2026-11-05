@@ -5,9 +5,9 @@ guest_color: dreamy
 bigTitle_font_ratio: "5"
 bigTitle_line_ratio: "0.7"
 guest_name: Elliot Moss
-guestPic: /img/guestpic169.jpg
-image: /img/fbpic169b.jpg
-musiColor: /img/musicolor169.png
+guestPic: https://df.mailta.pe/img/guestpic169.jpg
+image: https://df.mailta.pe/img/fbpic169b.jpg
+musiColor: https://df.mailta.pe/img/musicolor169.png
 description: This morning, let the young talented Elliot Moss and his dreamy
   inspiration help us in our attempt to get over this hangover we’re all feeling
   since the 7th.

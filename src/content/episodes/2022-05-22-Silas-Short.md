@@ -6,14 +6,14 @@ writer: ImaCrea
 illustrator: Noémie Dijon
 guest_name: Silas Short
 guest_color: bliss
-guestPic: /img/guestpic494.jpg
-musiColor: /img/musicolor494.png
+guestPic: https://df.mailta.pe/img/guestpic494.jpg
+musiColor: https://df.mailta.pe/img/musicolor494.png
 description: This morning we’re in excellent company with Silas Short from the
   legendary Stones Throw Record family. Young and very talented, his debut EP,
   “Drawing”, develops a rich soundscape carved with his very own signature.
   We’re very honored to have him with us today and pleased to share that
   pleasure with you. Let’s groove.
-image: /img/fbpic494.jpg
+image: https://df.mailta.pe/img/fbpic494.jpg
 pubDate: 2022-05-22
 track1:
   title: Whatnauts - I’ll Erase Away Your Pain

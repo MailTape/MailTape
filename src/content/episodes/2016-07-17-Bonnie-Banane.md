@@ -5,9 +5,9 @@ author: Louise
 illustrator: William Girault
 guest_name: Bonnie Banane
 guest_color: dreamy
-guestPic: /img/guestpic225.jpg
-image: /img/fbpic225.jpg
-musiColor: /img/musicolor225.png
+guestPic: https://df.mailta.pe/img/guestpic225.jpg
+image: https://df.mailta.pe/img/fbpic225.jpg
+musiColor: https://df.mailta.pe/img/musicolor225.png
 description: a nostalgic jaunt through the 90’s with Bonnie Banane !
 pubDate: 2016-07-17
 track1:

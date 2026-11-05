@@ -4,7 +4,7 @@ pubDate: 2019-07-21
 release: 367
 guest_name: Labotanique
 guest_color: trippy
-guestPic: /img/guestpic367.jpg
+guestPic: https://df.mailta.pe/img/guestpic367.jpg
 author: Anaïs G
 illustrator: Camille Célestin
 writer: Anaïs G
@@ -37,8 +37,8 @@ track7:
   color: bliss
   link: https://df.mailta.pe/367/track7.mp3
 description: This morning we leave in the forest far from the city, far from pollution, far from the crowded streets of tourists... A moment to get green, to recharge one's batteries in the country, is the philoso...
-image: /img/fbpic367.png
-musiColor: /img/musicolor367.png
+image: https://df.mailta.pe/img/fbpic367.png
+musiColor: https://df.mailta.pe/img/musicolor367.png
 alignY: ''
 bigTitle_font_ratio: '6'
 ---

@@ -4,15 +4,15 @@ author: ImaCrea
 guest_color: vibrant
 bigTitle_font_ratio: "6"
 guest_name: Degiheugi
-guestPic: /img/guestpic198.jpg
+guestPic: https://df.mailta.pe/img/guestpic198.jpg
 description: "This morning, get ready for a journey through a legendary wild
   forest known for its hidden gems. Let’s start our exploration with Degiheugi,
   master in the art of finding the best samples.   Keep your eyes opened, let
   the music flow feed your imagination and soon you’ll be able to see them.
   Shining from a little corner under a magic tree, these beats develop their
   full potential as your heart connects to their mystic waves. "
-musiColor: /img/musicolor198.png
-image: /img/fbpic198.jpg
+musiColor: https://df.mailta.pe/img/musicolor198.png
+image: https://df.mailta.pe/img/fbpic198.jpg
 pubDate: 2015-08-09
 track1:
   title: " Jorge Ben Jor - Oba, la vem ela "

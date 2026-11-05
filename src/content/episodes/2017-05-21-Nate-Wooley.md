@@ -4,10 +4,10 @@ published: true
 author: Sanjay Mistry
 guest_color: trippy
 guest_name: Nate Wooley
-guestPic: /img/guestpic261.jpg
+guestPic: https://df.mailta.pe/img/guestpic261.jpg
 illustrator: William Girault
-image: /img/fbpic261.jpg
-musiColor: /img/musicolor261.png
+image: https://df.mailta.pe/img/fbpic261.jpg
+musiColor: https://df.mailta.pe/img/musicolor261.png
 description: We are super happy to welcome experimental trumpeter, Nate Wooley,
   in this week's issue. Nate recalls the rain-soaked Pacific Northwest he once
   called home and provides a glimpse into his gentler Sunday morning listening.

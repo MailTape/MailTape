@@ -4,7 +4,7 @@ pubDate: 2019-06-23
 release: 363
 guest_name: Entracte Twist
 guest_color: rough
-guestPic: /img/guestpic363.jpg
+guestPic: https://df.mailta.pe/img/guestpic363.jpg
 author: Anaïs G
 illustrator: Camille Célestin
 writer: Anaïs G
@@ -39,8 +39,8 @@ track7:
 description: |-
   This morning, we take out the guitars, adjust our strings test the sound with the amp in boring neighbors...  And let our fingers slide so that we can wake up our faithful on Sunday morning.
   <br><br>...
-image: /img/fbpic363.png
-musiColor: /img/musicolor363.png
+image: https://df.mailta.pe/img/fbpic363.png
+musiColor: https://df.mailta.pe/img/musicolor363.png
 alignY: ''
 bigTitle_font_ratio: '6'
 ---

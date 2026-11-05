@@ -3,7 +3,7 @@ published: true
 pubDate: 2025-12-14
 guest_name: Antoine Ferris
 guest_color: trippy
-guestPic: /img/guestpic600.jpg
+guestPic: https://df.mailta.pe/img/guestpic600.jpg
 author: ImaCrea
 illustrator: Noémie Dijon
 writer: ImaCrea
@@ -15,8 +15,8 @@ description: This morning, we're extremely grateful to celebrate our 600th
   abstract mental landscapes that remind me of Gerhard Richter's paintings. He
   mentioned he’s about to release an album soon, so be sure to keep an eye out
   for it.
-image: /img/fbpic600.jpg
-musiColor: /img/musicolor600.png
+image: https://df.mailta.pe/img/fbpic600.jpg
+musiColor: https://df.mailta.pe/img/musicolor600.png
 track1:
   title: Lukas Koenig - Full Mantis (ft. Guilty Simpson)
   color: rough

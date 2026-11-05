@@ -5,14 +5,14 @@ author: Anaïs G
 illustrator: Camille Célestin
 guest_name: "Cam Maclean "
 guest_color: dreamy
-guestPic: /img/guestpic339.jpg
+guestPic: https://df.mailta.pe/img/guestpic339.jpg
 description: This morning, we are embarking on a year filled with joy, love and
   surprises. It shall also astonish us with many musical discoveries and
   auditory newness. Our journey, headed by captain Cam Maclean, promises a
   Sunday filled with hope and sweetness.
-image: /img/fbpic339.png
+image: https://df.mailta.pe/img/fbpic339.png
 writer: Anaïs G
-musiColor: /img/musicolor339.png
+musiColor: https://df.mailta.pe/img/musicolor339.png
 pubDate: 2019-01-06
 track1:
   title: Cadence Weapon - Five Roses (feat. Blue Hawaii)

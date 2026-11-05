@@ -3,7 +3,7 @@ published: true
 pubDate: 2025-07-27
 guest_name: Maya Dhondt
 guest_color: trippy
-guestPic: /img/maya_dhondt.jpg
+guestPic: https://df.mailta.pe/img/maya_dhondt.jpg
 author: Anto
 illustrator: null
 writer: Anto
@@ -14,8 +14,8 @@ description: >-
   sonic fireworks that we hope will be joyful, intense, and memorable! A
   beautiful mess made of strange and fascinating sounds. Some unclassifiable
   melodies, some wild herbs that grow where you least expect them...
-image: /img/fbpic589.png
-musiColor: /img/musicolor589.png
+image: https://df.mailta.pe/img/fbpic589.png
+musiColor: https://df.mailta.pe/img/musicolor589.png
 track1:
   title: Nihiloxica  - Choir Chops
   color: vibrant

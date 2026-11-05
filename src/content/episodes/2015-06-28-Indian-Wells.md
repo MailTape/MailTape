@@ -5,9 +5,9 @@ guest_color: trippy
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
 guest_name: Indian Wells
-guestPic: /img/guestpic192.jpg
-musiColor: /img/musicolor192.png
-image: /img/fbpic192.jpg
+guestPic: https://df.mailta.pe/img/guestpic192.jpg
+musiColor: https://df.mailta.pe/img/musicolor192.png
+image: https://df.mailta.pe/img/fbpic192.jpg
 description: This morning, our italian guest Indian Wells brings us to a
   captivating and overpowering world. Night sweatiness and rising morning are
   his kingdom. No matter what you did last night, he's gonna transform your

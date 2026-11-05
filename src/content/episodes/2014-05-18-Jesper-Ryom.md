@@ -5,9 +5,9 @@ guest_color: vibrant
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
 guest_name: Jesper Ryom
-guestPic: /img/guestpic141.jpg
-image: /img/fbpic141.jpg
-musiColor: /img/musicolor141.png
+guestPic: https://df.mailta.pe/img/guestpic141.jpg
+image: https://df.mailta.pe/img/fbpic141.jpg
+musiColor: https://df.mailta.pe/img/musicolor141.png
 description: his Morning, Jesper Ryom inspired us a mostly vibrant MailTape
   which we hope will help you enjoy your sunday morning. His selection is a
   combination of hidden indie jewels and a bit of heavy Berlin music. We've
