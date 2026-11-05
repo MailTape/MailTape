@@ -1,19 +1,13 @@
 ---
 published: true
 pubDate: 2024-11-03
+release: 564
 guest_name: Rosie Lowe
 guest_color: dreamy
 guestPic: https://df.mailta.pe/img/guestpic564.jpg
 author: Sarah
 illustrator: Thibault Daumain
 writer: Sarah
-description: Your Sunday in all its softness :) This morning, MailTape is
-  delighted to welcome singer Rosie Lowe for a selection of soulful, sweeping,
-  deep listening. The London-based singer joins us following the release of her
-  album Lover, Other. With releases marked by swells of choral patchworks, a
-  capella avant-garde, and jazz-funk harmonies, every listen from Rosie Lowe is
-  a mosaic to discover. A gift for you this morning !
-musiColor: https://df.mailta.pe/img/musicolor_564.png
 track1:
   title: Pete Josef - Sunny Side Up
   color: bliss
@@ -42,8 +36,12 @@ track7:
   title: Rosie Lowe, Duval Timothy - Son
   color: bliss
   link: https://df.mailta.pe/564/track7.mp3
-release: 564
+description: Your Sunday in all its softness :) This morning, MailTape is delighted to welcome singer [Rosie Lowe](https://rosielowe.bandcamp.com/) for a selection of sweeping soulful deep listening. The London-ba...
+image: https://df.mailta.pe/img/guestpic564.jpg
+musiColor: https://df.mailta.pe/img/musicolor_564.png
+alignY: ''
 ---
+
 Your Sunday in all its softness :) This morning, MailTape is delighted to welcome singer [Rosie Lowe](https://rosielowe.bandcamp.com/) for a selection of sweeping soulful deep listening. The London-based singer joins us following the release of her album [Lover, Other](https://rosielowe.bandcamp.com/album/lover-other). Rosie Lowe's releases are marked by swells of intricate choral patchworks, a capella avant-garde, and jazz-funk harmonies -- every listen hints at more to discover. A gift for you this morning !
 
 # Rosie Lowe's selection
