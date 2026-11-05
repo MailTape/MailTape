@@ -8,12 +8,6 @@ guestPic: https://df.mailta.pe/img/guestpic372.jpg
 author: Anaïs G
 illustrator: William Girault
 writer: Anaïs G
-image: https://df.mailta.pe/img/fbpic372.png
-description: This morning, we are entering a lovely and floating retro Sunday
-  vibe. Fondling in vitamin induced subtilties, this selection of tracks will
-  pull you out of this morning’s hazy fog. Lenny Pistol will be your guide for
-  this morning’s episode.
-pubDate: 2019-09-22
 track1:
   title: Family Time - Magic Abyss Hotel
   color: dreamy
