@@ -37,8 +37,8 @@ track7:
   color: bliss
   link: https://df.mailta.pe/619/track7.mp3
 description: This morning, we're experimenting with a new series centered around the concept of swimming. Whether it's in the sea, a swimming pool, or a river... swimming engages the body in a unique way. As we mo...
-image: /img/fbpic619.jpg
-musiColor: /img/musicolor619.png
+image: https://df.mailta.pe/img/fbpic619.jpg
+musiColor: https://df.mailta.pe/img/musicolor619.png
 alignY: ''
 ---
 
