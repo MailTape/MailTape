@@ -1,20 +1,13 @@
 ---
 published: true
 pubDate: 2025-06-08
+release: 583
 guest_name: Fulguromatic
 guest_color: trippy
 guestPic: https://df.mailta.pe/img/guestpic583.jpg
 author: Anto
 illustrator: Camille Célestin
 writer: Anto
-description: "As you know, Mail Tape loves to highlight unusual artists, those
-  who are not afraid to flirt with extravagance to propel music towards joyful
-  and new horizons. This is the case for our guests today, a singular duo who
-  seem to make music like a crazy chemistry professor would have fun mixing
-  various dangerous substances, even if it means blowing everything up. And
-  BOOM! There it is: Fulguromatic!"
-image: https://df.mailta.pe/img/fbpic583.png
-musiColor: https://df.mailta.pe/img/musicolor583.png
 track1:
   title: King Gizzard And The Lizard Wizard - The Fourth Colour
   color: trippy
@@ -28,11 +21,11 @@ track3:
   color: bliss
   link: https://df.mailta.pe/583/track3.mp3
 track4:
-  title: "Fulguromatic - The Sigh of a Whittled Grove "
+  title: Fulguromatic - The Sigh of a Whittled Grove
   color: trippy
   link: https://df.mailta.pe/583/track4.mp3
 track5:
-  title: 'Celine Dessberg - Сэлэнгэ "Selenge" '
+  title: Celine Dessberg - Сэлэнгэ "Selenge"
   color: dreamy
   link: https://df.mailta.pe/583/track5.mp3
 track6:
@@ -43,8 +36,12 @@ track7:
   title: Mad Curry -Music, The Reason Of Our Happiness
   color: trippy
   link: https://df.mailta.pe/583/track7.mp3
-release: 583
+description: As you know, Mail Tape loves to highlight unusual artists, those who are not afraid to flirt with extravagance to propel music towards joyful and new horizons. This is the case for our guests today, a...
+image: https://df.mailta.pe/img/guestpic583.jpg
+musiColor: https://df.mailta.pe/img/musicolor583.png
+alignY: ''
 ---
+
 As you know, Mail Tape loves to highlight unusual artists, those who are not afraid to flirt with extravagance to propel music towards joyful and new horizons. This is the case for our guests today, a singular duo who seem to make music like a crazy chemistry professor would have fun mixing various dangerous substances, even if it means blowing everything up. And BOOM! There it is: Fulguromatic!
 
 
