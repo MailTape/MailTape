@@ -15,31 +15,31 @@ pubDate: 2017-10-08
 track1:
   title: Alessandro Cortini — Scappa
   color: bliss
-  link: https://sounds.mailta.pe/281/track1.mp3
+  link: https://df.mailta.pe/281/track1.mp3
 track2:
   title: Lana Del Rey — Love
   color: dreamy
-  link: https://sounds.mailta.pe/281/track2.mp3
+  link: https://df.mailta.pe/281/track2.mp3
 track3:
   title: Paul Seul — Lycamobile
   color: trippy
-  link: https://sounds.mailta.pe/281/track3.mp3
+  link: https://df.mailta.pe/281/track3.mp3
 track4:
   title: Maud Geffray — Polaar
   color: vibrant
-  link: https://sounds.mailta.pe/281/track4.mp3
+  link: https://df.mailta.pe/281/track4.mp3
 track5:
   title: Helena Hauff — Gift
   color: bliss
-  link: https://sounds.mailta.pe/281/track5.mp3
+  link: https://df.mailta.pe/281/track5.mp3
 track6:
   title: Gang Signs — Prequel
   color: bliss
-  link: https://sounds.mailta.pe/281/track6.mp3
+  link: https://df.mailta.pe/281/track6.mp3
 track7:
   title: Hiroshi Yoshimura (吉村弘) — Dance PM
   color: dreamy
-  link: https://sounds.mailta.pe/281/track7.mp3
+  link: https://df.mailta.pe/281/track7.mp3
 release: 281
 ---
 This morning we welcome the amazing producer [Maud Geffray](https://www.facebook.com/maudgeffray75/) on MailTape. Her [solo album 'POLAAR'](https://paneuropeanrecording.bandcamp.com/album/polaar) is a multi-layered gem of cold electronic music. Today’s episode is a rollercoaster of emotions and feelings melted in electronic sounds. I hope you're ready for the ride! I’m really proud of this episode, and I'd love to hear your thoughts on this.

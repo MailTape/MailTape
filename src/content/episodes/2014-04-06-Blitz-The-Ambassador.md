@@ -18,31 +18,31 @@ pubDate: 2014-04-06
 track1:
   title: Bob James - Nautilus
   color: bliss
-  link: https://sounds.mailta.pe/135/track1.mp3
+  link: https://df.mailta.pe/135/track1.mp3
 track2:
   title: Electric Wire Hustle – Waters
   color: trippy
-  link: https://sounds.mailta.pe/135/track2.mp3
+  link: https://df.mailta.pe/135/track2.mp3
 track3:
   title: DJ 100 Proof Happy Mentality
   color: bliss
-  link: https://sounds.mailta.pe/135/track3.mp3
+  link: https://df.mailta.pe/135/track3.mp3
 track4:
   title: Blitz The Ambassador - Make You No Forget Ft. Seun Kuti
   color: vibrant
-  link: https://sounds.mailta.pe/135/track4.mp3
+  link: https://df.mailta.pe/135/track4.mp3
 track5:
   title: Brigitte Bardot - La Madrague (Anna Paul rework)
   color: dreamy
-  link: https://sounds.mailta.pe/135/track5.mp3
+  link: https://df.mailta.pe/135/track5.mp3
 track6:
   title: Marvin Gaye - What's Goin On (Paulie's Potown Reflip)
   color: bliss
-  link: https://sounds.mailta.pe/135/track6.mp3
+  link: https://df.mailta.pe/135/track6.mp3
 track7:
   title: Simba - Jaywalking (Redsoul remix)
   color: rough
-  link: https://sounds.mailta.pe/135/track7.mp3
+  link: https://df.mailta.pe/135/track7.mp3
 release: 135
 ---
 

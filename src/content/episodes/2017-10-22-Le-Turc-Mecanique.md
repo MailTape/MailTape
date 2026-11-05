@@ -20,31 +20,31 @@ pubDate: 2017-10-22
 track1:
   title: Colombey - La dernière 8.6 de la ville
   color: trippy
-  link: https://sounds.mailta.pe/283/track1.mp3
+  link: https://df.mailta.pe/283/track1.mp3
 track2:
   title: Nina Harker - Crepuscùlo
   color: dreamy
-  link: https://sounds.mailta.pe/283/track2.mp3
+  link: https://df.mailta.pe/283/track2.mp3
 track3:
   title: Sundae - Verano-Invierno
   color: dreamy
-  link: https://sounds.mailta.pe/283/track3.mp3
+  link: https://df.mailta.pe/283/track3.mp3
 track4:
   title: Jardin - Mon amour n’a pas de sexe
   color: trippy
-  link: https://sounds.mailta.pe/283/track4.mp3
+  link: https://df.mailta.pe/283/track4.mp3
 track5:
   title: Utro - Kak Zhe Ya Byl Slab V Te Dni
   color: trippy
-  link: https://sounds.mailta.pe/283/track5.mp3
+  link: https://df.mailta.pe/283/track5.mp3
 track6:
   title: Police des Moeurs - Heure Bleue
   color: vibrant
-  link: https://sounds.mailta.pe/283/track6.mp3
+  link: https://df.mailta.pe/283/track6.mp3
 track7:
   title: Chris Rubeo - Lover’s Spit
   color: dreamy
-  link: https://sounds.mailta.pe/283/track7.mp3
+  link: https://df.mailta.pe/283/track7.mp3
 release: 283
 ---
 This morning, take some time to listen to [Le Turc Mécanique](https://www.facebook.com/leturcmecanique/)'s delightful selection, for a morning that gets sweeter by every minute.<br>

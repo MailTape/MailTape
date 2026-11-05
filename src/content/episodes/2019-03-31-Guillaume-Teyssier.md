@@ -21,31 +21,31 @@ pubDate: 2019-03-31
 track1:
   title: Caetano Veloso - Maria Bethania
   color: dreamy
-  link: https://sounds.mailta.pe/351/track1.mp3
+  link: https://df.mailta.pe/351/track1.mp3
 track2:
   title: Deux - Game and Performance
   color: rough
-  link: https://sounds.mailta.pe/351/track2.mp3
+  link: https://df.mailta.pe/351/track2.mp3
 track3:
   title: Mogollar (Les Mogols) - Muzik Mogollar
   color: dreamy
-  link: https://sounds.mailta.pe/351/track3.mp3
+  link: https://df.mailta.pe/351/track3.mp3
 track4:
   title: Guillaume Teyssier - Give It Up
   color: bliss
-  link: https://sounds.mailta.pe/351/track4.mp3
+  link: https://df.mailta.pe/351/track4.mp3
 track5:
   title: Tek.lun - Les Elephants
   color: trippy
-  link: https://sounds.mailta.pe/351/track5.mp3
+  link: https://df.mailta.pe/351/track5.mp3
 track6:
   title: Sabrina Rich - Smooth Operator (Duckcomb discomix)
   color: vibrant
-  link: https://sounds.mailta.pe/351/track6.mp3
+  link: https://df.mailta.pe/351/track6.mp3
 track7:
   title: Wolf Müller meets the Nile Project - Mabomba Dance
   color: vibrant
-  link: https://sounds.mailta.pe/351/track7.mp3
+  link: https://df.mailta.pe/351/track7.mp3
 release: 351
 ---
 This morning we welcome [Guillaume Teyssier](https://guillaumeteyssier.bandcamp.com/) from the great [Tigersushi Record](//tigersushi.com) label. He accepted our invitation to come and play live at our [MailTape Live 3rd edition](https://www.facebook.com/events/423163478488715/) at the Popup... on next Saturday! ([tickets almost sold out!](https://www.helloasso.com/associations/mailtape/evenements/mailtape-live-3))

@@ -18,31 +18,31 @@ pubDate: 2015-05-31
 track1:
   title: Florian Kupfer ~ SAD 001 A
   color: bliss
-  link: https://sounds.mailta.pe/188/track1.mp3
+  link: https://df.mailta.pe/188/track1.mp3
 track2:
   title: Florist - Marine Drive
   color: vibrant
-  link: https://sounds.mailta.pe/188/track2.mp3
+  link: https://df.mailta.pe/188/track2.mp3
 track3:
   title: Infamous Boogieman ~ Revenge Tactics
   color: dreamy
-  link: https://sounds.mailta.pe/188/track3.mp3
+  link: https://df.mailta.pe/188/track3.mp3
 track4:
   title: Project Pablo ~ The Feeling
   color: bliss
-  link: https://sounds.mailta.pe/188/track4.mp3
+  link: https://df.mailta.pe/188/track4.mp3
 track5:
   title: Fulbert ~ Night Ride
   color: rough
-  link: https://sounds.mailta.pe/188/track5.mp3
+  link: https://df.mailta.pe/188/track5.mp3
 track6:
   title: Essence ~ Just a Touch (Jazz Element Mix)
   color: dreamy
-  link: https://sounds.mailta.pe/188/track6.mp3
+  link: https://df.mailta.pe/188/track6.mp3
 track7:
   title: Fouk ~ Kill Frenzy
   color: rough
-  link: https://sounds.mailta.pe/188/track7.mp3
+  link: https://df.mailta.pe/188/track7.mp3
 release: 188
 ---
 

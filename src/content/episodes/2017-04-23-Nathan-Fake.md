@@ -18,31 +18,31 @@ pubDate: 2017-04-23
 track1:
   title: Home - Resonance
   color: dreamy
-  link: https://sounds.mailta.pe/257/track1.mp3
+  link: https://df.mailta.pe/257/track1.mp3
 track2:
   title: Kaitlyn Aurelia Smith - When I Try I'm Full
   color: trippy
-  link: https://sounds.mailta.pe/257/track2.mp3
+  link: https://df.mailta.pe/257/track2.mp3
 track3:
   title: Aphex Twin - xtal
   color: trippy
-  link: https://sounds.mailta.pe/257/track3.mp3
+  link: https://df.mailta.pe/257/track3.mp3
 track4:
   title: Nathan Fake - unen
   color: trippy
-  link: https://sounds.mailta.pe/257/track4.mp3
+  link: https://df.mailta.pe/257/track4.mp3
 track5:
   title: Charlotte Adigéry - Le Froid
   color: trippy
-  link: https://sounds.mailta.pe/257/track5.mp3
+  link: https://df.mailta.pe/257/track5.mp3
 track6:
   title: Clark - Aftermath
   color: trippy
-  link: https://sounds.mailta.pe/257/track6.mp3
+  link: https://df.mailta.pe/257/track6.mp3
 track7:
   title: William Basinski - For David Robert Jones
   color: dreamy
-  link: https://sounds.mailta.pe/257/track7.mp3
+  link: https://df.mailta.pe/257/track7.mp3
 release: 257
 ---
 This morning let's welcome [Nathan Fake](http://www.nathanfake.com/). He just released a new album with our dear folks from [Ninja Tune](https://ninjatune.net). Known for his innovative and smoothly provocative work in electronic music, be prepared to embark on a mesmerizing trip towards clarity and peace of mind, two things well needed... especially today in France.

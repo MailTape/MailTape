@@ -16,31 +16,31 @@ pubDate: 2018-03-11
 track1:
   title: Chopin - Etude po. 25 n. 11 ‘Le Vent d’Hiver’
   color: vibrant
-  link: https://sounds.mailta.pe/303/track1.mp3
+  link: https://df.mailta.pe/303/track1.mp3
 track2:
   title: Karl Heinz Schäfer - Exterieur, Exterieur Nuit
   color: vibrant
-  link: https://sounds.mailta.pe/303/track2.mp3
+  link: https://df.mailta.pe/303/track2.mp3
 track3:
   title: The Beegees - You Should Be Dancing
   color: trippy
-  link: https://sounds.mailta.pe/303/track3.mp3
+  link: https://df.mailta.pe/303/track3.mp3
 track4:
   title: Calypso Valois - Le Jour
   color: vibrant
-  link: https://sounds.mailta.pe/303/track4.mp3
+  link: https://df.mailta.pe/303/track4.mp3
 track5:
   title: Khruangbin - Cómo Me Quieres
   color: trippy
-  link: https://sounds.mailta.pe/303/track5.mp3
+  link: https://df.mailta.pe/303/track5.mp3
 track6:
   title: Petula Clark - La Nuit N’en Finit Plus
   color: rough
-  link: https://sounds.mailta.pe/303/track6.mp3
+  link: https://df.mailta.pe/303/track6.mp3
 track7:
   title: Soft Cell - Say Hello Wave Goodbye
   color: dreamy
-  link: https://sounds.mailta.pe/303/track7.mp3
+  link: https://df.mailta.pe/303/track7.mp3
 release: 303
 ---
 This morning in our new episode, we enter into the world of movies. And to guide us in our journey, I'm delighted to have [Calypso Valois](https://www.facebook.com/calypsovalois/ "Calypso Valois's Facebook page") as our guest. Calypso Valois seems to be one of those timeless artists. Elli And Jacno's daughter, Etienne Daho's goddaughter, she naturally follows the lead of her elders, and continues their mission to magnify the French language.

@@ -21,31 +21,31 @@ pubDate: 2018-10-28
 track1:
   title: Porches - Country
   color: dreamy
-  link: https://sounds.mailta.pe/329/track1.mp3
+  link: https://df.mailta.pe/329/track1.mp3
 track2:
   title: Donna Lewis – I Love You Always Forever
   color: bliss
-  link: https://sounds.mailta.pe/329/track2.mp3
+  link: https://df.mailta.pe/329/track2.mp3
 track3:
   title: Cleaners From Venus – Corridor of Dreams
   color: vibrant
-  link: https://sounds.mailta.pe/329/track3.mp3
+  link: https://df.mailta.pe/329/track3.mp3
 track4:
   title: Keep Dancing Inc – Back Against Yours
   color: bliss
-  link: https://sounds.mailta.pe/329/track4.mp3
+  link: https://df.mailta.pe/329/track4.mp3
 track5:
   title: Black Marble – A Great Design
   color: vibrant
-  link: https://sounds.mailta.pe/329/track5.mp3
+  link: https://df.mailta.pe/329/track5.mp3
 track6:
   title: Patience – White of An Eye
   color: dreamy
-  link: https://sounds.mailta.pe/329/track6.mp3
+  link: https://df.mailta.pe/329/track6.mp3
 track7:
   title: Idiot Glee - Pinkwood
   color: dreamy
-  link: https://sounds.mailta.pe/329/track7.mp3
+  link: https://df.mailta.pe/329/track7.mp3
 release: 329
 ---
 

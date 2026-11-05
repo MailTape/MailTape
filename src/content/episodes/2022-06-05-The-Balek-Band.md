@@ -16,31 +16,31 @@ pubDate: 2022-06-05
 track1:
   title: Marvin Gaye - What's Going On (Rhythm 'N' Strings Mix)
   color: dreamy
-  link: https://sounds.mailta.pe/496/track1.mp3
+  link: https://df.mailta.pe/496/track1.mp3
 track2:
   title: Patrick Jahn - Abenteuer überm Schrank
   color: bliss
-  link: https://sounds.mailta.pe/496/track2.mp3
+  link: https://df.mailta.pe/496/track2.mp3
 track3:
   title: Jules-Henry Malaki - Tes Idées
   color: vibrant
-  link: https://sounds.mailta.pe/496/track3.mp3
+  link: https://df.mailta.pe/496/track3.mp3
 track4:
   title: The Balek Band - Balek Zouk
   color: trippy
-  link: https://sounds.mailta.pe/496/track4.mp3
+  link: https://df.mailta.pe/496/track4.mp3
 track5:
   title: Diogo Strausz - Deixa a Gira Girar
   color: trippy
-  link: https://sounds.mailta.pe/496/track5.mp3
+  link: https://df.mailta.pe/496/track5.mp3
 track6:
   title: Paula Tape - Body Nature
   color: bliss
-  link: https://sounds.mailta.pe/496/track6.mp3
+  link: https://df.mailta.pe/496/track6.mp3
 track7:
   title: Wau Wau Collectif - Salamaleikoum
   color: vibrant
-  link: https://sounds.mailta.pe/496/track7.mp3
+  link: https://df.mailta.pe/496/track7.mp3
 release: 496
 ---
  This morning, we are delighted to welcome Nantes-based group [The Balek Band](https://thebalekband.bandcamp.com/album/m-decines?fbclid=IwAR1PV_q4gHxw9JSDMam3MOnjfmvC2vDlYqtDzRdf5HgEQcboptdU7toVggM). Their very first album, <i>"Médecines"</i>, was freshly released last Friday, and they can't wait to share their musical universe with us!

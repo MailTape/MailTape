@@ -16,31 +16,31 @@ pubDate: 2016-04-10
 track1:
   title: Recondite - Robur
   color: dreamy
-  link: https://sounds.mailta.pe/212/track1.mp3
+  link: https://df.mailta.pe/212/track1.mp3
 track2:
   title: Alma Construct - On the Edge, Surrounded with the Shores of Assudrey
   color: rough
-  link: https://sounds.mailta.pe/212/track2.mp3
+  link: https://df.mailta.pe/212/track2.mp3
 track3:
   title: Colorado - Undisclosed
   color: bliss
-  link: https://sounds.mailta.pe/212/track3.mp3
+  link: https://df.mailta.pe/212/track3.mp3
 track4:
   title: Stand Wise - Otherside
   color: vibrant
-  link: https://sounds.mailta.pe/212/track4.mp3
+  link: https://df.mailta.pe/212/track4.mp3
 track5:
   title: The Acid - RA (David August remix)
   color: vibrant
-  link: https://sounds.mailta.pe/212/track5.mp3
+  link: https://df.mailta.pe/212/track5.mp3
 track6:
   title: Slow Magic - Hold Still
   color: vibrant
-  link: https://sounds.mailta.pe/212/track6.mp3
+  link: https://df.mailta.pe/212/track6.mp3
 track7:
   title: Ambassadeurs - Willows Lullaby
   color: dreamy
-  link: https://sounds.mailta.pe/212/track7.mp3
+  link: https://df.mailta.pe/212/track7.mp3
 release: 212
 ---
 

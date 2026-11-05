@@ -15,31 +15,31 @@ pubDate: 2018-06-17
 track1:
   title: " Ballaké Sissoko & Vincent Ségal – Chamber Music"
   color: dreamy
-  link: https://sounds.mailta.pe/317/track1.mp3
+  link: https://df.mailta.pe/317/track1.mp3
 track2:
   title: Soriba Kouyaté – Kanakassi
   color: bliss
-  link: https://sounds.mailta.pe/317/track2.mp3
+  link: https://df.mailta.pe/317/track2.mp3
 track3:
   title: James Brown – This Is A Man's World
   color: vibrant
-  link: https://sounds.mailta.pe/317/track3.mp3
+  link: https://df.mailta.pe/317/track3.mp3
 track4:
   title: Jally Kebba Susso – Ajama
   color: bliss
-  link: https://sounds.mailta.pe/317/track4.mp3
+  link: https://df.mailta.pe/317/track4.mp3
 track5:
   title: Faith Mussa – Mdidi
   color: vibrant
-  link: https://sounds.mailta.pe/317/track5.mp3
+  link: https://df.mailta.pe/317/track5.mp3
 track6:
   title: Miriam Makeba – Liwawechi
   color: trippy
-  link: https://sounds.mailta.pe/317/track6.mp3
+  link: https://df.mailta.pe/317/track6.mp3
 track7:
   title: Sona Jobarteh – Saya
   color: dreamy
-  link: https://sounds.mailta.pe/317/track7.mp3
+  link: https://df.mailta.pe/317/track7.mp3
 release: 317
 ---
 Today we are delighted to welcome kora player [Jally Kebba Susso](http://jallykebbasusso.com/) as he picks a soothing suite of Sunday morning jams for MailTape.

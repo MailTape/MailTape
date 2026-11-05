@@ -19,31 +19,31 @@ pubDate: 2021-11-14
 track1:
   title: Joep Franssens -  First Movement
   color: vibrant
-  link: https://sounds.mailta.pe/470/track1.mp3
+  link: https://df.mailta.pe/470/track1.mp3
 track2:
   title: K. Leimer - All Sad Days
   color: trippy
-  link: https://sounds.mailta.pe/470/track2.mp3
+  link: https://df.mailta.pe/470/track2.mp3
 track3:
   title: Lilian Becker - Cadendo
   color: bliss
-  link: https://sounds.mailta.pe/470/track3.mp3
+  link: https://df.mailta.pe/470/track3.mp3
 track4:
   title: Rémi Parson - Les sentiments
   color: rough
-  link: https://sounds.mailta.pe/470/track4.mp3
+  link: https://df.mailta.pe/470/track4.mp3
 track5:
   title: Grand Parc - Sur les toits
   color: vibrant
-  link: "https://sounds.mailta.pe/470/track5.mp3 "
+  link: "https://df.mailta.pe/470/track5.mp3 "
 track6:
   title: Michelle Gurevich - No one Answer
   color: rough
-  link: https://sounds.mailta.pe/470/track6.mp3
+  link: https://df.mailta.pe/470/track6.mp3
 track7:
   title: Francoiz Breut - Juste de passage
   color: vibrant
-  link: https://sounds.mailta.pe/470/track7.mp3
+  link: https://df.mailta.pe/470/track7.mp3
 release: 470
 ---
  This morning, We sneak into the city, at the first hour, with the partygoers coming back from their afternoons but also market gardeners preparing their stalls. Later in the morning, we get intoxicated by the smell of early morning coffee and the discussions of the little old people on the terraces of the cafés. It is with this emulsion of people on the move that we are driven to listen to [Rémi Parson’s](https://remiparson.bandcamp.com/album/pour-un-empire) selection.

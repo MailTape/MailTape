@@ -16,31 +16,31 @@ pubDate: 2019-01-13
 track1:
   title: "Sarah Vaughan – Autumn Leaves "
   color: bliss
-  link: https://sounds.mailta.pe/340/track1.mp3
+  link: https://df.mailta.pe/340/track1.mp3
 track2:
   title: Moodymann – Sunday Morning
   color: dreamy
-  link: https://sounds.mailta.pe/340/track2.mp3
+  link: https://df.mailta.pe/340/track2.mp3
 track3:
   title: "Spiral Deluxe – The Paris Roulette "
   color: trippy
-  link: https://sounds.mailta.pe/340/track3.mp3
+  link: https://df.mailta.pe/340/track3.mp3
 track4:
   title: Analog Tara – Pulse and Light
   color: vibrant
-  link: https://sounds.mailta.pe/340/track4.mp3
+  link: https://df.mailta.pe/340/track4.mp3
 track5:
   title: Dawn of Midi – Algol
   color: trippy
-  link: https://sounds.mailta.pe/340/track5.mp3
+  link: https://df.mailta.pe/340/track5.mp3
 track6:
   title: Jlin – Blue i
   color: vibrant
-  link: https://sounds.mailta.pe/340/track6.mp3
+  link: https://df.mailta.pe/340/track6.mp3
 track7:
   title: Moor Mother – Time Floats (King Britt remix)
   color: dreamy
-  link: https://sounds.mailta.pe/340/track7.mp3
+  link: https://df.mailta.pe/340/track7.mp3
 release: 340
 ---
 This morning we are delighted to welcome multi-instrumentalist composer and historian of electronic music and sound, Dr. Tara Rodgers ([Analog Tara](http://www.analogtara.net/wp/)). 

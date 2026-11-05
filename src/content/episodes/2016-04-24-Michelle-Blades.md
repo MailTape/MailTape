@@ -17,31 +17,31 @@ pubDate: 2016-04-24
 track1:
   title: Stephen Steinbrink - The Punks
   color: vibrant
-  link: https://sounds.mailta.pe/214/track1.mp3
+  link: https://df.mailta.pe/214/track1.mp3
 track2:
   title: Victor Jara - Te Recuerdo Amanda
   color: vibrant
-  link: https://sounds.mailta.pe/214/track2.mp3
+  link: https://df.mailta.pe/214/track2.mp3
 track3:
   title: Eddy Crampes - Automne
   color: trippy
-  link: https://sounds.mailta.pe/214/track3.mp3
+  link: https://df.mailta.pe/214/track3.mp3
 track4:
   title: Michelle Blades - New Friends
   color: vibrant
-  link: https://sounds.mailta.pe/214/track4.mp3
+  link: https://df.mailta.pe/214/track4.mp3
 track5:
   title: Agar Agar - Prettiest Virgin
   color: dreamy
-  link: https://sounds.mailta.pe/214/track5.mp3
+  link: https://df.mailta.pe/214/track5.mp3
 track6:
   title: Vendredi Sur Mer - La Femme à la Peau Bleue
   color: dreamy
-  link: https://sounds.mailta.pe/214/track6.mp3
+  link: https://df.mailta.pe/214/track6.mp3
 track7:
   title: Fatnotronic & In Flagranti - Botoque
   color: vibrant
-  link: https://sounds.mailta.pe/214/track7.mp3
+  link: https://df.mailta.pe/214/track7.mp3
 release: 214
 ---
  Hello there, this morning we're gonna talk about the world. I mean, talk about Michelle Blades, a mexicano-Panamanian woman who lived in the USA, then moved to Paris since 2012. It's quite the same than talking about globalization. Let's talk about the world of Michelle Blades. 

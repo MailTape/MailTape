@@ -20,31 +20,31 @@ musiColor: /img/musicolor577.png
 track1:
   title: Jacco Gardner - Descent
   color: vibrant
-  link: https://sounds.mailta.pe/577/track1.mp3
+  link: https://df.mailta.pe/577/track1.mp3
 track2:
   title: Bruno Pernadas - Ya ya Breathe
   color: dreamy
-  link: https://sounds.mailta.pe/577/track2.mp3
+  link: https://df.mailta.pe/577/track2.mp3
 track3:
   title: "Roland Cristal - Philippe Etchebest "
   color: trippy
-  link: https://sounds.mailta.pe/577/track3.mp3
+  link: https://df.mailta.pe/577/track3.mp3
 track4:
   title: Walter Astral - Nadir
   color: trippy
-  link: https://sounds.mailta.pe/577/track4.mp3
+  link: https://df.mailta.pe/577/track4.mp3
 track5:
   title: Dm (Mx) - Nature (Unders Dub)
   color: trippy
-  link: https://sounds.mailta.pe/577/track5.mp3
+  link: https://df.mailta.pe/577/track5.mp3
 track6:
   title: Sophia Chablau e Felipe Vaqueiro - OHAYO SARAVÁ
   color: vibrant
-  link: https://sounds.mailta.pe/577/track6.mp3
+  link: https://df.mailta.pe/577/track6.mp3
 track7:
   title: Walter Astral - Aube
   color: trippy
-  link: https://sounds.mailta.pe/577/track7.mp3
+  link: https://df.mailta.pe/577/track7.mp3
 release: 577
 ---
 This morning our dream tapestries cross into the sunlight, letting us revel in the shining contours of these threads and tangles. In these gentle morning hours, the druids [Walter Astral](https://walterastral.bandcamp.com/) are our guides, weaving this textured trance journey through sound. Based in Paris, the group joins us following the release of their odyssey-like album, [Éclipse](https://walterastral.bandcamp.com/album/clipse-2). With releases offering both meditation and dance, the duo moves swiftly from folk to psychedelic rock to effervescent techno, with rich and unexpected marriages across genre and instruments.

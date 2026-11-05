@@ -15,31 +15,31 @@ pubDate: 2017-06-04
 track1:
   title: MIAUX — Above The High Rays
   color: dreamy
-  link: https://sounds.mailta.pe/263/track1.mp3
+  link: https://df.mailta.pe/263/track1.mp3
 track2:
   title: Tsembla — Alejandro
   color: trippy
-  link: https://sounds.mailta.pe/263/track2.mp3
+  link: https://df.mailta.pe/263/track2.mp3
 track3:
   title: TV Dinner Education — WHO R D Rules
   color: trippy
-  link: https://sounds.mailta.pe/263/track3.mp3
+  link: https://df.mailta.pe/263/track3.mp3
 track4:
   title: Olimpia Splendid — Jukka-Pekka
   color: rough
-  link: https://sounds.mailta.pe/263/track4.mp3
+  link: https://df.mailta.pe/263/track4.mp3
 track5:
   title: Marisa Anderson — In the Valley of the Sun
   color: bliss
-  link: https://sounds.mailta.pe/263/track5.mp3
+  link: https://df.mailta.pe/263/track5.mp3
 track6:
   title: Karen Gwyer — Judd Drums
   color: dreamy
-  link: https://sounds.mailta.pe/263/track6.mp3
+  link: https://df.mailta.pe/263/track6.mp3
 track7:
   title: Carla dal Forno — You Know What It's Like
   color: dreamy
-  link: https://sounds.mailta.pe/263/track7.mp3
+  link: https://df.mailta.pe/263/track7.mp3
 release: 263
 ---
 This morning, we enter a hypnotic world with Heta Bilaletdin, Jonna Karanka and Katri Sipiläinen of Finland-based trio, [Olimpia Splendid](https://www.facebook.com/Olimpia-Splendid-197293963659766/).

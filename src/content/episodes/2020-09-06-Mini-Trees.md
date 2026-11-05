@@ -23,31 +23,31 @@ pubDate: 2020-09-06
 track1:
   title: Porches - Do U Wanna
   color: vibrant
-  link: https://sounds.mailta.pe/415/track1.mp3
+  link: https://df.mailta.pe/415/track1.mp3
 track2:
   title: Lomelda - Out There
   color: bliss
-  link: https://sounds.mailta.pe/415/track2.mp3
+  link: https://df.mailta.pe/415/track2.mp3
 track3:
   title: Ásgeir - Trust
   color: dreamy
-  link: https://sounds.mailta.pe/415/track3.mp3
+  link: https://df.mailta.pe/415/track3.mp3
 track4:
   title: Mini Trees - Honestly
   color: dreamy
-  link: https://sounds.mailta.pe/415/track4.mp3
+  link: https://df.mailta.pe/415/track4.mp3
 track5:
   title: Genevieve Stokes - Lonely and Bored
   color: dreamy
-  link: https://sounds.mailta.pe/415/track5.mp3
+  link: https://df.mailta.pe/415/track5.mp3
 track6:
   title: Feng Suave - Maybe Another Time
   color: dreamy
-  link: https://sounds.mailta.pe/415/track6.mp3
+  link: https://df.mailta.pe/415/track6.mp3
 track7:
   title: Golden Daze - Lynard Bassman
   color: bliss
-  link: https://sounds.mailta.pe/415/track7.mp3
+  link: https://df.mailta.pe/415/track7.mp3
 release: 415
 ---
 This morning, we are thrilled to welcome [Mini Trees](https://minitrees.bandcamp.com) to host the first MailTape episode of September! 

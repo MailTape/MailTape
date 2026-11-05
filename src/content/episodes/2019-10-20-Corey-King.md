@@ -17,31 +17,31 @@ pubDate: 2019-10-20
 track1:
   title: Benny Soebardja & Lizard - Candlelight
   color: bliss
-  link: https://sounds.mailta.pe/376/track1.mp3
+  link: https://df.mailta.pe/376/track1.mp3
 track2:
   title: CAN - Mary, Mary, So Contrary
   color: trippy
-  link: https://sounds.mailta.pe/376/track2.mp3
+  link: https://df.mailta.pe/376/track2.mp3
 track3:
   title: ARP - Fluorescences
   color: dreamy
-  link: https://sounds.mailta.pe/376/track3.mp3
+  link: https://df.mailta.pe/376/track3.mp3
 track4:
   title: Corey King - 3 Years
   color: vibrant
-  link: https://sounds.mailta.pe/376/track4.mp3
+  link: https://df.mailta.pe/376/track4.mp3
 track5:
   title: Ratomagoson - Poolside (feat. Sebastián López Bustos)
   color: bliss
-  link: https://sounds.mailta.pe/376/track5.mp3
+  link: https://df.mailta.pe/376/track5.mp3
 track6:
   title: Djrum - Sparrows
   color: trippy
-  link: https://sounds.mailta.pe/376/track6.mp3
+  link: https://df.mailta.pe/376/track6.mp3
 track7:
   title: BEA1991 - the dream
   color: dreamy
-  link: https://sounds.mailta.pe/376/track7.mp3
+  link: https://df.mailta.pe/376/track7.mp3
 release: 376
 ---
  This morning, we are delighted to welcome [Corey King](https://corey-king.bandcamp.com/) to select three inspiring Sunday morning tunes for us. The New-York-based multi-instrumentist has recently released a new album, "[A Loveless Sunken Sun](https://corey-king.bandcamp.com/album/a-loveless-sunken-sun)", he describes as "a testament to the power of angst to foster growth".

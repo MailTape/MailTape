@@ -16,31 +16,31 @@ pubDate: 2015-06-28
 track1:
   title: Populous - The Breakfast Drama
   color: dreamy
-  link: https://sounds.mailta.pe/192/track1.mp3
+  link: https://df.mailta.pe/192/track1.mp3
 track2:
   title: Mark Barrott -  Baby Come Home
   color: vibrant
-  link: https://sounds.mailta.pe/192/track2.mp3
+  link: https://df.mailta.pe/192/track2.mp3
 track3:
   title: Orcas - Infinite Stillness
   color: dreamy
-  link: https://sounds.mailta.pe/192/track3.mp3
+  link: https://df.mailta.pe/192/track3.mp3
 track4:
   title: Indian Wells - Alcantara
   color: trippy
-  link: https://sounds.mailta.pe/192/track4.mp3
+  link: https://df.mailta.pe/192/track4.mp3
 track5:
   title: "SEENMR - INFINITE MIND POWER "
   color: dreamy
-  link: https://sounds.mailta.pe/192/track5.mp3
+  link: https://df.mailta.pe/192/track5.mp3
 track6:
   title: Slowly Rolling Camera - Anne
   color: dreamy
-  link: https://sounds.mailta.pe/192/track6.mp3
+  link: https://df.mailta.pe/192/track6.mp3
 track7:
   title: The Soul Motivators - Aftermath
   color: vibrant
-  link: https://sounds.mailta.pe/192/track7.mp3
+  link: https://df.mailta.pe/192/track7.mp3
 release: 192
 ---
 

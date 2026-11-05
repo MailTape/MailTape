@@ -15,31 +15,31 @@ pubDate: 2015-05-17
 track1:
   title: Georgia Anne Muldrow - Run Away
   color: dreamy
-  link: https://sounds.mailta.pe/186/track1.mp3
+  link: https://df.mailta.pe/186/track1.mp3
 track2:
   title: Bob Marley - Three Little Birds
   color: vibrant
-  link: https://sounds.mailta.pe/186/track2.mp3
+  link: https://df.mailta.pe/186/track2.mp3
 track3:
   title: Tame Impala - Be Above It
   color: rough
-  link: https://sounds.mailta.pe/186/track3.mp3
+  link: https://df.mailta.pe/186/track3.mp3
 track4:
   title: Paul White - Running On A Rainy Day (Seagull Mansion live)
   color: dreamy
-  link: https://sounds.mailta.pe/186/track4.mp3
+  link: https://df.mailta.pe/186/track4.mp3
 track5:
   title: ESKA - Heroes & Villains
   color: bliss
-  link: https://sounds.mailta.pe/186/track5.mp3
+  link: https://df.mailta.pe/186/track5.mp3
 track6:
   title: James Clarke - Mystery Movement
   color: trippy
-  link: https://sounds.mailta.pe/186/track6.mp3
+  link: https://df.mailta.pe/186/track6.mp3
 track7:
   title: µ-Ziq - XT
   color: bliss
-  link: https://sounds.mailta.pe/186/track7.mp3
+  link: https://df.mailta.pe/186/track7.mp3
 release: 186
 ---
 

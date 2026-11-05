@@ -14,31 +14,31 @@ pubDate: 2015-01-25
 track1:
   title: Imagined Herbal Flows - Clouds
   color: bliss
-  link: https://sounds.mailta.pe/170/track1.mp3
+  link: https://df.mailta.pe/170/track1.mp3
 track2:
   title: 123Mrk - Pleasure
   color: rough
-  link: https://sounds.mailta.pe/170/track2.mp3
+  link: https://df.mailta.pe/170/track2.mp3
 track3:
   title: Marika Hackman - O'Come, O'Come, Emmanuel
   color: dreamy
-  link: https://sounds.mailta.pe/170/track3.mp3
+  link: https://df.mailta.pe/170/track3.mp3
 track4:
   title: Les Gordon - Matisse
   color: vibrant
-  link: https://sounds.mailta.pe/170/track4.mp3
+  link: https://df.mailta.pe/170/track4.mp3
 track5:
   title: Tropics - Blame
   color: dreamy
-  link: https://sounds.mailta.pe/170/track5.mp3
+  link: https://df.mailta.pe/170/track5.mp3
 track6:
   title: Esta - Luna
   color: vibrant
-  link: https://sounds.mailta.pe/170/track6.mp3
+  link: https://df.mailta.pe/170/track6.mp3
 track7:
   title: Monsoonsiren - Sullen Fables
   color: dreamy
-  link: https://sounds.mailta.pe/170/track7.mp3
+  link: https://df.mailta.pe/170/track7.mp3
 release: 170
 ---
 

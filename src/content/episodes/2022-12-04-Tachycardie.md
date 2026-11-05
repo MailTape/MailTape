@@ -17,31 +17,31 @@ pubDate: 2022-12-04
 track1:
   title: Able Noise - Side A
   color: dreamy
-  link: https://sounds.mailta.pe/508/track1.mp3
+  link: https://df.mailta.pe/508/track1.mp3
 track2:
   title: Marina Rosenfeld - Fuji Tonic
   color: trippy
-  link: https://sounds.mailta.pe/508/track2.mp3
+  link: https://df.mailta.pe/508/track2.mp3
 track3:
   title: Omni - Courtesy Call
   color: bliss
-  link: https://sounds.mailta.pe/508/track3.mp3
+  link: https://df.mailta.pe/508/track3.mp3
 track4:
   title: Tachycardie - Pratiques IV & V
   color: trippy
-  link: https://sounds.mailta.pe/508/track4.mp3
+  link: https://df.mailta.pe/508/track4.mp3
 track5:
   title: Chassol - Pipornithology, Pt.1
   color: dreamy
-  link: https://sounds.mailta.pe/508/track5.mp3
+  link: https://df.mailta.pe/508/track5.mp3
 track6:
   title: Danse Musique Rhône-Alpes - Potion Trouble
   color: rough
-  link: https://sounds.mailta.pe/508/track6.mp3
+  link: https://df.mailta.pe/508/track6.mp3
 track7:
   title: Loya - Zenfant
   color: trippy
-  link: https://sounds.mailta.pe/508/track7.mp3
+  link: https://df.mailta.pe/508/track7.mp3
 release: 508
 ---
  This morning, we explore, we dematerialize, we deconstruct the music. We beat it to find inspiration, we saturate it to its fullest, we look for the unknown, the astonishing, the shocking, the disconcerting in order to touch. This is what Tachycardie offers us through this playlist.

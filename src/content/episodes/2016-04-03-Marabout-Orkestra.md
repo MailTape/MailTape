@@ -16,31 +16,31 @@ pubDate: 2016-04-03
 track1:
   title: Herbie Hancock - Wiggle Waggle (Mr. Scruff Remix)
   color: vibrant
-  link: https://sounds.mailta.pe/211/track1.mp3
+  link: https://df.mailta.pe/211/track1.mp3
 track2:
   title: Kyenkyen Bi Adi M'awu - Alhaji K Frimpong & His Cubano Fiestas
   color: vibrant
-  link: https://sounds.mailta.pe/211/track2.mp3
+  link: https://df.mailta.pe/211/track2.mp3
 track3:
   title: Geraldo Pino - Shake Hands
   color: vibrant
-  link: https://sounds.mailta.pe/211/track3.mp3
+  link: https://df.mailta.pe/211/track3.mp3
 track4:
   title: Marabout Orkestra - Warteef Jigeen
   color: vibrant
-  link: https://sounds.mailta.pe/211/track4.mp3
+  link: https://df.mailta.pe/211/track4.mp3
 track5:
   title: " Freddie Joachim - To Remind Us Feat Miles Bonny "
   color: bliss
-  link: https://sounds.mailta.pe/211/track5.mp3
+  link: https://df.mailta.pe/211/track5.mp3
 track6:
   title: "Zuper -  Too Early.. "
   color: dreamy
-  link: https://sounds.mailta.pe/211/track6.mp3
+  link: https://df.mailta.pe/211/track6.mp3
 track7:
   title: " All Flows Reach Out - Animal Kingdom"
   color: vibrant
-  link: https://sounds.mailta.pe/211/track7.mp3
+  link: https://df.mailta.pe/211/track7.mp3
 release: 211
 ---
 

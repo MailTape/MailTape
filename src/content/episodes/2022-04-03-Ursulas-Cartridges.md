@@ -17,31 +17,31 @@ pubDate: 2022-04-03
 track1:
   title: VHS Head - Body Magic
   color: trippy
-  link: https://sounds.mailta.pe/488/track1.mp3
+  link: https://df.mailta.pe/488/track1.mp3
 track2:
   title: Dream Frequency - Take Me (The Prodigy Mix)
   color: vibrant
-  link: https://sounds.mailta.pe/488/track2.mp3
+  link: https://df.mailta.pe/488/track2.mp3
 track3:
   title: Eveline Fischer - Submap Shuffle
   color: vibrant
-  link: https://sounds.mailta.pe/488/track3.mp3
+  link: https://df.mailta.pe/488/track3.mp3
 track4:
   title: Ursula's Cartridges - Wind Rider
   color: trippy
-  link: https://sounds.mailta.pe/488/track4.mp3
+  link: https://df.mailta.pe/488/track4.mp3
 track5:
   title: Enraile - Pale Memory
   color: trippy
-  link: https://sounds.mailta.pe/488/track5.mp3
+  link: https://df.mailta.pe/488/track5.mp3
 track6:
   title: Irène de Milo - Sans Éternité
   color: vibrant
-  link: https://sounds.mailta.pe/488/track6.mp3
+  link: https://df.mailta.pe/488/track6.mp3
 track7:
   title: Windows 96 - Edenic Green Plus
   color: bliss
-  link: https://sounds.mailta.pe/488/track7.mp3
+  link: https://df.mailta.pe/488/track7.mp3
 release: 488
 ---
 This morning, we welcome Finland-based [Ursula's Cartridges](https://ursulascartridges.bandcamp.com/) to MailTape for an electro vaporwave selection. Combining 80's and 90's rave and electronic aesthetics, Ursula's Cartridges pieces samplework into releases both novel and nostalgic. In his production process, Ursula's Cartridges strives to avoid the consumerism to which so much of music has fallen victim, cultivating pieces he finds to be genuine expressions, approaching works of "art" rather than "product." 

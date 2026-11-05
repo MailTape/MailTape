@@ -15,31 +15,31 @@ pubDate: 2019-01-27
 track1:
   title: Dedekind Cut – Tahoe
   color: dreamy
-  link: https://sounds.mailta.pe/342/track1.mp3
+  link: https://df.mailta.pe/342/track1.mp3
 track2:
   title: Shida Shahabi – Abisme
   color: bliss
-  link: https://sounds.mailta.pe/342/track2.mp3
+  link: https://df.mailta.pe/342/track2.mp3
 track3:
   title: Ancient Colours – Field and Woodland Strewn, the Failing Sun
   color: trippy
-  link: https://sounds.mailta.pe/342/track3.mp3
+  link: https://df.mailta.pe/342/track3.mp3
 track4:
   title: Glockenspiel – The Endless Road 2
   color: trippy
-  link: https://sounds.mailta.pe/342/track4.mp3
+  link: https://df.mailta.pe/342/track4.mp3
 track5:
   title: Oren Ambarchi – The Strouhal Number
   color: dreamy
-  link: https://sounds.mailta.pe/342/track5.mp3
+  link: https://df.mailta.pe/342/track5.mp3
 track6:
   title: "Joanna Brouk – Going Through the Veil: Becoming a Swan"
   color: dreamy
-  link: https://sounds.mailta.pe/342/track6.mp3
+  link: https://df.mailta.pe/342/track6.mp3
 track7:
   title: Maisha – Welcome To A New Welcome
   color: trippy
-  link: https://sounds.mailta.pe/342/track7.mp3
+  link: https://df.mailta.pe/342/track7.mp3
 release: 342
 ---
 This morning we are delighted to welcome Adrian Dollemore of [Glockenspiel](https://babel-label.bandcamp.com/album/dupleix) to select three Sunday morning tunes for us on MailTape.

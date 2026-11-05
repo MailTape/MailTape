@@ -17,31 +17,31 @@ pubDate: 2016-07-31
 track1:
   title: Kris Kristofferson - Sunday Morning Coming Down
   color: dreamy
-  link: https://sounds.mailta.pe/227/track1.mp3
+  link: https://df.mailta.pe/227/track1.mp3
 track2:
   title: Traveling Wilburys - Handle With Care
   color: vibrant
-  link: https://sounds.mailta.pe/227/track2.mp3
+  link: https://df.mailta.pe/227/track2.mp3
 track3:
   title: Bill Withers - Lovely Day
   color: bliss
-  link: https://sounds.mailta.pe/227/track3.mp3
+  link: https://df.mailta.pe/227/track3.mp3
 track4:
   title: Psychic Ills - All Alone
   color: dreamy
-  link: https://sounds.mailta.pe/227/track4.mp3
+  link: https://df.mailta.pe/227/track4.mp3
 track5:
   title: Gap Dream - Greater Find
   color: trippy
-  link: https://sounds.mailta.pe/227/track5.mp3
+  link: https://df.mailta.pe/227/track5.mp3
 track6:
   title: Klangstof - We Are Your Receiver
   color: bliss
-  link: https://sounds.mailta.pe/227/track6.mp3
+  link: https://df.mailta.pe/227/track6.mp3
 track7:
   title: Beaty Heart - Flora
   color: rough
-  link: https://sounds.mailta.pe/227/track7.mp3
+  link: https://df.mailta.pe/227/track7.mp3
 release: 227
 ---
 This morning, discover a warm and indie selection made by our guest [Psychic Ills](https://www.facebook.com/psychicills). Packed with love and caring lyrics, this issue is perfect to accompany a little poem of yours for your secret lover or one of your special friends.

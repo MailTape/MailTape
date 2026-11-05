@@ -17,31 +17,31 @@ pubDate: 2020-10-10
 track1:
   title: Sébastien Tellier - Love
   color: dreamy
-  link: https://sounds.mailta.pe/420/track1.mp3
+  link: https://df.mailta.pe/420/track1.mp3
 track2:
   title: "TEED - Don't you forget about me "
   color: vibrant
-  link: https://sounds.mailta.pe/420/track2.mp3
+  link: https://df.mailta.pe/420/track2.mp3
 track3:
   title: Benny Sings - Sunny Afternoon
   color: bliss
-  link: https://sounds.mailta.pe/420/track3.mp3
+  link: https://df.mailta.pe/420/track3.mp3
 track4:
   title: Bleu Toucan - Le Hublot
   color: dreamy
-  link: https://sounds.mailta.pe/420/track4.mp3
+  link: https://df.mailta.pe/420/track4.mp3
 track5:
   title: Café Lanai - Lanai
   color: dreamy
-  link: https://sounds.mailta.pe/420/track5.mp3
+  link: https://df.mailta.pe/420/track5.mp3
 track6:
   title: "Paradis - Hémisphère "
   color: bliss
-  link: https://sounds.mailta.pe/420/track6.mp3
+  link: https://df.mailta.pe/420/track6.mp3
 track7:
   title: Février - La montagne
   color: bliss
-  link: https://sounds.mailta.pe/420/track7.mp3
+  link: https://df.mailta.pe/420/track7.mp3
 release: 420
 ---
 

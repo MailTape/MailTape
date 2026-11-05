@@ -17,31 +17,31 @@ pubDate: 2022-12-25
 track1:
   title: Operating Theatre - Elation After Hours
   color: dreamy
-  link: https://sounds.mailta.pe/511/track1.mp3
+  link: https://df.mailta.pe/511/track1.mp3
 track2:
   title: Yoshihiro Hanno and Mick Karn - Lunette
   color: bliss
-  link: https://sounds.mailta.pe/511/track2.mp3
+  link: https://df.mailta.pe/511/track2.mp3
 track3:
   title: John Powell - Chicken in the Pot
   color: trippy
-  link: https://sounds.mailta.pe/511/track3.mp3
+  link: https://df.mailta.pe/511/track3.mp3
 track4:
   title: r mccarthy - I Think I Lost That Love
   color: dreamy
-  link: https://sounds.mailta.pe/511/track4.mp3
+  link: https://df.mailta.pe/511/track4.mp3
 track5:
   title: Omni Gardens - Algae After All
   color: vibrant
-  link: https://sounds.mailta.pe/511/track5.mp3
+  link: https://df.mailta.pe/511/track5.mp3
 track6:
   title: "Paul Lansky - Her Voice "
   color: trippy
-  link: https://sounds.mailta.pe/511/track6.mp3
+  link: https://df.mailta.pe/511/track6.mp3
 track7:
   title: Ellori Saxl - Moss II
   color: bliss
-  link: https://sounds.mailta.pe/511/track7.mp3
+  link: https://df.mailta.pe/511/track7.mp3
 release: 511
 ---
  We are overjoyed to welcome [r mccarthy](https://infinitebisous.bandcamp.com/album/any-day-now) to MailTape this Sunday morning :) His selection embraces new worlds of new age music, stretching time and sound into spaces unknown -- carrying creativity into these early morning hours.  

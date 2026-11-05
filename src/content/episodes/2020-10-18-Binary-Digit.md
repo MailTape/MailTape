@@ -26,31 +26,31 @@ pubDate: 2020-10-18
 track1:
   title: DMX Krew - 100 Tears
   color: vibrant
-  link: https://sounds.mailta.pe/421/track1.mp3
+  link: https://df.mailta.pe/421/track1.mp3
 track2:
   title: Datassette - When I'm Gone (w/ Mücha)
   color: dreamy
-  link: https://sounds.mailta.pe/421/track2.mp3
+  link: https://df.mailta.pe/421/track2.mp3
 track3:
   title: Bot1500 - P8.1
   color: bliss
-  link: https://sounds.mailta.pe/421/track3.mp3
+  link: https://df.mailta.pe/421/track3.mp3
 track4:
   title: Binary Digit - Sensitive Acid Boy
   color: vibrant
-  link: https://sounds.mailta.pe/421/track4.mp3
+  link: https://df.mailta.pe/421/track4.mp3
 track5:
   title: Skee Mask - Muk FM
   color: trippy
-  link: https://sounds.mailta.pe/421/track5.mp3
+  link: https://df.mailta.pe/421/track5.mp3
 track6:
   title: EOD - Express
   color: trippy
-  link: https://sounds.mailta.pe/421/track6.mp3
+  link: https://df.mailta.pe/421/track6.mp3
 track7:
   title: chris††† - より良い場所
   color: bliss
-  link: https://sounds.mailta.pe/421/track7.mp3
+  link: https://df.mailta.pe/421/track7.mp3
 release: 421
 ---
  This morning, the alarm clock tastes acid and sour, that kind of unpleasant sensation at first glance but which you eventually get used to, before asking for more. [Binary Digit](https://binarydigit.bandcamp.com/)'s selection goes straight to the point, somewhere between this unexpected ray of sunshine that pierces a gray autumn sky and the cold of winter that comes under our covers to tickle our feet.

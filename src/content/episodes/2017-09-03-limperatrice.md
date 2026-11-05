@@ -16,31 +16,31 @@ pubDate: 2017-09-03
 track1:
   title: 113 - Les Princes de la Ville
   color: bliss
-  link: https://sounds.mailta.pe/276/track1.mp3
+  link: https://df.mailta.pe/276/track1.mp3
 track2:
   title: Françoise Hardy - Juke Box
   color: vibrant
-  link: https://sounds.mailta.pe/276/track2.mp3
+  link: https://df.mailta.pe/276/track2.mp3
 track3:
   title: Pépite - Sensation
   color: dreamy
-  link: https://sounds.mailta.pe/276/track3.mp3
+  link: https://df.mailta.pe/276/track3.mp3
 track4:
   title: L'impératrice - Agitations Tropicales
   color: dreamy
-  link: https://sounds.mailta.pe/276/track4.mp3
+  link: https://df.mailta.pe/276/track4.mp3
 track5:
   title: Cornelius - If You're Here
   color: dreamy
-  link: https://sounds.mailta.pe/276/track5.mp3
+  link: https://df.mailta.pe/276/track5.mp3
 track6:
   title: Haruomi Hosono & Friends - The Last Paradise
   color: dreamy
-  link: https://sounds.mailta.pe/276/track6.mp3
+  link: https://df.mailta.pe/276/track6.mp3
 track7:
   title: Steve Monite - Only You (Frankie Francis Disco Jam edit)
   color: vibrant
-  link: https://sounds.mailta.pe/276/track7.mp3
+  link: https://df.mailta.pe/276/track7.mp3
 release: 276
 ---
 This morning, the glitter balls are spinning a little slower and our limbs swaying more gently in the dark. L'Impératrice is here to help us close out the summer, in the soft shadows of a long expected sunrise. As a glowing haze settles and the lights come up, this disco is slipping into slow motion, a living nostalgia for the endless poolside midnights.

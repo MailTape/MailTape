@@ -18,31 +18,31 @@ pubDate: 2023-05-14
 track1:
   title: Zwan - Lyric
   color: rough
-  link: https://sounds.mailta.pe/527/track1.mp3
+  link: https://df.mailta.pe/527/track1.mp3
 track2:
   title: "Tangerine Dream - Love On A Real Train "
   color: dreamy
-  link: https://sounds.mailta.pe/527/track2.mp3
+  link: https://df.mailta.pe/527/track2.mp3
 track3:
   title: The Courtneys - Tour
   color: rough
-  link: https://sounds.mailta.pe/527/track3.mp3
+  link: https://df.mailta.pe/527/track3.mp3
 track4:
   title: Grand Public - Assez Apparement
   color: bliss
-  link: https://sounds.mailta.pe/527/track4.mp3
+  link: https://df.mailta.pe/527/track4.mp3
 track5:
   title: Sonic Youth - Reena
   color: rough
-  link: https://sounds.mailta.pe/527/track5.mp3
+  link: https://df.mailta.pe/527/track5.mp3
 track6:
   title: Vampire Weekend - Everlasting Arms
   color: vibrant
-  link: https://sounds.mailta.pe/527/track6.mp3
+  link: https://df.mailta.pe/527/track6.mp3
 track7:
   title: Thus Owls - I Forget What I Remenbered
   color: dreamy
-  link: https://sounds.mailta.pe/527/track7.mp3
+  link: https://df.mailta.pe/527/track7.mp3
 release: 527
 ---
 This morning, We take advantage of this month of May to breathe, relax and take advantage of the many public holidays to get away with it. One watchword: do nothing, just enjoy the present time! It is with the musical selection of the band [Grand Public](https://grandpublic.bandcamp.com/music) that we will put in off mode. "[Ideal Tempo](https://grandpublic.bandcamp.com/album/id-al-tempo-2)", released on March 24th, is the only tempo to have this weekend.

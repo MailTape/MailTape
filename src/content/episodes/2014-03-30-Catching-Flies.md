@@ -16,31 +16,31 @@ pubDate: 2014-03-30
 track1:
   title: Fatima feat. Floating Points - Mind
   color: vibrant
-  link: https://sounds.mailta.pe/134/track1.mp3
+  link: https://df.mailta.pe/134/track1.mp3
 track2:
   title: Gap Mangione - Diana In The Autumn Wind
   color: vibrant
-  link: https://sounds.mailta.pe/134/track2.mp3
+  link: https://df.mailta.pe/134/track2.mp3
 track3:
   title: Grandbrothers - Ezra was Right
   color: trippy
-  link: https://sounds.mailta.pe/134/track3.mp3
+  link: https://df.mailta.pe/134/track3.mp3
 track4:
   title: Catching Flies - Stay Forever
   color: dreamy
-  link: https://sounds.mailta.pe/134/track4.mp3
+  link: https://df.mailta.pe/134/track4.mp3
 track5:
   title: Kenmochi Hidefumi - Ash Ra
   color: bliss
-  link: https://sounds.mailta.pe/134/track5.mp3
+  link: https://df.mailta.pe/134/track5.mp3
 track6:
   title: Sohn - The Wheel
   color: bliss
-  link: https://sounds.mailta.pe/134/track6.mp3
+  link: https://df.mailta.pe/134/track6.mp3
 track7:
   title: Ages - mermeladas de barbacoa
   color: vibrant
-  link: https://sounds.mailta.pe/134/track7.mp3
+  link: https://df.mailta.pe/134/track7.mp3
 release: 134
 ---
 

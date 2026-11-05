@@ -18,31 +18,31 @@ pubDate: 2024-01-14
 track1:
   title: Will Graefe - North America nr. 2
   color: dreamy
-  link: https://sounds.mailta.pe/543/track1.mp3
+  link: https://df.mailta.pe/543/track1.mp3
 track2:
   title: Caterina Barbieri - Math of You
   color: trippy
-  link: https://sounds.mailta.pe/543/track2.mp3
+  link: https://df.mailta.pe/543/track2.mp3
 track3:
   title: Luke Deane - Changed
   color: bliss
-  link: https://sounds.mailta.pe/543/track3.mp3
+  link: https://df.mailta.pe/543/track3.mp3
 track4:
   title: Diamanda La Berge Dramm - Chimp is who
   color: bliss
-  link: https://sounds.mailta.pe/543/track4.mp3
+  link: https://df.mailta.pe/543/track4.mp3
 track5:
   title: Southeast of Rain 东南有雨 - Day 11 Three Pipe Percussionists 水管乐
   color: bliss
-  link: https://sounds.mailta.pe/543/track5.mp3
+  link: https://df.mailta.pe/543/track5.mp3
 track6:
   title: Ryuichi Sakamoto - Plastic Bamboo
   color: vibrant
-  link: https://sounds.mailta.pe/543/track6.mp3
+  link: https://df.mailta.pe/543/track6.mp3
 track7:
   title: KONG - Yellow King Walking to Take Revenge
   color: vibrant
-  link: https://sounds.mailta.pe/543/track7.mp3
+  link: https://df.mailta.pe/543/track7.mp3
 release: 543
 ---
 

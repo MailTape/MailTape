@@ -19,31 +19,31 @@ pubDate: 2017-07-23
 track1:
   title: Ramzi - Majestic Zouk
   color: trippy
-  link: https://sounds.mailta.pe/270/track1.mp3
+  link: https://df.mailta.pe/270/track1.mp3
 track2:
   title: Seth Bogart - Club With Me
   color: vibrant
-  link: https://sounds.mailta.pe/270/track2.mp3
+  link: https://df.mailta.pe/270/track2.mp3
 track3:
   title: Guy's# - When You Call Me
   color: trippy
-  link: https://sounds.mailta.pe/270/track3.mp3
+  link: https://df.mailta.pe/270/track3.mp3
 track4:
   title: She-Devils - Darling
   color: bliss
-  link: https://sounds.mailta.pe/270/track4.mp3
+  link: https://df.mailta.pe/270/track4.mp3
 track5:
   title: Yellow Days - That Easy
   color: bliss
-  link: https://sounds.mailta.pe/270/track5.mp3
+  link: https://df.mailta.pe/270/track5.mp3
 track6:
   title: Mons Vi - Want Me Too
   color: bliss
-  link: https://sounds.mailta.pe/270/track6.mp3
+  link: https://df.mailta.pe/270/track6.mp3
 track7:
   title: " Tabu Ley Rochereau - Hafi Deo "
   color: vibrant
-  link: https://sounds.mailta.pe/270/track7.mp3
+  link: https://df.mailta.pe/270/track7.mp3
 release: 270
 ---
 

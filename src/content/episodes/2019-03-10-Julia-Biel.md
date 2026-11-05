@@ -16,31 +16,31 @@ pubDate: 2019-03-10
 track1:
   title: Zakir Hussain – Zakir
   color: dreamy
-  link: https://sounds.mailta.pe/348/track1.mp3
+  link: https://df.mailta.pe/348/track1.mp3
 track2:
   title: Joni Mitchell – Morning Morgantown
   color: vibrant
-  link: https://sounds.mailta.pe/348/track2.mp3
+  link: https://df.mailta.pe/348/track2.mp3
 track3:
   title: We Were Strangers – Unforgiving War
   color: dreamy
-  link: https://sounds.mailta.pe/348/track3.mp3
+  link: https://df.mailta.pe/348/track3.mp3
 track4:
   title: Julia Biel – Dead Slept Rough
   color: bliss
-  link: https://sounds.mailta.pe/348/track4.mp3
+  link: https://df.mailta.pe/348/track4.mp3
 track5:
   title: Laura Nyro – Upstairs By a Chinese Lamp
   color: dreamy
-  link: https://sounds.mailta.pe/348/track5.mp3
+  link: https://df.mailta.pe/348/track5.mp3
 track6:
   title: Our Native Daughters – Quasheba, Quasheba
   color: dreamy
-  link: https://sounds.mailta.pe/348/track6.mp3
+  link: https://df.mailta.pe/348/track6.mp3
 track7:
   title: Keyvan Chemirani & Pandit Anindo Chatterjee – Bhairavi
   color: bliss
-  link: https://sounds.mailta.pe/348/track7.mp3
+  link: https://df.mailta.pe/348/track7.mp3
 release: 348
 ---
 This morning we are thrilled to welcome London-based vocalist, guitarist and pianist, [Julia Biel](http://www.juliabiel.com/), who selects three swaying Sunday tunes for us.

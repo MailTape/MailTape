@@ -18,31 +18,31 @@ pubDate: 2020-01-05
 track1:
   title: Rubin Steiner - Paradise
   color: dreamy
-  link: https://sounds.mailta.pe/387/track1.mp3
+  link: https://df.mailta.pe/387/track1.mp3
 track2:
   title: Richard Dawson - Weaver
   color: vibrant
-  link: https://sounds.mailta.pe/387/track2.mp3
+  link: https://df.mailta.pe/387/track2.mp3
 track3:
   title: "Cat Power - Sun "
   color: dreamy
-  link: https://sounds.mailta.pe/387/track3.mp3
+  link: https://df.mailta.pe/387/track3.mp3
 track4:
   title: Bobun Fever - Happy Banana
   color: trippy
-  link: https://sounds.mailta.pe/387/track4.mp3
+  link: https://df.mailta.pe/387/track4.mp3
 track5:
   title: Lachinos - Alas Rotas
   color: bliss
-  link: https://sounds.mailta.pe/387/track5.mp3
+  link: https://df.mailta.pe/387/track5.mp3
 track6:
   title: Cannibale - Do Not Love Me Too Much
   color: trippy
-  link: https://sounds.mailta.pe/387/track6.mp3
+  link: https://df.mailta.pe/387/track6.mp3
 track7:
   title: Nubiyan Twist - Tell It To Me Slowly
   color: bliss
-  link: https://sounds.mailta.pe/387/track7.mp3
+  link: https://df.mailta.pe/387/track7.mp3
 release: 387
 ---
 

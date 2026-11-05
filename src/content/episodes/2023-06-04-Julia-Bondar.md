@@ -11,31 +11,31 @@ writer: Anto
 track1:
   title: Luca Eck feat LVRA – Hide
   color: rough
-  link: https://sounds.mailta.pe/529/track1.mp3
+  link: https://df.mailta.pe/529/track1.mp3
 track2:
   title: Clams Casino feat Lil B & Asap Rocky
   color: trippy
-  link: https://sounds.mailta.pe/529/track2.mp3
+  link: https://df.mailta.pe/529/track2.mp3
 track3:
   title: Ari Abdul – Hush
   color: dreamy
-  link: https://sounds.mailta.pe/529/track3.mp3
+  link: https://df.mailta.pe/529/track3.mp3
 track4:
   title: Julia Bondar – Hell of ride
   color: rough
-  link: https://sounds.mailta.pe/529/track4.mp3
+  link: https://df.mailta.pe/529/track4.mp3
 track5:
   title: Blaise Moore – Stutter
   color: dreamy
-  link: https://sounds.mailta.pe/529/track5.mp3
+  link: https://df.mailta.pe/529/track5.mp3
 track6:
   title: Fort Romeau - Beings of Light
   color: bliss
-  link: https://sounds.mailta.pe/529/track6.mp3
+  link: https://df.mailta.pe/529/track6.mp3
 track7:
   title: Dampa – Clubs
   color: vibrant
-  link: https://sounds.mailta.pe/529/track7.mp3
+  link: https://df.mailta.pe/529/track7.mp3
 description: |-
   This morning... Oh wait ! It’s morning already ?
   We didn't see it coming. It’s like we got stuck in that club, where we lived a thousand lives in a single night.

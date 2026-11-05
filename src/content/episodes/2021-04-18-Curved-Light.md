@@ -19,31 +19,31 @@ pubDate: 2021-04-18
 track1:
   title: Alice Coltrane - Hare Krishna
   color: bliss
-  link: https://sounds.mailta.pe/447/track1.mp3
+  link: https://df.mailta.pe/447/track1.mp3
 track2:
   title: Tatsuro Yamashita - Ride On Time
   color: vibrant
-  link: https://sounds.mailta.pe/missingTrack.mp3
+  link: https://df.mailta.pe/missingTrack.mp3
 track3:
   title: Robin Guthrie & Harold Budd - Snowfall
   color: dreamy
-  link: https://sounds.mailta.pe/missingTrack.mp3
+  link: https://df.mailta.pe/missingTrack.mp3
 track4:
   title: Curved Light - One Moment in the Sun
   color: vibrant
-  link: https://sounds.mailta.pe/missingTrack.mp3
+  link: https://df.mailta.pe/missingTrack.mp3
 track5:
   title: 36 & awakened souls - Past Self
   color: dreamy
-  link: https://sounds.mailta.pe/447/track5.mp3
+  link: https://df.mailta.pe/447/track5.mp3
 track6:
   title: Mytron & Ofofo - Lebanese Red Bird
   color: vibrant
-  link: https://sounds.mailta.pe/missingTrack.mp3
+  link: https://df.mailta.pe/missingTrack.mp3
 track7:
   title: YOM - Celebration
   color: bliss
-  link: https://sounds.mailta.pe/447/track7.mp3
+  link: https://df.mailta.pe/447/track7.mp3
 release: 447
 ---
 

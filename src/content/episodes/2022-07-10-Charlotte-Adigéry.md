@@ -18,31 +18,31 @@ pubDate: 2022-07-10
 track1:
   title: Erykah Badu - Bag Lady
   color: bliss
-  link: https://sounds.mailta.pe/500/track1.mp3
+  link: https://df.mailta.pe/500/track1.mp3
 track2:
   title: The Slits - Typical Girls
   color: trippy
-  link: https://sounds.mailta.pe/500/track2.mp3
+  link: https://df.mailta.pe/500/track2.mp3
 track3:
   title: Talking Heads - Born Under Punches
   color: trippy
-  link: https://sounds.mailta.pe/500/track3.mp3
+  link: https://df.mailta.pe/500/track3.mp3
 track4:
   title: Charlotte Adigéry & Bolis Pupul - Ich Mwen (feat. Christiane Adigéry)
   color: vibrant
-  link: https://sounds.mailta.pe/500/track4.mp3
+  link: https://df.mailta.pe/500/track4.mp3
 track5:
   title: Pierre Barouh - Le Pollen
   color: trippy
-  link: https://sounds.mailta.pe/500/track5.mp3
+  link: https://df.mailta.pe/500/track5.mp3
 track6:
   title: Say She She - Blow My Mind
   color: trippy
-  link: https://sounds.mailta.pe/500/track6.mp3
+  link: https://df.mailta.pe/500/track6.mp3
 track7:
   title: "Charlotte Adigéry & Bolis Pupul - Reappropriate "
   color: bliss
-  link: https://sounds.mailta.pe/500/track7.mp3
+  link: https://df.mailta.pe/500/track7.mp3
 release: 500
 ---
  Our 500th episode of MailTape this morning!! This year and since 2012, we've welcomed so many wonderful guests, sharing love for music with our loyal listeners every Sunday. It's hard not to feel sentimental with this special project of bringing music into peoples' hearts. We hope you've loved these moments as much as we have, cheers to the next 500 :) 

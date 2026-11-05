@@ -16,32 +16,32 @@ pubDate: 2019-12-01
 track1:
   title: Hejira – Joyful Mind
   color: vibrant
-  link: https://sounds.mailta.pe/382/track1.mp3
+  link: https://df.mailta.pe/382/track1.mp3
 track2:
   title: Mike Block – Sarabande for solo cello in D major from Suite no.6 BWV 1012
     (JS Bach)
   color: dreamy
-  link: https://sounds.mailta.pe/382/track2.mp3
+  link: https://df.mailta.pe/382/track2.mp3
 track3:
   title: Abdul Wadud – Camille
   color: bliss
-  link: https://sounds.mailta.pe/382/track3.mp3
+  link: https://df.mailta.pe/382/track3.mp3
 track4:
   title: Fran & Flora – Jurjuna for Leyli
   color: dreamy
-  link: https://sounds.mailta.pe/382/track4.mp3
+  link: https://df.mailta.pe/382/track4.mp3
 track5:
   title: William Parker – For Don Cherry
   color: trippy
-  link: https://sounds.mailta.pe/382/track5.mp3
+  link: https://df.mailta.pe/382/track5.mp3
 track6:
   title: Tomeka Reid Quartet – The Lone Wait
   color: bliss
-  link: https://sounds.mailta.pe/382/track6.mp3
+  link: https://df.mailta.pe/382/track6.mp3
 track7:
   title: Soumik Datta – Jangal
   color: trippy
-  link: https://sounds.mailta.pe/382/track7.mp3
+  link: https://df.mailta.pe/382/track7.mp3
 release: 382
 ---
 This morning we are delighted to welcome [Fran and Flora](https://www.franandflora.com/), the London-based string duo of Francesca Ter-Berg and Flora Curzon, to select some Sunday morning tunes with us on MailTape.

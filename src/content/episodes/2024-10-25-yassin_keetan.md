@@ -12,31 +12,31 @@ musiColor: /img/musicolor563.png
 track1:
   title: Beach House - Space Song
   color: dreamy
-  link: https://sounds.mailta.pe/563/track1.mp3
+  link: https://df.mailta.pe/563/track1.mp3
 track2:
   title: Ratatat - I Will Return
   color: bliss
-  link: https://sounds.mailta.pe/563/track2.mp3
+  link: https://df.mailta.pe/563/track2.mp3
 track3:
   title: Glass Beams - Orb
   color: trippy
-  link: https://sounds.mailta.pe/563/track3.mp3
+  link: https://df.mailta.pe/563/track3.mp3
 track4:
   title: Yassin Keetan - Encounter
   color: vibrant
-  link: https://sounds.mailta.pe/563/track4.mp3
+  link: https://df.mailta.pe/563/track4.mp3
 track5:
   title: ddwy - Pendorlan
   color: dreamy
-  link: https://sounds.mailta.pe/563/track5.mp3
+  link: https://df.mailta.pe/563/track5.mp3
 track6:
   title: Total Blue - Jaguarundi
   color: trippy
-  link: https://sounds.mailta.pe/563/track6.mp3
+  link: https://df.mailta.pe/563/track6.mp3
 track7:
   title: Ellinor Jackson - De Se Trouver
   color: bliss
-  link: https://sounds.mailta.pe/563/track7.mp3
+  link: https://df.mailta.pe/563/track7.mp3
 release: 563
 ---
 This morning we're delighted to welcome Paris-based music producer [Yassin Keetan](https://www.instagram.com/yassinkeetan/) to MailTape!

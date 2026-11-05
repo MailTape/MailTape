@@ -17,31 +17,31 @@ pubDate: 2018-01-14
 track1:
   title: Dennis Brown – Have You Ever
   color: vibrant
-  link: https://sounds.mailta.pe/295/track1.mp3
+  link: https://df.mailta.pe/295/track1.mp3
 track2:
   title: Burning Spear – Mi Gi Dem
   color: trippy
-  link: https://sounds.mailta.pe/295/track2.mp3
+  link: https://df.mailta.pe/295/track2.mp3
 track3:
   title: Damian Marley ft. Stephen Marley – Medication
   color: vibrant
-  link: https://sounds.mailta.pe/295/track3.mp3
+  link: https://df.mailta.pe/295/track3.mp3
 track4:
   title: Elijah Salomon – Power to the Dub
   color: trippy
-  link: https://sounds.mailta.pe/295/track4.mp3
+  link: https://df.mailta.pe/295/track4.mp3
 track5:
   title: Aba-Shanti-I – Tower of Babel
   color: bliss
-  link: https://sounds.mailta.pe/295/track5.mp3
+  link: https://df.mailta.pe/295/track5.mp3
 track6:
   title: Mo' Kalamity – Darling
   color: trippy
-  link: https://sounds.mailta.pe/295/track6.mp3
+  link: https://df.mailta.pe/295/track6.mp3
 track7:
   title: Kabaka Pyramid – No Capitalist
   color: bliss
-  link: https://sounds.mailta.pe/295/track7.mp3
+  link: https://df.mailta.pe/295/track7.mp3
 release: 295
 ---
 This morning we welcome multilingual singer, songwriter and musician, [Elijah Salomon](https://www.elijah.ch). With songs in Swiss German, English, Jamaican Patois, Spanish and French, he represents a culture of co-existence without boundaries based on language, religion or nationality.

@@ -17,31 +17,31 @@ pubDate: 2023-07-02
 track1:
   title: Dolthom - Ragui
   color: trippy
-  link: https://sounds.mailta.pe/531/track1.mp3
+  link: https://df.mailta.pe/531/track1.mp3
 track2:
   title: Solo Career - Renaissance
   color: bliss
-  link: https://sounds.mailta.pe/531/track2.mp3
+  link: https://df.mailta.pe/531/track2.mp3
 track3:
   title: Versis - LA TiERRA
   color: vibrant
-  link: https://sounds.mailta.pe/531/track3.mp3
+  link: https://df.mailta.pe/531/track3.mp3
 track4:
   title: Expensive Music Band - Bowling Alone
   color: dreamy
-  link: https://sounds.mailta.pe/531/track4.mp3
+  link: https://df.mailta.pe/531/track4.mp3
 track5:
   title: Aleesha Dibbs - Distance
   color: trippy
-  link: https://sounds.mailta.pe/531/track5.mp3
+  link: https://df.mailta.pe/531/track5.mp3
 track6:
   title: Moonfish - Mahi Mahi
   color: bliss
-  link: https://sounds.mailta.pe/531/track6.mp3
+  link: https://df.mailta.pe/531/track6.mp3
 track7:
   title: Munan - Once Upon a Time
   color: trippy
-  link: https://sounds.mailta.pe/531/track7.mp3
+  link: https://df.mailta.pe/531/track7.mp3
 release: 531
 ---
  This Sunday we welcome [Expensive Music Band](https://expensivemusicband.bandcamp.com/) for Episode 531 :) The project of multi-instrumentalist Troon Lienad, the band is based in Illawarra. They join us after the release of their latest album, [Things to Say at a Barbecue](https://permanentslump.bandcamp.com/album/things-to-say-at-a-bbq).

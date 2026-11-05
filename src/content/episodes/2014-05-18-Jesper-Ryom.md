@@ -16,31 +16,31 @@ pubDate: 2014-05-18
 track1:
   title: Your Friend - Tame One
   color: dreamy
-  link: https://sounds.mailta.pe/141/track1.mp3
+  link: https://df.mailta.pe/141/track1.mp3
 track2:
   title: The War on Drugs - Red Eyes
   color: vibrant
-  link: https://sounds.mailta.pe/141/track2.mp3
+  link: https://df.mailta.pe/141/track2.mp3
 track3:
   title: Fort Romeau - Her Dream
   color: rough
-  link: https://sounds.mailta.pe/141/track3.mp3
+  link: https://df.mailta.pe/141/track3.mp3
 track4:
   title: Jesper Ryom - Viewpoint
   color: vibrant
-  link: https://sounds.mailta.pe/141/track4.mp3
+  link: https://df.mailta.pe/141/track4.mp3
 track5:
   title: Tom Misch - Understanding
   color: bliss
-  link: https://sounds.mailta.pe/141/track5.mp3
+  link: https://df.mailta.pe/141/track5.mp3
 track6:
   title: Maudlin Strangers - Overdose
   color: vibrant
-  link: https://sounds.mailta.pe/141/track6.mp3
+  link: https://df.mailta.pe/141/track6.mp3
 track7:
   title: Tom and Laura Misch - Follow
   color: bliss
-  link: https://sounds.mailta.pe/141/track7.mp3
+  link: https://df.mailta.pe/141/track7.mp3
 release: 141
 ---
 

@@ -19,31 +19,31 @@ pubDate: 2019-04-14
 track1:
   title: Aamina Camaari - Rag waa Nacab Iyo Nasteexo (Men are Cruel and Kind)
   color: bliss
-  link: https://sounds.mailta.pe/353/track1.mp3
+  link: https://df.mailta.pe/353/track1.mp3
 track2:
   title: The Lark Ascending - Ralph Vaughan Williams (LPO violin by Sarah Chang)
   color: dreamy
-  link: https://sounds.mailta.pe/353/track2.mp3
+  link: https://df.mailta.pe/353/track2.mp3
 track3:
   title: "The Verve - Bittersweet Symphony "
   color: vibrant
-  link: https://sounds.mailta.pe/353/track3.mp3
+  link: https://df.mailta.pe/353/track3.mp3
 track4:
   title: Skinshape - Life As One
   color: dreamy
-  link: https://sounds.mailta.pe/353/track4.mp3
+  link: https://df.mailta.pe/353/track4.mp3
 track5:
   title: Hilary Woods - Prodigal Dog
   color: vibrant
-  link: https://sounds.mailta.pe/353/track5.mp3
+  link: https://df.mailta.pe/353/track5.mp3
 track6:
   title: Para One - Finale (Music To And From Naissance Des Pieuvres)
   color: rough
-  link: https://sounds.mailta.pe/353/track6.mp3
+  link: https://df.mailta.pe/353/track6.mp3
 track7:
   title: Corte Real - Opium
   color: dreamy
-  link: https://sounds.mailta.pe/353/track7.mp3
+  link: https://df.mailta.pe/353/track7.mp3
 release: 353
 ---
  This morning, [Skinshape](https://skinshape.bandcamp.com/) is welcoming us aboard his creative ship, you'd better be ready to weigh the anchor, sailor boys! From the Horn of Africa to foggy pirate havens, from the peaceful lands of England to the abyssal depths of the oceans, let yourself be guided by our guest, through awesome storms and mysterious sea creatures, all down to faraway places. Set sail!

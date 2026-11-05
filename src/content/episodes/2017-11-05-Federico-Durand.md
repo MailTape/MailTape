@@ -17,31 +17,31 @@ pubDate: 2017-11-05
 track1:
   title: Reet Hendrikson - Meil aiaaarne tanavas
   color: bliss
-  link: https://sounds.mailta.pe/285/track1.mp3
+  link: https://df.mailta.pe/285/track1.mp3
 track2:
   title: Chihei Hatakeyama - starlight and black echo
   color: dreamy
-  link: https://sounds.mailta.pe/285/track2.mp3
+  link: https://df.mailta.pe/285/track2.mp3
 track3:
   title: Steinbrüchel - 06
   color: dreamy
-  link: https://sounds.mailta.pe/285/track3.mp3
+  link: https://df.mailta.pe/285/track3.mp3
 track4:
   title: Federico Durand - La historia de la niña junco
   color: dreamy
-  link: https://sounds.mailta.pe/285/track4.mp3
+  link: https://df.mailta.pe/285/track4.mp3
 track5:
   title: Chapelier Fou - Oracle
   color: dreamy
-  link: https://sounds.mailta.pe/285/track5.mp3
+  link: https://df.mailta.pe/285/track5.mp3
 track6:
   title: Susumu Yokota - Zenmai
   color: bliss
-  link: https://sounds.mailta.pe/285/track5.mp3
+  link: https://df.mailta.pe/285/track5.mp3
 track7:
   title: Geotic - Sunspell
   color: vibrant
-  link: https://sounds.mailta.pe/285/track7.mp3
+  link: https://df.mailta.pe/285/track7.mp3
 release: 285
 ---
 This morning, our guest [Federico Durand](https://federicodurand.bandcamp.com/), from the New York-based music label [12k](http://www.12k.com/about/) is inviting you to just “listen”, turn off the thinking box, let go of all interpretations. Do not attempt to analyze each sound. Just receive, simply. Let your eardrums engulf each note. Let go.

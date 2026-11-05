@@ -18,31 +18,31 @@ pubDate: 2018-12-23
 track1:
   title: "Gabriel Fauré - Requiem, Op. 48 : II. Kyrie"
   color: vibrant
-  link: https://sounds.mailta.pe/337/requiem-op-48-ii-kyrie.mp3
+  link: https://df.mailta.pe/337/requiem-op-48-ii-kyrie.mp3
 track2:
   title: Ziad Rahbani – Bala Wala Chi
   color: vibrant
-  link: https://sounds.mailta.pe/337/Ziad%20Rahbani%20-%20Bala%20Wala%20Chi%20%D8%A8%D9%84%D8%A7%20%D9%88%D9%84%D8%A7%20%D8%B4%D9%8A%20%28Lyric%20Video%29.mp3
+  link: https://df.mailta.pe/337/Ziad%20Rahbani%20-%20Bala%20Wala%20Chi%20%D8%A8%D9%84%D8%A7%20%D9%88%D9%84%D8%A7%20%D8%B4%D9%8A%20%28Lyric%20Video%29.mp3
 track3:
   title: Jaco Pastorius – Part 10
   color: rough
-  link: https://sounds.mailta.pe/337/jaco-pastorius-part-10.mp3
+  link: https://df.mailta.pe/337/jaco-pastorius-part-10.mp3
 track4:
   title: Bachar Mar-Khalifé – Lemon
   color: rough
-  link: https://sounds.mailta.pe/337/bachar-mar-khalife-lemon-official-video.mp3
+  link: https://df.mailta.pe/337/bachar-mar-khalife-lemon-official-video.mp3
 track5:
   title: Altin Gün – Tatil Dile Guler Yuze
   color: trippy
-  link: https://sounds.mailta.pe/337/track5.mp3
+  link: https://df.mailta.pe/337/track5.mp3
 track6:
   title: Trio Ternura – A Gira
   color: bliss
-  link: https://sounds.mailta.pe/337/track6.mp3
+  link: https://df.mailta.pe/337/track6.mp3
 track7:
   title: Hamid Al Shaeri - Ayonha
   color: dreamy
-  link: https://sounds.mailta.pe/337/track7.mp3
+  link: https://df.mailta.pe/337/track7.mp3
 release: 337
 ---
 This morning we are delighted to welcome Franco-Lebanese singer, songwriter and multi-instrumentalist [Bachar Mar-Khalifé](https://www.facebook.com/bmkhalife/) to pick three Sunday morning musical selections for us.

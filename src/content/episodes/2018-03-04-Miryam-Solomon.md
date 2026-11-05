@@ -17,31 +17,31 @@ pubDate: 2018-03-04
 track1:
   title: Grand Puba – I Like It
   color: vibrant
-  link: https://sounds.mailta.pe/302/track1.mp3
+  link: https://df.mailta.pe/302/track1.mp3
 track2:
   title: The Invisible – Life's Dancers (Floating Points Remix)
   color: bliss
-  link: https://sounds.mailta.pe/302/track2.mp3
+  link: https://df.mailta.pe/302/track2.mp3
 track3:
   title: Chassol – Dominos Part III
   color: dreamy
-  link: https://sounds.mailta.pe/302/track3.mp3
+  link: https://df.mailta.pe/302/track3.mp3
 track4:
   title: Miryam Solomon – Something About Your Mother
   color: dreamy
-  link: https://sounds.mailta.pe/302/track4.mp3
+  link: https://df.mailta.pe/302/track4.mp3
 track5:
   title: Alfa Mist – Nucleus
   color: bliss
-  link: https://sounds.mailta.pe/302/track5.mp3
+  link: https://df.mailta.pe/302/track5.mp3
 track6:
   title: Mélissa Laveaux – Lè Ma Monte Chwal Mwen
   color: dreamy
-  link: https://sounds.mailta.pe/302/track6.mp3
+  link: https://df.mailta.pe/302/track6.mp3
 track7:
   title: Kokoroko – Abusey Junction
   color: bliss
-  link: https://sounds.mailta.pe/302/track7.mp3
+  link: https://df.mailta.pe/302/track7.mp3
 release: 302
 ---
 By way of Sweden and Eritrea we welcome London-based singer/songwriter, [Miryam Solomon](https://miryamsolomonmusic.bandcamp.com/), who joins us to provide an eclectic Sunday morning playlist that promises, with any luck, to accompany our sapling-like emergence from the extended winter.

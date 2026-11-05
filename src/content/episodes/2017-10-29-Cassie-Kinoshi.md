@@ -17,31 +17,31 @@ pubDate: 2017-10-29
 track1:
   title: Kiran Kai ft. Jordan Rakei & Bdrsk – FF
   color: trippy
-  link: https://sounds.mailta.pe/284/track1.mp3
+  link: https://df.mailta.pe/284/track1.mp3
 track2:
   title: Andrew Poppy – Last Light
   color: dreamy
-  link: https://sounds.mailta.pe/284/track2.mp3
+  link: https://df.mailta.pe/284/track2.mp3
 track3:
   title: Oscar Jerome – You Take Me
   color: vibrant
-  link: https://sounds.mailta.pe/284/track3.mp3
+  link: https://df.mailta.pe/284/track3.mp3
 track4:
   title: Cassie Kinoshi ft. Heidi Heidelberg – The Dream Keeper
   color: bliss
-  link: https://sounds.mailta.pe/284/track4.mp3
+  link: https://df.mailta.pe/284/track4.mp3
 track5:
   title: Mazz Swift – Invisible (Dedicated To Trayvon Martin And His Family)
   color: dreamy
-  link: https://sounds.mailta.pe/284/track5.mp3
+  link: https://df.mailta.pe/284/track5.mp3
 track6:
   title: Collocutor – Arrival
   color: trippy
-  link: https://sounds.mailta.pe/284/track6.mp3
+  link: https://df.mailta.pe/284/track6.mp3
 track7:
   title: Moses Boyd Exodus – Nocturne
   color: dreamy
-  link: https://sounds.mailta.pe/284/track7.mp3
+  link: https://df.mailta.pe/284/track7.mp3
 release: 284
 ---
 This morning's guest, [Cassie Kinoshi](http://www.cassiekinoshi.com/), is known primarily for her work with jazz septet [Nérija](http://www.nerijamusic.com/), Afrobeat band [Kokoroko](https://www.facebook.com/kokorokomusic/?fref=ts) and her own large ensemble, [SEED](https://www.facebook.com/seedensemble/?fref=ts). We are thrilled to present her Sunday morning jams in collaboration with MailTape!

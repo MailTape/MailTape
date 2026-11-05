@@ -18,7 +18,7 @@ description: This morning, we're back and on fire! Our guest is parisian
 track1:
   title: Stormzy - Shut Up
   color: bliss
-  link: https://sounds.mailta.pe/228/track1.mp3
+  link: https://df.mailta.pe/228/track1.mp3
 track2:
   title: Edyth - Agua Verde
   color: bliss
@@ -26,7 +26,7 @@ track2:
 track3:
   title: FEYNMAN - The Farewell Courtyard
   color: rough
-  link: https://sounds.mailta.pe/228/track3.mp3
+  link: https://df.mailta.pe/228/track3.mp3
 track4:
   title: Monomotion - Blue Hell Island
   color: bliss
@@ -34,7 +34,7 @@ track4:
 track5:
   title: aetherworld. - Aeon of Aether
   color: dreamy
-  link: https://sounds.mailta.pe/missingTrack.mp3
+  link: https://df.mailta.pe/missingTrack.mp3
 track6:
   title: Nym - Come Back
   color: dreamy

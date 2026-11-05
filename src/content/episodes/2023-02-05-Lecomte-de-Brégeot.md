@@ -18,31 +18,31 @@ pubDate: 2023-02-05
 track1:
   title: Dina Summer - Uranos
   color: trippy
-  link: https://sounds.mailta.pe/516/track1.mp3
+  link: https://df.mailta.pe/516/track1.mp3
 track2:
   title: Kisses - They Kiss
   color: vibrant
-  link: https://sounds.mailta.pe/516/track2.mp3
+  link: https://df.mailta.pe/516/track2.mp3
 track3:
   title: Matia Bazar - Elettrochoc
   color: trippy
-  link: https://sounds.mailta.pe/516/track3.mp3
+  link: https://df.mailta.pe/516/track3.mp3
 track4:
   title: Lecomte de Brégeot, Violet Chachki, Allie X - Mistress Violet
   color: vibrant
-  link: https://sounds.mailta.pe/516/track4.mp3
+  link: https://df.mailta.pe/516/track4.mp3
 track5:
   title: Cakes da Killa, Svendeep - Sip of My Sip
   color: trippy
-  link: https://sounds.mailta.pe/516/track5.mp3
+  link: https://df.mailta.pe/516/track5.mp3
 track6:
   title: Wajatta - Marmite
   color: vibrant
-  link: https://sounds.mailta.pe/516/track6.mp3
+  link: https://df.mailta.pe/516/track6.mp3
 track7:
   title: Lecomte de Brégeot - Nerves
   color: trippy
-  link: https://sounds.mailta.pe/516/track7.mp3
+  link: https://df.mailta.pe/516/track7.mp3
 release: 516
 ---
  The dancefloor energy is bleeding into the morning hours this Sunday as we welcome Lecomte de Brégeot to MailTape :) Based in Lyon, the discography of Lecomte de Brégeot (aka Yannick Lecomte) graces runways across the world, curating fashion spectacles (with names including Yves Saint Laurent, Balenciaga, Armani, and many more) and Ballrooms alike. 

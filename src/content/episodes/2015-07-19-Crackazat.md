@@ -15,31 +15,31 @@ pubDate: 2015-07-19
 track1:
   title: Skalpel - Sculpture
   color: dreamy
-  link: https://sounds.mailta.pe/195/track1.mp3
+  link: https://df.mailta.pe/195/track1.mp3
 track2:
   title: Sameed - Blue
   color: vibrant
-  link: https://sounds.mailta.pe/195/track2.mp3
+  link: https://df.mailta.pe/195/track2.mp3
 track3:
   title: Type Sun - The PL
   color: vibrant
-  link: https://sounds.mailta.pe/195/track3.mp3
+  link: https://df.mailta.pe/195/track3.mp3
 track4:
   title: Crackazat - Eye Light
   color: bliss
-  link: https://sounds.mailta.pe/195/track4.mp3
+  link: https://df.mailta.pe/195/track4.mp3
 track5:
   title: Eli Escobar - The Formula
   color: rough
-  link: https://sounds.mailta.pe/195/track5.mp3
+  link: https://df.mailta.pe/195/track5.mp3
 track6:
   title: Uffe - Like You Mean it
   color: rough
-  link: https://sounds.mailta.pe/195/track6.mp3
+  link: https://df.mailta.pe/195/track6.mp3
 track7:
   title: SG Lewis - No Less (Kartell Remix)
   color: dreamy
-  link: https://sounds.mailta.pe/195/track7.mp3
+  link: https://df.mailta.pe/195/track7.mp3
 release: 195
 ---
 

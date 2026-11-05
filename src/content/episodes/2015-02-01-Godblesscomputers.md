@@ -16,31 +16,31 @@ pubDate: 2015-02-01
 track1:
   title: Ifan Dafydd - Celwydd (feat. Alys Williams)
   color: bliss
-  link: https://sounds.mailta.pe/171/track1.mp3
+  link: https://df.mailta.pe/171/track1.mp3
 track2:
   title: Guerre - For Qwanisha
   color: dreamy
-  link: https://sounds.mailta.pe/171/track2.mp3
+  link: https://df.mailta.pe/171/track2.mp3
 track3:
   title: Long Arm - When Children Sleep
   color: bliss
-  link: https://sounds.mailta.pe/171/track3.mp3
+  link: https://df.mailta.pe/171/track3.mp3
 track4:
   title: Godblesscomputers - Icry
   color: trippy
-  link: https://sounds.mailta.pe/171/track4.mp3
+  link: https://df.mailta.pe/171/track4.mp3
 track5:
   title: Sam Gellaitry - Reflectionz
   color: bliss
-  link: https://sounds.mailta.pe/171/track5.mp3
+  link: https://df.mailta.pe/171/track5.mp3
 track6:
   title: Youthfire - Leave
   color: dreamy
-  link: https://sounds.mailta.pe/171/track6.mp3
+  link: https://df.mailta.pe/171/track6.mp3
 track7:
   title: iZem - Sadeo (feat. Feather)
   color: vibrant
-  link: https://sounds.mailta.pe/171/track7.mp3
+  link: https://df.mailta.pe/171/track7.mp3
 release: 171
 ---
 

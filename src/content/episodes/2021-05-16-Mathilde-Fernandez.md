@@ -16,31 +16,31 @@ pubDate: 2021-05-16
 track1:
   title: Mansfield TYA - Ni Morte, Ni Connue
   color: vibrant
-  link: https://sounds.mailta.pe/451/track1.mp3
+  link: https://df.mailta.pe/451/track1.mp3
 track2:
   title: Nuova Compagnia di Canto Popolare - 2 coro delle lavendaire 1998
   color: bliss
-  link: https://sounds.mailta.pe/451/track2.mp3
+  link: https://df.mailta.pe/451/track2.mp3
 track3:
   title: Zinda Reinhardt - Troumli
   color: rough
-  link: https://sounds.mailta.pe/451/track3.mp3
+  link: https://df.mailta.pe/451/track3.mp3
 track4:
   title: Mathilde Fernandez - Fard
   color: bliss
-  link: https://sounds.mailta.pe/451/track4.mp3
+  link: https://df.mailta.pe/451/track4.mp3
 track5:
   title: Maria Violenza - La Ballade de l'Indifférence
   color: rough
-  link: https://sounds.mailta.pe/451/track5.mp3
+  link: https://df.mailta.pe/451/track5.mp3
 track6:
   title: Daniel Schmidt - In My Arms, Many Flowers
   color: dreamy
-  link: https://sounds.mailta.pe/451/track6.mp3
+  link: https://df.mailta.pe/451/track6.mp3
 track7:
   title: Deena Abdelwahed - Lila Fi Tounes
   color: vibrant
-  link: https://sounds.mailta.pe/451/track7.mp3
+  link: https://df.mailta.pe/451/track7.mp3
 release: 451
 ---
 This morning, we're glad to have [Mathilde Fernandez](https://mathildefernandez.bandcamp.com/) with us, this time to share her inspiration gravitating around her solo project. Last time, our [episode 388](https://www.mailta.pe/388/ascendant-vierge/) featured her duo with [Paul Seul](https://soundcloud.com/paulseul) : [Ascendant Vierge](https://soundcloud.com/viergeascendant).

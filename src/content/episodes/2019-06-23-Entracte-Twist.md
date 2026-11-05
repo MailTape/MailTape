@@ -11,31 +11,31 @@ writer: Anaïs G
 track1:
   title: Cocteau Twins - Sugar Hiccup
   color: dreamy
-  link: https://sounds.mailta.pe/363/Track1.mp3
+  link: https://df.mailta.pe/363/Track1.mp3
 track2:
   title: The Homesick - Half Aryan
   color: rough
-  link: https://sounds.mailta.pe/363/track2.mp3
+  link: https://df.mailta.pe/363/track2.mp3
 track3:
   title: Requin Chagrin - Les Plus Mauvaises Nuits
   color: dreamy
-  link: https://sounds.mailta.pe/363/track3.mp3
+  link: https://df.mailta.pe/363/track3.mp3
 track4:
   title: Entracte Twist - Hors Service
   color: rough
-  link: https://sounds.mailta.pe/363/track4.mp3
+  link: https://df.mailta.pe/363/track4.mp3
 track5:
   title: Cate Le Bon - Solitude
   color: vibrant
-  link: https://sounds.mailta.pe/363/Track5.mp3
+  link: https://df.mailta.pe/363/Track5.mp3
 track6:
   title: Structures - Satellite
   color: rough
-  link: https://sounds.mailta.pe/363/track6.mp3
+  link: https://df.mailta.pe/363/track6.mp3
 track7:
   title: The Fat White Family - Tastes Good With The Money
   color: trippy
-  link: https://sounds.mailta.pe/363/Track7.mp3
+  link: https://df.mailta.pe/363/Track7.mp3
 description: |-
   This morning, we take out the guitars, adjust our strings test the sound with the amp in boring neighbors...  And let our fingers slide so that we can wake up our faithful on Sunday morning.
   <br><br>...

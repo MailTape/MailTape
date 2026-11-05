@@ -17,31 +17,31 @@ musiColor: /img/musicolor573.png
 track1:
   title: Mabe Fratti - Enfrente
   color: bliss
-  link: https://sounds.mailta.pe/573/track1.mp3
+  link: https://df.mailta.pe/573/track1.mp3
 track2:
   title: Claire Deak - Quarrel of the senses
   color: dreamy
-  link: https://sounds.mailta.pe/573/track2.mp3
+  link: https://df.mailta.pe/573/track2.mp3
 track3:
   title: Nala Sinephro - Continuum 1
   color: dreamy
-  link: https://sounds.mailta.pe/573/track3.mp3
+  link: https://df.mailta.pe/573/track3.mp3
 track4:
   title: William Ryan Fritch - Gravitropic
   color: dreamy
-  link: https://sounds.mailta.pe/573/track4.mp3
+  link: https://df.mailta.pe/573/track4.mp3
 track5:
   title: LEYA - Corners
   color: bliss
-  link: https://sounds.mailta.pe/573/track5.mp3
+  link: https://df.mailta.pe/573/track5.mp3
 track6:
   title: Marina Herlop - Babel
   color: trippy
-  link: https://sounds.mailta.pe/573/track6.mp3
+  link: https://df.mailta.pe/573/track6.mp3
 track7:
   title: Patricia Wolf - Nocturnal Migration
   color: dreamy
-  link: https://sounds.mailta.pe/573/track7.mp3
+  link: https://df.mailta.pe/573/track7.mp3
 release: 573
 ---
 This morning, I'm excited to share with you a new episode that showcases the musical tastes of [William Ryan Fritch](https://williamryanfritch.bandcamp.com/album/adhesion), a master of crafting immersive and evocative soundscapes that transport us to otherworldly realms. He's curated a selection of tracks that take us on a journey through the realms of ambient, jazz, and experimental soundscapes. 

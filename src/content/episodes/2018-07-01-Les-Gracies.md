@@ -17,31 +17,31 @@ pubDate: 2018-07-01
 track1:
   title: Joni Mitchell – Hejira
   color: dreamy
-  link: https://sounds.mailta.pe/319/track1.mp3
+  link: https://df.mailta.pe/319/track1.mp3
 track2:
   title: Al Jarreau – Brite 'N' Sunny Babe
   color: vibrant
-  link: https://sounds.mailta.pe/319/track2.mp3
+  link: https://df.mailta.pe/319/track2.mp3
 track3:
   title: "Joseph Malik – Melodies  "
   color: dreamy
-  link: https://sounds.mailta.pe/319/track3.mp3
+  link: https://df.mailta.pe/319/track3.mp3
 track4:
   title: Les Graciés – Compoly
   color: trippy
-  link: https://sounds.mailta.pe/319/track4.mp3
+  link: https://df.mailta.pe/319/track4.mp3
 track5:
   title: Eartheater – Homonyms
   color: trippy
-  link: https://sounds.mailta.pe/319/track5.mp3
+  link: https://df.mailta.pe/319/track5.mp3
 track6:
   title: Elysia Crampton – Valerie & Elysia
   color: dreamy
-  link: https://sounds.mailta.pe/319/track6.mp3
+  link: https://df.mailta.pe/319/track6.mp3
 track7:
   title: Kate Bush – Army Dreamers
   color: bliss
-  link: https://sounds.mailta.pe/319/track7.mp3
+  link: https://df.mailta.pe/319/track7.mp3
 release: 319
 ---
 This morning we welcome the lyrical, dreamy and funky Sunday morning selections of [Les Graciés](https://soundcloud.com/les-gracies)—a French-American tandem of a brother and a sister in sound, an evident and karmic encounter of free spirit music makers in full sympathy with the unknown.

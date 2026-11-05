@@ -17,31 +17,31 @@ pubDate: 2019-01-06
 track1:
   title: Cadence Weapon - Five Roses (feat. Blue Hawaii)
   color: trippy
-  link: https://sounds.mailta.pe/339/Track%201.mp3
+  link: https://df.mailta.pe/339/Track%201.mp3
 track2:
   title: Jessica Praat - Moon Dude
   color: dreamy
-  link: https://sounds.mailta.pe/339/Track%202.mp3
+  link: https://df.mailta.pe/339/Track%202.mp3
 track3:
   title: Bonny Doon - Im Here ( I am Alive )
   color: dreamy
-  link: https://sounds.mailta.pe/339/Track%203.mp3
+  link: https://df.mailta.pe/339/Track%203.mp3
 track4:
   title: Cam Maclean - Sunshine
   color: bliss
-  link: https://sounds.mailta.pe/339/track4.mp3
+  link: https://df.mailta.pe/339/track4.mp3
 track5:
   title: Belmont Witch - Romperlo
   color: rough
-  link: https://sounds.mailta.pe/339/track5.mp3
+  link: https://df.mailta.pe/339/track5.mp3
 track6:
   title: "Westerman - Outside Sublime "
   color: dreamy
-  link: https://sounds.mailta.pe/339/track6.mp3
+  link: https://df.mailta.pe/339/track6.mp3
 track7:
   title: Connan Mockasin - Momo's (feat James Blake)
   color: vibrant
-  link: https://sounds.mailta.pe/339/Track%207.mp3
+  link: https://df.mailta.pe/339/Track%207.mp3
 release: 339
 ---
 

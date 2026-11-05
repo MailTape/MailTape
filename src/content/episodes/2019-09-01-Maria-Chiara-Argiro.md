@@ -16,31 +16,31 @@ pubDate: 2019-09-01
 track1:
   title: "Jon Hopkins – Emerald Rush "
   color: vibrant
-  link: https://sounds.mailta.pe/369/track1.mp3
+  link: https://df.mailta.pe/369/track1.mp3
 track2:
   title: "Ambrose Akinmusire – A Blooming Bloodfruit in a Hoodie  "
   color: bliss
-  link: https://sounds.mailta.pe/369/track2.mp3
+  link: https://df.mailta.pe/369/track2.mp3
 track3:
   title: Andy Shauf – Marta Sways
   color: dreamy
-  link: https://sounds.mailta.pe/369/track3.mp3
+  link: https://df.mailta.pe/369/track3.mp3
 track4:
   title: Maria Chiara Argirò – Nautilus
   color: bliss
-  link: https://sounds.mailta.pe/369/track4.mp3
+  link: https://df.mailta.pe/369/track4.mp3
 track5:
   title: Linda May Han Oh – Firedancer
   color: dreamy
-  link: https://sounds.mailta.pe/369/track5.mp3
+  link: https://df.mailta.pe/369/track5.mp3
 track6:
   title: Ariwo – To Earth
   color: trippy
-  link: https://sounds.mailta.pe/369/track6.mp3
+  link: https://df.mailta.pe/369/track6.mp3
 track7:
   title: Lifted – Rose 31
   color: bliss
-  link: https://sounds.mailta.pe/369/track7.mp3
+  link: https://df.mailta.pe/369/track7.mp3
 release: 369
 ---
 Welcome back to another season of MailTape! This morning we introduce the London-based pianist and composer, [Maria Chiara Argirò](https://www.mariachiaramusic.com/), who kicks things off again with three Sunday morning tunes.

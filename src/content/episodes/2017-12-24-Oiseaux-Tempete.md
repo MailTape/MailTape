@@ -16,31 +16,31 @@ pubDate: 2017-12-24
 track1:
   title: Lichens – Heilagur Draugur
   color: bliss
-  link: https://sounds.mailta.pe/292/track1.mp3
+  link: https://df.mailta.pe/292/track1.mp3
 track2:
   title: Nine Inch Nails – 28 Ghosts IV
   color: trippy
-  link: https://sounds.mailta.pe/292/track2.mp3
+  link: https://df.mailta.pe/292/track2.mp3
 track3:
   title: Sarathy Korwar – Bismillah
   color: bliss
-  link: https://sounds.mailta.pe/292/track3.mp3
+  link: https://df.mailta.pe/292/track3.mp3
 track4:
   title: Oiseaux-Tempête – I Don't Know, What Or Why (Mish Aaref Eish W Leish)
   color: trippy
-  link: https://sounds.mailta.pe/292/track4.mp3
+  link: https://df.mailta.pe/292/track4.mp3
 track5:
   title: Christina Vantzou – Laurie Spiegel
   color: dreamy
-  link: https://sounds.mailta.pe/292/track5.mp3
+  link: https://df.mailta.pe/292/track5.mp3
 track6:
   title: Nadah El Shazly – Barzakh (Limen)
   color: bliss
-  link: https://sounds.mailta.pe/292/track6.mp3
+  link: https://df.mailta.pe/292/track6.mp3
 track7:
   title: Jerusalem In My Heart – 7ebr El 3oyoun
   color: dreamy
-  link: https://sounds.mailta.pe/292/track7.mp3
+  link: https://df.mailta.pe/292/track7.mp3
 release: 292
 ---
 This morning we attempt to provide you with a soundtrack to the water crystallising under freezing temperatures by welcoming the Paris-based collective, [Oiseaux-Tempête](http://www.oiseaux-tempete.com/), to MailTape.

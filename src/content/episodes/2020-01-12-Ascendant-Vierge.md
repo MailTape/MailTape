@@ -24,31 +24,31 @@ pubDate: 2020-01-12
 track1:
   title: Grimes -  So Heavy I Fell Through the Earth (Algorithm Mix)
   color: dreamy
-  link: https://sounds.mailta.pe/388/track1.mp3
+  link: https://df.mailta.pe/388/track1.mp3
 track2:
   title: "I Hate Models -  Intergalactic Emotional Breakdown "
   color: rough
-  link: https://sounds.mailta.pe/388/track2.mp3
+  link: https://df.mailta.pe/388/track2.mp3
 track3:
   title: Acloudyskye - Alignement
   color: rough
-  link: https://sounds.mailta.pe/388/track3.mp3
+  link: https://df.mailta.pe/388/track3.mp3
 track4:
   title: ascendant vierge - Faire et Refaire
   color: rough
-  link: https://sounds.mailta.pe/388/track4.mp3
+  link: https://df.mailta.pe/388/track4.mp3
 track5:
   title: Giant Swan - Pandaemonium
   color: rough
-  link: https://sounds.mailta.pe/388/track5.mp3
+  link: https://df.mailta.pe/388/track5.mp3
 track6:
   title: FUMU - Skinned - 01 A1 - Untitled
   color: rough
-  link: https://sounds.mailta.pe/388/track6.mp3
+  link: https://df.mailta.pe/388/track6.mp3
 track7:
   title: Overmono - Salt Mix
   color: rough
-  link: https://sounds.mailta.pe/388/track7.mp3
+  link: https://df.mailta.pe/388/track7.mp3
 release: 388
 ---
 

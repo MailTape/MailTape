@@ -20,31 +20,31 @@ pubDate: 2016-01-17
 track1:
   title: Jerry Paper - 3D Dream
   color: trippy
-  link: https://sounds.mailta.pe/200/track1.mp3
+  link: https://df.mailta.pe/200/track1.mp3
 track2:
   title: Unblonde - Look
   color: trippy
-  link: https://sounds.mailta.pe/200/track2.mp3
+  link: https://df.mailta.pe/200/track2.mp3
 track3:
   title: " Tonstartssbandht - Hymn Eola"
   color: dreamy
-  link: https://sounds.mailta.pe/200/track3.mp3
+  link: https://df.mailta.pe/200/track3.mp3
 track4:
   title: Homeshake - I Don't Play
   color: dreamy
-  link: https://sounds.mailta.pe/200/track4.mp3
+  link: https://df.mailta.pe/200/track4.mp3
 track5:
   title: Max Graef & Glenn Astro - Magic Johnson
   color: vibrant
-  link: https://sounds.mailta.pe/200/track5.mp3
+  link: https://df.mailta.pe/200/track5.mp3
 track6:
   title: Dego & Kaidi - Black is Key
   color: rough
-  link: https://sounds.mailta.pe/200/track6.mp3
+  link: https://df.mailta.pe/200/track6.mp3
 track7:
   title: " Monte Booker - Baby Ft. Ravyn Lenae "
   color: dreamy
-  link: https://sounds.mailta.pe/200/track7.mp3
+  link: https://df.mailta.pe/200/track7.mp3
 release: 200
 ---
 

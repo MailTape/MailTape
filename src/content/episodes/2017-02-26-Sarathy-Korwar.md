@@ -15,31 +15,31 @@ pubDate: 2017-02-26
 track1:
   title: Cara Stacey - Dark Matter
   color: dreamy
-  link: https://sounds.mailta.pe/249/track1.mp3
+  link: https://df.mailta.pe/249/track1.mp3
 track2:
   title: Maalem Mahmoud Guinia & Floating Points - Mimoun Marhaba
   color: vibrant
-  link: https://sounds.mailta.pe/249/track2.mp3
+  link: https://df.mailta.pe/249/track2.mp3
 track3:
   title: Emanative - Hum Allah Hum Allah Hum Allah
   color: trippy
-  link: https://sounds.mailta.pe/249/track3.mp3
+  link: https://df.mailta.pe/249/track3.mp3
 track4:
   title: Sarathy Korwar - Indefinite Leave to Remain
   color: dreamy
-  link: https://sounds.mailta.pe/249/track4.mp3
+  link: https://df.mailta.pe/249/track4.mp3
 track5:
   title: Harriet Tubman - Probe
   color: rough
-  link: https://sounds.mailta.pe/249/track5.mp3
+  link: https://df.mailta.pe/249/track5.mp3
 track6:
   title: Shabaka and the Ancestors - Natty
   color: vibrant
-  link: https://sounds.mailta.pe/249/track6.mp3
+  link: https://df.mailta.pe/249/track6.mp3
 track7:
   title: Dafnis Prieto Si O Si Quaret - Si O Si
   color: bliss
-  link: https://sounds.mailta.pe/249/track7.mp3
+  link: https://df.mailta.pe/249/track7.mp3
 release: 249
 ---
 This morning, transcend borders with mantras, untethered saxophones, keys, and an unfettered groove from our guest, percussionist and composer, [Sarathy Korwar](http://www.sarathykorwar.com/).

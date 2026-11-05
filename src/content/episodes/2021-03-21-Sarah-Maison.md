@@ -16,31 +16,31 @@ pubDate: 2021-03-21
 track1:
   title: Majida El Roumi - Matharak Bi Albi
   color: vibrant
-  link: https://sounds.mailta.pe/443/track1.mp3
+  link: https://df.mailta.pe/443/track1.mp3
 track2:
   title: Nana Mouskouri - La Place Vide
   color: vibrant
-  link: https://sounds.mailta.pe/443/track2.mp3
+  link: https://df.mailta.pe/443/track2.mp3
 track3:
   title: Bob Azzam - Mon Amour
   color: bliss
-  link: https://sounds.mailta.pe/443/track3.mp3
+  link: https://df.mailta.pe/443/track3.mp3
 track4:
   title: Sarah Maison - L'Été
   color: bliss
-  link: https://sounds.mailta.pe/443/track4.mp3
+  link: https://df.mailta.pe/443/track4.mp3
 track5:
   title: Léonie Pernet feat Hanaa Ouassim - Auaati
   color: vibrant
-  link: https://sounds.mailta.pe/443/track5.mp3
+  link: https://df.mailta.pe/443/track5.mp3
 track6:
   title: "Altin Gün - Ordunun Dereleri   "
   color: bliss
-  link: https://sounds.mailta.pe/443/track6.mp3
+  link: https://df.mailta.pe/443/track6.mp3
 track7:
   title: "Cyril Cyril - Al Boustane "
   color: trippy
-  link: https://sounds.mailta.pe/443/track7.mp3
+  link: https://df.mailta.pe/443/track7.mp3
 release: 443
 ---
 This morning, we leave in the sun with a one-way trip to the Eastern countries. The beauty of language, culture and scenery. . . In this episode, [Sarah Maison](https://sarahmaison.bandcamp.com/) will bring back some sunshine to our homes and apartments while waiting for better days. 

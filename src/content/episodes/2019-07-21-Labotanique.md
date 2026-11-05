@@ -11,31 +11,31 @@ writer: Anaïs G
 track1:
   title: Flavien Berger - Pamplemousse
   color: dreamy
-  link: https://sounds.mailta.pe/367/Track1.mp3
+  link: https://df.mailta.pe/367/Track1.mp3
 track2:
   title: Vendredi Sur Mer - La Femme à la Peau Bleue
   color: vibrant
-  link: https://sounds.mailta.pe/367/track2.mp3
+  link: https://df.mailta.pe/367/track2.mp3
 track3:
   title: Mild High Club - Skiptracing
   color: dreamy
-  link: https://sounds.mailta.pe/367/track3.mp3
+  link: https://df.mailta.pe/367/track3.mp3
 track4:
   title: Labotanique - Nature morte
   color: trippy
-  link: https://sounds.mailta.pe/367/Track4.mp3
+  link: https://df.mailta.pe/367/Track4.mp3
 track5:
   title: Monsieur 6000 - Océan
   color: vibrant
-  link: https://sounds.mailta.pe/367/track5.mp3
+  link: https://df.mailta.pe/367/track5.mp3
 track6:
   title: Auren - Tout est permis
   color: dreamy
-  link: https://sounds.mailta.pe/367/Track6.mp3
+  link: https://df.mailta.pe/367/Track6.mp3
 track7:
   title: Le Flegmatic - L'autre rive
   color: bliss
-  link: https://sounds.mailta.pe/367/track7.mp3
+  link: https://df.mailta.pe/367/track7.mp3
 description: This morning we leave in the forest far from the city, far from pollution, far from the crowded streets of tourists... A moment to get green, to recharge one's batteries in the country, is the philoso...
 image: /img/fbpic367.png
 musiColor: /img/musicolor367.png

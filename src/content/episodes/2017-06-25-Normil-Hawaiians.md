@@ -15,31 +15,31 @@ pubDate: 2017-06-25
 track1:
   title: Fela Kuti - Power Show (Edit)
   color: vibrant
-  link: https://sounds.mailta.pe/266/track1.mp3
+  link: https://df.mailta.pe/266/track1.mp3
 track2:
   title: Isao Tomita - Arabesque No. 1 (Debussy)
   color: dreamy
-  link: https://sounds.mailta.pe/266/track2.mp3
+  link: https://df.mailta.pe/266/track2.mp3
 track3:
   title: NEU! - Hallo Gallo
   color: trippy
-  link: https://sounds.mailta.pe/266/track3.mp3
+  link: https://df.mailta.pe/266/track3.mp3
 track4:
   title: Normil Hawaiians - Yellow Rain
   color: bliss
-  link: https://sounds.mailta.pe/266/track4.mp3
+  link: https://df.mailta.pe/266/track4.mp3
 track5:
   title: Les Filles De Illighadad - Fatou
   color: dreamy
-  link: https://sounds.mailta.pe/266/track5.mp3
+  link: https://df.mailta.pe/266/track5.mp3
 track6:
   title: Annette Peacock - Survival
   color: bliss
-  link: https://sounds.mailta.pe/266/track6.mp3
+  link: https://df.mailta.pe/266/track6.mp3
 track7:
   title: A Silver Mt. Zion - The Triumph of our Tired Eyes
   color: dreamy
-  link: https://sounds.mailta.pe/266/track7.mp3
+  link: https://df.mailta.pe/266/track7.mp3
 release: 266
 ---
 This morning, we are delighted to welcome [Normil Hawaiians](http://normilhawaiians.com/). Operating more like a collective than a band, the Normil Hawaiians formed in the austere post-punk permafrost of 1980s UK.

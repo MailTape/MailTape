@@ -17,31 +17,31 @@ pubDate: 2019-06-09
 track1:
   title: " Nick Cave And The Bad Seeds - Red Right Hand "
   color: vibrant
-  link: https://sounds.mailta.pe/361/track1.mp3
+  link: https://df.mailta.pe/361/track1.mp3
 track2:
   title: Bjork - Jóga
   color: trippy
-  link: https://sounds.mailta.pe/361/track2.mp3
+  link: https://df.mailta.pe/361/track2.mp3
 track3:
   title: Led Zeppelin - Whole Lotta Love
   color: rough
-  link: https://sounds.mailta.pe/361/Track3.mp3
+  link: https://df.mailta.pe/361/Track3.mp3
 track4:
   title: Yael Miller - Forget About You
   color: vibrant
-  link: https://sounds.mailta.pe/361/track4.mp3
+  link: https://df.mailta.pe/361/track4.mp3
 track5:
   title: Seba Kaapstad - Africa
   color: bliss
-  link: https://sounds.mailta.pe/361/track5.mp3
+  link: https://df.mailta.pe/361/track5.mp3
 track6:
   title: Meernaa - Wildest Eyes
   color: vibrant
-  link: https://sounds.mailta.pe/361/track6.mp3
+  link: https://df.mailta.pe/361/track6.mp3
 track7:
   title: "Exit Someone - Mickeal K ( version 1) "
   color: dreamy
-  link: https://sounds.mailta.pe/361/track7.mp3
+  link: https://df.mailta.pe/361/track7.mp3
 release: 361
 ---
 

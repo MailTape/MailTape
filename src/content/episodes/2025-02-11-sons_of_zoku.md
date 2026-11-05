@@ -21,31 +21,31 @@ alignY: "0.2"
 track1:
   title: " Fabiano Do Nascimento, Sam Gendel - Poeira"
   color: bliss
-  link: https://sounds.mailta.pe/576/track1.mp3
+  link: https://df.mailta.pe/576/track1.mp3
 track2:
   title: Cymande - One More
   color: vibrant
-  link: https://sounds.mailta.pe/576/track2.mp3
+  link: https://df.mailta.pe/576/track2.mp3
 track3:
   title: This Is The Kit - Our Socks Forever More
   color: dreamy
-  link: https://sounds.mailta.pe/576/track3.mp3
+  link: https://df.mailta.pe/576/track3.mp3
 track4:
   title: Sons Of Zöku - Nu Poème
   color: trippy
-  link: https://sounds.mailta.pe/576/track4.mp3
+  link: https://df.mailta.pe/576/track4.mp3
 track5:
   title: Gábor Szabó - Somewhere I Belong
   color: trippy
-  link: https://sounds.mailta.pe/576/track5.mp3
+  link: https://df.mailta.pe/576/track5.mp3
 track6:
   title: Roy Montgomery - Jaguar Unseen
   color: trippy
-  link: https://sounds.mailta.pe/576/track6.mp3
+  link: https://df.mailta.pe/576/track6.mp3
 track7:
   title: Jenny Hval - Cemetary of Splendour
   color: dreamy
-  link: https://sounds.mailta.pe/576/track7.mp3
+  link: https://df.mailta.pe/576/track7.mp3
 release: 576
 ---
 This morning is smooth, smoother than a banana-mango smoothie blended by a pro. Let these songs wrap you like a blanket and mellow out this Sunday morning with the delicate selection of [Sons Of Zöku](https://sonsofzoku.bandcamp.com/). Their music blends influences from psychedelic rock, experimental sounds, and world music, and they manage to make it all come together beautifully. They are taking us on a beautiful trip. 

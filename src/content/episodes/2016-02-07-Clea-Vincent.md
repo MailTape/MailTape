@@ -15,31 +15,31 @@ pubDate: 2016-02-07
 track1:
   title: Ricky Hollywood - Parti dans le Passé(Athanase Granson edit)
   color: vibrant
-  link: https://sounds.mailta.pe/203/track1.mp3
+  link: https://df.mailta.pe/203/track1.mp3
 track2:
   title: Flairs - Bus
   color: dreamy
-  link: https://sounds.mailta.pe/203/track2.mp3
+  link: https://df.mailta.pe/203/track2.mp3
 track3:
   title: Kumi Solo - Ce soir
   color: bliss
-  link: https://sounds.mailta.pe/203/track3.mp3
+  link: https://df.mailta.pe/203/track3.mp3
 track4:
   title: Cléa Vincent - Retiens mon Désir
   color: vibrant
-  link: https://sounds.mailta.pe/203/track4.mp3
+  link: https://df.mailta.pe/203/track4.mp3
 track5:
   title: Bon Voyage Organisation - Love Soup
   color: vibrant
-  link: https://sounds.mailta.pe/203/track5.mp3
+  link: https://df.mailta.pe/203/track5.mp3
 track6:
   title: VedeTT - Tuer Les Gens
   color: bliss
-  link: https://sounds.mailta.pe/203/track6.mp3
+  link: https://df.mailta.pe/203/track6.mp3
 track7:
   title: O - Mon Echos
   color: dreamy
-  link: https://sounds.mailta.pe/203/track7.mp3
+  link: https://df.mailta.pe/203/track7.mp3
 release: 203
 ---
 

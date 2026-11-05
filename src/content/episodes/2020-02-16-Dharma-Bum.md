@@ -18,32 +18,32 @@ pubDate: 2020-02-16
 track1:
   title: Biche - L'Essor
   color: dreamy
-  link: https://sounds.mailta.pe/393/track1.mp3
+  link: https://df.mailta.pe/393/track1.mp3
 track2:
   title: Barbagallo - On se décide
   color: bliss
-  link: https://sounds.mailta.pe/393/track2.mp3
+  link: https://df.mailta.pe/393/track2.mp3
 track3:
   title: Grauzone - Eisbär
   color: rough
-  link: https://sounds.mailta.pe/393/track3.mp3
+  link: https://df.mailta.pe/393/track3.mp3
 track4:
   title: Dharma Bum - Worship The Ease
   color: bliss
-  link: https://sounds.mailta.pe/393/track4.mp3
+  link: https://df.mailta.pe/393/track4.mp3
 track5:
   title: Freak Heat Waves - Self Vortex
   color: dreamy
-  link: https://sounds.mailta.pe/393/track5.mp3
+  link: https://df.mailta.pe/393/track5.mp3
 track6:
   title: François Virot - Legal Rough
   color: trippy
-  link: https://sounds.mailta.pe/393/track6.mp3
+  link: https://df.mailta.pe/393/track6.mp3
 track7:
   title: Judah Warsky - Je M'en Souviendrai Jusqu'à La Fin De Ma Life (Remix Sarah
     Maison)
   color: vibrant
-  link: https://sounds.mailta.pe/393/track7.mp3
+  link: https://df.mailta.pe/393/track7.mp3
 release: 393
 ---
 

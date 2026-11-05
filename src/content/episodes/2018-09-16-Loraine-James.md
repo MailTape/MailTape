@@ -15,31 +15,31 @@ pubDate: 2018-09-16
 track1:
   title: iLU – It's DOPE!!
   color: dreamy
-  link: https://sounds.mailta.pe/323/track1.mp3
+  link: https://df.mailta.pe/323/track1.mp3
 track2:
   title: Yuki Ame – Water From Thoughts
   color: bliss
-  link: https://sounds.mailta.pe/323/track2.mp3
+  link: https://df.mailta.pe/323/track2.mp3
 track3:
   title: SASSY 009 – Are you Leaving?
   color: trippy
-  link: https://sounds.mailta.pe/323/track3.mp3
+  link: https://df.mailta.pe/323/track3.mp3
 track4:
   title: Loraine James – Loll (ft. Zarif Miah)
   color: trippy
-  link: https://sounds.mailta.pe/323/track4.mp3
+  link: https://df.mailta.pe/323/track4.mp3
 track5:
   title: Ouri – Superficial
   color: dreamy
-  link: https://sounds.mailta.pe/323/track5.mp3
+  link: https://df.mailta.pe/323/track5.mp3
 track6:
   title: Kilamanzego – stay floated in the tribe.
   color: dreamy
-  link: https://sounds.mailta.pe/323/track6.mp3
+  link: https://df.mailta.pe/323/track6.mp3
 track7:
   title: Secret Mommy – Clothing Racks (Sears)
   color: trippy
-  link: https://sounds.mailta.pe/323/track7.mp3
+  link: https://df.mailta.pe/323/track7.mp3
 release: 323
 ---
 This week we are delighted to welcome London-based electronic musician [Loraine James](https://soundcloud.com/lorainejames), who selects some groovy Sunday morning chops for us.

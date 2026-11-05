@@ -19,31 +19,31 @@ musiColor: /img/musicolor606.png
 track1:
   title: Chemical Brothers & Hope Sandoval - Asleep from Day
   color: dreamy
-  link: https://sounds.mailta.pe/606/track1.mp3
+  link: https://df.mailta.pe/606/track1.mp3
 track2:
   title: Actress - Hubble
   color: trippy
-  link: https://sounds.mailta.pe/606/track2.mp3
+  link: https://df.mailta.pe/606/track2.mp3
 track3:
   title: Brothomstates - Mdrmx
   color: trippy
-  link: https://sounds.mailta.pe/606/track3.mp3
+  link: https://df.mailta.pe/606/track3.mp3
 track4:
   title: Nathan Fake - Sunlight on Saturn
   color: trippy
-  link: https://sounds.mailta.pe/606/track4.mp3
+  link: https://df.mailta.pe/606/track4.mp3
 track5:
   title: "Irini - Sweet Charlotte "
   color: dreamy
-  link: https://sounds.mailta.pe/606/track5.mp3
+  link: https://df.mailta.pe/606/track5.mp3
 track6:
   title: s8jfou - Thoughts
   color: vibrant
-  link: https://sounds.mailta.pe/606/track6.mp3
+  link: https://df.mailta.pe/606/track6.mp3
 track7:
   title: Nuevos Rios - Si Yo Fuera
   color: trippy
-  link: https://sounds.mailta.pe/606/track7.mp3
+  link: https://df.mailta.pe/606/track7.mp3
 release: 606
 ---
 This morning, we dive into a collection curated by our dear guest [Nathan Fake](https://nathanfake.bandcamp.com/album/evaporator). You'll experience a rich tapestry of sounds that evoke the warmth of the coming spring days and the exploration of otherworldly landscapes. This episode includes tracks that showcase not only artistic brilliance but also personal and soulful evocations.

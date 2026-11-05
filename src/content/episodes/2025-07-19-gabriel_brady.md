@@ -18,31 +18,31 @@ alignY: "0.4"
 track1:
   title: Lewis - Romance for Two
   color: dreamy
-  link: https://sounds.mailta.pe/588/track1.mp3
+  link: https://df.mailta.pe/588/track1.mp3
 track2:
   title: Luke Bergman - Sound of Music
   color: dreamy
-  link: https://sounds.mailta.pe/588/track2.mp3
+  link: https://df.mailta.pe/588/track2.mp3
 track3:
   title: Scott Tuma - Midway
   color: dreamy
-  link: https://sounds.mailta.pe/588/track3.mp3
+  link: https://df.mailta.pe/588/track3.mp3
 track4:
   title: Gabriel Brady - Untitled
   color: dreamy
-  link: https://sounds.mailta.pe/588/track4.mp3
+  link: https://df.mailta.pe/588/track4.mp3
 track5:
   title: Antonina Nowacka - Light Light
   color: dreamy
-  link: https://sounds.mailta.pe/588/track5.mp3
+  link: https://df.mailta.pe/588/track5.mp3
 track6:
   title: Antoine Bellanger - Le Chant des Oiseaux
   color: dreamy
-  link: https://sounds.mailta.pe/588/track6.mp3
+  link: https://df.mailta.pe/588/track6.mp3
 track7:
   title: Elkotsh - Mwlid Elgorn
   color: dreamy
-  link: https://sounds.mailta.pe/588/track7.mp3
+  link: https://df.mailta.pe/588/track7.mp3
 release: 588
 ---
 This morning, we're onto a very chill selection with our guest [Gabriel Brady](https://gabrielbrady.bandcamp.com/album/day-blind). Each track is a world in itself, made of delicate vibrations and warm intentions. There's a variety of situations where this episode could be excellent at rejoicing the soul and inviting desire to the table of your imagination. Allow me to share one I find would be greatly welcoming: I'd go for a walk out of town, let's say in the Pyrenees, and look for a tree to sit under. The view is enchanting, the sun rays are caressing my skin, and then I'd pull out a great pair of headphones and click play for a dreamy trip as I lean back against a beech.

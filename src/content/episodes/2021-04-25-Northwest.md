@@ -17,31 +17,31 @@ description: This morning,we enter into a contemplative meditation. We enter
 track1:
   title: Daniel Rossen - Saint Nothing
   color: vibrant
-  link: https://sounds.mailta.pe/448/track1.mp3
+  link: https://df.mailta.pe/448/track1.mp3
 track2:
   title: Joni Mitchell - I Don't Know Where I Stand
   color: vibrant
-  link: https://sounds.mailta.pe/448/track2.mp3
+  link: https://df.mailta.pe/448/track2.mp3
 track3:
   title: Nancy Sinatra & Lee Hazlewood - Some Velvet Morning
   color: dreamy
-  link: https://sounds.mailta.pe/448/track3.mp3
+  link: https://df.mailta.pe/448/track3.mp3
 track4:
   title: Northwest - All Of A Sudden
   color: vibrant
-  link: https://sounds.mailta.pe/missingTrack.mp3
+  link: https://df.mailta.pe/missingTrack.mp3
 track5:
   title: Cat Power - Sea Of Love
   color: bliss
-  link: https://sounds.mailta.pe/missingTrack.mp3
+  link: https://df.mailta.pe/missingTrack.mp3
 track6:
   title: Fleet Foxes - For A Week Or Two
   color: vibrant
-  link: https://sounds.mailta.pe/missingTrack.mp3
+  link: https://df.mailta.pe/missingTrack.mp3
 track7:
   title: "Foxtrott - Intuition "
   color: vibrant
-  link: https://sounds.mailta.pe/missingTrack.mp3
+  link: https://df.mailta.pe/missingTrack.mp3
 release: 448
 ---
 

@@ -18,31 +18,31 @@ pubDate: 2021-01-03
 track1:
   title: Tachycardie -  D'humeur à savoir
   color: trippy
-  link: https://sounds.mailta.pe/432/track1.mp3
+  link: https://df.mailta.pe/432/track1.mp3
 track2:
   title: Raime - Some Things Can Happen, Just Like This
   color: dreamy
-  link: https://sounds.mailta.pe/432/track2.mp3
+  link: https://df.mailta.pe/432/track2.mp3
 track3:
   title: Laurel Halo - Koinos
   color: trippy
-  link: https://sounds.mailta.pe/432/track3.mp3
+  link: https://df.mailta.pe/432/track3.mp3
 track4:
   title: "Danse Musique Rhône-Alpes - Spiritisme et nouvelles technologies "
   color: trippy
-  link: https://sounds.mailta.pe/432/track4.mp3
+  link: https://df.mailta.pe/432/track4.mp3
 track5:
   title: Tite - Zhang
   color: trippy
-  link: https://sounds.mailta.pe/432/track5.mp3
+  link: https://df.mailta.pe/432/track5.mp3
 track6:
   title: Maud Geffray - In the wild
   color: vibrant
-  link: https://sounds.mailta.pe/432/track6.mp3
+  link: https://df.mailta.pe/432/track6.mp3
 track7:
   title: Louisahhh - Trap
   color: rough
-  link: https://sounds.mailta.pe/432/track7.mp3
+  link: https://df.mailta.pe/432/track7.mp3
 release: 432
 ---
 

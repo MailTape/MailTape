@@ -15,31 +15,31 @@ pubDate: 2018-11-25
 track1:
   title: C. Memi + Neo Matisse - Dream's Dream
   color: rough
-  link: https://sounds.mailta.pe/333/track1.mp3
+  link: https://df.mailta.pe/333/track1.mp3
 track2:
   title: Love Letters - Co-Locate
   color: bliss
-  link: https://sounds.mailta.pe/333/track2.mp3
+  link: https://df.mailta.pe/333/track2.mp3
 track3:
   title: Randy Weston - Congolese Children
   color: dreamy
-  link: https://sounds.mailta.pe/333/track3.mp3
+  link: https://df.mailta.pe/333/track3.mp3
 track4:
   title: Fit of Body - Black Box, No Cops
   color: bliss
-  link: https://sounds.mailta.pe/333/track4.mp3
+  link: https://df.mailta.pe/333/track4.mp3
 track5:
   title: Tony Allen & Jeff Mills - The Seed
   color: trippy
-  link: https://sounds.mailta.pe/333/track5.mp3
+  link: https://df.mailta.pe/333/track5.mp3
 track6:
   title: Leon Vynehall - Movements (Chapter III)
   color: dreamy
-  link: https://sounds.mailta.pe/333/track6.mp3
+  link: https://df.mailta.pe/333/track6.mp3
 track7:
   title: Tirzah - Devotion (feat. Coby Sey)
   color: vibrant
-  link: https://sounds.mailta.pe/333/track7.mp3
+  link: https://df.mailta.pe/333/track7.mp3
 release: 333
 ---
 This morning we are delighted to welcome Atlanta-based music producer [Fit of Body](https://fitofbody.bandcamp.com/) to MailTape.

@@ -19,31 +19,31 @@ pubDate: 2018-05-27
 track1:
   title: Electrelane - The Greater Times
   color: vibrant
-  link: https://sounds.mailta.pe/314/track1.mp3
+  link: https://df.mailta.pe/314/track1.mp3
 track2:
   title: Entracte Twist - Christine Young
   color: rough
-  link: https://sounds.mailta.pe/314/track2.mp3
+  link: https://df.mailta.pe/314/track2.mp3
 track3:
   title: Joujou Jaguar - Into The Grave (Guitar Hero Version)
   color: bliss
-  link: https://sounds.mailta.pe/314/track3.mp3
+  link: https://df.mailta.pe/314/track3.mp3
 track4:
   title: En Attendant Ana - Ré
   color: dreamy
-  link: https://sounds.mailta.pe/314/track4.mp3
+  link: https://df.mailta.pe/314/track4.mp3
 track5:
   title: Snail Mail - Thinning
   color: trippy
-  link: https://sounds.mailta.pe/314/track5.mp3
+  link: https://df.mailta.pe/314/track5.mp3
 track6:
   title: Corridor - Coup d'épée
   color: vibrant
-  link: https://sounds.mailta.pe/314/track6.mp3
+  link: https://df.mailta.pe/314/track6.mp3
 track7:
   title: Le Villejuif Underground - Cold Dark Place in your Art
   color: dreamy
-  link: https://sounds.mailta.pe/314/track7.mp3
+  link: https://df.mailta.pe/314/track7.mp3
 release: 314
 ---
 This morning, we are delighted to welcome the garage pop band [En Attendant Ana](https://enattendantana.bandcamp.com) for a bright-eyed MailTape that might help you leave your bed.

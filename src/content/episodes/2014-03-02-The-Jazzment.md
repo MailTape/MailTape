@@ -17,31 +17,31 @@ pubDate: 2014-03-02
 track1:
   title: Henning - Villains Day Off
   color: bliss
-  link: https://sounds.mailta.pe/130/track1.mp3
+  link: https://df.mailta.pe/130/track1.mp3
 track2:
   title: Freddie Joachim - Waves
   color: dreamy
-  link: https://sounds.mailta.pe/130/track2.mp3
+  link: https://df.mailta.pe/130/track2.mp3
 track3:
   title: Overdoz. - Lauren London
   color: vibrant
-  link: https://sounds.mailta.pe/130/track3.mp3
+  link: https://df.mailta.pe/130/track3.mp3
 track4:
   title: The Jazzment - On the Tip
   color: bliss
-  link: https://sounds.mailta.pe/130/track4.mp3
+  link: https://df.mailta.pe/130/track4.mp3
 track5:
   title: TOKiMONSTA - The World is Ours
   color: vibrant
-  link: https://sounds.mailta.pe/130/track5.mp3
+  link: https://df.mailta.pe/130/track5.mp3
 track6:
   title: Greyhat - Missed
   color: dreamy
-  link: https://sounds.mailta.pe/130/track6.mp3
+  link: https://df.mailta.pe/130/track6.mp3
 track7:
   title: Nujabes - Tsurugi No Mai
   color: dreamy
-  link: https://sounds.mailta.pe/130/track7.mp3
+  link: https://df.mailta.pe/130/track7.mp3
 release: 130
 ---
 

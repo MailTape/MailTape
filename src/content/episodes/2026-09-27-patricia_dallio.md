@@ -20,31 +20,31 @@ musiColor: /img/musicolor614.png
 track1:
   title: Albert Marcœur - Une belle mort
   color: dreamy
-  link: https://sounds.mailta.pe/614/track1.mp3
+  link: https://df.mailta.pe/614/track1.mp3
 track2:
   title: Bob Vylan - Big Man
   color: rough
-  link: https://sounds.mailta.pe/614/track2.mp3
+  link: https://df.mailta.pe/614/track2.mp3
 track3:
   title: Lutz Glandien - Four Bedrooms
   color: dreamy
-  link: https://sounds.mailta.pe/614/track3.mp3
+  link: https://df.mailta.pe/614/track3.mp3
 track4:
   title: Patricia Dallio - écho_des_hyphes
   color: trippy
-  link: https://sounds.mailta.pe/614/track4.mp3
+  link: https://df.mailta.pe/614/track4.mp3
 track5:
   title: Lucie Antunes - Mushrooms
   color: trippy
-  link: https://sounds.mailta.pe/614/track5.mp3
+  link: https://df.mailta.pe/614/track5.mp3
 track6:
   title: Patricia Dallio - forêt_souterraine_fragments
   color: dreamy
-  link: https://sounds.mailta.pe/614/track6.mp3
+  link: https://df.mailta.pe/614/track6.mp3
 track7:
   title: Porta's - Saccage dit
   color: bliss
-  link: https://sounds.mailta.pe/614/track7.mp3
+  link: https://df.mailta.pe/614/track7.mp3
 release: 614
 ---
 This morning, we invite you to celebrate surprise and wild curiosity. Our dear guest, [Patricia Dallio](https://patriciadallio.bandcamp.com/album/transmissions-fongist-re-001), is a French experimental electronic musician who began her career in the ’80s and spent three decades as a member of the now-cult band Art Zoyd. You might find her improvising and creating music somewhere in the forests of Haute-Marne. The vegetal world is buzzing with life and sound, if only one knows how to shift one’s attention toward the ever-magical world of the non-human. Be prepared to reassess some of your assumptions about what a MailTape episode can be.

@@ -22,31 +22,31 @@ pubDate: 2016-10-23
 track1:
   title: Andy Shauf - The Magician
   color: vibrant
-  link: https://sounds.mailta.pe/231/track1.mp3
+  link: https://df.mailta.pe/231/track1.mp3
 track2:
   title: Soft Hair - Lying Has to Stop
   color: dreamy
-  link: https://sounds.mailta.pe/231/track2.mp3
+  link: https://df.mailta.pe/231/track2.mp3
 track3:
   title: Robbing Millions - 8 is the Figure that I Like the Most
   color: bliss
-  link: https://sounds.mailta.pe/231/track3.mp3
+  link: https://df.mailta.pe/231/track3.mp3
 track4:
   title: Nicolas Michaux - A la Vie, à la Mort
   color: vibrant
-  link: https://sounds.mailta.pe/231/track4.mp3
+  link: https://df.mailta.pe/231/track4.mp3
 track5:
   title: Alex Cameron - She's mine
   color: bliss
-  link: https://sounds.mailta.pe/231/track5.mp3
+  link: https://df.mailta.pe/231/track5.mp3
 track6:
   title: I Have a Tribe - After We Meet
   color: vibrant
-  link: https://sounds.mailta.pe/231/track6.mp3
+  link: https://df.mailta.pe/231/track6.mp3
 track7:
   title: Weekend Affair - Duel Part. 2
   color: bliss
-  link: https://sounds.mailta.pe/231/track7.mp3
+  link: https://df.mailta.pe/231/track7.mp3
 release: 231
 ---
  This morning, we offer you a romantic Mailtape, and a romantic artist. Nicolas Michaux is a Belgian singer who remind us the glory days of cheezy french or Italian pop songs. In "A la Vie, à la Mort", the romantism of Nicolas Michaux is tinted of melancolic mood, with falsely naive lyrics. [Dominique A.](https://www.youtube.com/watch?v=nNtSijP4yaQ) et Etienne Daho resonate in Nicolas Michaux's music. (For all our non-french followers, I also recommand you to listen those two legendary french singer.) Poetry and lo-fi instrumental is the perfect blend in "A la Vie, à la mort", the blend that transform this song in a heady treasure that you'll cherish for a long time. 

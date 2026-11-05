@@ -23,31 +23,31 @@ pubDate: 2019-12-29
 track1:
   title: Booker T & the MGs – Soul Dressing
   color: trippy
-  link: https://sounds.mailta.pe/386/track1.mp3
+  link: https://df.mailta.pe/386/track1.mp3
 track2:
   title: Steve Reich – Electric Counterpoint 1.2.3
   color: bliss
-  link: https://sounds.mailta.pe/386/track2.mp3
+  link: https://df.mailta.pe/386/track2.mp3
 track3:
   title: Quincy Jones – Killer Joe
   color: vibrant
-  link: https://sounds.mailta.pe/386/track3.mp3
+  link: https://df.mailta.pe/386/track3.mp3
 track4:
   title: An Explore - Small Drop (Suikinkutsu)
   color: bliss
-  link: https://sounds.mailta.pe/386/track4.mp3
+  link: https://df.mailta.pe/386/track4.mp3
 track5:
   title: Slow Meadow - Artificial Algorithm
   color: dreamy
-  link: https://sounds.mailta.pe/386/track5.mp3
+  link: https://df.mailta.pe/386/track5.mp3
 track6:
   title: Manitoba - Brandon
   color: trippy
-  link: https://sounds.mailta.pe/386/track6.mp3
+  link: https://df.mailta.pe/386/track6.mp3
 track7:
   title: Maksim - Untitled (A2)
   color: dreamy
-  link: https://sounds.mailta.pe/386/track7.mp3
+  link: https://df.mailta.pe/386/track7.mp3
 release: 386
 ---
  This morning, it's finally time to slow down, stay awake for eternity in bed before enjoying a hot coffee contemplating the sky behind your window. Prepare for an exploratory musical morning journey with [An Explore](https://anexplore.bandcamp.com/).

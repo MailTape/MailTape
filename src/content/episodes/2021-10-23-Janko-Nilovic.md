@@ -21,31 +21,31 @@ pubDate: 2021-10-23
 track1:
   title: Steely Dan - Do It Again
   color: vibrant
-  link: https://sounds.mailta.pe/467/track1.mp3
+  link: https://df.mailta.pe/467/track1.mp3
 track2:
   title: Moondog - Bird's Lament
   color: bliss
-  link: https://sounds.mailta.pe/467/track2.mp3
+  link: https://df.mailta.pe/467/track2.mp3
 track3:
   title: Frank Zappa - Joe's Garage
   color: vibrant
-  link: https://sounds.mailta.pe/467/track3.mp3
+  link: https://df.mailta.pe/467/track3.mp3
 track4:
   title: Janko Nilović - Black on a White Ground
   color: trippy
-  link: https://sounds.mailta.pe/467/track4.mp3
+  link: https://df.mailta.pe/467/track4.mp3
 track5:
   title: Janko Nilović and the Soul Surfers - It Never Ends
   color: vibrant
-  link: https://sounds.mailta.pe/467/track5.mp3
+  link: https://df.mailta.pe/467/track5.mp3
 track6:
   title: Mabe Fratti - En Medio
   color: bliss
-  link: https://sounds.mailta.pe/467/track6.mp3
+  link: https://df.mailta.pe/467/track6.mp3
 track7:
   title: Nino Nardini, Roger Roger, Eddie Warner - Beyond the Clouds
   color: vibrant
-  link: https://sounds.mailta.pe/467/track7.mp3
+  link: https://df.mailta.pe/467/track7.mp3
 release: 467
 ---
  This morning, we are wading through worlds of color, shrouded on all sides by an entire kaleidoscope of sound. To craft this experience, we are beyond thrilled to welcome composer and multi-instrumentalist [Janko Nilović](https://www.jankonilovic.com/) to MailTape this Sunday. 

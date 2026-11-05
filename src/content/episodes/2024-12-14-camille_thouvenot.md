@@ -20,31 +20,31 @@ musiColor: /img/musicolor570.png
 track1:
   title: Bob Marley - Concrete Jungle
   color: vibrant
-  link: https://sounds.mailta.pe/570/track1.mp3
+  link: https://df.mailta.pe/570/track1.mp3
 track2:
   title: Keith Jarrett - Whisper Not
   color: bliss
-  link: https://sounds.mailta.pe/570/track2.mp3
+  link: https://df.mailta.pe/570/track2.mp3
 track3:
   title: Oscar Peterson - I Remember Clifford
   color: vibrant
-  link: https://sounds.mailta.pe/570/track3.mp3
+  link: https://df.mailta.pe/570/track3.mp3
 track4:
   title: Camille Thouvenot Mettà Trio – Donkey-Run
   color: vibrant
-  link: https://sounds.mailta.pe/570/track4.mp3
+  link: https://df.mailta.pe/570/track4.mp3
 track5:
   title: Nala Sinephro – Continuum 2
   color: dreamy
-  link: https://sounds.mailta.pe/570/track5.mp3
+  link: https://df.mailta.pe/570/track5.mp3
 track6:
   title: Ménélik – Un petit rien de jazz (prod. Jimmy Jay)
   color: vibrant
-  link: https://sounds.mailta.pe/570/track6.mp3
+  link: https://df.mailta.pe/570/track6.mp3
 track7:
   title: "Rouge (Madeleine Cazenave) - Louves "
   color: bliss
-  link: https://sounds.mailta.pe/570/track7.mp3
+  link: https://df.mailta.pe/570/track7.mp3
 release: 570
 ---
 This morning, Mail Tape invites you to revisit some classics and to

@@ -19,31 +19,31 @@ pubDate: 2019-10-06
 track1:
   title: Column - Sensuela
   color: dreamy
-  link: https://sounds.mailta.pe/374/track1.mp3
+  link: https://df.mailta.pe/374/track1.mp3
 track2:
   title: Poison Abbey - Upmarket
   color: vibrant
-  link: https://sounds.mailta.pe/374/track2.mp3
+  link: https://df.mailta.pe/374/track2.mp3
 track3:
   title: Men I Trust - Numb
   color: dreamy
-  link: https://sounds.mailta.pe/374/track3.mp3
+  link: https://df.mailta.pe/374/track3.mp3
 track4:
   title: Jermango Dreaming - Breeze
   color: vibrant
-  link: https://sounds.mailta.pe/374/track4.mp3
+  link: https://df.mailta.pe/374/track4.mp3
 track5:
   title: Shane Tyler - Lemurian Promenade
   color: bliss
-  link: https://sounds.mailta.pe/374/track5.mp3
+  link: https://df.mailta.pe/374/track5.mp3
 track6:
   title: Domenique Dumont - Sans cesse, mon chéri
   color: bliss
-  link: https://sounds.mailta.pe/374/track6.mp3
+  link: https://df.mailta.pe/374/track6.mp3
 track7:
   title: MUNYA - Dove
   color: dreamy
-  link: https://sounds.mailta.pe/374/track7.mp3
+  link: https://df.mailta.pe/374/track7.mp3
 release: 374
 ---
 This morning, please welcome Jermango Dreaming and his popping selection as our guest for this episode. 

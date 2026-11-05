@@ -18,31 +18,31 @@ description: This morning, we’re back to a pretty normal life. We can plan to
 track1:
   title: Surface To Air Missive - Time Being
   color: bliss
-  link: https://sounds.mailta.pe/missingTrack.mp3
+  link: https://df.mailta.pe/missingTrack.mp3
 track2:
   title: Art Feynman - I'm Gonna Miss Your World
   color: trippy
-  link: https://sounds.mailta.pe/missingTrack.mp3
+  link: https://df.mailta.pe/missingTrack.mp3
 track3:
   title: Ryuichi Sakamoto - Merry Christmas Mr. Lawrence
   color: dreamy
-  link: https://sounds.mailta.pe/missingTrack.mp3
+  link: https://df.mailta.pe/missingTrack.mp3
 track4:
   title: Good Morning TV - Insomniac
   color: dreamy
-  link: https://sounds.mailta.pe/missingTrack.mp3
+  link: https://df.mailta.pe/missingTrack.mp3
 track5:
   title: Melody's Echo Chamber - Shirim
   color: bliss
-  link: https://sounds.mailta.pe/452/track5.mp3
+  link: https://df.mailta.pe/452/track5.mp3
 track6:
   title: Laventure - Give
   color: dreamy
-  link: https://sounds.mailta.pe/missingTrack.mp3
+  link: https://df.mailta.pe/missingTrack.mp3
 track7:
   title: "Poni Hoax - Tropical Suite : São Paulo "
   color: vibrant
-  link: https://sounds.mailta.pe/missingTrack.mp3
+  link: https://df.mailta.pe/missingTrack.mp3
 release: 452
 ---
 <p id="introduction">This morning, we’re back to a pretty normal life. We can plan to have brunches at the local restaurant, or join some friends at the bar downstairs and enjoy every moment that life gives us. It is with this exaggerated optimism that we left the group Good Morning TV ran the playlist this Sunday. 

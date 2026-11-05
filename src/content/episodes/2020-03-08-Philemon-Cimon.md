@@ -24,31 +24,31 @@ pubDate: 2020-03-08
 track1:
   title: Jean-Sébastien Bach - Magnificat En Ré Majeur
   color: vibrant
-  link: https://sounds.mailta.pe/396/track1.mp3
+  link: https://df.mailta.pe/396/track1.mp3
 track2:
   title: Félix Leclerc - Les Dimanches
   color: bliss
-  link: https://sounds.mailta.pe/396/track2.mp3
+  link: https://df.mailta.pe/396/track2.mp3
 track3:
   title: Safia Nolin & Pomme - Lesbian Break-Up Song
   color: vibrant
-  link: https://sounds.mailta.pe/396/track3.mp3
+  link: https://df.mailta.pe/396/track3.mp3
 track4:
   title: Philémon Cimon - Latte Chumey
   color: bliss
-  link: https://sounds.mailta.pe/396/track4.mp3
+  link: https://df.mailta.pe/396/track4.mp3
 track5:
   title: Kacey Johansing - wildfire (Hand Habits cover)
   color: vibrant
-  link: https://sounds.mailta.pe/396/track5.mp3
+  link: https://df.mailta.pe/396/track5.mp3
 track6:
   title: SAULT - Threats
   color: rough
-  link: https://sounds.mailta.pe/396/track6.mp3
+  link: https://df.mailta.pe/396/track6.mp3
 track7:
   title: Helado Negro - Todo Lo Que Me Falta
   color: bliss
-  link: https://sounds.mailta.pe/396/track7.mp3
+  link: https://df.mailta.pe/396/track7.mp3
 release: 396
 ---
  This morning, we are going back to where we grew up, to the land of our teenage years, with Montreal-based singer-songwriter [Philémon Cimon](https://philemoncimon.bandcamp.com/).

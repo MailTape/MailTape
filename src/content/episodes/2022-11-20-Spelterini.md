@@ -16,31 +16,31 @@ pubDate: 2022-11-20
 track1:
   title: Laddio Bolocko - Goat Lips
   color: trippy
-  link: https://sounds.mailta.pe/506/track1.mp3
+  link: https://df.mailta.pe/506/track1.mp3
 track2:
   title: Horse Lords - Against Gravity
   color: bliss
-  link: https://sounds.mailta.pe/506/track2.mp3
+  link: https://df.mailta.pe/506/track2.mp3
 track3:
   title: The Necks - Rum Jungle
   color: trippy
-  link: https://sounds.mailta.pe/506/track3.mp3
+  link: https://df.mailta.pe/506/track3.mp3
 track4:
   title: Spelterini - Paréidolie
   color: rough
-  link: https://sounds.mailta.pe/506/track4.mp3
+  link: https://df.mailta.pe/506/track4.mp3
 track5:
   title: Bothlane - Nog
   color: trippy
-  link: https://sounds.mailta.pe/506/track5.mp3
+  link: https://df.mailta.pe/506/track5.mp3
 track6:
   title: The Brums - Bunch
   color: bliss
-  link: https://sounds.mailta.pe/506/track6.mp3
+  link: https://df.mailta.pe/506/track6.mp3
 track7:
   title: "La Colonie De Vacances - Alex Weir "
   color: rough
-  link: https://sounds.mailta.pe/506/track7.mp3
+  link: https://df.mailta.pe/506/track7.mp3
 release: 506
 ---
  This morning, we shake up codes, habits and routine. We will experience music in different ways, touch it, feel it, see it in such a way that it transcends us, disturbs us, shakes us...

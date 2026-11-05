@@ -16,32 +16,32 @@ pubDate: 2019-06-16
 track1:
   title: Kenny Garrett – Charlie Brown Goes to South Africa
   color: vibrant
-  link: https://sounds.mailta.pe/362/track1.mp3
+  link: https://df.mailta.pe/362/track1.mp3
 track2:
   title: Dizzy Gillespie, Sonny Rollins & Sonny Stitt – On the Sunny Side of the
     Street
   color: bliss
-  link: https://sounds.mailta.pe/362/track2.Mp3
+  link: https://df.mailta.pe/362/track2.Mp3
 track3:
   title: Zara McFarlane –  Silhouette
   color: bliss
-  link: https://sounds.mailta.pe/362/track3.mp3
+  link: https://df.mailta.pe/362/track3.mp3
 track4:
   title: Camilla George Quartet – Polkadots and Moonbeams
   color: dreamy
-  link: https://sounds.mailta.pe/362/track4.mp3
+  link: https://df.mailta.pe/362/track4.mp3
 track5:
   title: "Nicholas Payton – #BAMboula"
   color: trippy
-  link: https://sounds.mailta.pe/362/track5.mp3
+  link: https://df.mailta.pe/362/track5.mp3
 track6:
   title: Sarah Tandy – Timelord
   color: dreamy
-  link: https://sounds.mailta.pe/362/track6.mp3
+  link: https://df.mailta.pe/362/track6.mp3
 track7:
   title: Sarathy Korwar & Upaj Collective – Journey in Satchidananda
   color: trippy
-  link: https://sounds.mailta.pe/362/track7.mp3
+  link: https://df.mailta.pe/362/track7.mp3
 release: 362
 ---
  This morning we welcome London-based saxophonist and composer, [Camilla George](http://camillageorge.com/), to select three Sunday morning tunes that include some of her inspirations and collaborations.

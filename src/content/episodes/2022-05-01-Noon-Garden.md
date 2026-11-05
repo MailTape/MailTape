@@ -17,31 +17,31 @@ pubDate: 2022-05-01
 track1:
   title: Nimco Jamaac - Buuraha U Dheer (The Highest Mountains)
   color: trippy
-  link: https://sounds.mailta.pe/491/track1.mp3
+  link: https://df.mailta.pe/491/track1.mp3
 track2:
   title: Lion - You've Got A Woman
   color: vibrant
-  link: https://sounds.mailta.pe/491/track2.mp3
+  link: https://df.mailta.pe/491/track2.mp3
 track3:
   title: Alpay - Kalenin Bayır Düzü
   color: vibrant
-  link: https://sounds.mailta.pe/491/track3.mp3
+  link: https://df.mailta.pe/491/track3.mp3
 track4:
   title: Noon Garden - Beulah Spa
   color: trippy
-  link: https://sounds.mailta.pe/491/track4.mp3
+  link: https://df.mailta.pe/491/track4.mp3
 track5:
   title: Ayla Algan - Aşk Hikayesi
   color: vibrant
-  link: https://sounds.mailta.pe/491/track5.mp3
+  link: https://df.mailta.pe/491/track5.mp3
 track6:
   title: Alemayehu Eshete - Kènoru Ièbetchahé
   color: bliss
-  link: https://sounds.mailta.pe/491/track6.mp3
+  link: https://df.mailta.pe/491/track6.mp3
 track7:
   title: Korng phnao , Pan Ron - Pnhaeu samnieng
   color: dreamy
-  link: https://sounds.mailta.pe/491/track7.mp3
+  link: https://df.mailta.pe/491/track7.mp3
 release: 491
 ---
 Today, we present a delightful selection of eclectic discoveries to welcome you into your Sunday morning. For this awakening, our dear guest [Noon Garden](https://noon-garden.bandcamp.com/) curates a pass of vibrant tracks to add bouts of energy into these early hours. 

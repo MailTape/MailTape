@@ -11,31 +11,31 @@ writer: Anto
 track1:
   title: Winter (feat. Sasami) – Good
   color: dreamy
-  link: https://sounds.mailta.pe/615/track1.mp3
+  link: https://df.mailta.pe/615/track1.mp3
 track2:
   title: Échec - Allégresse
   color: rough
-  link: https://sounds.mailta.pe/615/track2.mp3
+  link: https://df.mailta.pe/615/track2.mp3
 track3:
   title: Full Body 2 - Fifty heaven
   color: rough
-  link: https://sounds.mailta.pe/615/track3.mp3
+  link: https://df.mailta.pe/615/track3.mp3
 track4:
   title: The Bernadette Maries – Interlude 02
   color: trippy
-  link: https://sounds.mailta.pe/615/track4.mp3
+  link: https://df.mailta.pe/615/track4.mp3
 track5:
   title: Deutshe Vita – Du læsst mich
   color: vibrant
-  link: https://sounds.mailta.pe/615/track5.mp3
+  link: https://df.mailta.pe/615/track5.mp3
 track6:
   title: Men I Trust – I come with mud
   color: dreamy
-  link: https://sounds.mailta.pe/615/track6.mp3
+  link: https://df.mailta.pe/615/track6.mp3
 track7:
   title: Lambrini Girls – Big dick energy
   color: rough
-  link: https://sounds.mailta.pe/615/track7.mp3
+  link: https://df.mailta.pe/615/track7.mp3
 description: Damn planet, out of whack. Damn humans, making a mess of things and becoming more and more pathetic. Damn existence, whose meaning we still haven't grasped… Today our emotions are restless. Between bi...
 image: /img/fbpic615.png
 musiColor: /img/musicolor615.png

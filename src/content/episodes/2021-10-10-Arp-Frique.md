@@ -22,31 +22,31 @@ pubDate: 2021-10-10
 track1:
   title: Jan Hammer - Crockett's Theme (Miami Vice)
   color: dreamy
-  link: https://sounds.mailta.pe/465/track1.mp3
+  link: https://df.mailta.pe/465/track1.mp3
 track2:
   title: Admas - Anchi Bale Game
   color: trippy
-  link: https://sounds.mailta.pe/465/track2.mp3
+  link: https://df.mailta.pe/465/track2.mp3
 track3:
   title: Pieces Of A Dream - Warm Weather
   color: bliss
-  link: https://sounds.mailta.pe/465/track3.mp3
+  link: https://df.mailta.pe/465/track3.mp3
 track4:
   title: Arp Frique - La Vérité (Feat. Mariseya)
   color: trippy
-  link: https://sounds.mailta.pe/465/track4.mp3
+  link: https://df.mailta.pe/465/track4.mp3
 track5:
   title: Grupo Pilon - Liberdadi
   color: trippy
-  link: https://sounds.mailta.pe/465/track5.mp3
+  link: https://df.mailta.pe/465/track5.mp3
 track6:
   title: Aura Safari - Niagara
   color: bliss
-  link: https://sounds.mailta.pe/465/track6.mp3
+  link: https://df.mailta.pe/465/track6.mp3
 track7:
   title: Florence Adooni - Mam Pe'ela Su'ure
   color: vibrant
-  link: https://sounds.mailta.pe/465/track7.mp3
+  link: https://df.mailta.pe/465/track7.mp3
 release: 465
 ---
  This morning, the sun has never shone so brightly. Rotterdam-based musician and producer [Arp Frique](https://arpfrique.bandcamp.com/) is welcoming MailTape in his colourful world! 

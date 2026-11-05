@@ -14,31 +14,31 @@ pubDate: 2016-06-12
 track1:
   title: Midget ! - Les Remparts
   color: dreamy
-  link: https://sounds.mailta.pe/221/track1.mp3
+  link: https://df.mailta.pe/221/track1.mp3
 track2:
   title: Hyperclean - Gainsbourg
   color: vibrant
-  link: https://sounds.mailta.pe/221/track2.mp3
+  link: https://df.mailta.pe/221/track2.mp3
 track3:
   title: François de Roubaix - Tempo
   color: dreamy
-  link: https://sounds.mailta.pe/221/track3.mp3
+  link: https://df.mailta.pe/221/track3.mp3
 track4:
   title: Maud Octallinn - Pauvre Gasc
   color: bliss
-  link: https://sounds.mailta.pe/221/track4.mp3
+  link: https://df.mailta.pe/221/track4.mp3
 track5:
   title: Andy Shauf - The Magician
   color: dreamy
-  link: https://sounds.mailta.pe/221/track5.mp3
+  link: https://df.mailta.pe/221/track5.mp3
 track6:
   title: V. Vincent & A. Maboul - Je Pleure tout le Temps (Flavien Berger Cover)
   color: dreamy
-  link: https://sounds.mailta.pe/221/track6.mp3
+  link: https://df.mailta.pe/221/track6.mp3
 track7:
   title: Flamingosis - Believe in Me
   color: vibrant
-  link: https://sounds.mailta.pe/221/track7.mp3
+  link: https://df.mailta.pe/221/track7.mp3
 release: 221
 ---
  This morning, I introduce you to [Maud Octallinn](https://maudoctallinn.bandcamp.com/), a french psych-pop singer. Her first album is a compilation of failed love songs. But it’s easy to fall in love with each song. Her beautiful impish voice is perfect to sing on her surrealistic lyrics full of metaphors. 

@@ -14,31 +14,31 @@ musiColor: /img/1000003871.png
 track1:
   title: The Staple Singers - Uncloudy Day
   color: bliss
-  link: https://sounds.mailta.pe/585/track1.mp3
+  link: https://df.mailta.pe/585/track1.mp3
 track2:
   title: Flora Purim - Open Your Eyes You Can Fly
   color: trippy
-  link: https://sounds.mailta.pe/585/track2.mp3
+  link: https://df.mailta.pe/585/track2.mp3
 track3:
   title: Gary Burton Quartet feat. Eberhard Weber - B & G (Midwestern Night’s Dream)
   color: dreamy
-  link: https://sounds.mailta.pe/585/track3.mp3
+  link: https://df.mailta.pe/585/track3.mp3
 track4:
   title: Ola Szmidt - Stillness
   color: dreamy
-  link: https://sounds.mailta.pe/585/track4.mp3
+  link: https://df.mailta.pe/585/track4.mp3
 track5:
   title: Hiroshi Yoshimura - 水のささやき [Humming Water]
   color: dreamy
-  link: https://sounds.mailta.pe/585/track5.mp3
+  link: https://df.mailta.pe/585/track5.mp3
 track6:
   title: Dustin Wong & Takako Minekawa - Benbelo
   color: vibrant
-  link: https://sounds.mailta.pe/585/track6.mp3
+  link: https://df.mailta.pe/585/track6.mp3
 track7:
   title: Chassol - Music Is God My Love (Ménage à trois Love Edit)
   color: bliss
-  link: https://sounds.mailta.pe/585/track7.mp3
+  link: https://df.mailta.pe/585/track7.mp3
 release: 585
 ---
 This morning, as we change seasons and the metamorphosis of life is in full swing, we are deeply enthusiastic to have Ola Szmidt as our guest.

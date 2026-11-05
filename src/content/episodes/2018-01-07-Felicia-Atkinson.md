@@ -17,31 +17,31 @@ pubDate: 2018-01-07
 track1:
   title: Tomoko Sauvage – Musique Hydromantique
   color: bliss
-  link: https://sounds.mailta.pe/294/track1.mp3
+  link: https://df.mailta.pe/294/track1.mp3
 track2:
   title: Luc Ferrari – Presque rien no.1, le lever du jour au bord de la mer
   color: trippy
-  link: https://sounds.mailta.pe/294/track2.mp3
+  link: https://df.mailta.pe/294/track2.mp3
 track3:
   title: Cinema – Sem Teto
   color: dreamy
-  link: https://sounds.mailta.pe/294/track3.mp3
+  link: https://df.mailta.pe/294/track3.mp3
 track4:
   title: Félicia Atkinson – I'm Following You
   color: trippy
-  link: https://sounds.mailta.pe/294/track4.mp3
+  link: https://df.mailta.pe/294/track4.mp3
 track5:
   title: Mondkopf – The Call
   color: dreamy
-  link: https://sounds.mailta.pe/294/track5.mp3
+  link: https://df.mailta.pe/294/track5.mp3
 track6:
   title: Christine Ott – Tropismes
   color: bliss
-  link: https://sounds.mailta.pe/294/track6.mp3
+  link: https://df.mailta.pe/294/track6.mp3
 track7:
   title: Murcof & Vanessa Wagner – Variations For The Healing Of Arinushka
   color: dreamy
-  link: https://sounds.mailta.pe/294/track7.mp3
+  link: https://df.mailta.pe/294/track7.mp3
 release: 294
 ---
 This morning we welcome preeminent Rennes-based avant-garde composer [Félicia Atkinson](http://feliciaatkinson.com/) to collaborate with us on MailTape. She weaves myriad, filigree electro-acoustic and non-musical metanarratives into a sonic lucid dream.

@@ -17,32 +17,32 @@ pubDate: 2022-03-27
 track1:
   title: Mumbo Jumbo - Tierra Whack
   color: trippy
-  link: https://sounds.mailta.pe/487/track1.mp3
+  link: https://df.mailta.pe/487/track1.mp3
 track2:
   title: Peaches - AA XXX
   color: vibrant
-  link: https://sounds.mailta.pe/487/track2.mp3
+  link: https://df.mailta.pe/487/track2.mp3
 track3:
   title: Das Kinn - Das Kinn
   color: rough
-  link: https://sounds.mailta.pe/487/track3.mp3
+  link: https://df.mailta.pe/487/track3.mp3
 track4:
   title: Vimala Pons - Eusapia Klane Remembers
   color: trippy
-  link: https://sounds.mailta.pe/487/track4.mp3
+  link: https://df.mailta.pe/487/track4.mp3
 track5:
   title: Boy Harsher - Tears
   color: vibrant
-  link: https://sounds.mailta.pe/487/track5.mp3
+  link: https://df.mailta.pe/487/track5.mp3
 track6:
   title: Emily Wells - Love Saves The Day
   color: bliss
-  link: https://sounds.mailta.pe/487/track6.mp3
+  link: https://df.mailta.pe/487/track6.mp3
 track7:
   title: Antoine Bellanger - Il se frotte contre l'écorce et de son bras coule
     l'étoile.
   color: dreamy
-  link: https://sounds.mailta.pe/487/track7.mp3
+  link: https://df.mailta.pe/487/track7.mp3
 release: 487
 ---
 This morning, we're very pleased to welcome [Vimala Pons](https://vimalapons.bandcamp.com/) as our guest for a very eclectic selection. Expect here an energizing cocktail filled with all colors we have, exactly what's needed to start spring well and fully alive.

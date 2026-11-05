@@ -16,31 +16,31 @@ pubDate: 2014-12-07
 track1:
   title: Maps - A.M.A
   color: rough
-  link: https://sounds.mailta.pe/163/track1.mp3
+  link: https://df.mailta.pe/163/track1.mp3
 track2:
   title: Ariel Pink's Haunted Graffiti - Round and Round
   color: vibrant
-  link: https://sounds.mailta.pe/163/track2.mp3
+  link: https://df.mailta.pe/163/track2.mp3
 track3:
   title: Julien Marchal - I
   color: dreamy
-  link: https://sounds.mailta.pe/163/track3.mp3
+  link: https://df.mailta.pe/163/track3.mp3
 track4:
   title: Fragments - December Sun
   color: dreamy
-  link: https://sounds.mailta.pe/163/track4.mp3
+  link: https://df.mailta.pe/163/track4.mp3
 track5:
   title: Atlas Bound - Soul
   color: vibrant
-  link: https://sounds.mailta.pe/163/track5.mp3
+  link: https://df.mailta.pe/163/track5.mp3
 track6:
   title: Les Gordon - Isolé
   color: bliss
-  link: https://sounds.mailta.pe/163/track6.mp3
+  link: https://df.mailta.pe/163/track6.mp3
 track7:
   title: The Pandamonium - Waiting for Summer
   color: vibrant
-  link: https://sounds.mailta.pe/163/track7.mp3
+  link: https://df.mailta.pe/163/track7.mp3
 release: 163
 ---
 

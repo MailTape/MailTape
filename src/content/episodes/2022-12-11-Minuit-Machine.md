@@ -17,31 +17,31 @@ pubDate: 2022-12-11
 track1:
   title: Doppelhandel - Billy
   color: rough
-  link: https://sounds.mailta.pe/509/track1.mp3
+  link: https://df.mailta.pe/509/track1.mp3
 track2:
   title: Tallisker - Somewhere
   color: vibrant
-  link: https://sounds.mailta.pe/509/track2.mp3
+  link: https://df.mailta.pe/509/track2.mp3
 track3:
   title: Panterah - Discover
   color: rough
-  link: https://sounds.mailta.pe/509/track3.mp3
+  link: https://df.mailta.pe/509/track3.mp3
 track4:
   title: Minuit Machine - Contradictions
   color: rough
-  link: https://sounds.mailta.pe/509/track4.mp3
+  link: https://df.mailta.pe/509/track4.mp3
 track5:
   title: Fever Ray - Carbon Dioxide
   color: rough
-  link: https://sounds.mailta.pe/509/track5.mp3
+  link: https://df.mailta.pe/509/track5.mp3
 track6:
   title: Flèche Love - Mitote
   color: bliss
-  link: https://sounds.mailta.pe/509/track6.mp3
+  link: https://df.mailta.pe/509/track6.mp3
 track7:
   title: Dawuna - Baby Boy
   color: trippy
-  link: https://sounds.mailta.pe/509/track7.mp3
+  link: https://df.mailta.pe/509/track7.mp3
 release: 509
 ---
 This morning, we're not letting winter take our energy. It's cold but our hearts are warmer than ever. And with Minuit Machine as our guests, prepare for a journey through a selection of energetic and cathartic tracks. Open, open, open, make a big O and keep searching.

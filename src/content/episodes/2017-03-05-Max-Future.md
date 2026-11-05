@@ -14,31 +14,31 @@ pubDate: 2017-03-05
 track1:
   title: M.E.D. - Cant Hold On
   color: rough
-  link: https://sounds.mailta.pe/250/track1.mp3
+  link: https://df.mailta.pe/250/track1.mp3
 track2:
   title: Tame Impala - Prototype (Outkast Cover)
   color: dreamy
-  link: https://sounds.mailta.pe/250/track2.mp3
+  link: https://df.mailta.pe/250/track2.mp3
 track3:
   title: Joakim - Nothing Gold
   color: rough
-  link: https://sounds.mailta.pe/250/track3.mp3
+  link: https://df.mailta.pe/250/track3.mp3
 track4:
   title: Max Future - Till You Let Go
   color: dreamy
-  link: https://sounds.mailta.pe/250/track4.mp3
+  link: https://df.mailta.pe/250/track4.mp3
 track5:
   title: JuJu Rogers - Get Lost feat. Regis Molina (Produced by. Bluestaeb)
   color: vibrant
-  link: https://sounds.mailta.pe/250/track5.mp3
+  link: https://df.mailta.pe/250/track5.mp3
 track6:
   title: Buttering Trio - From The Tree
   color: dreamy
-  link: https://sounds.mailta.pe/250/track6.mp3
+  link: https://df.mailta.pe/250/track6.mp3
 track7:
   title: Ryder the Eagle - It's All About The Music
   color: bliss
-  link: https://sounds.mailta.pe/250/track7.mp3
+  link: https://df.mailta.pe/250/track7.mp3
 release: 250
 ---
 This morning, let's have a glimpse of today's music and Max Future. It's maybe with artists like Max future that french pop will jump over the next step. With producers like him that country borders in music will definetly disappear. Surfing around electronic french Touch, naive sun-pop, or even hip-hop (just listen his selection below), the quality of his EP is very rare for a first shot.

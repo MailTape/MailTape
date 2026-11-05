@@ -19,31 +19,31 @@ musiColor: /img/musicolor589.png
 track1:
   title: Nihiloxica  - Choir Chops
   color: vibrant
-  link: https://sounds.mailta.pe/589/track1.mp3
+  link: https://df.mailta.pe/589/track1.mp3
 track2:
   title: Rola Azar - هي هي يا فلسطين (Hey hey Falastin)
   color: bliss
-  link: https://sounds.mailta.pe/589/track2.mp3
+  link: https://df.mailta.pe/589/track2.mp3
 track3:
   title: Smerz, GAEA - Bryter, bretter til alle sider
   color: trippy
-  link: https://sounds.mailta.pe/589/track3.mp3
+  link: https://df.mailta.pe/589/track3.mp3
 track4:
   title: Maya Dhondt - minimal-invasiv
   color: trippy
-  link: https://sounds.mailta.pe/589/track4.mp3
+  link: https://df.mailta.pe/589/track4.mp3
 track5:
   title: Asa-Chang & Junray - Hana -a last flower-
   color: trippy
-  link: https://sounds.mailta.pe/589/track5.mp3
+  link: https://df.mailta.pe/589/track5.mp3
 track6:
   title: Bargou 08 - Dek biya
   color: bliss
-  link: https://sounds.mailta.pe/589/track6.mp3
+  link: https://df.mailta.pe/589/track6.mp3
 track7:
   title: Sault - Bow feat Michael Kiwanuka
   color: vibrant
-  link: https://sounds.mailta.pe/589/track7.mp3
+  link: https://df.mailta.pe/589/track7.mp3
 release: 589
 ---
 Woohoo, it’s the last episode of season 14!\

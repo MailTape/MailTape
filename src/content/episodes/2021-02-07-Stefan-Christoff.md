@@ -15,31 +15,31 @@ pubDate: 2021-02-07
 track1:
   title: Nyathela ft. Luqua – TNS
   color: bliss
-  link: https://sounds.mailta.pe/437/track1.mp3
+  link: https://df.mailta.pe/437/track1.mp3
 track2:
   title: DEMO FEST – Into the Night
   color: trippy
-  link: https://sounds.mailta.pe/437/track2.mp3
+  link: https://df.mailta.pe/437/track2.mp3
 track3:
   title: Thomas Mapfumo – Haruna
   color: dreamy
-  link: https://sounds.mailta.pe/437/track3.mp3
+  link: https://df.mailta.pe/437/track3.mp3
 track4:
   title: Sam Shalabi & Stefan Christoff  – Elephantine
   color: dreamy
-  link: https://sounds.mailta.pe/437/track4.mp3
+  link: https://df.mailta.pe/437/track4.mp3
 track5:
   title: Murcof – Underwater Lament
   color: dreamy
-  link: https://sounds.mailta.pe/437/track5.mp3
+  link: https://df.mailta.pe/437/track5.mp3
 track6:
   title: Sibusile Xaba – Wampona
   color: trippy
-  link: https://sounds.mailta.pe/437/track6.mp3
+  link: https://df.mailta.pe/437/track6.mp3
 track7:
   title: Talvin Singh & Niladri Kumar – Ananta
   color: bliss
-  link: https://sounds.mailta.pe/437/track7.mp3
+  link: https://df.mailta.pe/437/track7.mp3
 release: 437
 ---
 This morning we welcome [Stefan Christoff](https://soundcloud.com/spirodon) to select three groovy Sunday morning tunes with us on MailTape. 

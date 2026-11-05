@@ -17,31 +17,31 @@ pubDate: 2021-07-04
 track1:
   title: Bando - Wesh Gros
   color: bliss
-  link: https://sounds.mailta.pe/458/track1.mp3
+  link: https://df.mailta.pe/458/track1.mp3
 track2:
   title: Pierre Perret - Au Café du Canal
   color: dreamy
-  link: https://sounds.mailta.pe/458/track2.mp3
+  link: https://df.mailta.pe/458/track2.mp3
 track3:
   title: Meryl - BB Compte
   color: bliss
-  link: https://sounds.mailta.pe/458/track3.mp3
+  link: https://df.mailta.pe/458/track3.mp3
 track4:
   title: Ratamard Clan - Nouveau Monde
   color: trippy
-  link: https://sounds.mailta.pe/458/track4.mp3
+  link: https://df.mailta.pe/458/track4.mp3
 track5:
   title: KT Gorique - Brienne
   color: vibrant
-  link: https://sounds.mailta.pe/458/track5.mp3
+  link: https://df.mailta.pe/458/track5.mp3
 track6:
   title: Farlot - Plavon
   color: dreamy
-  link: https://sounds.mailta.pe/458/track6.mp3
+  link: https://df.mailta.pe/458/track6.mp3
 track7:
   title: Lombre - Espoir Noir
   color: vibrant
-  link: https://sounds.mailta.pe/458/track7.mp3
+  link: https://df.mailta.pe/458/track7.mp3
 release: 458
 ---
 

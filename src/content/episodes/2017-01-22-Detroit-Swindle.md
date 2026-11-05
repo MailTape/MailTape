@@ -16,31 +16,31 @@ pubDate: 2017-01-22
 track1:
   title: A Tribe Called Quest - Whateva Will Be
   color: trippy
-  link: https://sounds.mailta.pe/244/track1.mp3
+  link: https://df.mailta.pe/244/track1.mp3
 track2:
   title: Anderson .Paak - The Bird
   color: vibrant
-  link: https://sounds.mailta.pe/244/track2.mp3
+  link: https://df.mailta.pe/244/track2.mp3
 track3:
   title: Bj The Chicago Kid - Turning Me Up
   color: trippy
-  link: https://sounds.mailta.pe/244/track3.mp3
+  link: https://df.mailta.pe/244/track3.mp3
 track4:
   title: Detroit Swindle – You, Me, Here, Now
   color: bliss
-  link: https://sounds.mailta.pe/244/track4.mp3
+  link: https://df.mailta.pe/244/track4.mp3
 track5:
   title: Session Victim – Hey Stranger
   color: bliss
-  link: https://sounds.mailta.pe/244/track5.mp3
+  link: https://df.mailta.pe/244/track5.mp3
 track6:
   title: Mocky – Soulful Beat
   color: vibrant
-  link: https://sounds.mailta.pe/244/track6.mp3
+  link: https://df.mailta.pe/244/track6.mp3
 track7:
   title: The Bamboos – Get in the Scene
   color: trippy
-  link: https://sounds.mailta.pe/244/track7.mp3
+  link: https://df.mailta.pe/244/track7.mp3
 release: 244
 ---
 This morning, let yourself dive into complete blissfulness with the soulful beat of our guests [Detroit Swindle](https://soundcloud.com/detroitswindle "Soundcloud"). Awake with their chilled out yet rhythmic musical selection that highlights the return of soul in hip-hop symbolized by three great artists. Detroit Swindle is a Dutch duo of DJs, renown for connecting an incredibly wide variety of musical genres into their work, making their style one of a kind and quite unpredictable. One of their masterpieces "You, Me, Here, Now" will make you want to discover more so push the volume up folks and enjoy!

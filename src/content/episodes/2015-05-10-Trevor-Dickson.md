@@ -15,31 +15,31 @@ pubDate: 2015-05-10
 track1:
   title: Pete Drake and his Talking Steel Guitar - Forever
   color: dreamy
-  link: https://sounds.mailta.pe/185/track1.mp3
+  link: https://df.mailta.pe/185/track1.mp3
 track2:
   title: Gloomy Sunday - Billie Holiday
   color: vibrant
-  link: https://sounds.mailta.pe/185/track2.mp3
+  link: https://df.mailta.pe/185/track2.mp3
 track3:
   title: Novicat de Soeurs Missionaires - Yesu Ka Mkwebaze
   color: vibrant
-  link: https://sounds.mailta.pe/185/track3.mp3
+  link: https://df.mailta.pe/185/track3.mp3
 track4:
   title: Trevor Dickson - Power
   color: dreamy
-  link: https://sounds.mailta.pe/185/track4.mp3
+  link: https://df.mailta.pe/185/track4.mp3
 track5:
   title: Fool's Gold - Another Sun
   color: bliss
-  link: https://sounds.mailta.pe/185/track5.mp3
+  link: https://df.mailta.pe/185/track5.mp3
 track6:
   title: Vendredi - Adonis
   color: dreamy
-  link: https://sounds.mailta.pe/185/track6.mp3
+  link: https://df.mailta.pe/185/track6.mp3
 track7:
   title: Ibo Combo - Mateau
   color: vibrant
-  link: https://sounds.mailta.pe/185/track7.mp3
+  link: https://df.mailta.pe/185/track7.mp3
 release: 185
 ---
 

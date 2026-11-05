@@ -16,31 +16,31 @@ pubDate: 2019-04-28
 track1:
   title: Deerhunter - Helicopter
   color: bliss
-  link: https://sounds.mailta.pe/355/Track1.mp3
+  link: https://df.mailta.pe/355/Track1.mp3
 track2:
   title: "Muddy Monk - Si l'on ride "
   color: dreamy
-  link: https://sounds.mailta.pe/355/track2.mp3
+  link: https://df.mailta.pe/355/track2.mp3
 track3:
   title: Simply Red - Holding back the years
   color: vibrant
-  link: https://sounds.mailta.pe/355/Track3.mp3
+  link: https://df.mailta.pe/355/Track3.mp3
 track4:
   title: "Marble Arch - Moonstruck "
   color: dreamy
-  link: https://sounds.mailta.pe/355/track4.mp3
+  link: https://df.mailta.pe/355/track4.mp3
 track5:
   title: BadBadNotGood - Time Moves Slow feat Sam Herring
   color: vibrant
-  link: https://sounds.mailta.pe/355/Track5.mp3
+  link: https://df.mailta.pe/355/Track5.mp3
 track6:
   title: Lenny Pistol - Ashamed
   color: dreamy
-  link: https://sounds.mailta.pe/355/Track6.mp3
+  link: https://df.mailta.pe/355/Track6.mp3
 track7:
   title: "Bauhaus - Bela Lugosi's Dead "
   color: trippy
-  link: https://sounds.mailta.pe/355/Track7.mp3
+  link: https://df.mailta.pe/355/Track7.mp3
 release: 355
 ---
 

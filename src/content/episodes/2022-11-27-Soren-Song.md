@@ -17,31 +17,31 @@ pubDate: 2022-11-27
 track1:
   title: Over The Rhine - Poughkeepsie
   color: dreamy
-  link: https://sounds.mailta.pe/507/track1.mp3
+  link: https://df.mailta.pe/507/track1.mp3
 track2:
   title: Sean Rowe - I'll Follow Your Trail
   color: bliss
-  link: https://sounds.mailta.pe/507/track2.mp3
+  link: https://df.mailta.pe/507/track2.mp3
 track3:
   title: The Beatles - A Day In The Life
   color: trippy
-  link: https://sounds.mailta.pe/507/track3.mp3
+  link: https://df.mailta.pe/507/track3.mp3
 track4:
   title: Soren Song - Gentle Man
   color: vibrant
-  link: https://sounds.mailta.pe/507/track4.mp3
+  link: https://df.mailta.pe/507/track4.mp3
 track5:
   title: Adelyn Rose - Gone for Anything
   color: dreamy
-  link: https://sounds.mailta.pe/507/track5.mp3
+  link: https://df.mailta.pe/507/track5.mp3
 track6:
   title: Soren Song - That Furious Rain
   color: bliss
-  link: https://sounds.mailta.pe/507/track6.mp3
+  link: https://df.mailta.pe/507/track6.mp3
 track7:
   title: Rainbow Kitten Surprise - Polite Company
   color: trippy
-  link: https://sounds.mailta.pe/507/track7.mp3
+  link: https://df.mailta.pe/507/track7.mp3
 release: 507
 ---
  With lots of love, this morning we welcome [Soren Song](https://www.sorensong.com/) to MailTape. Based in Rockland County, NY, their work spans indie folk and americana genres, and is absolutely brimming with striking descriptions and deeply perceptive lyricism. It's a true joy to welcome them for a collection of tracks to start your Sunday.

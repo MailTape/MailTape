@@ -17,31 +17,31 @@ pubDate: 2021-12-05
 track1:
   title: José Gonzalez - Line of Fire
   color: vibrant
-  link: https://sounds.mailta.pe/473/track1.mp3
+  link: https://df.mailta.pe/473/track1.mp3
 track2:
   title: "Eddie Chacon - My Mind is Out of its Mind "
   color: dreamy
-  link: https://sounds.mailta.pe/473/track2.mp3
+  link: https://df.mailta.pe/473/track2.mp3
 track3:
   title: "Frank Ocean - Cayendo "
   color: vibrant
-  link: https://sounds.mailta.pe/473/track3.mp3
+  link: https://df.mailta.pe/473/track3.mp3
 track4:
   title: Souleance - Mont Maudit
   color: bliss
-  link: https://sounds.mailta.pe/473/track4.mp3
+  link: https://df.mailta.pe/473/track4.mp3
 track5:
   title: BadBadNotGood - Confessions pt || feat Colin Stetson
   color: trippy
-  link: https://sounds.mailta.pe/473/track5.mp3
+  link: https://df.mailta.pe/473/track5.mp3
 track6:
   title: Caribou - Magpie
   color: dreamy
-  link: https://sounds.mailta.pe/473/track6.mp3
+  link: https://df.mailta.pe/473/track6.mp3
 track7:
   title: "Sampa The Great - Rhymes To The East "
   color: bliss
-  link: https://sounds.mailta.pe/473/track7.mp3
+  link: https://df.mailta.pe/473/track7.mp3
 release: 473
 ---
  This morning, the cold freezes our minds and the rain makes us feel bad. Fortunately, to chase away all its negative waves, we have the selection of the group [Souleance](https://souleance.bandcamp.com/). Smoothie, sunshine and good vibes in abundance to counter this winter that is fast approaching.

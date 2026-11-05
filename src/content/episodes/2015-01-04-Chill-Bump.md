@@ -14,31 +14,31 @@ pubDate: 2015-01-04
 track1:
   title: Flight of The Conchords - Foux du Fafa
   color: vibrant
-  link: https://sounds.mailta.pe/167/track1.mp3
+  link: https://df.mailta.pe/167/track1.mp3
 track2:
   title: Nate Dogg - I Got Love
   color: vibrant
-  link: https://sounds.mailta.pe/167/track2.mp3
+  link: https://df.mailta.pe/167/track2.mp3
 track3:
   title: James Blake - Retrograde
   color: dreamy
-  link: https://sounds.mailta.pe/167/track3.mp3
+  link: https://df.mailta.pe/167/track3.mp3
 track4:
   title: Chill Bump - One Way Ticket
   color: vibrant
-  link: https://sounds.mailta.pe/167/track4.mp3
+  link: https://df.mailta.pe/167/track4.mp3
 track5:
   title: Jonny K. & Haleek Maul - Insane
   color: vibrant
-  link: https://sounds.mailta.pe/167/track5.mp3
+  link: https://df.mailta.pe/167/track5.mp3
 track6:
   title: Asagaya ft. Lorine Chia - Elusive / Delusive
   color: vibrant
-  link: https://sounds.mailta.pe/167/track6.mp3
+  link: https://df.mailta.pe/167/track6.mp3
 track7:
   title: Raury - God's Whisper
   color: vibrant
-  link: https://sounds.mailta.pe/167/track7.mp3
+  link: https://df.mailta.pe/167/track7.mp3
 release: 167
 ---
 

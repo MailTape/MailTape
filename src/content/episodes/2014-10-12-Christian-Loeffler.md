@@ -17,31 +17,31 @@ pubDate: 2014-10-12
 track1:
   title: Me Succeeds - Rongorongo (Arp Aubert Remix)
   color: rough
-  link: https://sounds.mailta.pe/155/track1.mp3
+  link: https://df.mailta.pe/155/track1.mp3
 track2:
   title: Sean Piñeiro - Grounds
   color: dreamy
-  link: https://sounds.mailta.pe/155/track2.mp3
+  link: https://df.mailta.pe/155/track2.mp3
 track3:
   title: Daisuke Tanabe - Paper Planes
   color: trippy
-  link: https://sounds.mailta.pe/155/track3.mp3
+  link: https://df.mailta.pe/155/track3.mp3
 track4:
   title: Christian Löeffler - Veiled Grey
   color: bliss
-  link: https://sounds.mailta.pe/155/track4.mp3
+  link: https://df.mailta.pe/155/track4.mp3
 track5:
   title: Bambounou - Brim
   color: rough
-  link: https://sounds.mailta.pe/155/track5.mp3
+  link: https://df.mailta.pe/155/track5.mp3
 track6:
   title: Teeel - Disk Go
   color: vibrant
-  link: https://sounds.mailta.pe/155/track6.mp3
+  link: https://df.mailta.pe/155/track6.mp3
 track7:
   title: Kazy Lambist - Doing Yoga
   color: vibrant
-  link: https://sounds.mailta.pe/155/track7.mp3
+  link: https://df.mailta.pe/155/track7.mp3
 release: 155
 ---
 

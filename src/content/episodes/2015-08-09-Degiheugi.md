@@ -17,31 +17,31 @@ pubDate: 2015-08-09
 track1:
   title: " Jorge Ben Jor - Oba, la vem ela "
   color: dreamy
-  link: https://sounds.mailta.pe/198/track1.mp3
+  link: https://df.mailta.pe/198/track1.mp3
 track2:
   title: RJD2 - 420
   color: dreamy
-  link: https://sounds.mailta.pe/198/track2.mp3
+  link: https://df.mailta.pe/198/track2.mp3
 track3:
   title: Chinese Man - The Reminder
   color: vibrant
-  link: https://sounds.mailta.pe/198/track3.mp3
+  link: https://df.mailta.pe/198/track3.mp3
 track4:
   title: Degiheugi - Betty
   color: dreamy
-  link: https://sounds.mailta.pe/198/track4.mp3
+  link: https://df.mailta.pe/198/track4.mp3
 track5:
   title: Chick Corea - Armando's Rhumba
   color: trippy
-  link: https://sounds.mailta.pe/198/track5.mp3
+  link: https://df.mailta.pe/198/track5.mp3
 track6:
   title: Joy! - Entrée
   color: bliss
-  link: https://sounds.mailta.pe/198/track6.mp3
+  link: https://df.mailta.pe/198/track6.mp3
 track7:
   title: " Fils Unique - My Girl(s)"
   color: vibrant
-  link: https://sounds.mailta.pe/198/track7.mp3
+  link: https://df.mailta.pe/198/track7.mp3
 release: 198
 ---
 

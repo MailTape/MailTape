@@ -17,31 +17,31 @@ pubDate: 2015-07-12
 track1:
   title: John Grant - You don't have to
   color: trippy
-  link: https://sounds.mailta.pe/194/track1.mp3
+  link: https://df.mailta.pe/194/track1.mp3
 track2:
   title: William Tyler - We can't go home again
   color: vibrant
-  link: https://sounds.mailta.pe/194/track2.mp3
+  link: https://df.mailta.pe/194/track2.mp3
 track3:
   title: Rodrigo Amarante - Mon Nom
   color: dreamy
-  link: https://sounds.mailta.pe/194/Mon+Nom.mp3
+  link: https://df.mailta.pe/194/Mon+Nom.mp3
 track4:
   title: Hugo Kepler - Senza mon Amour
   color: dreamy
-  link: https://sounds.mailta.pe/194/track4.mp3
+  link: https://df.mailta.pe/194/track4.mp3
 track5:
   title: Samay - In and Out
   color: bliss
-  link: https://sounds.mailta.pe/194/track5.mp3
+  link: https://df.mailta.pe/194/track5.mp3
 track6:
   title: Maribou State - Midas (feat. Holly Walker)
   color: vibrant
-  link: https://sounds.mailta.pe/194/track6.mp3
+  link: https://df.mailta.pe/194/track6.mp3
 track7:
   title: Tilman - Eruption (Klamauk)
   color: rough
-  link: https://sounds.mailta.pe/194/track7.mp3
+  link: https://df.mailta.pe/194/track7.mp3
 release: 194
 ---
 

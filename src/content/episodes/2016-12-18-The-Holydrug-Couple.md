@@ -15,31 +15,31 @@ pubDate: 2016-12-18
 track1:
   title: Nicolas Godin - Widerstehe Doch Der Sünde
   color: trippy
-  link: https://sounds.mailta.pe/239/track1.mp3
+  link: https://df.mailta.pe/239/track1.mp3
 track2:
   title: Arco Corintio - Coronada
   color: dreamy
-  link: https://sounds.mailta.pe/239/track2.mp3
+  link: https://df.mailta.pe/239/track2.mp3
 track3:
   title: Valesuchi - Golosynth
   color: dreamy
-  link: https://sounds.mailta.pe/239/track3.mp3
+  link: https://df.mailta.pe/239/track3.mp3
 track4:
   title: The Holydrug Couple - Concorde
   color: vibrant
-  link: https://sounds.mailta.pe/239/track4.mp3
+  link: https://df.mailta.pe/239/track4.mp3
 track5:
   title: Krakatau - Tharsis Montes
   color: trippy
-  link: https://sounds.mailta.pe/239/track5.mp3
+  link: https://df.mailta.pe/239/track5.mp3
 track6:
   title: Phil Stroud - Flow
   color: bliss
-  link: https://sounds.mailta.pe/239/track6.mp3
+  link: https://df.mailta.pe/239/track6.mp3
 track7:
   title: Mick Jenkins - Drowning feat. BadBadNotGood
   color: trippy
-  link: https://sounds.mailta.pe/239/track7.mp3
+  link: https://df.mailta.pe/239/track7.mp3
 release: 239
 ---
 This morning, we will explore a variety of psychedelic territories with our guests [The Holydrug Couple](https://www.facebook.com/Holydrugcouple/). Cosmic, oniric and tastily psychedelic, their music bring us in an parallel dimension where dreams and reality are one. Perfect destination for a Sunday morning. Hope this experimental trip will make you float as high as the Andean mountains from their native Chili.

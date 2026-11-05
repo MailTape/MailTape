@@ -15,31 +15,31 @@ pubDate: 2014-06-08
 track1:
   title: Dimlite - Can't Get Used To Those
   color: vibrant
-  link: https://sounds.mailta.pe/144/track1.mp3
+  link: https://df.mailta.pe/144/track1.mp3
 track2:
   title: Flako - Lonely Town feat. Dirg Gerner
   color: bliss
-  link: https://sounds.mailta.pe/144/track2.mp3
+  link: https://df.mailta.pe/144/track2.mp3
 track3:
   title: Miguel - Do You… (Cashmere Cat Remix)
   color: bliss
-  link: https://sounds.mailta.pe/144/track3.mp3
+  link: https://df.mailta.pe/144/track3.mp3
 track4:
   title: Clément Bazin - Come to this
   color: vibrant
-  link: https://sounds.mailta.pe/144/track4.mp3
+  link: https://df.mailta.pe/144/track4.mp3
 track5:
   title: Late Bloom - Rollin Up
   color: dreamy
-  link: https://sounds.mailta.pe/144/track5.mp3
+  link: https://df.mailta.pe/144/track5.mp3
 track6:
   title: Rome Fortune - One Time For
   color: bliss
-  link: https://sounds.mailta.pe/144/track6.mp3
+  link: https://df.mailta.pe/144/track6.mp3
 track7:
   title: Taylor McFerrin - The Antidote (feat. Nai Palm)
   color: bliss
-  link: https://sounds.mailta.pe/144/track7.mp3
+  link: https://df.mailta.pe/144/track7.mp3
 release: 144
 ---
 

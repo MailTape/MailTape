@@ -18,32 +18,32 @@ pubDate: 2020-11-08
 track1:
   title: Donny Hathaway - A Song for You
   color: bliss
-  link: https://sounds.mailta.pe/424/track1.mp3
+  link: https://df.mailta.pe/424/track1.mp3
 track2:
   title: Kasper Staub Trio - People Who Love Each Other
   color: dreamy
-  link: https://sounds.mailta.pe/424/track2.mp3
+  link: https://df.mailta.pe/424/track2.mp3
 track3:
   title: Johnny Alf - Rapaz de BEM
   color: vibrant
-  link: https://sounds.mailta.pe/424/track3.mp3
+  link: https://df.mailta.pe/424/track3.mp3
 track4:
   title: Natalie Greffel - Toquei
   color: vibrant
-  link: https://sounds.mailta.pe/424/track4.mp3
+  link: https://df.mailta.pe/424/track4.mp3
 track5:
   title: Deborah Dery - Spring Can Really Hang You Up The Most (cover)(quarantine
     version)
   color: dreamy
-  link: https://sounds.mailta.pe/424/track5.mp3
+  link: https://df.mailta.pe/424/track5.mp3
 track6:
   title: "Emel - The Man Who Sold the World "
   color: bliss
-  link: https://sounds.mailta.pe/424/track6.mp3
+  link: https://df.mailta.pe/424/track6.mp3
 track7:
   title: Teno Afrika - Lerato La Bass
   color: trippy
-  link: https://sounds.mailta.pe/424/track7.mp3
+  link: https://df.mailta.pe/424/track7.mp3
 release: 424
 ---
 

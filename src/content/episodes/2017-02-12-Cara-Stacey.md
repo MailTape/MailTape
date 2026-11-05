@@ -16,31 +16,31 @@ pubDate: 2017-02-12
 track1:
   title: Samthing Soweto - Jack Of All Trades
   color: dreamy
-  link: https://sounds.mailta.pe/247/track1.mp3
+  link: https://df.mailta.pe/247/track1.mp3
 track2:
   title: Owiny Sigoma Band - Owegi Owandho (Hello Skinny Remix)
   color: vibrant
-  link: https://sounds.mailta.pe/247/track2.mp3
+  link: https://df.mailta.pe/247/track2.mp3
 track3:
   title: Waver - Aphelion
   color: bliss
-  link: https://sounds.mailta.pe/247/track3.mp3
+  link: https://df.mailta.pe/247/track3.mp3
 track4:
   title: Cara Stacey - Dark Matter
   color: vibrant
-  link: https://sounds.mailta.pe/247/track4.mp3
+  link: https://df.mailta.pe/247/track4.mp3
 track5:
   title: Malombo Jazz Makers - Hleziphi
   color: bliss
-  link: https://sounds.mailta.pe/247/track5.mp3
+  link: https://df.mailta.pe/247/track5.mp3
 track6:
   title: Sons of Kemet - Adonia’s Lullaby
   color: dreamy
-  link: https://sounds.mailta.pe/247/track6.mp3
+  link: https://df.mailta.pe/247/track6.mp3
 track7:
   title: Nérija - The Fisherman
   color: vibrant
-  link: https://sounds.mailta.pe/247/track7.mp3
+  link: https://df.mailta.pe/247/track7.mp3
 release: 247
 ---
 This morning, let your curiosity about the world and all its corners run wild, with an intriguing selection from our guest [Cara Stacey](http://www.carastacey.com/ "Cara Stacey") - composer, researcher, improviser and multi-instrumentalist.

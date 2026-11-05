@@ -17,31 +17,31 @@ pubDate: 2020-04-19
 track1:
   title: Ted Lucas - It's So Easy
   color: dreamy
-  link: https://sounds.mailta.pe/402/track1.mp3
+  link: https://df.mailta.pe/402/track1.mp3
 track2:
   title: Michael Hurley - Knockando
   color: bliss
-  link: https://sounds.mailta.pe/402/track2.mp3
+  link: https://df.mailta.pe/402/track2.mp3
 track3:
   title: Elyse Weinberg - Houses (with Neil Young)
   color: vibrant
-  link: https://sounds.mailta.pe/402/track3.mp3
+  link: https://df.mailta.pe/402/track3.mp3
 track4:
   title: Jeffrey Silverstein - A Dog's Age
   color: bliss
-  link: https://sounds.mailta.pe/402/track4.mp3
+  link: https://df.mailta.pe/402/track4.mp3
 track5:
   title: Angad Berar - Anjuna
   color: dreamy
-  link: https://sounds.mailta.pe/402/track5.mp3
+  link: https://df.mailta.pe/402/track5.mp3
 track6:
   title: Green House - Parlor Palm
   color: bliss
-  link: https://sounds.mailta.pe/402/track6.mp3
+  link: https://df.mailta.pe/402/track6.mp3
 track7:
   title: Rideau - Le Ciel, le Soleil et la Mer
   color: trippy
-  link: https://sounds.mailta.pe/402/track7.mp3
+  link: https://df.mailta.pe/402/track7.mp3
 release: 402
 ---
  This morning we are still confined and condemned to look at the sky behind our windows. Luckily, [Jeffrey Silverstein](https://jeffreysilverstein.bandcamp.com/) is here to guide us on a peaceful hike in the heart of our inner mountain. Time to lie down, breathe slowly, and start drawing the landscapes that will allow you to escape. 

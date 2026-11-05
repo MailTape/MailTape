@@ -13,31 +13,31 @@ musiColor: /img/musicolor455.png
 track1:
   title: Carole King - Beautiful
   color: vibrant
-  link: https://sounds.mailta.pe/455/track1.mp3
+  link: https://df.mailta.pe/455/track1.mp3
 track2:
   title: Jack Name- Sacred Place
   color: dreamy
-  link: https://sounds.mailta.pe/455/track2.mp3
+  link: https://df.mailta.pe/455/track2.mp3
 track3:
   title: Paolo Conte- Sparring Partner
   color: bliss
-  link: https://sounds.mailta.pe/455/track3.mp3
+  link: https://df.mailta.pe/455/track3.mp3
 track4:
   title: Hélène Barbier - La Peur
   color: dreamy
-  link: https://sounds.mailta.pe/455/track4.mp3
+  link: https://df.mailta.pe/455/track4.mp3
 track5:
   title: Omni - Sincerely Yours
   color: bliss
-  link: https://sounds.mailta.pe/455/track5.mp3
+  link: https://df.mailta.pe/455/track5.mp3
 track6:
   title: François Virot - Cascade Kisses
   color: vibrant
-  link: https://sounds.mailta.pe/455/track6.mp3
+  link: https://df.mailta.pe/455/track6.mp3
 track7:
   title: Phern - I Sold The House
   color: trippy
-  link: https://sounds.mailta.pe/missingTrack.mp3
+  link: https://df.mailta.pe/missingTrack.mp3
 release: 455
 ---
 

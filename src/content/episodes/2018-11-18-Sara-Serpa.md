@@ -15,31 +15,31 @@ pubDate: 2018-11-18
 track1:
   title: Béla Bartók – Violin Duets, N.28 — Sorrow
   color: dreamy
-  link: https://sounds.mailta.pe/332/track1.mp3
+  link: https://df.mailta.pe/332/track1.mp3
 track2:
   title: Fanta Damba & Batourou Sekou Kouyaté – Tatou
   color: bliss
-  link: https://sounds.mailta.pe/332/track2.mp3
+  link: https://df.mailta.pe/332/track2.mp3
 track3:
   title: Nina Simone – Just in Time (Live at The Village Gate)
   color: vibrant
-  link: https://sounds.mailta.pe/332/track3.mp3
+  link: https://df.mailta.pe/332/track3.mp3
 track4:
   title: Sara Serpa & André Matos – Lisboa
   color: dreamy
-  link: https://sounds.mailta.pe/332/track4.mp3
+  link: https://df.mailta.pe/332/track4.mp3
 track5:
   title: Cécile McLorin Salvant – You've Got to Give Me Some
   color: bliss
-  link: https://sounds.mailta.pe/332/track5.mp3
+  link: https://df.mailta.pe/332/track5.mp3
 track6:
   title: Amira Kheir – Amwaj (Waves)
   color: trippy
-  link: https://sounds.mailta.pe/332/track6.mp3
+  link: https://df.mailta.pe/332/track6.mp3
 track7:
   title: Meeta Pandit – Thumri Pilu (Live)
   color: dreamy
-  link: https://sounds.mailta.pe/332/track7.mp3
+  link: https://df.mailta.pe/332/track7.mp3
 release: 332
 ---
 This morning we welcome vocalist and composer [Sara Serpa](https://www.saraserpa.com/) to pick three Sunday morning musical selections for us.

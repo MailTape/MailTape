@@ -15,31 +15,31 @@ pubDate: 2018-10-21
 track1:
   title: Brian Eno – Fullness of Wind
   color: dreamy
-  link: https://sounds.mailta.pe/328/track1.mp3
+  link: https://df.mailta.pe/328/track1.mp3
 track2:
   title: Henryk Górecki – Third Symphony Movement 3
   color: bliss
-  link: https://sounds.mailta.pe/328/track2.mp3
+  link: https://df.mailta.pe/328/track2.mp3
 track3:
   title: Baird Sisters – Tracks
   color: bliss
-  link: https://sounds.mailta.pe/328/track3.mp3
+  link: https://df.mailta.pe/328/track3.mp3
 track4:
   title: Mary Lattimore – Hello From the Edge of the Earth
   color: dreamy
-  link: https://sounds.mailta.pe/328/track4.mp3
+  link: https://df.mailta.pe/328/track4.mp3
 track5:
   title: Áine O'Dwyer – Tremor
   color: bliss
-  link: https://sounds.mailta.pe/328/track5.mp3
+  link: https://df.mailta.pe/328/track5.mp3
 track6:
   title: Orla Wren – The Cup Of Remembered Things
   color: dreamy
-  link: https://sounds.mailta.pe/328/track6.mp3
+  link: https://df.mailta.pe/328/track6.mp3
 track7:
   title: United Bible Studies – Hazlehurst
   color: trippy
-  link: https://sounds.mailta.pe/328/track7.mp3
+  link: https://df.mailta.pe/328/track7.mp3
 release: 328
 ---
 This Sunday morning we are delighted to welcome harpist [Mary Lattimore](http://marylattimoreharpist.tumblr.com/) to MailTape. By now I've forgotten the summer. I don’t remember what the morning is. It has merged into a fading white light, when that morning has awakened and too quickly ceased. Mary's own sound on her latest album, [Hundreds of Days](https://marylattimoreharpist.bandcamp.com/album/hundreds-of-days), as well as her selections this morning capture this mournfulness plainly.

@@ -27,31 +27,31 @@ musiColor: /img/musicolor557.png
 track1:
   title: Timber Timbre - Black Water
   color: dreamy
-  link: https://sounds.mailta.pe/557/track1.mp3
+  link: https://df.mailta.pe/557/track1.mp3
 track2:
   title: Cheba Fadela & Cheb Sahraoui - Manich Mena
   color: bliss
-  link: https://sounds.mailta.pe/557/track2.mp3
+  link: https://df.mailta.pe/557/track2.mp3
 track3:
   title: Mashrou' Leila - Radio Romance
   color: vibrant
-  link: https://sounds.mailta.pe/557/track3.mp3
+  link: https://df.mailta.pe/557/track3.mp3
 track4:
   title: Sami Galbi -  Dakchi Hani
   color: trippy
-  link: https://sounds.mailta.pe/557/track4.mp3
+  link: https://df.mailta.pe/557/track4.mp3
 track5:
   title: Sofiane Saidi & Mazalda - Bourkan
   color: bliss
-  link: https://sounds.mailta.pe/557/track5.mp3
+  link: https://df.mailta.pe/557/track5.mp3
 track6:
   title: Cheb Kader - Reggae Raï
   color: trippy
-  link: https://sounds.mailta.pe/557/track6.mp3
+  link: https://df.mailta.pe/557/track6.mp3
 track7:
   title: Teno Afrika - Smooth Criminal (Main Mix)
   color: vibrant
-  link: https://sounds.mailta.pe/557/track7.mp3
+  link: https://df.mailta.pe/557/track7.mp3
 release: 557
 ---
 This morning we're delighted to welcome Swiss-Moroccan musician and singer [Sami Galbi](https://samigalbi.bandcamp.com/) who has just released his first EP <i>Dakchi Hani / Rruina</i> to MailTape!

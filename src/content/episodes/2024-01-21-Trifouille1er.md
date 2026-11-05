@@ -20,31 +20,31 @@ pubDate: 2024-01-21
 track1:
   title: Dance place garage - Mauskovic dance band
   color: vibrant
-  link: https://sounds.mailta.pe/544/track1.mp3
+  link: https://df.mailta.pe/544/track1.mp3
 track2:
   title: Always Du - Siriusmo
   color: trippy
-  link: https://sounds.mailta.pe/544/track2.mp3
+  link: https://df.mailta.pe/544/track2.mp3
 track3:
   title: Cake - Ivy Lab
   color: rough
-  link: https://sounds.mailta.pe/544/track3.mp3
+  link: https://df.mailta.pe/544/track3.mp3
 track4:
   title: Trifouille1er - Bronto Porn
   color: vibrant
-  link: https://sounds.mailta.pe/544/track4.mp3
+  link: https://df.mailta.pe/544/track4.mp3
 track5:
   title: Patricia Taxxon – Gnaw
   color: rough
-  link: https://sounds.mailta.pe/544/track5.mp3
+  link: https://df.mailta.pe/544/track5.mp3
 track6:
   title: Ko Shin Moon – Konyali
   color: vibrant
-  link: https://sounds.mailta.pe/544/track6.mp3
+  link: https://df.mailta.pe/544/track6.mp3
 track7:
   title: Robert le Magnifique – Reulf
   color: bliss
-  link: https://sounds.mailta.pe/544/track7.mp3
+  link: https://df.mailta.pe/544/track7.mp3
 release: 544
 ---
 

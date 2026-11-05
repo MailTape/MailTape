@@ -20,31 +20,31 @@ pubDate: 2022-01-09
 track1:
   title: KESHA – Woman ft The Dap-Kings Horns
   color: vibrant
-  link: https://sounds.mailta.pe/476/track1.mp3
+  link: https://df.mailta.pe/476/track1.mp3
 track2:
   title: Moonshake feat. PJ Harvey - Just A Working Girl
   color: trippy
-  link: https://sounds.mailta.pe/476/track2.mp3
+  link: https://df.mailta.pe/476/track2.mp3
 track3:
   title: Extra Crunchy - RXK Nephew
   color: rough
-  link: https://sounds.mailta.pe/476/track3.mp3
+  link: https://df.mailta.pe/476/track3.mp3
 track4:
   title: Uzi Freyja - Bang Bang
   color: rough
-  link: https://sounds.mailta.pe/476/track4.mp3
+  link: https://df.mailta.pe/476/track4.mp3
 track5:
   title: Blawan - Close the Cycle
   color: rough
-  link: https://sounds.mailta.pe/476/track5.mp3
+  link: https://df.mailta.pe/476/track5.mp3
 track6:
   title: Strait Jacket - Dreamcast
   color: rough
-  link: https://sounds.mailta.pe/476/track6.mp3
+  link: https://df.mailta.pe/476/track6.mp3
 track7:
   title: Blarf - I Dunno
   color: trippy
-  link: https://sounds.mailta.pe/476/track7.mp3
+  link: https://df.mailta.pe/476/track7.mp3
 release: 476
 ---
  

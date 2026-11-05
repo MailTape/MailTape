@@ -20,31 +20,31 @@ musiColor: /img/musicolor600.png
 track1:
   title: Lukas Koenig - Full Mantis (ft. Guilty Simpson)
   color: rough
-  link: https://sounds.mailta.pe/600/track1.mp3
+  link: https://df.mailta.pe/600/track1.mp3
 track2:
   title: Mariam Rezaei - Going straight (and fucking it up)
   color: trippy
-  link: https://sounds.mailta.pe/600/track2.mp3
+  link: https://df.mailta.pe/600/track2.mp3
 track3:
   title: sús - Além do tempo
   color: dreamy
-  link: https://sounds.mailta.pe/600/track3.mp3
+  link: https://df.mailta.pe/600/track3.mp3
 track4:
   title: Antoine Ferris - Hount Orbe
   color: trippy
-  link: https://sounds.mailta.pe/600/track4.mp3
+  link: https://df.mailta.pe/600/track4.mp3
 track5:
   title: Meitei - San-no-yu / 参湯
   color: bliss
-  link: https://sounds.mailta.pe/600/track5.mp3
+  link: https://df.mailta.pe/600/track5.mp3
 track6:
   title: Vegyn - Stress Test
   color: trippy
-  link: https://sounds.mailta.pe/600/track6.mp3
+  link: https://df.mailta.pe/600/track6.mp3
 track7:
   title: Tortoise - Works and Days
   color: dreamy
-  link: https://sounds.mailta.pe/600/track7.mp3
+  link: https://df.mailta.pe/600/track7.mp3
 release: 600
 ---
 This morning, we're extremely grateful to celebrate our **600th episode**! We're humbled to have you with us for our weekly musical rendezvous. Recently, we’ve received messages from many of you sharing that you've been onboard for years, and what a heartwarming feeling that is!

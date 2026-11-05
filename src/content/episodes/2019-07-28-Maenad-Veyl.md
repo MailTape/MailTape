@@ -20,31 +20,31 @@ pubDate: 2019-07-28
 track1:
   title: MY DISCO - Exercise in Sacrifice
   color: dreamy
-  link: https://sounds.mailta.pe/368/track1.mp3
+  link: https://df.mailta.pe/368/track1.mp3
 track2:
   title: KOKOROKO - Adwa
   color: vibrant
-  link: https://sounds.mailta.pe/368/track2.mp3
+  link: https://df.mailta.pe/368/track2.mp3
 track3:
   title: Ed Rush - Skylab
   color: vibrant
-  link: https://sounds.mailta.pe/368/track3.mp3
+  link: https://df.mailta.pe/368/track3.mp3
 track4:
   title: Maenad Veyl - In Ruins
   color: dreamy
-  link: https://sounds.mailta.pe/368/track4.mp3
+  link: https://df.mailta.pe/368/track4.mp3
 track5:
   title: Zavoloka - Gromovytsya | Громовиця
   color: dreamy
-  link: https://sounds.mailta.pe/368/track5.mp3
+  link: https://df.mailta.pe/368/track5.mp3
 track6:
   title: Joni Void - Observer (Natalie's Song)
   color: trippy
-  link: https://sounds.mailta.pe/368/track6.mp3
+  link: https://df.mailta.pe/368/track6.mp3
 track7:
   title: Simo Cell - As Long As We Have Those Things
   color: dreamy
-  link: https://sounds.mailta.pe/368/track7.mp3
+  link: https://df.mailta.pe/368/track7.mp3
 release: 368
 ---
 

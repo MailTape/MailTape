@@ -14,31 +14,31 @@ pubDate: 2014-06-15
 track1:
   title: Blood Orange - You're Not Good Enough
   color: bliss
-  link: https://sounds.mailta.pe/145/track1.mp3
+  link: https://df.mailta.pe/145/track1.mp3
 track2:
   title: Matthewdavid - In My World
   color: trippy
-  link: https://sounds.mailta.pe/145/track2.mp3
+  link: https://df.mailta.pe/145/track2.mp3
 track3:
   title: Rhye - 3 Days
   color: bliss
-  link: https://sounds.mailta.pe/145/track3.mp3
+  link: https://df.mailta.pe/145/track3.mp3
 track4:
   title: Pendentif - 1er Juillet
   color: vibrant
-  link: https://sounds.mailta.pe/145/track4.mp3
+  link: https://df.mailta.pe/145/track4.mp3
 track5:
   title: Turks And Caicos - Cars Outside
   color: vibrant
-  link: https://sounds.mailta.pe/145/track5.mp3
+  link: https://df.mailta.pe/145/track5.mp3
 track6:
   title: NICODXMVS - Im 2 Blame...
   color: trippy
-  link: https://sounds.mailta.pe/145/track6.mp3
+  link: https://df.mailta.pe/145/track6.mp3
 track7:
   title: Caribou - Can't Do Without You
   color: bliss
-  link: https://sounds.mailta.pe/145/track7.mp3
+  link: https://df.mailta.pe/145/track7.mp3
 release: 145
 ---
 

@@ -21,31 +21,31 @@ pubDate: 2016-05-01
 track1:
   title: Silk Rhodes - Pains
   color: dreamy
-  link: https://sounds.mailta.pe/215/track1.mp3
+  link: https://df.mailta.pe/215/track1.mp3
 track2:
   title: Vulfpeck - 1612
   color: vibrant
-  link: https://sounds.mailta.pe/215/track2.mp3
+  link: https://df.mailta.pe/215/track2.mp3
 track3:
   title: A Tribe Called Quest - Electric Relaxation
   color: dreamy
-  link: https://sounds.mailta.pe/215/track3.mp3
+  link: https://df.mailta.pe/215/track3.mp3
 track4:
   title: Guru Fiction - California
   color: vibrant
-  link: https://sounds.mailta.pe/215/track4.mp3
+  link: https://df.mailta.pe/215/track4.mp3
 track5:
   title: "Cumbia - Unknown "
   color: vibrant
-  link: https://sounds.mailta.pe/215/track5.mp3
+  link: https://df.mailta.pe/215/track5.mp3
 track6:
   title: Carolina Camacho - Ninfa De Las Aguas
   color: dreamy
-  link: https://sounds.mailta.pe/215/track6.mp3
+  link: https://df.mailta.pe/215/track6.mp3
 track7:
   title: Octave Lissner - Silver Rain
   color: dreamy
-  link: https://sounds.mailta.pe/215/track7.mp3
+  link: https://df.mailta.pe/215/track7.mp3
 release: 215
 ---
 

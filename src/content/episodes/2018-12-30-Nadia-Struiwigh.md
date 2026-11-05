@@ -16,31 +16,31 @@ pubDate: 2018-12-30
 track1:
   title: West Dylan Thordson – Meeting the Others
   color: dreamy
-  link: https://sounds.mailta.pe/338/track1.mp3
+  link: https://df.mailta.pe/338/track1.mp3
 track2:
   title: Helios – It Was Warmer Then
   color: bliss
-  link: https://sounds.mailta.pe/338/track2.mp3
+  link: https://df.mailta.pe/338/track2.mp3
 track3:
   title: Be Forest – Totem
   color: trippy
-  link: https://sounds.mailta.pe/338/track3.mp3
+  link: https://df.mailta.pe/338/track3.mp3
 track4:
   title: Nadia Struiwigh – Roeiweijk
   color: dreamy
-  link: https://sounds.mailta.pe/338/track4.mp3
+  link: https://df.mailta.pe/338/track4.mp3
 track5:
   title: Kara-Lis Coverdale – Vessels
   color: bliss
-  link: https://sounds.mailta.pe/338/track5.mp3
+  link: https://df.mailta.pe/338/track5.mp3
 track6:
   title: Roslyn Steer – Busy Window
   color: dreamy
-  link: https://sounds.mailta.pe/338/track6.mp3
+  link: https://df.mailta.pe/338/track6.mp3
 track7:
   title: Grouper – Being Her Shadow
   color: dreamy
-  link: https://sounds.mailta.pe/338/track7.mp3
+  link: https://df.mailta.pe/338/track7.mp3
 release: 338
 ---
 In this final episode of 2018, we are delighted to welcome Rotterdam-based DJ and electronic producer [Nadia Struiwigh](https://www.nadiastruiwigh.com/) as she picks three meditative Sunday morning tunes.

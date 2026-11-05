@@ -18,31 +18,31 @@ pubDate: 2021-10-17
 track1:
   title: Robert Wyatt - Sea Song
   color: trippy
-  link: https://sounds.mailta.pe/466/track1.mp3
+  link: https://df.mailta.pe/466/track1.mp3
 track2:
   title: Mathieu Boogaerts - Super
   color: vibrant
-  link: https://sounds.mailta.pe/466/track2.mp3
+  link: https://df.mailta.pe/466/track2.mp3
 track3:
   title: Bigott - Pavement Tree
   color: vibrant
-  link: https://sounds.mailta.pe/466/track3.mp3
+  link: https://df.mailta.pe/466/track3.mp3
 track4:
   title: Écran Total - Finie la fête
   color: vibrant
-  link: https://sounds.mailta.pe/466/track4.mp3
+  link: https://df.mailta.pe/466/track4.mp3
 track5:
   title: Юлия Накарякова - Здравствуй
   color: vibrant
-  link: https://sounds.mailta.pe/466/track5.mp3
+  link: https://df.mailta.pe/466/track5.mp3
 track6:
   title: Yellow Magic Orchestra - Rydeen
   color: vibrant
-  link: https://sounds.mailta.pe/466/track6.mp3
+  link: https://df.mailta.pe/466/track6.mp3
 track7:
   title: Black Moth Super Rainbow - Melody For Color Spectrum
   color: trippy
-  link: https://sounds.mailta.pe/466/track7.mp3
+  link: https://df.mailta.pe/466/track7.mp3
 release: 466
 ---
 This morning, please welcome Camille & Margaux from [Écran Total](https://ecrantotalmusique.bandcamp.com). With their first album, [Schaerbeek Love](https://ecrantotalmusique.bandcamp.com/album/schaerbeek-love), they share with us this gentle vibe so particular in the early days following the meeting of two spirits. Innocent and groovy, today's episode is an ode to sunshine and love. Let the music play!

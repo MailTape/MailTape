@@ -15,31 +15,31 @@ pubDate: 2014-05-25
 track1:
   title: Nina Simone - I Loves You Porgy
   color: vibrant
-  link: https://sounds.mailta.pe/142/track1.mp3
+  link: https://df.mailta.pe/142/track1.mp3
 track2:
   title: "Tom Scott - Today "
   color: vibrant
-  link: https://sounds.mailta.pe/142/track2.mp3
+  link: https://df.mailta.pe/142/track2.mp3
 track3:
   title: Dusty Springfield - Just A Little loving
   color: vibrant
-  link: https://sounds.mailta.pe/142/track3.mp3
+  link: https://df.mailta.pe/142/track3.mp3
 track4:
   title: Grey Reverend - Everlasting
   color: dreamy
-  link: https://sounds.mailta.pe/142/track4.mp3
+  link: https://df.mailta.pe/142/track4.mp3
 track5:
   title: Mice Parade - Nights Wave
   color: vibrant
-  link: https://sounds.mailta.pe/142/track5.mp3
+  link: https://df.mailta.pe/142/track5.mp3
 track6:
   title: Long Arm - Sleepsafe
   color: dreamy
-  link: https://sounds.mailta.pe/142/track6.mp3
+  link: https://df.mailta.pe/142/track6.mp3
 track7:
   title: Sixto Rodriguez - Inner City Blues
   color: vibrant
-  link: https://sounds.mailta.pe/142/track7.mp3
+  link: https://df.mailta.pe/142/track7.mp3
 release: 142
 ---
 

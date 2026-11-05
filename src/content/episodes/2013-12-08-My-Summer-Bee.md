@@ -14,31 +14,31 @@ pubDate: 2013-12-08
 track1:
   title: Brenton Wood - Gimme Little Sign
   color: vibrant
-  link: https://sounds.mailta.pe/119/track1.mp3
+  link: https://df.mailta.pe/119/track1.mp3
 track2:
   title: Metronomy - Everything Goes My Way
   color: vibrant
-  link: https://sounds.mailta.pe/119/track2.mp3
+  link: https://df.mailta.pe/119/track2.mp3
 track3:
   title: The Child of Love - Fly
   color: bliss
-  link: https://sounds.mailta.pe/119/track3.mp3
+  link: https://df.mailta.pe/119/track3.mp3
 track4:
   title: My Summer Bee - Figurine
   color: vibrant
-  link: https://sounds.mailta.pe/119/track4.mp3
+  link: https://df.mailta.pe/119/track4.mp3
 track5:
   title: JP Balboa - Deep Culture
   color: bliss
-  link: https://sounds.mailta.pe/119/track5.mp3
+  link: https://df.mailta.pe/119/track5.mp3
 track6:
   title: Falcons - Falcon Eye
   color: trippy
-  link: https://sounds.mailta.pe/119/track6.mp3
+  link: https://df.mailta.pe/119/track6.mp3
 track7:
   title: Erol Alkan - A Hold On Love
   color: vibrant
-  link: https://sounds.mailta.pe/119/track7.mp3
+  link: https://df.mailta.pe/119/track7.mp3
 release: 119
 ---
 This morning, My Summer Bee brings their joy and energy ! No excuses to stay in your bed, let this vibrant episode shine and fill your soul with great vibes. Wake up, live with passion and have an amazing sunday!

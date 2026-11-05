@@ -17,31 +17,31 @@ pubDate: 2014-11-09
 track1:
   title: Richard Spaven - Whole Others
   color: bliss
-  link: https://sounds.mailta.pe/159/track1.mp3
+  link: https://df.mailta.pe/159/track1.mp3
 track2:
   title: Fofoulah - Make good
   color: trippy
-  link: https://sounds.mailta.pe/159/track2.mp3
+  link: https://df.mailta.pe/159/track2.mp3
 track3:
   title: Taylor Mc Ferrin - The Antidote
   color: bliss
-  link: https://sounds.mailta.pe/159/track3.mp3
+  link: https://df.mailta.pe/159/track3.mp3
 track4:
   title: Mammal Hands - Mansions of Millions of Years
   color: trippy
-  link: https://sounds.mailta.pe/159/track4.mp3
+  link: https://df.mailta.pe/159/track4.mp3
 track5:
   title: Scissor and Thread - Desert Sound Colony
   color: bliss
-  link: https://sounds.mailta.pe/159/track5.mp3
+  link: https://df.mailta.pe/159/track5.mp3
 track6:
   title: Little Journey - Doobie Mountain
   color: vibrant
-  link: https://sounds.mailta.pe/159/track6.mp3
+  link: https://df.mailta.pe/159/track6.mp3
 track7:
   title: Francis Bebay - Sanza Tristesse
   color: vibrant
-  link: https://sounds.mailta.pe/159/track7.mp3
+  link: https://df.mailta.pe/159/track7.mp3
 release: 159
 ---
 

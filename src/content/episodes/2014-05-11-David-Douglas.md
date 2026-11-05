@@ -16,31 +16,31 @@ pubDate: 2014-05-11
 track1:
   title: Franz Schubert - Piano Trio In E-Flat
   color: bliss
-  link: https://sounds.mailta.pe/140/track1.mp3
+  link: https://df.mailta.pe/140/track1.mp3
 track2:
   title: Midlake - Acts Of Man
   color: dreamy
-  link: https://sounds.mailta.pe/140/track2.mp3
+  link: https://df.mailta.pe/140/track2.mp3
 track3:
   title: Air - Le Voyage de Pénélope
   color: dreamy
-  link: https://sounds.mailta.pe/140/track3.mp3
+  link: https://df.mailta.pe/140/track3.mp3
 track4:
   title: David Douglas - California Poppy
   color: bliss
-  link: https://sounds.mailta.pe/140/track4.mp3
+  link: https://df.mailta.pe/140/track4.mp3
 track5:
   title: Movement - Ivory
   color: bliss
-  link: https://sounds.mailta.pe/140/track5.mp3
+  link: https://df.mailta.pe/140/track5.mp3
 track6:
   title: Mister Gavin - Kind Of Love
   color: vibrant
-  link: https://sounds.mailta.pe/140/track6.mp3
+  link: https://df.mailta.pe/140/track6.mp3
 track7:
   title: Turks & Caicos - Nice 'n' Slow
   color: vibrant
-  link: https://sounds.mailta.pe/140/track7.mp3
+  link: https://df.mailta.pe/140/track7.mp3
 release: 140
 ---
 

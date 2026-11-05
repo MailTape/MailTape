@@ -28,31 +28,31 @@ pubDate: 2024-01-07
 track1:
   title: The Beatles - Here Comes The Sun
   color: dreamy
-  link: https://sounds.mailta.pe/542/track1.mp3
+  link: https://df.mailta.pe/542/track1.mp3
 track2:
   title: Robson Jorge & Lincoln Olivetti - Suspira
   color: bliss
-  link: https://sounds.mailta.pe/542/track2.mp3
+  link: https://df.mailta.pe/542/track2.mp3
 track3:
   title: Alaaska - Bangkok
   color: vibrant
-  link: https://sounds.mailta.pe/542/track3.mp3
+  link: https://df.mailta.pe/542/track3.mp3
 track4:
   title: Diogo Strausz - Flexível
   color: trippy
-  link: https://sounds.mailta.pe/542/track4.mp3
+  link: https://df.mailta.pe/542/track4.mp3
 track5:
   title: Nanda Rossi - Livre Pra Voar (Millos Kaiser Edit)
   color: bliss
-  link: https://sounds.mailta.pe/542/track5.mp3
+  link: https://df.mailta.pe/542/track5.mp3
 track6:
   title: Charif Megarbane - Ya Salam
   color: dreamy
-  link: https://sounds.mailta.pe/542/track6.mp3
+  link: https://df.mailta.pe/542/track6.mp3
 track7:
   title: Frantz Tuernal - Koultans
   color: vibrant
-  link: https://sounds.mailta.pe/542/track7.mp3
+  link: https://df.mailta.pe/542/track7.mp3
 release: 542
 ---
 

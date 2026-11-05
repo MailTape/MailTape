@@ -17,31 +17,31 @@ pubDate: 2017-09-24
 track1:
   title: Run DMT - Romantic
   color: trippy
-  link: https://sounds.mailta.pe/279/track1.mp3
+  link: https://df.mailta.pe/279/track1.mp3
 track2:
   title: Aldous RH - U and ME
   color: dreamy
-  link: https://sounds.mailta.pe/279/track2.mp3
+  link: https://df.mailta.pe/279/track2.mp3
 track3:
   title: Made in M - Goodday
   color: dreamy
-  link: https://sounds.mailta.pe/279/track3.mp3
+  link: https://df.mailta.pe/279/track3.mp3
 track4:
   title: Yellow Days - Hurt In Love
   color: bliss
-  link: https://sounds.mailta.pe/279/track4.mp3
+  link: https://df.mailta.pe/279/track4.mp3
 track5:
   title: Oliverpalfreyman - Females
   color: trippy
-  link: https://sounds.mailta.pe/279/track5.mp3
+  link: https://df.mailta.pe/279/track5.mp3
 track6:
   title: Mattiel - Count Your Blessings
   color: vibrant
-  link: https://sounds.mailta.pe/279/track6.mp3
+  link: https://df.mailta.pe/279/track6.mp3
 track7:
   title: Ambar Cruz - Psychedelic Candy
   color: dreamy
-  link: https://sounds.mailta.pe/279/track7.mp3
+  link: https://df.mailta.pe/279/track7.mp3
 release: 279
 ---
 This morning, we keep it smooth and easy with this delicate indie selection made with the talented 17 years old [Yellow Days](https://soundcloud.com/yellow-days), aka George Van Den Broek. Autumn just started 3 days ago, let’s stay in bed a little longer and plan our next vacation... 

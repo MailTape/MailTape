@@ -17,31 +17,31 @@ pubDate: 2023-02-19
 track1:
   title: Js Donny - Purple 1
   color: dreamy
-  link: https://sounds.mailta.pe/518/track1.mp3
+  link: https://df.mailta.pe/518/track1.mp3
 track2:
   title: A.G. Cook - Animals
   color: vibrant
-  link: https://sounds.mailta.pe/518/track2.mp3
+  link: https://df.mailta.pe/518/track2.mp3
 track3:
   title: Kraftwerk - The Hall of Mirrors
   color: trippy
-  link: https://sounds.mailta.pe/518/track3.mp3
+  link: https://df.mailta.pe/518/track3.mp3
 track4:
   title: Sierra Manhattan - Smartphones
   color: bliss
-  link: https://sounds.mailta.pe/518/track4.mp3
+  link: https://df.mailta.pe/518/track4.mp3
 track5:
   title: Miryam Solomon - Romance
   color: vibrant
-  link: https://sounds.mailta.pe/518/track5.mp3
+  link: https://df.mailta.pe/518/track5.mp3
 track6:
   title: Cleo Sol - Spirit
   color: dreamy
-  link: https://sounds.mailta.pe/518/track6.mp3
+  link: https://df.mailta.pe/518/track6.mp3
 track7:
   title: Nilufer Yanya - Midnight Sun
   color: bliss
-  link: https://sounds.mailta.pe/518/track7.mp3
+  link: https://df.mailta.pe/518/track7.mp3
 release: 518
 ---
  This morning, you need to rest, to let yourself go to other sensations, or to rediscover simple pleasures such as enjoying your loved ones, the rays of the sun, bird watching or even feeling the wind in your neck. The band [Sierra Manhattan](https://soundcloud.com/sierra-manhattan) accompanies us in this playlist of quiet and let live.

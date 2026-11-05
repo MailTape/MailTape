@@ -20,31 +20,31 @@ pubDate: 2023-09-10
 track1:
   title: Marvin Gaye - Mercy Mercy Me
   color: vibrant
-  link: https://sounds.mailta.pe/534/track1.mp3
+  link: https://df.mailta.pe/534/track1.mp3
 track2:
   title: Ndédi Dibango - It's All Right
   color: vibrant
-  link: https://sounds.mailta.pe/534/track2.mp3
+  link: https://df.mailta.pe/534/track2.mp3
 track3:
   title: Kassav - Doméyis
   color: vibrant
-  link: https://sounds.mailta.pe/534/track3.mp3
+  link: https://df.mailta.pe/534/track3.mp3
 track4:
   title: Blick Bassy - LoBa
   color: bliss
-  link: https://sounds.mailta.pe/534/track4.mp3
+  link: https://df.mailta.pe/534/track4.mp3
 track5:
   title: FBC & VHOOR - Quando O DJ Toca
   color: vibrant
-  link: https://sounds.mailta.pe/534/track5.mp3
+  link: https://df.mailta.pe/534/track5.mp3
 track6:
   title: Nyami Nyami - Oceanic Sands
   color: trippy
-  link: https://sounds.mailta.pe/534/track6.mp3
+  link: https://df.mailta.pe/534/track6.mp3
 track7:
   title: Beverly Glenn-Copeland - People of the Loon
   color: bliss
-  link: https://sounds.mailta.pe/534/track7.mp3
+  link: https://df.mailta.pe/534/track7.mp3
 release: 534
 ---
 

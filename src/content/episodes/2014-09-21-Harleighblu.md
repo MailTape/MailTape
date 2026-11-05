@@ -13,31 +13,31 @@ pubDate: 2014-09-21
 track1:
   title: Bilal - When will you call
   color: vibrant
-  link: https://sounds.mailta.pe/152/track1.mp3
+  link: https://df.mailta.pe/152/track1.mp3
 track2:
   title: Little Dragon - Sunshine
   color: bliss
-  link: https://sounds.mailta.pe/152/track2.mp3
+  link: https://df.mailta.pe/152/track2.mp3
 track3:
   title: Jill Scott - Golden
   color: vibrant
-  link: https://sounds.mailta.pe/152/track3.mp3
+  link: https://df.mailta.pe/152/track3.mp3
 track4:
   title: Harleighblu - Weekend
   color: vibrant
-  link: https://sounds.mailta.pe/152/track4.mp3
+  link: https://df.mailta.pe/152/track4.mp3
 track5:
   title: Goldbloc - Dreams of mine
   color: bliss
-  link: https://sounds.mailta.pe/152/track5.mp3
+  link: https://df.mailta.pe/152/track5.mp3
 track6:
   title: Rustie - Attak feat Danny Brown
   color: trippy
-  link: https://sounds.mailta.pe/152/track6.mp3
+  link: https://df.mailta.pe/152/track6.mp3
 track7:
   title: Sango - Ago (Rvdical Remix)
   color: bliss
-  link: https://sounds.mailta.pe/152/track7.mp3
+  link: https://df.mailta.pe/152/track7.mp3
 release: 152
 ---
 

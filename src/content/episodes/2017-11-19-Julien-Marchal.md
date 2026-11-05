@@ -19,31 +19,31 @@ pubDate: 2017-11-19
 track1:
   title: Novo Amor & Ed Tullett - Faux
   color: vibrant
-  link: https://sounds.mailta.pe/287/track1.mp3
+  link: https://df.mailta.pe/287/track1.mp3
 track2:
   title: " Christian Loeffler - Mare (Robot Koch Remix) "
   color: dreamy
-  link: https://sounds.mailta.pe/287/track2.mp3
+  link: https://df.mailta.pe/287/track2.mp3
 track3:
   title: Jonwayne - These Words Are Everything
   color: trippy
-  link: https://sounds.mailta.pe/287/track3.mp3
+  link: https://df.mailta.pe/287/track3.mp3
 track4:
   title: "Julien Marchal - INSIGHT XXI "
   color: bliss
-  link: https://sounds.mailta.pe/287/track4.mp3
+  link: https://df.mailta.pe/287/track4.mp3
 track5:
   title: Kiefer - Wdup v5
   color: trippy
-  link: https://sounds.mailta.pe/287/track5.mp3
+  link: https://df.mailta.pe/287/track5.mp3
 track6:
   title: Synkro - Hand in Hand
   color: trippy
-  link: https://sounds.mailta.pe/287/track7.mp3
+  link: https://df.mailta.pe/287/track7.mp3
 track7:
   title: " Porya Hatami - Land Remixed - Snow (Pleq Remix) "
   color: dreamy
-  link: https://sounds.mailta.pe/287/track7.mp3
+  link: https://df.mailta.pe/287/track7.mp3
 release: 287
 ---
 This morning, [Julien Marchal](https://julienmarchal.bandcamp.com/) has something unique to share. A contemporary pianist and composer from Bordeaux, France. His contemplative and minimalist pieces seem to be an invocation of the classical art. Melancholic and yet uplifting, here’s an artist whose harmony will lend you the peace of mind you so deserve as you touch upon on the world of modern classical. 

@@ -20,31 +20,31 @@ pubDate: 2023-09-24
 track1:
   title: Masma Dream World - Knight Wolf
   color: trippy
-  link: https://sounds.mailta.pe/535/track1.mp3
+  link: https://df.mailta.pe/535/track1.mp3
 track2:
   title: Esperanza Spladind - Formwela 1
   color: dreamy
-  link: https://sounds.mailta.pe/535/track2.mp3
+  link: https://df.mailta.pe/535/track2.mp3
 track3:
   title: Janelle Monae - Babopbyeya
   color: bliss
-  link: https://sounds.mailta.pe/535/track3.mp3
+  link: https://df.mailta.pe/535/track3.mp3
 track4:
   title: Cindy Pooch - Le Sang
   color: bliss
-  link: https://sounds.mailta.pe/535/track4.mp3
+  link: https://df.mailta.pe/535/track4.mp3
 track5:
   title: Matthew Halsall - Calder Shapes
   color: vibrant
-  link: https://sounds.mailta.pe/535/track5.mp3
+  link: https://df.mailta.pe/535/track5.mp3
 track6:
   title: Anohni - It Must Change
   color: dreamy
-  link: https://sounds.mailta.pe/535/track6.mp3
+  link: https://df.mailta.pe/535/track6.mp3
 track7:
   title: Natural Wonder Beauty Concept - Driving
   color: trippy
-  link: https://sounds.mailta.pe/535/track7.mp3
+  link: https://df.mailta.pe/535/track7.mp3
 release: 535
 ---
 

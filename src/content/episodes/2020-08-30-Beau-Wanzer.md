@@ -16,31 +16,31 @@ pubDate: 2020-08-30
 track1:
   title: Brannten Schnüre – Licht
   color: dreamy
-  link: https://sounds.mailta.pe/414/track1.mp3
+  link: https://df.mailta.pe/414/track1.mp3
 track2:
   title: Die Todliche Doris – Die Uber Doris (ft. David Steeves—English Version)
   color: trippy
-  link: https://sounds.mailta.pe/414/track2.mp3
+  link: https://df.mailta.pe/414/track2.mp3
 track3:
   title: Thorax-Wach – Ruhe Im Karton
   color: bliss
-  link: https://sounds.mailta.pe/414/track3.mp3
+  link: https://df.mailta.pe/414/track3.mp3
 track4:
   title: Beau Wanzer – Snake and Shake
   color: trippy
-  link: https://sounds.mailta.pe/414/track4.mp3
+  link: https://df.mailta.pe/414/track4.mp3
 track5:
   title: Klein – Claim It
   color: trippy
-  link: https://sounds.mailta.pe/414/track5.mp3
+  link: https://df.mailta.pe/414/track5.mp3
 track6:
   title: ELLLL – HOT WHEELS
   color: dreamy
-  link: https://sounds.mailta.pe/414/track6.mp3
+  link: https://df.mailta.pe/414/track6.mp3
 track7:
   title: Xao Seffcheque & Der Rest – Ja-Nein-Vielleicht
   color: bliss
-  link: https://sounds.mailta.pe/414/track7.mp3
+  link: https://df.mailta.pe/414/track7.mp3
 release: 414
 ---
 Welcome back to a new season of MailTape! This morning we welcome Chicago-based woozy noodler [Beau Wanzer](https://beauwanzer.bandcamp.com/) to select three contorted Sunday morning tunes with us. 

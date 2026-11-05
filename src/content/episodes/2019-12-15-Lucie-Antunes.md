@@ -19,31 +19,31 @@ pubDate: 2019-12-15
 track1:
   title: György Ligeti - Lux Aeterna (Wergo 1988)
   color: trippy
-  link: https://sounds.mailta.pe/384/track1.mp3
+  link: https://df.mailta.pe/384/track1.mp3
 track2:
   title: Ryan Power - I Don't Want To Die
   color: dreamy
-  link: https://sounds.mailta.pe/384/track2.mp3
+  link: https://df.mailta.pe/384/track2.mp3
 track3:
   title: Sufjan Steven - The Tallest Man, The Broadest Shoulders
   color: vibrant
-  link: https://sounds.mailta.pe/384/track3.mp3
+  link: https://df.mailta.pe/384/track3.mp3
 track4:
   title: Lucie Antunes - Blue Child
   color: bliss
-  link: https://sounds.mailta.pe/384/track4.mp3
+  link: https://df.mailta.pe/384/track4.mp3
 track5:
   title: Sentimental Rave - Never Asking Favours
   color: rough
-  link: https://sounds.mailta.pe/384/track5.mp3
+  link: https://df.mailta.pe/384/track5.mp3
 track6:
   title: Sunni Colón - Strands of the Future
   color: vibrant
-  link: https://sounds.mailta.pe/384/track6.mp3
+  link: https://df.mailta.pe/384/track6.mp3
 track7:
   title: Sandra Nkaké - River
   color: bliss
-  link: https://sounds.mailta.pe/384/track7.mp3
+  link: https://df.mailta.pe/384/track7.mp3
 release: 384
 ---
 Certainty is ephemeral. Noise. Make noise. In peace or with force. Convictions and needs, solutions and seeds? What must we shed, what must we feed?

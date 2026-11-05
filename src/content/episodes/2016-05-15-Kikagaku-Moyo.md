@@ -15,31 +15,31 @@ pubDate: 2016-05-15
 track1:
   title: Matthewdavid's Mindflight - Orange Ganesh
   color: dreamy
-  link: https://sounds.mailta.pe/217/track1.mp3
+  link: https://df.mailta.pe/217/track1.mp3
 track2:
   title: Ramayana Soul - Jaya Raga Jiwa MiraNgga Bhineka Tunggal Ika
   color: dreamy
-  link: https://sounds.mailta.pe/217/track2.mp3
+  link: https://df.mailta.pe/217/track2.mp3
 track3:
   title: Chris Forsyth & The Solar Motel Band - The Ballad Of Freer Hollow
   color: bliss
-  link: https://sounds.mailta.pe/217/track3.mp3
+  link: https://df.mailta.pe/217/track3.mp3
 track4:
   title: Kikagaku Moyo - Kogarashi
   color: dreamy
-  link: https://sounds.mailta.pe/217/track4.mp3
+  link: https://df.mailta.pe/217/track4.mp3
 track5:
   title: Fil Bo Riva - Like Eye Did
   color: bliss
-  link: https://sounds.mailta.pe/217/track5.mp3
+  link: https://df.mailta.pe/217/track5.mp3
 track6:
   title: Temples - Move With The Seasons
   color: vibrant
-  link: https://sounds.mailta.pe/217/track6.mp3
+  link: https://df.mailta.pe/217/track6.mp3
 track7:
   title: Reptile Youth - Keep On Moving
   color: rough
-  link: https://sounds.mailta.pe/217/track7.mp3
+  link: https://df.mailta.pe/217/track7.mp3
 release: 217
 ---
 This morning, enjoy a walk through the mind with a psyche selection by our guest of the week, [Kikagaku Moyo](https://www.facebook.com/kikagakumoyo/?fref=ts). Let the songs overwhelm your soul, once more, you will be amazed by the power of music to stop time and submerge your thoughts.

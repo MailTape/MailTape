@@ -15,31 +15,31 @@ musiColor: /img/musicolor598.png
 track1:
   title: Julio Bashmore, Sam Dew - Holding On
   color: vibrant
-  link: https://sounds.mailta.pe/598/track1.mp3
+  link: https://df.mailta.pe/598/track1.mp3
 track2:
   title: Stromae - papaoutai
   color: dreamy
-  link: https://sounds.mailta.pe/598/track2.mp3
+  link: https://df.mailta.pe/598/track2.mp3
 track3:
   title: Fred Again, Baxter Dury - These Are My Friends
   color: dreamy
-  link: https://sounds.mailta.pe/598/track3.mp3
+  link: https://df.mailta.pe/598/track3.mp3
 track4:
   title: "Joshua Idehen - Could Be Forever "
   color: vibrant
-  link: https://sounds.mailta.pe/598/track4.mp3
+  link: https://df.mailta.pe/598/track4.mp3
 track5:
   title: Eola - No Getting
   color: vibrant
-  link: https://sounds.mailta.pe/598/track5.mp3
+  link: https://df.mailta.pe/598/track5.mp3
 track6:
   title: Joshua Idehen - It Always Was
   color: dreamy
-  link: https://sounds.mailta.pe/598/track6.mp3
+  link: https://df.mailta.pe/598/track6.mp3
 track7:
   title: Nightmares on Wax, Yasiin Bey - Bang Bien
   color: trippy
-  link: https://sounds.mailta.pe/598/track7.mp3
+  link: https://df.mailta.pe/598/track7.mp3
 release: 598
 ---
 We are full of joy to welcome musician, spoken-word artist, and dear guest [Joshua Idehen](https://joshuaidehen.bandcamp.com/) to MailTape this morning ! Based in Stockholm, he gifts us today with a Sunday selection crafted with care -- just the right mix to start the day with some dancing ;)  

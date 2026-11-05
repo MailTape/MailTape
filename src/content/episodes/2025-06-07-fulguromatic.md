@@ -18,31 +18,31 @@ musiColor: /img/musicolor583.png
 track1:
   title: King Gizzard And The Lizard Wizard - The Fourth Colour
   color: trippy
-  link: https://sounds.mailta.pe/583/track1.mp3
+  link: https://df.mailta.pe/583/track1.mp3
 track2:
   title: Hiatus Kaiyote - Breathing Underwater
   color: bliss
-  link: https://sounds.mailta.pe/583/track2.mp3
+  link: https://df.mailta.pe/583/track2.mp3
 track3:
   title: Dick Annegarn - La Transformation
   color: bliss
-  link: https://sounds.mailta.pe/583/track3.mp3
+  link: https://df.mailta.pe/583/track3.mp3
 track4:
   title: "Fulguromatic - The Sigh of a Whittled Grove "
   color: trippy
-  link: https://sounds.mailta.pe/583/track4.mp3
+  link: https://df.mailta.pe/583/track4.mp3
 track5:
   title: 'Celine Dessberg - Сэлэнгэ "Selenge" '
   color: dreamy
-  link: https://sounds.mailta.pe/583/track5.mp3
+  link: https://df.mailta.pe/583/track5.mp3
 track6:
   title: Rank-O - For Every Blow
   color: vibrant
-  link: https://sounds.mailta.pe/583/track6.mp3
+  link: https://df.mailta.pe/583/track6.mp3
 track7:
   title: Mad Curry -Music, The Reason Of Our Happiness
   color: trippy
-  link: https://sounds.mailta.pe/583/track7.mp3
+  link: https://df.mailta.pe/583/track7.mp3
 release: 583
 ---
 As you know, Mail Tape loves to highlight unusual artists, those who are not afraid to flirt with extravagance to propel music towards joyful and new horizons. This is the case for our guests today, a singular duo who seem to make music like a crazy chemistry professor would have fun mixing various dangerous substances, even if it means blowing everything up. And BOOM! There it is: Fulguromatic!

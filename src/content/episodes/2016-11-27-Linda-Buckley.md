@@ -20,31 +20,31 @@ pubDate: 2016-11-27
 track1:
   title: Grouper - Heavy Water / I'd Rather Be Sleeping
   color: bliss
-  link: https://sounds.mailta.pe/236/track1.mp3
+  link: https://df.mailta.pe/236/track1.mp3
 track2:
   title: MMOTHS - Deu
   color: trippy
-  link: https://sounds.mailta.pe/236/track2.mp3
+  link: https://df.mailta.pe/236/track2.mp3
 track3:
   title: Tropic of Cancer - Stop Suffering
   color: dreamy
-  link: https://sounds.mailta.pe/236/track3.mp3
+  link: https://df.mailta.pe/236/track3.mp3
 track4:
   title: Linda Buckley - Immersia – I
   color: bliss
-  link: https://sounds.mailta.pe/236/track4.mp3
+  link: https://df.mailta.pe/236/track4.mp3
 track5:
   title: Jason Sharp - A Boat Upon Its Blood (Pt 1)
   color: trippy
-  link: https://sounds.mailta.pe/236/track5.mp3
+  link: https://df.mailta.pe/236/track5.mp3
 track6:
   title: Rachel Grimes – The Air In Time
   color: dreamy
-  link: https://sounds.mailta.pe/236/track6.mp3
+  link: https://df.mailta.pe/236/track6.mp3
 track7:
   title: Allison Cameron - 3rds, 4ths & 5ths
   color: bliss
-  link: https://sounds.mailta.pe/236/track7.mp3
+  link: https://df.mailta.pe/236/track7.mp3
 release: 236
 ---
 

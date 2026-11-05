@@ -17,31 +17,31 @@ pubDate: 2014-10-19
 track1:
   title: Andrew Bird - Near Death Experience Experience
   color: dreamy
-  link: https://sounds.mailta.pe/156/track1.mp3
+  link: https://df.mailta.pe/156/track1.mp3
 track2:
   title: Philip Selway - By Some Miracle
   color: dreamy
-  link: https://sounds.mailta.pe/156/track2.mp3
+  link: https://df.mailta.pe/156/track2.mp3
 track3:
   title: Clark - Unfurla
   color: rough
-  link: https://sounds.mailta.pe/156/track3.mp3
+  link: https://df.mailta.pe/156/track3.mp3
 track4:
   title: Arms and Sleepers - Tiger Tempo
   color: dreamy
-  link: https://sounds.mailta.pe/156/track4.mp3
+  link: https://df.mailta.pe/156/track4.mp3
 track5:
   title: Paul White - Where You Gonna Go (Andres Remix)
   color: vibrant
-  link: https://sounds.mailta.pe/156/track5.mp3
+  link: https://df.mailta.pe/156/track5.mp3
 track6:
   title: Sam Kogon - Wake Up Your Kids
   color: vibrant
-  link: https://sounds.mailta.pe/156/track6.mp3
+  link: https://df.mailta.pe/156/track6.mp3
 track7:
   title: Oldtoy - Fountains
   color: bliss
-  link: https://sounds.mailta.pe/156/track7.mp3
+  link: https://df.mailta.pe/156/track7.mp3
 release: 156
 ---
 

@@ -11,31 +11,31 @@ writer: Sarah
 track1:
   title: François de Roubaix - Poursuite Sur Les Dunes d'Ostende
   color: trippy
-  link: https://sounds.mailta.pe/469/track1.mp3
+  link: https://df.mailta.pe/469/track1.mp3
 track2:
   title: Stringtronics - Dawn Mists
   color: dreamy
-  link: https://sounds.mailta.pe/469/track2.mp3
+  link: https://df.mailta.pe/469/track2.mp3
 track3:
   title: Whitefield Brothers - Joyful Exaltation
   color: trippy
-  link: https://sounds.mailta.pe/469/track3.mp3
+  link: https://df.mailta.pe/469/track3.mp3
 track4:
   title: Janko Nilovic and The Soul Surfers - Maze of Sounds Alternate Take
   color: vibrant
-  link: https://sounds.mailta.pe/469/track4.mp3
+  link: https://df.mailta.pe/469/track4.mp3
 track5:
   title: The Soul Surfers, Shawn Lee - Time Is A Gun
   color: trippy
-  link: https://sounds.mailta.pe/469/track5.mp3
+  link: https://df.mailta.pe/469/track5.mp3
 track6:
   title: The Natural Yogurt Band - 57 Lashes of the Mallet
   color: bliss
-  link: https://sounds.mailta.pe/469/track6.mp3
+  link: https://df.mailta.pe/469/track6.mp3
 track7:
   title: Africa Express - Morals
   color: trippy
-  link: https://sounds.mailta.pe/469/track7.mp3
+  link: https://df.mailta.pe/469/track7.mp3
 description: This morning, we are delighted to welcome [The Soul Surfers](https://soulsurfersubiq.bandcamp.com/) to MailTape for a collection of experimental and exploratory tracks. Led by drummer [Igor Zhukovsky]...
 image: /img/fbpic469.jpg
 musiColor: /img/musicolor469.png

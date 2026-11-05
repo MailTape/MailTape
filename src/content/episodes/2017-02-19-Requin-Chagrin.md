@@ -17,31 +17,31 @@ pubDate: 2017-02-19
 track1:
   title: Barbagallo - Nouveau Sidobre
   color: bliss
-  link: https://sounds.mailta.pe/248/track1.mp3
+  link: https://df.mailta.pe/248/track1.mp3
 track2:
   title: Kommode - Patient
   color: dreamy
-  link: https://sounds.mailta.pe/248/track2.mp3
+  link: https://df.mailta.pe/248/track2.mp3
 track3:
   title: MJ Guider - Lit Negative
   color: trippy
-  link: https://sounds.mailta.pe/248/track3.mp3
+  link: https://df.mailta.pe/248/track3.mp3
 track4:
   title: Requin Chagrin - Le Chagrin
   color: vibrant
-  link: https://sounds.mailta.pe/248/track4.mp3
+  link: https://df.mailta.pe/248/track4.mp3
 track5:
   title: Vril - Torus XXXII
   color: trippy
-  link: https://sounds.mailta.pe/248/track5.mp3
+  link: https://df.mailta.pe/248/track5.mp3
 track6:
   title: Gorgeous Bully - Kidding (ft. Whorish Boorish)
   color: dreamy
-  link: https://sounds.mailta.pe/248/track6.mp3
+  link: https://df.mailta.pe/248/track6.mp3
 track7:
   title: Vundabar - Darla
   color: vibrant
-  link: https://sounds.mailta.pe/248/track7.mp3
+  link: https://df.mailta.pe/248/track7.mp3
 release: 248
 ---
 This morning, juggle the calm and energetic moments thrown your way by [Requin Chagrin](https://www.facebook.com/chagrin.requin/ "Facebook")’s eclectic selection. Requin Chagrin, a French band born from singer Marion’s mind, mixes surf-ish reverb guitars with a melancholic vibe, creating a warm and languid sound.

@@ -17,31 +17,31 @@ pubDate: 2021-01-24
 track1:
   title: Chaz Jenkel - I can get over it (if you can get over here)
   color: vibrant
-  link: https://sounds.mailta.pe/435/track1.mp3
+  link: https://df.mailta.pe/435/track1.mp3
 track2:
   title: Pilar Zeta - Clouds to Remember
   color: dreamy
-  link: https://sounds.mailta.pe/435/track2.mp3
+  link: https://df.mailta.pe/435/track2.mp3
 track3:
   title: Syzygys - Fauna Grotesque
   color: trippy
-  link: https://sounds.mailta.pe/435/track3.mp3
+  link: https://df.mailta.pe/435/track3.mp3
 track4:
   title: World Brain - Hypertext
   color: dreamy
-  link: https://sounds.mailta.pe/435/track4.mp3
+  link: https://df.mailta.pe/435/track4.mp3
 track5:
   title: Yves Tumor - Strawberry Privilege
   color: bliss
-  link: https://sounds.mailta.pe/435/track5.mp3
+  link: https://df.mailta.pe/435/track5.mp3
 track6:
   title: Future Islands - Born in a War
   color: bliss
-  link: https://sounds.mailta.pe/435/track6.mp3
+  link: https://df.mailta.pe/435/track6.mp3
 track7:
   title: Wardown - Lorem Ipsum
   color: dreamy
-  link: https://sounds.mailta.pe/435/track7.mp3
+  link: https://df.mailta.pe/435/track7.mp3
 release: 435
 ---
 This morning, some delicious morsels of sonic data have found their way to us, beamed directly from the mind of World Brain (or Lucas Ufo IRL). These nifty signals hold secrets to be unravelled, spilling all around us and across the sky of an animated reality in pastel-perfect colours.<br><br>

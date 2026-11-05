@@ -17,31 +17,31 @@ pubDate: 2016-07-10
 track1:
   title: Day Wave - Drag
   color: bliss
-  link: https://sounds.mailta.pe/224/track1.mp3
+  link: https://df.mailta.pe/224/track1.mp3
 track2:
   title: Mura Masa - ...Girl
   color: trippy
-  link: https://sounds.mailta.pe/224/track2.mp3
+  link: https://df.mailta.pe/224/track2.mp3
 track3:
   title: Flume - Take A Chance (ft. Little Dragon)
   color: vibrant
-  link: https://sounds.mailta.pe/224/track3.mp3
+  link: https://df.mailta.pe/224/track3.mp3
 track4:
   title: Petit Biscuit - Sunset Lover
   color: dreamy
-  link: https://sounds.mailta.pe/224/track4.mp3
+  link: https://df.mailta.pe/224/track4.mp3
 track5:
   title: Opal - France
   color: trippy
-  link: https://sounds.mailta.pe/224/track5.mp3
+  link: https://df.mailta.pe/224/track5.mp3
 track6:
   title: VOLO - Shine
   color: vibrant
-  link: https://sounds.mailta.pe/224/track6.mp3
+  link: https://df.mailta.pe/224/track6.mp3
 track7:
   title: Polo & Pan - Nanä
   color: trippy
-  link: https://sounds.mailta.pe/224/track7.mp3
+  link: https://df.mailta.pe/224/track7.mp3
 release: 224
 ---
 This morning, we bring you the soundtrack to summer's daydreams. [Petit Biscuit](https://www.facebook.com/petitbiscuitsound/ "Petit Biscuit's Facebook") is reminiscent of that glimpse of sunlight projected onto your favorite building at the end of the day. Something special, a contemplative melody powered by the genuine desire to create and share.

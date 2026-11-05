@@ -18,31 +18,31 @@ pubDate: 2023-03-05
 track1:
   title: Caroline Polachek - Welcome to my island
   color: vibrant
-  link: https://sounds.mailta.pe/520/track1.mp3
+  link: https://df.mailta.pe/520/track1.mp3
 track2:
   title: Egregore - Birth of a Cyber Goddess
   color: rough
-  link: https://sounds.mailta.pe/520/track2.mp3
+  link: https://df.mailta.pe/520/track2.mp3
 track3:
   title: Malibu - Lost at Sea
   color: dreamy
-  link: https://sounds.mailta.pe/520/track3.mp3
+  link: https://df.mailta.pe/520/track3.mp3
 track4:
   title: Alexi Shell - Eruption
   color: rough
-  link: https://sounds.mailta.pe/520/track4.mp3
+  link: https://df.mailta.pe/520/track4.mp3
 track5:
   title: Bambii - Ride With Me
   color: vibrant
-  link: https://sounds.mailta.pe/520/track5.mp3
+  link: https://df.mailta.pe/520/track5.mp3
 track6:
   title: Kelela - Bruises
   color: vibrant
-  link: https://sounds.mailta.pe/520/track6.mp3
+  link: https://df.mailta.pe/520/track6.mp3
 track7:
   title: DJ Python - I'm Tired
   color: trippy
-  link: https://sounds.mailta.pe/520/track7.mp3
+  link: https://df.mailta.pe/520/track7.mp3
 release: 520
 ---
 This morning, we're very excited to have [Alexi Shell](https://alexishell.bandcamp.com/album/sirens) with us. Her selection full of positive vibes and raw energy is simply perfect to start the new month. Spring is coming, let's dance to welcome the 23rd spring of the millennium! And for our friends who live on the other side of the planet, this will make a great one to keep the summer going on solid. With much love.

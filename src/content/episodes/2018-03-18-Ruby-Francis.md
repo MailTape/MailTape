@@ -17,31 +17,31 @@ pubDate: 2018-03-18
 track1:
   title: Solo Smith —  Still In Love
   color: dreamy
-  link: https://sounds.mailta.pe/304/track1.mp3
+  link: https://df.mailta.pe/304/track1.mp3
 track2:
   title: Lion Babe — Honey Dew
   color: vibrant
-  link: https://sounds.mailta.pe/304/track2.mp3
+  link: https://df.mailta.pe/304/track2.mp3
 track3:
   title: "Troy Hudson — Head Over Heels "
   color: bliss
-  link: https://sounds.mailta.pe/304/track3.mp3
+  link: https://df.mailta.pe/304/track3.mp3
 track4:
   title: Ruby Francis — Fall Asleep
   color: bliss
-  link: https://sounds.mailta.pe/304/track4.mp3
+  link: https://df.mailta.pe/304/track4.mp3
 track5:
   title: Still Woozy — Goodie Bag
   color: vibrant
-  link: https://sounds.mailta.pe/304/track5.mp3
+  link: https://df.mailta.pe/304/track5.mp3
 track6:
   title: WAYI — The Way I Am
   color: dreamy
-  link: https://sounds.mailta.pe/304/track6.mp3
+  link: https://df.mailta.pe/304/track6.mp3
 track7:
   title: King Princess — Sunburn
   color: vibrant
-  link: https://sounds.mailta.pe/304/track7.mp3
+  link: https://df.mailta.pe/304/track7.mp3
 release: 304
 ---
 This morning, we welcome London-based singer/songwriter, [Ruby Francis](https://www.instagram.com/ruby_francis/ "Ruby's Instagram feed"), to collaborate with us on MailTape. Merging R&B, 80s & 90s soundscapes and incorporating traces of soul music, we hope you’re just as taken with her infectious sound as we are!

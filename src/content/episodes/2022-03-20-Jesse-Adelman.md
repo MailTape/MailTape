@@ -18,31 +18,31 @@ pubDate: 2022-03-20
 track1:
   title: David Nance - Save Me Some Tears
   color: bliss
-  link: https://sounds.mailta.pe/486/track1.mp3
+  link: https://df.mailta.pe/486/track1.mp3
 track2:
   title: Jim O'Rourke - All Downhill From Here
   color: vibrant
-  link: https://sounds.mailta.pe/486/track2.mp3
+  link: https://df.mailta.pe/486/track2.mp3
 track3:
   title: Sam Prekop - Chicago People
   color: dreamy
-  link: https://sounds.mailta.pe/486/track3.mp3
+  link: https://df.mailta.pe/486/track3.mp3
 track4:
   title: Jesse Adelman - Even If
   color: vibrant
-  link: https://sounds.mailta.pe/486/track4.mp3
+  link: https://df.mailta.pe/486/track4.mp3
 track5:
   title: Louis Inglis - Bad Dreams
   color: dreamy
-  link: https://sounds.mailta.pe/486/track5.mp3
+  link: https://df.mailta.pe/486/track5.mp3
 track6:
   title: Jesse Adelman - Me and Josine
   color: bliss
-  link: https://sounds.mailta.pe/486/track6.mp3
+  link: https://df.mailta.pe/486/track6.mp3
 track7:
   title: Johanna Samuels, Ohtis - Via Chicago
   color: vibrant
-  link: https://sounds.mailta.pe/486/track7.mp3
+  link: https://df.mailta.pe/486/track7.mp3
 release: 486
 ---
 Today, we welcome [Jesse Adelman](https://jesseadelman.bandcamp.com/) for a collection of easy moving tracks to start your Sunday. Multi-instrumentalist songwriter based in the Bronx, Jesse released his solo debut album, [Strangers](https://jesseadelman.bandcamp.com/album/strangers), in December of last year. Influenced by classic 70's rock, folk, and alt-Western music, this album is a world of sound to listen through, a pleasure to the end.

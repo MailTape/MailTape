@@ -23,31 +23,31 @@ pubDate: 2023-11-19
 track1:
   title: Slauson Malone 1 - Voyager
   color: bliss
-  link: https://sounds.mailta.pe/540/track1.mp3
+  link: https://df.mailta.pe/540/track1.mp3
 track2:
   title: Earl Sweatshirt & The Alchemist - Mac Deuce
   color: vibrant
-  link: https://sounds.mailta.pe/540/track2.mp3
+  link: https://df.mailta.pe/540/track2.mp3
 track3:
   title: Everything But The Girl - Flipside
   color: dreamy
-  link: https://sounds.mailta.pe/540/track3.mp3
+  link: https://df.mailta.pe/540/track3.mp3
 track4:
   title: NxQuantize - OnYi
   color: trippy
-  link: https://sounds.mailta.pe/540/track4.mp3
+  link: https://df.mailta.pe/540/track4.mp3
 track5:
   title: modest by default - 你带着太阳的热量
   color: vibrant
-  link: https://sounds.mailta.pe/540/track5.mp3
+  link: https://df.mailta.pe/540/track5.mp3
 track6:
   title: Natural Wonder Beauty Concept - Natural Wonder Beauty Concept
   color: dreamy
-  link: https://sounds.mailta.pe/540/track6.mp3
+  link: https://df.mailta.pe/540/track6.mp3
 track7:
   title: Oneohtrix Point Never - Ubiquity Road
   color: bliss
-  link: https://sounds.mailta.pe/540/track7.mp3
+  link: https://df.mailta.pe/540/track7.mp3
 release: 540
 ---
 

@@ -16,31 +16,31 @@ pubDate: 2020-07-05
 track1:
   title: Frànçois Atlas & Juliette Armanet - L'invitation au voyage
   color: bliss
-  link: https://sounds.mailta.pe/412/track1.mp3
+  link: https://df.mailta.pe/412/track1.mp3
 track2:
   title: Faux Real - Boss Sweet
   color: vibrant
-  link: https://sounds.mailta.pe/412/track2.mp3
+  link: https://df.mailta.pe/412/track2.mp3
 track3:
   title: Tutto va bene quando facciamo l'amore - Alex Rossi feat. Jo Wedin
   color: vibrant
-  link: https://sounds.mailta.pe/412/track3.mp3
+  link: https://df.mailta.pe/412/track3.mp3
 track4:
   title: Marc Desse – On s'aime
   color: dreamy
-  link: https://sounds.mailta.pe/412/track4.mp3
+  link: https://df.mailta.pe/412/track4.mp3
 track5:
   title: Sam Valdez – Toothache
   color: vibrant
-  link: https://sounds.mailta.pe/412/track5.mp3
+  link: https://df.mailta.pe/412/track5.mp3
 track6:
   title: Laura Marling – Song For Our Daughter
   color: bliss
-  link: https://sounds.mailta.pe/412/track6.mp3
+  link: https://df.mailta.pe/412/track6.mp3
 track7:
   title: Cass McCombs & Steve Gunn – Sweet Lucy
   color: bliss
-  link: https://sounds.mailta.pe/412/track7.mp3
+  link: https://df.mailta.pe/412/track7.mp3
 release: 412
 ---
 This morning, we are pleased to welcome [Marc Desse](https://www.instagram.com/marc.desse/) to select three Sunday morning songs. 

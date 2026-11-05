@@ -16,31 +16,31 @@ pubDate: 2020-09-13
 track1:
   title: Pink Flyod - A Pillow Of Winds
   color: dreamy
-  link: https://sounds.mailta.pe/416/track1.mp3
+  link: https://df.mailta.pe/416/track1.mp3
 track2:
   title: Dope Lemon - Hey You
   color: dreamy
-  link: https://sounds.mailta.pe/416/track2.mp3
+  link: https://df.mailta.pe/416/track2.mp3
 track3:
   title: Andy Shauf - Neon Skyline
   color: bliss
-  link: https://sounds.mailta.pe/416/track3.mp3
+  link: https://df.mailta.pe/416/track3.mp3
 track4:
   title: Dombrance - Taubira
   color: dreamy
-  link: https://sounds.mailta.pe/416/track4.mp3
+  link: https://df.mailta.pe/416/track4.mp3
 track5:
   title: XXXIII - Encore Un Etrange Sentiment
   color: trippy
-  link: https://sounds.mailta.pe/416/track5.mp3
+  link: https://df.mailta.pe/416/track5.mp3
 track6:
   title: "Fulgeance - Ensemble "
   color: bliss
-  link: https://sounds.mailta.pe/416/track6.mp3
+  link: https://df.mailta.pe/416/track6.mp3
 track7:
   title: Weval - The Weight
   color: vibrant
-  link: https://sounds.mailta.pe/416/track7.mp3
+  link: https://df.mailta.pe/416/track7.mp3
 release: 416
 ---
 

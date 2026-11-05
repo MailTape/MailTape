@@ -19,31 +19,31 @@ pubDate: 2011-06-05
 track1:
   title: Stevie Wonder - Living for the Ciry
   color: vibrant
-  link: https://sounds.mailta.pe/6/track1.mp3
+  link: https://df.mailta.pe/6/track1.mp3
 track2:
   title: Amon Tobin - Slowly
   color: rough
-  link: https://sounds.mailta.pe/6/track2.mp3
+  link: https://df.mailta.pe/6/track2.mp3
 track3:
   title: Madvillain - Figaro
   color: rough
-  link: https://sounds.mailta.pe/6/track3.mp3
+  link: https://df.mailta.pe/6/track3.mp3
 track4:
   title: John Williams - Cavatina
   color: dreamy
-  link: https://sounds.mailta.pe/6/track4.mp3
+  link: https://df.mailta.pe/6/track4.mp3
 track5:
   title: Thundercat - For Love I Come
   color: trippy
-  link: https://sounds.mailta.pe/6/track5.mp3
+  link: https://df.mailta.pe/6/track5.mp3
 track6:
   title: Aspirin's For My Children - Cutter
   color: trippy
-  link: https://sounds.mailta.pe/6/track6.mp3
+  link: https://df.mailta.pe/6/track6.mp3
 track7:
   title: Classixx - Into the Valley (Julio Bashmore remix)
   color: bliss
-  link: https://sounds.mailta.pe/6/track7.mp3
+  link: https://df.mailta.pe/6/track7.mp3
 release: 6
 ---
 This morning, [La Fine Équipe](https://www.facebook.com/lafineequipebeats/) are off to a great start with Stevie Wonder who lights up our bedroom early in the morning as the first sunbeams. Off to take a shower listening to Amon Tobin, water dripping from the shower head in slow-motion and our skin feels every drop of it. Time passes, we don't know since how long we have been under the hot water stream. Back to reality, Madvillain sets his rythmn, his flow, it's time to brew some coffee.

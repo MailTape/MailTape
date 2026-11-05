@@ -16,31 +16,31 @@ pubDate: 2011-05-15
 track1:
   title: The Electric Prunes - Holy Are You
   color: trippy
-  link: https://sounds.mailta.pe/3/track1.mp3
+  link: https://df.mailta.pe/3/track1.mp3
 track2:
   title: Al Green - Simply Beautiful
   color: bliss
-  link: https://sounds.mailta.pe/3/track2.mp3
+  link: https://df.mailta.pe/3/track2.mp3
 track3:
   title: Nas - Get Down
   color: vibrant
-  link: https://sounds.mailta.pe/3/track3.mp3
+  link: https://df.mailta.pe/3/track3.mp3
 track4:
   title: Laid Back - Bakerman
   color: vibrant
-  link: https://sounds.mailta.pe/3/track4.mp3
+  link: https://df.mailta.pe/3/track4.mp3
 track5:
   title: Erykah Badu - Gone Baby, Don't Be Long
   color: dreamy
-  link: https://sounds.mailta.pe/3/track5.mp3
+  link: https://df.mailta.pe/3/track5.mp3
 track6:
   title: Man Man - Life is Fantastic
   color: dreamy
-  link: https://sounds.mailta.pe/3/track6.mp3
+  link: https://df.mailta.pe/3/track6.mp3
 track7:
   title: Danger Mouse & Daniele Lupi - Two Against One (feat. Jack White)
   color: bliss
-  link: https://sounds.mailta.pe/3/track7.mp3
+  link: https://df.mailta.pe/3/track7.mp3
 release: 3
 ---
 This morning, [Nicolas Jaar](https://www.facebook.com/Nicolas-Jaar-15727540611/) is inviting you to embark on a psychedelic journey with “The Electric Prunes”.

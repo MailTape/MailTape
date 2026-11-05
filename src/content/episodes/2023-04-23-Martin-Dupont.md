@@ -11,31 +11,31 @@ writer: ImaCrea
 track1:
   title: Dalis Car - Moonlife
   color: vibrant
-  link: https://sounds.mailta.pe/525/track1.mp3
+  link: https://df.mailta.pe/525/track1.mp3
 track2:
   title: Indoor Life - Archeology
   color: trippy
-  link: https://sounds.mailta.pe/525/track2.mp3
+  link: https://df.mailta.pe/525/track2.mp3
 track3:
   title: Wall of Voodoo - Ring of Fire
   color: rough
-  link: https://sounds.mailta.pe/525/track3.mp3
+  link: https://df.mailta.pe/525/track3.mp3
 track4:
   title: Martin Dupont - Inside Out
   color: vibrant
-  link: https://sounds.mailta.pe/525/track4.mp3
+  link: https://df.mailta.pe/525/track4.mp3
 track5:
   title: Gary Allen - Oops It's an Accident
   color: vibrant
-  link: https://sounds.mailta.pe/525/track5.mp3
+  link: https://df.mailta.pe/525/track5.mp3
 track6:
   title: El - Og Tilslutt
   color: trippy
-  link: https://sounds.mailta.pe/525/track6.mp3
+  link: https://df.mailta.pe/525/track6.mp3
 track7:
   title: Art Fact - Rain in the South
   color: dreamy
-  link: https://sounds.mailta.pe/525/track7.mp3
+  link: https://df.mailta.pe/525/track7.mp3
 description: This morning, get ready to start your day with a heartfelt and captivating episode of MailTape with [Martin Dupont](https://martindupont.bandcamp.com)! We're thrilled to share with you a special selec...
 image: /img/fbpic525.png
 musiColor: /img/musicolor525.png

@@ -19,31 +19,31 @@ pubDate: 2015-03-22
 track1:
   title: Ed Sharpe & The Magnetic Zeros - 40 Day Dream (Turbotito Rmx)
   color: vibrant
-  link: https://sounds.mailta.pe/178/track1.mp3
+  link: https://df.mailta.pe/178/track1.mp3
 track2:
   title: KZA - Vous Dansez
   color: dreamy
-  link: https://sounds.mailta.pe/178/track2.mp3
+  link: https://df.mailta.pe/178/track2.mp3
 track3:
   title: Whitey - Made Of Night
   color: dreamy
-  link: https://sounds.mailta.pe/178/track3.mp3
+  link: https://df.mailta.pe/178/track3.mp3
 track4:
   title: Kid Francescoli - Blow Up
   color: vibrant
-  link: https://sounds.mailta.pe/178/track4.mp3
+  link: https://df.mailta.pe/178/track4.mp3
 track5:
   title: Mark Johns - 5 South (Prod. Alexander Lewis) Ft. Brasstracks
   color: vibrant
-  link: https://sounds.mailta.pe/178/track5.mp3
+  link: https://df.mailta.pe/178/track5.mp3
 track6:
   title: Craz - Dust
   color: trippy
-  link: https://sounds.mailta.pe/missingTrack.mp3
+  link: https://df.mailta.pe/missingTrack.mp3
 track7:
   title: Spongemagnet - Voyage To Cyborn907
   color: trippy
-  link: https://sounds.mailta.pe/178/track7.mp3
+  link: https://df.mailta.pe/178/track7.mp3
 release: 178
 ---
 

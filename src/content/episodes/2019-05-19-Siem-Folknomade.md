@@ -15,31 +15,31 @@ pubDate: 2019-05-19
 track1:
   title: Ry x – Bound
   color: dreamy
-  link: https://sounds.mailta.pe/358/track1.mp3
+  link: https://df.mailta.pe/358/track1.mp3
 track2:
   title: Maii Waleed – يوم الاتنين
   color: bliss
-  link: https://sounds.mailta.pe/358/track2.mp3
+  link: https://df.mailta.pe/358/track2.mp3
 track3:
   title: Nonku Phiri – Sîfo
   color: trippy
-  link: https://sounds.mailta.pe/358/track3.mp3
+  link: https://df.mailta.pe/358/track3.mp3
 track4:
   title: Siêm Folknomade – Et Même Si
   color: bliss
-  link: https://sounds.mailta.pe/358/track4.mp3
+  link: https://df.mailta.pe/358/track4.mp3
 track5:
   title: Emiliana Torrini – Tookah
   color: dreamy
-  link: https://sounds.mailta.pe/358/track5.mp3
+  link: https://df.mailta.pe/358/track5.mp3
 track6:
   title: Lilith Ai – Native Tongue
   color: bliss
-  link: https://sounds.mailta.pe/358/track6.mp3
+  link: https://df.mailta.pe/358/track6.mp3
 track7:
   title: The Last Poets – If We Only Knew What We Could Do
   color: vibrant
-  link: https://sounds.mailta.pe/358/track7.mp3
+  link: https://df.mailta.pe/358/track7.mp3
 release: 358
 ---
 This morning we are pleased to welcome a long time MailTape listener and Marseille-based vocalist and composer, [Siêm Folknomade](https://linktr.ee/siemfolknomade).

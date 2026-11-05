@@ -17,31 +17,31 @@ pubDate: 2023-01-22
 track1:
   title: Carmen Villain - Portals
   color: dreamy
-  link: https://sounds.mailta.pe/514/track1.mp3
+  link: https://df.mailta.pe/514/track1.mp3
 track2:
   title: Natalie Beridze - Drift
   color: dreamy
-  link: https://sounds.mailta.pe/514/track2.mp3
+  link: https://df.mailta.pe/514/track2.mp3
 track3:
   title: UMAN - Atmosphère
   color: dreamy
-  link: https://sounds.mailta.pe/514/track3.mp3
+  link: https://df.mailta.pe/514/track3.mp3
 track4:
   title: Patricia Wolf - Springtime in Croatia
   color: dreamy
-  link: https://sounds.mailta.pe/514/track4.mp3
+  link: https://df.mailta.pe/514/track4.mp3
 track5:
   title: Adela Mede - Gyöngyvirág
   color: dreamy
-  link: https://sounds.mailta.pe/514/track5.mp3
+  link: https://df.mailta.pe/514/track5.mp3
 track6:
   title: Sam Gendel - Tate-waku (竪沸く, rising steam)
   color: dreamy
-  link: https://sounds.mailta.pe/514/track6.mp3
+  link: https://df.mailta.pe/514/track6.mp3
 track7:
   title: Félicia Atkinson - Image Langage
   color: dreamy
-  link: https://sounds.mailta.pe/514/track7.mp3
+  link: https://df.mailta.pe/514/track7.mp3
 release: 514
 ---
 This morning, we are delighted to welcome [Patricia Wolf](https://patriciawolf.bandcamp.com/) to MailTape. Patricia is a multi-instrumentalist, composer, and producer who draws on her natural surroundings to compose her music. Embark on a pure dreamy experience, sit back, and enjoy.

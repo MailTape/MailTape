@@ -17,31 +17,31 @@ pubDate: 2014-11-23
 track1:
   title: Wildkatz - John Waters
   color: trippy
-  link: https://sounds.mailta.pe/161/track1.mp3
+  link: https://df.mailta.pe/161/track1.mp3
 track2:
   title: Abu Ashley - Hussein Online (فيديو كليب)
   color: rough
-  link: https://sounds.mailta.pe/161/track2.mp3
+  link: https://df.mailta.pe/161/track2.mp3
 track3:
   title: Minister Akins - Holy Communion
   color: rough
-  link: https://sounds.mailta.pe/161/track3.mp3
+  link: https://df.mailta.pe/161/track3.mp3
 track4:
   title: Milo Mc Bride - Clism
   color: trippy
-  link: https://sounds.mailta.pe/161/track4.mp3
+  link: https://df.mailta.pe/161/track4.mp3
 track5:
   title: David Vandervelde - Where Are You
   color: dreamy
-  link: https://sounds.mailta.pe/161/track5.mp3
+  link: https://df.mailta.pe/161/track5.mp3
 track6:
   title: Chief - High
   color: trippy
-  link: https://sounds.mailta.pe/161/track6.mp3
+  link: https://df.mailta.pe/161/track6.mp3
 track7:
   title: David Douglas - Moon Observations (Henry Saiz Remix)
   color: bliss
-  link: https://sounds.mailta.pe/161/track7.mp3
+  link: https://df.mailta.pe/161/track7.mp3
 release: 161
 ---
 

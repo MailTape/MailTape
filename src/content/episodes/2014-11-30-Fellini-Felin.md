@@ -17,31 +17,31 @@ pubDate: 2014-11-30
 track1:
   title: Soft Rocks - Talking Jungle (Justin Vandervolgen Remix)
   color: vibrant
-  link: https://sounds.mailta.pe/162/track1.mp3
+  link: https://df.mailta.pe/162/track1.mp3
 track2:
   title: Adam Kesher - Local Girl (The Shoes Remix)
   color: vibrant
-  link: https://sounds.mailta.pe/162/track2.mp3
+  link: https://df.mailta.pe/162/track2.mp3
 track3:
   title: Tornado Wallace - Insect Overlords
   color: trippy
-  link: https://sounds.mailta.pe/162/track3.mp3
+  link: https://df.mailta.pe/162/track3.mp3
 track4:
   title: Fellini Félin - On The Way Home
   color: vibrant
-  link: https://sounds.mailta.pe/162/track4.mp3
+  link: https://df.mailta.pe/162/track4.mp3
 track5:
   title: Low Leaf - Slaveless Master
   color: trippy
-  link: https://sounds.mailta.pe/162/track5.mp3
+  link: https://df.mailta.pe/162/track5.mp3
 track6:
   title: Sylvain Esso - Coffee
   color: bliss
-  link: https://sounds.mailta.pe/162/track6.mp3
+  link: https://df.mailta.pe/162/track6.mp3
 track7:
   title: Aela Ezct - Bubble Tea Tree
   color: trippy
-  link: https://sounds.mailta.pe/missingTrack.mp3
+  link: https://df.mailta.pe/missingTrack.mp3
 release: 162
 ---
 

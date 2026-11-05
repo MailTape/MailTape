@@ -11,31 +11,31 @@ writer: Ling
 track1:
   title: John Adams - The Chairman Dances (Foxtrot for Orchestra)
   color: vibrant
-  link: https://sounds.mailta.pe/616/track1.mp3
+  link: https://df.mailta.pe/616/track1.mp3
 track2:
   title: Luis Bacalov - Il Grande Duello  (Parte Prima)
   color: dreamy
-  link: https://sounds.mailta.pe/616/track2.mp3
+  link: https://df.mailta.pe/616/track2.mp3
 track3:
   title: The Sore Feet Song - Ally Kerr
   color: bliss
-  link: https://sounds.mailta.pe/616/track3.mp3
+  link: https://df.mailta.pe/616/track3.mp3
 track4:
   title: Kings Of Convenience, Feist - Know How
   color: bliss
-  link: https://sounds.mailta.pe/616/track4.mp3
+  link: https://df.mailta.pe/616/track4.mp3
 track5:
   title: 王菲 (Faye Wong) - Eyes On Me
   color: dreamy
-  link: https://sounds.mailta.pe/616/track5.mp3
+  link: https://df.mailta.pe/616/track5.mp3
 track6:
   title: 王菲 (Faye Wong) - 香奈兒
   color: trippy
-  link: https://sounds.mailta.pe/616/track6.mp3
+  link: https://df.mailta.pe/616/track6.mp3
 track7:
   title: Dakota Suite - All Your Hopes Gone Cold
   color: dreamy
-  link: https://sounds.mailta.pe/616/track7.mp3
+  link: https://df.mailta.pe/616/track7.mp3
 description: At Mailtape, we sometimes assume we're a bit old-fashioned, from the generation of Walkmans, those from the 90s, into which we'd put old cassettes, sometimes recorded ourselves. Then came portable CD...
 image: /img/fbpic616.jpg
 musiColor: /img/screenshot_2026-10-11_at_00.02.58.png

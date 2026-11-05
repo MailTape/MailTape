@@ -15,31 +15,31 @@ pubDate: 2019-09-29
 track1:
   title: Mayumi Miyata – 双調調子
   color: bliss
-  link: https://sounds.mailta.pe/373/track1.mp3
+  link: https://df.mailta.pe/373/track1.mp3
 track2:
   title: Lamine Konté – Dioula
   color: dreamy
-  link: https://sounds.mailta.pe/373/track2.mp3
+  link: https://df.mailta.pe/373/track2.mp3
 track3:
   title: Lotic – Solace
   color: trippy
-  link: https://sounds.mailta.pe/373/track3.mp3
+  link: https://df.mailta.pe/373/track3.mp3
 track4:
   title: " Shida Shahabi – Pretty In Plums"
   color: dreamy
-  link: https://sounds.mailta.pe/373/track4.mp3
+  link: https://df.mailta.pe/373/track4.mp3
 track5:
   title: Emilie Levienaise-Farrouch – Strelka
   color: bliss
-  link: https://sounds.mailta.pe/373/track5.mp3
+  link: https://df.mailta.pe/373/track5.mp3
 track6:
   title: Jatinder Singh Durhailay and David Edren – Tulsi
   color: dreamy
-  link: https://sounds.mailta.pe/373/track6.mp3
+  link: https://df.mailta.pe/373/track6.mp3
 track7:
   title: Vanessa Wagner – Struggle For Pleasure (GAS Rework)
   color: trippy
-  link: https://sounds.mailta.pe/373/track7.mp3
+  link: https://df.mailta.pe/373/track7.mp3
 release: 373
 ---
 This morning we welcome the intimate and homespun piano of Stockholm-based pianist and composer, [Shida Shahabi](https://shida-shahabi.bandcamp.com/).

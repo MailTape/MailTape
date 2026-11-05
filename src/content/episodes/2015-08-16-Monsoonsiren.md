@@ -16,31 +16,31 @@ pubDate: 2015-08-16
 track1:
   title: Nathan Johnson - Emelys Theme (Brick OST)
   color: trippy
-  link: https://sounds.mailta.pe/199/track1.mp3
+  link: https://df.mailta.pe/199/track1.mp3
 track2:
   title: Kanye West - Monster (Teachers remix)
   color: bliss
-  link: https://sounds.mailta.pe/199/track2.mp3
+  link: https://df.mailta.pe/199/track2.mp3
 track3:
   title: Colin Stetson - Among the sef
   color: trippy
-  link: https://sounds.mailta.pe/199/track3.mp3
+  link: https://df.mailta.pe/199/track3.mp3
 track4:
   title: Monsoonsiren - Untitled (snippet)
   color: dreamy
-  link: https://sounds.mailta.pe/199/track4.mp3
+  link: https://df.mailta.pe/199/track4.mp3
 track5:
   title: Moses Sumney - Mumblin'
   color: trippy
-  link: https://sounds.mailta.pe/199/track5.mp3
+  link: https://df.mailta.pe/199/track5.mp3
 track6:
   title: BADBADNOTGOOD - Boogie No. 69
   color: bliss
-  link: https://sounds.mailta.pe/199/track6.mp3
+  link: https://df.mailta.pe/199/track6.mp3
 track7:
   title: Melanie De Biasio - I'm Gonna Leave You
   color: trippy
-  link: https://sounds.mailta.pe/199/track7.mp3
+  link: https://df.mailta.pe/199/track7.mp3
 release: 199
 ---
 

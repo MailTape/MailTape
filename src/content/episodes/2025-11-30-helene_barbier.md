@@ -25,31 +25,31 @@ musiColor: /img/musicolor599.png
 track1:
   title: Melanie - People in the front row
   color: vibrant
-  link: https://sounds.mailta.pe/599/track1.mp3
+  link: https://df.mailta.pe/599/track1.mp3
 track2:
   title: Randy Newman – Baltimore
   color: bliss
-  link: https://sounds.mailta.pe/599/track2.mp3
+  link: https://df.mailta.pe/599/track2.mp3
 track3:
   title: Bilders - Wanganui With A White Face
   color: trippy
-  link: https://sounds.mailta.pe/599/track3.mp3
+  link: https://df.mailta.pe/599/track3.mp3
 track4:
   title: Hélène Barbier – Water
   color: bliss
-  link: https://sounds.mailta.pe/599/track4.mp3
+  link: https://df.mailta.pe/599/track4.mp3
 track5:
   title: Rozi Plain - Spot Thirteen
   color: dreamy
-  link: https://sounds.mailta.pe/599/track5.mp3
+  link: https://df.mailta.pe/599/track5.mp3
 track6:
   title: Cindy Lee – Stone Faces
   color: vibrant
-  link: https://sounds.mailta.pe/599/track6.mp3
+  link: https://df.mailta.pe/599/track6.mp3
 track7:
   title: Cate Le Bon – He’s leaving
   color: bliss
-  link: https://sounds.mailta.pe/599/track7.mp3
+  link: https://df.mailta.pe/599/track7.mp3
 release: 599
 ---
 This morning it’s the mist. We search in vain for a few rays of sunshine in a grey sky. And failing to find any, we listen to the latest MailTape selection, because we know that there are bound to be some bright tracks hidden there, likely to brighten our day and give us good reasons to smile.

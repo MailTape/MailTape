@@ -16,31 +16,31 @@ pubDate: 2018-02-04
 track1:
   title: "Saint Torrente - Calamus "
   color: vibrant
-  link: https://sounds.mailta.pe/298/track1.mp3
+  link: https://df.mailta.pe/298/track1.mp3
 track2:
   title: Sateen - Finer Things
   color: bliss
-  link: https://sounds.mailta.pe/298/track2.mp3
+  link: https://df.mailta.pe/298/track2.mp3
 track3:
   title: MX World - Everything's Fine
   color: dreamy
-  link: https://sounds.mailta.pe/298/track3.mp3
+  link: https://df.mailta.pe/298/track3.mp3
 track4:
   title: JOEY FOURR - JEWELS
   color: bliss
-  link: https://sounds.mailta.pe/298/track4.mp3
+  link: https://df.mailta.pe/298/track4.mp3
 track5:
   title: Common Body - Luck of the Draw
   color: vibrant
-  link: https://sounds.mailta.pe/298/track5.mp3
+  link: https://df.mailta.pe/298/track5.mp3
 track6:
   title: De Lux - 875 Dollars
   color: vibrant
-  link: https://sounds.mailta.pe/298/track6.mp3
+  link: https://df.mailta.pe/298/track6.mp3
 track7:
   title: Aegean Sun - Feel Real
   color: bliss
-  link: https://sounds.mailta.pe/298/track7.mp3
+  link: https://df.mailta.pe/298/track7.mp3
 release: 298
 ---
 This morning, we bring you an electrifying and magnetic MailTape. Our guest [Joey Fourr](https://www.facebook.com/joeyfourr) will thrust you out of your comfort zone with their poignant selection of moving vibrations with touching lyrics.

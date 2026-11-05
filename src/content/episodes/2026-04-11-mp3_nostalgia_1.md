@@ -11,31 +11,31 @@ writer: Anto
 track1:
   title: Gilbert Bécaud - Contre Vous
   color: vibrant
-  link: https://sounds.mailta.pe/609/track1.mp3
+  link: https://df.mailta.pe/609/track1.mp3
 track2:
   title: Meiko Kaji - おんな叛き唄
   color: bliss
-  link: https://sounds.mailta.pe/609/track2.mp3
+  link: https://df.mailta.pe/609/track2.mp3
 track3:
   title: Soom T -Alright
   color: vibrant
-  link: https://sounds.mailta.pe/609/track3.mp3
+  link: https://df.mailta.pe/609/track3.mp3
 track4:
   title: Le cri du Caire - Pearls for Orphans
   color: trippy
-  link: https://sounds.mailta.pe/609/track4.mp3
+  link: https://df.mailta.pe/609/track4.mp3
 track5:
   title: Smith – Baby it's you
   color: vibrant
-  link: https://sounds.mailta.pe/609/track5.mp3
+  link: https://df.mailta.pe/609/track5.mp3
 track6:
   title: Téhu – Timeline
   color: trippy
-  link: https://sounds.mailta.pe/609/track6.mp3
+  link: https://df.mailta.pe/609/track6.mp3
 track7:
   title: Rendez-Vous – Euroshima
   color: rough
-  link: https://sounds.mailta.pe/609/track7.mp3
+  link: https://df.mailta.pe/609/track7.mp3
 description: At Mailtape, we sometimes assume we're a bit old-fashioned, from the generation of Walkmans, those from the 90s, into which we'd put old cassettes, sometimes recorded ourselves. Then came portable CD...
 image: /img/fbpic609.jpg
 musiColor: /img/musicolor609.png

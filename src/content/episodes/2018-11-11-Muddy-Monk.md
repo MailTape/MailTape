@@ -14,31 +14,31 @@ pubDate: 2018-11-11
 track1:
   title: De Barjorak - Holy Dirty Intimacy
   color: rough
-  link: https://sounds.mailta.pe/331/track1.mp3
+  link: https://df.mailta.pe/331/track1.mp3
 track2:
   title: Oko Ebombo - Naked Life
   color: vibrant
-  link: https://sounds.mailta.pe/331/track2.mp3
+  link: https://df.mailta.pe/331/track2.mp3
 track3:
   title: Janet Jackson - If (Kaytranada Remix)
   color: trippy
-  link: https://sounds.mailta.pe/331/track3.mp3
+  link: https://df.mailta.pe/331/track3.mp3
 track4:
   title: Muddy Monk - Drift
   color: dreamy
-  link: https://sounds.mailta.pe/331/track4.mp3
+  link: https://df.mailta.pe/331/track4.mp3
 track5:
   title: Miel De Montagne - Pourquoi Pas
   color: dreamy
-  link: https://sounds.mailta.pe/331/track5.mp3
+  link: https://df.mailta.pe/331/track5.mp3
 track6:
   title: Jones - You
   color: vibrant
-  link: https://sounds.mailta.pe/331/track6.mp3
+  link: https://df.mailta.pe/331/track6.mp3
 track7:
   title: Kokoroko - Abusey Junction
   color: bliss
-  link: https://sounds.mailta.pe/331/track7.mp3
+  link: https://df.mailta.pe/331/track7.mp3
 release: 331
 ---
 This morning we are delighted to welcome [Muddy Monk](https://www.facebook.com/muddymonk/) to MailTape.

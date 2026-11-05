@@ -20,31 +20,31 @@ pubDate: 2021-11-21
 track1:
   title: Novicat de soeurs missionaires - Yes Ka Mkwebaze
   color: dreamy
-  link: https://sounds.mailta.pe/471/track1.mp3
+  link: https://df.mailta.pe/471/track1.mp3
 track2:
   title: Herb Alpert - Ladyfingers
   color: dreamy
-  link: https://sounds.mailta.pe/471/track2.mp3
+  link: https://df.mailta.pe/471/track2.mp3
 track3:
   title: Jorge Ben - Hermes Trismegistus
   color: vibrant
-  link: https://sounds.mailta.pe/471/track3.mp3
+  link: https://df.mailta.pe/471/track3.mp3
 track4:
   title: Lael Neale - White Wings
   color: dreamy
-  link: https://sounds.mailta.pe/471/track4.mp3
+  link: https://df.mailta.pe/471/track4.mp3
 track5:
   title: Akiko Yano - I Sing
   color: vibrant
-  link: https://sounds.mailta.pe/471/track5.mp3
+  link: https://df.mailta.pe/471/track5.mp3
 track6:
   title: Nala Sinephro - Space 5
   color: trippy
-  link: https://sounds.mailta.pe/471/track6.mp3
+  link: https://df.mailta.pe/471/track6.mp3
 track7:
   title: Eddy de Pretto - Val de Larmes
   color: bliss
-  link: https://sounds.mailta.pe/471/track7.mp3
+  link: https://df.mailta.pe/471/track7.mp3
 release: 471
 ---
  This morning, we welcome our guest [Lael Neale](https://laelneale.bandcamp.com/album/acquainted-with-night) with a delicate and pacifying MailTape. This calming selection is an invitation to slow down, a guided introspection as we truly listen to both the music and ourselves.

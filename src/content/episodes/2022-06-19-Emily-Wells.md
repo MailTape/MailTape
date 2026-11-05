@@ -18,31 +18,31 @@ pubDate: 2022-06-19
 track1:
   title: Nina Simone - Who Knows Where the Time Goes
   color: dreamy
-  link: https://sounds.mailta.pe/497/track1.mp3
+  link: https://df.mailta.pe/497/track1.mp3
 track2:
   title: Penny Penny - Shaka Bundu
   color: vibrant
-  link: https://sounds.mailta.pe/497/track2.mp3
+  link: https://df.mailta.pe/497/track2.mp3
 track3:
   title: Empress Of - Save Me
   color: vibrant
-  link: https://sounds.mailta.pe/497/track3.mp3
+  link: https://df.mailta.pe/497/track3.mp3
 track4:
   title: Emily Wells - All Burn, No Bridge
   color: bliss
-  link: https://sounds.mailta.pe/497/track4.mp3
+  link: https://df.mailta.pe/497/track4.mp3
 track5:
   title: Oliver Sim - Hideous
   color: bliss
-  link: https://sounds.mailta.pe/497/track5.mp3
+  link: https://df.mailta.pe/497/track5.mp3
 track6:
   title: Six Drummers - Doctor Doctor Give Me Gas (In My Ass) Pt. 2
   color: dreamy
-  link: https://sounds.mailta.pe/497/track6.mp3
+  link: https://df.mailta.pe/497/track6.mp3
 track7:
   title: Hamid El-Shaeri - Reet
   color: vibrant
-  link: https://sounds.mailta.pe/497/track7.mp3
+  link: https://df.mailta.pe/497/track7.mp3
 release: 497
 ---
 This morning, I am very thrilled to unveil an episode co-curated with Emily Wells. As she's on tour, playing ["Regards to the End"](https://emilywells.bandcamp.com/album/regards-to-the-end) around the world, she took a moment to share with us some of her music gems. With this selection, embark on a positive and deep journey filled with moving energy. Dance, love, care. 

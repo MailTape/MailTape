@@ -17,31 +17,31 @@ pubDate: 2015-06-21
 track1:
   title: Balmorhea - Bowsprit
   color: dreamy
-  link: https://sounds.mailta.pe/191/track1.mp3
+  link: https://df.mailta.pe/191/track1.mp3
 track2:
   title: Mark Ronson's - A la Modeliste (Bonobo remix)
   color: vibrant
-  link: https://sounds.mailta.pe/191/track2.mp3
+  link: https://df.mailta.pe/191/track2.mp3
 track3:
   title: " Tom Day & Monsoonsiren - Elegiac"
   color: vibrant
-  link: https://sounds.mailta.pe/191/track3.mp3
+  link: https://df.mailta.pe/191/track3.mp3
 track4:
   title: Parra for Cuva - Majouré (feat Casey K)
   color: vibrant
-  link: https://sounds.mailta.pe/191/track4.mp3
+  link: https://df.mailta.pe/191/track4.mp3
 track5:
   title: Glenn Astro - Computer Killer
   color: trippy
-  link: https://sounds.mailta.pe/191/track5.mp3
+  link: https://df.mailta.pe/191/track5.mp3
 track6:
   title: Yoann Feynman - Television
   color: vibrant
-  link: https://sounds.mailta.pe/191/track6.mp3
+  link: https://df.mailta.pe/191/track6.mp3
 track7:
   title: Thundercat  - Them Changes
   color: bliss
-  link: https://sounds.mailta.pe/191/track7.mp3
+  link: https://df.mailta.pe/191/track7.mp3
 release: 191
 ---
 

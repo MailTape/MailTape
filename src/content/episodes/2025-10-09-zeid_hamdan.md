@@ -19,31 +19,31 @@ alignY: "0.5"
 track1:
   title: Koast - Belek
   color: vibrant
-  link: https://sounds.mailta.pe/593/track1.mp3
+  link: https://df.mailta.pe/593/track1.mp3
 track2:
   title: " CA7RIEL & Paco Amoroso - EL ÚNICO"
   color: vibrant
-  link: https://sounds.mailta.pe/593/track2.mp3
+  link: https://df.mailta.pe/593/track2.mp3
 track3:
   title: Bassekou Kouyaté - The River Tune
   color: bliss
-  link: https://sounds.mailta.pe/593/track3.mp3
+  link: https://df.mailta.pe/593/track3.mp3
 track4:
   title: Daboor - Sheikh Jarrah
   color: vibrant
-  link: https://sounds.mailta.pe/593/track4.mp3
+  link: https://df.mailta.pe/593/track4.mp3
 track5:
   title: Zeid Hamdan - Selamnesh
   color: bliss
-  link: https://sounds.mailta.pe/593/track5.mp3
+  link: https://df.mailta.pe/593/track5.mp3
 track6:
   title: Taj Mahal & Toumani Diabaté - Ol' Georgie Buck
   color: vibrant
-  link: https://sounds.mailta.pe/593/track6.mp3
+  link: https://df.mailta.pe/593/track6.mp3
 track7:
   title: TootArd - Syrian Blues
   color: bliss
-  link: https://sounds.mailta.pe/593/track7.mp3
+  link: https://df.mailta.pe/593/track7.mp3
 release: 593
 ---
 This morning, we are delighted to welcome [Zeid Hamdan](https://soundcloud.com/zeidhamdan) for a playlist shaped by sounds both fragile and powerful. His music moves in a space of contrasts: minimal beats that leave room for silence, layered textures that feel light and dense, tender, melancholic, but always full of light, pushing through the cracks. From his early work with [Soapkills](https://soapkills.bandcamp.com/album/the-best-of) to his more recent projects, Zeid Hamdan continues to create unforgettable soundscapes.You’ll also be able to hear it live in Paris, at La Flèche d’Or on October 23.

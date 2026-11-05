@@ -16,31 +16,31 @@ pubDate: 2018-05-20
 track1:
   title: Martin Arnold – Stain Ballad
   color: trippy
-  link: https://sounds.mailta.pe/313/track1.mp3
+  link: https://df.mailta.pe/313/track1.mp3
 track2:
   title: Allison Cameron – Tree Ferns (Performed by Wiek HIjmans)
   color: bliss
-  link: https://sounds.mailta.pe/313/track2.mp3
+  link: https://df.mailta.pe/313/track2.mp3
 track3:
   title: Linda Catlin Smith – Moi Qui Tremblais
   color: dreamy
-  link: https://sounds.mailta.pe/313/track3.mp3
+  link: https://df.mailta.pe/313/track3.mp3
 track4:
   title: Eric Chenaux – There's Our Love
   color: dreamy
-  link: https://sounds.mailta.pe/313/track4.mp3
+  link: https://df.mailta.pe/313/track4.mp3
 track5:
   title: Tashi Dorji – Karma Lata
   color: trippy
-  link: https://sounds.mailta.pe/313/track5.mp3
+  link: https://df.mailta.pe/313/track5.mp3
 track6:
   title: Marisa Anderson – Into The Light
   color: bliss
-  link: https://sounds.mailta.pe/313/track6.mp3
+  link: https://df.mailta.pe/313/track6.mp3
 track7:
   title: Cara Stacey & Shh..Art Ensemble – Come Near Me
   color: dreamy
-  link: https://sounds.mailta.pe/313/track7.mp3
+  link: https://df.mailta.pe/313/track7.mp3
 release: 313
 ---
 Close your eyes and float away in a blissful auditory dream courtesy of Paris-based guitarist, [Eric Chenaux](http://ericchenaux.com/). He provides us with a sweet Sunday morning glimpse into Canada's contemporary music milieu.

@@ -15,31 +15,31 @@ pubDate: 2017-05-21
 track1:
   title: Kenneth Gaburo - TWO (1962)
   color: trippy
-  link: https://sounds.mailta.pe/261/track1.mp3
+  link: https://df.mailta.pe/261/track1.mp3
 track2:
   title: Kenneth Gaburo - Noyse (1975)
   color: trippy
-  link: https://sounds.mailta.pe/261/track2.mp3
+  link: https://df.mailta.pe/261/track2.mp3
 track3:
   title: Kenneth Gaburo - Mouth-piece (1970)
   color: trippy
-  link: https://sounds.mailta.pe/261/track3.mp3
+  link: https://df.mailta.pe/261/track3.mp3
 track4:
   title: Nate Wooley 5tet - For Wee Folks
   color: dreamy
-  link: https://sounds.mailta.pe/261/track4.mp3
+  link: https://df.mailta.pe/261/track4.mp3
 track5:
   title: Anthony Braxton & Taylor Ho Bynum - All Roads Lead To Middletown
   color: bliss
-  link: https://sounds.mailta.pe/261/track5.mp3
+  link: https://df.mailta.pe/261/track5.mp3
 track6:
   title: Glue - Chats with the Real McCoy
   color: rough
-  link: https://sounds.mailta.pe/261/track6.mp3
+  link: https://df.mailta.pe/261/track6.mp3
 track7:
   title: Susana Santos Silva & Kaja Draksler - Hymn to the Unknown
   color: bliss
-  link: https://sounds.mailta.pe/261/track7.mp3
+  link: https://df.mailta.pe/261/track7.mp3
 release: 261
 ---
 We are super happy to welcome experimental trumpeter, [Nate Wooley](http://natewooley.com/), in this week's issue. His previous albums range from abstract renditions of Wynton Marsalis tunes to particularly harsh versions of free jazz with obscure multi-phonic trumpet chops juxtaposed with distorted extended techniques.

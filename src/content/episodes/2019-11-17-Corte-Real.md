@@ -28,31 +28,31 @@ pubDate: 2019-11-17
 track1:
   title: Leonard Cohen - I Left A Woman Waiting
   color: bliss
-  link: https://sounds.mailta.pe/380/track1.mp3
+  link: https://df.mailta.pe/380/track1.mp3
 track2:
   title: Bert Jansch - In My Mind
   color: trippy
-  link: https://sounds.mailta.pe/380/track2.mp3
+  link: https://df.mailta.pe/380/track2.mp3
 track3:
   title: Ali Danel - La Nuit Qui Vient
   color: bliss
-  link: https://sounds.mailta.pe/380/track3.mp3
+  link: https://df.mailta.pe/380/track3.mp3
 track4:
   title: Corte Real - Pays Vaincu
   color: dreamy
-  link: https://sounds.mailta.pe/380/track4.mp3
+  link: https://df.mailta.pe/380/track4.mp3
 track5:
   title: Philémon Cimon - Les Pommiers Envahis
   color: vibrant
-  link: https://sounds.mailta.pe/380/track5.mp3
+  link: https://df.mailta.pe/380/track5.mp3
 track6:
   title: OHIO - Ohio
   color: dreamy
-  link: https://sounds.mailta.pe/380/track6.mp3
+  link: https://df.mailta.pe/380/track6.mp3
 track7:
   title: The Velvet Underground - I Found A Reason
   color: bliss
-  link: https://sounds.mailta.pe/380/track7.mp3
+  link: https://df.mailta.pe/380/track7.mp3
 release: 380
 ---
  This morning, we are setting sail again at the very first light of dawn with [Corte Real](https://www.facebook.com/corterealmusic/), without knowing when we will come back. The Versailles-based group is finally releasing its first album "Pays Vaincus" on November 22nd, it includes the track "Opium" that we already featured in our dreamy [353rd episode](https://www.mailta.pe/353/skinshape/).

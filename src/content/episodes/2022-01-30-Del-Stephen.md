@@ -18,31 +18,31 @@ pubDate: 2022-01-30
 track1:
   title: Maria Alonzo's Goretti Group - Magnificat
   color: bliss
-  link: https://sounds.mailta.pe/479/track1.mp3
+  link: https://df.mailta.pe/479/track1.mp3
 track2:
   title: Maximum Joy - Let It Take You
   color: vibrant
-  link: https://sounds.mailta.pe/479/track2.mp3
+  link: https://df.mailta.pe/479/track2.mp3
 track3:
   title: Starlight Serenaders - Orange Wind
   color: trippy
-  link: https://sounds.mailta.pe/479/track3.mp3
+  link: https://df.mailta.pe/479/track3.mp3
 track4:
   title: Del Stephen - Five Mountain Station
   color: dreamy
-  link: https://sounds.mailta.pe/479/track4.mp3
+  link: https://df.mailta.pe/479/track4.mp3
 track5:
   title: Apichatpong Weerasethakul - Mekong Hotel
   color: dreamy
-  link: https://sounds.mailta.pe/479/track5.mp3
+  link: https://df.mailta.pe/479/track5.mp3
 track6:
   title: SRIRAJAH SOUND SYSTEM - SI PHAN DON LOVERS ROCK Feat.Molam Inteng Keawbuala
   color: trippy
-  link: https://sounds.mailta.pe/479/track6.mp3
+  link: https://df.mailta.pe/479/track6.mp3
 track7:
   title: Tiny Leaves - View From Here
   color: bliss
-  link: https://sounds.mailta.pe/479/track7.mp3
+  link: https://df.mailta.pe/479/track7.mp3
 release: 479
 ---
  This morning, we're floating in the air with [Del Stephen](https://delstephen.bandcamp.com/). Coming from Toronto, his eclectic and blissful selection opens the doors to a magnificent Sunday. Warm and subtle, perfect to close this first month of the year (which has already been quiet intense !). Caring has never been so important and vital, see this episode as a heartful hug.

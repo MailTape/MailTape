@@ -15,31 +15,31 @@ pubDate: 2017-04-30
 track1:
   title: Harriet Tubman - Ritual Rubbin
   color: vibrant
-  link: https://sounds.mailta.pe/258/track1.mp3
+  link: https://df.mailta.pe/258/track1.mp3
 track2:
   title: Elaine Mitchener - Watching the Rituals
   color: trippy
-  link: https://sounds.mailta.pe/258/track2.mp3
+  link: https://df.mailta.pe/258/track2.mp3
 track3:
   title: "Maurizio Pollini - Chopin: Ballade No. 1 in G Minor, Op. 23"
   color: dreamy
-  link: https://sounds.mailta.pe/258/track3.mp3
+  link: https://df.mailta.pe/258/track3.mp3
 track4:
   title: Alexander Hawkins - [K]now
   color: trippy
-  link: https://sounds.mailta.pe/258/track4.mp3
+  link: https://df.mailta.pe/258/track4.mp3
 track5:
   title: Muhal Richard Abrams - Expression 1
   color: dreamy
-  link: https://sounds.mailta.pe/258/track5.mp3
+  link: https://df.mailta.pe/258/track5.mp3
 track6:
   title: Alarm Will Sound - Particularly Competitive
   color: vibrant
-  link: https://sounds.mailta.pe/258/track6.mp3
+  link: https://df.mailta.pe/258/track6.mp3
 track7:
   title: Stefan Christoff & David Parker - Beyond Injustice
   color: dreamy
-  link: https://sounds.mailta.pe/258/track7.mp3
+  link: https://df.mailta.pe/258/track7.mp3
 release: 258
 ---
 This morning, we are thrilled to welcome pianist, organist, composer and bandleader, [Alexander Hawkins](http://www.alexanderhawkinsmusic.com/index.html), who is ‘unlike anything else in modern creative music’ (Ni Kantu).

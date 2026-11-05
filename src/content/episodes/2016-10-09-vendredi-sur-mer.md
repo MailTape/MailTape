@@ -16,31 +16,31 @@ pubDate: 2016-10-09
 track1:
   title: Claude Violante - I Kill By Night
   color: rough
-  link: https://sounds.mailta.pe/229/track1.mp3
+  link: https://df.mailta.pe/229/track1.mp3
 track2:
   title: Octav - Man from the Stars
   color: vibrant
-  link: https://sounds.mailta.pe/229/track2.mp3
+  link: https://df.mailta.pe/229/track2.mp3
 track3:
   title: Bengale - Je Danse le Mia (Iam cover)
   color: vibrant
-  link: https://sounds.mailta.pe/229/track3.mp3
+  link: https://df.mailta.pe/229/track3.mp3
 track4:
   title: Vendredi Sur Mer - La Femme à la Peau Bleue
   color: dreamy
-  link: https://sounds.mailta.pe/229/track4.mp3
+  link: https://df.mailta.pe/229/track4.mp3
 track5:
   title: Puma Blue - Want Me
   color: dreamy
-  link: https://sounds.mailta.pe/229/track5.mp3
+  link: https://df.mailta.pe/229/track5.mp3
 track6:
   title: Drugdealer - Suddenly
   color: vibrant
-  link: https://sounds.mailta.pe/229/track6.mp3
+  link: https://df.mailta.pe/229/track6.mp3
 track7:
   title: Pépite - Eviter les Naufrages
   color: vibrant
-  link: https://sounds.mailta.pe/229/track7.mp3
+  link: https://df.mailta.pe/229/track7.mp3
 release: 229
 ---
 This morning, we're not far away from next week's shores. So, it's the perfect moment to chill, discover and adopt the seaside musical atmosphere of Vendredi Sur Mer. Where pop and psychedelism make a unexpected melt.  

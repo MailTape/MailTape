@@ -11,31 +11,31 @@ writer: ImaCrea
 track1:
   title: Marc Namblard - High moorlands – electric roaring with brief clashes
   color: trippy
-  link: https://sounds.mailta.pe/597/track1.mp3
+  link: https://df.mailta.pe/597/track1.mp3
 track2:
   title: Kali Malone - Spectacle of Ritual
   color: bliss
-  link: https://sounds.mailta.pe/597/track2.mp3
+  link: https://df.mailta.pe/597/track2.mp3
 track3:
   title: Staś Czekalski - Pogoda ducha
   color: trippy
-  link: https://sounds.mailta.pe/597/track3.mp3
+  link: https://df.mailta.pe/597/track3.mp3
 track4:
   title: Antoine Bellanger - Depuis les cimes
   color: trippy
-  link: https://sounds.mailta.pe/597/track4.mp3
+  link: https://df.mailta.pe/597/track4.mp3
 track5:
   title: Léonie Pernet - Acid Niger (Gael Rakotondrabe Rework)
   color: trippy
-  link: https://sounds.mailta.pe/597/track5.mp3
+  link: https://df.mailta.pe/597/track5.mp3
 track6:
   title: Alabaster DePlume - The Lucky Ones (feat. Danalogue)
   color: bliss
-  link: https://sounds.mailta.pe/597/track6.mp3
+  link: https://df.mailta.pe/597/track6.mp3
 track7:
   title: Sessa - Revolução Interior
   color: bliss
-  link: https://sounds.mailta.pe/597/track7.mp3
+  link: https://df.mailta.pe/597/track7.mp3
 description: This morning, we are excited and honored to welcome Antoine Bellanger as our guest. You may remember his unique sound from some of his tracks featured in episodes [\#588](https://www.mailta.pe/588/gab...
 image: /img/fbpic597.jpg
 musiColor: /img/musicolor597.png

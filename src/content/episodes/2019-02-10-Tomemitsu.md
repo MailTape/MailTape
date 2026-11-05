@@ -19,31 +19,31 @@ pubDate: 2019-02-10
 track1:
   title: Sam Cooke and The Soul Stirrers - Christ it All
   color: vibrant
-  link: https://sounds.mailta.pe/344/Track%201.mp3
+  link: https://df.mailta.pe/344/Track%201.mp3
 track2:
   title: Harald Grosskopf - Synthesist
   color: trippy
-  link: https://sounds.mailta.pe/344/track2.mp3
+  link: https://df.mailta.pe/344/track2.mp3
 track3:
   title: João Gilberto - Chega de Saudade
   color: bliss
-  link: https://sounds.mailta.pe/344/Track%203.mp3
+  link: https://df.mailta.pe/344/Track%203.mp3
 track4:
   title: "Tomemitsu - I Shatter "
   color: dreamy
-  link: https://sounds.mailta.pe/344/track4.mp3
+  link: https://df.mailta.pe/344/track4.mp3
 track5:
   title: Curtis Harding - Welcome to my world
   color: vibrant
-  link: https://sounds.mailta.pe/344/Track%205.mp3
+  link: https://df.mailta.pe/344/Track%205.mp3
 track6:
   title: Kokoroko - Abusey junction
   color: dreamy
-  link: https://sounds.mailta.pe/344/track6.mp3
+  link: https://df.mailta.pe/344/track6.mp3
 track7:
   title: Xenoula - Caramello
   color: trippy
-  link: https://sounds.mailta.pe/344/track7.mp3
+  link: https://df.mailta.pe/344/track7.mp3
 release: 344
 ---
 This morning, like a divine light coming from nowhere, caressing our bodies, music moves us, borders us with our fingertips and astonishes us. Differentiated by its infinity, by these genres and multiple styles, it transports the spirits to take them into parallel worlds, this is what [Tomemitsu](https://tomemitsu.bandcamp.com/) shares with us this Sunday morning through a high selection in musical color. 

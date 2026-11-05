@@ -14,31 +14,31 @@ pubDate: 2022-01-23
 track1:
   title: Chromatics - In The City
   color: dreamy
-  link: https://sounds.mailta.pe/478/track1.mp3
+  link: https://df.mailta.pe/478/track1.mp3
 track2:
   title: Nightfall In Camp - Cada Día
   color: dreamy
-  link: https://sounds.mailta.pe/478/track2.mp3
+  link: https://df.mailta.pe/478/track2.mp3
 track3:
   title: Ewan Jensen - Island Life
   color: vibrant
-  link: https://sounds.mailta.pe/478/track3.mp3
+  link: https://df.mailta.pe/478/track3.mp3
 track4:
   title: Temple Rat - Deep Inside (Ryogo Yamamori’s Drum Remix)
   color: trippy
-  link: https://sounds.mailta.pe/478/track4.mp3
+  link: https://df.mailta.pe/478/track4.mp3
 track5:
   title: Li Daiguo - All-Purpose Remedy for Indescribable Emotional Discomfort
   color: trippy
-  link: https://sounds.mailta.pe/478/track5.mp3
+  link: https://df.mailta.pe/478/track5.mp3
 track6:
   title: Laughing Ears - Blue Dusk
   color: dreamy
-  link: https://sounds.mailta.pe/478/track6.mp3
+  link: https://df.mailta.pe/478/track6.mp3
 track7:
   title: Kaishandao - To the East Coast
   color: bliss
-  link: https://sounds.mailta.pe/478/track7.mp3
+  link: https://df.mailta.pe/478/track7.mp3
 release: 478
 ---
  This morning, we wake up with some grooves with [Temple Rat](https://www.instagram.com/meiyuxinmay).

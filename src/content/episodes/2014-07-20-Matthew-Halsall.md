@@ -15,31 +15,31 @@ pubDate: 2014-07-20
 track1:
   title: Harpista - He Has a Name (Awareness)
   color: vibrant
-  link: https://sounds.mailta.pe/150/track1.mp3
+  link: https://df.mailta.pe/150/track1.mp3
 track2:
   title: The Cinematic Orchestra - Necrology
   color: dreamy
-  link: https://sounds.mailta.pe/150/track2.mp3
+  link: https://df.mailta.pe/150/track2.mp3
 track3:
   title: Phil France - The Swimmer
   color: dreamy
-  link: https://sounds.mailta.pe/150/track3.mp3
+  link: https://df.mailta.pe/150/track3.mp3
 track4:
   title: Matthew Halsall - Journey In Satchidananda
   color: dreamy
-  link: https://sounds.mailta.pe/150/track4.mp3
+  link: https://df.mailta.pe/150/track4.mp3
 track5:
   title: Philip Glass - Mad Rush
   color: trippy
-  link: https://sounds.mailta.pe/150/track5.mp3
+  link: https://df.mailta.pe/150/track5.mp3
 track6:
   title: Amon Tobin - Bedtime Stories (Austin Peralta Reinterpretation)
   color: dreamy
-  link: https://sounds.mailta.pe/150/track6.mp3
+  link: https://df.mailta.pe/150/track6.mp3
 track7:
   title: Roy Hargrove Quintet - Strasbourg Saint Denis (Live Performance)
   color: vibrant
-  link: https://sounds.mailta.pe/150/track7.mp3
+  link: https://df.mailta.pe/150/track7.mp3
 release: 150
 ---
 

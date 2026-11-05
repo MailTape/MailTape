@@ -18,31 +18,31 @@ pubDate: 2021-09-19
 track1:
   title: Giacinto Scelsi - Pranam II
   color: trippy
-  link: https://sounds.mailta.pe/462/track1.mp3
+  link: https://df.mailta.pe/462/track1.mp3
 track2:
   title: Scott Walker - Bolivia '95
   color: trippy
-  link: https://sounds.mailta.pe/462/track2.mp3
+  link: https://df.mailta.pe/462/track2.mp3
 track3:
   title: Fatou Seidi Ghali - Telilit
   color: vibrant
-  link: https://sounds.mailta.pe/462/track3.mp3
+  link: https://df.mailta.pe/462/track3.mp3
 track4:
   title: Mabe Fratti - Aire
   color: bliss
-  link: https://sounds.mailta.pe/462/track4.mp3
+  link: https://df.mailta.pe/462/track4.mp3
 track5:
   title: Wau Wau Collectif - Thiante
   color: vibrant
-  link: https://sounds.mailta.pe/462/track5.mp3
+  link: https://df.mailta.pe/462/track5.mp3
 track6:
   title: Mamman Sani - Samari Da Yan Matan
   color: trippy
-  link: https://sounds.mailta.pe/462/track6.mp3
+  link: https://df.mailta.pe/462/track6.mp3
 track7:
   title: Lucky Lo - Supercarry
   color: vibrant
-  link: https://sounds.mailta.pe/462/track7.mp3
+  link: https://df.mailta.pe/462/track7.mp3
 release: 462
 ---
 

@@ -11,31 +11,31 @@ writer: ImaCrea
 track1:
   title: Dorian Concept - Decaying Duet
   color: dreamy
-  link: https://sounds.mailta.pe/619/track1.mp3
+  link: https://df.mailta.pe/619/track1.mp3
 track2:
   title: Nathan Fake - Yucon
   color: dreamy
-  link: https://sounds.mailta.pe/619/track2.mp3
+  link: https://df.mailta.pe/619/track2.mp3
 track3:
   title: Batu - Meridian
   color: vibrant
-  link: https://sounds.mailta.pe/619/track3.mp3
+  link: https://df.mailta.pe/619/track3.mp3
 track4:
   title: FKA Twigs - Drum of Death
   color: vibrant
-  link: https://sounds.mailta.pe/619/track4.mp3
+  link: https://df.mailta.pe/619/track4.mp3
 track5:
   title: Blawan - Creature Brigade
   color: rough
-  link: https://sounds.mailta.pe/619/track5.mp3
+  link: https://df.mailta.pe/619/track5.mp3
 track6:
   title: DJ Koze - Die Gondel (feat. Sophia Kennedy)
   color: vibrant
-  link: https://sounds.mailta.pe/619/track6.mp3
+  link: https://df.mailta.pe/619/track6.mp3
 track7:
   title: Car Culture - It Feels Great
   color: bliss
-  link: https://sounds.mailta.pe/619/track7.mp3
+  link: https://df.mailta.pe/619/track7.mp3
 description: This morning, we're experimenting with a new series centered around the concept of swimming. Whether it's in the sea, a swimming pool, or a river... swimming engages the body in a unique way. As we mo...
 image: /img/fbpic619.jpg
 musiColor: /img/musicolor619.png

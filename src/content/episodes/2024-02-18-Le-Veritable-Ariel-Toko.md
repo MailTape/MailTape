@@ -17,31 +17,31 @@ pubDate: 2024-02-18
 track1:
   title: City Boys Band - Nye Asem Hwe
   color: bliss
-  link: https://sounds.mailta.pe/547/track1.mp3
+  link: https://df.mailta.pe/547/track1.mp3
 track2:
   title: Peter Herbolzheimer - Nerve Wrecker
   color: vibrant
-  link: https://sounds.mailta.pe/547/track2.mp3
+  link: https://df.mailta.pe/547/track2.mp3
 track3:
   title: Ebo Taylor - Love and Death
   color: bliss
-  link: https://sounds.mailta.pe/547/track3.mp3
+  link: https://df.mailta.pe/547/track3.mp3
 track4:
   title: Le Véritable Ariel Toko – Highwar
   color: trippy
-  link: https://sounds.mailta.pe/547/track4.mp3
+  link: https://df.mailta.pe/547/track4.mp3
 track5:
   title: Ekambi Brillant – Aboki
   color: vibrant
-  link: https://sounds.mailta.pe/547/track5.mp3
+  link: https://df.mailta.pe/547/track5.mp3
 track6:
   title: Conjunto Son San - A Pilha La Roz
   color: trippy
-  link: https://sounds.mailta.pe/547/track6.mp3
+  link: https://df.mailta.pe/547/track6.mp3
 track7:
   title: Black Masters Band - Wonnim A Bisa
   color: bliss
-  link: https://sounds.mailta.pe/547/track7.mp3
+  link: https://df.mailta.pe/547/track7.mp3
 release: 547
 ---
 

@@ -14,31 +14,31 @@ pubDate: 2023-10-01
 track1:
   title: Hysear Don Walker - Poo jo
   color: bliss
-  link: https://sounds.mailta.pe/536/track1.mp3
+  link: https://df.mailta.pe/536/track1.mp3
 track2:
   title: Los Blonder - On The Beach
   color: trippy
-  link: https://sounds.mailta.pe/536/track2.mp3
+  link: https://df.mailta.pe/536/track2.mp3
 track3:
   title: Yasuaki Shimizu - Kakashi
   color: bliss
-  link: https://sounds.mailta.pe/536/track3.mp3
+  link: https://df.mailta.pe/536/track3.mp3
 track4:
   title: Tommy Guerrero - Future Deserts
   color: trippy
-  link: https://sounds.mailta.pe/536/track4.mp3
+  link: https://df.mailta.pe/536/track4.mp3
 track5:
   title: Rockamovya – Take the night
   color: vibrant
-  link: https://sounds.mailta.pe/536/track5.mp3
+  link: https://df.mailta.pe/536/track5.mp3
 track6:
   title: Les Agamemnonz – Les conseils de la fée des lilas
   color: trippy
-  link: https://sounds.mailta.pe/536/track6.mp3
+  link: https://df.mailta.pe/536/track6.mp3
 track7:
   title: Boris Gardiner Happening – Breezin’
   color: dreamy
-  link: https://sounds.mailta.pe/536/track7.mp3
+  link: https://df.mailta.pe/536/track7.mp3
 release: 536
 ---
 

@@ -11,31 +11,31 @@ writer: Sarah
 track1:
   title: Sol Seppy - Slo Fuzz
   color: vibrant
-  link: https://sounds.mailta.pe/538/track1.mp3
+  link: https://df.mailta.pe/538/track1.mp3
 track2:
   title: David Bowie - Black Star
   color: rough
-  link: https://sounds.mailta.pe/538/track2.mp3
+  link: https://df.mailta.pe/538/track2.mp3
 track3:
   title: Laura Jean - A Funny Thing Happened
   color: bliss
-  link: https://sounds.mailta.pe/538/track3.mp3
+  link: https://df.mailta.pe/538/track3.mp3
 track4:
   title: Aleesha Dibbs - Comin For Me Now
   color: vibrant
-  link: https://sounds.mailta.pe/538/track4.mp3
+  link: https://df.mailta.pe/538/track4.mp3
 track5:
   title: Caitlin Harnett & The Pony Boys - Only Dreaming
   color: dreamy
-  link: https://sounds.mailta.pe/538/track5.mp3
+  link: https://df.mailta.pe/538/track5.mp3
 track6:
   title: Anastasia Rydlevskaya - Don't tell her your name
   color: bliss
-  link: https://sounds.mailta.pe/538/track6.mp3
+  link: https://df.mailta.pe/538/track6.mp3
 track7:
   title: Vanishing Twin - Afternoon X
   color: trippy
-  link: https://sounds.mailta.pe/538/track7.mp3
+  link: https://df.mailta.pe/538/track7.mp3
 description: This Sunday morning we welcome Aleesha Dibbs for MailTape's Episode 538. Based in Sydney, Aleesha Dibbs joins us after the release of her debut solo EP, [Paradise Lost](https://soundcloud.com/aleeshad...
 image: /img/fbpic538.png
 musiColor: /img/musicolor538.png

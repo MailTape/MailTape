@@ -16,31 +16,31 @@ pubDate: 2018-10-14
 track1:
   title: Matty - Every Moment I Live to Come
   color: bliss
-  link: https://sounds.mailta.pe/327/track1.mp3
+  link: https://df.mailta.pe/327/track1.mp3
 track2:
   title: Noah Wall - John Cage Laughing
   color: trippy
-  link: https://sounds.mailta.pe/327/track2.mp3
+  link: https://df.mailta.pe/327/track2.mp3
 track3:
   title: Macula Dog - I Make Lake
   color: trippy
-  link: https://sounds.mailta.pe/327/track3.mp3
+  link: https://df.mailta.pe/327/track3.mp3
 track4:
   title: Jerry Paper - Halfway Zen
   color: trippy
-  link: https://sounds.mailta.pe/327/track4.mp3
+  link: https://df.mailta.pe/327/track4.mp3
 track5:
   title: yungatita - Bedroom
   color: dreamy
-  link: https://sounds.mailta.pe/327/track5.mp3
+  link: https://df.mailta.pe/327/track5.mp3
 track6:
   title: Ross From Friends - John Cage
   color: bliss
-  link: https://sounds.mailta.pe/327/track6.mp3
+  link: https://df.mailta.pe/327/track6.mp3
 track7:
   title: Avventur - Lise
   color: trippy
-  link: https://sounds.mailta.pe/327/track7.mp3
+  link: https://df.mailta.pe/327/track7.mp3
 release: 327
 ---
 This morning, please welcome [Jerry Paper](https://jerrypaper.bandcamp.com/)'s eclectic selection. Jerry Paper is Lucas Nathan, an American artist from Los Angeles. Jerry Paper's music is multi-faceted: quirky, cartoonish, dystopian, out-of-this-world, melancholic, ironic. It's witty and stays graceful at all times. Jerry Paper released their latest album two days ago, [check it out](https://www.stonesthrow.com/store/album/jerrypaper/like-a-baby). 

@@ -17,31 +17,31 @@ alignY: ""
 track1:
   title: Faten Kanaan - Alcoyana-Capri
   color: dreamy
-  link: https://sounds.mailta.pe/611/track1.mp3
+  link: https://df.mailta.pe/611/track1.mp3
 track2:
   title: Cécile Seraud - Pen Er Malo
   color: dreamy
-  link: https://sounds.mailta.pe/611/track2.mp3
+  link: https://df.mailta.pe/611/track2.mp3
 track3:
   title: The Stranger - About To Enter A Strange New Period
   color: trippy
-  link: https://sounds.mailta.pe/611/track3.mp3
+  link: https://df.mailta.pe/611/track3.mp3
 track4:
   title: Eric Angelo Bessel - Double Helix
   color: vibrant
-  link: https://sounds.mailta.pe/611/track4.mp3
+  link: https://df.mailta.pe/611/track4.mp3
 track5:
   title: Kangding Ray - Nacht und Tag
   color: dreamy
-  link: https://sounds.mailta.pe/611/track5.mp3
+  link: https://df.mailta.pe/611/track5.mp3
 track6:
   title: Anastasia Kristensen - Magpie Song
   color: vibrant
-  link: https://sounds.mailta.pe/611/track6.mp3
+  link: https://df.mailta.pe/611/track6.mp3
 track7:
   title: Eric Angelo Bessel - Tendons
   color: bliss
-  link: https://sounds.mailta.pe/611/track7.mp3
+  link: https://df.mailta.pe/611/track7.mp3
 release: 611
 ---
 This Sunday we welcome [Eric Angelo Bessel](https://lorecity.bandcamp.com/) to MailTape for a meditative morning. Based in Portland, the composer joins us just after the release of his album, [Mirror at Night](https://lorecity.bandcamp.com/album/mirror-at-night) (as well as the most recent release of the album's [B-Sides](https://lorecity.bandcamp.com/album/mirror-at-night-b-sides) !). 

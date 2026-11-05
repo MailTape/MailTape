@@ -15,31 +15,31 @@ pubDate: 2016-12-11
 track1:
   title: Iron & wine - A Boy With A Coin
   color: vibrant
-  link: https://sounds.mailta.pe/238/track1.mp3
+  link: https://df.mailta.pe/238/track1.mp3
 track2:
   title: Tortoise & Bonnie 'Prince' Billy - Thunder Road
   color: bliss
-  link: https://sounds.mailta.pe/238/track2.mp3
+  link: https://df.mailta.pe/238/track2.mp3
 track3:
   title: Team Ghost - The Riser
   color: trippy
-  link: https://sounds.mailta.pe/238/track3.mp3
+  link: https://df.mailta.pe/238/track3.mp3
 track4:
   title: Mélanie Pain - Lèvres Rubis
   color: bliss
-  link: https://sounds.mailta.pe/238/track4.mp3
+  link: https://df.mailta.pe/238/track4.mp3
 track5:
   title: Gordi - 00000 Million
   color: dreamy
-  link: https://sounds.mailta.pe/238/track5.mp3
+  link: https://df.mailta.pe/238/track5.mp3
 track6:
   title: Christian Löffler - Nil
   color: dreamy
-  link: https://sounds.mailta.pe/238/track6.mp3
+  link: https://df.mailta.pe/238/track6.mp3
 track7:
   title: Tom Misch & FKJ - Losing My Way
   color: vibrant
-  link: https://sounds.mailta.pe/238/track7.mp3
+  link: https://df.mailta.pe/238/track7.mp3
 release: 238
 ---
 This morning, we will enjoy a tasty breakfast prepared with love by our guest Mélanie Pain. The more I listen to French music that comes out theses days, the more I'm proud of the artists we have. Mélanie Pain is one of them.

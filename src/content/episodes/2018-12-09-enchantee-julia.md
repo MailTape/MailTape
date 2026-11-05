@@ -16,31 +16,31 @@ pubDate: 2018-12-09
 track1:
   title: Triplego – Cali (feat Prince Waly)
   color: dreamy
-  link: https://sounds.mailta.pe/335/track1.mp3
+  link: https://df.mailta.pe/335/track1.mp3
 track2:
   title: Terrenoire – Le Silence
   color: vibrant
-  link: https://sounds.mailta.pe/335/track2.mp3
+  link: https://df.mailta.pe/335/track2.mp3
 track3:
   title: Saintard – Summertime
   color: bliss
-  link: https://sounds.mailta.pe/335/track3.mp3
+  link: https://df.mailta.pe/335/track3.mp3
 track4:
   title: Enchantée Julia – 45 tours (feat Prince Waly)
   color: trippy
-  link: https://sounds.mailta.pe/335/track4.mp3
+  link: https://df.mailta.pe/335/track4.mp3
 track5:
   title: Moussa - Cabrioli
   color: vibrant
-  link: https://sounds.mailta.pe/335/track5.mp3
+  link: https://df.mailta.pe/335/track5.mp3
 track6:
   title: IAMDDB - More
   color: trippy
-  link: https://sounds.mailta.pe/335/track6.mp3
+  link: https://df.mailta.pe/335/track6.mp3
 track7:
   title: LXTR – WWL (feat. CARME)
   color: dreamy
-  link: https://sounds.mailta.pe/335/track7.mp3
+  link: https://df.mailta.pe/335/track7.mp3
 release: 335
 ---
 

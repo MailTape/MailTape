@@ -18,31 +18,31 @@ musiColor: /img/musicolor578.png
 track1:
   title: Latin Playboys - Mustard
   color: dreamy
-  link: https://sounds.mailta.pe/578/track1.mp3
+  link: https://df.mailta.pe/578/track1.mp3
 track2:
   title: Catherine Ribeiro + Alpes - Âme debout
   color: vibrant
-  link: https://sounds.mailta.pe/578/track2.mp3
+  link: https://df.mailta.pe/578/track2.mp3
 track3:
   title: Baka Beyond / Baka Forest People - Venolouma
   color: trippy
-  link: https://sounds.mailta.pe/578/track3.mp3
+  link: https://df.mailta.pe/578/track3.mp3
 track4:
   title: Magic Tuber Stringband - Piney Woods Burn
   color: vibrant
-  link: https://sounds.mailta.pe/578/track4.mp3
+  link: https://df.mailta.pe/578/track4.mp3
 track5:
   title: Qwalia - Omega
   color: vibrant
-  link: https://sounds.mailta.pe/578/track5.mp3
+  link: https://df.mailta.pe/578/track5.mp3
 track6:
   title: Magic Tuber Stringband - Ghost Pipe
   color: dreamy
-  link: https://sounds.mailta.pe/578/track6.mp3
+  link: https://df.mailta.pe/578/track6.mp3
 track7:
   title: Weirs and Magic Tuber Stringband - Tunnel
   color: trippy
-  link: https://sounds.mailta.pe/578/track7.mp3
+  link: https://df.mailta.pe/578/track7.mp3
 release: 578
 ---
 We're back ! This morning, we're absolutely delighted to welcome [Magic Tuber Stringband ](https://magictuberstringband.bandcamp.com/album/needlefall)for MailTape's first episode of the spring. Based in Durham, the band weaves itself into the Appalachian folk traditions, re-enchanting these practices with unexpected noise and experimental textures. Magic Tuber Stringband members Evan Morgan, Mike DeVito, and Courtney Werner join us following the release of their latest album, [Needlefall](https://magictuberstringband.bandcamp.com/album/needlefall). 

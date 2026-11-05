@@ -17,31 +17,31 @@ pubDate: 2020-05-17
 track1:
   title: Vitesse - A Way To My Redemption
   color: bliss
-  link: https://sounds.mailta.pe/406/track1.mp3
+  link: https://df.mailta.pe/406/track1.mp3
 track2:
   title: Adrien Pallot - quatre sept
   color: dreamy
-  link: https://sounds.mailta.pe/406/track2.mp3
+  link: https://df.mailta.pe/406/track2.mp3
 track3:
   title: The Blood Brothers - Trash Flavored Trash
   color: rough
-  link: https://sounds.mailta.pe/406/track3.mp3
+  link: https://df.mailta.pe/406/track3.mp3
 track4:
   title: Iñigo Montoya - .E.S
   color: trippy
-  link: https://sounds.mailta.pe/406/track4.mp3
+  link: https://df.mailta.pe/406/track4.mp3
 track5:
   title: Petit Fantome - Je ne reviendrais pas
   color: vibrant
-  link: https://sounds.mailta.pe/406/track5.mp3
+  link: https://df.mailta.pe/406/track5.mp3
 track6:
   title: Jaune - La Lueur ( Ankierman Remix)
   color: trippy
-  link: https://sounds.mailta.pe/406/track6.mp3
+  link: https://df.mailta.pe/406/track6.mp3
 track7:
   title: "Ricky Hollywood - Le sens du sens "
   color: dreamy
-  link: https://sounds.mailta.pe/406/track7.mp3
+  link: https://df.mailta.pe/406/track7.mp3
 release: 406
 ---
 

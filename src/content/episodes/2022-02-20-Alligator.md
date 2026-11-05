@@ -19,31 +19,31 @@ pubDate: 2022-02-20
 track1:
   title: Cruisin' Gang - My Man
   color: vibrant
-  link: https://sounds.mailta.pe/482/track1.mp3
+  link: https://df.mailta.pe/482/track1.mp3
 track2:
   title: Sister Irene O'Connor - Mass 'Emmanuel'
   color: bliss
-  link: https://sounds.mailta.pe/482/track2.mp3
+  link: https://df.mailta.pe/482/track2.mp3
 track3:
   title: Cate Le Bon - Home to You
   color: dreamy
-  link: https://sounds.mailta.pe/482/track3.mp3
+  link: https://df.mailta.pe/482/track3.mp3
 track4:
   title: Alligator - Dance hall
   color: vibrant
-  link: https://sounds.mailta.pe/482/track4.mp3
+  link: https://df.mailta.pe/482/track4.mp3
 track5:
   title: Kadhja Bonet - For You (Many Selves Version)
   color: bliss
-  link: https://sounds.mailta.pe/482/track5.mp3
+  link: https://df.mailta.pe/482/track5.mp3
 track6:
   title: Jacques - Partout
   color: trippy
-  link: https://sounds.mailta.pe/482/track6.mp3
+  link: https://df.mailta.pe/482/track6.mp3
 track7:
   title: Ibibio Sound Machine - Electricity
   color: vibrant
-  link: https://sounds.mailta.pe/482/track7.mp3
+  link: https://df.mailta.pe/482/track7.mp3
 release: 482
 ---
 This morning, we stop reading the news and start dancing. Did you know the oldest proof of dancing comes from 9000 years old cave paintings that were found in India? Also, we're not the only one dancing on this planet, it's a behaviour we actually share with many other species. Music is a universal language, and in this episode co-curated with [Alligator](https://almost-discos.bandcamp.com/album/torrents), we're telling a story of joy, adventure, courage, beauty and hope.

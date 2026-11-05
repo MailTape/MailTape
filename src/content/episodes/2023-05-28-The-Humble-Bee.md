@@ -26,31 +26,31 @@ pubDate: 2023-05-28
 track1:
   title: Elisabeth Klinck - River
   color: bliss
-  link: https://sounds.mailta.pe/528/track1.mp3
+  link: https://df.mailta.pe/528/track1.mp3
 track2:
   title: ROMANCE - Golden Slumbers
   color: bliss
-  link: https://sounds.mailta.pe/528/track2.mp3
+  link: https://df.mailta.pe/528/track2.mp3
 track3:
   title: Clarice Jensen - BC
   color: bliss
-  link: https://sounds.mailta.pe/528/track3.mp3
+  link: https://df.mailta.pe/528/track3.mp3
 track4:
   title: The Humble Bee - Murmur
   color: bliss
-  link: https://sounds.mailta.pe/528/track4.mp3
+  link: https://df.mailta.pe/528/track4.mp3
 track5:
   title: Zonderwerk - Vuurfeest
   color: bliss
-  link: https://sounds.mailta.pe/528/track5.mp3
+  link: https://df.mailta.pe/528/track5.mp3
 track6:
   title: De Leon - A4
   color: bliss
-  link: https://sounds.mailta.pe/528/track6.mp3
+  link: https://df.mailta.pe/528/track6.mp3
 track7:
   title: Hania Rani - Mountains
   color: bliss
-  link: https://sounds.mailta.pe/528/track7.mp3
+  link: https://df.mailta.pe/528/track7.mp3
 release: 528
 ---
 

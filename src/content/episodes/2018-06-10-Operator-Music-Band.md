@@ -20,31 +20,31 @@ pubDate: 2018-06-10
 track1:
   title: Here We Go Magic - Over the Ocean
   color: dreamy
-  link: https://sounds.mailta.pe/316/track1.mp3
+  link: https://df.mailta.pe/316/track1.mp3
 track2:
   title: Washington Phillips - Lift Him Up That's All
   color: vibrant
-  link: https://sounds.mailta.pe/316/track2.mp3
+  link: https://df.mailta.pe/316/track2.mp3
 track3:
   title: Aye Aye - Wila Wila
   color: dreamy
-  link: https://sounds.mailta.pe/316/track3.mp3
+  link: https://df.mailta.pe/316/track3.mp3
 track4:
   title: Operator Music Band - Creative Tube Bending
   color: vibrant
-  link: https://sounds.mailta.pe/316/track4.mp3
+  link: https://df.mailta.pe/316/track4.mp3
 track5:
   title: Suzy Andrews - Teenage Iceage (Vermelho Edit)
   color: bliss
-  link: https://sounds.mailta.pe/316/track5.mp3
+  link: https://df.mailta.pe/316/track5.mp3
 track6:
   title: Eye - Le Croquis de la Femme
   color: bliss
-  link: https://sounds.mailta.pe/316/track6.mp3
+  link: https://df.mailta.pe/316/track6.mp3
 track7:
   title: Abner Jay - Saint James Infirmary Blues
   color: dreamy
-  link: https://sounds.mailta.pe/316/track7.mp3
+  link: https://df.mailta.pe/316/track7.mp3
 release: 316
 ---
 This morning, we are delighted to welcome [Operator Music Band](https://operatormusicband.bandcamp.com/), an art-pop quartet from New York.

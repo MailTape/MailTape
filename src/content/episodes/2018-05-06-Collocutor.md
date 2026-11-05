@@ -16,31 +16,31 @@ pubDate: 2018-05-06
 track1:
   title: "Khyam Allami – Tawazon I: Balance خيّام اللامي - توازن"
   color: bliss
-  link: https://sounds.mailta.pe/311/track1.mp3
+  link: https://df.mailta.pe/311/track1.mp3
 track2:
   title: Aditya Prakash Ensemble – Untruth to Truth
   color: dreamy
-  link: https://sounds.mailta.pe/311/track2.mp3
+  link: https://df.mailta.pe/311/track2.mp3
 track3:
   title: "Hermeto Pascoal & Grupo Vice Versa – Dança Do Paje "
   color: trippy
-  link: https://sounds.mailta.pe/311/track3.mp3
+  link: https://df.mailta.pe/311/track3.mp3
 track4:
   title: Collocutor – Archaic Morning
   color: vibrant
-  link: https://sounds.mailta.pe/311/track4.mp3
+  link: https://df.mailta.pe/311/track4.mp3
 track5:
   title: Maya Youssef – The Sea
   color: dreamy
-  link: https://sounds.mailta.pe/311/track5.mp3
+  link: https://df.mailta.pe/311/track5.mp3
 track6:
   title: Rishii Chowdhury & Roopa Panesar – Birdsong and Music Composition
   color: dreamy
-  link: https://sounds.mailta.pe/311/track6.mp3
+  link: https://df.mailta.pe/311/track6.mp3
 track7:
   title: Cecil Taylor Quartet – African Violets
   color: trippy
-  link: https://sounds.mailta.pe/311/track7.mp3
+  link: https://df.mailta.pe/311/track7.mp3
 release: 311
 ---
 This morning we welcome saxophonist and flautist, [Tamar Osborn](https://tamarosborn.com/), who leads the seven-piece horn-led collective, [Collocutor](https://collocutor.uk/), in the vanguard of London’s thriving music scene.

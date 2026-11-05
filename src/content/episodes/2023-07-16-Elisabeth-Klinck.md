@@ -17,31 +17,31 @@ pubDate: 2023-07-16
 track1:
   title: Henrique Oswald - Sonata em Mi Maior para Violino e Piano, Op. 36. III
   color: bliss
-  link: https://sounds.mailta.pe/532/track1.mp3
+  link: https://df.mailta.pe/532/track1.mp3
 track2:
   title: Matthew Hayes & Charlie Perry - Dissolve
   color: dreamy
-  link: https://sounds.mailta.pe/532/track2.mp3
+  link: https://df.mailta.pe/532/track2.mp3
 track3:
   title: Aki - Eri
   color: dreamy
-  link: https://sounds.mailta.pe/532/track3.mp3
+  link: https://df.mailta.pe/532/track3.mp3
 track4:
   title: Elisabeth Klinck - Betty's Nap
   color: dreamy
-  link: https://sounds.mailta.pe/532/track4.mp3
+  link: https://df.mailta.pe/532/track4.mp3
 track5:
   title: KMRU - options
   color: dreamy
-  link: https://sounds.mailta.pe/532/track5.mp3
+  link: https://df.mailta.pe/532/track5.mp3
 track6:
   title: Claire Rousay - Sigh In My Ear
   color: dreamy
-  link: https://sounds.mailta.pe/532/track6.mp3
+  link: https://df.mailta.pe/532/track6.mp3
 track7:
   title: Lucie Antunes - Elliott
   color: bliss
-  link: https://sounds.mailta.pe/532/track7.mp3
+  link: https://df.mailta.pe/532/track7.mp3
 release: 532
 ---
 

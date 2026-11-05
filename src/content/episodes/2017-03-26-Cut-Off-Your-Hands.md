@@ -17,31 +17,31 @@ pubDate: 2017-03-26
 track1:
   title: "LA Priest - Lorry Park "
   color: trippy
-  link: https://sounds.mailta.pe/253/track1.mp3
+  link: https://df.mailta.pe/253/track1.mp3
 track2:
   title: John Coltrane - Blue Train
   color: bliss
-  link: https://sounds.mailta.pe/253/track2.mp3
+  link: https://df.mailta.pe/253/track2.mp3
 track3:
   title: Flamingosis - Bright Moments (ft. The Kount)
   color: vibrant
-  link: https://sounds.mailta.pe/253/track3.mp3
+  link: https://df.mailta.pe/253/track3.mp3
 track4:
   title: Cut Off Your Hands - Higher Lows and Lower Highs
   color: vibrant
-  link: https://sounds.mailta.pe/253/track4.mp3
+  link: https://df.mailta.pe/253/track4.mp3
 track5:
   title: BABE - Scooping Pints
   color: bliss
-  link: https://sounds.mailta.pe/253/track5.mp3
+  link: https://df.mailta.pe/253/track5.mp3
 track6:
   title: Aquaserge - Tour du monde
   color: trippy
-  link: https://sounds.mailta.pe/253/track6.mp3
+  link: https://df.mailta.pe/253/track6.mp3
 track7:
   title: Caandides - Rio
   color: vibrant
-  link: https://sounds.mailta.pe/253/track7.mp3
+  link: https://df.mailta.pe/253/track7.mp3
 release: 253
 ---
 This morning, let's enjoy the comeback of sunnier days while listening to [Cut Off Your Hands](https://www.facebook.com/cutoffyourhands/ "Facebook")’ kaleidoscopic selection. Cut Off Your Hands' dreamy yet energetic tracks combine cheerful indie rock with post punk influences, always feeling very sincere. 

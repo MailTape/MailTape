@@ -15,31 +15,31 @@ pubDate: 2018-02-11
 track1:
   title: Solange - Rise
   color: bliss
-  link: https://sounds.mailta.pe/299/track1.mp3
+  link: https://df.mailta.pe/299/track1.mp3
 track2:
   title: Hugh - I Can't Figure Out
   color: trippy
-  link: https://sounds.mailta.pe/299/track2.mp3
+  link: https://df.mailta.pe/299/track2.mp3
 track3:
   title: Joyce - Aldeia de Ogum
   color: vibrant
-  link: https://sounds.mailta.pe/299/track3.mp3
+  link: https://df.mailta.pe/299/track3.mp3
 track4:
   title: Run Child Run - Can't Catch Me
   color: vibrant
-  link: https://sounds.mailta.pe/299/track4.mp3
+  link: https://df.mailta.pe/299/track4.mp3
 track5:
   title: " Sudan Archives - Come Meh Way"
   color: vibrant
-  link: https://sounds.mailta.pe/299/track5.mp3
+  link: https://df.mailta.pe/299/track5.mp3
 track6:
   title: Guillaume Teyssier - Les Princes Des Villes (Principles of Geometry remix)
   color: dreamy
-  link: https://sounds.mailta.pe/299/track6.mp3
+  link: https://df.mailta.pe/299/track6.mp3
 track7:
   title: "Sign Libra -  Intro / Tropical plantarum "
   color: bliss
-  link: https://sounds.mailta.pe/299/track7.mp3
+  link: https://df.mailta.pe/299/track7.mp3
 release: 299
 ---
 This morning, our guest [Run Child Run](https://runchildrun.bandcamp.com/album/vanishing-point) has blessed us with a distinctive selection of timeless tracks.

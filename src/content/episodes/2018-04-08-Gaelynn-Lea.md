@@ -16,31 +16,31 @@ pubDate: 2018-04-08
 track1:
   title: Jerree Small – 60 Words For Water
   color: bliss
-  link: https://sounds.mailta.pe/307/track1.mp3
+  link: https://df.mailta.pe/307/track1.mp3
 track2:
   title: The Decemberists – Angel, Won't You Call Me?
   color: trippy
-  link: https://sounds.mailta.pe/307/track2.mp3
+  link: https://df.mailta.pe/307/track2.mp3
 track3:
   title: Charlie Parr – Gospel Plow
   color: vibrant
-  link: https://sounds.mailta.pe/307/track3.mp3
+  link: https://df.mailta.pe/307/track3.mp3
 track4:
   title: Gaelynn Lea – Bound By A Thread
   color: dreamy
-  link: https://sounds.mailta.pe/307/track4.mp3
+  link: https://df.mailta.pe/307/track4.mp3
 track5:
   title: Diane Cluck – Sara
   color: dreamy
-  link: https://sounds.mailta.pe/307/track5.mp3
+  link: https://df.mailta.pe/307/track5.mp3
 track6:
   title: Buffy Sainte-Marie – Now That the Buffalo's Gone
   color: bliss
-  link: https://sounds.mailta.pe/307/track6.mp3
+  link: https://df.mailta.pe/307/track6.mp3
 track7:
   title: Trio Da Kali – Yirimadjo
   color: trippy
-  link: https://sounds.mailta.pe/307/track7.mp3
+  link: https://df.mailta.pe/307/track7.mp3
 release: 307
 ---
 This morning we are delighted to welcome Duluth-based violinist, [Gaelynn Lea](https://violinscratches.com/). She chooses an easy breezy Sunday morning playlist in collaboration with MailTape.

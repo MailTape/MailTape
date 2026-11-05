@@ -19,31 +19,31 @@ pubDate: 2020-04-26
 track1:
   title: Bugz In The Attic - Red Handed
   color: bliss
-  link: https://sounds.mailta.pe/403/track1.mp3
+  link: https://df.mailta.pe/403/track1.mp3
 track2:
   title: Ice - Reality
   color: bliss
-  link: https://sounds.mailta.pe/403/track2.mp3
+  link: https://df.mailta.pe/403/track2.mp3
 track3:
   title: Antonio Carlos Jobim - Brazil
   color: dreamy
-  link: https://sounds.mailta.pe/403/track3.mp3
+  link: https://df.mailta.pe/403/track3.mp3
 track4:
   title: Quiet Dawn - Being
   color: trippy
-  link: https://sounds.mailta.pe/403/track4.mp3
+  link: https://df.mailta.pe/403/track4.mp3
 track5:
   title: "Tigran Hamasyan - Vardavar "
   color: bliss
-  link: https://sounds.mailta.pe/403/track5.mp3
+  link: https://df.mailta.pe/403/track5.mp3
 track6:
   title: Swarvy - Spam Grease (Feat Kiefer Shackelford)
   color: dreamy
-  link: https://sounds.mailta.pe/403/track6.mp3
+  link: https://df.mailta.pe/403/track6.mp3
 track7:
   title: Hania Rani - Sun
   color: vibrant
-  link: https://sounds.mailta.pe/403/track7.mp3
+  link: https://df.mailta.pe/403/track7.mp3
 release: 403
 ---
  This morning, we’re away from the troubles. In our bed to wander around, or on our deckchair to be gilded in our garden for the lucky ones, our mind wanders elsewhere to find the inner peace we need. How can you think about tomorrow when it’s far away or blurry? Enjoying the present moment is the best resolution as well as listening to this Sunday’s selection made by the artist [Quiet Dawn](https://quietdawn.bandcamp.com/). 

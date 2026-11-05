@@ -15,31 +15,31 @@ musiColor: /img/musicolor605.png
 track1:
   title: Eddie Drennon & The B.B.S. Unlimited - Do what You gotta Do
   color: bliss
-  link: https://sounds.mailta.pe/605/track1.mp3
+  link: https://df.mailta.pe/605/track1.mp3
 track2:
   title: René Costy – Scrabble
   color: bliss
-  link: https://sounds.mailta.pe/605/track2.mp3
+  link: https://df.mailta.pe/605/track2.mp3
 track3:
   title: Zulema - Wanna be where you are
   color: vibrant
-  link: https://sounds.mailta.pe/605/track3.mp3
+  link: https://df.mailta.pe/605/track3.mp3
 track4:
   title: Dj Marrrtin - Summit Break
   color: vibrant
-  link: https://sounds.mailta.pe/605/track4.mp3
+  link: https://df.mailta.pe/605/track4.mp3
 track5:
   title: Alexander O'Neal - You Were Meant To Be My Lady (Buscrates 16-Bit Groove Mix)
   color: bliss
-  link: https://sounds.mailta.pe/605/track5.mp3
+  link: https://df.mailta.pe/605/track5.mp3
 track6:
   title: Spanky Wilson & the Quantic Soul Orchestra - Don't Joke With a Hungry Man
   color: vibrant
-  link: https://sounds.mailta.pe/605/track6.mp3
+  link: https://df.mailta.pe/605/track6.mp3
 track7:
   title: Sababa 5 & Yurika - Tokyo Midnight – 東京ミッドナイト
   color: trippy
-  link: https://sounds.mailta.pe/605/track7.mp3
+  link: https://df.mailta.pe/605/track7.mp3
 release: 605
 ---
 This morning we have the privilege of welcoming an artist whose work you've probably heard if you've attended a breakdance battle in the last fifteen years. The man is called DJ Marrrtin, but he can also be found hidden behind the suave and psychedelic beats of [Lord Paramour](https://stereophonk.bandcamp.com/album/doom-2), behind the high-energy house of [Aktshun](https://stereophonk.bandcamp.com/album/reloaded), in hip-hop boom-bap style with [Tino](https://stereophonk.bandcamp.com/album/la-pie-bavarde), and obviously within the legendary duo [Funky Bijou](https://stereophonk.bandcamp.com/album/five-2). 

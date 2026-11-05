@@ -15,31 +15,31 @@ pubDate: 2017-03-19
 track1:
   title: Ricky Hollywood - Prie Pour Moi
   color: trippy
-  link: https://sounds.mailta.pe/252/track1.mp3
+  link: https://df.mailta.pe/252/track1.mp3
 track2:
   title: Infinite Bisous - Teen Sex
   color: dreamy
-  link: https://sounds.mailta.pe/252/track2.mp3
+  link: https://df.mailta.pe/252/track2.mp3
 track3:
   title: Ojard - Les Machines Parlantes
   color: dreamy
-  link: https://sounds.mailta.pe/252/track3.mp3
+  link: https://df.mailta.pe/252/track3.mp3
 track4:
   title: Juliette Armanet - L'Amour En Solitaire
   color: bliss
-  link: https://sounds.mailta.pe/252/track4.mp3
+  link: https://df.mailta.pe/252/track4.mp3
 track5:
   title: Exit Someone - Fade To Black
   color: bliss
-  link: https://sounds.mailta.pe/252/track5.mp3
+  link: https://df.mailta.pe/252/track5.mp3
 track6:
   title: Surfing - Hit The Spot
   color: dreamy
-  link: https://sounds.mailta.pe/252/track6.mp3
+  link: https://df.mailta.pe/252/track6.mp3
 track7:
   title: Antenna - Love 66
   color: trippy
-  link: https://sounds.mailta.pe/252/track7.mp3
+  link: https://df.mailta.pe/252/track7.mp3
 release: 252
 ---
 This morning, our guest [Juliette Armanet](https://www.facebook.com/JulietteArmanet/) accompanies us on a journey of heart felt tempos and spiced sentiments. "Douceur", if there is one word any non -native French speaker needs to know, it truly is that one. Douceur is the DNA of Juliette Armanet’s voice, like an opium injection distributed at the entrance of a feathered festival hosted by a unicorn floating on a cloud.

@@ -15,31 +15,31 @@ pubDate: 2020-06-14
 track1:
   title: Rufus Wainwright - Cigarettes and Chocolate Milk
   color: dreamy
-  link: https://sounds.mailta.pe/410/track1.mp3
+  link: https://df.mailta.pe/410/track1.mp3
 track2:
   title: Elliott Smith - Angeles
   color: bliss
-  link: https://sounds.mailta.pe/410/track2.mp3
+  link: https://df.mailta.pe/410/track2.mp3
 track3:
   title: Georges Moustaki - Les Eaux de Mars
   color: dreamy
-  link: https://sounds.mailta.pe/410/track3.mp3
+  link: https://df.mailta.pe/410/track3.mp3
 track4:
   title: Klô Pelgag - Umami
   color: bliss
-  link: https://sounds.mailta.pe/410/track4.mp3
+  link: https://df.mailta.pe/410/track4.mp3
 track5:
   title: Aidan Knight - Sixteen Stares
   color: vibrant
-  link: https://sounds.mailta.pe/410/track5.mp3
+  link: https://df.mailta.pe/410/track5.mp3
 track6:
   title: Justice Der - Age of Consent
   color: dreamy
-  link: https://sounds.mailta.pe/410/track6.mp3
+  link: https://df.mailta.pe/410/track6.mp3
 track7:
   title: The Districts -  Velour and Velcro
   color: vibrant
-  link: https://sounds.mailta.pe/410/track7.mp3
+  link: https://df.mailta.pe/410/track7.mp3
 release: 410
 ---
 This morning we welcome [Klô Pelgag](https://www.klopelgag.com/) to select three Sunday morning songs.

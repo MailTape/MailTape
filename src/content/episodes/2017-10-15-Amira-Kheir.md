@@ -16,31 +16,31 @@ pubDate: 2017-10-15
 track1:
   title: Sarah Vaughan – All of Me
   color: vibrant
-  link: https://sounds.mailta.pe/282/track1.mp3
+  link: https://df.mailta.pe/282/track1.mp3
 track2:
   title: Ali Farka Touré & Ry Cooder – Gomni
   color: bliss
-  link: https://sounds.mailta.pe/282/track2.mp3
+  link: https://df.mailta.pe/282/track2.mp3
 track3:
   title: A Tribe Called Quest – We Can Get Down
   color: rough
-  link: https://sounds.mailta.pe/282/track3.mp3
+  link: https://df.mailta.pe/282/track3.mp3
 track4:
   title: Amira Kheir – Habibi Ta'al
   color: trippy
-  link: https://sounds.mailta.pe/282/track4.mp3
+  link: https://df.mailta.pe/282/track4.mp3
 track5:
   title: Arooj Aftab – Mohabbat (Live in Berlin)
   color: dreamy
-  link: https://sounds.mailta.pe/282/track5.mp3
+  link: https://df.mailta.pe/282/track5.mp3
 track6:
   title: Susheela Raman – Vinayaka
   color: bliss
-  link: https://sounds.mailta.pe/282/track6.mp3
+  link: https://df.mailta.pe/282/track6.mp3
 track7:
   title: Lhasa De Sela – Rising
   color: dreamy
-  link: https://sounds.mailta.pe/282/track7.mp3
+  link: https://df.mailta.pe/282/track7.mp3
 release: 282
 ---
 Described by Songlines magazine as ‘bold and poetic… beautiful and fearless', we are delighted to share vocalist [Amira Kheir's](http://amirakheir.com/) Sunday morning listening for MailTape.

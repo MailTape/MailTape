@@ -18,31 +18,31 @@ musiColor: /img/musicolor595.png
 track1:
   title: Saif Abu Bakr & The Scorpions - Nile Waves
   color: vibrant
-  link: https://sounds.mailta.pe/595/track1.mp3
+  link: https://df.mailta.pe/595/track1.mp3
 track2:
   title: Mulatu Astatke - Ené Alantchie Alnorem
   color: dreamy
-  link: https://sounds.mailta.pe/595/track2.mp3
+  link: https://df.mailta.pe/595/track2.mp3
 track3:
   title: Hailu Mergia & Dahlak Band - Migibima Moltual
   color: bliss
-  link: https://sounds.mailta.pe/595/track3.mp3
+  link: https://df.mailta.pe/595/track3.mp3
 track4:
   title: The Sorcerers – The Great Belt
   color: trippy
-  link: https://sounds.mailta.pe/595/track4.mp3
+  link: https://df.mailta.pe/595/track4.mp3
 track5:
   title: Sun Atlas – Wandering Around Haccika
   color: bliss
-  link: https://sounds.mailta.pe/595/track5.mp3
+  link: https://df.mailta.pe/595/track5.mp3
 track6:
   title: Lord Paramour – East Color
   color: trippy
-  link: https://sounds.mailta.pe/595/track6.mp3
+  link: https://df.mailta.pe/595/track6.mp3
 track7:
   title: Tasmin – The Bride Dance
   color: trippy
-  link: https://sounds.mailta.pe/595/track7.mp3
+  link: https://df.mailta.pe/595/track7.mp3
 release: 595
 ---
 This morning, MailTape offers you the soundtrack of a thrilling film that could take place somewhere in East Africa, like an Ethiopian Tarantino, with real contemplative shots, incredible action scenes, languid moments... An adventure in 7 chapters, a fabulous journey between gems of a futuristic past and resolutely modern sounds, which draw from varied influences!

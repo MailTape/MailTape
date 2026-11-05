@@ -17,31 +17,31 @@ pubDate: 2019-06-30
 track1:
   title: Chico Buarque - Olê, Olá
   color: dreamy
-  link: https://sounds.mailta.pe/364/track1.mp3
+  link: https://df.mailta.pe/364/track1.mp3
 track2:
   title: Gloria Ann Taylor - World That’s Not Real
   color: vibrant
-  link: https://sounds.mailta.pe/364/track2.mp3
+  link: https://df.mailta.pe/364/track2.mp3
 track3:
   title: Johnnie Frierson - Have You Been Good To Yourself
   color: rough
-  link: https://sounds.mailta.pe/364/track3.mp3
+  link: https://df.mailta.pe/364/track3.mp3
 track4:
   title: Bobby Oroza - This Love
   color: vibrant
-  link: https://sounds.mailta.pe/364/track4.mp3
+  link: https://df.mailta.pe/364/track4.mp3
 track5:
   title: Jonah Yano & BADBADNOTGOOD - Nervous
   color: dreamy
-  link: https://sounds.mailta.pe/364/track5.mp3
+  link: https://df.mailta.pe/364/track5.mp3
 track6:
   title: Nilüfer Yanya - Melt
   color: vibrant
-  link: https://sounds.mailta.pe/364/track6.mp3
+  link: https://df.mailta.pe/364/track6.mp3
 track7:
   title: Intellexual - Boca
   color: bliss
-  link: https://sounds.mailta.pe/364/track7.mp3
+  link: https://df.mailta.pe/364/track7.mp3
 release: 364
 ---
  This morning, whether on sunny beaches, palm groves or lush oases, or just enjoying a fine breakfast in your bed, allow yourself to be soothed by a strange and unique shade of Soul born in Finland but balancing international influences.

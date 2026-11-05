@@ -18,31 +18,31 @@ pubDate: 2022-10-23
 track1:
   title: Ryan Sambol - You're Still Lovable to Someone
   color: dreamy
-  link: https://sounds.mailta.pe/502/track1.mp3
+  link: https://df.mailta.pe/502/track1.mp3
 track2:
   title: Yves Tumor - Secrecy is Incredibly Important to Both of Them
   color: vibrant
-  link: https://sounds.mailta.pe/502/track2.mp3
+  link: https://df.mailta.pe/502/track2.mp3
 track3:
   title: MJ Lederman & Wednesday - Phish Pepsi (feat. Advance Base)
   color: vibrant
-  link: https://sounds.mailta.pe/502/track3.mp3
+  link: https://df.mailta.pe/502/track3.mp3
 track4:
   title: Baby Chuck - October, 500 B.C.
   color: dreamy
-  link: https://sounds.mailta.pe/502/track4.mp3
+  link: https://df.mailta.pe/502/track4.mp3
 track5:
   title: Nice Biscuit - Round and Round
   color: dreamy
-  link: https://sounds.mailta.pe/502/track5.mp3
+  link: https://df.mailta.pe/502/track5.mp3
 track6:
   title: Sofie Royer - Schweden Espresso
   color: vibrant
-  link: https://sounds.mailta.pe/502/track6.mp3
+  link: https://df.mailta.pe/502/track6.mp3
 track7:
   title: JayWood - Shine (feat Mckinley Dixon)
   color: vibrant
-  link: https://sounds.mailta.pe/502/track7.mp3
+  link: https://df.mailta.pe/502/track7.mp3
 release: 502
 ---
  This morning, we're delighted to welcome Baby Chuck to MailTape for an eclectic Sunday selection. Based in Los Angeles, Baby Chuck (Matt O'Keefe) joins us a month after releasing his most recent album, [Warm Infinity](https://babychuck.bandcamp.com/album/warm-infinity). The release explores and examines the essence of memories and the varied nostalgia that they bring.

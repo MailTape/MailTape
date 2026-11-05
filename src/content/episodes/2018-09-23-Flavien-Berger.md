@@ -20,31 +20,31 @@ pubDate: 2018-09-23
 track1:
   title: Catherine Deneuve - Digital Delay
   color: dreamy
-  link: https://sounds.mailta.pe/324/track1.mp3
+  link: https://df.mailta.pe/324/track1.mp3
 track2:
   title: Laraaji - All of a Sudden
   color: trippy
-  link: https://sounds.mailta.pe/324/track2.mp3
+  link: https://df.mailta.pe/324/track2.mp3
 track3:
   title: Yves Tumor - Limerence
   color: dreamy
-  link: https://sounds.mailta.pe/324/track3.mp3
+  link: https://df.mailta.pe/324/track3.mp3
 track4:
   title: Flavien Berger - 999999999
   color: trippy
-  link: https://sounds.mailta.pe/324/track4.mp3
+  link: https://df.mailta.pe/324/track4.mp3
 track5:
   title: Begayer - Le premier jour de l'année
   color: bliss
-  link: https://sounds.mailta.pe/324/track5.mp3
+  link: https://df.mailta.pe/324/track5.mp3
 track6:
   title: Arutani - The Mermaid Girl ft. ĂVEM
   color: dreamy
-  link: https://sounds.mailta.pe/324/track6.mp3
+  link: https://df.mailta.pe/324/track6.mp3
 track7:
   title: Tessela - Glisten
   color: rough
-  link: https://sounds.mailta.pe/324/track7.mp3
+  link: https://df.mailta.pe/324/track7.mp3
 release: 324
 ---
 This morning, we have the immense pleasure to invite [Flavien Berger](https://paneuropeanrecording.bandcamp.com/album/contre-temps-2). Following his work since a while, at the occasion of his new album he takes the time to share with us a somewhat of a nostalgic morning trip. 

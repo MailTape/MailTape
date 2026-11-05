@@ -25,31 +25,31 @@ pubDate: 2018-07-08
 track1:
   title: Beethoven - 6th Symphony (1st movement)
   color: vibrant
-  link: https://sounds.mailta.pe/320/track1.mp3
+  link: https://df.mailta.pe/320/track1.mp3
 track2:
   title: The Future Sound of London - Just a Fuckin Idiot
   color: dreamy
-  link: https://sounds.mailta.pe/320/track2.mp3
+  link: https://df.mailta.pe/320/track2.mp3
 track3:
   title: Neil Diamond - Cherry Cherry
   color: vibrant
-  link: https://sounds.mailta.pe/320/track3.mp3
+  link: https://df.mailta.pe/320/track3.mp3
 track4:
   title: Amen Dunes - Bedroom Drums
   color: bliss
-  link: https://sounds.mailta.pe/320/track4.mp3
+  link: https://df.mailta.pe/320/track4.mp3
 track5:
   title: Tonstartssbandht - 5FT7
   color: bliss
-  link: https://sounds.mailta.pe/320/track5.mp3
+  link: https://df.mailta.pe/320/track5.mp3
 track6:
   title: Sons of Kemet - My Queen Is Harriet Tubman
   color: bliss
-  link: https://sounds.mailta.pe/320/track6.mp3
+  link: https://df.mailta.pe/320/track6.mp3
 track7:
   title: Lee Hazlewood - Your Sweet Love
   color: vibrant
-  link: https://sounds.mailta.pe/320/track7.mp3
+  link: https://df.mailta.pe/320/track7.mp3
 release: 320
 ---
 For this last MailTape before our summer break, we welcome Damon McMahan, songwriter and New York-based founder of [Amen Dunes](https://amendunes.bandcamp.com/).

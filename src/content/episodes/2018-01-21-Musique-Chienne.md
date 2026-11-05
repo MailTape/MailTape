@@ -18,31 +18,31 @@ pubDate: 2018-01-21
 track1:
   title: Klaus Johann Grobe - Geschichten aus erster Hand
   color: vibrant
-  link: https://sounds.mailta.pe/296/track1.mp3
+  link: https://df.mailta.pe/296/track1.mp3
 track2:
   title: WORLD BRAIN - Made U Cry
   color: dreamy
-  link: https://sounds.mailta.pe/296/track2.mp3
+  link: https://df.mailta.pe/296/track2.mp3
 track3:
   title: Mammane Sani et son Orgue - Bodo (Anatolian Weapons Rework)
   color: trippy
-  link: https://sounds.mailta.pe/296/track3.mp3
+  link: https://df.mailta.pe/296/track3.mp3
 track4:
   title: Musique Chienne - Gâteau aux oiseaux
   color: trippy
-  link: https://sounds.mailta.pe/296/track4.mp3
+  link: https://df.mailta.pe/296/track4.mp3
 track5:
   title: Waterfall Person - I Wanna Go To The Dog Park See All My Friends
   color: dreamy
-  link: https://sounds.mailta.pe/296/track5.mp3
+  link: https://df.mailta.pe/296/track5.mp3
 track6:
   title: Tainsus - Can't make sense of it all, can you?
   color: bliss
-  link: https://sounds.mailta.pe/296/track6.mp3
+  link: https://df.mailta.pe/296/track6.mp3
 track7:
   title: OH MU - TOUT LE MONDE EST CONTENT ET VA À SA MAISON
   color: vibrant
-  link: https://sounds.mailta.pe/296/track7.mp3
+  link: https://df.mailta.pe/296/track7.mp3
 release: 296
 ---
 This morning, please welcome [Musique Chienne](https://www.facebook.com/musiquechienne/)'s sparkly selection! [Musique Chienne](https://www.facebook.com/musiquechienne/) is Sarah-Louise Barbett, a musician based in Marseille making "music for people and dog". In other words, she makes synth-based, percussive electronic, not-so-naive weird-but-good-weird music.

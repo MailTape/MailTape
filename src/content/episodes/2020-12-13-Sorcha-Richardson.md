@@ -16,31 +16,31 @@ pubDate: 2020-12-13
 track1:
   title: Pillow Queens - Liffey
   color: vibrant
-  link: https://sounds.mailta.pe/429/track1.mp3
+  link: https://df.mailta.pe/429/track1.mp3
 track2:
   title: Adrianne Lenker - Anything
   color: bliss
-  link: https://sounds.mailta.pe/429/track2.mp3
+  link: https://df.mailta.pe/429/track2.mp3
 track3:
   title: Q - Take Me Where Your Heart Is
   color: dreamy
-  link: https://sounds.mailta.pe/429/track3.mp3
+  link: https://df.mailta.pe/429/track3.mp3
 track4:
   title: Sorcha Richardson - Twisting The Knife
   color: bliss
-  link: https://sounds.mailta.pe/429/track4.mp3
+  link: https://df.mailta.pe/429/track4.mp3
 track5:
   title: Porridge Radio - 7 Seconds
   color: vibrant
-  link: https://sounds.mailta.pe/429/track5.mp3
+  link: https://df.mailta.pe/429/track5.mp3
 track6:
   title: Molly Parden - These Are The Times
   color: bliss
-  link: https://sounds.mailta.pe/429/track6.mp3
+  link: https://df.mailta.pe/429/track6.mp3
 track7:
   title: Michael Nau - Rides Through The Morning
   color: dreamy
-  link: https://sounds.mailta.pe/429/track7.mp3
+  link: https://df.mailta.pe/429/track7.mp3
 release: 429
 ---
  This morning, we wanted to give you plenty to daydream about. What else are Sundays for? [Sorcha Richardson](https://sorcharichardson.bandcamp.com/album/first-prize-bravery) joins us with a varied and thoughtful selection to steady you for any kind of week that may lay ahead.

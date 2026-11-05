@@ -14,31 +14,31 @@ pubDate: 2016-12-04
 track1:
   title: Stoop Kids - Velvet Slide
   color: bliss
-  link: https://sounds.mailta.pe/237/track1.mp3
+  link: https://df.mailta.pe/237/track1.mp3
 track2:
   title: iZem - Agua Viva
   color: vibrant
-  link: https://sounds.mailta.pe/237/track2.mp3
+  link: https://df.mailta.pe/237/track2.mp3
 track3:
   title: Peter Power - Sun Sun Damba
   color: dreamy
-  link: https://sounds.mailta.pe/237/track3.mp3
+  link: https://df.mailta.pe/237/track3.mp3
 track4:
   title: Gramophiles - Tamborito
   color: vibrant
-  link: https://sounds.mailta.pe/237/track4.mp3
+  link: https://df.mailta.pe/237/track4.mp3
 track5:
   title: Konono n°1 & Batida - Bom Dia
   color: rough
-  link: https://sounds.mailta.pe/237/track5.mp3
+  link: https://df.mailta.pe/237/track5.mp3
 track6:
   title: Alma Negra - Burkina Berlin
   color: trippy
-  link: https://sounds.mailta.pe/237/track6.mp3
+  link: https://df.mailta.pe/237/track6.mp3
 track7:
   title: Les Yeux Oranges - Coco
   color: dreamy
-  link: https://sounds.mailta.pe/237/track7.mp3
+  link: https://df.mailta.pe/237/track7.mp3
 release: 237
 ---
  This morning, we welcome you in the world of edits and universal music. In this parralel world, productor fell in love of old musics heritages, and decide to bring them back to life. As magicians or gods, they bring back to us their deep inspiration. We can only admire them, because without those gold diggers, our local musical scenes would be much more ethnocentric. In a way they contribute to restore our world heritage.

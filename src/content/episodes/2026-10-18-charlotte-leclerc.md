@@ -11,31 +11,31 @@ writer: ImaCrea
 track1:
   title: Ali Omar - Roll Up
   color: trippy
-  link: https://sounds.mailta.pe/617/track1.mp3
+  link: https://df.mailta.pe/617/track1.mp3
 track2:
   title: Subliminal Calm - Nobody ain't noone judge us
   color: trippy
-  link: https://sounds.mailta.pe/617/track2.mp3
+  link: https://df.mailta.pe/617/track2.mp3
 track3:
   title: Mathématiques Modernes - Jungle Hurt
   color: trippy
-  link: https://sounds.mailta.pe/617/track3.mp3
+  link: https://df.mailta.pe/617/track3.mp3
 track4:
   title: Charlotte Leclerc - La Chambre
   color: trippy
-  link: https://sounds.mailta.pe/617/track4.mp3
+  link: https://df.mailta.pe/617/track4.mp3
 track5:
   title: Spivak - Golden Boy
   color: trippy
-  link: https://sounds.mailta.pe/617/track5.mp3
+  link: https://df.mailta.pe/617/track5.mp3
 track6:
   title: Froid Dub - On The Nose
   color: trippy
-  link: https://sounds.mailta.pe/617/track6.mp3
+  link: https://df.mailta.pe/617/track6.mp3
 track7:
   title: Peach - Rainy Season
   color: trippy
-  link: https://sounds.mailta.pe/617/track7.mp3
+  link: https://df.mailta.pe/617/track7.mp3
 description: This morning, we're very excited to welcome [Charlotte Leclerc](https://delodiolabel.bandcamp.com/album/charlotte-leclerc-moir-del20) for a full-on trippy episode. I discovered her while browsing [Del...
 image: /img/fbpic617.png
 musiColor: /img/musicolor617.png

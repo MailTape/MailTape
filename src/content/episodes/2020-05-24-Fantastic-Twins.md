@@ -23,31 +23,31 @@ pubDate: 2020-05-24
 track1:
   title: Sun City Girls - Cruel And Thin
   color: vibrant
-  link: https://sounds.mailta.pe/407/track1.mp3
+  link: https://df.mailta.pe/407/track1.mp3
 track2:
   title: Johnnie Frierson - Have You Been Good To Yourself
   color: vibrant
-  link: https://sounds.mailta.pe/407/track2.mp3
+  link: https://df.mailta.pe/407/track2.mp3
 track3:
   title: Latif Kahn & Don Cherry - Sangam
   color: trippy
-  link: https://sounds.mailta.pe/407/track3.mp3
+  link: https://df.mailta.pe/407/track3.mp3
 track4:
   title: Fantastic Twins - The Myth Of Twinus
   color: bliss
-  link: https://sounds.mailta.pe/407/track4.mp3
+  link: https://df.mailta.pe/407/track4.mp3
 track5:
   title: upsammy - Extra Warm
   color: dreamy
-  link: https://sounds.mailta.pe/407/track5.mp3
+  link: https://df.mailta.pe/407/track5.mp3
 track6:
   title: Giraffi Dog - The Temple Of Magatao
   color: trippy
-  link: https://sounds.mailta.pe/407/track6.mp3
+  link: https://df.mailta.pe/407/track6.mp3
 track7:
   title: Perel - Die Dimension (Jayda G remix)
   color: bliss
-  link: https://sounds.mailta.pe/407/track7.mp3
+  link: https://df.mailta.pe/407/track7.mp3
 release: 407
 ---
  This morning, we're feeling fantastic. The days are getting longer, summer is almost here and life is gradually resuming. We discover resources, qualities and desires hitherto unsuspected that we now long to explore. It is with a new eye that we now wish to glimpse the future, the one of a sensitive, complex and caring alter-ego.

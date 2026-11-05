@@ -15,31 +15,31 @@ pubDate: 2016-02-21
 track1:
   title: OMA & Amberflame - Lazy Sun
   color: dreamy
-  link: https://sounds.mailta.pe/205/track1.mp3
+  link: https://df.mailta.pe/205/track1.mp3
 track2:
   title: Michael David - Ohana
   color: dreamy
-  link: https://sounds.mailta.pe/205/track2.mp3
+  link: https://df.mailta.pe/205/track2.mp3
 track3:
   title: Crackazat - Eye Light
   color: rough
-  link: https://sounds.mailta.pe/205/track3.mp3
+  link: https://df.mailta.pe/205/track3.mp3
 track4:
   title: Lindstrøm - Rà-àkõ-st
   color: trippy
-  link: https://sounds.mailta.pe/205/track4.mp3
+  link: https://df.mailta.pe/205/track4.mp3
 track5:
   title: B.G. Baarregaard - Filtered Summer
   color: vibrant
-  link: https://sounds.mailta.pe/205/track5.mp3
+  link: https://df.mailta.pe/205/track5.mp3
 track6:
   title: A Visitor From Another Meaning - I Rarely Talk To Strangers
   color: trippy
-  link: https://sounds.mailta.pe/205/track6.mp3
+  link: https://df.mailta.pe/205/track6.mp3
 track7:
   title: Social Lovers - Can't Let It Go
   color: vibrant
-  link: https://sounds.mailta.pe/205/track7.mp3
+  link: https://df.mailta.pe/205/track7.mp3
 release: 205
 ---
 

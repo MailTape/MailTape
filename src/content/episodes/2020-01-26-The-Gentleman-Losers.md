@@ -16,31 +16,31 @@ pubDate: 2020-01-26
 track1:
   title: Amanda Bergman – Questions
   color: dreamy
-  link: https://sounds.mailta.pe/390/track1.mp3
+  link: https://df.mailta.pe/390/track1.mp3
 track2:
   title: Discovery Zone – Fall Apart
   color: bliss
-  link: https://sounds.mailta.pe/390/track2.mp3
+  link: https://df.mailta.pe/390/track2.mp3
 track3:
   title: El Perro Del Mar – Change of Heart
   color: vibrant
-  link: https://sounds.mailta.pe/390/track3.mp3
+  link: https://df.mailta.pe/390/track3.mp3
 track4:
   title: The Gentleman Losers – Always Crashing on the Same Wave
   color: dreamy
-  link: https://sounds.mailta.pe/390/track4.mp3
+  link: https://df.mailta.pe/390/track4.mp3
 track5:
   title: Tunes of Negation – Tundra Erotic
   color: bliss
-  link: https://sounds.mailta.pe/390/track5.mp3
+  link: https://df.mailta.pe/390/track5.mp3
 track6:
   title: Yama Warashi – Quagmire Moon
   color: trippy
-  link: https://sounds.mailta.pe/390/track6.mp3
+  link: https://df.mailta.pe/390/track6.mp3
 track7:
   title: WaqWaq Kingdom – Koko Says
   color: dreamy
-  link: https://sounds.mailta.pe/390/track7.mp3
+  link: https://df.mailta.pe/390/track7.mp3
 release: 390
 ---
 This morning we are delighted to welcome brothers Samu and Ville Kuukka from Helsinki, who have been making music together as [The Gentleman Losers](https://www.gentlemanlosers.com/) since their early teens.

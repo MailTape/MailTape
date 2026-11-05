@@ -17,31 +17,31 @@ pubDate: 2019-09-22
 track1:
   title: Family Time - Magic Abyss Hotel
   color: dreamy
-  link: https://sounds.mailta.pe/372/Track%201.mp3
+  link: https://df.mailta.pe/372/Track%201.mp3
 track2:
   title: "Arthur - Woof Woof "
   color: trippy
-  link: https://sounds.mailta.pe/372/Track%202.mp3
+  link: https://df.mailta.pe/372/Track%202.mp3
 track3:
   title: Mac DeMarco - Freaking Out The Neighborhood  
   color: bliss
-  link: https://sounds.mailta.pe/372/Track3.mp3
+  link: https://df.mailta.pe/372/Track3.mp3
 track4:
   title: Lenny Pistol - Despise
   color: dreamy
-  link: https://sounds.mailta.pe/372/track4.mp3
+  link: https://df.mailta.pe/372/track4.mp3
 track5:
   title: Julia Shapiro - Natural
   color: bliss
-  link: https://sounds.mailta.pe/372/Track%205.mp3
+  link: https://df.mailta.pe/372/Track%205.mp3
 track6:
   title: daste. - Overload
   color: dreamy
-  link: https://sounds.mailta.pe/372/track6.mp3
+  link: https://df.mailta.pe/372/track6.mp3
 track7:
   title: Angelo De Augustine - I Could Be Wrong
   color: dreamy
-  link: https://sounds.mailta.pe/372/Track7.mp3
+  link: https://df.mailta.pe/372/Track7.mp3
 release: 372
 ---
 This morning, we are entering a lovely and floating retro Sunday vibe. Fondling in vitamin induced subtilties, this selection of tracks will pull you out of this morning’s hazy fog. [Lenny Pistol](https://www.facebook.com/LennyPistol/) will be your guide for this morning’s episode. 

@@ -20,31 +20,31 @@ pubDate: 2018-06-24
 track1:
   title: Galatée - Ne Sois Pas Triste
   color: dreamy
-  link: https://sounds.mailta.pe/318/track1.mp3
+  link: https://df.mailta.pe/318/track1.mp3
 track2:
   title: Lia Mice - Saint Malo
   color: dreamy
-  link: https://sounds.mailta.pe/318/track2.mp3
+  link: https://df.mailta.pe/318/track2.mp3
 track3:
   title: Orchidée Noire - Mordorée
   color: dreamy
-  link: https://sounds.mailta.pe/318/track3.mp3
+  link: https://df.mailta.pe/318/track3.mp3
 track4:
   title: Fragrance. - Through the Wall
   color: vibrant
-  link: https://sounds.mailta.pe/318/track4.mp3
+  link: https://df.mailta.pe/318/track4.mp3
 track5:
   title: Solid Space - Destination Moon
   color: bliss
-  link: https://sounds.mailta.pe/318/track5.mp3
+  link: https://df.mailta.pe/318/track5.mp3
 track6:
   title: Baron Rétif & Concepción Perez - Blanchiment
   color: bliss
-  link: https://sounds.mailta.pe/318/track6.mp3
+  link: https://df.mailta.pe/318/track6.mp3
 track7:
   title: Sputnik Beeping
   color: bliss
-  link: https://sounds.mailta.pe/318/track7.mp3
+  link: https://df.mailta.pe/318/track7.mp3
 release: 318
 ---
 This morning we welcome [Fragrance.](https://fragrancemusic.bandcamp.com/album/dust-disorders-ep), Matthieu Roche’s solo project for a MailTape between the coast of Saint-Malo and somewhere in the infinite space.

@@ -17,31 +17,31 @@ pubDate: 2022-12-18
 track1:
   title: Pearls Before Swine - Sail Away
   color: vibrant
-  link: https://sounds.mailta.pe/510/track1.mp3
+  link: https://df.mailta.pe/510/track1.mp3
 track2:
   title: Shana Cleveland - Invisible When the Sun Leaves
   color: dreamy
-  link: https://sounds.mailta.pe/510/track2.mp3
+  link: https://df.mailta.pe/510/track2.mp3
 track3:
   title: Sun Ra - Bye Bye
   color: trippy
-  link: https://sounds.mailta.pe/510/track3.mp3
+  link: https://df.mailta.pe/510/track3.mp3
 track4:
   title: Will Sprott - A Dog Will Love You When Nobody Else Will
   color: vibrant
-  link: https://sounds.mailta.pe/510/track4.mp3
+  link: https://df.mailta.pe/510/track4.mp3
 track5:
   title: Troll Dolly - Microcosms
   color: trippy
-  link: https://sounds.mailta.pe/510/track5.mp3
+  link: https://df.mailta.pe/510/track5.mp3
 track6:
   title: Shannon and the Clams - Vanishing
   color: vibrant
-  link: https://sounds.mailta.pe/510/track6.mp3
+  link: https://df.mailta.pe/510/track6.mp3
 track7:
   title: Lizette & Quentin - Grow Forever
   color: dreamy
-  link: https://sounds.mailta.pe/510/track7.mp3
+  link: https://df.mailta.pe/510/track7.mp3
 release: 510
 ---
  This Sunday, we welcome in the morning with Will Sprott. His dreamy selection brings in a lot of light with it, gifting us some surprising finds with winding melodies. Based in California, [Will Sprott](https://willsprott.bandcamp.com/)'s music stretches from folk to rock n roll to soul to space country. He is an active vocalist and keyboardist in the wonderful group [Shannon and the Clams](https://shannonandtheclams.bandcamp.com/album/year-of-the-spider). His most recent solo album was entitled [Ten Fingers](https://willsprott.bandcamp.com/album/ten-fingers), leaving us eager for what he releases next. 

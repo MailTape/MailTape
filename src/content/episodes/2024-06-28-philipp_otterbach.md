@@ -12,31 +12,31 @@ image: /img/fbpic559.jpg
 track1:
   title: Water Pistol Cowboys - I’m Sorry I Was Ignoring You
   color: vibrant
-  link: https://sounds.mailta.pe/559/track1.mp3
+  link: https://df.mailta.pe/559/track1.mp3
 track2:
   title: Motorpsycho - Trylleball (Sannan)
   color: dreamy
-  link: https://sounds.mailta.pe/559/track2.mp3
+  link: https://df.mailta.pe/559/track2.mp3
 track3:
   title: Mark Kramer - Ovulation Always Brings Me Down
   color: bliss
-  link: https://sounds.mailta.pe/559/track3.mp3
+  link: https://df.mailta.pe/559/track3.mp3
 track4:
   title: Philipp Otterbach - Small Town Nights
   color: vibrant
-  link: https://sounds.mailta.pe/559/track4.mp3
+  link: https://df.mailta.pe/559/track4.mp3
 track5:
   title: Tim Koh / Sun An - Incense Holder
   color: bliss
-  link: https://sounds.mailta.pe/559/track5.mp3
+  link: https://df.mailta.pe/559/track5.mp3
 track6:
   title: Whatever the Weather - 25°c
   color: dreamy
-  link: https://sounds.mailta.pe/559/track6.mp3
+  link: https://df.mailta.pe/559/track6.mp3
 track7:
   title: Duval Timothy - Mutate
   color: vibrant
-  link: https://sounds.mailta.pe/559/track7.mp3
+  link: https://df.mailta.pe/559/track7.mp3
 release: 559
 ---
 This morning we're delighted to welcome Krefeld-born, Berlin-based DJ and producer [Philipp Otterbach](https://www.instagram.com/philippotterbach/) to MailTape!

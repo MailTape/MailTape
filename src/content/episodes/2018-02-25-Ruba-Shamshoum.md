@@ -16,31 +16,31 @@ pubDate: 2018-02-25
 track1:
   title: Ella Fitzgerald – Blue Skies
   color: bliss
-  link: https://sounds.mailta.pe/301/track1.mp3
+  link: https://df.mailta.pe/301/track1.mp3
 track2:
   title: Esperanza Spalding – Little Fly
   color: dreamy
-  link: https://sounds.mailta.pe/301/track2.mp3
+  link: https://df.mailta.pe/301/track2.mp3
 track3:
   title: Fairouz – ايا زنبق يا غاوي
   color: bliss
-  link: https://sounds.mailta.pe/301/track3.mp3
+  link: https://df.mailta.pe/301/track3.mp3
 track4:
   title: Ruba Shamshoum –  في الاعماق  (In the Depth)
   color: dreamy
-  link: https://sounds.mailta.pe/301/track4.mp3
+  link: https://df.mailta.pe/301/track4.mp3
 track5:
   title: Cécile McLorin Salvant – Le Front Caché Sur Tes Genoux
   color: bliss
-  link: https://sounds.mailta.pe/301/track5.mp3
+  link: https://df.mailta.pe/301/track5.mp3
 track6:
   title: Jazzmeia Horn – So Easy to Love
   color: bliss
-  link: https://sounds.mailta.pe/301/track6.mp3
+  link: https://df.mailta.pe/301/track6.mp3
 track7:
   title: Zara McFarlane – Chiaroscuro
   color: trippy
-  link: https://sounds.mailta.pe/301/track7.mp3
+  link: https://df.mailta.pe/301/track7.mp3
 release: 301
 ---
 This morning we are delighted to welcome Dublin-based musician, [Ruba Shamshoum](http://ruba.land/), who collaborates with us to provide a beautifully laid-back Sunday morning playlist.

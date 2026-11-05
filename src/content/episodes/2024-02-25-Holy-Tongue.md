@@ -19,31 +19,31 @@ pubDate: 2024-02-25
 track1:
   title: Astrid Øster Mortensen - Solen Er Et Lille Hus
   color: trippy
-  link: https://sounds.mailta.pe/548/track1.mp3
+  link: https://df.mailta.pe/548/track1.mp3
 track2:
   title: Silvana Simone - Dimensione Ritmo
   color: dreamy
-  link: https://sounds.mailta.pe/548/track2.mp3
+  link: https://df.mailta.pe/548/track2.mp3
 track3:
   title: Vasilisk - Photongnoul
   color: bliss
-  link: https://sounds.mailta.pe/548/track3.mp3
+  link: https://df.mailta.pe/548/track3.mp3
 track4:
   title: Holy Tongue - Joachim
   color: trippy
-  link: https://sounds.mailta.pe/548/track4.mp3
+  link: https://df.mailta.pe/548/track4.mp3
 track5:
   title: Masanori Oishi - Tatatata Duo
   color: vibrant
-  link: https://sounds.mailta.pe/548/track5.mp3
+  link: https://df.mailta.pe/548/track5.mp3
 track6:
   title: Charmaine Lee - False Gravity
   color: trippy
-  link: https://sounds.mailta.pe/548/track6.mp3
+  link: https://df.mailta.pe/548/track6.mp3
 track7:
   title: Chafouin - En mode Glass
   color: bliss
-  link: https://sounds.mailta.pe/548/track7.mp3
+  link: https://df.mailta.pe/548/track7.mp3
 release: 548
 ---
 

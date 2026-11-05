@@ -16,31 +16,31 @@ pubDate: 2018-03-25
 track1:
   title: Rachel Grimes – The Air in Time
   color: bliss
-  link: https://sounds.mailta.pe/305/track1.mp3
+  link: https://df.mailta.pe/305/track1.mp3
 track2:
   title: David Lang by Bang on a Can – Cheating, Lying, Stealing
   color: dreamy
-  link: https://sounds.mailta.pe/305/track2.mp3
+  link: https://df.mailta.pe/305/track2.mp3
 track3:
   title: Fink – Looking Too Closely
   color: vibrant
-  link: https://sounds.mailta.pe/305/track3.mp3
+  link: https://df.mailta.pe/305/track3.mp3
 track4:
   title: Christine Ott – Szczecin
   color: bliss
-  link: https://sounds.mailta.pe/305/track4.mp3
+  link: https://df.mailta.pe/305/track4.mp3
 track5:
   title: Littleboat – ARC
   color: dreamy
-  link: https://sounds.mailta.pe/305/track5.mp3
+  link: https://df.mailta.pe/305/track5.mp3
 track6:
   title: Mary Lattimore – The Quiet At Night
   color: bliss
-  link: https://sounds.mailta.pe/305/track6.mp3
+  link: https://df.mailta.pe/305/track6.mp3
 track7:
   title: " Saltland – ICA"
   color: dreamy
-  link: https://sounds.mailta.pe/305/track7.mp3
+  link: https://df.mailta.pe/305/track7.mp3
 release: 305
 ---
 Based in Strasbourg and only one of a tiny handful of performers on the ondes Martenot, this Sunday morning we welcome [Christine Ott](http://www.christineott.fr/) to collaborate with us on MailTape.

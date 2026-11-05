@@ -21,31 +21,31 @@ pubDate: 2020-12-27
 track1:
   title: Harry Nilsson – Miss Butter's Lament
   color: vibrant
-  link: https://sounds.mailta.pe/431/track1.mp3
+  link: https://df.mailta.pe/431/track1.mp3
 track2:
   title: Molly Drake – I Remember
   color: dreamy
-  link: https://sounds.mailta.pe/431/track2.mp3
+  link: https://df.mailta.pe/431/track2.mp3
 track3:
   title: Maria Bethânia – Olhe o Tempo Passando
   color: bliss
-  link: https://sounds.mailta.pe/431/track3.mp3
+  link: https://df.mailta.pe/431/track3.mp3
 track4:
   title: Chico Bernardes - Em Meu Lugar
   color: dreamy
-  link: https://sounds.mailta.pe/431/track4.mp3
+  link: https://df.mailta.pe/431/track4.mp3
 track5:
   title: Elan Noon - Modern Blues
   color: bliss
-  link: https://sounds.mailta.pe/431/track5.mp3
+  link: https://df.mailta.pe/431/track5.mp3
 track6:
   title: Piry Reis - Chão Vermelho
   color: dreamy
-  link: https://sounds.mailta.pe/431/track6.mp3
+  link: https://df.mailta.pe/431/track6.mp3
 track7:
   title: Gábor Szabó - San Franciscan Nights
   color: vibrant
-  link: https://sounds.mailta.pe/431/track7.mp3
+  link: https://df.mailta.pe/431/track7.mp3
 release: 431
 ---
 The last Sunday morning of 2020 has arrived, and so does our last MailTape episode of this year. For our reflections and sighs that accompany leaving 2020 behind us, we take comfort in the music that has buoyed us through this strange time to be alive.

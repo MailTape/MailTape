@@ -16,31 +16,31 @@ pubDate: 2019-06-02
 track1:
   title: Ornette Coleman – The Blessing
   color: bliss
-  link: https://sounds.mailta.pe/360/track1.mp3
+  link: https://df.mailta.pe/360/track1.mp3
 track2:
   title: Duke Ellington & Mahalia Jackson – Come Sunday
   color: dreamy
-  link: https://sounds.mailta.pe/360/track2.mp3
+  link: https://df.mailta.pe/360/track2.mp3
 track3:
   title: Charlie Haden & Hank Jones – Take My Hand Precious Lord
   color: bliss
-  link: https://sounds.mailta.pe/360/track3.mp3
+  link: https://df.mailta.pe/360/track3.mp3
 track4:
   title: James Brandon Lewis – The Preacher's Baptist Beat
   color: dreamy
-  link: https://sounds.mailta.pe/360/track4.mp3
+  link: https://df.mailta.pe/360/track4.mp3
 track5:
   title: Wadada Leo Smith – Najwa
   color: bliss
-  link: https://sounds.mailta.pe/360/track5.mp3
+  link: https://df.mailta.pe/360/track5.mp3
 track6:
   title: Susana Santos Silva – No Trees Land
   color: dreamy
-  link: https://sounds.mailta.pe/360/track6.mp3
+  link: https://df.mailta.pe/360/track6.mp3
 track7:
   title: Casimir Liberski, Tyshawn Sorey & Thomas Morgan – Evanescence I
   color: dreamy
-  link: https://sounds.mailta.pe/360/track7.mp3
+  link: https://df.mailta.pe/360/track7.mp3
 release: 360
 ---
  This morning we are pleased to welcome saxophonist and composer, [James Brandon Lewis](http://www.jblewis.com), to select three church-inspired Sunday morning tunes with us.

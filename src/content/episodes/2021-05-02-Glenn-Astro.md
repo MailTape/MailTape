@@ -17,31 +17,31 @@ pubDate: 2021-05-02
 track1:
   title: Amaarae - SAD GIRLZ LUV MONEY (feat. Moliy)
   color: vibrant
-  link: https://sounds.mailta.pe/449/track1.mp3
+  link: https://df.mailta.pe/449/track1.mp3
 track2:
   title: Ross - Swallow your dreams
   color: bliss
-  link: https://sounds.mailta.pe/449/track2.mp3
+  link: https://df.mailta.pe/449/track2.mp3
 track3:
   title: Erika de Casier - The Flow
   color: dreamy
-  link: https://sounds.mailta.pe/449/track3.mp3
+  link: https://df.mailta.pe/449/track3.mp3
 track4:
   title: Glenn Astro - MoStLy GhOsTlY
   color: trippy
-  link: https://sounds.mailta.pe/449/track4.mp3
+  link: https://df.mailta.pe/449/track4.mp3
 track5:
   title: Luke Vibert - Batter Bits
   color: trippy
-  link: https://sounds.mailta.pe/449/track5.mp3
+  link: https://df.mailta.pe/449/track5.mp3
 track6:
   title: Kelly Lee Owens - My Own
   color: dreamy
-  link: https://sounds.mailta.pe/449/track6.mp3
+  link: https://df.mailta.pe/449/track6.mp3
 track7:
   title: Khalab & M'berra Ensemble - Skit Guit
   color: bliss
-  link: https://sounds.mailta.pe/449/track7.mp3
+  link: https://df.mailta.pe/449/track7.mp3
 release: 449
 ---
 

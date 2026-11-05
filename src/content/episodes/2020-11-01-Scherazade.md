@@ -18,31 +18,31 @@ pubDate: 2020-11-01
 track1:
   title: Nick Hakim - Let It Out
   color: dreamy
-  link: https://sounds.mailta.pe/423/track1.mp3
+  link: https://df.mailta.pe/423/track1.mp3
 track2:
   title: La Priest - What Moves
   color: bliss
-  link: https://sounds.mailta.pe/423/track2.mp3
+  link: https://df.mailta.pe/423/track2.mp3
 track3:
   title: "Flash and The Pan - Waiting For A Train "
   color: trippy
-  link: https://sounds.mailta.pe/423/track3.mp3
+  link: https://df.mailta.pe/423/track3.mp3
 track4:
   title: "Schérazade - Philanthrope "
   color: vibrant
-  link: https://sounds.mailta.pe/423/track4.mp3
+  link: https://df.mailta.pe/423/track4.mp3
 track5:
   title: Genevieve Artadi - Hot Mess
   color: dreamy
-  link: https://sounds.mailta.pe/423/track5.mp3
+  link: https://df.mailta.pe/423/track5.mp3
 track6:
   title: The Marias - I Don't Know You
   color: bliss
-  link: https://sounds.mailta.pe/423/track6.mp3
+  link: https://df.mailta.pe/423/track6.mp3
 track7:
   title: Space Captain - Secret Garden
   color: vibrant
-  link: https://sounds.mailta.pe/423/track7.mp3
+  link: https://df.mailta.pe/423/track7.mp3
 release: 423
 ---
 

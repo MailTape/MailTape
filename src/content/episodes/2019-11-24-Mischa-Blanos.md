@@ -16,31 +16,31 @@ pubDate: 2019-11-24
 track1:
   title: Toshio Matsuura Group - Change
   color: vibrant
-  link: https://sounds.mailta.pe/381/track1.mp3
+  link: https://df.mailta.pe/381/track1.mp3
 track2:
   title: Dictaphone - 105.4
   color: dreamy
-  link: https://sounds.mailta.pe/381/track2.mp3
+  link: https://df.mailta.pe/381/track2.mp3
 track3:
   title: Mehliana (Brad Mehldau & Mark Guiliana) - Just Call Me Nige (Live)
   color: bliss
-  link: https://sounds.mailta.pe/381/track3.mp3
+  link: https://df.mailta.pe/381/track3.mp3
 track4:
   title: Mischa Blanos - Two Sugar Cubes
   color: dreamy
-  link: https://sounds.mailta.pe/381/track4.mp3
+  link: https://df.mailta.pe/381/track4.mp3
 track5:
   title: Floating Points - Falaise
   color: bliss
-  link: https://sounds.mailta.pe/381/track5.mp3
+  link: https://df.mailta.pe/381/track5.mp3
 track6:
   title: Fennesz - We Trigger the Sun
   color: dreamy
-  link: https://sounds.mailta.pe/381/track6.mp3
+  link: https://df.mailta.pe/381/track6.mp3
 track7:
   title: Philip Glass - Vessels
   color: bliss
-  link: https://sounds.mailta.pe/381/track7.mp3
+  link: https://df.mailta.pe/381/track7.mp3
 release: 381
 ---
 This morning there's no rush to decide which side of consciousness you're on. Pianist, composer and producer [Mischa Blanos](https://mischablanos.com/) is here to be your weightless anchor between states and realities.

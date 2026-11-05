@@ -16,31 +16,31 @@ pubDate: 2021-03-14
 track1:
   title: Tom Zé - Toc
   color: vibrant
-  link: https://sounds.mailta.pe/442/track1.mp3
+  link: https://df.mailta.pe/442/track1.mp3
 track2:
   title: Peter Evans - Chorales
   color: trippy
-  link: https://sounds.mailta.pe/442/track2.mp3
+  link: https://df.mailta.pe/442/track2.mp3
 track3:
   title: Jameszoo - Flake
   color: trippy
-  link: https://sounds.mailta.pe/442/track3.mp3
+  link: https://df.mailta.pe/442/track3.mp3
 track4:
   title: Thijsenterprise - El Arriero
   color: vibrant
-  link: https://sounds.mailta.pe/442/track4.mp3
+  link: https://df.mailta.pe/442/track4.mp3
 track5:
   title: Rahsaan Roland Kirk - Ain't No Sunshine
   color: trippy
-  link: https://sounds.mailta.pe/442/track5.mp3
+  link: https://df.mailta.pe/442/track5.mp3
 track6:
   title: Triorität - Bonopo
   color: trippy
-  link: https://sounds.mailta.pe/442/track6.mp3
+  link: https://df.mailta.pe/442/track6.mp3
 track7:
   title: Gábor Szabó - Fire Dance
   color: vibrant
-  link: https://sounds.mailta.pe/442/track7.mp3
+  link: https://df.mailta.pe/442/track7.mp3
 release: 442
 ---
 

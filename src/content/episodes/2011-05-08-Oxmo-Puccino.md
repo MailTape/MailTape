@@ -17,31 +17,31 @@ musiColor: /img/musicolor2.png
 track1:
   title: Seu Jorge - Zé do Caroço (live)
   color: bliss
-  link: https://sounds.mailta.pe/2/track1.mp3
+  link: https://df.mailta.pe/2/track1.mp3
 track2:
   title: Billy Joel - New York State of Mind
   color: dreamy
-  link: https://sounds.mailta.pe/2/track2.mp3
+  link: https://df.mailta.pe/2/track2.mp3
 track3:
   title: G. Dep - Everyday
   color: vibrant
-  link: https://sounds.mailta.pe/2/track3.mp3
+  link: https://df.mailta.pe/2/track3.mp3
 track4:
   title: J-Rocc - Chasing the Sun
   color: trippy
-  link: https://sounds.mailta.pe/2/track4.mp3
+  link: https://df.mailta.pe/2/track4.mp3
 track5:
   title: Lover Lover - Freebirds
   color: vibrant
-  link: https://sounds.mailta.pe/2/track5.mp3
+  link: https://df.mailta.pe/2/track5.mp3
 track6:
   title: David Lynch - Good Day Today
   color: trippy
-  link: https://sounds.mailta.pe/2/track6.mp3
+  link: https://df.mailta.pe/2/track6.mp3
 track7:
   title: Blacklips - Modern Art
   color: vibrant
-  link: https://sounds.mailta.pe/2/track7.mp3
+  link: https://df.mailta.pe/2/track7.mp3
 release: 2
 ---
 This morning, [Oxmo](https://www.facebook.com/OxmoPuccinoOfficiel/) offers us a round-trip ticket to Brazil, where we’ll get to attend a concert of the magnificent Seu Jorge. Incredible! It’s the sound of an elevator awaiting to propel us to the top of a New York sky scrapper, listening to jazz with Billy Joel. After this beautiful concert, light headed, wandering in the streets, the sound emerging from the ghetto blaster of a dark street catches our attention: Welcome to Harlem with G-Dep.

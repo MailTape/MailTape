@@ -20,31 +20,31 @@ description: This morning, let's go for a walk outside. We're joined by Mike
 track1:
   title: Sam Gendel - Sustain
   color: dreamy
-  link: https://sounds.mailta.pe/453/track1.mp3
+  link: https://df.mailta.pe/453/track1.mp3
 track2:
   title: Huerco S - A Sea of Love
   color: dreamy
-  link: https://sounds.mailta.pe/453/track2.mp3
+  link: https://df.mailta.pe/453/track2.mp3
 track3:
   title: Luke Slott - The Keeper of Secrets
   color: bliss
-  link: https://sounds.mailta.pe/missingTrack.mp3
+  link: https://df.mailta.pe/missingTrack.mp3
 track4:
   title: Mike Slott - Keep Me Here
   color: dreamy
-  link: https://sounds.mailta.pe/missingTrack.mp3
+  link: https://df.mailta.pe/missingTrack.mp3
 track5:
   title: LEYA - Wave
   color: bliss
-  link: https://sounds.mailta.pe/453/track5.mp3
+  link: https://df.mailta.pe/453/track5.mp3
 track6:
   title: Leon Vynehall - Ecce! Ego!
   color: trippy
-  link: https://sounds.mailta.pe/453/track6.mp3
+  link: https://df.mailta.pe/453/track6.mp3
 track7:
   title: PDP III - Calendar of Days
   color: dreamy
-  link: https://sounds.mailta.pe/453/track7.mp3
+  link: https://df.mailta.pe/453/track7.mp3
 release: 453
 ---
 <p id="introduction">This morning, let's go for a walk outside. We're joined by [Mike Slott](https://mikeslott.bandcamp.com) who made us an honor to accept our invitation. 

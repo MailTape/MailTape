@@ -18,31 +18,31 @@ pubDate: 2016-06-26
 track1:
   title: Belmer - Bioroid
   color: rough
-  link: https://sounds.mailta.pe/223/track1.mp3
+  link: https://df.mailta.pe/223/track1.mp3
 track2:
   title: Seymour Bits - Seymour Cray
   color: rough
-  link: https://sounds.mailta.pe/223/track2.mp3
+  link: https://df.mailta.pe/223/track2.mp3
 track3:
   title: Donnie - Wubbo Ockels
   color: trippy
-  link: https://sounds.mailta.pe/223/track3.mp3
+  link: https://df.mailta.pe/223/track3.mp3
 track4:
   title: Fatima Yamaha - Half Moon Rising
   color: bliss
-  link: https://sounds.mailta.pe/223/track4.mp3
+  link: https://df.mailta.pe/223/track4.mp3
 track5:
   title: Carter Black - Ride Slow
   color: dreamy
-  link: https://sounds.mailta.pe/223/track5.mp3
+  link: https://df.mailta.pe/223/track5.mp3
 track6:
   title: Laker Inspired - Forever
   color: dreamy
-  link: https://sounds.mailta.pe/223/track6.mp3
+  link: https://df.mailta.pe/223/track6.mp3
 track7:
   title: Jacques - Tout Est Magnifique
   color: rough
-  link: https://sounds.mailta.pe/223/track7.mp3
+  link: https://df.mailta.pe/223/track7.mp3
 release: 223
 ---
 This morning is sunnier than ever. Nights are getting shorter and parties longer. As he did on the latest WeLoveGreen festival, [Fatima Yamaha](https://www.facebook.com/FatimaYamaha/) brings rays of sun with his energetic and trippy selection. Enjoy a lazy sunbath on the poolside with our complementary chill selection. Yes darling, it is for real: Summer is here.

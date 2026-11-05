@@ -16,31 +16,31 @@ musiColor: /img/musicolor562.png
 track1:
   title: Sessa - Gostar do Mundo
   color: dreamy
-  link: https://sounds.mailta.pe/562/track1.mp3
+  link: https://df.mailta.pe/562/track1.mp3
 track2:
   title: Ana Frango Elétrico - Insista em mim
   color: vibrant
-  link: https://sounds.mailta.pe/562/track2.mp3
+  link: https://df.mailta.pe/562/track2.mp3
 track3:
   title: Clube Da esquina - Um Giassol da Cor de Seu Cabelo
   color: bliss
-  link: https://sounds.mailta.pe/562/track3.mp3
+  link: https://df.mailta.pe/562/track3.mp3
 track4:
   title: Tiago Caetano - Constelação
   color: bliss
-  link: https://sounds.mailta.pe/562/track4.mp3
+  link: https://df.mailta.pe/562/track4.mp3
 track5:
   title: Sara Não Tem Nome - Incomoda
   color: vibrant
-  link: https://sounds.mailta.pe/562/track5.mp3
+  link: https://df.mailta.pe/562/track5.mp3
 track6:
   title: Maria Takeuchi - Plastic Love
   color: vibrant
-  link: https://sounds.mailta.pe/562/track6.mp3
+  link: https://df.mailta.pe/562/track6.mp3
 track7:
   title: Badsista - Sem Der Tchau
   color: dreamy
-  link: https://sounds.mailta.pe/562/track7.mp3
+  link: https://df.mailta.pe/562/track7.mp3
 release: 562
 ---
 This morning, we’ve crafted a soothing episode featuring our guest Tiago Caetano. It’s the ideal soundtrack for cozying up under the covers or savoring a delightful brunch with friends. With Brazilian influences, pop elements, and a sense of lightness, it’s sure to uplift your spirits!

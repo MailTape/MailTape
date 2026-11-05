@@ -17,31 +17,31 @@ pubDate: 2014-11-02
 track1:
   title: iamamiwhoami - Thin
   color: bliss
-  link: https://sounds.mailta.pe/158/track1.mp3
+  link: https://df.mailta.pe/158/track1.mp3
 track2:
   title: Andy Stott - Violence
   color: bliss
-  link: https://sounds.mailta.pe/158/track2.mp3
+  link: https://df.mailta.pe/158/track2.mp3
 track3:
   title: Buke and Gase - Seam Esteem
   color: vibrant
-  link: https://sounds.mailta.pe/158/track3.mp3
+  link: https://df.mailta.pe/158/track3.mp3
 track4:
   title: Douglas Dare - Caroline
   color: bliss
-  link: https://sounds.mailta.pe/158/track4.mp3
+  link: https://df.mailta.pe/158/track4.mp3
 track5:
   title: Joy! - Utopia
   color: vibrant
-  link: https://sounds.mailta.pe/missingTrack.mp3
+  link: https://df.mailta.pe/missingTrack.mp3
 track6:
   title: Hans Berg - Tucan Fever
   color: rough
-  link: https://sounds.mailta.pe/158/track6.mp3
+  link: https://df.mailta.pe/158/track6.mp3
 track7:
   title: Audion Feat Troels Abrahamsen - Dem Howl
   color: rough
-  link: https://sounds.mailta.pe/158/track7.mp3
+  link: https://df.mailta.pe/158/track7.mp3
 release: 158
 ---
 

@@ -29,31 +29,31 @@ musiColor: /img/musicolor567.png
 track1:
   title: Dexter Gordon - Ca'Purange
   color: vibrant
-  link: https://sounds.mailta.pe/567/track1.mp3
+  link: https://df.mailta.pe/567/track1.mp3
 track2:
   title: Cannonball Adderley - 74 Miles Away
   color: rough
-  link: https://sounds.mailta.pe/567/track2.mp3
+  link: https://df.mailta.pe/567/track2.mp3
 track3:
   title: Wayne Shorter - Wind
   color: trippy
-  link: https://sounds.mailta.pe/567/track3.mp3
+  link: https://df.mailta.pe/567/track3.mp3
 track4:
   title: Muriel Grossman - Unison Unveiled
   color: bliss
-  link: https://sounds.mailta.pe/567/track4.mp3
+  link: https://df.mailta.pe/567/track4.mp3
 track5:
   title: Cochemea -Curandera
   color: trippy
-  link: https://sounds.mailta.pe/567/track5.mp3
+  link: https://df.mailta.pe/567/track5.mp3
 track6:
   title: "Nubya Garcia - A Shade Of Jade "
   color: bliss
-  link: https://sounds.mailta.pe/567/track6.mp3
+  link: https://df.mailta.pe/567/track6.mp3
 track7:
   title: Manu Dibango - Frozen Soul
   color: vibrant
-  link: https://sounds.mailta.pe/567/track7.mp3
+  link: https://df.mailta.pe/567/track7.mp3
 release: 567
 ---
 This morning we're playing jazz! And to be more precise, we offer you

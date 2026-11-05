@@ -16,31 +16,31 @@ pubDate: 2021-06-05
 track1:
   title: Jon Bap - Born Into This
   color: trippy
-  link: https://sounds.mailta.pe/454/track1.mp3
+  link: https://df.mailta.pe/454/track1.mp3
 track2:
   title: Led Zeppelin - When the Levee Breaks
   color: vibrant
-  link: https://sounds.mailta.pe/454/track2.mp3
+  link: https://df.mailta.pe/454/track2.mp3
 track3:
   title: Erykah Badu - Other Side of the Game
   color: bliss
-  link: https://sounds.mailta.pe/454/track3.mp3
+  link: https://df.mailta.pe/454/track3.mp3
 track4:
   title: The Growth Eternal - VII. Ghalani
   color: bliss
-  link: https://sounds.mailta.pe/454/track4.mp3
+  link: https://df.mailta.pe/454/track4.mp3
 track5:
   title: Nailah Hunter - Talk Show Host
   color: bliss
-  link: https://sounds.mailta.pe/454/track5.mp3
+  link: https://df.mailta.pe/454/track5.mp3
 track6:
   title: Wau Wau Collectif - Mouhamodou Lo and His Children
   color: vibrant
-  link: https://sounds.mailta.pe/454/track6.mp3
+  link: https://df.mailta.pe/454/track6.mp3
 track7:
   title: Sam Gendel - Goodbye Pork Pie Hat
   color: trippy
-  link: https://sounds.mailta.pe/454/track7.mp3
+  link: https://df.mailta.pe/454/track7.mp3
 release: 454
 ---
 This Sunday, we welcome [The Growth Eternal](https://thegrowtheternal.bandcamp.com/) to MailTape for an eclectic collection to jumpstart your morning :) Based in Los Angeles, [The Growth Eternal](https://thegrowtheternal.bandcamp.com/) is headed by multi-instrumentalist Byron Crenshaw. 

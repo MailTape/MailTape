@@ -15,31 +15,31 @@ pubDate: 2018-06-03
 track1:
   title: Wild Belle – Love Like This
   color: bliss
-  link: https://sounds.mailta.pe/315/track1.mp3
+  link: https://df.mailta.pe/315/track1.mp3
 track2:
   title: Emancipator – Bat Country
   color: dreamy
-  link: https://sounds.mailta.pe/315/track2.mp3
+  link: https://df.mailta.pe/315/track2.mp3
 track3:
   title: Anderson .Paak — The Dreamer (ft. Talib Kweli & Timan Family Choir)
   color: vibrant
-  link: https://sounds.mailta.pe/315/track3.mp3
+  link: https://df.mailta.pe/315/track3.mp3
 track4:
   title: MALFNKTION & Zoya – Be Free
   color: dreamy
-  link: https://sounds.mailta.pe/315/track4.mp3
+  link: https://df.mailta.pe/315/track4.mp3
 track5:
   title: Yaeji – drink i'm sippin on
   color: trippy
-  link: https://sounds.mailta.pe/315/track5.mp3
+  link: https://df.mailta.pe/315/track5.mp3
 track6:
   title: Dualist Inquiry – Soleil
   color: dreamy
-  link: https://sounds.mailta.pe/315/track6.mp3
+  link: https://df.mailta.pe/315/track6.mp3
 track7:
   title: Tigue – .......
   color: bliss
-  link: https://sounds.mailta.pe/315/track7.mp3
+  link: https://df.mailta.pe/315/track7.mp3
 release: 315
 ---
 This morning we are excited to welcome [MALFNKTION](https://malfnktion.bandcamp.com/), the electronic music project of Bengaluru-based musician, Aditya Alamuru.

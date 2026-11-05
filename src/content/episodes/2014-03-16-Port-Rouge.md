@@ -16,31 +16,31 @@ pubDate: 2014-03-16
 track1:
   title: Jurny - Only When I'm Dreaming (NMH025)
   color: dreamy
-  link: https://sounds.mailta.pe/132/track1.mp3
+  link: https://df.mailta.pe/132/track1.mp3
 track2:
   title: Jesper Ryom - Ghostly
   color: rough
-  link: https://sounds.mailta.pe/132/track2.mp3
+  link: https://df.mailta.pe/132/track2.mp3
 track3:
   title: Playmodul - Null Vier B
   color: rough
-  link: https://sounds.mailta.pe/132/track3.mp3
+  link: https://df.mailta.pe/132/track3.mp3
 track4:
   title: Port Rouge - Now That I Know
   color: rough
-  link: https://sounds.mailta.pe/132/track4.mp3
+  link: https://df.mailta.pe/132/track4.mp3
 track5:
   title: Konstantin Sibold - Leif
   color: rough
-  link: https://sounds.mailta.pe/132/track5.mp3
+  link: https://df.mailta.pe/132/track5.mp3
 track6:
   title: Downtown Party Network - Space Me Out (Mario Basanov Remix)
   color: rough
-  link: https://sounds.mailta.pe/132/track6.mp3
+  link: https://df.mailta.pe/132/track6.mp3
 track7:
   title: Nils Frahm - You (Teen Daze Rework)
   color: dreamy
-  link: https://sounds.mailta.pe/132/track7.mp3
+  link: https://df.mailta.pe/132/track7.mp3
 release: 132
 ---
 

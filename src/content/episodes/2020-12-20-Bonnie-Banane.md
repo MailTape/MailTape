@@ -17,31 +17,31 @@ musiColor: /img/musicolor430.png
 track1:
   title: MonoNeon – I'm a raggedy bitch but my heart is amazing
   color: bliss
-  link: https://sounds.mailta.pe/430/track1.mp3
+  link: https://df.mailta.pe/430/track1.mp3
 track2:
   title: Brigitte Bardot – C'est rigolo
   color: trippy
-  link: https://sounds.mailta.pe/430/track2.mp3
+  link: https://df.mailta.pe/430/track2.mp3
 track3:
   title: Take 6 – He never sleeps
   color: vibrant
-  link: https://sounds.mailta.pe/430/track3.mp3
+  link: https://df.mailta.pe/430/track3.mp3
 track4:
   title: Bonnie Banane - Flash
   color: dreamy
-  link: https://sounds.mailta.pe/430/track4.mp3
+  link: https://df.mailta.pe/430/track4.mp3
 track5:
   title: "Myth Syzer - Je suis venu te dire que je m'en vais "
   color: vibrant
-  link: https://sounds.mailta.pe/430/track5.mp3
+  link: https://df.mailta.pe/430/track5.mp3
 track6:
   title: Muddy Monk - L'Aventura
   color: dreamy
-  link: https://sounds.mailta.pe/430/track6.mp3
+  link: https://df.mailta.pe/430/track6.mp3
 track7:
   title: Ichon - Aujourd'hui
   color: bliss
-  link: https://sounds.mailta.pe/430/track7.mp3
+  link: https://df.mailta.pe/430/track7.mp3
 release: 430
 ---
 This morning, we think about Christmas, shopping in crowded stores, those endless meals around a turkey and many logs, indigestion and the famous button that you pop at the end of the evening...Fortunately to relax during its preparations, [Bonnie Banane](https://bonniebanane.bandcamp.com/album/sexy-planet) has made a playlist worthy of her parties!

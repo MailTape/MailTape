@@ -17,31 +17,31 @@ pubDate: 2017-01-29
 track1:
   title: h hunt - rice wine
   color: bliss
-  link: https://sounds.mailta.pe/245/track1.mp3
+  link: https://df.mailta.pe/245/track1.mp3
 track2:
   title: Cluster - Sowiesoso
   color: trippy
-  link: https://sounds.mailta.pe/245/track2.mp3
+  link: https://df.mailta.pe/245/track2.mp3
 track3:
   title: Haruomi Hosono - Pleocene (プリオシーヌ)
   color: vibrant
-  link: https://sounds.mailta.pe/245/track3.mp3
+  link: https://df.mailta.pe/245/track3.mp3
 track4:
   title: infinite bisous - life + you
   color: dreamy
-  link: https://sounds.mailta.pe/245/track4.mp3
+  link: https://df.mailta.pe/245/track4.mp3
 track5:
   title: These New Puritans - The Way I Do
   color: bliss
-  link: https://sounds.mailta.pe/245/track5.mp3
+  link: https://df.mailta.pe/245/track5.mp3
 track6:
   title: Ménage à Trois - Conditional Love
   color: dreamy
-  link: https://sounds.mailta.pe/245/track6.mp3
+  link: https://df.mailta.pe/245/track6.mp3
 track7:
   title: Ben Ji - Anchors
   color: vibrant
-  link: https://sounds.mailta.pe/245/track7.mp3
+  link: https://df.mailta.pe/245/track7.mp3
 release: 245
 ---
 This morning, take the time to slowly wake up to [Infinite Bisous](https://www.facebook.com/infinitebisous/ "Facebook")' selection. British artist Infinite Bisous uses dreamy synths fused with a lo-fi psychedelic sound to create bittersweet songs, perfect for a Sunday morning. Stay a little bit longer in bed, allow yourself to feel this wintry melancholy for a moment, inhale, exhale, and enjoy a blissful journey through delicate, warm and dreamy sounds. There is no need to get out of bed when it's so cold outside.

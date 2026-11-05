@@ -16,31 +16,31 @@ pubDate: 2019-05-12
 track1:
   title: CM Jones - Remain feat King Krab
   color: vibrant
-  link: https://sounds.mailta.pe/357/track1.mp3
+  link: https://df.mailta.pe/357/track1.mp3
 track2:
   title: "Varnish La Piscine - Bubble "
   color: dreamy
-  link: https://sounds.mailta.pe/357/Track%202.mp3
+  link: https://df.mailta.pe/357/Track%202.mp3
 track3:
   title: Témé Tan x Le Motel - Le Ciel
   color: trippy
-  link: https://sounds.mailta.pe/357/Track%203.mp3
+  link: https://df.mailta.pe/357/Track%203.mp3
 track4:
   title: "Elodie Rama - Home "
   color: bliss
-  link: https://sounds.mailta.pe/357/track4.mp3
+  link: https://df.mailta.pe/357/track4.mp3
 track5:
   title: Celeste - Summer feat Jeshi
   color: dreamy
-  link: https://sounds.mailta.pe/357/Track%205.mp3
+  link: https://df.mailta.pe/357/Track%205.mp3
 track6:
   title: "Rosie Lowe - Pharoah  "
   color: vibrant
-  link: https://sounds.mailta.pe/357/Track%206.mp3
+  link: https://df.mailta.pe/357/Track%206.mp3
 track7:
   title: "Yazmin Lacey - Black Moon "
   color: bliss
-  link: https://sounds.mailta.pe/357/track7.mp3
+  link: https://df.mailta.pe/357/track7.mp3
 release: 357
 ---
 

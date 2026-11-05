@@ -15,31 +15,31 @@ pubDate: 2015-07-26
 track1:
   title: Hundred Waters - Cavity (Shigeto Remix)
   color: dreamy
-  link: https://sounds.mailta.pe/196/track1.mp3
+  link: https://df.mailta.pe/196/track1.mp3
 track2:
   title: Dream Koala - Saturn Boy
   color: dreamy
-  link: https://sounds.mailta.pe/196/track2.mp3
+  link: https://df.mailta.pe/196/track2.mp3
 track3:
   title: Four Tet - Unicorn
   color: bliss
-  link: https://sounds.mailta.pe/196/track3.mp3
+  link: https://df.mailta.pe/196/track3.mp3
 track4:
   title: Superpoze - Overseas (Sekuoia rework)
   color: dreamy
-  link: https://sounds.mailta.pe/196/track4.mp3
+  link: https://df.mailta.pe/196/track4.mp3
 track5:
   title: Felix Laband - Squeeze the Trigger
   color: dreamy
-  link: https://sounds.mailta.pe/196/track5.mp3
+  link: https://df.mailta.pe/196/track5.mp3
 track6:
   title: Laurent Garnier - The Rise & The Fall Of The Donkey Dog_Husbands Remix
   color: vibrant
-  link: https://sounds.mailta.pe/196/track6.mp3
+  link: https://df.mailta.pe/196/track6.mp3
 track7:
   title: JeF ZeRo - Arcade Funke
   color: trippy
-  link: https://sounds.mailta.pe/196/track7.mp3
+  link: https://df.mailta.pe/196/track7.mp3
 release: 196
 ---
 

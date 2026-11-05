@@ -21,31 +21,31 @@ pubDate: 2020-11-22
 track1:
   title: Ash Soul, Inc. - I Do Love You
   color: bliss
-  link: https://sounds.mailta.pe/426/track1.mp3
+  link: https://df.mailta.pe/426/track1.mp3
 track2:
   title: Ruru - I Forgot
   color: trippy
-  link: https://sounds.mailta.pe/426/track2.mp3
+  link: https://df.mailta.pe/426/track2.mp3
 track3:
   title: Kaitlyn Aurelia Smith - Stratus
   color: dreamy
-  link: https://sounds.mailta.pe/426/track3.mp3
+  link: https://df.mailta.pe/426/track3.mp3
 track4:
   title: JW Francis - I'm Down, Whatever
   color: bliss
-  link: https://sounds.mailta.pe/426/track4.mp3
+  link: https://df.mailta.pe/426/track4.mp3
 track5:
   title: Elan Noon - Honeyrose
   color: dreamy
-  link: https://sounds.mailta.pe/426/track5.mp3
+  link: https://df.mailta.pe/426/track5.mp3
 track6:
   title: Mokina - Orfeu
   color: trippy
-  link: https://sounds.mailta.pe/426/track6.mp3
+  link: https://df.mailta.pe/426/track6.mp3
 track7:
   title: lyam. - Pretty Pretty
   color: bliss
-  link: https://sounds.mailta.pe/426/track7.mp3
+  link: https://df.mailta.pe/426/track7.mp3
 release: 426
 ---
 This morning, we are delighted to welcome ray of sunshine JW Francis to MailTape for a playlist of flowing instrumentals and gentle melodies to ease into your Sunday morning. 

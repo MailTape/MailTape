@@ -17,31 +17,31 @@ pubDate: 2017-12-03
 track1:
   title: Yuko Yuko - Two Boys
   color: vibrant
-  link: https://sounds.mailta.pe/289/track1.mp3
+  link: https://df.mailta.pe/289/track1.mp3
 track2:
   title: Jermango Dreaming - I Want You
   color: bliss
-  link: https://sounds.mailta.pe/289/track2.mp3
+  link: https://df.mailta.pe/289/track2.mp3
 track3:
   title: Jerry Paper - Everything Is Shitty
   color: trippy
-  link: https://sounds.mailta.pe/289/track3.mp3
+  link: https://df.mailta.pe/289/track3.mp3
 track4:
   title: Hector Gachan - Untitled '91
   color: dreamy
-  link: https://sounds.mailta.pe/289/track4.mp3
+  link: https://df.mailta.pe/289/track4.mp3
 track5:
   title: Superorganism - Something for Your M.I.N.D.
   color: vibrant
-  link: https://sounds.mailta.pe/289/track5.mp3
+  link: https://df.mailta.pe/289/track5.mp3
 track6:
   title: Sean Nicholas Savage - Opposing Truths
   color: bliss
-  link: https://sounds.mailta.pe/289/track6.mp3
+  link: https://df.mailta.pe/289/track6.mp3
 track7:
   title: Maison de Retraite - today i am a piece of shit
   color: trippy
-  link: https://sounds.mailta.pe/289/track7.mp3
+  link: https://df.mailta.pe/289/track7.mp3
 release: 289
 ---
 This morning, kickstart your day with Hector Gachan’s warm and lively selection. Hector Gachan, who grew up between Australia and Bosnia, makes catchy lo-fi dream pop songs, influenced by his upbringing in between these two countries. He released his [debut album](https://lnk.to/hectorgachan_untitled91) two days ago.

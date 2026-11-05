@@ -21,31 +21,31 @@ pubDate: 2018-09-09
 track1:
   title: Lou Harrison - Philemon and Baukis
   color: dreamy
-  link: https://sounds.mailta.pe/322/track1.mp3
+  link: https://df.mailta.pe/322/track1.mp3
 track2:
   title: Y Ata - Akagambo
   color: vibrant
-  link: https://sounds.mailta.pe/322/track2.mp3
+  link: https://df.mailta.pe/322/track2.mp3
 track3:
   title: Paulo Kafeero - Dipo Nazigala
   color: dreamy
-  link: https://sounds.mailta.pe/322/track3.mp3
+  link: https://df.mailta.pe/322/track3.mp3
 track4:
   title: Nihiloxica – Endongo
   color: rough
-  link: https://sounds.mailta.pe/322/track4.mp3
+  link: https://df.mailta.pe/322/track4.mp3
 track5:
   title: C Cat Trance - Shake The Mind (Red Axes Remix)
   color: trippy
-  link: https://sounds.mailta.pe/322/track5.mp3
+  link: https://df.mailta.pe/322/track5.mp3
 track6:
   title: "Marijata - No Condition Is Permanent "
   color: vibrant
-  link: https://sounds.mailta.pe/322/track6.mp3
+  link: https://df.mailta.pe/322/track6.mp3
 track7:
   title: Mbongwana Star – Malukayi
   color: dreamy
-  link: https://sounds.mailta.pe/322/track7.mp3
+  link: https://df.mailta.pe/322/track7.mp3
 release: 322
 ---
 If defeating torpor is ever on your agenda, Ugandan’s own [Nihiloxica](https://nyegenyegetapes.bandcamp.com/album/nihiloxica), with their tribal percussions and visceral arrangements, should prove tremendously helpful.

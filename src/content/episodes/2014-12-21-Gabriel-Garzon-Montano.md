@@ -15,31 +15,31 @@ pubDate: 2014-12-21
 track1:
   title: Quincy Vidal - Check
   color: bliss
-  link: https://sounds.mailta.pe/165/track1.mp3
+  link: https://df.mailta.pe/165/track1.mp3
 track2:
   title: Sage Caswell - Whatever Forever
   color: rough
-  link: https://sounds.mailta.pe/165/track2.mp3
+  link: https://df.mailta.pe/165/track2.mp3
 track3:
   title: Drake - How Bout Now (Audio)
   color: trippy
-  link: https://sounds.mailta.pe/165/track3.mp3
+  link: https://df.mailta.pe/165/track3.mp3
 track4:
   title: Gabriel Garzon-Montano - Everything Is Everything
   color: vibrant
-  link: https://sounds.mailta.pe/165/track4.mp3
+  link: https://df.mailta.pe/165/track4.mp3
 track5:
   title: D'Angelo - Sugah Daddy
   color: vibrant
-  link: https://sounds.mailta.pe/165/track5.mp3
+  link: https://df.mailta.pe/165/track5.mp3
 track6:
   title: Buscabulla - Sono
   color: dreamy
-  link: https://sounds.mailta.pe/165/track6.mp3
+  link: https://df.mailta.pe/165/track6.mp3
 track7:
   title: Jabru feat. Joel Culpepper - Church
   color: bliss
-  link: https://sounds.mailta.pe/165/track7.mp3
+  link: https://df.mailta.pe/165/track7.mp3
 release: 165
 ---
 

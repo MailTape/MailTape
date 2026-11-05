@@ -17,31 +17,31 @@ musiColor: /img/musicolor_564.png
 track1:
   title: Pete Josef - Sunny Side Up
   color: bliss
-  link: https://sounds.mailta.pe/564/track1.mp3
+  link: https://df.mailta.pe/564/track1.mp3
 track2:
   title: Dina Ögon - Tombola 94
   color: vibrant
-  link: https://sounds.mailta.pe/564/track2.mp3
+  link: https://df.mailta.pe/564/track2.mp3
 track3:
   title: Floating Points, Pharaoh Saunders, London Symphony Orchestra - Movement 6
   color: dreamy
-  link: https://sounds.mailta.pe/564/track3.mp3
+  link: https://df.mailta.pe/564/track3.mp3
 track4:
   title: Rosie Lowe - Lay Me
   color: bliss
-  link: https://sounds.mailta.pe/564/track4.mp3
+  link: https://df.mailta.pe/564/track4.mp3
 track5:
   title: Feed LA - Früh
   color: vibrant
-  link: https://sounds.mailta.pe/564/track5.mp3
+  link: https://df.mailta.pe/564/track5.mp3
 track6:
   title: Grandbaby - The Melody of Talk
   color: trippy
-  link: https://sounds.mailta.pe/564/track6.mp3
+  link: https://df.mailta.pe/564/track6.mp3
 track7:
   title: Rosie Lowe, Duval Timothy - Son
   color: bliss
-  link: https://sounds.mailta.pe/564/track7.mp3
+  link: https://df.mailta.pe/564/track7.mp3
 release: 564
 ---
 Your Sunday in all its softness :) This morning, MailTape is delighted to welcome singer [Rosie Lowe](https://rosielowe.bandcamp.com/) for a selection of sweeping soulful deep listening. The London-based singer joins us following the release of her album [Lover, Other](https://rosielowe.bandcamp.com/album/lover-other). Rosie Lowe's releases are marked by swells of intricate choral patchworks, a capella avant-garde, and jazz-funk harmonies -- every listen hints at more to discover. A gift for you this morning !

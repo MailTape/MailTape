@@ -18,31 +18,31 @@ pubDate: 2021-11-28
 track1:
   title: Joan Baez - A Simple Twist of Fate
   color: vibrant
-  link: https://sounds.mailta.pe/472/track1.mp3
+  link: https://df.mailta.pe/472/track1.mp3
 track2:
   title: Jennifer Warnes - Let The Sunshine In
   color: vibrant
-  link: https://sounds.mailta.pe/472/track2.mp3
+  link: https://df.mailta.pe/472/track2.mp3
 track3:
   title: Robert Wyatt - Ship Building
   color: dreamy
-  link: https://sounds.mailta.pe/472/track3.mp3
+  link: https://df.mailta.pe/472/track3.mp3
 track4:
   title: Maxine Funke - Equinox
   color: bliss
-  link: https://sounds.mailta.pe/472/track4.mp3
+  link: https://df.mailta.pe/472/track4.mp3
 track5:
   title: Luiza Brina - Garrafa ao Mar
   color: dreamy
-  link: https://sounds.mailta.pe/472/track5.mp3
+  link: https://df.mailta.pe/472/track5.mp3
 track6:
   title: Howie Lee - Birdy Island
   color: vibrant
-  link: https://sounds.mailta.pe/472/track6.mp3
+  link: https://df.mailta.pe/472/track6.mp3
 track7:
   title: Maxine Funke - Homage
   color: bliss
-  link: https://sounds.mailta.pe/472/track7.mp3
+  link: https://df.mailta.pe/472/track7.mp3
 release: 472
 ---
  This morning, we are delighted to welcome [Maxine Funke](https://maxinefunke1.bandcamp.com/music) to MailTape for a peaceful selection, crafted carefully to lift you on your way this Sunday. 

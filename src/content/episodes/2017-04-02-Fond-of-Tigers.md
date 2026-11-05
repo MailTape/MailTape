@@ -14,31 +14,31 @@ pubDate: 2017-04-02
 track1:
   title: Califone - Sunday Noises
   color: bliss
-  link: https://sounds.mailta.pe/254/track1.mp3
+  link: https://df.mailta.pe/254/track1.mp3
 track2:
   title: Zammuto - Twelve Fold Chain
   color: dreamy
-  link: https://sounds.mailta.pe/254/track2.mp3
+  link: https://df.mailta.pe/254/track2.mp3
 track3:
   title: Efterklang - Hollow Mountain
   color: trippy
-  link: https://sounds.mailta.pe/254/track3.mp3
+  link: https://df.mailta.pe/254/track3.mp3
 track4:
   title: Fond of Tigers - Vitamin Meathawk
   color: vibrant
-  link: https://sounds.mailta.pe/254/track4.mp3
+  link: https://df.mailta.pe/254/track4.mp3
 track5:
   title: Martin Arnold - The Coo-Coo Bird
   color: dreamy
-  link: https://sounds.mailta.pe/254/track5.mp3
+  link: https://df.mailta.pe/254/track5.mp3
 track6:
   title: Saltland - Magnolia
   color: bliss
-  link: https://sounds.mailta.pe/254/track6.mp3
+  link: https://df.mailta.pe/254/track6.mp3
 track7:
   title: Esmerine - The Neighbourhoods Rise
   color: dreamy
-  link: https://sounds.mailta.pe/254/track7.mp3
+  link: https://df.mailta.pe/254/track7.mp3
 release: 254
 ---
 This morning, Stephen Lyons of Vancouver-based septet, [Fond of Tigers](http://www.fondoftigers.com/), lifts the fog and treats us to three unhurried and dreamy selections. In his own words...

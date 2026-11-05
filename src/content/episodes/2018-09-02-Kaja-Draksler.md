@@ -16,31 +16,31 @@ pubDate: 2018-09-02
 track1:
   title: The Tahitian Choir – Tahiti Choir Music
   color: bliss
-  link: https://sounds.mailta.pe/321/track1.mp3
+  link: https://df.mailta.pe/321/track1.mp3
 track2:
   title: Craig Taborn – This Voice Says So
   color: dreamy
-  link: https://sounds.mailta.pe/321/track2.mp3
+  link: https://df.mailta.pe/321/track2.mp3
 track3:
   title: Jacobus Gallus – Mirabile Misterium
   color: bliss
-  link: https://sounds.mailta.pe/321/track3.mp3
+  link: https://df.mailta.pe/321/track3.mp3
 track4:
   title: Kaja Draksler Octet – Gledalec
   color: dreamy
-  link: https://sounds.mailta.pe/321/track4.mp3
+  link: https://df.mailta.pe/321/track4.mp3
 track5:
   title: Cara Stacey & Camilo Ángeles – Cederberg
   color: bliss
-  link: https://sounds.mailta.pe/321/track5.mp3
+  link: https://df.mailta.pe/321/track5.mp3
 track6:
   title: Angelica Sanchez Trio – What the Birds Tell Me
   color: dreamy
-  link: https://sounds.mailta.pe/321/track6.mp3
+  link: https://df.mailta.pe/321/track6.mp3
 track7:
   title: Central Australian Aboriginal Women’s Choir – Jesu Nganalala
   color: bliss
-  link: https://sounds.mailta.pe/321/track7.mp3
+  link: https://df.mailta.pe/321/track7.mp3
 release: 321
 ---
 Welcome back to a new season of MailTape. In our first episode since July we welcome one of my favourite pianist-composers, [Kaja Draksler](http://kajadraksler.com/), who replenishes us with a dreamy Sunday morning selection of chorales and solo piano.

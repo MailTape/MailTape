@@ -11,31 +11,31 @@ writer: ImaCrea
 track1:
   title: Ana Roxanne - Suite pour l'invisible
   color: dreamy
-  link: https://sounds.mailta.pe/558/track1.mp3
+  link: https://df.mailta.pe/558/track1.mp3
 track2:
   title: Ruth Goller - Often they came to visit, even just to see how she was (M1)
   color: dreamy
-  link: https://sounds.mailta.pe/558/track2.mp3
+  link: https://df.mailta.pe/558/track2.mp3
 track3:
   title: Takako Minekawa & Dustin Wong - Party on a Floating Cake
   color: dreamy
-  link: https://sounds.mailta.pe/558/track3.mp3
+  link: https://df.mailta.pe/558/track3.mp3
 track4:
   title: Audrey Carmes - Une Recherche
   color: dreamy
-  link: https://sounds.mailta.pe/558/track4.mp3
+  link: https://df.mailta.pe/558/track4.mp3
 track5:
   title: Madalyn Merkey - Hairspring
   color: dreamy
-  link: https://sounds.mailta.pe/558/track5.mp3
+  link: https://df.mailta.pe/558/track5.mp3
 track6:
   title: Árni Grétar - Höfðadalur
   color: dreamy
-  link: https://sounds.mailta.pe/558/track6.mp3
+  link: https://df.mailta.pe/558/track6.mp3
 track7:
   title: Billie Eilish - Chihiro
   color: dreamy
-  link: https://sounds.mailta.pe/558/track7.mp3
+  link: https://df.mailta.pe/558/track7.mp3
 description: This morning, we will continue to dream gently with our guest [Audrey Carmes](https://audreycarmes.bandcamp.com/album/quelque-chose-sest-dissip). Let's embark on an ambient journey to ethereal lands w...
 image: /img/fbpic558.jpg
 musiColor: /img/musicolor558.png

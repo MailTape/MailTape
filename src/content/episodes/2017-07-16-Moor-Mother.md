@@ -14,32 +14,32 @@ pubDate: 2017-07-16
 track1:
   title: Madam Data - Miniature Neurocosmos 28
   color: bliss
-  link: https://sounds.mailta.pe/269/track1.mp3
+  link: https://df.mailta.pe/269/track1.mp3
 track2:
   title: Hprizm - Live @ Sons D'Hiver (Paris) 2014
   color: trippy
-  link: https://sounds.mailta.pe/269/track2.mp3
+  link: https://df.mailta.pe/269/track2.mp3
 track3:
   title: Kilamanzego - What happens when Eastern Europe and West Africa collide pt2
   color: vibrant
-  link: https://sounds.mailta.pe/269/track3.mp3
+  link: https://df.mailta.pe/269/track3.mp3
 track4:
   title: ᴠ̷̸ᴀ̷̸ɴ̷̸ɪ̷̸ʟ̷̸ʟ̷̸ᴀ̷̸ ̷̸ʜ̷̸ᴀ̷̸ᴍ̷̸ᴍ̷̸ᴇ̷̸ʀ̷̸ ft. Moor Mother - Murder
   color: rough
-  link: https://sounds.mailta.pe/269/track4.mp3
+  link: https://df.mailta.pe/269/track4.mp3
 track5:
   title: Aybee - What is
   color: dreamy
-  link: https://sounds.mailta.pe/269/track5.mp3
+  link: https://df.mailta.pe/269/track5.mp3
 track6:
   title: Rafeef Ziadah - Shades of Anger
   color: trippy
-  link: https://sounds.mailta.pe/269/track6.mp3
+  link: https://df.mailta.pe/269/track6.mp3
 track7:
   title: "Matana Roberts - Raise the Roof: Information, Class & Greed Besmirch
     Democracy"
   color: trippy
-  link: https://sounds.mailta.pe/269/track7.mp3
+  link: https://df.mailta.pe/269/track7.mp3
 release: 269
 ---
 This morning we welcome someone who has been on my wish list for a while: Philadelphia-based interdisciplinary artist, Camae Ayewa ([Moor Mother](http://moormother.com/)).

@@ -17,31 +17,31 @@ pubDate: 2016-01-24
 track1:
   title: Bleu Toucan - LA feat. Vendredi sur Mer
   color: vibrant
-  link: https://sounds.mailta.pe/201/track1.mp3
+  link: https://df.mailta.pe/201/track1.mp3
 track2:
   title: Jimmy Edgar - Feel What It Is
   color: bliss
-  link: https://sounds.mailta.pe/201/track2.mp3
+  link: https://df.mailta.pe/201/track2.mp3
 track3:
   title: Rejjie Snow - Blakkst Skn feat. Rae Morris
   color: trippy
-  link: https://sounds.mailta.pe/201/track3.mp3
+  link: https://df.mailta.pe/201/track3.mp3
 track4:
   title: Nicholas Larsen - I'll Remember
   color: vibrant
-  link: https://sounds.mailta.pe/201/track4.mp3
+  link: https://df.mailta.pe/201/track4.mp3
 track5:
   title: Silver Firs - Signals
   color: dreamy
-  link: https://sounds.mailta.pe/201/track5.mp3
+  link: https://df.mailta.pe/201/track5.mp3
 track6:
   title: Daniel Alexander - Trains
   color: bliss
-  link: https://sounds.mailta.pe/201/track6.mp3
+  link: https://df.mailta.pe/201/track6.mp3
 track7:
   title: Frankey & Sandrino - Acamar
   color: rough
-  link: https://sounds.mailta.pe/201/track7.mp3
+  link: https://df.mailta.pe/201/track7.mp3
 release: 201
 ---
 

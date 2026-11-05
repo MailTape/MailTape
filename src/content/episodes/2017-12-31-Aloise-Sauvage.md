@@ -16,31 +16,31 @@ pubDate: 2017-12-31
 track1:
   title: Nicholas Britell - End Credits Suite (Moonlight Soundtrack)
   color: dreamy
-  link: https://sounds.mailta.pe/293/track1.mp3
+  link: https://df.mailta.pe/293/track1.mp3
 track2:
   title: Jaden Smith — E
   color: vibrant
-  link: https://sounds.mailta.pe/293/track2.mp3
+  link: https://df.mailta.pe/293/track2.mp3
 track3:
   title: Feu! Chatterton — L'Ivresse
   color: rough
-  link: https://sounds.mailta.pe/293/track3.mp3
+  link: https://df.mailta.pe/293/track3.mp3
 track4:
   title: Aloïse Sauvage — Ailleurs Higher
   color: dreamy
-  link: https://sounds.mailta.pe/293/track4.mp3
+  link: https://df.mailta.pe/293/track4.mp3
 track5:
   title: Blu Samu — Latenight Freestyle
   color: dreamy
-  link: https://sounds.mailta.pe/293/track5.mp3
+  link: https://df.mailta.pe/293/track5.mp3
 track6:
   title: Baba Ali — Cog In The Wheel
   color: vibrant
-  link: https://sounds.mailta.pe/293/track6.mp3
+  link: https://df.mailta.pe/293/track6.mp3
 track7:
   title: rAHHH — Ends
   color: dreamy
-  link: https://sounds.mailta.pe/293/track7.mp3
+  link: https://df.mailta.pe/293/track7.mp3
 release: 293
 ---
 This morning, it's time to reflect on the past year. 6 years that MailTape exists. One more year of introducing you to the music we love, the music that inspires us — and hopefully, that inspires you.

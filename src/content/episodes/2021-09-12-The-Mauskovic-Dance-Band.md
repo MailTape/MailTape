@@ -27,31 +27,31 @@ pubDate: 2021-09-12
 track1:
   title: Dj Bert & Eagle - I Am Your Master
   color: vibrant
-  link: https://sounds.mailta.pe/461/track1.mp3
+  link: https://df.mailta.pe/461/track1.mp3
 track2:
   title: Don Melody Club - Bovendien
   color: bliss
-  link: https://sounds.mailta.pe/461/track2.mp3
+  link: https://df.mailta.pe/461/track2.mp3
 track3:
   title: Cameleon - La Rosée Si Feuilles Songes
   color: dreamy
-  link: https://sounds.mailta.pe/461/track3.mp3
+  link: https://df.mailta.pe/461/track3.mp3
 track4:
   title: The Mauskovic Dance Band - Ventura Phase
   color: trippy
-  link: https://sounds.mailta.pe/461/track4.mp3
+  link: https://df.mailta.pe/461/track4.mp3
 track5:
   title: Ensemble Entendu - Time Is Certainly Passing
   color: bliss
-  link: https://sounds.mailta.pe/461/track5.mp3
+  link: https://df.mailta.pe/461/track5.mp3
 track6:
   title: Turzi - Watermill
   color: dreamy
-  link: https://sounds.mailta.pe/461/track6.mp3
+  link: https://df.mailta.pe/461/track6.mp3
 track7:
   title: N'Draman-Blintch - Cosmic Sounds
   color: trippy
-  link: https://sounds.mailta.pe/461/track7.mp3
+  link: https://df.mailta.pe/461/track7.mp3
 release: 461
 ---
  This morning something strange is floating in the air. The sky takes on psychedelic colors; the sun hits the windows like percussions. Can't you see [The Mauskovic Dance Band](https://mauskovicdanceband.bandcamp.com/) slowly emerging from the clouds to join us for a new MailTape episode?

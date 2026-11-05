@@ -19,31 +19,31 @@ alignY: "0.22"
 track1:
   title: Vimala Pons - Piper
   color: trippy
-  link: https://sounds.mailta.pe/575/track1.mp3
+  link: https://df.mailta.pe/575/track1.mp3
 track2:
   title: Farah - Into Eternity
   color: rough
-  link: https://sounds.mailta.pe/575/track2.mp3
+  link: https://df.mailta.pe/575/track2.mp3
 track3:
   title: D.A.F. - Als war's das letzte mal
   color: rough
-  link: https://sounds.mailta.pe/575/track3.mp3
+  link: https://df.mailta.pe/575/track3.mp3
 track4:
   title: KOMPROMAT - ONLY IN YOUR ARMS
   color: bliss
-  link: https://sounds.mailta.pe/575/track4.mp3
+  link: https://df.mailta.pe/575/track4.mp3
 track5:
   title: Bound By Endogamy - Withered Flowers
   color: trippy
-  link: https://sounds.mailta.pe/575/track5.mp3
+  link: https://df.mailta.pe/575/track5.mp3
 track6:
   title: John Maus - Rarities for the road - V1 T3
   color: dreamy
-  link: https://sounds.mailta.pe/575/track6.mp3
+  link: https://df.mailta.pe/575/track6.mp3
 track7:
   title: KOMPROMAT - I LET MYSELF GO BLIND (feat. Vimala Pons & Sonia DeVille)
   color: rough
-  link: https://sounds.mailta.pe/575/track7.mp3
+  link: https://df.mailta.pe/575/track7.mp3
 release: 575
 ---
 This morning, we are deeply honored and excited to share with you an episode featuring [KOMPROMAT](https://kompromat-official.bandcamp.com/album/pl-ying-pr-ying) as our guest. The duo, consisting of Rebeka Warrior and Vitalic, is back with a new album, and their selection has inspired us to complement it with tracks infused with sensual, vibrant, and powerful synth waves to energize you. Allow yourself to be intoxicated by the energy of desire and movement; trust your wild side and dance with the chaos.

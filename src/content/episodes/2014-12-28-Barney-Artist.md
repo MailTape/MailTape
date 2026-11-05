@@ -16,31 +16,31 @@ pubDate: 2014-12-28
 track1:
   title: Jordan Rakei - Add The Bassline (Nehzuil Remix)
   color: vibrant
-  link: https://sounds.mailta.pe/166/track1.mp3
+  link: https://df.mailta.pe/166/track1.mp3
 track2:
   title: Alfa & Emmavie - Easily, I Forget
   color: dreamy
-  link: https://sounds.mailta.pe/166/track2.mp3
+  link: https://df.mailta.pe/166/track2.mp3
 track3:
   title: IDEH - Do Something
   color: bliss
-  link: https://sounds.mailta.pe/166/track3.mp3
+  link: https://df.mailta.pe/166/track3.mp3
 track4:
   title: Barney Artist - Space
   color: dreamy
-  link: https://sounds.mailta.pe/166/track4.mp3
+  link: https://df.mailta.pe/166/track4.mp3
 track5:
   title: Miguel - How Many Drinks? (Remix) ft. Kendrick Lamar
   color: vibrant
-  link: https://sounds.mailta.pe/166/track5.mp3
+  link: https://df.mailta.pe/166/track5.mp3
 track6:
   title: Curtis Harding - Keep On Shining
   color: bliss
-  link: https://sounds.mailta.pe/166/track6.mp3
+  link: https://df.mailta.pe/166/track6.mp3
 track7:
   title: Cubby ft. Kwane and Chuck Ellis - Cold
   color: dreamy
-  link: https://sounds.mailta.pe/166/track7.mp3
+  link: https://df.mailta.pe/166/track7.mp3
 release: 166
 ---
 

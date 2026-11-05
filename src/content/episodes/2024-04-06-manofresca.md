@@ -21,31 +21,31 @@ musiColor: /img/musicolor.png
 track1:
   title: "Brad Behldau - After Bach: Flux"
   color: bliss
-  link: https://sounds.mailta.pe/553/track1.mp3
+  link: https://df.mailta.pe/553/track1.mp3
 track2:
   title: Kendrick Lamar - untitled 02 | 06.23.2014
   color: rough
-  link: https://sounds.mailta.pe/553/track2.mp3
+  link: https://df.mailta.pe/553/track2.mp3
 track3:
   title: Boris Vian - Je bois
   color: trippy
-  link: https://sounds.mailta.pe/553/track3.mp3
+  link: https://df.mailta.pe/553/track3.mp3
 track4:
   title: Manofresca - Nothing of Ours (feat Piers Faccini)
   color: dreamy
-  link: https://sounds.mailta.pe/553/track4.mp3
+  link: https://df.mailta.pe/553/track4.mp3
 track5:
   title: Nneka - Your request (special)
   color: bliss
-  link: https://sounds.mailta.pe/553/track5.mp3
+  link: https://df.mailta.pe/553/track5.mp3
 track6:
   title: Abstract Orchestra - All Caps
   color: vibrant
-  link: https://sounds.mailta.pe/553/track6.mp3
+  link: https://df.mailta.pe/553/track6.mp3
 track7:
   title: The Palms - Push Off
   color: bliss
-  link: https://sounds.mailta.pe/553/track7.mp3
+  link: https://df.mailta.pe/553/track7.mp3
 release: 553
 ---
 This morning we invite you to explore a particular vibe. It is not easy to describe it. It's a certain idea of ​​refinement, someting that we can call pretension but not like you’re used to hearing. Rather something undeniably sustained, never haughty, something which places itself a little above the fray, which shines with its talent, with impetuous virtuosity, with pretension. And after all, why not? Don’t you need a bit of this pretension to dare to explore certain corners of musical creativity knowing that you will inevitably create wonders from them? Isn’t it necessary to then dare to take the plunge and share your work with the public?

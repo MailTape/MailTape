@@ -15,31 +15,31 @@ pubDate: 2020-12-06
 track1:
   title: Ma$e (ft. Billy Lawrence) – Love U So
   color: vibrant
-  link: https://sounds.mailta.pe/428/track1.mp3
+  link: https://df.mailta.pe/428/track1.mp3
 track2:
   title: Change – Hold Tight
   color: bliss
-  link: https://sounds.mailta.pe/428/track2.mp3
+  link: https://df.mailta.pe/428/track2.mp3
 track3:
   title: Kashif – Baby Don’t Break Your Baby’s Heart
   color: vibrant
-  link: https://sounds.mailta.pe/428/track3.mp3
+  link: https://df.mailta.pe/428/track3.mp3
 track4:
   title: Markus Floats – Forward Always
   color: trippy
-  link: https://sounds.mailta.pe/428/track4.mp3
+  link: https://df.mailta.pe/428/track4.mp3
 track5:
   title: Bill Withers – Grandma's Hands
   color: dreamy
-  link: https://sounds.mailta.pe/428/track5.mp3
+  link: https://df.mailta.pe/428/track5.mp3
 track6:
   title: Gino Soccio – Try it Out
   color: trippy
-  link: https://sounds.mailta.pe/428/track6.mp3
+  link: https://df.mailta.pe/428/track6.mp3
 track7:
   title: Cubie Burke – Down for Double
   color: vibrant
-  link: https://sounds.mailta.pe/428/track7.mp3
+  link: https://df.mailta.pe/428/track7.mp3
 release: 428
 ---
 This morning we welcome [Markus Floats](https://markusfloats.bandcamp.com/) to select three snake-hipped Sunday morning tunes with us on MailTape. 

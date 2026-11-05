@@ -17,31 +17,31 @@ pubDate: 2017-06-11
 track1:
   title: Spinning Coin - Albany
   color: bliss
-  link: https://sounds.mailta.pe/264/track1.mp3
+  link: https://df.mailta.pe/264/track1.mp3
 track2:
   title: songsforwalter - Useless
   color: vibrant
-  link: https://sounds.mailta.pe/264/track2.mp3
+  link: https://df.mailta.pe/264/track2.mp3
 track3:
   title: WAITERS - Mirror Threat
   color: dreamy
-  link: https://sounds.mailta.pe/264/track3.mp3
+  link: https://df.mailta.pe/264/track3.mp3
 track4:
   title: Gorgeous Bully - Never Cry
   color: vibrant
-  link: https://sounds.mailta.pe/264/track4.mp3
+  link: https://df.mailta.pe/264/track4.mp3
 track5:
   title: These Guy - Suburban Restaurant
   color: dreamy
-  link: https://sounds.mailta.pe/264/track5.mp3
+  link: https://df.mailta.pe/264/track5.mp3
 track6:
   title: Jimmy Whispers - (Summer in Pain)
   color: vibrant
-  link: https://sounds.mailta.pe/264/track6.mp3
+  link: https://df.mailta.pe/264/track6.mp3
 track7:
   title: Aldous RH - Feelin Blue
   color: bliss
-  link: https://sounds.mailta.pe/264/track7.mp3
+  link: https://df.mailta.pe/264/track7.mp3
 release: 264
 ---
 This morning, let's have a mellow Sunday morning thanks to [Gorgeous Bully](https://www.facebook.com/gorgeousbullyband/ "Facebook")'s heartwarming selection.

@@ -18,31 +18,31 @@ pubDate: 2017-08-06
 track1:
   title: "Alice Coltrane - Journey In Satchidananda "
   color: dreamy
-  link: https://sounds.mailta.pe/272/track1.mp3
+  link: https://df.mailta.pe/272/track1.mp3
 track2:
   title: Cocteau Twins - Wax & Wane
   color: rough
-  link: https://sounds.mailta.pe/272/track2.mp3
+  link: https://df.mailta.pe/272/track2.mp3
 track3:
   title: Aphex Twin - Acrid Avid Jam Shred
   color: bliss
-  link: https://sounds.mailta.pe/272/track3.mp3
+  link: https://df.mailta.pe/272/track3.mp3
 track4:
   title: Kelly Lee Owens - Anxi. ft. Jenny Hval
   color: bliss
-  link: https://sounds.mailta.pe/272/track4.mp3
+  link: https://df.mailta.pe/272/track4.mp3
 track5:
   title: Peggy Gou - Gou Talk
   color: vibrant
-  link: https://sounds.mailta.pe/272/track5.mp3
+  link: https://df.mailta.pe/272/track5.mp3
 track6:
   title: Supernaive - Opal Waltz
   color: bliss
-  link: https://sounds.mailta.pe/272/track6.mp3
+  link: https://df.mailta.pe/272/track6.mp3
 track7:
   title: Sophia Kennedy - Build Me A House
   color: rough
-  link: https://sounds.mailta.pe/272/track7.mp3
+  link: https://df.mailta.pe/272/track7.mp3
 release: 272
 ---
 This morning, slip into cruise control. [Kelly Lee Owens](https://www.facebook.com/kellyleeowens/ "Kelly Lee Owens' FB page") is here, and the listening is easy. Travel a new map along roads that you thought you knew, experiencing everything and nothing as each moment glides by. Explore their interstitial spaces, escaping invisible limits and paths too well travelled. Feel the colours, the beauty, the motion.

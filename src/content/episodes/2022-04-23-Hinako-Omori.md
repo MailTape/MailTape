@@ -17,31 +17,31 @@ pubDate: 2022-04-23
 track1:
   title: Colleen - Gazing at Taurus - Night Sky Rumba
   color: dreamy
-  link: https://sounds.mailta.pe/490/track1.mp3
+  link: https://df.mailta.pe/490/track1.mp3
 track2:
   title: Madalyn Merkey - Pallet Fork
   color: dreamy
-  link: https://sounds.mailta.pe/490/track2.mp3
+  link: https://df.mailta.pe/490/track2.mp3
 track3:
   title: Musette - Coucou Anne
   color: bliss
-  link: https://sounds.mailta.pe/490/track3.mp3
+  link: https://df.mailta.pe/490/track3.mp3
 track4:
   title: Hinako Omori - Ocean
   color: dreamy
-  link: https://sounds.mailta.pe/490/track4.mp3
+  link: https://df.mailta.pe/490/track4.mp3
 track5:
   title: OHYUNG - yes my weeping frame!
   color: dreamy
-  link: https://sounds.mailta.pe/490/track5.mp3
+  link: https://df.mailta.pe/490/track5.mp3
 track6:
   title: Del Stephen - Hoofbeats Echo
   color: dreamy
-  link: https://sounds.mailta.pe/490/track6.mp3
+  link: https://df.mailta.pe/490/track6.mp3
 track7:
   title: Healion - About Breathing
   color: trippy
-  link: https://sounds.mailta.pe/490/track7.mp3
+  link: https://df.mailta.pe/490/track7.mp3
 release: 490
 ---
 This morning, we're taking you into an atmosphere of balance, softness, and harmony. With our dear guest, [Hinako Omori](https://hinakoomori.bandcamp.com/album/a-journey), we curated meditative and restorative tracks to help you ease into the day with a refreshed view. Remember there's always blue sky waiting for you above the clouds.

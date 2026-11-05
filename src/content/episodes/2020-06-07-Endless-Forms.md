@@ -20,31 +20,31 @@ pubDate: 2020-06-07
 track1:
   title: Moses Sumney - Doomed
   color: dreamy
-  link: https://sounds.mailta.pe/409/track1.mp3
+  link: https://df.mailta.pe/409/track1.mp3
 track2:
   title: Arcade Fire - Haiti
   color: vibrant
-  link: https://sounds.mailta.pe/409/track2.mp3
+  link: https://df.mailta.pe/409/track2.mp3
 track3:
   title: "Sigur Rós - Untitled # 2 (Fyrsta)"
   color: rough
-  link: https://sounds.mailta.pe/409/track3.mp3
+  link: https://df.mailta.pe/409/track3.mp3
 track4:
   title: Endless Forms - Something Will Seduce Me
   color: vibrant
-  link: https://sounds.mailta.pe/409/track4.mp3
+  link: https://df.mailta.pe/409/track4.mp3
 track5:
   title: Christelle Bofale - U Ouchea
   color: dreamy
-  link: https://sounds.mailta.pe/409/track5.mp3
+  link: https://df.mailta.pe/409/track5.mp3
 track6:
   title: serpentwithfeet - A Comma
   color: bliss
-  link: https://sounds.mailta.pe/409/track6.mp3
+  link: https://df.mailta.pe/409/track6.mp3
 track7:
   title: Nina Simone - Feelings (Live 1976 Montreux Jazz Festival)
   color: vibrant
-  link: https://sounds.mailta.pe/409/track7.mp3
+  link: https://df.mailta.pe/409/track7.mp3
 release: 409
 ---
 We are so excited to welcome [Endless Forms](https://soundcloud.com/endlessforms) to select a Sunday morning playlist with us. 

@@ -17,31 +17,31 @@ pubDate: 2023-01-15
 track1:
   title: "Marlene Dietrich - I've Been in Love Before "
   color: dreamy
-  link: https://sounds.mailta.pe/513/track1.m4a
+  link: https://df.mailta.pe/513/track1.m4a
 track2:
   title: MIKAN MUKKU - Chin Dan
   color: trippy
-  link: https://sounds.mailta.pe/513/track2.mp3
+  link: https://df.mailta.pe/513/track2.mp3
 track3:
   title: Devon Rexi - Human Snax
   color: vibrant
-  link: https://sounds.mailta.pe/513/track3.mp3
+  link: https://df.mailta.pe/513/track3.mp3
 track4:
   title: Spread Joy - Repetition
   color: vibrant
-  link: https://sounds.mailta.pe/513/track4.mp3
+  link: https://df.mailta.pe/513/track4.mp3
 track5:
   title: Shira Small - My Life's Alright
   color: dreamy
-  link: https://sounds.mailta.pe/513/track5.m4a
+  link: https://df.mailta.pe/513/track5.m4a
 track6:
   title: Mandy, Indiana - Nike of Samothrace
   color: rough
-  link: https://sounds.mailta.pe/513/track6.mp3
+  link: https://df.mailta.pe/513/track6.mp3
 track7:
   title: Grotto Terrazza - Der Zaubergeselle
   color: trippy
-  link: https://sounds.mailta.pe/513/track7.mp3
+  link: https://df.mailta.pe/513/track7.mp3
 release: 513
 ---
  This morning, please welcome [Spread Joy](https://spreadjoy.bandcamp.com/) for an episode full of life. Post-punk band [Spread Joy](https://spreadjoy.bandcamp.com/) has released their second album in May last year and it is full of good energy. Fast-paced, rythmically changing songs that make you want to run or dance or jump or maybe all of it together? 

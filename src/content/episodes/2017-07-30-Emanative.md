@@ -15,31 +15,31 @@ pubDate: 2017-07-30
 track1:
   title: Maleem Mahmoud Ghania with Pharoah Sanders - Mahraba
   color: bliss
-  link: https://sounds.mailta.pe/271/track1.mp3
+  link: https://df.mailta.pe/271/track1.mp3
 track2:
   title: Sun Ra - Sleeping Beauty
   color: dreamy
-  link: https://sounds.mailta.pe/271/track2.mp3
+  link: https://df.mailta.pe/271/track2.mp3
 track3:
   title: Johnny Dyani Witchdoctor's Son - Magwaza
   color: trippy
-  link: https://sounds.mailta.pe/271/track3.mp3
+  link: https://df.mailta.pe/271/track3.mp3
 track4:
   title: Emanative - Ominous Shanti
   color: vibrant
-  link: https://sounds.mailta.pe/271/track4.mp3
+  link: https://df.mailta.pe/271/track4.mp3
 track5:
   title: Idris Ackamoor & The Pyramids - Rhapsody In Berlin (Part 1)
   color: bliss
-  link: https://sounds.mailta.pe/271/track5.mp3
+  link: https://df.mailta.pe/271/track5.mp3
 track6:
   title: Yazz Ahmed - Jamil Jamal
   color: vibrant
-  link: https://sounds.mailta.pe/271/track6.mp3
+  link: https://df.mailta.pe/271/track6.mp3
 track7:
   title: Burnt Sugar Arkestra - If There's A Hell Below
   color: trippy
-  link: https://sounds.mailta.pe/271/track7.mp3
+  link: https://df.mailta.pe/271/track7.mp3
 release: 271
 ---
 This morning long-time jazz wayfarer Nick Woodmansey's [Emanative](https://emanative.bandcamp.com/) picks his three tracks for MailTape, to start our day with a groove-laden selection of sounds.

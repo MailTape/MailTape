@@ -11,31 +11,31 @@ writer: ''
 track1:
   title: Willis Earl Beal - Coming Through (feat. Cat Power)
   color: vibrant
-  link: https://sounds.mailta.pe/131/track1.mp3
+  link: https://df.mailta.pe/131/track1.mp3
 track2:
   title: KID WISE - Hope
   color: vibrant
-  link: https://sounds.mailta.pe/131/track2.mp3
+  link: https://df.mailta.pe/131/track2.mp3
 track3:
   title: GLITCHES - RGB (VIMES Remix)
   color: vibrant
-  link: https://sounds.mailta.pe/131/track3.mp3
+  link: https://df.mailta.pe/131/track3.mp3
 track4:
   title: Georgio - A Tous les Coups
   color: vibrant
-  link: https://sounds.mailta.pe/131/track4.mp3
+  link: https://df.mailta.pe/131/track4.mp3
 track5:
   title: Flyte - We Are the Rain
   color: vibrant
-  link: https://sounds.mailta.pe/131/track5.mp3
+  link: https://df.mailta.pe/131/track5.mp3
 track6:
   title: Horse Feathers - Curs in the Weeds (oddlogic refix)
   color: vibrant
-  link: https://sounds.mailta.pe/131/track6.mp3
+  link: https://df.mailta.pe/131/track6.mp3
 track7:
   title: Yinyues - Zing Wezé Mama
   color: vibrant
-  link: https://sounds.mailta.pe/131/track7.mp3
+  link: https://df.mailta.pe/131/track7.mp3
 description: "This morning, discover a 100% MailTape Crew episode. The perfect occasion to celebrate the arrival of our two new curators : Julien and Dimitri. Spring is on its way, here's our vibrant hymn to help M..."
 image: /img/fbpic131.jpg
 musiColor: /img/musicolor131.png

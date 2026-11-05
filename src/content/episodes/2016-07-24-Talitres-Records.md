@@ -18,31 +18,31 @@ pubDate: 2016-07-24
 track1:
   title: Mark Kozelek & Jimmy Lavalle - By The Time That I Awoke
   color: dreamy
-  link: https://sounds.mailta.pe/226/track1.mp3
+  link: https://df.mailta.pe/226/track1.mp3
 track2:
   title: Sufjan Stevens - Should Have Known Better
   color: dreamy
-  link: https://sounds.mailta.pe/226/track2.mp3
+  link: https://df.mailta.pe/226/track2.mp3
 track3:
   title: Le Loup - Morning Song
   color: vibrant
-  link: https://sounds.mailta.pe/226/track3.mp3
+  link: https://df.mailta.pe/226/track3.mp3
 track4:
   title: Rachel Dadd - Strike Our Scythes
   color: vibrant
-  link: https://sounds.mailta.pe/226/track4.mp3
+  link: https://df.mailta.pe/226/track4.mp3
 track5:
   title: Julia Jacklin - Leadlight
   color: vibrant
-  link: https://sounds.mailta.pe/226/track5.mp3
+  link: https://df.mailta.pe/226/track5.mp3
 track6:
   title: Pain-Noir - L'arme
   color: vibrant
-  link: https://sounds.mailta.pe/226/track6.mp3
+  link: https://df.mailta.pe/226/track6.mp3
 track7:
   title: Will Samson - Pyrton Bells
   color: dreamy
-  link: https://sounds.mailta.pe/226/track7.mp3
+  link: https://df.mailta.pe/226/track7.mp3
 release: 226
 ---
 This morning, Mailtape presents a brand new kind of issues! Did you notice this "Records" thing in the title? We've decided to start inviting record labels every now and then! As you know, we aspire to discover new inspiring music every Sunday; with labels guests, we will be able to introduce you to an entire catalog each time! Hope you'll enjoy. 

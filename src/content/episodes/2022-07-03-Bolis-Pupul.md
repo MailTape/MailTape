@@ -18,31 +18,31 @@ pubDate: 2022-07-03
 track1:
   title: Beck - Devil's Haircut
   color: vibrant
-  link: https://sounds.mailta.pe/499/track1.mp3
+  link: https://df.mailta.pe/499/track1.mp3
 track2:
   title: Armando - Don't Take It
   color: trippy
-  link: https://sounds.mailta.pe/499/track2.mp3
+  link: https://df.mailta.pe/499/track2.mp3
 track3:
   title: Prince - Sign of the Times
   color: vibrant
-  link: https://sounds.mailta.pe/499/track3.mp3
+  link: https://df.mailta.pe/499/track3.mp3
 track4:
   title: Bolis Pupul - Neon Buddha
   color: trippy
-  link: https://sounds.mailta.pe/499/track4.mp3
+  link: https://df.mailta.pe/499/track4.mp3
 track5:
   title: Underground System - Desnuda
   color: vibrant
-  link: https://sounds.mailta.pe/499/track5.mp3
+  link: https://df.mailta.pe/499/track5.mp3
 track6:
   title: Charlotte Adigéry & Bolis Pupul - It Hit Me
   color: trippy
-  link: https://sounds.mailta.pe/499/track6.mp3
+  link: https://df.mailta.pe/499/track6.mp3
 track7:
   title: Walter Astral - L'eau
   color: vibrant
-  link: https://sounds.mailta.pe/499/track7.mp3
+  link: https://df.mailta.pe/499/track7.mp3
 release: 499
 ---
  This morning, we're overjoyed to welcome Bolis Pupul to MailTape. Based in Belgium, Bolis joins us after releasing his debut album with Charlotte Adigéry, Tropical Dancer. Blending house, rock, RnB, and techno, the duo uses their music as a vehicle to ignite conversations on heavier topics, particularly in their commentaries on racism, homophobia, and misogyny.

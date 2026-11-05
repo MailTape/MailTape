@@ -25,31 +25,31 @@ pubDate: 2020-11-15
 track1:
   title: Jill Scott - Show Me
   color: vibrant
-  link: https://sounds.mailta.pe/425/track1.mp3
+  link: https://df.mailta.pe/425/track1.mp3
 track2:
   title: Steve Reich - Electric Counterpoint III. Fast
   color: dreamy
-  link: https://sounds.mailta.pe/425/track2.mp3
+  link: https://df.mailta.pe/425/track2.mp3
 track3:
   title: Alfonzo Hunter - Just The Way (Remix)
   color: bliss
-  link: https://sounds.mailta.pe/425/track3.mp3
+  link: https://df.mailta.pe/425/track3.mp3
 track4:
   title: Sabrina Bellaouel - Nasser
   color: vibrant
-  link: https://sounds.mailta.pe/425/track4.mp3
+  link: https://df.mailta.pe/425/track4.mp3
 track5:
   title: Yak - Kaepora
   color: trippy
-  link: https://sounds.mailta.pe/425/track5.mp3
+  link: https://df.mailta.pe/425/track5.mp3
 track6:
   title: Soapkills - Cheftak
   color: vibrant
-  link: https://sounds.mailta.pe/425/track6.mp3
+  link: https://df.mailta.pe/425/track6.mp3
 track7:
   title: DJ Lycox - Red Lights
   color: bliss
-  link: https://sounds.mailta.pe/425/track7.mp3
+  link: https://df.mailta.pe/425/track7.mp3
 release: 425
 ---
  This morning, we are delighted to welcome Franco-Algerian singer and producer, [Sabrina Bellaouel](https://sabrinabellaouel.bandcamp.com/), to share a sensitive selection of her favorite Sunday morning tunes with us.

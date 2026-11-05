@@ -15,31 +15,31 @@ pubDate: 2017-10-01
 track1:
   title: "Corey Mwamba – Futurism #2"
   color: dreamy
-  link: https://sounds.mailta.pe/280/track1.mp3
+  link: https://df.mailta.pe/280/track1.mp3
 track2:
   title: Goat – New Games
   color: trippy
-  link: https://sounds.mailta.pe/280/track2.mp3
+  link: https://df.mailta.pe/280/track2.mp3
 track3:
   title: Trio Brasileiro & Anat Cohen - Anat's Lament
   color: dreamy
-  link: https://sounds.mailta.pe/280/track3.mp3
+  link: https://df.mailta.pe/280/track3.mp3
 track4:
   title: Julie Kjær – 3/1
   color: bliss
-  link: https://sounds.mailta.pe/280/track4.mp3
+  link: https://df.mailta.pe/280/track4.mp3
 track5:
   title: Trish Clowes – Chorale
   color: dreamy
-  link: https://sounds.mailta.pe/280/track5.mp3
+  link: https://df.mailta.pe/280/track5.mp3
 track6:
   title: Hear in Now – Last Night's Vacation
   color: bliss
-  link: https://sounds.mailta.pe/280/track6.mp3
+  link: https://df.mailta.pe/280/track6.mp3
 track7:
   title: Matana Roberts & Stefan Christoff – Duet for Abdelrazik
   color: dreamy
-  link: https://sounds.mailta.pe/280/track7.mp3
+  link: https://df.mailta.pe/280/track7.mp3
 release: 280
 ---
 This morning we welcome the infectious enthusiasm and unbridled energy of London-based multi-reed player, [Julie Kjær](https://juliekjaer.com/).

@@ -21,31 +21,31 @@ pubDate: 2020-04-12
 track1:
   title: Big Thief - Cattails
   color: bliss
-  link: https://sounds.mailta.pe/401/track1.mp3
+  link: https://df.mailta.pe/401/track1.mp3
 track2:
   title: Animal Collective - Banshee Beat
   color: trippy
-  link: https://sounds.mailta.pe/401/track2.mp3
+  link: https://df.mailta.pe/401/track2.mp3
 track3:
   title: Velvet Underground - Pale Blue Eyes
   color: dreamy
-  link: https://sounds.mailta.pe/401/track3.mp3
+  link: https://df.mailta.pe/401/track3.mp3
 track4:
   title: Postcards - Light Out
   color: vibrant
-  link: https://sounds.mailta.pe/401/track4.mp3
+  link: https://df.mailta.pe/401/track4.mp3
 track5:
   title: Maïa Vidal - Follow Me
   color: bliss
-  link: https://sounds.mailta.pe/401/track5.mp3
+  link: https://df.mailta.pe/401/track5.mp3
 track6:
   title: Safar - The Greatest Fear
   color: dreamy
-  link: https://sounds.mailta.pe/401/track6.mp3
+  link: https://df.mailta.pe/401/track6.mp3
 track7:
   title: Georgia Mulligan - So Long
   color: vibrant
-  link: https://sounds.mailta.pe/401/track7.mp3
+  link: https://df.mailta.pe/401/track7.mp3
 release: 401
 ---
 

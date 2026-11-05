@@ -16,31 +16,31 @@ pubDate: 2015-08-02
 track1:
   title: Floating Points - Myrtle Avenue
   color: rough
-  link: https://sounds.mailta.pe/197/track1.mp3
+  link: https://df.mailta.pe/197/track1.mp3
 track2:
   title: Shigeto - Ann Arbor Part 3 & 4
   color: trippy
-  link: https://sounds.mailta.pe/197/track2.m4a
+  link: https://df.mailta.pe/197/track2.m4a
 track3:
   title: Gold Panda - Reprise
   color: dreamy
-  link: https://sounds.mailta.pe/197/track3.mp3
+  link: https://df.mailta.pe/197/track3.mp3
 track4:
   title: Trashlagoon - Marouki Knows
   color: dreamy
-  link: https://sounds.mailta.pe/197/track4.mp3
+  link: https://df.mailta.pe/197/track4.mp3
 track5:
   title: Nicholas Larsen - Vibes
   color: vibrant
-  link: https://sounds.mailta.pe/197/track5.mp3
+  link: https://df.mailta.pe/197/track5.mp3
 track6:
   title: Blhaz - Wasted Time
   color: rough
-  link: https://sounds.mailta.pe/197/track6.mp3
+  link: https://df.mailta.pe/197/track6.mp3
 track7:
   title: Lone - Banyan Drive
   color: trippy
-  link: https://sounds.mailta.pe/197/track7.mp3
+  link: https://df.mailta.pe/197/track7.mp3
 release: 197
 ---
 
