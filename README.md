@@ -19,4 +19,4 @@ then
 
 # Build
 
-`bunx astro build`
+`bun astro build`
