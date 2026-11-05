@@ -4,7 +4,7 @@ pubDate: 2026-11-01
 release: 619
 guest_name: 'Swimming Vibes #1'
 guest_color: vibrant
-guestPic: /img/guestpic619.jpg
+guestPic: https://df.mailta.pe/img/guestpic619.jpg
 author: ImaCrea
 illustrator: Antoine Gaudin
 writer: ImaCrea
@@ -37,8 +37,8 @@ track7:
   color: bliss
   link: https://df.mailta.pe/619/track7.mp3
 description: This morning, we're experimenting with a new series centered around the concept of swimming. Whether it's in the sea, a swimming pool, or a river... swimming engages the body in a unique way. As we mo...
-image: /img/fbpic619.jpg
-musiColor: /img/musicolor619.png
+image: https://df.mailta.pe/img/fbpic619.jpg
+musiColor: https://df.mailta.pe/img/musicolor619.png
 alignY: ''
 ---
 
