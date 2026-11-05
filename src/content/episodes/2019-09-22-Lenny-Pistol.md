@@ -1,11 +1,11 @@
 ---
-bigTitle_font_ratio: "6"
 published: true
-author: Anaïs G
+pubDate: 2019-09-22
+release: 372
 guest_name: Lenny Pistol
 guest_color: dreamy
 guestPic: https://df.mailta.pe/img/guestpic372.jpg
-musiColor: https://df.mailta.pe/img/musicolor372.png
+author: Anaïs G
 illustrator: William Girault
 writer: Anaïs G
 image: https://df.mailta.pe/img/fbpic372.png
@@ -19,11 +19,11 @@ track1:
   color: dreamy
   link: https://df.mailta.pe/372/Track%201.mp3
 track2:
-  title: "Arthur - Woof Woof "
+  title: Arthur - Woof Woof
   color: trippy
   link: https://df.mailta.pe/372/Track%202.mp3
 track3:
-  title: Mac DeMarco - Freaking Out The Neighborhood  
+  title: Mac DeMarco - Freaking Out The Neighborhood
   color: bliss
   link: https://df.mailta.pe/372/Track3.mp3
 track4:
@@ -42,8 +42,13 @@ track7:
   title: Angelo De Augustine - I Could Be Wrong
   color: dreamy
   link: https://df.mailta.pe/372/Track7.mp3
-release: 372
+description: This morning, we are entering a lovely and floating retro Sunday vibe. Fondling in vitamin induced subtilties, this selection of tracks will pull you out of this morning’s hazy fog. [Lenny Pistol](htt...
+image: https://df.mailta.pe/img/fbpic372.png
+musiColor: https://df.mailta.pe/img/musicolor372.png
+alignY: ''
+bigTitle_font_ratio: '6'
 ---
+
 This morning, we are entering a lovely and floating retro Sunday vibe. Fondling in vitamin induced subtilties, this selection of tracks will pull you out of this morning’s hazy fog. [Lenny Pistol](https://www.facebook.com/LennyPistol/) will be your guide for this morning’s episode. 
 <br><br>
 His off-putting and nonchalant unique musical style melted with hints of  Lo-Fi pop sounds well defines this young Belgian artist. Whether you appreciate his personality or not,  his music will propel you out of time, remolding your day. 
@@ -76,4 +81,4 @@ _Anaïs G_: **"** The degree of sexiness of this song goes far beyond what we co
 _Anaïs G_: **"** It is quite by chance that I stumbled upon this song. d’Angelo De Augustine has a soft and melancholic voice. A minimalistic yet very intimate pop sound is what gives depth and sincerity to his music. As though, nothing ever really happens by chance ! **"** 
 
 
-That's it for this morning! As always thank you for listening. Much love and respect to [Lenny Pistol](https://www.facebook.com/LennyPistol/) for his selection, and to [William Girault](https://williamgirault.com/) for this gorgeous illustration. 
+That's it for this morning! As always thank you for listening. Much love and respect to [Lenny Pistol](https://www.facebook.com/LennyPistol/) for his selection, and to [William Girault](https://williamgirault.com/) for this gorgeous illustration.
