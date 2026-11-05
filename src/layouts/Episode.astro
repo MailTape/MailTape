@@ -1,6 +1,7 @@
 ---
 import type { CollectionEntry } from 'astro:content';
 import { SITE_BASE_URL } from '../consts';
+import { SITE_DF_URL } from '../consts';
 import EpHead from '../components/EpHead.astro';
 import TopBar from '../components/TopBar.astro';
 import Footer from '../components/Footer.astro';
@@ -52,7 +53,7 @@ track1_title={track1?.title} track2_title={track2?.title} track3_title={track3?.
     <TopBar />
 
     <img src=`${guestPic}` style="display:none;"/>
-    <div id="bigHeader" class="stretchMe notPlaying" data-stretch=`${guestPic}` data-stretchAlignY=`${alignY}` data-pagefind-meta=`image:${SITE_BASE_URL}${guestPic}` data-pagefind-meta=`image_alt:Episode ${ release } - ${ guest_name }`>
+    <div id="bigHeader" class="stretchMe notPlaying" data-stretch=`${SITE_DF_URL}${guestPic}` data-stretchAlignY=`${alignY}` data-pagefind-meta=`image:${SITE_DF_URL}${guestPic}` data-pagefind-meta=`image_alt:Episode ${ release } - ${ guest_name }`>
     
         <div class="container">
             <!-- desktop header -->
@@ -151,8 +152,8 @@ track1_title={track1?.title} track2_title={track2?.title} track3_title={track3?.
                         </a>
                     </li>
                 </ul>
-                <img src="/img/repeat.png" id="autoLoop">
-                <img src="/img/musicolor-mini-icon.png" id="musiColorMiniIcon" class="hidden-xs hidden-sm"  data-toggle="tooltip" data-placement="top" title="To each mood, a color. Show MusiColors and learn them :)">
+                <img src=`${SITE_DF_URL}/img/repeat.png` id="autoLoop">
+                <img src=`${SITE_DF_URL}/img/musicolor-mini-icon.png` id="musiColorMiniIcon" class="hidden-xs hidden-sm"  data-toggle="tooltip" data-placement="top" title="To each mood, a color. Show MusiColors and learn them :)">
             </div>
         </div>
     </div>
@@ -238,9 +239,9 @@ track1_title={track1?.title} track2_title={track2?.title} track3_title={track3?.
         <div id="similarEpisodes" class="d-flex flex-column flex-md-row" data-pagefind-ignore> 
             { similarEpisodes.map((similarEpisode) =>
                 <div class="col-lg-4 similarEpisode" > 
-                    <a href=`/${slugEp(similarEpisode)}` class="stretchMe" data-stretch=`${similarEpisode.data.guestPic}`>
+                    <a href=`/${slugEp(similarEpisode)}` class="stretchMe" data-stretch=`${SITE_DF_URL}${similarEpisode.data.guestPic}`>
                         <h2>{ similarEpisode.data.guest_name }</h2>
-                        <img src=`${similarEpisode.data.musiColor}` class="img-fluid re-musiColor"/>
+                        <img src=`${SITE_DF_URL}${similarEpisode.data.musiColor}` class="img-fluid re-musiColor"/>
                     </a>
                 </div>
             )}

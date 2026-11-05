@@ -1,6 +1,7 @@
 ---
 import Tracklist from './Tracklist.astro';
 import { SITE_BASE_URL } from '../consts';
+import { SITE_DF_URL } from '../consts';
 
 interface Props {
 	  guest_name: string;
@@ -45,7 +46,7 @@ const tracks_title=[track1_title,track2_title,track3_title,track4_title,track5_t
   <meta property="og:title" content=`MailTape ${ release }  - ${guest_name}` />
   <meta property="og:type" content="article" />
   <meta property="og:url" content={ episodeURL } />
-  <meta property="og:image" content={new URL(image, SITE_BASE_URL).href} />
+  <meta property="og:image" content={new URL(image, SITE_DF_URL).href} />
   <meta property="og:description" content={ description } />
   <meta property="og:site_name" content="MailTape" />
 

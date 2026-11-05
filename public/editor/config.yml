@@ -14,14 +14,14 @@ media_libraries:
     region: garage
     access_key_id: GK1e0c8b3ccc1d62df7e9c3a22
     public_url: https://df.mailta.pe
-    bucket: sounds.mailta.pe
+    bucket: df.mailta.pe
   stock_assets:
     providers: []
 
 site_url: https://www.mailta.pe
 logout_redirect_url: https://www.mailta.pe
 logo:
-  src: /img/logo_mailtape_static.png
+  src: https://df.mailta.pe/logo_mailtape_static.png
   show_in_header: true
 app_title: MailTape Editor
 
@@ -95,15 +95,24 @@ collections:
       - { label: "Guest", preview: false, name: "guest_name", widget: "string" }
       - { label: "Guest Color", preview: false, required: false, name: "guest_color", widget: "select", options: ["bliss","dreamy","rough", "trippy", "vibrant"], hint: "This is the color which highlights the episode on homepage"}
       - label: "Guest Pic"
+        name: guestPic
         preview: false
         required: false
-        name: "guestPic"
         widget: "image"
+        accept: image/jpeg,.jpg,.jpeg,image/png,.png,image/webp,.webp
+        choose_url: false
         media_libraries:
-            all:
-              max_file_size: 1024000
-              filename_template: guestpic{{release}}
-            aws_s3: false
+          default: false
+          aws_s3: 
+            endpoint: https://garage.deuxfleurs.fr
+            region: garage
+            access_key_id: GK1e0c8b3ccc1d62df7e9c3a22
+            public_url: https://df.mailta.pe
+            bucket: df.mailta.pe
+            prefix: img/
+          all:
+            max_file_size: 1024000
+            filename_template: guestpic{{release}}
       - { label: "Curator", preview: false, name: "author", widget: "select", options: ["Anaïs G","Aloyse","Anto","Jules","ImaCrea","Inès","Ling","Sarah","Théo"] }
       - { label: "Illustrator", preview: false, required: false, name: "illustrator", widget: "select", options: ["Anthony Dujardin","Antoine Gaudin","Babi Brunelio","Camille Célestin","Camille Lemeunier","Jan Henrik","Julie Wojtczak","Lucie Fléty","Marie Alléguède","Meriam Kharbat","Nella Papelita","Noémie Dijon", "Patricia Barros De Miranda","Pierre-Julien Fieux","Thibault Daumain"] }
       - { label: "Writer", preview: false, required: false, name: "writer", widget: "select", options:  ["Anaïs G","Aloyse","Anto","Jules","ImaCrea","Inès","Ling","PS KY","Sarah","Théo"]  }
@@ -129,8 +138,15 @@ collections:
             name: link
             widget: file
             accept: audio/mpeg,.mp3
+            choose_url: false
             media_libraries:
               default: false
+              aws_s3: 
+                endpoint: https://garage.deuxfleurs.fr
+                region: garage
+                access_key_id: GK1e0c8b3ccc1d62df7e9c3a22
+                public_url: https://df.mailta.pe
+                bucket: df.mailta.pe
               all:
                 filename_template: track1
       - label: "Track 2"

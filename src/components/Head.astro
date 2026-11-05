@@ -1,6 +1,9 @@
 ---
 import { string } from 'astro:schema';
 
+import { SITE_DF_URL } from '../consts';
+
+
 // new general header component
 
 interface Props {
@@ -25,7 +28,7 @@ const {
     <meta property="og:title" content=`${title}` />
     <meta property="og:type" content="article" />
     <meta property="og:url" content=`${ogUrl}` />
-    <meta property="og:image" content="https://www.mailta.pe/img/logo_mailtape_static.png" />
+    <meta property="og:image" content=`${SITE_DF_URL}/img/logo_mailtape_static.png` />
     <meta property="og:description" content=`${description}` />
     <meta property="og:site_name" content="MailTape" />
   
@@ -88,8 +91,5 @@ const {
     </script>
     <noscript><p><img src="//mato.mailta.pe/matomo.php?idsite=2&amp;rec=1" style="border:0;" alt="" /></p></noscript>
     <!-- End Matomo Code -->
-
-    <!-- Netlify identity package, needed for DecapCMS --> 
-    <script is:inline src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 </head>

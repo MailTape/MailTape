@@ -54,9 +54,9 @@ $(document).ready(
 
 		/* Teaser image swap function */
 	    $("#logoLink").on("hover",function () {
-	        $("#logo").src = '/img/logo_mailtape.gif';
+	        $("#logo").src = 'https://df.mailta.pe/img/logo_mailtape.gif';
 	    }, function () {
-	        $("#logo").src = '/img/logo_mailtape.png';
+	        $("#logo").src = 'https://df.mailta.pe/img/logo_mailtape.png';
 	    });
 
 
