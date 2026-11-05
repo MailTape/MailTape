@@ -1,14 +1,13 @@
 ---
 published: true
 pubDate: 2024-12-08
+release: 569
 guest_name: Polygonia
 guest_color: dreamy
 guestPic: https://df.mailta.pe/img/guestpic569.jpg
 author: Sarah
 illustrator: Noémie Dijon
 writer: Sarah
-image: https://df.mailta.pe""
-musiColor: https://df.mailta.pe/img/musicolor569.png
 track1:
   title: SALOMEA - Truth Is Queen, Kindness Is King
   color: dreamy
@@ -37,8 +36,12 @@ track7:
   title: Polygonia - Inhaler
   color: dreamy
   link: https://df.mailta.pe/569/track7.mp3
-release: 569
+description: Polygonia joins us for Episode 569, gifting MailTape some immersive textures for Sunday listening :) Headed by multi-disciplinary artist Lindsey Wang, Polygonia's releases tread seamlessly between eth...
+image: https://df.mailta.pe/img/guestpic569.jpg
+musiColor: https://df.mailta.pe/img/musicolor569.png
+alignY: ''
 ---
+
 Polygonia joins us for Episode 569, gifting MailTape some immersive textures for Sunday listening :) Headed by multi-disciplinary artist Lindsey Wang, Polygonia's releases tread seamlessly between ethereal ambient and deep techno. The Munich-based artist joins us following the release of her latest album, [Dermatology](https://rrose.bandcamp.com/album/dermatology).
 
 # Polygonia's selection
