@@ -5,8 +5,8 @@ backend:
   repo: MailTape/MailTape
   branch: main
 
-media_folder: "public/img" # Location where files will be stored in the repo
-public_folder: "/img" # The src attribute for uploaded media
+# media_folder: "public/img" # Location where files will be stored in the repo
+# public_folder: "/img" # The src attribute for uploaded media
 
 media_libraries:
   aws_s3: 
@@ -22,7 +22,7 @@ media_libraries:
 site_url: https://www.mailta.pe
 logout_redirect_url: https://www.mailta.pe
 logo:
-  src: https://df.mailta.pe/logo_mailtape_static.png
+  src: https://df.mailta.pe/img/logo_mailtape_static.png
   show_in_header: true
 app_title: MailTape Editor
 

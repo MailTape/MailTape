@@ -12,7 +12,7 @@ description: This morning, the voice of women is resounding, it is growing and
   is fighting against multiple inequalities... Whether gentle or strong, frail
   or assertive, there must be no differences. Our guest this Sunday to this need
   to defend his values.
-image: https://df.mailta.pefbpic361.png
+image: https://df.mailta.pe/img/fbpic361.png
 pubDate: 2019-06-09
 track1:
   title: " Nick Cave And The Bad Seeds - Red Right Hand "

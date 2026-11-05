@@ -8,7 +8,7 @@ guestPic: https://df.mailta.pe/img/guestpic372.jpg
 musiColor: https://df.mailta.pe/img/musicolor372.png
 illustrator: William Girault
 writer: Anaïs G
-image: https://df.mailta.pehttp://mailta.pe/img/fbpic372.png
+image: https://df.mailta.pe/img/fbpic372.png
 description: This morning, we are entering a lovely and floating retro Sunday
   vibe. Fondling in vitamin induced subtilties, this selection of tracks will
   pull you out of this morning’s hazy fog. Lenny Pistol will be your guide for
