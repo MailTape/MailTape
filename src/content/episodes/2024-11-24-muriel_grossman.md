@@ -1,31 +1,13 @@
 ---
 published: true
 pubDate: 2024-11-24
+release: 567
 guest_name: Muriel Grossman
 guest_color: bliss
 guestPic: https://df.mailta.pe/img/567_murielgrossmann.jpg
 author: Anto
 illustrator: Camille Célestin
 writer: Anto
-description: >-
-  This morning we're playing jazz! And to be more precise, we offer you
-
-  a journey around the saxophone, this instrument whose vibration is
-
-  unique, sometimes mystical and often the source of a certain
-
-  enchantment. If you're not familiar, we found the perfect guide for
-
-  you: Muriel Grossman. She is a specialist in the domain, and she’s
-
-  about to release a highly anticipated new album.
-
-
-  Accompanied by her quartet, Muriel explores the world of spiritual jazz and
-  offers a sixteenth album, the result of slow maturation, resolutely full of a
-  joy that she enjoys sharing wherever she has the pleasure to play. 
-image: https://df.mailta.pe/img/fbpic567.jpg
-musiColor: https://df.mailta.pe/img/musicolor567.png
 track1:
   title: Dexter Gordon - Ca'Purange
   color: vibrant
@@ -47,15 +29,23 @@ track5:
   color: trippy
   link: https://df.mailta.pe/567/track5.mp3
 track6:
-  title: "Nubya Garcia - A Shade Of Jade "
+  title: Nubya Garcia - A Shade Of Jade
   color: bliss
   link: https://df.mailta.pe/567/track6.mp3
 track7:
   title: Manu Dibango - Frozen Soul
   color: vibrant
   link: https://df.mailta.pe/567/track7.mp3
-release: 567
+description: |-
+  This morning we're playing jazz! And to be more precise, we offer you
+  a journey around the saxophone, this instrument whose vibration is
+  unique, sometimes mystical and often the source of a certain
+  en...
+image: https://df.mailta.pe/img/567_murielgrossmann.jpg
+musiColor: https://df.mailta.pe/img/musicolor567.png
+alignY: ''
 ---
+
 This morning we're playing jazz! And to be more precise, we offer you
 a journey around the saxophone, this instrument whose vibration is
 unique, sometimes mystical and often the source of a certain
