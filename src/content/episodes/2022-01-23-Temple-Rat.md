@@ -1,16 +1,13 @@
 ---
-bigTitle_font_ratio: "6"
 published: true
+pubDate: 2022-01-23
+release: 478
 guest_name: Temple Rat
 guest_color: bliss
-description: This morning, we cast away the misty, chilly air for a moment, and
-  step inside the warm greenery that’s filled by a nostalgic sunbeam.
+guestPic: https://df.mailta.pe/img/guestpic478.jpg
 author: Ling
 illustrator: Meriam Kharbat
 writer: Ling
-guestPic: https://df.mailta.pe/img/guestpic478.jpg
-musiColor: https://df.mailta.pe/img/""
-pubDate: 2022-01-23
 track1:
   title: Chromatics - In The City
   color: dreamy
@@ -39,8 +36,13 @@ track7:
   title: Kaishandao - To the East Coast
   color: bliss
   link: https://df.mailta.pe/478/track7.mp3
-release: 478
+description: This morning, we wake up with some grooves with Temple Rat. Mei, who started producing and performing music under her moniker Temple Rat in 2015, grew up near the vibrant megacity of Chengdu. At the a...
+image: https://df.mailta.pe/img/fbpic478.png
+musiColor: https://df.mailta.pe/img/musicolor478.png
+alignY: ''
+bigTitle_font_ratio: '6'
 ---
+
  This morning, we wake up with some grooves with [Temple Rat](https://www.instagram.com/meiyuxinmay).
 <br><br>
 Mei, who started producing and performing music under her moniker Temple Rat in 2015, grew up near the vibrant megacity of Chengdu. At the age of 9, she began to learn the traditional Chinese Erhu, a mysterious two-stringed folk instrument made from carved wood and snakeskin, played with a bow. Through her years in Chengdu Mei was inspired by her passion for the city’s hyped underground electronic music scene and eventually started to fuse traditional Chinese folk music with minimalistic techno tunes.

@@ -15,8 +15,8 @@ MT Crew
 
 then
 
-`bunx --bun astro dev`
+`bun astro dev`
 
 # Build
 
-`bunx --bun astro build`
+`bun astro build`
