@@ -23,6 +23,9 @@ jobs:
 
       - name: Setup bun
         uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+          cache: true
 
       - name: Cache bun dependencies
         uses: actions/cache@v6
@@ -56,6 +59,9 @@ jobs:
 
       - name: Setup bun
         uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+          cache: true
 
       - name: Deploy with dxfl
         env:
